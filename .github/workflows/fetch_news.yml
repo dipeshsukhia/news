@@ -1,0 +1,43 @@
+name: Fetch Data and Commit
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  push:
+    branches:
+      - main
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+            path: news
+
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+            python-version: '3.8'
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip requests
+
+      - name: Run Python script
+        run:
+            cd news && python py-script/fetch_news.py ${{ secrets.News_API_KEY }}
+
+      - name: Configure Git
+        run: |
+          cd  news
+          git config --local user.email "actions@github.com"  # Replace with your email
+          git config --local user.name "github action"          # Replace with your name
+
+      - name: Commit changes
+        run: |   
+          cd  news 
+          git add *
+          git commit -m "Update news data [skip ci]" || true
+          git push -f origin main

@@ -1,32 +1,526 @@
 {
     "status": "ok",
-    "totalResults": 65,
+    "totalResults": 63,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jonathan Vanian",
+            "title": "Elon Musk’s X illegally fired employee who publicly challenged return-to-work plans, NLRB alleges - CNBC",
+            "description": "The National Labor Relations Board filed a complaint on Friday against Elon Musk's X, claiming the company violated the National Labor Relations Act.",
+            "url": "https://www.cnbc.com/2023/10/13/elon-musks-x-illegally-fired-employee-who-challenged-rto-plans-nlrb-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107302139-1695035328563-gettyimages-1672487703-AA_18092023_1346375.jpeg?v=1697238433&w=1920&h=1080",
+            "publishedAt": "2023-10-13T23:07:13Z",
+            "content": "Elon Musk's X broke the law in firing an employee who criticized management's return-to-work policy, the National Labor Relations Board alleged, in its first formal complaint against the company form… [+2675 chars]"
+        },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Khushi Mandowara",
-            "title": "US FDA approves Pfizer's inflammatory bowel disease drug - Reuters",
-            "description": "The U.S. Food and Drug Administration has approved Pfizer's <a href=\"https://www.reuters.com/markets/companies/PFE.N\" target=\"_blank\">(PFE.N)</a> drug to treat adults with an inflammatory bowel disease called ulcerative colitis, the company said on Friday.",
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-pfizers-inflammatory-bowel-disease-drug-2023-10-13/",
-            "urlToImage": "https://www.reuters.com/resizer/akUY2PiQ1AAMz0KzuYQ4Pb3buIY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PIBD45TMGVMSRFQMLNTH3T57ZE.jpg",
-            "publishedAt": "2023-10-13T16:33:00Z",
-            "content": "Oct 13 (Reuters) - The U.S. Food and Drug Administration has approved Pfizer's (PFE.N) drug to treat adults with an inflammatory bowel disease called ulcerative colitis, the company said on Friday.\r\n… [+1673 chars]"
+            "author": "Sinéad Carew, Shashwat Chauhan, Ankika Biswas",
+            "title": "S&P 500, Nasdaq fall with data, geopolitics offsets strong results - Reuters",
+            "description": "The S&P 500 and the Nasdaq closed lower on Friday as deteriorating consumer sentiment data and the Middle East conflict soured investors on riskier bets and overshadowed upbeat quarterly earnings from some of the largest U.S. banks.",
+            "url": "https://www.reuters.com/markets/us/futures-edge-lower-ahead-big-bank-earnings-2023-10-13/",
+            "urlToImage": "https://www.reuters.com/resizer/j-M04ZX-uO9Do9uZHsABX0oBAt8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DXNMEBQ2W5IXFKBTVDSSIRJT4Q.jpg",
+            "publishedAt": "2023-10-13T23:00:00Z",
+            "content": "Oct 13 (Reuters) - The S&amp;P 500 and the Nasdaq closed lower on Friday as deteriorating consumer sentiment data and the Middle East conflict soured investors on riskier bets and overshadowed upbeat… [+4020 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Julie Coleman",
+            "title": "Cramer's week ahead: Keep an eye on banks as earnings season kicks off - CNBC",
+            "description": "CNBC's Jim Cramer on Friday told investors what to look out for next week, with numerous major names reporting earnings.",
+            "url": "https://www.cnbc.com/2023/10/13/cramers-week-ahead-keep-an-eye-on-banks-as-earnings-season-kicks-off.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106349607-1579721279110img_3326r.jpg?v=1697235711&w=1920&h=1080",
+            "publishedAt": "2023-10-13T22:21:51Z",
+            "content": "CNBC's Jim Cramer on Friday told investors what to look out for in the coming week as earnings season kicks off. He said news about the Israel-Hamas war is likely to eclipse much of next week, but he… [+1964 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "UAW strike against Detroit automakers has entered 'new phase,' union boss says - Fox Business",
+            "description": "The United Auto Workers strike against Ford, General Motors and Stellantis could escalate at any time rather than on a weekly basis, the union's president said Friday.",
+            "url": "https://www.foxbusiness.com/economy/uaw-strike-detroit-automakers-new-phase-union-boss",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/uaw-fain.jpg?ve=1&tl=1",
+            "publishedAt": "2023-10-13T22:08:54Z",
+            "content": "The United Auto Workers strike against Ford, General Motors and Stellantis has entered a \"new phase\" as it hits its one-month point, the union's top leader said Friday.\r\nDuring his weekly address to … [+2634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jacob Pramuk",
+            "title": "Pfizer slashes full-year earnings and revenue guidance as Covid treatment, vaccine sales slump - CNBC",
+            "description": "Pfizer said it anticipates sales of its Covid treatment Paxlovid and its vaccine will be $9 billion less than it had expected.",
+            "url": "https://www.cnbc.com/2023/10/13/pfizer-cuts-earnings-revenue-guidance-as-covid-sales-slump.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106999263-1641855626749-bour.jpg?v=1697233638&w=1920&h=1080",
+            "publishedAt": "2023-10-13T21:47:18Z",
+            "content": "Pfizer slashed its full-year earnings and revenue guidance on Friday, as it said demand for its Covid products has waned.\r\nThe company now expects 2023 sales of $58 billion to $61 billion, down from … [+1061 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Lyllah Ledesma, Jesse Hamilton",
+            "title": "SEC Won’t Appeal Loss in Grayscale Case, Boosting the Odds GBTC Can Become a Bitcoin ETF - CoinDesk",
+            "description": "Bitcoin’s price immediately shot up after the news came out.",
+            "url": "https://www.coindesk.com/policy/2023/10/13/sec-reportedly-decides-not-to-appeal-its-bitcoin-etf-court-loss-against-grayscale/",
+            "urlToImage": "https://www.coindesk.com/resizer/czj0IaNCVS8IKHjSHsZy8fiQXlE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/36VE2YYH4ZHF7C4JOMMWCFTEXY.jpg",
+            "publishedAt": "2023-10-13T21:07:00Z",
+            "content": "<ul><li>The SEC was rebuked by a court in August for how it rejected Grayscales application to turn its bitcoin (BTC) trust into an ETF.\r\n</li><li>The regulator wont appeal that loss, a person famili… [+2768 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Stephen Gandel",
+            "title": "Citi profits edge higher despite worries over consumer finances - Financial Times",
+            "description": "US bank defies expectations with 2% increase in net income",
+            "url": "https://www.ft.com/content/1d847027-d6d5-4a22-88b5-85eefb23a23b",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F475ee3cb-dbe2-46da-b99f-28427287f34e.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-10-13T20:59:49Z",
+            "content": "Citigroup profits edged higher in the third quarter, even as chief executive Jane Fraser sounded the alarm about faltering consumer finances.\r\nThe bank reported a 2 per cent rise in net income to $3.… [+2192 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ramishah Maruf",
+            "title": "Ford recalls more than 230,000 Explorers for rollaway risk - CNN",
+            "description": "Ford is recalling certain models of the 2020-2022 Explorer due to a rollaway risk if the parking brake isn’t applied.",
+            "url": "https://www.cnn.com/2023/10/13/business/ford-explorer-recall/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231013160534-2020-ford-explorer-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-13T20:36:00Z",
+            "content": "Ford is recalling certain models of the 2020-2022 Explorer due to a rollawayrisk if the parking brake isnt applied. \r\nThere are 238,364 impacted vehicles in the recall, the National Highway Traffic S… [+899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Mario Cortez",
+            "title": "Media Noche closing in SF after 6 years of cubano sandwiches - San Francisco Chronicle",
+            "description": "San Francisco cubano restaurant Media Noche is closing after six years in the Mission.",
+            "url": "https://www.sfchronicle.com/food/restaurants/article/media-noche-closing-18424806.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/34/65/53/24337130/3/rawImage.jpg",
+            "publishedAt": "2023-10-13T20:33:13Z",
+            "content": "A casual stop for Cuban sandwiches and drinks in the Mission is closing after more than six years. Media Noche, at 3465 19th St., announced its final day in business will be Oct. 28 via a message on … [+1508 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tom Hals",
+            "title": "Tesla fights $230 million fee sought by attorneys who sued over board pay - Reuters",
+            "description": "Tesla Inc urged a Delaware judge on Friday to reject $230 million in legal fees requested by a team of shareholder attorneys who won a settlement in a dispute over director pay, and the company recommended a fee of $64 million instead.",
+            "url": "https://www.reuters.com/legal/tesla-fights-230-mln-fee-sought-by-attorneys-who-sued-over-board-pay-2023-10-13/",
+            "urlToImage": "https://www.reuters.com/resizer/UHDCd6DIygnDWryEEp1t1yCyDhY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SETBSDAPVOOPFRI4R5MZO5NSQ.jpg",
+            "publishedAt": "2023-10-13T20:30:00Z",
+            "content": "WILMINGTON, Delaware, Oct 13 (Reuters) - Tesla Inc urged a Delaware judge on Friday to reject $230 million in legal fees requested by a team of shareholder attorneys who won a settlement in a dispute… [+3525 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Rita Nazareth",
+            "title": "Wall Street Seeks Safety Amid Geopolitical Angst: Markets Wrap - Yahoo Finance",
+            "description": "(Bloomberg) -- Stocks fell and bonds rose as signs Israel is preparing for a ground invasion of Gaza left traders looking for safety ahead of the weekend...",
+            "url": "https://finance.yahoo.com/news/asia-stocks-face-headwinds-soaring-220147446.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Xe5haRr621MFEcBaSqBhVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bloomberg_markets_842/2abc5ab05b764dab7e345778f25bd8dd",
+            "publishedAt": "2023-10-13T20:01:03Z",
+            "content": "(Bloomberg) -- Stocks fell and bonds rose as signs Israel is preparing for a ground invasion of Gaza left traders looking for safety ahead of the weekend. Gold surged the most since March. Oil rallie… [+4852 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ashley Stewart, Eugene Kim",
+            "title": "Strange Amazon Job Posting Suggests the Company Is Fishing for Cybersecurity Hires - Business Insider",
+            "description": "Amazon's possible \"opportunistic\" hiring strategy was revealed in an accidental, now-deleted job listing.",
+            "url": "https://www.businessinsider.com/amazon-job-posting-cybersecurity-hiring-2023-10",
+            "urlToImage": "https://i.insider.com/65298a8b55f52b01b35f5c19?width=1200&format=jpeg",
+            "publishedAt": "2023-10-13T19:48:00Z",
+            "content": "Amazon accidentally published a job posting for a director of security engineering for something called \"Project Panda\" with a strange description indicating the listing would be used to find \"opport… [+2814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "Ben Eisen, David Benoit, Gina Heeb",
-            "title": "JPMorgan Profit Jumps as Dimon Warns of 'Most Dangerous Time the World Has Seen in Decades' - WSJ - The Wall Street Journal",
-            "description": "JPMorgan, Wells Fargo and Citigroup beat expectations. ‘I do think we’re likely to land things in a softer way’",
-            "url": "https://www.wsj.com/finance/banking/jpmorganchase-jpm-q3-earnings-report-2023-db587ef",
-            "urlToImage": "https://images.wsj.net/im-867764/social",
-            "publishedAt": "2023-10-13T16:06:00Z",
+            "author": "Nidhi Subbaraman, Joseph Walker",
+            "title": "Cassava Sciences Adviser Found to Have Committed 'Egregious Misconduct' - The Wall Street Journal",
+            "description": "Scientist, who is a City University of New York professor, didn’t provide school investigators with data or records supporting his research",
+            "url": "https://www.wsj.com/health/healthcare/alzheimers-researcher-found-to-have-committed-misconduct-49d6428d",
+            "urlToImage": "https://images.wsj.net/im-868425/social",
+            "publishedAt": "2023-10-13T19:29:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Detroit Free Press",
+            "title": "DTE apologizes, will no longer automatically enroll customers in paperless billing - Detroit Free Press",
+            "description": null,
+            "url": "https://www.freep.com/story/news/local/michigan/2023/10/13/dte-no-longer-automatically-enrolling-customers-in-paperless-billing/71171600007/",
+            "urlToImage": null,
+            "publishedAt": "2023-10-13T19:25:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Nicole Norfleet, Star Tribune",
+            "title": "DVD, Blu-ray heading toward obsolete as Best Buy to stop selling movies next year - Star Tribune",
+            "description": "After the holidays, Best Buy customers won't be able to find DVDs and Blu-rays on the retailer's shelves or online.",
+            "url": "https://www.startribune.com/best-buy-to-stop-selling-movies-dvd-blu-ray-next-year-cd-video-games-streaming/600312036/",
+            "urlToImage": "https://chorus.stimg.co/25000331/merlin_52447108.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+            "publishedAt": "2023-10-13T19:25:07Z",
+            "content": "Movie watchers have until this holiday season to grab all the DVDs and Blu-ray movies they can from Best Buy before the electronics retailer pulls physical movies from the shelves for good.\r\nThe Rich… [+2315 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "Bankman-Fried didn’t believe in rules like “don’t steal,” star witness says - Ars Technica",
+            "description": "Highlights from Caroline Ellison testimony in Sam Bankman-Fried's criminal trial.",
+            "url": "https://arstechnica.com/tech-policy/2023/10/sbfs-dream-of-being-us-president-and-other-weird-anecdotes-from-ftx-trial/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-sbf-1-760x380.jpg",
+            "publishedAt": "2023-10-13T19:24:12Z",
+            "content": "Enlarge/ Former FTX CEO Sam Bankman-Fried arrives for a bail hearing at US District Court on August 11, 2023, in New York City.\r\n119 with \r\nOver three days of testimony in Sam Bankman-Fried's crimina… [+3307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annika Kim Constantino",
+            "title": "Pharmacy staff from Walgreens, other chains could stage nationwide walkout and rallies in coming weeks - CNBC",
+            "description": "The plans come after separate walkouts staged by pharmacy staff from CVS stores in the Kansas City area and Walgreens locations around the country.",
+            "url": "https://www.cnbc.com/2023/10/13/walgreens-pharmacy-staff-could-stage-nationwide-walkout.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107206498-1678454270913-gettyimages-1472409492-walgreenswouldnotdispenseanabortionpillin21states012.jpeg?v=1697223210&w=1920&h=1080",
+            "publishedAt": "2023-10-13T18:53:30Z",
+            "content": "Pharmacy staff from Walgreens are laying the groundwork for a nationwide walkout and multiple rallies at the end of October to protest unsatisfactory working conditions, and are in talks with employe… [+9742 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ForexLive"
+            },
+            "author": "Adam Button",
+            "title": "The intensity of these geopolitical moves certainly raise eyebrows - ForexLive",
+            "description": "It's not often you see gold up $60, oil up $4, bonds bid and equities beaten up. Generally when it happens, it comes with something geopolitical that was unexpected.",
+            "url": "https://www.forexlive.com/news/the-intensity-of-these-geopolitical-moves-certainly-raise-eyebrows-20231013/",
+            "urlToImage": "https://images.forexlive.com/images/Israel%20tank_id_8078fb36-b173-4ebe-8c1f-7ae7bc598e55_size975.jpg",
+            "publishedAt": "2023-10-13T18:13:00Z",
+            "content": "It's not often you see gold up $60, oil up $4, bonds bid and equities beaten up. Generally when it happens, it comes with something geopolitical that was unexpected.\r\nThat kind of move made sense Mon… [+1728 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Angelica Leicht",
+            "title": "12 short-term CDs with the highest rates - CBS News",
+            "description": "Right now, many short-term CDs are offering top-notch APYs on your money, so it's a great time to open one.",
+            "url": "https://www.cbsnews.com/news/short-term-cds-with-the-highest-rates/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/13/389abd87-8b56-47e8-876b-644414773680/thumbnail/1200x630/bf195a4dfbebb4e12244de47d07d1684/gettyimages-1416005842.jpg?v=a6a127b4a243923dd1e2140b75f2a43c",
+            "publishedAt": "2023-10-13T17:55:44Z",
+            "content": "Don't miss out on the substantial returns you could earn with a short-term CD.\r\nBOY_ANUPONG/Getty Images\r\nWhen it comes to safely maximizing the returns on your savings, you typically have two good o… [+4383 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Joseph Adinolfi",
+            "title": "Here is what needs to happen for the S&P 500 to hold on to this year's gains - MarketWatch",
+            "description": "The S&P 500 index has risen nearly 13% since the start of 2023, but stocks gave back some earlier gains in August and September, shaking the faith of many...",
+            "url": "https://www.marketwatch.com/story/here-is-what-needs-to-happen-for-the-s-p-500-to-hold-on-to-this-years-gains-895a4582",
+            "urlToImage": "https://images.mktw.net/im-575631/social",
+            "publishedAt": "2023-10-13T17:50:00Z",
+            "content": "The S&amp;P 500 index has risen nearly 13% since the start of 2023, but stocks gave back some earlier gains in August and September, shaking the faith of many bullish investors who are now keeping a … [+1909 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Anuz Thapa",
+            "title": "Quiet cutting: How power in U.S. offices may be shifting back to bosses - CNBC",
+            "description": "Fears of a looming recession have led to a new trend taking over the American workplace and could be shifting the balance of power from workers back to bosses.",
+            "url": "https://www.cnbc.com/2023/10/13/quiet-cutting-power-balance-in-offices-may-be-shifting-back-to-bosses.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316346-1697137341133-231004-quiet-cutting-thumbnail-BG-center.png?v=1697218156&w=1920&h=1080",
+            "publishedAt": "2023-10-13T17:29:16Z",
+            "content": "In the American workplace of 2023, a new labor market trend has taken over where \"quiet quitting\" left off.\r\nQuiet cutting.\r\n\"Quiet cutting is what some people consider a subcategory of quiet firing,… [+1071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Alex Konrad",
+            "title": "Israel Founders Struggle To Balance Startups And Military Service - Forbes",
+            "description": "For bigger tech companies, Israel’s mass mobilization has proven a manageable hiccup in business as usual. For smaller ones, it can pose an existential challenge.",
+            "url": "https://www.forbes.com/sites/alexkonrad/2023/10/13/israel-founders-struggle-to-balance-startups-and-front-line-military-service/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65295cf7223a7e7f5ab340d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-10-13T17:23:02Z",
+            "content": "CEO Yael Meretyk Hanan woke up on Saturday morning in Tel Aviv to her husband receiving a phone call from his reserve officer in the Israeli Defense Force, warning him to get ready he was about to be… [+13309 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sara Powers",
+            "title": "Florine Mark, former president of Weight Watchers, has died - CBS News",
+            "description": "Florine Mark, the former president of the Weight Watchers Group, has died.",
+            "url": "https://www.cbsnews.com/detroit/news/florine-mark-former-president-of-weight-watchers-has-died/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/13/6308c066-0c56-4b1e-9b29-4c4be537ea40/thumbnail/1200x630/7b6b31b7ddd4734f835bfd1c92ffdf61/florine-mark.png?v=a6a127b4a243923dd1e2140b75f2a43c",
+            "publishedAt": "2023-10-13T17:19:00Z",
+            "content": "(CBS DETROIT) - Florine Mark, the former president of the Weight Watchers Group, has died, according to her family. \r\nMark was a prominent leader in the Jewish community in the Metro Detroit area and… [+1485 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Major US banks show profit boost, but some caution from consumers - Reuters",
+            "description": "Major U.S. banks said on Friday higher interest rates boosted profits even though the economy was slowing and consumers showed signs of more cautious behavior.",
+            "url": "https://www.reuters.com/business/finance/major-us-banks-show-profit-boost-cautious-outlook-consumer-health-2023-10-13/",
+            "urlToImage": "https://www.reuters.com/resizer/w31qaPAsk0tDeZBz3ePFGvLCUU8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X5HQGRG2AVNELI7MPYKBDG7SE4.jpg",
+            "publishedAt": "2023-10-13T17:18:00Z",
+            "content": "NEW YORK, Oct 13 (Reuters) - Major U.S. banks said on Friday higher interest rates boosted profits even though the economy was slowing and consumers showed signs of more cautious behavior.\r\nJPMorgan … [+4489 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Bryan Mena",
+            "title": "Americans are becoming more worried about inflation after resumption of student loans - CNN",
+            "description": "Persistently high inflation took a toll on Americans’ attitudes this month as many began to pay back student loans following a three-year hiatus.",
+            "url": "https://www.cnn.com/2023/10/13/economy/us-consumer-sentiment-october/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230929082211-american-consumers-sentiment-inflation-september.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-13T17:16:00Z",
+            "content": "Persistently high inflation took a toll on Americans attitudes this month as many began to pay back student loans following a three-year hiatus.\r\nThe University of Michigans consumer sentiment index … [+4447 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jaiveer Shekhawat",
+            "title": "PNC Financial reports drop in profit, begins job cuts - Reuters",
+            "description": "PNC Financial Services Group <a href=\"https://www.reuters.com/markets/companies/PNC.N\" target=\"_blank\">(PNC.N)</a> said on Friday it is cutting about 4% of its workforce and reported a drop in third-quarter profit, as a surge in funding costs offset higher in…",
+            "url": "https://www.reuters.com/business/finance/pnc-financial-services-cut-jobs-after-quarterly-profit-drop-2023-10-13/",
+            "urlToImage": "https://www.reuters.com/resizer/3y_qOgd1M7gTdRZIoCvu9LOzMKw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4BUCVIOU6FMJ3MDEW23MXY3ITQ.jpg",
+            "publishedAt": "2023-10-13T17:14:00Z",
+            "content": "Oct 13 (Reuters) - PNC Financial Services Group (PNC.N) said on Friday it is cutting about 4% of its workforce and reported a drop in third-quarter profit, as a surge in funding costs offset higher i… [+1816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The Fed settling at 3% is better than a recession in an election year, says Cerity's Jim Lebenthal - CNBC Television",
+            "description": "Bryn Talkington, Joe Terranova, Jim Lebenthal, and Steve Weiss join 'Halftime Report' to discuss the potential for a recession during the upcoming election y...",
+            "url": "https://www.youtube.com/watch?v=Lk_A2SSs5lI",
+            "urlToImage": "https://i.ytimg.com/vi/Lk_A2SSs5lI/maxresdefault.jpg",
+            "publishedAt": "2023-10-13T17:09:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "75+ Great Post-Prime Day Deals You Can Still Grab for $50 or Less - CNET",
+            "description": "Take advantage of lingering Prime Day deals before they disappear for good.",
+            "url": "https://www.cnet.com/deals/october-prime-day-under-50-still-available/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/6196200cf1f3da17eae91f2ab56eb678eb9a015c/hub/2023/10/06/832017fb-dbcb-450a-8199-ac819ede1c42/cnet-prime-big-deal-day-41.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-10-13T16:59:00Z",
+            "content": "Though Amazon's massive two-day October Prime Day sale wrapped up midweek, there are still plenty of deals to grab before they're gone. Whether you're looking for last-minute bargains on tech, home g… [+26519 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Greg Iacurci",
+            "title": "Deflation is the anti-inflation. Here's where prices fell in September 2023 in one chart - CNBC",
+            "description": "Consumers saw prices deflate in several categories in September, according to the consumer price index. This chart shows which prices have fallen.",
+            "url": "https://www.cnbc.com/2023/10/13/deflation-is-the-anti-inflation-heres-the-september-2023-breakdown.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316948-1697210922612-gettyimages-1379139183-a7306825_2022_a7iii_fashionisland_09022022_gi_puyo.jpeg?v=1697215040&w=1920&h=1080",
+            "publishedAt": "2023-10-13T16:37:20Z",
+            "content": "Consumers have been hearing a lot about inflation in the U.S. economy since early 2021, and rightfully so. At their pandemic-era peak, consumer prices were rising faster than at any point in 40 years… [+2480 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sfstandard.com"
+            },
+            "author": "Joe Burn, Joel Umanzor",
+            "title": "Bay Area Tech Layoffs: Qualcomm Slashes Hundreds of Jobs - The San Francisco Standard",
+            "description": "The computer chip giant will layoff almost 200 Bay Area workers.",
+            "url": "https://sfstandard.com/2023/10/13/qualcomm-layoffs-tech-silicon-valley/",
+            "urlToImage": "https://content.sfstandard.com/wp-content/uploads/2023/05/Layoff-Layoffs-03.jpg?resize=1200,630",
+            "publishedAt": "2023-10-13T16:35:57Z",
+            "content": "California tech giant Qualcomm is laying off 1,258 California workersincluding almost 200 in the Bay Area, according to California Employment Development Department documents known as WARN notices. \r… [+1606 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eater"
+            },
+            "author": "Lauren Saria",
+            "title": "Legendary San Francisco Businesses Anchor Brewing and Grand Bakery Are for Sale - Eater SF",
+            "description": "The Anchor Brewing property in San Francisco and Oakland’s oldest kosher bakery are both on the market",
+            "url": "https://sf.eater.com/2023/10/13/23915854/anchor-brewing-grand-bakery-sale",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/cLmT3N__yIBkIgNDZh8WTUClSzI=/0x0:8688x4549/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25000361/1298885621.jpg",
+            "publishedAt": "2023-10-13T16:30:00Z",
+            "content": "If youve got a bit of money lying around, here are a couple of interesting business opportunities to look into. Per SFGATE, Anchor Brewings San Francisco property recently hit the market, and in Oakl… [+2275 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anna Cooban",
+            "title": "Oil and gas prices are climbing again as supply risks multiply - CNN",
+            "description": "Global energy prices are finishing the week the way they started — shooting higher as a cocktail of risks to supply have put investors on edge.",
+            "url": "https://www.cnn.com/2023/10/13/energy/oil-gas-price-rises-global-risks-mount/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231013122704-energy-prices-rise-1023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-13T16:24:00Z",
+            "content": "Global energy prices are finishing the week the way they started shooting higher as a cocktail of risks to supply have put investors on edge. \r\nThe price of Brent crude, the global oil benchmark, ros… [+4982 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jonathan Saul",
+            "title": "Growing tanker fleet, cheaper freight challenge Russian oil price cap - Reuters",
+            "description": "Russian crude oil producers are enjoying the cheapest costs to ship to refiners in China and India in almost a year thanks to a growing number of vessels plying the routes, according to trading and shipping sources.",
+            "url": "https://www.reuters.com/markets/commodities/growing-tanker-fleet-cheaper-freight-challenge-russian-oil-price-cap-2023-10-13/",
+            "urlToImage": "https://www.reuters.com/resizer/iAusUkeftuNI_H8M3V-imAbQNbY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YQRXU6DFJZNMNEXNMPHHVYAMWY.jpg",
+            "publishedAt": "2023-10-13T16:06:29Z",
+            "content": "MOSCOW/LONDON, Oct 13 (Reuters) - Russian crude oil producers are enjoying the cheapest costs to ship to refiners in China and India in almost a year thanks to a growing number of vessels plying the … [+5077 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lorie Konish",
+            "title": "Medicare Part B standard premiums to increase by $9.80 per month in 2024 - CNBC",
+            "description": "Standard monthly Medicare Part B premiums will be $174.70 in 2024, in line with previous projections from Medicare's trustees.",
+            "url": "https://www.cnbc.com/2023/10/13/medicare-part-b-standard-premiums-to-go-up-by-9point80-per-month-in-2024.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316926-1697208654840-gettyimages-1623419037-home-care-05-029.jpeg?v=1697212987&w=1920&h=1080",
+            "publishedAt": "2023-10-13T16:03:07Z",
+            "content": "The standard monthly premium for Medicare Part B will increase by $9.80 per month in 2024, according to the Centers for Medicare and Medicaid Services.\r\nThat means the standard monthly premium will g… [+2933 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jaiveer Shekhawat, David Randall",
+            "title": "BlackRock signals M&A hunger after sharp drop in inflows - Reuters",
+            "description": "A sharp drop in net inflows took shares of BlackRock <a href=\"https://www.reuters.com/markets/companies/BLK.N\" target=\"_blank\">(BLK.N)</a> down around 1% on Friday despite the company handily beating third-quarter profit estimates, as the world's largest asse…",
+            "url": "https://www.reuters.com/business/finance/blackrock-reports-rise-third-quarter-profit-2023-10-13/",
+            "urlToImage": "https://www.reuters.com/resizer/1htdcM9AFW4vuqFEYQTiCEZBp7U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QD2PORFRDFMWLCUIPBKJFFO5G4.jpg",
+            "publishedAt": "2023-10-13T15:57:00Z",
+            "content": "Oct 13 (Reuters) - A sharp drop in net inflows took shares of BlackRock (BLK.N) down around 1% on Friday despite the company handily beating third-quarter profit estimates, as the world's largest ass… [+3802 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FreightWaves"
+            },
+            "author": "FreightWaves",
+            "title": "Flexport lays off 600 workers amid difficult freight market - FreightWaves",
+            "description": null,
+            "url": "https://www.freightwaves.com/news/flexport-lays-off-600-workers-amid-difficult-freight-market",
+            "urlToImage": null,
+            "publishedAt": "2023-10-13T15:55:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "September CPI showed Fed still has work to do, says Citi's Nathan Sheets - CNBC Television",
+            "description": "Nathan Sheets, Citi Global chief economist, joins 'Squawk on the Street' to discuss the Federal Reserve's interpretation of the September CPI report, how the...",
+            "url": "https://www.youtube.com/watch?v=zPqmi6u-u2c",
+            "urlToImage": "https://i.ytimg.com/vi/zPqmi6u-u2c/maxresdefault.jpg",
+            "publishedAt": "2023-10-13T15:51:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Gold prices surge; set for best week in 7 months as people look for safe haven investments amidst Israel- - IndiaTimes",
+            "description": "India Business News: Gold surged over 2% and was on track for its strongest weekly performance in seven months on Friday. The escalating conflict between Israel and the Is",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-set-for-best-week-in-7-months-as-people-look-for-safe-haven-investments-amidst-israel-hamas-war/articleshow/104406346.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-104406390,width-1070,height-580,imgsize-70916,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-10-13T15:48:00Z",
+            "content": "Gold Buying Tips: Sovereign Gold Bonds Vs Gold ETFs, Gold MFs Vs Gold Coins, Bars, Jewelry Explained"
         },
         {
             "source": {
@@ -44,45 +538,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CoinDesk"
-            },
-            "author": "Jesse Hamilton",
-            "title": "SEC Deadline on Grayscale's Bitcoin ETF Dispute Approaching at Midnight - CoinDesk",
-            "description": "The agency has hours left to seek an appeal of the court order to erase its rejection of Grayscale’s trust-to-ETF conversion application.",
-            "url": "https://www.coindesk.com/policy/2023/10/13/sec-deadline-on-grayscales-bitcoin-etf-dispute-approaching-at-midnight/",
-            "urlToImage": "https://www.coindesk.com/resizer/6z99UehGSimaedrz_AewZjIihhA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/2FZHOZOMCZEPDIX3ZNYN3TLMUY.jpg",
-            "publishedAt": "2023-10-13T15:44:00Z",
-            "content": "The final hours are ticking down for an appeal from the U.S. Securities and Exchange Commission (SEC) in its dispute with Grayscale Investments over establishing a spot bitcoin (BTC) exchange-traded … [+2443 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Bryan Mena",
-            "title": "Americans are becoming more worried about inflation after resumption of student loans - CNN",
-            "description": "Persistently high inflation took a toll on Americans’ attitudes this month as many began to pay back student loans following a three-year hiatus.",
-            "url": "https://www.cnn.com/2023/10/13/economy/us-consumer-sentiment-october/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230929082211-american-consumers-sentiment-inflation-september.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-10-13T15:26:00Z",
-            "content": "Persistently high inflation took a toll on Americans attitudes this month as many began to pay back student loans following a three-year hiatus.\r\nThe University of Michigans consumer sentiment index … [+4447 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Detroit News"
-            },
-            "author": "Jordyn Grzelewski",
-            "title": "Fain says no new plants added to UAW strike but union can order walkouts at any time - Detroit News",
-            "description": "United Auto Workers President Shawn Fain said Friday the union isn't launching any additional walkouts.",
-            "url": "https://www.detroitnews.com/story/business/autos/2023/10/13/uaw-strike-day-29-fain-to-give-facebook-live-update/71167216007/",
-            "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2023/10/06/PDTN/71090032007-uaw-social-01.JPG?crop=5699,3206,x0,y309&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-10-13T15:22:30Z",
-            "content": "United Auto Workers President Shawn Fain said Friday the union isn't launching any additional walkouts against Ford Motor Co., General Motors Co. and Stellantis NV in its strike against selected plan… [+943 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "[Removed]"
             },
             "author": null,
@@ -96,41 +551,15 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Pfizer.com"
             },
-            "author": "Annika Kim Constantino",
-            "title": "Novo Nordisk hikes outlook on soaring demand for Wegovy, Ozempic - CNBC",
-            "description": "Novo Nordisk's forecast only confirms the frenzy for Wegovy and Ozempic, which patients seek for their ability to help them lose significant weight over time.",
-            "url": "https://www.cnbc.com/2023/10/13/novo-nordisk-hikes-outlook-on-soaring-demand-for-wegovy-ozempic.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107297618-1694173882242-gettyimages-1581638847-arriens-ozempicm230806_nplWH.jpeg?v=1697209758&w=1920&h=1080",
-            "publishedAt": "2023-10-13T15:05:44Z",
-            "content": "Novo Nordisk on Friday raised its outlook for its full-year sales and operating profit due to soaring demand for its blockbuster weight loss drug Wegovy and diabetes treatment Ozempic. \r\nThe revised … [+844 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
+            "author": "Pfizer",
+            "title": "U.S. FDA Approves Pfizer's VELSIPITY™ for Adults with Moderately to Severely Active Ulcerative Colitis (UC) - Pfizer",
+            "description": null,
+            "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-pfizers-velsipitytm-adults-moderately",
             "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Ryan Browne",
-            "title": "Stablecoin Tether promotes tech chief to CEO, taking over from mysterious crypto leader - CNBC",
-            "description": "In a surprise move, the chief technology officer of stablecoin firm Tether, Paolo Ardoino, has been promoted to CEO.",
-            "url": "https://www.cnbc.com/2023/10/13/tether-promotes-cto-to-ceo-taking-over-from-mysterious-crypto-boss.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107146338-1667574008977-gettyimages-1240533023-AFP_329P2QH.jpeg?v=1697206251&w=1920&h=1080",
-            "publishedAt": "2023-10-13T14:10:51Z",
-            "content": "A picture taken in London shows gold-plated souvenir cryptocurrency tether, bitcoin and ethereum coins arranged beside a screen displaying a trading chart, May 8, 2022.\r\nPaolo Ardoino, the chief tech… [+5006 chars]"
+            "publishedAt": "2023-10-13T14:09:48Z",
+            "content": null
         },
         {
             "source": {
@@ -147,146 +576,55 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Fox Business"
+                "id": "financial-times",
+                "name": "Financial Times"
             },
-            "author": "Thomas Catenacci",
-            "title": "Autoworker union president who donned 'eat the rich' shirt is in top 5% of earners - Fox Business",
-            "description": "Shawn Fain, the president of the UAW labor union, has worn an \"eat the rich\" shirt at multiple events, despite earning hundreds of thousands of dollars in income in top union role.",
-            "url": "https://www.foxbusiness.com/politics/autoworker-union-president-who-donned-eat-the-rich-shirt-top-5-earners",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/fain-uaw-eat-rich.jpg?ve=1&tl=1",
-            "publishedAt": "2023-10-13T13:47:46Z",
-            "content": "The president of the United Auto Workers (UAW) labor union leading the ongoing strike against the largest three U.S. automakers earned hundreds of thousands of dollars last year, placing him squarely… [+4621 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "USA TODAY",
-            "title": "How inflation's rise is shaping Gen Z into fiscal conservatives - USA TODAY",
-            "description": null,
-            "url": "https://www.usatoday.com/story/money/2023/10/13/inflation-economy-gen-z-fiscal-conservative-study/71166670007/",
-            "urlToImage": null,
-            "publishedAt": "2023-10-13T13:44:25Z",
-            "content": null
+            "author": "Hannah Kuchler",
+            "title": "Novo Nordisk raises profit guidance as weight-loss drug sales boom - Financial Times",
+            "description": "Danish drugmaker behind Wegovy and Ozempic has become Europe’s biggest company",
+            "url": "https://www.ft.com/content/e7200651-8659-4c3b-8913-a9e3486f0a5b",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F314f62d1-0043-4a8e-82c7-11a6c1a33185.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-10-13T14:01:59Z",
+            "content": "Soaring sales of weight loss and diabetes drugs Wegovy and Ozempic have pushed Europes largest company Novo Nordisk to raise its full-year revenue and profits guidance.\r\nThe Danish drugmaker now expe… [+2198 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Endpoints News"
             },
-            "author": "Douglas Gillison and Chris Prentice",
-            "title": "Short sellers will have to report more data under new US SEC rules - Yahoo Finance",
-            "description": "(Reuters) -The U.S. Securities and Exchange Commission on Friday agreed to roll out new rules aimed at boosting transparency of short selling, the...",
-            "url": "https://finance.yahoo.com/news/us-sec-finalize-rules-increasing-133333965.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/38c9daf3132c8adef08ba5da0a05e71a",
-            "publishedAt": "2023-10-13T13:33:33Z",
-            "content": "By Douglas Gillison and Chris Prentice\r\n(Reuters) -The U.S. Securities and Exchange Commission on Friday agreed to roll out new rules aimed at boosting transparency of short selling, the controversia… [+2419 chars]"
+            "author": "Katherine Lewin",
+            "title": "Sanofi’s atopic dermatitis drug amlitelimab hits primary endpoint, on its way to PhIII trial - Endpoints News",
+            "description": "Sanofi’s anti-OX40L antibody, amlitelimab, passed a 390-patient Phase IIb trial by hitting the primary endpoint, with patients seeing up to a 61.5% improvement on a scale used to measure eczema severity, the company said at the European Academy of Dermatology…",
+            "url": "https://endpts.com/sanofis-atopic-dermatitis-drug-amlitelimab-hits-primary-endpoint-on-its-way-to-phiii-trial/",
+            "urlToImage": "https://endpts.com/wp-content/uploads/2023/10/Sanofi-shutterstock-social1.jpg",
+            "publishedAt": "2023-10-13T14:00:00Z",
+            "content": "Sanofi’s an­ti-OX40L an­ti­body, am­lite­limab, passed a 390-pa­tient Phase IIb tri­al by hit­ting the pri­ma­ry end­point, with pa­tients see­ing up to a 61.5% im­prove­ment on a scale used to mea­s… [+690 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "PRNewswire"
+                "name": "ARLnow"
             },
-            "author": null,
-            "title": "Northwest Biotherapeutics Provides Update On Near Term Plans For Submission of Marketing Authorization Application USA - English - USA - English - PR Newswire",
-            "description": "/PRNewswire/ -- Northwest Biotherapeutics (OTCQB: NWBO) (\"NW Bio\"), a biotechnology company developing DCVax® personalized immune therapies for solid tumor...",
-            "url": "https://www.prnewswire.com/news-releases/northwest-biotherapeutics-provides-update-on-near-term-plans-for-submission-of-marketing-authorization-application-301956184.html",
-            "urlToImage": "https://mma.prnewswire.com/media/325355/northwest_biotherapeutics__inc__logo.jpg?p=facebook",
-            "publishedAt": "2023-10-13T13:30:00Z",
-            "content": "BETHESDA, Md., Oct. 13, 2023 /PRNewswire/ -- Northwest Biotherapeutics (OTCQB: NWBO) (\"NW Bio\"), a biotechnology company developing DCVax® personalized immune therapies for solid tumor cancers, provi… [+5177 chars]"
+            "author": "ARLnow.com",
+            "title": "There was an Arlington Powerball winner — of $50,000 - ARLnow",
+            "description": "The big winner from Wednesday's $1.73 billion Powerball drawing might be in California, but there was a decidedly smaller-scale winner in Arlington. Someone bought a $50,000 winning ticket at the 7-Eleven store at 2815 S. Wakefield Street, just down the hill …",
+            "url": "https://www.arlnow.com/2023/10/13/there-was-an-arlington-powerball-winner-of-50000/",
+            "urlToImage": "https://s26551.pcdn.co/wp-content/uploads/2023/10/powerball-ticket-2.jpg",
+            "publishedAt": "2023-10-13T13:30:04Z",
+            "content": "Powerball lottery ticket (file photo)\r\nThe big winner from Wednesday’s $1.73 billion Powerball drawing might be in California, but there was a decidedly smaller-scale winner in Arlington.\r\nSomeone bo… [+1069 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Barron's"
+                "name": "Fox Business"
             },
-            "author": "Emily Dattilo",
-            "title": "JD.com Stock Falls as Wall Street Dials Back Revenue Estimates - Barrons - Barron's",
-            "description": "Analysts are evaluating pain points for e-commerce giant JD.com ahead of third-quarter earnings.",
-            "url": "https://www.barrons.com/articles/jd-stock-revenue-estimates-analysts-c31795e9",
-            "urlToImage": "https://images.barrons.com/im-345657/social",
-            "publishedAt": "2023-10-13T13:17:00Z",
-            "content": "Oct 13, 2023, 9:17 am EDT"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jeannine Mancini",
-            "title": "Jeff Bezos Cheated On His Ex-Wife With His Now-Fiancée Lauren Sanchez — It Led To The Most Expensive Divorce In History, But He Always Owned Up To The Affair: 'Just To Set The Record Straight, I Did Have A Relationship With This Woman' - Yahoo Finance",
-            "description": "In the glitzy realm of billionaires and high-profile romances, the tale of Amazon.com Inc. founder Jeff Bezos and Emmy Award-winning journalist Lauren...",
-            "url": "https://finance.yahoo.com/news/jeff-bezos-cheated-ex-wife-131314691.html",
-            "urlToImage": "https://media.zenfs.com/en/Benzinga/8821a6b370c99c49606fa280b0e4a9f6",
-            "publishedAt": "2023-10-13T13:13:14Z",
-            "content": "In the glitzy realm of billionaires and high-profile romances, the tale of Amazon.com Inc. founder Jeff Bezos and Emmy Award-winning journalist Lauren Sanchez stands out. The couple's love story star… [+4284 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jeff Cox",
-            "title": "Philadelphia Fed President Harker advocates holding interest rates 'where they are' - CNBC",
-            "description": "Harker said the Fed has made progress in bringing down prices without causing a surge in unemployment or otherwise tanking the economy.",
-            "url": "https://www.cnbc.com/2023/10/13/philadelphia-fed-president-harker-advocates-holding-interest-rates-where-they-are.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107291641-1692898328247-1U8A8566.jpg?v=1697202105&w=1920&h=1080",
-            "publishedAt": "2023-10-13T13:01:45Z",
-            "content": "Philadelphia Federal Reserve President Patrick Harker said Friday he thinks the central bank can stop raising interest rates.\r\n\"Absent a stark turn in what I see in the data and hear from contacts ..… [+3020 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Howard Smith",
-            "title": "Why Plug Power Surged Higher While ChargePoint and Canoo Stocks Tumbled This Week - The Motley Fool",
-            "description": "ChargePoint lost some credibility with investors this week, but Plug Power still has believers on Wall Street.",
-            "url": "https://www.fool.com/investing/2023/10/13/why-plug-power-jumped-while-chargepoint-plunged/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/750761/buy-and-sell-stock-graph.jpg",
-            "publishedAt": "2023-10-13T12:39:45Z",
-            "content": "What happened\r\nAggressive growth stocks are having a mixed week. While shares of hydrogen fuel cell maker Plug Power(PLUG -1.22%) have surged by 11.5% from last Friday's closing price, two stocks in … [+2950 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Whec.com"
-            },
-            "author": "David Wheeler",
-            "title": "Newly approved utility rate hikes -- fair, or asking too much? - News10NBC",
-            "description": "Think your gas and electric bills are already too high? Get ready to pay more.On Thursday, the Public Service Commission approved rate hikes for RG&E and NYSEG.The utilities wanted customers to pay $447 million more next year, but the PSC decided that was too…",
-            "url": "https://www.whec.com/top-news/newly-approved-utility-rate-hikes-fair-or-asking-too-much/",
-            "urlToImage": "https://www.whec.com/wp-content/uploads/akta/A54D3AEB193B596AEE76F9EDFE213C6C.jpg",
-            "publishedAt": "2023-10-13T12:31:22Z",
-            "content": "Think your gas and electric bills are already too high? Get ready to pay more.\r\nOn Thursday, the Public Service Commission approved rate hikes for RG&amp;E and NYSEG.\r\nThe utilities wanted customers … [+2205 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Manya Saini and Tatiana Bautzer",
-            "title": "Citigroup profit beats estimates on investment banking boost, shares rise - Yahoo Finance",
-            "description": "NEW YORK (Reuters) -Citigroup's third-quarter profit beat estimates on Friday as it benefited from a surge in trading revenue and investment banking fees...",
-            "url": "https://finance.yahoo.com/news/citigroup-profit-holds-steady-investment-120340025.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/7d062d9ea8ecde651a8d7a60d5a87259",
-            "publishedAt": "2023-10-13T12:03:40Z",
-            "content": "By Manya Saini and Tatiana Bautzer\r\nNEW YORK (Reuters) -Citigroup's third-quarter profit beat estimates on Friday as it benefited from a surge in trading revenue and investment banking fees while und… [+3679 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "How Elizabeth Warren is making Hamas crypto's latest Washington woe - POLITICO",
-            "description": "Crypto firms are rushing to get ahead of Capitol Hill scrutiny triggered by the attacks in Israel.",
-            "url": "https://www.politico.com/news/2023/10/13/israel-hamas-war-crypto-elizabeth-warren-00121368",
-            "urlToImage": "https://static.politico.com/ac/0a/c1ebb51e413982d170c5b5131b1e/senate-finance-committee-hearing-27312.jpg",
-            "publishedAt": "2023-10-13T12:01:00Z",
-            "content": "Senate Banking Chair Sherrod Brown (D-Ohio) one of the industrys fiercest critics is vowing\r\n to use his committee to examine the role crypto played in the Israel attacks. The Hamas connection is als… [+3840 chars]"
+            "author": "Nora Colomer",
+            "title": "Mortgage rates headed to 8% territory if Fed keeps up hike pace: Freddie Mac - Fox Business",
+            "description": "The average 30-year fixed-rate mortgage increased to 7.57% for the week ending Oct. 12, according to Freddie Mac's latest Primary Mortgage Market Survey.",
+            "url": "https://www.foxbusiness.com/personal-finance/mortgage-rate-volatility-freddie-mac",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/Credible-Mortgage-Rates-iStock-1497209456.png?ve=1&tl=1",
+            "publishedAt": "2023-10-13T12:01:53Z",
+            "content": "Mortgage Rates pushed to a new high last week as the market reacted to uncertainty over the Federal Reserve's next move and the geopolitical climate, according to Freddie Mac.\r\nThe average 30-year fi… [+4835 chars]"
         },
         {
             "source": {
@@ -303,146 +641,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Rita Nazareth",
-            "title": "Treasuries and Oil Jump on Israel-Hamas Conflict: Markets Wrap - Yahoo Finance",
-            "description": "(Bloomberg) -- Stocks rose as some of the largest US banks kicked off the earnings season with solid results. Treasuries climbed with oil amid signs Israel...",
-            "url": "https://finance.yahoo.com/news/asia-stocks-face-headwinds-soaring-220147446.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/h_Cz6nI5dnOBp_Ep9QWgQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/7a5b2ec3d96aeceb7337f5b846d5b001",
-            "publishedAt": "2023-10-13T11:49:26Z",
-            "content": "(Bloomberg) -- Stocks rose as some of the largest US banks kicked off the earnings season with solid results. Treasuries climbed with oil amid signs Israel is preparing for a ground invasion of Gaza.… [+4749 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Europa.eu"
-            },
-            "author": "EMA",
-            "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023 | European Medicines Agency - European Medicines Agency |",
-            "description": "Meeting highlights from the Committee for Medicinal Products Human Use (CHMP) 9-12 October 2023",
-            "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023",
-            "urlToImage": null,
-            "publishedAt": "2023-10-13T11:30:27Z",
-            "content": "Seven new medicines recommended for approval\r\nEMAs human medicines committee (CHMP) recommended seven medicines for approval at its October 2023 meeting.\r\nThe CHMP adopted a positive opinion for Agam… [+4544 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Most of September's inflation was the rising cost of rent - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/10/13/inflation-rent-prices-cost-of-living",
-            "urlToImage": null,
-            "publishedAt": "2023-10-13T11:06:06Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ProPublica"
-            },
-            "author": "Paul Kiel",
-            "title": "Why the IRS Says Microsoft Owes $29 Billion in Back Taxes - ProPublica",
-            "description": "In the largest audit in U.S. history, the IRS rejected Microsoft’s attempts to channel profits to a small factory in Puerto Rico that burned Windows software onto CDs.",
-            "url": "https://www.propublica.org/article/irs-microsoft-audit-back-taxes-puerto-rico-billions",
-            "urlToImage": "https://img.assets-d.propublica.org/v5/images/20231012-IRS-Microsoft-Folo_maxWidth_3000_maxHeight_3000_ppi_72_quality_95_embedColorProfile_true.jpg?crop=focalpoint&fit=crop&fp-x=0.2622&fp-y=0.4839&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=099f51fa6331cea5b7c3cff0e6b04f0b",
+            "author": "Alex Matthews",
+            "title": "Student loan repayments have resumed. Here’s 4 charts that break down American educational debt - CNN",
+            "description": "A new repayment plan has become available since borrowers were last required to pay their student loan bills, which could make monthly payments lower for millions of people.",
+            "url": "https://www.cnn.com/2023/10/13/politics/american-student-loans-resume-debt-dg/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/student-loans-card-image-exlargetease.png?c=16x9&q=w_800,c_fill",
             "publishedAt": "2023-10-13T11:00:00Z",
-            "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\nIn a long-awaited development, the largest audit in the hist… [+4847 chars]"
+            "content": "As student loan payments resume this month, more than 43 million Americans carrying that debt saw the end of more than three years of relief from monthly payments. But the financial landscape in whic… [+4990 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Aimee Picchi",
-            "title": "Trump Media's funding partner says it's returning $1 billion to investors, with many asking for money back - CBS News",
-            "description": "Digital World Acquisition Corp. said it's still planning to merge with Trump's media group, which runs Truth Social.",
-            "url": "https://www.cbsnews.com/news/trump-dwac-returning-investor-money-truth-social/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/07/05c59f61-fa0d-43e3-8b76-3f899d8be152/thumbnail/1200x630/6c4f85c9e6e95d7cd18d2e3aef638ce1/trump.jpg?v=a6a127b4a243923dd1e2140b75f2a43c",
-            "publishedAt": "2023-10-13T10:57:00Z",
-            "content": "The funding partner for Trump Media &amp; Technology Group said that it will return the remaining $533 million of the $1 billion raised to finance the venture after investors canceled $467 million of… [+2681 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "Investor's Business Daily",
-            "title": "Dow Jones Futures Fall: JPMorgan, UnitedHealth In Focus After Stocks Skid On Treasury Auction - Investor's Business Daily",
-            "description": "Dow giants JPMorgan and UnitedHealth lead key earnings Friday.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-spike-on-us-sanctions-jpmorgan-unitedhealth-earnings-beat/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/09/stock-squeeze-02-shutter.jpg",
-            "publishedAt": "2023-10-13T10:45:00Z",
-            "content": "Dow Jones futures tilted higher Friday morning, while S&amp;P 500 futures and Nasdaq futures fell slightly. Treasury yields retreated Friday, while crude oil spiked as the U.S. tightened sanctions on… [+8972 chars]"
+            "author": "Grace Dean",
+            "title": "Dollar General worker fired 'immediately' after telling manager about pregnancy: EEOC - Business Insider",
+            "description": "The worker's dismissal was \"discriminatory and motivated by her pregnancy,\" the EEOC claimed. The retailer has agreed to pay $42,500 to settle the lawsuit.",
+            "url": "https://www.businessinsider.com/dollar-general-worker-fired-immediately-telling-manager-pregnancy-eeoc-georgia-2023-10",
+            "urlToImage": "https://i.insider.com/652918b168f1d46f52b0c6ef?width=1200&format=jpeg",
+            "publishedAt": "2023-10-13T10:52:00Z",
+            "content": "A Dollar General worker in Georgia was fired after telling her store manager that she was pregnant, the Equal Employment Oppor­tunity Commission claimed in a lawsuit.\r\nThe discount retailer has now a… [+2432 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
+                "name": "Benzinga"
             },
-            "author": "Jemima McEvoy",
-            "title": "Meet The Former Missile Engineer Who Made Billions Outsourcing Jobs — To The U.S. - Forbes",
-            "description": "Raj Sardana’s little-known Innova Solutions has become one of the biggest IT staffing and services providers in the U.S. thanks to an aggressive strategy of buying up and gutting struggling competitors. But just as the new billionaire is enjoying the spoils o…",
-            "url": "https://www.forbes.com/sites/jemimamcevoy/2023/10/13/meet-the-former-missile-engineer-who-made-billions-outsourcing-jobs---to-the-us/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/651dd7c0180d2288fa3f01e8/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2023-10-13T10:30:00Z",
-            "content": "Raj Sardana appears in the aisle of the Innova Solutions corporate jet at New Jerseys Teterboro Airport just past 9 a.m. After spending the weekend at a wedding in nearby Jersey City, the 63-year-old… [+19344 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Daniel Foelber, Scott Levine, and Lee Samaha",
-            "title": "Want $5,000 in Passive Income? Invest $10,000 Into These 3 High-Yield Dividend Stocks and Wait 7 Years - The Motley Fool",
-            "description": "Investing in equal parts of each of these stocks produces a dividend yield of 7.2%.",
-            "url": "https://www.fool.com/investing/2023/10/13/passive-income-invest-high-yield-dividend-stocks/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/750149/gettyimages-1130947843.jpg",
-            "publishedAt": "2023-10-13T10:20:00Z",
-            "content": "The S&amp;P 500 index historically earns, on average, around 10% a year. But the year-to-year gains are usually much higher, or much lower, than 10%.\r\nThe volatility can be nerve-wracking if you're l… [+5764 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Myra P. Saefong, , Barbara Kollmeyer",
-            "title": "Oil prices surge 4% as Middle East tensions rise with Israel ordering mass evacuations in Gaza - MarketWatch",
-            "description": "The day’s rise for WTI, Brent oil help solidify gains for the week",
-            "url": "https://www.marketwatch.com/story/oil-prices-jump-3-as-middle-east-tensions-rise-with-israel-ordering-mass-evacuations-in-gaza-d5fcebdd",
-            "urlToImage": "https://images.mktw.net/im-867984/social",
-            "publishedAt": "2023-10-13T10:18:00Z",
-            "content": "Escalating Middle East tensions drove up oil prices on Friday, setting prices up for a solid gain for the week.Concerns that Israel is close to launching a ground invasion of Gaza, after its military… [+3710 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jaiveer Shekhawat and David Randall",
-            "title": "BlackRock dips as inflow drop overshadows surprise surge in profits - Yahoo Finance",
-            "description": "(Reuters) -A sharp drop in net inflows took shares of BlackRock down around 1% on Friday despite the company handily beating third-quarter profit estimates, ...",
-            "url": "https://finance.yahoo.com/news/blackrock-reports-rise-third-quarter-101742104.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/238983fb1918e754c42365b48c72f111",
-            "publishedAt": "2023-10-13T10:17:42Z",
-            "content": "By Jaiveer Shekhawat and David Randall\r\n(Reuters) -A sharp drop in net inflows took shares of BlackRock down around 1% on Friday despite the company handily beating third-quarter profit estimates, as… [+3774 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sam Meredith",
-            "title": "Oil prices rise over 4% after U.S. tightens sanctions on Russian crude sales - CNBC",
-            "description": "Oil prices on Friday rose more than 4% after the U.S. tightened sanctions against Russian crude exports.",
-            "url": "https://www.cnbc.com/2023/10/13/oil-prices-crude-futures-rise-after-us-tightens-sanctions-on-russia.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316737-1697197702560-gettyimages-1258888530-AA_21062023_1243522.jpeg?v=1697197841&w=1920&h=1080",
-            "publishedAt": "2023-10-13T10:13:34Z",
-            "content": "Oil prices on Friday rose more than 4% after the U.S. tightened sanctions against Russian crude exports, exacerbating supply concerns in an already tightly balanced energy market.\r\nInternational benc… [+3305 chars]"
+            "author": "Akanksha Bakshi",
+            "title": "Asia And European Markets Slide Post US Inflation Data, Crude Jumps 3% While Gold Surpasses $1,900 - Glob - Benzinga",
+            "description": "On Thursday, October 13, the U.S. stock markets closed in red, affected by rising bond yields following a U.S. Treasury auction and data indicating a higher-than-expected increase in September consumer price. The benchmark yield surged to 4.728%, reversing th…",
+            "url": "https://www.benzinga.com/markets/asia/23/10/35236682/asia-and-european-markets-slide-post-us-inflation-data-crude-jumps-3-while-gold-surpasses-1-900-glob",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2023/10/13/asia_stocks-_photo_by_markus_spiske_on_unsplash.jpg?width=1200&height=800&fit=crop",
+            "publishedAt": "2023-10-13T10:26:37Z",
+            "content": "On Thursday, October 13, the U.S. stock markets closed in red, affected by rising bond yields following a U.S. Treasury auction and data indicating a higher-than-expected increase in September consum… [+1992 chars]"
         },
         {
             "source": {
@@ -459,94 +693,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Fci Academy"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "The Columbus Dispatch",
-            "title": "Centrus begins uranium enrichment in Piketon, Ohio - The Columbus Dispatch",
-            "description": null,
-            "url": "https://www.dispatch.com/story/business/energy-resource/2023/10/13/centrus-begins-uranium-enrichment-in-piketon-ohio/71131697007/",
-            "urlToImage": null,
-            "publishedAt": "2023-10-13T10:05:37Z",
+            "author": "Stella Yifan Xie",
+            "title": "China's Economy Remains Shaky After Challenging Summer - The Wall Street Journal",
+            "description": "Consumer prices are flirting with deflation again, as exports and imports continue to fall",
+            "url": "https://www.wsj.com/world/china/chinas-economy-remains-shaky-after-challenging-summer-7a94872a",
+            "urlToImage": "https://images.wsj.net/im-867927/social",
+            "publishedAt": "2023-10-13T09:00:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Stephen Morris",
-            "title": "'Most cherished friend': UK unearths messages from Staley to Epstein - Financial Times",
-            "description": "Regulators have disclosed emails confirming the tight bond between the former Barclays chief and the sex offender",
-            "url": "https://www.ft.com/content/7b9505ac-94c3-4688-a84d-cbecbf4f1f3b",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F3f76d5e4-bcff-40f9-9be9-f8b25a85dc58.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-10-13T10:00:29Z",
-            "content": "Former Barclays chief executive Jes Staley has been banned from working in the UK financial sector after allegedly misleading regulators about his relationship with sex offender Jeffrey Epstein.\r\nOn … [+4035 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Hamza Shaban",
-            "title": "The Fed's next 'rate hike' is already here — as surging Treasury yields - Yahoo Finance",
-            "description": "The Federal Reserve is getting some key help from Treasury yields.",
-            "url": "https://finance.yahoo.com/news/the-feds-next-rate-hike-has-already-arrived-100004906.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9OtPJC09fKaliSclgO9JLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTg-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/b4c35d60-5859-11ee-8fd3-748086eb7cac",
-            "publishedAt": "2023-10-13T10:00:04Z",
-            "content": "This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\r\n<ul><li>The chart of the day\r\n</li><li>What we're watching\r\n</li><li>What we… [+3635 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lisa Kailai Han",
-            "title": "Stock futures are little changed ahead of Friday's big bank earnings: Live updates - CNBC",
-            "description": "The major averages fell on Thursday, but all three are on pace for weekly gains.",
-            "url": "https://www.cnbc.com/2023/10/12/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316216-1697128069648-NYSE-Traders-OB-Photo-20231012-CC-Press-1.jpg?v=1697148192&w=1920&h=1080",
-            "publishedAt": "2023-10-13T08:22:00Z",
-            "content": "Stock futures were slightly higher early Friday as traders braced for major bank earnings.\r\nS&amp;P 500 futures were higher by 8 points, or 0.19%, as Dow Jones Industrial Average futures advanced 0.2… [+2066 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "As.com"
-            },
-            "author": "Oliver Povey",
-            "title": "2024 COLA increase announcement live: new Social Security benefits, payment dates... - AS USA",
-            "description": "The upcoming COLA announcement has been released today and will have a wide effect on benefits, a big shake-up for 2024.",
-            "url": "https://en.as.com/latest_news/2024-cola-increase-announcement-live-new-social-security-benefits-payment-dates-n/",
-            "urlToImage": "https://img.asmedia.epimg.net/resizer/CBoaXJFrmuqO5YVt-f-TfzQ05QA=/1472x828/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/B3DNKOFPLNEW5BZ4JQ36R4XVJA.jpg",
-            "publishedAt": "2023-10-13T08:00:00Z",
-            "content": "Food inflation slows again in September\r\nThe US Bureau of Labor Statistics released its September Consumer Price Index (CPI) report on Thursday. While month-over-month headline inflation was slightly… [+977 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Marjorie Hernandez, Allie Griffin",
-            "title": "Store owner who sold winning $1.76 billion Powerball ticket plans to use $1M payout for his kids' college funds - New York Post ",
-            "description": "The beloved shopkeeper and Syrian immigrant said he plans to save a chunk of the store’s $1 million payout from the winnings for his children’s college education fund.",
-            "url": "https://nypost.com/2023/10/13/california-store-owner-nidal-andy-khalil-who-sold-billion-dollar-powerball-ticket-saving-money-for-college-fund/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000061532851.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-10-13T07:03:00Z",
-            "content": "A winning ticket for the second-largest Powerball jackpot in history has stirred up the tiny California town where it was purchased by a yet-to-be-revealed customer. \r\nResidents of Frazier Park, a qu… [+3323 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Christopher Bing, Raphael Satter, James Pearson",
-            "title": "Israeli cyber security professionals band together amid Gaza war - Reuters",
-            "description": "As Israeli children listened to their teacher over Zoom, the image of a gun-toting man in fatigues appeared on the screen, according to a screenshot shared with Reuters. In another case, a video showed a billboard in the central Israeli city of Holon displayi…",
-            "url": "https://www.reuters.com/world/middle-east/israeli-cyber-security-professionals-band-together-amid-gaza-war-2023-10-12/",
-            "urlToImage": "https://www.reuters.com/resizer/ibUCEsWf0qiaWTiXYz2YzDYK2t0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LPU637NXZFKOBB7ONFMQGS6EGI.jpg",
-            "publishedAt": "2023-10-13T04:44:00Z",
-            "content": "WASHINGTON/LONDON, Oct 12 (Reuters) - As Israeli children listened to their teacher over Zoom, the image of a gun-toting man in fatigues appeared on the screen, according to a screenshot shared with … [+3396 chars]"
         },
         {
             "source": {
@@ -563,19 +719,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "China's Consumer Prices Flatline Amid Growth Concerns - Bloomberg Television",
-            "description": "China’s consumer inflation rate unexpectedly flatlined in September. The consumer price index was unchanged last month from a year earlier. Producer prices f...",
-            "url": "https://www.youtube.com/watch?v=wLlujfaPdfY",
-            "urlToImage": "https://i.ytimg.com/vi/wLlujfaPdfY/maxresdefault.jpg",
-            "publishedAt": "2023-10-13T02:10:46Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
@@ -586,32 +729,6 @@
             "urlToImage": "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg",
             "publishedAt": "2023-10-13T01:08:37Z",
             "content": "Oct 12 (Reuters) - The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, accord… [+3772 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Breck Dumas",
-            "title": "More than 200 venture capital firms sign public statement in support of Israel - Fox Business",
-            "description": "The venture capital community has issued a public statement in support of Israel after the country was attacked by terrorists, and more than 200 firms have signed it so far.",
-            "url": "https://www.foxbusiness.com/politics/200-venture-capital-firms-sign-public-statement-in-support-israel",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/israel-us-flags.jpg?ve=1&tl=1",
-            "publishedAt": "2023-10-12T23:01:06Z",
-            "content": "A public statement issued by the venture capital community in support of Israel has amassed more than 200 signatures as companies rally behind the country after Hamas waged massive terrorist attacks … [+2049 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Bill Peters",
-            "title": "Cassava shares plummet after investigation accuses researcher of misconduct - MarketWatch",
-            "description": "Science reports that an investigation accuses neuroscientist who often worked with Cassava of ‘scientific misconduct’ across multiple papers",
-            "url": "https://www.marketwatch.com/story/cassava-shares-plummet-after-investigation-accuses-researcher-of-egregious-misconduct-12e13be5",
-            "urlToImage": "https://images.mktw.net/im-867786/social",
-            "publishedAt": "2023-10-12T22:16:00Z",
-            "content": "Shares of biotech company Cassava Sciences Inc. were slammed in extended trading Thursday, after the publication Science reported that an investigation accused a neuroscientist who often collaborated… [+2760 chars]"
         },
         {
             "source": {
@@ -629,15 +746,15 @@
         {
             "source": {
                 "id": null,
-                "name": "WPEC"
+                "name": "WBNG-TV"
             },
-            "author": "Skyler Shepard",
-            "title": "Two Floridians are millionaires following $1.765 billion Powerball drawing - WEAR",
-            "description": "The $1.765 billion Powerball jackpot has finally been claimed after 36 drawings.",
-            "url": "https://cbs12.com/news/local/1-765-billion-dollar-powerball-jackpot-california-winner-two-floridians-are-millionaires-following-powerball-drawing-florida-lottery-october-12-2023",
-            "urlToImage": "https://weartv.com/resources/media/107cd572-df03-4fbd-abcb-87096a876c27-large16x9_AP23279729228701.jpg",
-            "publishedAt": "2023-10-12T21:40:36Z",
-            "content": "WEST PALM BEACH, Fla. (CBS12) The $1.765 billion Powerball jackpot has finally been claimed after 36 drawings. \r\nWednesday's winning numbers were 24, 52, 40, 22, 64, Powerball: 10, and Power Play: 2.… [+603 chars]"
+            "author": "Matthew Benninger",
+            "title": "Public Service Commission approves halved NYSEG rate hikes - WBNG",
+            "description": "The rate hikes go through 2025.",
+            "url": "https://www.wbng.com/2023/10/12/public-service-commission-approves-halved-nyseg-rate-hikes/",
+            "urlToImage": "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/-wLLImPnwyPlsTholPtlHu_pysA=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/43WFPLFY4FAEPIDVWG43TSQ5ZI.jpg",
+            "publishedAt": "2023-10-12T21:34:00Z",
+            "content": "(WBNG) -- The New York State Public Service Commission approved a modified version of NYSEGs rate hikes up through 2025 on Thursday.\r\nThe PSC approved the rate increases just one day after New York S… [+1934 chars]"
         },
         {
             "source": {
@@ -654,32 +771,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": null,
-            "title": "Anti-Prime Day Deals Still Available at Target, Walmart and Other Stores - CNET",
-            "description": "Amazon's October Prime Day event is over but there are still deals from competing retailers.",
-            "url": "https://www.cnet.com/deals/anti-prime-day-deals-still-available-at-target-walmart-other-stores/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/e792f8c5867905d414f3b4562f7ad38e8493160d/hub/2023/10/09/bbe3382e-660f-4607-a7b2-97bd5c108b0d/cnet-prime-big-deal-day-38.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2023-10-12T20:40:00Z",
-            "content": "Amazon's October Prime Day sale is officially over, but competing retailers are still in the game. If you're looking to take advantage of major discounts, you'll find that there are still plenty of d… [+11819 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Josh Nathan-Kazis",
-            "title": "Walgreens Earnings Disappointed. Why the Stock Is Rising. - Barrons - Barron's",
-            "description": "Drugstore chain Walgreens posted a disappointing fourth-quarter report Thursday, but investors are more focused on incoming CEO Tim Wentworth.",
-            "url": "https://www.barrons.com/articles/walgreens-earnings-stock-price-e6615529",
-            "urlToImage": "https://images.barrons.com/im-09923924/social",
-            "publishedAt": "2023-10-12T20:29:00Z",
-            "content": "Updated Oct 12, 2023, 4:29 pm EDT / Original Oct 11, 2023, 5:00 pm EDT"
-        },
-        {
-            "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
@@ -690,19 +781,6 @@
             "urlToImage": "https://images.wsj.net/im-866686/social",
             "publishedAt": "2023-10-12T20:26:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OilPrice.com"
-            },
-            "author": "Robert Rapier",
-            "title": "U.S. Oil Defies Odds, Races Towards Annual Production Record - OilPrice.com",
-            "description": "Despite initial skepticism, U.S. oil production in 2023 is on track to surpass previous records, primarily driven by oil prices and technological advancements.",
-            "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Defies-Odds-Races-Towards-Annual-Production-Record.html",
-            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-10-12_tu6pweqpfj.jpg",
-            "publishedAt": "2023-10-12T20:00:00Z",
-            "content": "The Saudis and the Russians…\r\nOil prices moved slightly lower…\r\nUS drilling rigs witnessed a…\r\nBy Robert Rapier - Oct 12, 2023, 3:00 PM CDTOne of my 2023 energy sector predictions was that U.S. oil p… [+1757 chars]"
         },
         {
             "source": {
@@ -720,28 +798,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Benzinga"
+                "name": "MarketWatch"
             },
-            "author": "Melanie Schaffer",
-            "title": "Chipmaker Nvidia Flies Higher But Indicates Local Top May Be In: A Bull, Bear Case - NVIDIA (NASDAQ:NVDA) - Benzinga",
-            "description": "Nvidia Corporation (NASDAQ: NVDA) popped about 1.5% at one point Thursday after TD Cowen analyst Matthew Ramsay maintained an Outperform rating on the stock and lifted a price target to",
-            "url": "https://www.benzinga.com/trading-ideas/long-ideas/23/10/35227274/chipmaker-nvidia-flies-higher-but-indicates-local-top-may-be-in-a-bull-bear-case",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2023/10/12/nvidia_shutterstock_2309474539.jpg?width=1200&height=800&fit=crop",
-            "publishedAt": "2023-10-12T18:47:06Z",
-            "content": "Nvidia CorporationNVDA popped about 1.5% at one point Thursday after TD Cowen analyst Matthew Ramsay maintained an Outperform rating on the stock and lifted a price target to $700.\r\nThe Santa Clara, … [+2199 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Wyatte Grantham-Philips, The Associated Press",
-            "title": "Americans failed to pay $688 billion in income taxes in 2021—and the amount grows every year, IRS says - Fortune",
-            "description": "While the vast majority of Americans pay their taxes voluntarily and on time, hundreds of billions of dollars in unpaid taxes pile up each year.",
-            "url": "https://fortune.com/2023/10/12/irs-unpaid-taxes-tax-gap/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/10/GettyImages-1251985390-e1697134875216.jpg?resize=1200,600",
-            "publishedAt": "2023-10-12T18:22:00Z",
-            "content": "The amount of tax money owed but not paid to the IRS is set to keep growing, according to projections published by the federal tax collection agency on Thursday.For tax years 2021 and 2020, the lates… [+2409 chars]"
+            "author": "Brett Arends",
+            "title": "Inflation is already racing past next year’s Social Security COLA - MarketWatch",
+            "description": "The latest inflation figures from the United States government are worrying news.",
+            "url": "https://www.marketwatch.com/story/inflation-is-already-racing-past-next-years-social-security-cola-93ad969e",
+            "urlToImage": "https://images.mktw.net/im-862721/social",
+            "publishedAt": "2023-10-12T16:33:00Z",
+            "content": "The latest inflation figures from the United States government are worrying news for senior citizens and Im not even talking about 80-year-old Joe Biden, although they threaten his re-election campai… [+208 chars]"
         },
         {
             "source": {
@@ -755,97 +820,6 @@
             "urlToImage": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
             "publishedAt": "2023-10-12T16:10:37Z",
             "content": "The Federal Trade Commission announced a settlement with bankrupt crypto company Voyager that will permanently ban it from handling consumers assets and is filing suit against its former CEO, Stephen… [+5500 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Travel Weekly"
-            },
-            "author": "Jamie Biesiada",
-            "title": "Travel advisor assists clients -- and reservists -- in Israel - Travel Weekly",
-            "description": "New Jersey travel advisor Sharon Rockman is motivated by love of her job and Israel.",
-            "url": "https://www.travelweekly.com/travel-news/travel-agent-issues/travel-advisor-assists-clients-and-reservists-in-israel",
-            "urlToImage": "https://ik.imgkit.net/3vlqs5axxjf/TW/uploadedImages/Art/2023/1016/T1016ROCKMAN_C(1).jpg?tr=w-1200%2Cfo-auto",
-            "publishedAt": "2023-10-12T16:08:25Z",
-            "content": "After war between Israel and Hamas broke out last weekend, travel agents moved into high gear to assist clients and, in one case, Israeli reservists in need of supplies.\r\nFor Sharon Rockman, founder … [+3103 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Angela Mae",
-            "title": "Today’s mortgage rates fall for 30-year terms, while 15-year rates remain unchanged - Fox Business",
-            "description": "Mortgage rates fluctuate almost daily based on economic conditions. Here are today’s mortgage rates and what you need to know about getting the best rate.",
-            "url": "https://www.foxbusiness.com/personal-finance/todays-mortgage-rates-october-12-2023",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Credible-daily-mortgage-rate-thumbnail-1186618062.jpg?ve=1&tl=1",
-            "publishedAt": "2023-10-12T15:48:21Z",
-            "content": "The interest rate on a 30-year fixed-rate mortgage is 7.875% as of October 12, which is 0.125 percentage points lower than what it was yesterday. Additionally, the interest rate on a 15-year fixed-ra… [+12925 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "What the latest economic indicators say about inflation - CBS News",
-            "description": "The Consumer Price Index rose 0.4% last month with energy and housing prices contributing to the increase. Greg Robb, a senior economic reporter for MarketWa...",
-            "url": "https://www.youtube.com/watch?v=PsT1GEi-BEw",
-            "urlToImage": "https://i.ytimg.com/vi/PsT1GEi-BEw/maxresdefault.jpg",
-            "publishedAt": "2023-10-12T14:29:35Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Taylor Lyles",
-            "title": "FTC's New Rule Proposal Takes Aim At Banning Junk Fees - IGN",
-            "description": "FTC is proposing a new rule that would eliminate pesky hidden fees tacked on to purchases such as hotel bookings and concert tickets.",
-            "url": "https://www.ign.com/articles/ftcs-new-rule-proposal-takes-aim-at-banning-junk-fees",
-            "urlToImage": "https://assets-prd.ignimgs.com/2023/10/12/ftc-flag-1697119328303.png?width=1280",
-            "publishedAt": "2023-10-12T14:14:25Z",
-            "content": "In a new effort to protect consumers from deceptive practices, the Federal Trade Commission's (FTC) latest rule proposal seeks to eliminate hidden junk fees you may encounter when checking out. \r\nThe… [+1719 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Benzinga"
-            },
-            "author": "Akanksha Bakshi",
-            "title": "Asia Markets Rally, Europe Rises Amid UK's Mild Recovery, Gold Shines Near $1,900 - Global Markets Today - Benzinga",
-            "description": "On Wednesday, October 11, the U.S. stock markets closed in the green, marking a four-day winning streak. Investors are keenly awaiting the consumer inflation data for September, a critical factor that could influence the Federal Reserve’s impending decision o…",
-            "url": "https://www.benzinga.com/markets/asia/23/10/35214888/asia-markets-rally-europe-rises-amid-uks-mild-recovery-gold-shines-near-1-900-global-markets-today-w",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2023/10/12/euro_stocks_photo_by_markus_spiske_on_pexels.jpg?width=1200&height=800&fit=crop",
-            "publishedAt": "2023-10-12T11:05:50Z",
-            "content": "On Wednesday, October 11, the U.S. stock markets closed in the green, marking a four-day winning streak. Investors are keenly awaiting the consumer inflation data for September, a critical factor tha… [+1971 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KARE11.com"
-            },
-            "author": "Dana Thiede",
-            "title": "Union workers ratify new contract with Hormel - KARE11.com",
-            "description": "Union leaders say the deal provides wage increases of $3 to $6 per hour, along with doubling bereavement leave and protecting health care coverage.",
-            "url": "https://www.kare11.com/article/news/local/hormel-union-workers-vote-to-ratify-historic-contract-austin-minnesota-wages-benefits/89-30d0e6e0-40d6-452a-a014-2350f10636bc",
-            "urlToImage": "https://media.kare11.com/assets/KARE/images/e1ffad89-f492-4b2d-b51d-a636d8f4af70/e1ffad89-f492-4b2d-b51d-a636d8f4af70_1140x641.jpg",
-            "publishedAt": "2023-10-12T10:44:00Z",
-            "content": "AUSTIN, Minn. Editor's note: The video above first aired on Sept. 12, 2023. \r\nMinnesota-based Hormel and union workers officially have a deal, scuttling the prospects of a strike that would impact bo… [+2524 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "American Banker"
-            },
-            "author": "Orla McCaffrey",
-            "title": "Layoffs at PNC cut across business lines and geography - American Banker",
-            "description": "The job cuts came after CEO Bill Demchak said in July that he was \"taking a hard look\" at opportunities to reduce expenses. PNC joins a growing list of banks that have laid off workers amid declining growth prospects.",
-            "url": "https://www.americanbanker.com/news/layoffs-at-pnc-cut-across-business-lines-and-geography",
-            "urlToImage": "https://arizent.brightspotcdn.com/dims4/default/e417840/2147483647/strip/true/crop/4000x2100+0+280/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F05%2Fba%2F3a78501f4d7a9c5180cb209c5ae1%2F397328521-2.jpg",
-            "publishedAt": "2023-10-11T23:39:00Z",
-            "content": "PNC Financial Services Group laid off employees across both its geographic footprint and its business lines this week, the latest example of downsizing in the U.S. banking industry.\r\nThe Pittsburgh-b… [+3429 chars]"
         }
     ]
 }

@@ -1,7 +1,20 @@
 {
     "status": "ok",
-    "totalResults": 67,
+    "totalResults": 65,
     "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Saqib Ahmed",
+            "title": "Falling stocks, climbing mortgage rates: how 5% Treasury yields could roil markets - Reuters",
+            "description": "Relentless selling of U.S. government bonds has brought Treasury yields to their highest level in more than a decade and a half, roiling everything from stocks to the real estate market.",
+            "url": "https://www.reuters.com/markets/us/how-5-us-benchmark-treasury-yield-could-further-roil-markets-2023-10-19/",
+            "urlToImage": "https://www.reuters.com/resizer/XhbxpNe3A0-LJn94IhZuzfaeESc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4ZJGQWUIWROOBIGMMEU6IQSZCQ.jpg",
+            "publishedAt": "2023-10-20T02:04:00Z",
+            "content": "NEW YORK, Oct 19 (Reuters) - Relentless selling of U.S. government bonds has brought Treasury yields to their highest level in more than a decade and a half, roiling everything from stocks to the rea… [+4719 chars]"
+        },
         {
             "source": {
                 "id": "bloomberg",
@@ -27,19 +40,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316217-1697128069648-NYSE-Traders-OB-Photo-20231012-CC-Press-2.jpg?v=1697754589&w=1920&h=1080",
             "publishedAt": "2023-10-20T01:46:00Z",
             "content": "Stock futures dipped Thursday evening as traders focused on a recent run higher in the 10-year Treasury yield.\r\nFutures tied to the Dow Jones Industrial Average were down 63 points, or 0.2%. S&amp;P … [+1796 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
-            },
-            "author": null,
-            "title": "Elon Musk's Wealth Shrinks By $16 Billion After Tesla Earnings Miss - NDTV",
-            "description": "Elon Musk's fortune slumped by $16.1 billion Thursday after Tesla Inc.'s weak third-quarter earnings weighed on shares.",
-            "url": "https://www.ndtv.com/world-news/elon-musks-wealth-shrinks-by-16-billion-after-tesla-earnings-miss-4498416",
-            "urlToImage": "https://c.ndtvimg.com/2023-08/6ue8g1i_tesla-elon-musk_625x300_03_August_23.jpg",
-            "publishedAt": "2023-10-20T01:41:58Z",
-            "content": "Elon Musk's wealth is still up by more than $70 billion in 2023\r\nElon Musk's fortune slumped by $16.1 billion Thursday after Tesla Inc.'s weak third-quarter earnings weighed on shares. Musk, who is t… [+1249 chars]"
         },
         {
             "source": {
@@ -92,6 +92,19 @@
             "urlToImage": "https://www.merck.com/wp-content/uploads/sites/5/2022/03/Merck.png",
             "publishedAt": "2023-10-19T23:30:00Z",
             "content": "October 19, 2023 7:30 pm ET \r\nCollaboration combines Daiichi Sankyos proven ADC expertise and DXd technology with Mercks deep experience in oncology and clinical development capabilities to advance a… [+12332 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Al Root",
+            "title": "Tesla Stock Had a Horrible Day. Here's What Comes Next. - Barrons - Barron's",
+            "description": "Shares of the electric-vehicle maker dropped 9.3% after it reported lackluster earnings.",
+            "url": "https://www.barrons.com/articles/tesla-stock-next-7b1c1c04",
+            "urlToImage": "https://images.barrons.com/im-36078491/social",
+            "publishedAt": "2023-10-19T23:04:00Z",
+            "content": "Oct 19, 2023, 7:04 pm EDT"
         },
         {
             "source": {
@@ -160,16 +173,16 @@
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "fortune",
+                "name": "Fortune"
             },
-            "author": "Daniel Gilbert",
-            "title": "Eli Lilly targets firms that import and sell imitation Mounjaro online - The Washington Post",
-            "description": "Eli Lilly filed a complaint with the U.S. International Trade Commission to block companies from importing and selling cheaper versions of its hit drug Mounjaro.",
-            "url": "https://www.washingtonpost.com/business/2023/10/19/eli-lilly-mounjaro-trade-commission/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HD3VE5T2EAPH7EOQNNU437FOCM.jpg&w=1440",
-            "publishedAt": "2023-10-19T21:27:14Z",
-            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nEli Lilly filed a complaint with the U.S. International Trade Commission on Thursday to block companies from importing and selling che… [+4961 chars]"
+            "author": "Spencer Soper, Lizette Chapman, Bloomberg",
+            "title": "Convoy, a Bezos-backed trucking tech company valued at $3.8 billion last year, is shutting down: ‘Today is your last day at the company’ - Fortune",
+            "description": "Many investors in the trucking tech startup could see their stakes go to zero, though at least one hit a home run.",
+            "url": "https://fortune.com/2023/10/19/convoy-trucking-tech-startup-shuts-down-jeff-bezos-investor/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/10/GettyImages-1243267099-e1697749910171.jpg?resize=1200,600",
+            "publishedAt": "2023-10-19T21:21:00Z",
+            "content": "Convoy Inc., a Seattle-based trucking startup whose investors include Jeff Bezos and Bill Gates, is closing down its business after a four-month search for an acquirer failed, its founder and Chief E… [+2123 chars]"
         },
         {
             "source": {
@@ -277,6 +290,19 @@
         },
         {
             "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Angelica Leicht",
+            "title": "The 10 best 3-year CD rates right now - CBS News",
+            "description": "By locking in a top rate on a 3-year CD today, you'll earn consistent returns on your money without the added risk.",
+            "url": "https://www.cbsnews.com/news/best-3-year-cd-rates-right-now/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/19/b520065c-58f7-4e1f-b1d7-1214787c0e16/thumbnail/1200x630/56a4ee07d67dd1e291d09248a5b41fc2/gettyimages-1404432075.jpg?v=18a5d3569ab1a3ca759fe14d213f7845",
+            "publishedAt": "2023-10-19T20:07:14Z",
+            "content": "Don't miss out on the chance to balloon your savings balance with the help of one of the best 3-year CDs on the market.\r\nGetty Images\r\nWhen it comes to maximizing the returns on your savings, certifi… [+4636 chars]"
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -316,6 +342,19 @@
         },
         {
             "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katie Balevic",
+            "title": "SBF said 'Yep' when FTX's top lawyer told him there was no legal justification for taking user funds - Business Insider",
+            "description": "Bankman-Fried asked the top attorney to \"come up with legal justifications\" for using customer funds as he tried to raise funds to pay what he had already dipped into.",
+            "url": "https://www.businessinsider.com/sbf-yep-ftxs-top-lawyer-no-legal-justification-taking-funds-2023-10",
+            "urlToImage": "https://i.insider.com/6531859e96908fd7cdb2fd27?width=1200&format=jpeg",
+            "publishedAt": "2023-10-19T19:48:00Z",
+            "content": "FTX's corporate attorney testified in court against his former boss, Sam Bankman-Fried, in Manhattan federal court on Thursday, sharing details about the company's bankruptcy in November 2022.\r\nCan S… [+2271 chars]"
+        },
+        {
+            "source": {
                 "id": "politico",
                 "name": "Politico"
             },
@@ -326,45 +365,6 @@
             "urlToImage": "https://static.politico.com/36/d7/9a9a90644e37815fbd12ce1d4868/biden-71614.jpg",
             "publishedAt": "2023-10-19T19:38:50Z",
             "content": "Today, we are proposing a rule to give consumers the power to walk away from bad service and choose the financial institutions that offer the best products and prices, CFPB Director Rohit Chopra said… [+3538 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Luc Cohen",
-            "title": "Sam Bankman-Fried sought 'justifications' for missing funds, lawyer testifies - Reuters",
-            "description": "Cryptocurrency exchange FTX's former top lawyer testified on Thursday that its founder Sam Bankman-Fried asked him to come up with \"legal justifications\" for why it was missing $7 billion in customer funds four days before the company declared bankruptcy.",
-            "url": "https://www.reuters.com/legal/sam-bankman-fried-said-customer-funds-would-be-kept-safe-ftx-ex-lawyer-testifies-2023-10-19/",
-            "urlToImage": "https://www.reuters.com/resizer/MVQoopE8OV6DlRXBbtGHhV5K3KY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JI6H6EX5XZIYTLUI6YIJ6PT3ZA.jpg",
-            "publishedAt": "2023-10-19T19:32:00Z",
-            "content": "NEW YORK, Oct 19 (Reuters) - Cryptocurrency exchange FTX's former top lawyer testified on Thursday that its founder Sam Bankman-Fried asked him to come up with \"legal justifications\" for why it was m… [+4237 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Ty Roush",
-            "title": "Convoy—Trucking Startup Backed By Bezos And Gates—Shutting Down After Failing To Find Buyer, Report Says - Forbes",
-            "description": "Chief executive Dan Lewis said a “massive freight recession” might have contributed to the company's failure to be acquired, Bloomberg reported.",
-            "url": "https://www.forbes.com/sites/tylerroush/2023/10/19/convoy-trucking-startup-backed-by-bezos-and-gates-shutting-down-after-failing-to-find-buyer-report-says/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/653182d8635aa506621d451a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2023-10-19T19:28:44Z",
-            "content": "Convoy, a Seattle-based digital freight booker with investors that include billionaires Bill Gates and Jeff Bezos, announced Thursday it would be shutting down, according to Bloomberg, after the comp… [+2558 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SFGate"
-            },
-            "author": "Katie Dowd",
-            "title": "Bay Area candy giant Jelly Belly bought by Chicago company - SFGATE",
-            "description": "Bay Area candy giant Jelly Belly has been purchased by Ferrara Candy Company, a Chicago confectionery.",
-            "url": "https://www.sfgate.com/food/article/bay-area-jelly-belly-bought-18435762.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/34/72/47/24357346/3/rawImage.jpg",
-            "publishedAt": "2023-10-19T19:12:38Z",
-            "content": "FILE: A worker empties out jelly beans for packaging at the Jelly Belly Factory on April 2, 2007, in Fairfield, Calif.\r\nDavid Paul Morris/Getty Images\r\nBay Area candy giant Jelly Belly has been purch… [+2655 chars]"
         },
         {
             "source": {
@@ -433,6 +433,19 @@
         },
         {
             "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "California tech CEO sentenced to 8 years for COVID, allergy test fraud case - Fox News",
+            "description": "A Silicon Valley executive, who claimed to have invented technology that could test for allergies and COVID with a few drops of blood, has been sentenced to prison for fraud.",
+            "url": "https://www.foxnews.com/us/california-tech-ceo-sentenced-8-years-covid-allergy-test-fraud-case",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/ALL_CUSTOM_FS_LOCAL_NEWS_CA_GENERAL.png",
+            "publishedAt": "2023-10-19T18:11:00Z",
+            "content": "A Silicon Valley executive who lied to investors about inventing technology that tested for allergies and COVID-19 using only a few drops of blood was sentenced Wednesday to eight years in prison and… [+1816 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "MarketWatch"
             },
@@ -456,19 +469,6 @@
             "urlToImage": "https://i.abcnewsfe.com/a/2fb0e26c-8897-426e-b942-49204b55e7da/sale-1-gty-er-231019_1697733690785_hpMain_16x9.jpg?w=992",
             "publishedAt": "2023-10-19T18:01:54Z",
             "content": "The 30-year fixed mortgage rate this week climbed to 8%, reaching that level for the first time since 2000, according to Mortgage News Daily.\r\nThe milestone arrives after months of rate increases. As… [+2867 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Will Daniel, Sydney Lake",
-            "title": "It’s official: The housing market is turning millennials into their parents. A Fortune 500 economist says it’s a déja vù market that is replaying the 1980s - Fortune",
-            "description": "A Fortune 500 chief economist says the housing market has a case of déja vù: It's the 1980s all over again.",
-            "url": "https://fortune.com/2023/10/19/housing-market-outlook-1980s-deja-vu-recession-boomers-millennials/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/10/GettyImages-1326083667-e1697737759550.jpg?resize=1200,600",
-            "publishedAt": "2023-10-19T17:49:00Z",
-            "content": "It might be time for millennials to let go of the okay, boomer mentality considering theyre reliving their parents 1980s housing journey. Although current mortgage rateswhich hit 8% this weekmimic th… [+6782 chars]"
         },
         {
             "source": {
@@ -508,19 +508,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/107320207-1697732461697-gettyimages-1644426335-AFP_33U82NM.jpeg?v=1697736260&w=1920&h=1080",
             "publishedAt": "2023-10-19T17:24:20Z",
             "content": "Las Vegas Sands' recovery from the pandemic is gaining steam, and Asia is a big reason why.\r\nThe world's largest casino company on Wednesdayannounced it pulled in $1.12 billion in third-quarter adjus… [+3281 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Nicholas Jasinski",
-            "title": "The 10-Year Treasury Yield Is Near 5%. What It Means for Stocks, Gold, and More. - Barron's",
-            "description": "Investors continue to push bond yields higher as the strength of the economy surprises.",
-            "url": "https://www.barrons.com/articles/10-year-treasury-yield-stocks-gold-599bbf6a",
-            "urlToImage": "https://images.barrons.com/im-15617915/social",
-            "publishedAt": "2023-10-19T17:21:00Z",
-            "content": "Updated Oct 19, 2023, 1:21 pm EDT / Original Oct 19, 2023, 7:45 am EDT"
         },
         {
             "source": {
@@ -577,6 +564,19 @@
         {
             "source": {
                 "id": null,
+                "name": "KCRA Sacramento"
+            },
+            "author": "Daniel Macht",
+            "title": "Jelly Belly to be sold to Chicago-based Ferrara Candy Company - KCRA Sacramento",
+            "description": "It's unclear what the sale would mean for Jelly Belly's factory in Fairfield.",
+            "url": "https://www.kcra.com/article/jelly-belly-to-be-sold-to-chicago-based-ferrara-candy-company/45577270",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1531279846-653065a84b0d5.jpg?crop=1.00xw:0.753xh;0,0.199xh&resize=1200:*",
+            "publishedAt": "2023-10-19T16:30:00Z",
+            "content": "The Ferrara Candy Company said Wednesday that it has reached a deal to buy the Jelly Belly Candy Company. \r\nFerrara, which is privately owned and based in Chicago, is the maker of more than 20 brands… [+1914 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Spaceflight Now"
             },
             "author": null,
@@ -615,19 +615,6 @@
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Ameris agrees to $9M settlement over Jacksonville redlining allegations - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/10/19/ameris-consent-decree-jacksonville-redlining-housing",
-            "urlToImage": null,
-            "publishedAt": "2023-10-19T15:37:38Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Electrek"
             },
@@ -651,19 +638,6 @@
             "urlToImage": "https://www.reuters.com/resizer/NT311lQt2WxnJLUtxjDoPtUmyI4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K2IVRNK3OJKDVLBOHG4ZMCVODM.jpg",
             "publishedAt": "2023-10-19T15:30:00Z",
             "content": "Oct 19 (Reuters) - American Airlines (AAL.O) on Thursday beat estimates for third-quarter adjusted profit and said bookings for the upcoming holiday season have been steady, sending its shares up nea… [+1935 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FierceBiotech"
-            },
-            "author": "FierceBiotech",
-            "title": "Beam lays off 20% of staff and culls CAR-T work to save cash - FierceBiotech",
-            "description": null,
-            "url": "https://www.fiercebiotech.com/biotech/beam-lays-about-100-employees-and-deprioritizes-car-t-programs-push-runway-2026",
-            "urlToImage": null,
-            "publishedAt": "2023-10-19T15:00:00Z",
-            "content": null
         },
         {
             "source": {
@@ -703,19 +677,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/104656586-GettyImages-831378268-wall-street.jpg?v=1697726477&w=1920&h=1080",
             "publishedAt": "2023-10-19T14:41:17Z",
             "content": "The largest American banks have been quietly laying off workers all year and some of the deepest cuts are yet to come.\r\nEven as the economy has surprised forecasters with its resilience, lenders have… [+5372 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Benzinga"
-            },
-            "author": "Lisa Levin",
-            "title": "US Stocks Edge Higher; Tesla Reports Downbeat Results - Grindrod Shipping Hldgs (NASDAQ:GRIN), SeaStar Me - Benzinga",
-            "description": "U.S. stocks traded slightly higher this morning, following the release of jobless claims data. Following the market opening Thursday, the Dow traded up 0.03% to 33,675.56 while the NASDAQ rose 0.09% to 13,326.17. The S&P 500 also rose, gaining, 0.04% to 4,316…",
-            "url": "https://www.benzinga.com/news/earnings/23/10/35330077/us-stocks-edge-higher-tesla-reports-downbeat-results",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2023/10/19/image41.jpg?width=1200&height=800&fit=crop",
-            "publishedAt": "2023-10-19T13:43:31Z",
-            "content": "U.S. stocks traded slightly higher this morning, following the release of jobless claims data.\r\nFollowing the market opening Thursday, the Dow traded up 0.03% to 33,675.56 while the NASDAQ rose 0.09%… [+3870 chars]"
         },
         {
             "source": {
@@ -771,6 +732,19 @@
         },
         {
             "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MATTHEW PERRONE AP health writer",
+            "title": "Communities can't recycle or trash disposable e-cigarettes. So what happens to them? - ABC News",
+            "description": "Communities across the U.S. are confronting a new vaping problem: how to get rid of millions of disposable e-cigarettes that are considered hazardous waste",
+            "url": "https://abcnews.go.com/Health/wireStory/communities-recycle-trash-disposable-cigarettes-104133680",
+            "urlToImage": "https://i.abcnewsfe.com/a/1e51aec8-b5f5-4031-b642-1fb2c3ac172d/wirestory_3d19dce9693ce78dd244729f524df02a_12x5.jpg?w=992",
+            "publishedAt": "2023-10-19T12:08:06Z",
+            "content": "WASHINGTON -- With the growing popularity of disposable e-cigarettes, communities across the U.S. are confronting a new vaping problem: how to safely get rid of millions of small, battery-powered dev… [+8105 chars]"
+        },
+        {
+            "source": {
                 "id": "techcrunch",
                 "name": "TechCrunch"
             },
@@ -798,15 +772,15 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Benzinga"
             },
-            "author": "Gabrielle Fonrouge",
-            "title": "Shein opens up about forced labor, data privacy as it looks to clear key hurdles before possible U.S. IPO - CNBC",
-            "description": "Shein, the Chinese-founded fashion giant that has taken the retail industry by storm, will have to clear a slew of hurdles if it wants to go public in the U.S.",
-            "url": "https://www.cnbc.com/2023/10/19/shein-ipo-fast-fashion-brand-must-clear-hurdles-before-going-public.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107317043-1697217181580-Dotcom_illustration-_SHEIN_conflict-_V3.jpg?v=1697713201&w=1920&h=1080",
-            "publishedAt": "2023-10-19T11:00:01Z",
-            "content": "It's no secret that Shein has ambitions to go public, but the fast-fashion juggernaut will have to overcome a slew of hurdles before it can win over Wall Street.\r\nThe digitally native retailer skyroc… [+16006 chars]"
+            "author": "Akanksha Bakshi",
+            "title": "Asia And Europe Markets Dip, Crude Slips To $85 - Global Markets Today While US Was Sleeping - ETC Gaveka - Benzinga",
+            "description": "On Wednesday, October 18, the U.S. stock markets ended lower due to rising Treasury yields and investor assessments of recent corporate earnings and forecasts. Investors await Powell’s Speech at Economic Club of New York, amidst recent strong U.S. data.",
+            "url": "https://www.benzinga.com/markets/asia/23/10/35324951/asia-and-europe-markets-dip-crude-slips-to-85-global-markets-today-while-us-was-sleeping",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2023/10/19/asia_stocks-_photo_by_markus_spiske_on_unsplash.jpg?width=1200&height=800&fit=crop",
+            "publishedAt": "2023-10-19T10:39:15Z",
+            "content": "On Wednesday, October 18, the U.S. stock markets ended lower due to rising Treasury yields and investor assessments of recent corporate earnings and forecasts. Investors await Powells Speech at Econo… [+2219 chars]"
         },
         {
             "source": {
@@ -823,16 +797,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Investopedia"
+                "id": "financial-times",
+                "name": "Financial Times"
             },
-            "author": "Sabrina Karl",
-            "title": "Top CD Rates Today: One 6.50% Leader and a 6% Runner-Up - Investopedia",
-            "description": "The best CD rates available nationwide are 6.50% from Financial Partners Credit Union for 8 months and 6.00% from Credit Human on a take-your-pick term of 12-17 months.",
-            "url": "https://www.investopedia.com/top-cd-rates-today-one-6-50-leader-and-a-6-runner-up-8363543",
-            "urlToImage": "https://www.investopedia.com/thmb/OJi2V4Y_aylwH7UaxwbX-3PYbFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1018v3-04376bd81af442b49000d3d8026e4777.png",
-            "publishedAt": "2023-10-18T21:56:55Z",
-            "content": "Four days after being unveiled, the market-leading CD paying an eye-popping 6.50% APY is holding its ground. Often, when a promotional CD is launched at a rate far above the next-best option, it last… [+6188 chars]"
+            "author": "Stephen Gandel",
+            "title": "Late payments rise on US loans tied to inflated pandemic credit scores - Financial Times",
+            "description": "Emergency cash and repayment freeze gave lenders an ‘opportunity to juice up their growth’",
+            "url": "https://www.ft.com/content/ac880c02-c4c7-4424-8165-3d900a87bd52",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F5fb9d60f-58b8-4360-b1cd-b34a910bd9f3.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-10-19T04:00:43Z",
+            "content": "US borrowers who took on new debt in the middle of the pandemic are falling behind on repayments at unusually high rates, after lenders extended more credit to households helped by government stimulu… [+3552 chars]"
         },
         {
             "source": {
@@ -841,11 +815,11 @@
             },
             "author": "SAP News",
             "title": "SAP Announces Q3 2023 Results - SAP News",
-            "description": null,
+            "description": "WALLDORF — The company announced financial results for the quarter ended September 30, 2023.",
             "url": "https://news.sap.com/2023/10/sap-announces-q3-2023-results/",
-            "urlToImage": null,
+            "urlToImage": "https://news.sap.com/wp-content/blogs.dir/1/files/SAP_Walldorf_006_F.jpg",
             "publishedAt": "2023-10-18T20:10:28Z",
-            "content": null
+            "content": "WALLDORF SAP SE (NYSE: SAP) today announced its financial results for the third quarter ended September 30, 2023.“Our Q3 results are yet another proof point that we have entered the next phase of our… [+708 chars]"
         },
         {
             "source": {

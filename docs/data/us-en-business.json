@@ -4,29 +4,315 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Orlando Sentinel"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Roger Simmons",
-            "title": "Spirit Airlines cancels more than 40 flights at Orlando International Airport - Orlando Sentinel",
-            "description": "“We’ve cancelled a portion of our scheduled flights to perform a necessary inspection of a small section of 25 of our aircraft,” Spirit said in a statement to the Orlando Sentinel…",
-            "url": "http://www.orlandosentinel.com/2023/10/20/spirit-airlines-cancels-more-than-40-flights-at-orlando-international-airport/",
-            "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2023/10/TOS-L-OIA-Spirit-Airlines-04-1.jpg?w=1024&h=621",
-            "publishedAt": "2023-10-20T18:31:55Z",
-            "content": "More than 40 Spirit Airlines flights to and from Orlando International Airport were canceled Friday because the carrier needed to inspect on some of its planes an issue expected to upend flight sched… [+2900 chars]"
+            "author": "Reuters",
+            "title": "US judge approves Deutsche Bank $75 million settlement with Epstein accusers - CNN",
+            "description": "Deutsche Bank on Friday won final approval from a US judge for a $75 million settlement it reached with victims of Jeffrey Epstein who had accused the German company of facilitating the late financier’s alleged sex trafficking.",
+            "url": "https://www.cnn.com/2023/10/20/business/deutsche-bank-settlement-epstein-accusers/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231020192647-deutsche-bank-file-2022.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-20T23:31:00Z",
+            "content": "Deutsche Bank on Friday won final approval from a US judge for a $75 million settlement it reached with victims of Jeffrey Epstein who had accused the German company of facilitating the late financie… [+1739 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Man wins $10M after letting clerk pick scratch-off ticket in Visalia - KABC-TV",
+            "description": "A man won $10 million after he asked a clerk to help him pick out a scratch-off lottery ticket at a gas station in Visalia.",
+            "url": "https://abc7.com/lottery-scratchers-10-million-top-prize-california-200x/13942784/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13942774_winning-scratcher-img.jpg?w=1600",
+            "publishedAt": "2023-10-20T23:02:10Z",
+            "content": "VISALIA, Calif. -- A man won $10 million after he asked a clerk to help him pick out a scratch-off lottery ticket at a gas station in Visalia.\r\nBrent Young says he was having trouble picking which ga… [+1643 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph White, Ben Klayman",
+            "title": "UAW presses Detroit automakers for better offer, threatens more walkouts - Reuters",
+            "description": "United Auto Workers President Shawn Fain on Friday warned of more walkouts at U.S. truck and SUV factories unless the Detroit Three automakers improved wage and benefit offers, insisting companies could afford more than the record packages on the table.",
+            "url": "https://www.reuters.com/business/autos-transportation/gm-makes-new-offer-uaw-sees-movement-all-key-areas-2023-10-20/",
+            "urlToImage": "https://www.reuters.com/resizer/2eWtjHsHlJ4x8obx7t27-Zbtd4o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WOOTWVVLSROT3OKKZT2IYSPDZQ.jpg",
+            "publishedAt": "2023-10-20T22:35:00Z",
+            "content": "DETROIT, Oct 20 (Reuters) - United Auto Workers President Shawn Fain on Friday warned of more walkouts at U.S. truck and SUV factories unless the Detroit Three automakers improved wage and benefit of… [+4743 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Gina Heeb",
+            "title": "More Regional Banks Earnings Are Out: Huntington, Comerica, Regions Financial - The Wall Street Journal",
+            "description": "Solar-power, bank stocks slide; Treasury yields hold above 4.9%",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-10-20-2023",
+            "urlToImage": "https://images.wsj.net/im-872454/social",
+            "publishedAt": "2023-10-20T21:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WESH Orlando"
+            },
+            "author": "Chelsea Robinson",
+            "title": "Spirit cancels dozens of Orlando flights - WESH 2 Orlando",
+            "description": "A statement from Spirit reads that the impacts are expected to last several days:",
+            "url": "https://www.wesh.com/article/spirit-orlando-flights-canceled/45595042",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1332590487-65326c595170e.jpg?crop=1.00xw:0.850xh;0,0.0343xh&resize=1200:*",
+            "publishedAt": "2023-10-20T21:17:00Z",
+            "content": "ORLANDO, Fla. —Spirit canceled dozens of flights Friday morning.\r\nDozens of Orlando flights were canceled, and about 100 nationwide.\r\nWESH 2 has reached out to Spirit for more information about the r… [+1602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Amazon will now fire workers who refuse to return to the office three days a week - Fox Business",
+            "description": "Amazon informed its managers this week they can terminate employees who are refusing to comply with the retail giant's return-to-office policy.",
+            "url": "https://www.foxbusiness.com/markets/amazon-will-now-fire-workers-refuse-return-office-three-days-week",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/Needle.jpg?ve=1&tl=1",
+            "publishedAt": "2023-10-20T21:06:11Z",
+            "content": "Amazon employees who still refuse to comply with the retail giant's return-to-office policy may soon get the boot.\r\nBusiness Insider reported the company circulated new guidance to managers this week… [+3890 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mike Snider",
+            "title": "Chick-fil-A class action lawsuit $4.4M settlement reportedly reached - USA TODAY",
+            "description": "Chick-fil-A will reportedly pay $4.4 million to settle a class action lawsuit charging the chain had misleading delivery fees amid COVID-19 pandemic.",
+            "url": "https://www.usatoday.com/story/money/food/2023/10/20/chick-fil-a-class-action-lawsuit-settlement/71253641007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/20/USAT/71258162007-usatsi-21677964.jpg?crop=4475,2518,x0,y405&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-10-20T20:52:01Z",
+            "content": "Chick-fil-A has reportedly agreed to pay customers $4.4 million in rebates or gift cards to settle a class action suit filed against the chain for misleading delivery fees.\r\nThe Atlanta-headquartered… [+2938 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Megan Henney",
+            "title": "The reality of 8% mortgage rates - Fox Business",
+            "description": "Mortgage rates have skyrocketed in the wake of the Federal Reserve's aggressive interest rate hike campaign, costing U.S. homebuyers thousands of dollars.",
+            "url": "https://www.foxbusiness.com/economy/reality-eight-percent-mortgage-rates",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/new-home-construction.jpg?ve=1&tl=1",
+            "publishedAt": "2023-10-20T20:38:23Z",
+            "content": "Mortgage rates continued their unrelenting upward climb last week, adding potentially thousands in additional costs for would-be homebuyers.\r\nRates on the popular 30-year fixed mortgage are currently… [+2955 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Ana Teresa Solá",
-            "title": "As mortgage rates hit 8%, home 'affordability is incredibly difficult,' economist says - CNBC",
-            "description": "Mortgage rates hit 8% for the first time in decades. Homebuyers must earn $114,627 to afford a median-priced house in the U.S., found real estate firm Redfin.",
-            "url": "https://www.cnbc.com/2023/10/20/what-8percent-mortgage-rates-mean-for-home-affordability.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107053767-1651251933744-gettyimages-1329584004-pam_2940copy.jpeg?v=1697826810&w=1920&h=1080",
-            "publishedAt": "2023-10-20T18:05:05Z",
-            "content": "The average 30-year fixed mortgage rate just hit 8% for the first time since 2000, putting housing financing costs at historically high levels.\r\nGiven high prices and high interest rates, homebuyers … [+4715 chars]"
+            "author": "Lora Kolodny",
+            "title": "Tesla stock ends the week down 15%, the worst performance of the year - CNBC",
+            "description": "Tesla stock dropped more than 15% over the last few days to close the week at $211.99 after the company posted third-quarter earnings on Wednesday.",
+            "url": "https://www.cnbc.com/2023/10/20/tesla-stock-ends-the-week-down-15percent-the-worst-performance-of-the-year.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107258291-16869279412023-06-16t150148z_500510973_rc2fk1aj92be_rtrmadp_0_france-tech-musk.jpeg?v=1697833415&w=1920&h=1080",
+            "publishedAt": "2023-10-20T20:23:35Z",
+            "content": "Tesla shares dropped more than 15% over the last few days to close the week at $211.99 after CEO Elon Musk waxed pessimistic about macroeconomic issues on a third-quarter earnings call Wednesday.\r\nIt… [+4498 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Information"
+            },
+            "author": "Maria Heeter, Ann Gehan, Nick Wingfield, Theo Wayt",
+            "title": "How Trucking Startup Convoy Drove Itself Into the Ground - The Information",
+            "description": "On Wednesday morning at 7:30 a.m, the mimosas started flowing at Convoy’s Seattle headquarters. It wasn’t a celebration. After months of Convoy trying desperately to raise cash or find a buyer, employees had just been ordered to stop taking new orders and can…",
+            "url": "https://www.theinformation.com/articles/how-trucking-startup-convoy-drove-itself-into-the-ground",
+            "urlToImage": "https://tii.imgix.net/production/articles/11550/9fb657e4-6407-410d-984f-fc4ec9f8fb83.png?w=1200&h=627&frame=1&fm=jpg&auto=compress&q=95&fit=crop&blend-mode=normal&blend-align=bottom&blend-x=0&blend64=aHR0cHM6Ly90aWkuaW1naXgubmV0L350ZXh0P3c9MTIwMCZoPTIwMCZiZz1GQTAwMDAwMCZ0eHRmb250PUdlb3JnaWEmdHh0c2l6ZT00MCZ0eHRjb2xvcj1GRkZGRkYmdHh0cGFkPTQwJnR4dGZpdD1tYXgmdHh0bGVhZD0xNSZ0eHRhbGlnbj10b3AlMkNsZWZ0JnR4dD1Ib3crVHJ1Y2tpbmcrU3RhcnR1cCtDb252b3krRHJvdmUrSXRzZWxmK0ludG8rdGhlK0dyb3VuZA%3D%3D&mark=https%3A%2F%2Ftii.imgix.net%2F~text%3Ftxt-font%3DAppleSDGothicNeo-Bold%26txt-size%3D20%26txt-color%3DEF4136%26txt-pad%3D8%26txt-fit%3Dmax%26txt-align%3Dleft%26txt%3DEXCLUSIVE&mark-x=32&mark-y=435",
+            "publishedAt": "2023-10-20T20:05:00Z",
+            "content": "On Wednesday morning at 7:30 a.m, the mimosas started flowing at Convoys Seattle headquarters. It wasnt a celebration. After months of Convoy trying desperately to raise cash or find a buyer, employe… [+1230 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Nadine El-Bawab",
+            "title": "60,000 gun safes recalled after shooting death - ABC News",
+            "description": "The gun safes' biometric feature can work improperly.",
+            "url": "https://abcnews.go.com/US/60000-gun-safes-recalled-after-shooting-death/story?id=104181859",
+            "urlToImage": "https://i.abcnewsfe.com/a/05b7a7ce-20c9-4777-83b7-b8f44df72dbd/safe-ht-ml-231020_1697826887324_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-10-20T19:33:53Z",
+            "content": "The U.S. Consumer Product Safety Commission has announced a recall of more than 60,000 biometric gun safes because of a programming feature that \"can allow unauthorized access to the safes.\"\r\nAt leas… [+1504 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Rohan Goswami",
+            "title": "Okta shares fall 11% after company says client files were accessed by hackers via its support system - CNBC",
+            "description": "Cybersecurity firm Okta said an unidentified hacker had accessed the company's support system and viewed client files.",
+            "url": "https://www.cnbc.com/2023/10/20/okta-shares-fall-after-company-says-client-files-were-accessed-by-hackers-via-its-support-system.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106977119-1637194215970-gettyimages-1231471976-OKTA_EARNS.jpeg?v=1697829961&w=1920&h=1080",
+            "publishedAt": "2023-10-20T19:22:54Z",
+            "content": "Shares of cybersecurity firm Okta closed down 11.5% after the company said an unidentified hacking group had accessed files that \"certain Okta customers\" had uploaded to Okta's support system.\r\nOkta … [+789 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Siyi Liu, Dominique Patton",
+            "title": "China, world's top graphite producer, tightens exports of key battery material - Reuters",
+            "description": "China said on Friday it will require export permits for some graphite products to protect national security, springing a surprise with another bid to control critical mineral supply in response to challenges over its global manufacturing dominance.",
+            "url": "https://www.reuters.com/world/china/china-require-export-permits-some-graphite-products-dec-1-2023-10-20/",
+            "urlToImage": "https://www.reuters.com/resizer/j2BnltoaMNDfkexyAiBdsxYnTtU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TPYVYNISU5PO7A62T4TSLKI6Z4.jpg",
+            "publishedAt": "2023-10-20T19:18:21Z",
+            "content": "BEIJING, Oct 20 (Reuters) - China said on Friday it will require export permits for some graphite products to protect national security, springing a surprise with another bid to control critical mine… [+6185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "XRP rises after SEC drops claims against Ripple Labs executives: CNBC Crypto World - CNBC Television",
+            "description": "CNBC Crypto World features the latest news and daily trading updates from the digital currency markets and provides viewers with a look at what’s ahead with ...",
+            "url": "https://www.youtube.com/watch?v=BkzEY_8sQbM",
+            "urlToImage": "https://i.ytimg.com/vi/BkzEY_8sQbM/maxresdefault.jpg",
+            "publishedAt": "2023-10-20T19:03:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AnandTech"
+            },
+            "author": "Ryan Smith",
+            "title": "Samsung Announces 'Shinebolt' HBM3E Memory: HBM Hits 36GB Stacks at 9.8 Gbps - AnandTech",
+            "description": "Samsung&rsquo;s annual Memory Tech Day is taking place in San Jose this morning, and as part of the event, the company is making a...",
+            "url": "https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps",
+            "urlToImage": "https://images.anandtech.com/doci/21104/HBM3E-Shinebolt_678x452.jpg",
+            "publishedAt": "2023-10-20T19:00:00Z",
+            "content": "Samsung’s annual Memory Tech Day is taking place in San Jose this morning, and as part of the event, the company is making a couple of notable memory technology announcements/disclosures. The highlig… [+9351 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anna Bahney",
+            "title": "Why the housing market is going from tough to terrible - CNN",
+            "description": "Mortgage rates are nearing 8%. Prices have climbed for the past three months straight. And there were fewer homes on the market in September than any September ever. No wonder home sales just hit a 13-year low. It is a crummy time to try to buy a house.",
+            "url": "https://www.cnn.com/2023/10/20/homes/housing-market-challenges/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231020132802-us-housing-market-1019.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-20T18:54:00Z",
+            "content": "Mortgage rates are nearing 8%. Prices have climbed for the past three months straight. And there were fewer homes on the market in September than any September ever. No wonder home sales just hit a 1… [+4142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Fred Lambert",
+            "title": "Tesla shot a Tommy gun at a Cybertruck, here's the result - Electrek",
+            "description": "Tesla tested the bulletproof capacity of the Cybertruck by shooting a Tommy gun at the electric pickup truck. Here’s the...",
+            "url": "https://electrek.co/2023/10/20/tesla-shot-tommy-gun-cybertruck-result/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/Tesla-Cybertruck-bullet-testing.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-10-20T18:38:00Z",
+            "content": "Tesla tested the bulletproof capacity of the Cybertruck by shooting a Tommy gun at the electric pickup truck. Heres the result.\r\nWhen first unveiling the Cyvertruck, Tesla claimed that the electric p… [+1487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "San Francisco Chronicle",
+            "title": "S.F. area loses 10000 jobs in September. These industries were the hardest-hit - San Francisco Chronicle",
+            "description": null,
+            "url": "https://www.sfchronicle.com/bayarea/article/s-f-loses-10-000-jobs-unemployment-falls-18438178.php",
+            "urlToImage": null,
+            "publishedAt": "2023-10-20T18:33:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Tech Giant's Slump Deepens Despite AI Event - Investor's Business Daily",
+            "description": "Oracle stock is falling Friday, the day after the company hosted a forum on artificial intelligence uses for its cloud business.",
+            "url": "https://www.investors.com/news/technology/oracle-stock-falls-after-ai-event-highlighted-challenging-buildout/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2018/12/stock-oracle-07-shutter.jpg",
+            "publishedAt": "2023-10-20T18:28:00Z",
+            "content": "Oracle (ORCL) stock was down sharply Friday, the day after it hosted a forum on artificial intelligence. Oracle stock analysts came away from the event largely positive but noted there are ongoing su… [+3990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The options market implied move for Meta is on the cheaper side, says Susquehanna's Chris Murphy - CNBC Television",
+            "description": "Chris Murphy, Susquehanna co-head of derivative strategy, and CNBC's Deirdre Bosa join 'The Exchange' to discuss upcoming big tech earnings, investor expecta...",
+            "url": "https://www.youtube.com/watch?v=8Yl_8W8bmp4",
+            "urlToImage": "https://i.ytimg.com/vi/8Yl_8W8bmp4/maxresdefault.jpg",
+            "publishedAt": "2023-10-20T18:21:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "William Watts",
+            "title": "Stock-market volatility gauge hits highest since March. Still not a 'buy' signal, technicians say. - MarketWatch",
+            "description": "VIX not a ‘leading indicator’: analyst",
+            "url": "https://www.marketwatch.com/story/stock-market-volatility-gauge-hits-highest-since-march-still-not-a-buy-signal-technicians-say-cfa183ec",
+            "urlToImage": "https://images.mktw.net/im-866370/social",
+            "publishedAt": "2023-10-20T18:20:00Z",
+            "content": "A closely watched gauge of expected U.S. stock-market volatility broke out to its highest reading since March on Friday. Thats still probably not enough to tempt contrarians to buy the dip in stocks … [+3889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Earnings Calendar Spotlight: Microsoft, Meta, Amazon Headline Huge Week Of Tech Earnings - Investor's Business Daily",
+            "description": "Other technology names on the earnings calendar include Cadence Design Systems and enterprise software giant ServiceNow.",
+            "url": "https://www.investors.com/research/earnings-preview/earnings-calendar-spotlight-microsoft-meta-amazon-headline-huge-week-of-tech-earnings/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/08/Stock-calendargeneric-01-adobe.jpg",
+            "publishedAt": "2023-10-20T18:10:00Z",
+            "content": "The earnings calendar is home to plenty of high-profile reports in the coming week with the stock market uptrend under pressure. In the wake of strong results from Netflix (NFLX) but a decidedly weak… [+7027 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mary Kekatos, Dr. Jade Cobern",
+            "title": "CVS removing decongestant from shelves after FDA panel says it's ineffective - ABC News",
+            "description": "The panel voted that phenylephrine works no better than a placebo.",
+            "url": "https://abcnews.go.com/Health/cvs-removing-decongestant-shelves-after-fda-panel-ineffective/story?id=104176415",
+            "urlToImage": "https://i.abcnewsfe.com/a/84818447-c124-43b3-b851-61c6b6ff9a00/cvs1-file-gty-ml-230801_1690904841665_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-10-20T18:05:06Z",
+            "content": "CVS Health is planning to remove one type of a common decongestant from shelves after an advisory committee to the U.S. Food and Drug Administration said it was ineffective earlier this year.\r\nThe pr… [+3045 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KING5.com"
+            },
+            "author": "Alex Didion",
+            "title": "Here's how much income is needed to afford typical Seattle home in 2023 - KING5.com",
+            "description": "Seattle's income required to afford a median-price home is higher than any metro area in the U.S. outside of California, according to Redfin data.",
+            "url": "https://www.king5.com/article/money/markets/real-estate/income-needed-afford-typical-seattle-home-2023/281-2f1db117-6a79-4bd9-ab84-66cd8efdf353",
+            "urlToImage": "https://media.king5.com/assets/KING/images/d1c99885-c07b-491d-a845-0562bd21a6d5/d1c99885-c07b-491d-a845-0562bd21a6d5_1140x641.jpg",
+            "publishedAt": "2023-10-20T17:58:00Z",
+            "content": "SEATTLE It is more affordable to shop for a median-priced home in New York City, Boston or any other major U.S. metro area outside of the state of California than it is in Seattle, according to new R… [+2108 chars]"
         },
         {
             "source": {
@@ -57,41 +343,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Detroit Free Press"
-            },
-            "author": "Jamie L. LaReau",
-            "title": "GM makes new contract offer to UAW with wage increases, improved COLA - Detroit Free Press",
-            "description": "Friday morning, hours before UAW President Fain was due to go live with a bargaining update, GM put a new contract proposal on the table.",
-            "url": "https://www.freep.com/story/money/cars/general-motors/2023/10/20/uaw-strike-gm-offer-wage-increases-cola/71255099007/",
-            "urlToImage": "https://www.freep.com/gcdn/presto/2023/03/23/PDTF/ce683da5-e077-42ce-82fe-96f811aef422-GMIMG_7361.jpg?crop=2399,1350,x0,y160&width=2399&height=1350&format=pjpg&auto=webp",
-            "publishedAt": "2023-10-20T17:30:44Z",
-            "content": "General Motors made a new contract proposal Friday to the United Auto Workers that offers higher wages, an improved cost-of-living adjustment (COLA) formula, a faster path to the top wage for hourly … [+4544 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNBC"
             },
-            "author": "Jessica Dickler, Greg Iacurci",
-            "title": "The 10-year Treasury yield just crossed 5% for the first time since 2007: Here’s what that means for you - CNBC",
-            "description": "The yield on the benchmark 10-year Treasury crossed 5%, causing a ripple effect that could raise rates on mortgages, student debt, auto loans and more.",
-            "url": "https://www.cnbc.com/2023/10/20/what-the-10-year-treasury-yield-crossing-5percent-means-for-you.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107320246-16977353202023-10-19t170313z_1243074500_rc2sv3al61dp_rtrmadp_0_usa-fed-powell.jpeg?v=1697821771&w=1920&h=1080",
-            "publishedAt": "2023-10-20T17:09:31Z",
-            "content": "The yield on the benchmark 10-year Treasury crossed 5% for the first time in 16 years on Thursday, causing a ripple effect that could raise rates on mortgages, student debt, auto loans and more.\r\nAft… [+4815 chars]"
+            "author": "MacKenzie Sigalos, Ari Levy",
+            "title": "Prosecutors in Bankman-Fried trial compare defense argument to 'Dumb and Dumber' - CNBC",
+            "description": "In a brief to Judge Lewis Kaplan on Thursday, prosecutors compared one of the defense's jury instructions to a scene in the 1994 comedy starring Jim Carrey.",
+            "url": "https://www.cnbc.com/2023/10/20/prosecutors-in-sbf-trial-compare-defense-argument-to-dumb-and-dumber.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107217807-16801885392023-03-30t144048z_641440115_rc2e40apzg4k_rtrmadp_0_usa-bankmanfried.jpeg?v=1697829954&w=1920&h=1080",
+            "publishedAt": "2023-10-20T17:43:42Z",
+            "content": "Prosecutors in the criminal trial against FTX founder Sam Bankman-Fried compared one of the defense's arguments to a scene in the 1994 film \"Dumb and Dumber,\" in which actor Jim Carrey says IOUs are … [+3464 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
+                "name": "YouTube"
             },
-            "author": "Philip van Doorn",
-            "title": "Is Tesla starting to look like just any old carmaker? - MarketWatch",
-            "description": "Also: Medicare timing, Apple’s bonds, Nvidia and a semiconductor stock screen and numbers for prospective home buyers as mortgage-loan rates near 8%",
-            "url": "https://www.marketwatch.com/story/is-tesla-starting-to-look-like-just-any-old-carmaker-b715ac26",
-            "urlToImage": "https://images.mktw.net/im-872035/social",
-            "publishedAt": "2023-10-20T16:57:00Z",
-            "content": "Shares of Tesla Inc. were up 79% for 2023 through Thursdays close at $220.11, but they were down 15% from a week earlier and down 24% from this years closing high of $291.26 on July 18.Tesla \r\n TSLA,… [+8043 chars]"
+            "author": null,
+            "title": "Cleveland Fed Pres. Loretta Mester: The Fed funds rate is at or near the hold level - CNBC Television",
+            "description": "CNBC's Steve Liesman joins 'Halftime Report' to discuss comments from Cleveland Fed President Loretta Mester detailing her support for an additional Fed rate...",
+            "url": "https://www.youtube.com/watch?v=xKkiRLdKeSU",
+            "urlToImage": "https://i.ytimg.com/vi/xKkiRLdKeSU/maxresdefault.jpg",
+            "publishedAt": "2023-10-20T16:54:15Z",
+            "content": null
         },
         {
             "source": {
@@ -108,29 +381,42 @@
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Anna Hirtenstein",
-            "title": "Solar-Power Stocks Tumble After SolarEdge Warns of Slowing Installations - The Wall Street Journal",
-            "description": "Live coverage of stocks and financial news, including the S&P 500, Dow and Nasdaq Composite.",
-            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-10-20-2023",
-            "urlToImage": "https://images.wsj.net/im-872442/social",
-            "publishedAt": "2023-10-20T16:30:00Z",
-            "content": null
+            "author": "Patrick Wingrove, Maggie Fick",
+            "title": "Demand for weight-loss drugs fuels global rise in counterfeits - Reuters",
+            "description": "Extraordinary demand for Novo Nordisk’s <a href=\"https://www.reuters.com/markets/companies/NOVOb.CO\" target=\"_blank\">(NOVOb.CO)</a> Ozempic and other drugs used for weight-loss is fueling a global surge in counterfeit versions, according to Reuters interviews…",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/demand-weight-loss-drugs-fuels-global-rise-counterfeits-2023-10-20/",
+            "urlToImage": "https://www.reuters.com/resizer/9K92m7cygzQIkoL_HFECUMNtmKI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AYK5BQNSWNLXFOVIOBX4NR3C24.jpg",
+            "publishedAt": "2023-10-20T15:58:00Z",
+            "content": "Oct 20(Reuters) - Extraordinary demand for Novo Nordisks (NOVOb.CO) Ozempic and other drugs used for weight-loss is fueling a global surge in counterfeit versions, according to Reuters interviews wit… [+4565 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investor's Business Daily"
+                "name": "New York Post"
             },
-            "author": "Investor's Business Daily",
-            "title": "Stock Market Struggles As Treasury Yields Soar; Tesla, Nvidia Among Notable Losers: Weekly Review - Investor's Business Daily",
-            "description": null,
-            "url": "https://www.investors.com/news/stock-market-struggles-as-treasury-yields-soar-tesla-nvidia-among-notable-losers/",
-            "urlToImage": null,
-            "publishedAt": "2023-10-20T15:49:00Z",
-            "content": null
+            "author": "Thomas Barrabi",
+            "title": "Elon Musk's X plots two new subscription tiers -- as traffic reportedly plunges - New York Post ",
+            "description": "“One is lower cost with all features, but no reduction in ads, and the other is more expensive, but has no ads,” Musk wrote on X.",
+            "url": "https://nypost.com/2023/10/20/elon-musks-x-plots-two-new-subscription-tiers-as-traffic-reportedly-plunges/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000061738056-1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-10-20T15:55:00Z",
+            "content": "X owner Elon Musk revealed plans for two new paid subscription plans for users even as his embattled social media site reportedly contends with a significant decline in web traffic.\r\nMusk, who has le… [+2919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Aoyon Ashraf",
+            "title": "Coinbase's Grewal Is 'Quite Hopeful' That Bitcoin Spot ETFs Will be Approved - CoinDesk",
+            "description": "Grewal said in a CNBC interview that the SEC approvals of the ETF applications could be coming soon.",
+            "url": "https://www.coindesk.com/business/2023/10/20/coinbases-grewal-is-quite-hopeful-that-bitcoin-spot-etfs-will-be-approved/",
+            "urlToImage": "https://www.coindesk.com/resizer/qK3bCwiN7T9VuhlT9b_drVrapKw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QONPABSXNVH4VOBZFYVDPDDAVY.jpg",
+            "publishedAt": "2023-10-20T15:46:00Z",
+            "content": "Crypto exchange Coinbase's (COIN) chief legal officer Paul Grewal is \"quite hopeful\" that bitcoin spot exchange-traded fund (ETF) applications will be approved by the U.S. Securities and Exchange Com… [+1605 chars]"
         },
         {
             "source": {
@@ -148,93 +434,80 @@
         {
             "source": {
                 "id": null,
-                "name": "Above the Law"
+                "name": "Investor's Business Daily"
             },
-            "author": "Joe Patrice",
-            "title": "Stephen Miller Takes Break From Suing Gay Pop-Tarts To Sue NYU Law Review - Above the Law",
-            "description": "America First Legal accuses NYU Law Review of discriminating against white man who hasn't even tried to apply yet.",
-            "url": "https://abovethelaw.com/2023/10/stephen-miller-nyu-law-review-suit/",
-            "urlToImage": "https://abovethelaw.com/uploads/2023/10/Screenshot-2023-10-20-at-11.00.39-AM.png",
-            "publishedAt": "2023-10-20T15:43:16Z",
-            "content": "Former Trump administration functionary Stephen Miller is not a lawyer, but he likes playing one on TV. Despite his complete lack of legal education, Miller founded “America First Legal” to pursue va… [+2307 chars]"
+            "author": "Investor's Business Daily",
+            "title": "SolarEdge Down 30%; Major Warning About Demand In Europe Drags Down Solar Stocks - Investor's Business Daily",
+            "description": "Solar stocks were sinking in early trading Friday, after top manufacturer SolarEdge warned that demand in Europe had weakened significantly.",
+            "url": "https://www.investors.com/news/technology/solar-stocks-sink-after-dire-warning-about-demand-in-europe/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2020/01/stock-Solar-Edge-01-shutter.jpg",
+            "publishedAt": "2023-10-20T15:44:00Z",
+            "content": "Solar stocks took a huge hit Friday after a top manufacturer warned that demand in Europe had significantly weakened.\r\nXSolarEdge Technologies (SEDG) fell nearly 30% on the stock market today. That's… [+4323 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "OilPrice.com"
             },
-            "author": "Yun Li",
-            "title": "Regional bank shares slump as lenders warn of more pain from higher interest rates - CNBC",
-            "description": "Several weak quarterly earnings reports highlighting the negative effect of higher interest rates soured investor sentiment on the industry.",
-            "url": "https://www.cnbc.com/2023/10/20/regional-bank-shares-slump-as-lenders-warn-of-pain-from-high-rates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107208280-1678799318490-gettyimages-1248203625-AFP_33BA7JA.jpeg?v=1697815188&w=1920&h=1080",
-            "publishedAt": "2023-10-20T15:19:48Z",
-            "content": "Regions Financial, a Birmingham, Alabama-based lender, posted a 6.5% decline in net interest income compared with the previous quarter. The bank also expects a further drop in NII, seeing a 5% declin… [+983 chars]"
+            "author": "Editorial Dept",
+            "title": "The U.S. Is Running Out Of Ways To Influence Oil Prices - OilPrice.com",
+            "description": "The U.S. is quickly running out of ways to influence oil markets as its list of sanctions grows while its oil reserves remain depleted.",
+            "url": "https://oilprice.com/Energy/Energy-General/The-US-Is-Running-Out-Of-Ways-To-Influence-Oil-Prices.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-10-20_za09h32clw.jpg",
+            "publishedAt": "2023-10-20T15:35:20Z",
+            "content": "Oil prices fell back slightly…\r\nIndia's steel industry faces concerns…\r\nCoal inventories at Indias power…\r\nBy Editorial Dept - Oct 20, 2023, 9:00 AM CDTPolitics, Geopolitics &amp; Conflict\r\nThe Biden… [+6559 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "ars-technica",
+                "name": "Ars Technica"
             },
-            "author": "Jim Sergent",
-            "title": "Home sales are on track to hit the slowest year since Great Recession - USA TODAY",
-            "description": "The National Association of Realtors reported existing home sales fell through the psychologically significant annual rate of 4 million homes sold.",
-            "url": "https://www.usatoday.com/story/graphics/2023/10/20/home-sales-decline-housing-bust-level/71242549007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/20/USAT/71252076007-mortgagehouse.png?crop=4090,2301,x30,y63&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-10-20T15:04:23Z",
-            "content": "Home sales numbers released Thursday offered a sobering mix of news: The number of existing homes sold fell to levels not seen since the fallout of the Great Recession. At the same time, prices remai… [+3885 chars]"
+            "author": "Jonathan M. Gitlin",
+            "title": "BMW, Mini, Rolls-Royce, Toyota, and Lexus are switching EV plugs - Ars Technica",
+            "description": "Volkswagen Group and Stellantis are the last remaining holdouts.",
+            "url": "https://arstechnica.com/cars/2023/10/bmw-mini-rolls-royce-toyota-and-lexus-are-switching-ev-plugs/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1456964011-760x380.jpg",
+            "publishedAt": "2023-10-20T15:34:36Z",
+            "content": "164 with \r\nMore automakers this week announced a switch in the style of charging plugs that will be fitted to their future electric vehicles. On Wednesday BMW broke its news, then yesterday Toyota di… [+2658 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Barron's"
             },
-            "author": "Adam Clark",
-            "title": "China to Curb Graphite Exports. What It Means for Tesla and Other EV Stocks. - Barrons - Barron's",
-            "description": "The Chinese government is planning additional controls on exports of graphite, a key material for electric-vehicle batteries.",
-            "url": "https://www.barrons.com/articles/tesla-china-graphite-exports-c56bb98a",
-            "urlToImage": "https://images.barrons.com/im-466714/social",
-            "publishedAt": "2023-10-20T14:46:00Z",
-            "content": "Updated Oct 20, 2023, 10:46 am EDT / Original Oct 20, 2023, 5:41 am EDT"
+            "author": "Nicholas Jasinski",
+            "title": "The 10-Year Treasury Yield Came Close to 5%. What That Means for Stocks, Gold, and More. - Barrons - Barron's",
+            "description": "Investors continue to push bond yields higher as the strength of the economy surprises.",
+            "url": "https://www.barrons.com/articles/10-year-treasury-yield-stocks-gold-599bbf6a",
+            "urlToImage": "https://images.barrons.com/im-15617915/social",
+            "publishedAt": "2023-10-20T15:33:45Z",
+            "content": "Updated Oct 20, 2023, 11:39 am EDT / Original Oct 19, 2023, 7:45 am EDT"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investor's Business Daily"
+                "name": "WTOP"
             },
-            "author": "Investor's Business Daily",
-            "title": "ISRG Stock Dives As Weight-Loss Drugs Squeeze Robot-Assisted Bariatric Surgery - Investor's Business Daily",
-            "description": "Though profit beat expectations, Intuitive Surgical's third-quarter sales came up short.",
-            "url": "https://www.investors.com/news/technology/isrg-stock-intuitive-surgical-earnings-q3-2023/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/11/stock-Intuitive-Surgical-06-shutter.jpg",
-            "publishedAt": "2023-10-20T14:21:00Z",
-            "content": "Intuitive Surgical (ISRG) doesn't expect weight-loss drugs to have a long-term impact on its business, but ISRG stock tumbled Friday on the company's light third-quarter sales.\r\nXDuring the September… [+4040 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Barbara Kollmeyer",
-            "title": "A contrarian 'buy signal' for stocks has been triggered, as investors flee cash, says Bank of America - MarketWatch",
-            "description": "Michael Hartnett, Bank of America’s chief investment strategist, says their Bull & Bear Indicator is now in \"extreme bearish\" territory and money-market...",
-            "url": "https://www.marketwatch.com/story/a-contrarian-buy-signal-for-stocks-has-been-triggered-as-investors-flee-cash-says-bank-of-america-54449156",
-            "urlToImage": "https://images.mktw.net/im-872419/social",
-            "publishedAt": "2023-10-20T13:29:00Z",
-            "content": "Swallow your fears because its time to buy stocks. Thats according to a team led by Michael Hartnett, Bank of Americas chief investment strategist, who said their Bull &amp; Bear Indicator is now in … [+2804 chars]"
+            "author": "Jeff Clabaugh",
+            "title": "2 DC ZIP codes lead nation for new apartment construction - WTOP",
+            "description": "A RentCafe report says 1.2 million new rental units have popped up in cities across the country between 2017 and 2022, many in prime city-center locations and many amenity-rich buildings.",
+            "url": "https://wtop.com/business-finance/2023/10/two-dc-zip-codes-lead-nation-for-new-apartment-construction/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2023/10/102023_vela_luxury_apartments.jpg",
+            "publishedAt": "2023-10-20T14:55:29Z",
+            "content": "Brookfield Properties recently completed Vela, an 11-story luxury apartment building at The Yards. (Courtesy Brookfield Properties)\r\nAn apartment boom has been happening in cities across the country,… [+1685 chars]"
         },
         {
             "source": {
                 "id": "usa-today",
                 "name": "USA Today"
             },
-            "author": "Natalie Neysa Alund",
+            "author": "USA TODAY",
             "title": "Tesla recall: Nearly 55000 new-model vehicles affected by brake safety issue - USA TODAY",
-            "description": "Tesla announced a software update due to a potential brake fluid detection safety issue for nearly 55,000 of its newer-model vehicles.",
+            "description": null,
             "url": "https://www.usatoday.com/story/money/cars/2023/10/20/tesla-recall-model-x-brake-safety-issue-software-update/71252206007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/15/USAT/70596480007-ap-off-the-charts-falling-profit-margins.jpg?crop=5615,3173,x0,y285&width=3200&height=1809&format=pjpg&auto=webp",
+            "urlToImage": null,
             "publishedAt": "2023-10-20T13:22:42Z",
-            "content": "Tesla announced a recall for some of its newer-model vehicles due to a potential brake fluid detection issue.\r\nThe recall notice affects 55,000 of its Model X vehicles, the National Highway Traffic S… [+1159 chars]"
+            "content": null
         },
         {
             "source": {
@@ -252,41 +525,28 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Forbes"
             },
-            "author": "Brian Schwartz",
-            "title": "Sam Bankman-Fried, FTX allies secretly poured $50 million into 'dark money' groups, evidence shows - CNBC",
-            "description": "Former FTX CEO Sam Bankman-Fried and his allies poured $50 million into \"dark money\" organizations that do not publicly disclose their donors.",
-            "url": "https://www.cnbc.com/2023/10/20/sam-bankman-fried-ftx-allies-donated-millions-in-dark-money.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107218012-16802018662023-03-30t154412z_1458133461_rc2f40aa3zri_rtrmadp_0_usa-bankmanfried.jpeg?v=1697806805&w=1920&h=1080",
-            "publishedAt": "2023-10-20T13:00:05Z",
-            "content": "Former FTX Chief Executive Sam Bankman-Fried, who faces fraud charges over the collapse of the bankrupt cryptocurrency exchange, leaves the Manhattan federal court in New York City, March 30, 2023.\r\n… [+10354 chars]"
+            "author": "Kelly Phillips Erb",
+            "title": "IRS Says Focus On Millionaires And Large Corporations Is Paying Off, Talks Next Steps - Forbes",
+            "description": "These efforts are focused on millionaires—taxpayers with more than $1 million in income and more than $250,000 in recognized tax debt.",
+            "url": "https://www.forbes.com/sites/kellyphillipserb/2023/10/20/irs-continues-to-focus-enforcement-efforts-on-millionaires-and-large-corporations/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64bec971bbe849f2e3fe3887/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-10-20T13:00:00Z",
+            "content": "The Internal Revenue Service (IRS) building stands on April 15, 2019 in Washington, DC. April 15 is ... [+] the deadline in the United States for residents to file their income tax returns. (Photo by… [+7970 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Ece Yildirim",
-            "title": "CEO shares his No. 1 tip for finding a mentor—and the big mistake to avoid on your search - CNBC",
-            "description": "Shark Tank's Matt Higgins says his 'number one advice' for reaching out with mentorship requests is to not ask them to be your mentor right away. Here's why.",
-            "url": "https://www.cnbc.com/2023/10/20/ceo-shares-his-no-1-tip-for-finding-a-mentor.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107319606-1697663502020-gettyimages-1342513059-kmm_9224_2021092554559980.jpeg?v=1697806802&w=1920&h=1080",
-            "publishedAt": "2023-10-20T13:00:02Z",
-            "content": "Matt Higgins' \"number one\" piece of advice for finding a highly successful mentor: Don't ask anyone to mentor you.\r\nThe \"Shark Tank\" investor and RSE Ventures CEO doesn't like it when people cold-mes… [+2401 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Elena Popina",
-            "title": "VIX Backwardation Flashes Warning to Stock Market - Bloomberg",
-            "description": "Wall Street’s famous fear gauge is sending worrying messages to US stock bulls, betraying growing anxiety in the volatility market over rising tensions in the Middle East and ongoing turbulence in the bond world.",
-            "url": "https://www.bloomberg.com/news/articles/2023-10-20/volatility-market-flashes-stock-warning-in-fresh-vix-inversion",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipYUPdGQCuUw/v1/1200x800.jpg",
-            "publishedAt": "2023-10-20T12:46:31Z",
-            "content": "Wall Streets famous fear gauge is sending worrying messages to US stock bulls, betraying growing anxiety in the volatility market over rising tensions in the Middle East and ongoing turbulence in the… [+428 chars]"
+            "author": "Tanaya Macheel",
+            "title": "Cryptocurrencies cap a winning week, bitcoin tops $30,000 on ETF optimism and flight to safety - CNBC",
+            "description": "Bitcoin extended its weekly gains on Friday, briefly topping $30,000, as confidence a spot bitcoin ETF will soon be greenlit grew.",
+            "url": "https://www.cnbc.com/2023/10/20/cryptocurrencies-head-for-a-winning-week-bitcoin-nears-30000-on-etf-optimism-and-flight-to-safety.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106911087-16263029762021-07-12t182451z_1049474836_rc26jo9ua1af_rtrmadp_0_fintech-crypto-flows.jpeg?v=1697805205&w=1920&h=1080",
+            "publishedAt": "2023-10-20T12:33:25Z",
+            "content": "Bitcoin extended its weekly gains on Friday, briefly topping $30,000 for the second time this week, as confidence a spot bitcoin ETF will soon be greenlit grew and crypto investors continued weighing… [+2560 chars]"
         },
         {
             "source": {
@@ -300,19 +560,6 @@
             "urlToImage": "https://www.kitco.com/news/2023-10-20/images/goldchart_1020_am.png",
             "publishedAt": "2023-10-20T12:20:00Z",
             "content": "(Kitco News) - Gold are higher in early U.S. trading Friday, on safe-haven buying as tensions in the Middle East are on the rise heading into an uncertain weekend. December gold prices hit a 2.5-mont… [+2839 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Jeremy C. Owens",
-            "title": "Netflix is raising prices to get you to watch ads, and it will probably work - MarketWatch",
-            "description": "As streaming pioneer looks to increase revenue, executives are doing all they can to push subscribers to ad-supported tier, and making it look like a better deal in the process",
-            "url": "https://www.marketwatch.com/story/netflix-is-raising-prices-to-get-you-to-watch-ads-and-it-will-probably-work-29429e98",
-            "urlToImage": "https://images.mktw.net/im-647250/social",
-            "publishedAt": "2023-10-20T12:15:00Z",
-            "content": "Netflix Inc. announced another price increase for its streaming service Wednesday, which made its cheaper, advertising-based offering look like an even better deal and that is the point.Netflix \r\n NF… [+4323 chars]"
         },
         {
             "source": {
@@ -342,16 +589,16 @@
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": null,
+                "name": "Benzinga"
             },
-            "author": "Angelica Stabile",
-            "title": "'Steak and jelly, please,' Americans tell Uber Eats — and other odd and popular customer requests of 2023 - Fox News",
-            "description": "Uber Eats has released its annual nationwide Cravings Report, revealing the most popular, unusual and surprising orders of the year. Here are the findings.",
-            "url": "https://www.foxnews.com/lifestyle/steak-jelly-please-americans-tell-uber-eats-odd-popular-customer-requests-2023",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/uber-eats-split.png",
-            "publishedAt": "2023-10-20T11:54:00Z",
-            "content": "Americans have made some interesting requests from Uber Eats this year.\r\nThe food and drink delivery app has released its annual Uber Eats Cravings Report, revealing the most popular, unusual and sur… [+4271 chars]"
+            "author": "Anusuya Lahiri",
+            "title": "American Express Q3 Earnings: Double Digit Revenue And Profit Growth, Network Volumes Surge - American Ex - Benzinga",
+            "description": "American Express Co (NYSE: AXP) Q3 revenue (net of interest expense) grew 12% year-on-year to $15.38 billion, beating the",
+            "url": "https://www.benzinga.com/news/earnings/23/10/35347612/american-express-q3-earnings-double-digit-revenue-and-profit-growth-network-volumes-surge",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2023/10/20/american_express_centurion_card_front.jpg?width=1200&height=800&fit=crop",
+            "publishedAt": "2023-10-20T11:54:50Z",
+            "content": "American Express Co AXP Q3 revenue (net of interest expense) grew 12% year-on-year to $15.38 billion, beating the consensus of $15.36 billion. EPS of $3.30 beat the consensus of $2.94.\r\nCard Member s… [+1557 chars]"
         },
         {
             "source": {
@@ -368,94 +615,29 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "Benzinga"
             },
-            "author": "Michelle Watson",
-            "title": "More than 60,000 Fortress gun safes recalled after dozens of reported breaches, including one that allegedly left a 12-year-old boy dead - CNN",
-            "description": "Thousands of biometric gun safes are being recalled due to concerns they can allow unauthorized access, federal officials said, citing a lawsuit alleging a 12-year-old boy died from a firearm obtained from a breached safe.",
-            "url": "https://www.cnn.com/2023/10/20/us/fortress-gun-safes-recall/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231020093020-fortress-safe-44b20.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-10-20T11:05:00Z",
-            "content": "Thousands of biometric gun safes are being recalled due to concerns they can allow unauthorized access, federal officials said, citing a lawsuit alleging a 12-year-old boy died from a firearm obtaine… [+2299 chars]"
+            "author": "Akanksha Bakshi",
+            "title": "Are Global Markets Signaling Pessimism? Asia And Europe Markets Dip, Crude Touches $90, Gold Hovers Near - Benzinga",
+            "description": "On Thursday, October 19, the U.S. stock markets ended lower as treasury Yields continued to climb, with the 10-year note reaching its highest level in 16 years, approaching nearly 5%.",
+            "url": "https://www.benzinga.com/markets/asia/23/10/35346294/are-global-markets-signaling-pessimism-asia-and-europe-markets-dip-crude-touches-90-gold-hovers-near",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2023/10/20/euro_stocks_photo_by_markus_spiske_on_pexels.jpg?width=1200&height=800&fit=crop",
+            "publishedAt": "2023-10-20T11:09:04Z",
+            "content": "On Thursday, October 19, the U.S. stock markets ended lower as treasury Yields continued to climb, with the 10-year note reaching its highest level in 16 years, approaching nearly 5%.\r\nPowell, addres… [+1927 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Niket  Nishant and Jaiveer Shekhawat",
-            "title": "UPDATE 3-AmEx's third-quarter profit tops estimates on robust spending - Yahoo Finance",
-            "description": "Credit card giant American Express on Friday reported third-quarter profit that beat expectations, helped by resilient spending from its wealthy customers...",
-            "url": "https://finance.yahoo.com/news/1-amexs-third-quarter-profit-110437744.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Egb_5DxZqgvsjKi.D8oLkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-04/538990e0-c576-11ec-ab76-c3980bad9700",
-            "publishedAt": "2023-10-20T11:04:37Z",
-            "content": "(Adds analyst commentary in paragraphs 3 and 4)\r\nBy Niket Nishant and Jaiveer Shekhawat\r\nOct 20 (Reuters) - Credit card giant American Express on Friday reported third-quarter profit that beat expect… [+1851 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Dallas Morning News"
-            },
-            "author": "Mitchell Parton",
-            "title": "Frisco 75034 ZIP code ranks No. 5 in U.S. for apartment building - The Dallas Morning News",
-            "description": "Frisco's 75034 ZIP code ranked No. 5 by the number of apartments completed from 2018 to 2022, according to a new report from RentCafe and Yardi Matrix.",
-            "url": "https://www.dallasnews.com/business/real-estate/2023/10/20/a-north-texas-zip-code-ranks-among-nations-busiest-for-apartment-construction/",
-            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/5A71JnZn5_XHhYjnwg8GYx551D0=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/4JJHSU4V3VYZF35KG6HSKWU6QY.jpg",
-            "publishedAt": "2023-10-20T11:01:07Z",
-            "content": "As people from all over the U.S. flock to Dallas northern suburbs, Frisco has dominated most of the country in apartment construction over the past few years.\r\nThe 75034 ZIP code ranked No. 5 by the … [+1014 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Chloe Taylor",
-            "title": "Amazon managers given the greenlight to fire employees who won’t work from the office 3 days a week - Fortune",
-            "description": "Continued non-compliance over returning to the office could land employees in hot water, according to Amazon’s new management guidelines.",
-            "url": "https://fortune.com/2023/10/20/amazon-return-to-office-mandate-manager-guidelines/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/10/GettyImages-1235716451-e1697797524992.jpg?resize=1200,600",
-            "publishedAt": "2023-10-20T10:57:00Z",
-            "content": "Americas corporate giants have been grappling with the task of getting employees back into the office, but Amazon is taking a bold step. The retail behemoth is now allowing supervisors to terminate w… [+2851 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cointelegraph"
-            },
-            "author": "Helen Partz",
-            "title": "Community reacts to SEC dropping XRP case and LBRY shutdown - Cointelegraph",
-            "description": "Amid Ripple’s latest legal win, the community has urged not to forget the case of LBRY, which had to shut down operations due to a lawsuit by the SEC.",
-            "url": "https://cointelegraph.com/news/sec-drops-xrp-case-lbry-shuts-down",
-            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/4d0b155c-b8bf-40ab-84b9-e11574c78a1d.jpg",
-            "publishedAt": "2023-10-20T10:44:40Z",
-            "content": "Ripples latest win in its legal battle against United States securities regulators has been marred by news of the blockchain platform LBRY shutting down operations, which triggered the community to r… [+4827 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Morning Bid: Bond squeeze abates as Middle East war in focus - Reuters",
-            "description": "A look at the day ahead in U.S. and global markets from Mike Dolan",
-            "url": "https://www.reuters.com/markets/global-markets-view-usa-2023-10-20/",
-            "urlToImage": "https://www.reuters.com/resizer/FmDECRLmd6kHj7vYsz4njL0ja2o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3KJNUHWQTBMSHKSAKG63RYLN3U.jpg",
-            "publishedAt": "2023-10-20T10:38:00Z",
-            "content": "A look at the day ahead in U.S. and global markets from Mike Dolan\r\nAfter a hectic week deciphering a blizzard of economic and corporate updates and a bruising bond yield surge, world markets turn th… [+4223 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CoinDesk"
-            },
-            "author": "Will Canny",
-            "title": "SEC Likely to Approve Spot Bitcoin ETF in Next Few Months: JPMorgan - CoinDesk",
-            "description": "Approval is likely before Jan. 10, which is the final deadline for the Ark 21Shares applications, the report said.",
-            "url": "https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/",
-            "urlToImage": "https://www.coindesk.com/resizer/LYIs6RHZ9MijlmLjykWd7GI2tOg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CQ5VKGINZFGUFHNWNFAKNWLWYA.jpg",
-            "publishedAt": "2023-10-20T09:59:00Z",
-            "content": "Bitcoin (BTC) has gained this week due to increased optimism about the potential approval of multiple spot bitcoin exchange-traded-funds (ETFs), JPMorgan (JPM) said in a research report Wednesday.\r\nT… [+1482 chars]"
+            "author": "Hamza Shaban",
+            "title": "Jay Powell will keep saying inflation is too high until consumers believe him - Yahoo Finance",
+            "description": "The Fed’s public communications can look and sound a lot like wishful thinking. In some ways it is.",
+            "url": "https://finance.yahoo.com/news/jay-powell-will-keep-saying-inflation-is-too-high-until-consumers-believe-him-100020733.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Dy2qCkPMz1YQK9Pqf9rKng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/ceb19350-6776-11ee-a7e1-b5657f0187e6",
+            "publishedAt": "2023-10-20T10:00:20Z",
+            "content": "This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\r\n<ul><li>The chart of the day\r\n</li><li>What we're watching\r\n</li><li>What we… [+3802 chars]"
         },
         {
             "source": {
@@ -469,58 +651,6 @@
             "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/6ffabc8631130c8ef3b5f236fae52a68",
             "publishedAt": "2023-10-20T09:54:40Z",
             "content": "(Bloomberg) -- Investors who snapped up shares of Nvidia Corp. at the bottom of last months swoon got a harsh reminder of the multiple forces pushing and pulling on the chipmakers business prospects.… [+4195 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Inc."
-            },
-            "author": "Minda Zetlin",
-            "title": "After 11 Years, Costco Just Made a Quietly Remarkable Announcement. It's a Lesson in Leadership - Inc.",
-            "description": "It shows the power of consistency and long-term planning.",
-            "url": "https://www.inc.com/minda-zetlin/after-11-years-costco-just-made-a-quietly-remarkable-announcement.html",
-            "urlToImage": "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1580864811_534491_kjniwv.jpg",
-            "publishedAt": "2023-10-20T09:45:30Z",
-            "content": "Costco Wholesale CEO Craig Jelinek announced this week that he is stepping down from his role, effective January 1. He'll be replaced by Ron Vachris, the company's COO. It's a major change for the co… [+3611 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Rolfe Winkler",
-            "title": "Gray Market for Weight Loss Drug Retatrutide Spreads Online Years Ahead of FDA Approvals - WSJ - The Wall Street Journal",
-            "description": "Eli Lilly’s retatrutide will be in clinical trials for the next three years, but knockoff versions already abound",
-            "url": "https://www.wsj.com/health/pharma/the-next-hot-obesity-drug-wont-be-approved-for-years-online-sellers-hawk-it-anyway-e04d7cc3",
-            "urlToImage": "https://images.wsj.net/im-872006/social",
-            "publishedAt": "2023-10-20T09:30:00Z",
-            "content": "A potential blockbuster weight-loss drug still years away from U.S. regulatory approval is already being sold online, another example of a thriving gray market for unapproved weight-loss medications,… [+644 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Scoop: Biden agency head works mostly from Missouri, not D.C. - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/10/20/biden-agency-head-works-remote-missouri-dc",
-            "urlToImage": null,
-            "publishedAt": "2023-10-20T09:23:21Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cointelegraph"
-            },
-            "author": "William Suberg",
-            "title": "Bitcoin eyes $30K, XRP price jumps 6% after Ripple's legal victory - Cointelegraph",
-            "description": "Bitcoin liquidations come to the fore as BTC price action passes an \"impulse\" zone to retarget $30,000.",
-            "url": "https://cointelegraph.com/news/bitcoin-30k-xrp-price-ripple-legal-victory",
-            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/53adab04-5c31-4991-985c-31c0f9df260a.jpg",
-            "publishedAt": "2023-10-20T08:33:29Z",
-            "content": "Bitcoin (BTC) passed $29,500 on Oct. 20 after an eventful 24 hours boosted BTC price trajectory, while XRPs (XRP) price jumped above $0.50 in response to Ripples big legal win.\r\nBTC/USD 1-hour chart.… [+3900 chars]"
         },
         {
             "source": {
@@ -551,119 +681,28 @@
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "Barron's"
             },
-            "author": "Fox Business",
-            "title": "CVS pulls popular cold medicines from store shelves - New York Post ",
-            "description": "CVS said on Thursday that it is voluntarily removing certain common oral cough and cold products after a Food and Drug Administration (FDA) advisory panel determined last month that its active ingr…",
-            "url": "https://nypost.com/2023/10/20/cvs-pulls-popular-cold-medicines-from-store-shelves/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/newspress-collage-t3ci5gg7g-1697789382110.jpg?quality=75&strip=all&1697775017&w=1024",
-            "publishedAt": "2023-10-20T08:15:00Z",
-            "content": "CVS said on Thursday that it is voluntarily removing certain common oral cough and cold products after a Food and Drug Administration (FDA) advisory panel determined last month that its active ingred… [+3157 chars]"
+            "author": "Andrew Bary",
+            "title": "VMware Stock Implies 50% Chance of Completion of Broadcom Deal - Barrons - Barron's",
+            "description": "VMware shares fell after a report saying Chinese regulators are likely to delay signing off on the deal.",
+            "url": "https://www.barrons.com/articles/vmware-stock-broadcom-deal-13869a4c",
+            "urlToImage": "https://images.barrons.com/im-35160218/social",
+            "publishedAt": "2023-10-19T22:54:00Z",
+            "content": "Oct 19, 2023, 6:54 pm EDT"
         },
         {
             "source": {
                 "id": null,
-                "name": "Teslarati"
+                "name": "Gizmodo.com"
             },
-            "author": "https://www.facebook.com/sim.alva",
-            "title": "UAW strikes cause more layoffs among US auto suppliers - TESLARATI",
-            "description": "The ongoing UAW strike against the Detroit Big Three is having a devastating impact on auto suppliers, as per a survey from MEMA.",
-            "url": "https://www.teslarati.com/uaw-strikes-cause-layoffs-us-auto-suppliers/",
-            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2023/09/uaw-stand-up-strike-1024x571.jpg",
-            "publishedAt": "2023-10-20T07:55:38Z",
-            "content": "The ongoing UAW strike against the Detroit Big Three is having a devastating impact on auto suppliers. As per a recent survey from MEMA Original Equipment Suppliers, nearly 40% of auto suppliers have… [+2121 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "Engadget",
-            "title": "Toyota and Lexus are adopting Tesla's EV charging standard - Engadget",
-            "description": null,
-            "url": "https://www.engadget.com/toyota-and-lexus-are-adopting-teslas-ev-charging-standard-051655109.html",
-            "urlToImage": null,
-            "publishedAt": "2023-10-20T05:16:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SFGate"
-            },
-            "author": "Alex Simon",
-            "title": "SF Giants president says city's bad reputation is 'way overstated' - SFGATE",
-            "description": "Giants CEO Larry Baer wants to help change the narrative about San Francisco — and the ballclub.",
-            "url": "https://www.sfgate.com/giants/article/advance-sf-larry-baer-attendance-city-connect-18436531.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/34/72/77/24358861/3/rawImage.jpg",
-            "publishedAt": "2023-10-20T00:19:13Z",
-            "content": "Advance SF displays the logo for its new marketing campaign, It All Starts Here, on the San Francisco Giants' scoreboard at Oracle Park on Thursday, Oct. 19, 2023.\r\nAlex Simon/SFGATE\r\nOn Thursday, a … [+5820 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "Marty Shtrubel",
-            "title": "Tesla Stock Is Down but Not Out, Says Daniel Ives - TipRanks.com - TipRanks",
-            "description": "The signs looked ominous considering the disappointing Q3 vehicle sales announced by Tesla (NASDAQ:TSLA) earlier this month, and investors were duly handed a dud of...",
-            "url": "https://www.tipranks.com/news/article/tesla-stock-is-down-but-not-out-says-daniel-ives",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2023/10/Daniel-Ives-TSLA-750x406.jpg",
-            "publishedAt": "2023-10-19T23:07:18Z",
-            "content": "The signs looked ominous considering the disappointing Q3 vehicle sales announced by Tesla (NASDAQ:TSLA) earlier this month, and investors were duly handed a dud of a report when the EV leader releas… [+2867 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Thomas Catenacci",
-            "title": "Biden admin OKs major Pacific Northwest gas pipeline in blow to environmentalists, Dems - Fox News",
-            "description": "The Federal Energy Regulatory Commission, which oversees permitting for key U.S. energy infrastructure, approved construction of a major natural gas expansion project.",
-            "url": "https://www.foxnews.com/politics/biden-admin-oks-major-pacific-northwest-gas-pipeline-in-blow-to-environmentalists-dems",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden-keystone-pipeline-3.jpg",
-            "publishedAt": "2023-10-19T22:33:00Z",
-            "content": "The nation's top energy regulator authorized a major energy developer to move forward with a natural gas expansion project in the Pacific Northwest.\r\nThe Federal Energy Regulatory Commission (FERC) i… [+4187 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Credit risks, delinquencies worsening across financial services industry: Fmr. Capital One executive - CNBC Television",
-            "description": "Nigel Morris, QED Investors managing partner and Capital One co-founder and fmr. COO, joins 'Fast Money' to talk headwinds facing the financial services sect...",
-            "url": "https://www.youtube.com/watch?v=pAFQdY0W7zc",
-            "urlToImage": "https://i.ytimg.com/vi/pAFQdY0W7zc/maxresdefault.jpg",
-            "publishedAt": "2023-10-19T22:11:54Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "George Glover",
-            "title": "Tesla suffers $65 billion value wipeout as shares plunge following Elon Musk's downbeat Cybertruck outlook - Yahoo Finance",
-            "description": "Musk warned that higher interest rates and the delayed production of the Cybertruck could dent Tesla's profits.",
-            "url": "https://markets.businessinsider.com/news/stocks/elon-musk-tesla-stock-share-price-cybertruck-earnings-valuation-wipeout-2023-10",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1Cce4ey.rgJGF5GgbQO8fg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/9ceb72046223431c636d39289a3c6880",
-            "publishedAt": "2023-10-19T22:07:29Z",
-            "content": "Elon Musk standing in front of a Cybertruck.Frederic J. Brown/AFP via Getty Images\r\n<ul><li>Tesla's stock price slumped 8% shortly after the opening bell Thursday.\r\n</li><li>The carmaker's posted wea… [+1617 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Ryan McMorrow, Tim Bradshaw, Cheng Leng, Nian Liu, Qianer Liu",
-            "title": "Beijing weighs delaying approval of $69bn Broadcom-VMware deal - Financial Times",
-            "description": "Move would come in wake of tougher US controls on Chinese access to high-performance chips",
-            "url": "https://www.ft.com/content/b23d2a9f-d873-43e4-9032-632d4e9d438c",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcde1bd94-e5f3-4598-b7e5-ff0e5a935476.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-10-19T20:28:57Z",
-            "content": "Beijing is weighing holding up US chipmaker Broadcoms $69bn acquisition of cloud software company VMware a move that would come soon after Washington toughened rules to block Chinese access to high-p… [+3794 chars]"
+            "author": "Maxwell Zeff",
+            "title": "23andMe Users' Info Leaked Again, Millions of Records on Dark Web - Gizmodo",
+            "description": "The hacker 'Golem' allegedly strikes a second time, this time with more users affected as 23andMe scrambles to address the last breach.",
+            "url": "https://gizmodo.com/23andme-users-info-leaked-again-records-found-dark-web-1850942298",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b7d33db79745f2ae2e84cd8ad76c5807.jpg",
+            "publishedAt": "2023-10-19T19:50:00Z",
+            "content": "Millions of 23andMe users had their info leaked once again after being hacked earlier this month, according to a report by TechCrunch Thursday. The hacker, who goes by the name Golem on multiple dark… [+1909 chars]"
         },
         {
             "source": {
@@ -681,41 +720,15 @@
         {
             "source": {
                 "id": null,
-                "name": "The Points Guy"
+                "name": "Fox Business"
             },
-            "author": "Kyle Olsen",
-            "title": "United to keep Premier status changes the same for the 2025 program year - The Points Guy",
-            "description": "For the time being, a United Airlines executive assure flyers that there will be no rise in the Premier status requirements.",
-            "url": "https://thepointsguy.com/news/united-elite-status-changes/",
-            "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2023/05/20230512_Maximizing-Stopovers_United-Airlines-jets-at-SFO_KOlsen_10.jpg",
-            "publishedAt": "2023-10-19T18:43:33Z",
-            "content": "After Delta Air Lines shocked its SkyMiles elite members with significant increases in elite status requirements for the 2025 program year, the airline's loyalists went up in arms.\r\nAlthough Delta's … [+3174 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Joel Khalili",
-            "title": "Crypto Groups Gemini, Genesis, and DCG Sued for $1.1 Billion 'Fraud' - WIRED",
-            "description": "New York’s attorney general has filed a lawsuit against crypto companies, including the Winkelvoss twins’ Gemini, alleging they misled investors.",
-            "url": "https://www.wired.com/story/crypto-gemini-genesis-dcg-sued-billion-dollar-fraud/",
-            "urlToImage": "https://media.wired.com/photos/65317427f9ea76b7f1eac4c1/191:100/w_1280,c_limit/Crypto-Groups-Gemini,-Genesis-and-DCG-Sued-for-$1.1-Billion-%E2%80%98Fraud%E2%80%99-GettyImages-1321754622.jpg",
-            "publishedAt": "2023-10-19T18:27:38Z",
-            "content": "These cryptocurrency companies lied to investors and tried to hide more than a billion dollars in losses, and it was middle-class investors who suffered as a result, Letitia James, New York attorney … [+2857 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Oscar Gonzalez",
-            "title": "FCC Votes to Begin Reinstatement of Net Neutrality - Gizmodo",
-            "description": "It's the first step in bringing back open internet protections.",
-            "url": "https://gizmodo.com/fcc-votes-to-begin-reinstatement-of-net-neutrality-1850942198",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8ed8d915f83cad80e9b139705cefe791.jpg",
-            "publishedAt": "2023-10-19T18:09:00Z",
-            "content": "The U.S. Federal Communications Commission voted Thursday in favor of restoring open internet protections for consumers and businesses, also referred to as net neutrality.\r\nNet neutrality first went … [+1160 chars]"
+            "author": "Breck Dumas",
+            "title": "NY AG sues crypto firms Gemini, Genesis, DCG for allegedly defrauding investors out of $1 billion - Fox Business",
+            "description": "New York Attorney General Letitia James has sued crypto companies Gemini, Genesis and DCG for allegedly defrauding investors out of more than $1 billion.",
+            "url": "https://www.foxbusiness.com/markets/ny-ag-sues-crypto-firms-gemini-genesis-dcg-allegedly-defrauding-investors-1-billion",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/04/0/0/Tyler-and-Cameron-Winklevoss.jpg?ve=1&tl=1",
+            "publishedAt": "2023-10-19T19:18:28Z",
+            "content": "New York Attorney General Letitia James filed a lawsuit Thursday against cryptocurrency firms Gemini, Genesis Global Capital and its parent company Digital Currency Group (DCG) for allegedly defraudi… [+4069 chars]"
         },
         {
             "source": {
@@ -733,28 +746,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Breck Dumas",
-            "title": "Mortgage rates rise again amid worsening home affordability crisis - Fox Business",
-            "description": "The rate on the popular 30-year fixed mortgage climbed again this week to 7.63% from 7.57% a week ago, mortgage lender Freddie Mac reported on Thursday.",
-            "url": "https://www.foxbusiness.com/economy/mortgage-rates-rise-worsening-home-affordability-crisis",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/Real-estate-2.jpg?ve=1&tl=1",
-            "publishedAt": "2023-10-19T17:48:45Z",
-            "content": "Mortgage rates continued to climb this week, adding further pressure to the cooling housing market as more Americans are priced out of buying homes.\r\nFreddie Mac reported Thursday that the average ra… [+2784 chars]"
+            "author": "Janna Herron",
+            "title": "Mortgage rates edge even closer to 8%, levels not seen in more than two decades - Yahoo Finance",
+            "description": "The average rate on the 30-year fixed mortgage increased to 7.63% from 7.57% the previous week, Freddie Mac reported.",
+            "url": "https://finance.yahoo.com/news/mortgage-rates-edge-even-closer-to-8-levels-not-seen-in-more-than-two-decades-160044399.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qov2dbnQ6UKZq0uwMKYUxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/4b21cc30-5e43-11ee-bfbb-b277acf89af2",
+            "publishedAt": "2023-10-19T16:00:44Z",
+            "content": "Mortgage rates moved closer to 8% this week, sustaining levels not seen in 23 years and crushing buyer hopes for a home of their own.\r\nThe average rate on the 30-year fixed mortgage increased to 7.63… [+2588 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": null,
+                "name": "Utilitydive.com"
             },
-            "author": "Matt Richardson",
-            "title": "What will happen to CD interest rates after the next Fed meeting? - CBS News",
-            "description": "CD interest rates are already very high, but could they go even higher in the weeks to come?",
-            "url": "https://www.cbsnews.com/news/what-will-happen-to-cd-interest-rates-after-the-next-fed-meeting/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/19/fcbfc750-41c7-4b57-90b8-c8a256afcb6d/thumbnail/1200x630/660e2c604d16b7a25290c50582a275f4/gettyimages-1464685479.jpg?v=18a5d3569ab1a3ca759fe14d213f7845",
-            "publishedAt": "2023-10-19T16:46:29Z",
-            "content": "Rates on CD accounts could rise after the Fed meets again on October 31.\r\nGetty Images\r\nFollowing some encouraging signs earlier in the year, inflation ticked up in July and August and remained uncha… [+3859 chars]"
+            "author": "Robert Walton",
+            "title": "DOE announces 'largest-ever investment in America's grid,' giving $3.5B across 44 states - Utility Dive",
+            "description": "The first round of funding under the Grid Resilience and Innovation Partnerships program will boost U.S. renewable capacity by more than 10% within this decade, said DOE officials.",
+            "url": "https://www.utilitydive.com/news/doe-largest-ever-grid-investment-GRIP-xcel-miso-spp/697141/",
+            "urlToImage": "https://www.utilitydive.com/imgproxy/sOQpbqHwicS48a4QJX3T4vOieTk5MGADS0i52OhWIws/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzMTg0NzY4OTAuanBn.jpg",
+            "publishedAt": "2023-10-19T15:39:28Z",
+            "content": "Dive Brief:\r\n<ul><li>The U.S. Department of Energy on Wednesday announced nearly $3.5 billion in awards under its Grid Resilience and Innovation Partnerships program, known as GRIP, to support 58 pro… [+5300 chars]"
         },
         {
             "source": {
@@ -772,19 +785,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Angely Mercado",
-            "title": "U.S. Electric Grid Will Get a $3.5 Billion Upgrade, DOE Announces - Gizmodo",
-            "description": "More than half of the country’s transmission lines were constructed before the 1970s.",
-            "url": "https://gizmodo.com/u-s-electric-grid-will-get-a-3-5-billion-upgrade-doe-1850941095",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a82f39320ff884feabb700edee49882b.jpg",
-            "publishedAt": "2023-10-19T14:51:00Z",
-            "content": "The Biden Administration announced plans on Wednesday to invest $3.46 billion to reinforce the nations electric grid.\r\nThis will fund 58 projects across 44 states, including 400 microgrids. The updat… [+2197 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNBC"
             },
             "author": "Kate Dore, CFP®",
@@ -798,6 +798,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Cpsc.gov"
+            },
+            "author": null,
+            "title": "Thomas & Friends Wooden Railway Troublesome Truck & Crates and Troublesome Truck & Paint Recalled by Fisher-Price Due to Choking and Magnet Ingestion Hazards - Consumer Product Safety Commission",
+            "description": "Consumers should immediately stop using the toys and go to www.service.mattel.com and click on “Recalls & Safety Alerts” for instructions on how to receive a pre-paid return label via email from Fisher-Price. Upon receipt of the returned product, consumers wi…",
+            "url": "https://www.cpsc.gov/Recalls/2024/Thomas-Friends-Wooden-Railway-Troublesome-Truck-Crates-and-Troublesome-Truck-Paint-Recalled-by-Fisher-Price-Due-to-Choking-and-Magnet-Ingestion-Hazards",
+            "urlToImage": "https://www.cpsc.gov/s3fs-public/truck-crate.png?VersionId=Q7kJQohC4jQi_gD3acgnC8MgNzql8kVr",
+            "publishedAt": "2023-10-19T13:03:32Z",
+            "content": "The U.S. Consumer Product Safety Commission (CPSC) is charged with protecting the public from unreasonable risk of injury or death associated with the use of thousands of types of consumer products. … [+448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "YouTube"
             },
             "author": null,
@@ -807,19 +820,6 @@
             "urlToImage": "https://i.ytimg.com/vi/a-mOcNBmBpM/hqdefault.jpg",
             "publishedAt": "2023-10-19T12:47:57Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "The Associated Press",
-            "title": "Bottle of 'most sought-after Scotch whisky' to come under hammer at Sotheby's in London next month - ABC News",
-            "description": "A bottle of what is being called “the most-sought after Scotch whisky” is set to be auctioned next month at Sotheby's in London",
-            "url": "https://abcnews.go.com/Business/wireStory/bottle-sought-after-scotch-whisky-hammer-sothebys-london-104133956",
-            "urlToImage": "https://i.abcnewsfe.com/a/2365663c-26c3-482f-9687-53e853b23570/wirestory_12f2fb5685e1a362165d03fe1ddd1eea_12x5.jpg?w=992",
-            "publishedAt": "2023-10-19T12:26:35Z",
-            "content": "LONDON -- A bottle of what Sothebys is calling the most sought-after Scotch whisky is set to go up for auction next month, with an estimated price of up to 1.2 million pounds ($1.4 million), the auct… [+1452 chars]"
         }
     ]
 }

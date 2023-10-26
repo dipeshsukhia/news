@@ -4,6 +4,19 @@
     "articles": [
         {
             "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "Surgeons give update on patient a month after experimental pig heart transplant: ‘Now I have hope’ - Fox News",
+            "description": "One month after a Maryland man received an experimental pig heart transplant, the patient is doing well and shows no sign of rejecting the organ, doctors say.",
+            "url": "https://www.foxnews.com/health/surgeons-give-update-patient-month-pig-heart-transplant-now-have-hope",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/patient-and-doctor.jpg",
+            "publishedAt": "2023-10-25T08:00:00Z",
+            "content": "One month after a Maryland man received an experimental pig heart transplant\r\n, the patient is doing well and shows no sign of infection or rejection of the organ, doctors say.\r\n\"We are withdrawing a… [+6086 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "[Removed]"
             },
@@ -14,19 +27,6 @@
             "urlToImage": null,
             "publishedAt": "1970-01-01T00:00:00Z",
             "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Giri Viswanathan",
-            "title": "Health workers face \\\"mental health crisis,\\\" CDC says - CNN",
-            "description": "Researchers from the U.S. Centers for Disease Control and Prevention are sounding the alarm on a “mental health crisis” for health workers around the country.",
-            "url": "https://www.cnn.com/2023/10/24/health/health-workers-face-mental-health-crisis-cdc-says/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231024202857-stressed-doctor-stock-image-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-10-25T02:59:00Z",
-            "content": "Researchers from the US Centers for Disease Control and Prevention are sounding the alarm on a mental health crisis for health workers around the country.\r\nUsing nationwide survey data between 2018 a… [+4767 chars]"
         },
         {
             "source": {
@@ -82,19 +82,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Sepsis failings still causing too many deaths - ombudsman - BBC.com",
-            "description": "Patients are still dying due to failings highlighted more than a decade ago, the health ombudsman says.",
-            "url": "https://www.bbc.com/news/health-67204563",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11E41/production/_131518237_sepsis0.jpg",
-            "publishedAt": "2023-10-25T01:36:22Z",
-            "content": "Too many people are still dying from sepsis due to \"the same mistakes\" highlighted more than 10 years ago, the UK's health ombudsman has warned. \r\nRob Behrens, who handles complaints about the NHS, s… [+4727 chars]"
-        },
-        {
-            "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
@@ -105,6 +92,19 @@
             "urlToImage": "https://images.wsj.net/im-874424/social",
             "publishedAt": "2023-10-25T01:00:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Hannah Harris Green",
+            "title": "How the ADHD Drug Shortage May Drive People to Use Meth - The Daily Beast",
+            "description": "With the nationwide medication crisis, people are beginning to turn to the illegal street drug to treat their disorders—to devastating consequences.",
+            "url": "https://www.thedailybeast.com/how-the-adhd-drug-shortage-may-drive-people-to-use-meth",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1698101184/231023-adhd-meth-tease_tzkewo",
+            "publishedAt": "2023-10-25T00:09:00Z",
+            "content": "Rita was an overachiever as a kid: Her school placed her in a gifted and talented program at 5, and she competed on the national level with her swim team starting in elementary school. But when she e… [+10893 chars]"
         },
         {
             "source": {
@@ -174,6 +174,19 @@
         {
             "source": {
                 "id": null,
+                "name": "99percentinvisible.org"
+            },
+            "author": "99pi",
+            "title": "Model Village - 99% Invisible",
+            "description": "For decades, society has dealt with people with dementia and other forms of cognitive decline by storing them away in unstimulating, medicalized environments. But around the world, a new architectural movement is starting to challenge that old paradigm. Desig…",
+            "url": "https://99percentinvisible.org/episode/model-village/",
+            "urlToImage": "https://99percentinvisible.org/app/uploads/2023/10/interior-728x236.jpg",
+            "publishedAt": "2023-10-24T20:13:40Z",
+            "content": "For decades, society has dealt with people with dementia and other forms of cognitive decline by storing them away in unstimulating, medicalized environments. But around the world, a new architectura… [+7352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "TCTMD"
             },
             "author": "Michael O'Riordan",
@@ -203,25 +216,12 @@
                 "name": "ABC News"
             },
             "author": "Dr. Daniel A. Carnegie, Sony Salzman",
-            "title": "Chemotherapy drug could reduce risk of dying of cervical cancer: Study - ABC News",
+            "title": "In major medical advancement, study finds additional chemo slashes risk of cervical cancer death - ABC News",
             "description": "A group who got the additional chemotherapy survived longer, on average.",
             "url": "https://abcnews.go.com/Health/chemotherapy-drug-reduce-risk-dying-cervical-cancer-study/story?id=104247395",
             "urlToImage": "https://i.abcnewsfe.com/a/b197ccb0-e7a8-4dbd-ae61-9fc664f6d0aa/chemptherapy-stock-gty-jef-231024_1698158335187_hpMain_16x9.jpg?w=992",
             "publishedAt": "2023-10-24T19:33:06Z",
             "content": "An already-approved chemotherapy drug could reduce the risk of dying of cervical cancer when added to the current treatment standard, according to new research presented at a major medical conference… [+1365 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "'On track': Three percent of Americans have gotten the new Covid shot, but the CDC director remains confident - POLITICO",
-            "description": "By contrast, nearly 39 percent have had their flu shot.",
-            "url": "https://www.politico.com/news/2023/10/24/covid-flu-vaccine-cdc-director-mandy-cohen-00123268",
-            "urlToImage": "https://static.politico.com/ae/b0/2dfacad44d6d890d4d4dd7ed8823/virus-outbreak-north-carolina-59338.jpg",
-            "publishedAt": "2023-10-24T18:57:36Z",
-            "content": "More people, by far 128 million have gotten their annual flu vaccine, Cohen said, attributing the difference to long-held routines.\r\nCohen is in the middle of a national tour promoting vaccination ta… [+3903 chars]"
         },
         {
             "source": {
@@ -238,6 +238,19 @@
         },
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brenda Goodman",
+            "title": "Demand outstrips supply for some doses of new shot that protects babies against RSV - CNN",
+            "description": "In the latest headache for parents hunting for a new shot to protect babies against respiratory syncytial virus, or RSV, this winter, the manufacturer says it has stopped taking orders for some doses because they are unable to keep up with “unprecedented dema…",
+            "url": "https://www.cnn.com/2023/10/23/health/demand-outstrips-supply-for-new-shot-that-protects-babies-against-rsv/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230922150059-infant-rsv-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-24T18:34:00Z",
+            "content": "In the latest headache for parents hunting for a new shot to protect babies against respiratory syncytial virus, or RSV, this winter, the manufacturer says it has stopped taking orders for some doses… [+5253 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Firstforwomen.com"
             },
@@ -251,16 +264,16 @@
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": null,
+                "name": "Phys.Org"
             },
-            "author": "Adrianna Rodriguez",
-            "title": "RSV shots are in short supply for babies: See the new CDC guidelines - USA TODAY",
-            "description": "The CDC recommends prioritizing higher doses for infants younger than 6 months, and those who are at risk for severe disease.",
-            "url": "https://www.usatoday.com/story/news/health/2023/10/24/rsv-vaccine-shot-babies-new-cdc-guidelines/71299105007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/02/22/USAT/e10d206f-2590-41c4-8730-d93d1a14459e-GettyImages-1265740892.jpg?crop=2120,1193,x0,y107&width=2120&height=1193&format=pjpg&auto=webp",
-            "publishedAt": "2023-10-24T17:20:51Z",
-            "content": "Health officials are reeling back their recommendations about who is eligible for a shot that prevents severe respiratory syncytial virus, or RSV, in infants amid a drug shortage that has coincided w… [+2460 chars]"
+            "author": "Science X",
+            "title": "How eggs of the Zika-carrying mosquito survive desiccation - Phys.org",
+            "description": "Eggs of the mosquito that carries Zika virus can tolerate extended desiccation by altering their metabolism, according to a new study published October 24th in the open access journal PLOS Biology by Anjana Prasad, Sunil Laxman, and colleagues at the Institut…",
+            "url": "https://phys.org/news/2023-10-eggs-zika-carrying-mosquito-survive-desiccation.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/how-eggs-of-the-zika-c.jpg",
+            "publishedAt": "2023-10-24T18:00:02Z",
+            "content": "Eggs of the mosquito that carries Zika virus can tolerate extended desiccation by altering their metabolism, according to a new study published October 24th in the open access journal PLOS Biology by… [+4149 chars]"
         },
         {
             "source": {
@@ -278,15 +291,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Deseret News"
+                "name": "Medical Xpress"
             },
-            "author": "Lois M. Collins",
-            "title": "Is slouching bad for your physical and mental health? - Deseret News",
-            "description": "Studies suggest that slouching at your desk is bad for productivity, mental health",
-            "url": "https://www.deseret.com/2023/10/24/23930242/dont-slouch-minding-your-posture-good-mental-health-productivity",
-            "urlToImage": "https://deseret.brightspotcdn.com/dims4/default/5b8ca68/2147483647/strip/true/crop/5069x2894+0+245/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2F__EFvvHpo3jxdLsrHCiTrSw-nQY%3D%2F0x0%3A5069x3384%2F5069x3384%2Ffilters%3Afocal%282535x1692%3A2536x1693%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F25028043%2FAdobeStock_477940677.jpeg",
-            "publishedAt": "2023-10-24T17:01:00Z",
-            "content": "Peter Strick, a noted neuroscientist at the University of Pittsburgh, rode a big dose of skepticism to his eventual respect for yoga and improved posture.\r\nHe recently explained the connection betwee… [+4354 chars]"
+            "author": "Bob Yirka",
+            "title": "Exercise found to be nearly as good as Viagra in overcoming erectile dysfunction - Medical Xpress",
+            "description": "A trio of medical researchers has found that many men experiencing erectile dysfunction can overcome much of the problem by simply engaging in aerobic exercise. In their study, reported in The Journal of Sexual Medicine, Mohit Khera, Samir Bhattacharyya, and …",
+            "url": "https://medicalxpress.com/news/2023-10-good-viagra-erectile-dysfunction.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/aerobic-exercise.jpg",
+            "publishedAt": "2023-10-24T17:01:59Z",
+            "content": "A trio of medical researchers has found that many men experiencing erectile dysfunction can overcome much of the problem by simply engaging in aerobic exercise. In their study, reported in The Journa… [+2725 chars]"
         },
         {
             "source": {
@@ -525,6 +538,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Gothamist"
+            },
+            "author": "https://gothamist.com/staff/sarah-sloat",
+            "title": "What to know before you try psychedelic ketamine therapy in New York City - Gothamist",
+            "description": "While a growing number of NYC clinics claim to provide ketamine therapeutically, they can differ in approach, what they require of patients, vibes and safety.",
+            "url": "https://gothamist.com/news/what-to-know-before-you-try-psychedelic-ketamine-therapy-in-new-york-city",
+            "urlToImage": "https://cms.prod.nypr.digital/images/341436/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2023-10-24T10:01:07Z",
+            "content": "If you live in New York City, youve likely passed or heard of a clinic where ketamine a hospital anesthetic and psychedelic party drug is used as a mental health treatment.\r\nLocations now operate in … [+15102 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Nature.com"
             },
             "author": null,
@@ -551,6 +577,19 @@
         {
             "source": {
                 "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Flavia Cicuttini",
+            "title": "New research has found an existing drug could help many people with painful hand osteoarthritis - The Conversation Indonesia",
+            "description": "Methotrexate is commonly used in Australia and around the world for conditions such as rheumatoid arthritis.",
+            "url": "https://theconversation.com/new-research-has-found-an-existing-drug-could-help-many-people-with-painful-hand-osteoarthritis-215816",
+            "urlToImage": "https://images.theconversation.com/files/555476/original/file-20231024-19-katj9s.jpg?ixlib=rb-1.1.0&rect=50%2C411%2C5615%2C2808&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2023-10-24T04:19:24Z",
+            "content": "Osteoarthritis is the most common disease of the joints, and often affects the hands. One in two women and one in four men will have symptoms of hand osteoarthritis by the time they turn 85.\r\nHand os… [+5270 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "ScienceAlert"
             },
             "author": "David Nield",
@@ -560,19 +599,6 @@
             "urlToImage": "https://www.sciencealert.com/images/2023/10/PersonAgainstRedLines.jpg",
             "publishedAt": "2023-10-24T01:43:20Z",
             "content": "Adults diagnosed with attention-deficit/hyperactivity disorder ( ADHD) are almost three times more likely to go on to develop dementia, according to a new study that looked at 109,218 adults with and… [+2558 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eatingwell.com"
-            },
-            "author": "https://www.facebook.com/EatingWell/",
-            "title": "This Type of Exercise May Have the Most Anti-Aging Benefits, According to New Research - EatingWell",
-            "description": "New research suggests a new way to support healthy again and longevity. Here’s what type of exercise and how much of it you need to get the most benefits.",
-            "url": "https://www.eatingwell.com/endurance-exercise-anti-aging-benefits-new-research-8363872",
-            "urlToImage": "https://www.eatingwell.com/thmb/XrxzYGlrA8IIydI3RDYLObnDdqE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Is-Exercise-the-Anti-Aging-Pill-Weve-All-Been-Waiting-For--New-Study-Suggests-Yes-b59cb7212bb144f6abf68efdb1c2eb0b.gif",
-            "publishedAt": "2023-10-24T01:42:09Z",
-            "content": "There are many benefits of regular exercise, including increased energy, better sleep, blood sugar management and chronic disease prevention. And according to a new study, exercise may also slow down… [+3707 chars]"
         },
         {
             "source": {
@@ -628,19 +654,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Unlocking the Dual Memory Codes of the Hippocampus - Neuroscience News",
-            "description": "Researchers have distinguished between two vital memory tasks housed in the hippocampus: one that remembers associations and another that predicts based on past events.",
-            "url": "https://neurosciencenews.com/dual-memory-hippocampus-24979/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/10/hippocampus-memory-neuroscience.jpg",
-            "publishedAt": "2023-10-23T21:32:11Z",
-            "content": "Summary: Researchers have distinguished between two vital memory tasks housed in the hippocampus: one that remembers associations and another that predicts based on past events. The study used optoge… [+7888 chars]"
-        },
-        {
-            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -655,15 +668,15 @@
         {
             "source": {
                 "id": null,
-                "name": "WKYT"
+                "name": "Eatingwell.com"
             },
-            "author": "Darnell Crenshaw",
-            "title": "How the flu season will look different this year, according to Lexington health officials - WKYT",
-            "description": "Flu season is here, but it’s different this year.",
-            "url": "https://www.wkyt.com/2023/10/23/how-flu-season-will-look-different-this-year-according-lexington-health-officials/",
-            "urlToImage": "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/SZdGG67cShCKzZbS-yZ1MmtU5cs=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/4QSZDSHYORH7ZJG5MGU4F63NBY.JPG",
-            "publishedAt": "2023-10-23T20:32:00Z",
-            "content": "LEXINGTON, Ky. (WKYT) - Flu season is here, but its different this year.\r\nThe CDC is now calling it respiratory illness season because health officials are now including COVID-19 and RSV along with i… [+1988 chars]"
+            "author": "https://www.facebook.com/EatingWell/",
+            "title": "What Happens to Your Body When You Eat Blueberries Every Day - EatingWell",
+            "description": "Blueberries are packed with antioxidants that can support your health. Read along to learn what a dietitian says about why blueberries are good for you.",
+            "url": "https://www.eatingwell.com/benefits-of-blueberries-8369265",
+            "urlToImage": "https://www.eatingwell.com/thmb/p2_PHDxL1ewA1744bTT3-nuzIX4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Lemon-Blueberry-Overnight-Oats-2x3-4751-de8be822283b4c8ab96f700203f178da.jpg",
+            "publishedAt": "2023-10-23T20:47:21Z",
+            "content": "Do you ever wonder about the health impact of those tiny blue bursts of flavor you sprinkle on your cereal or toss into your smoothies? Blueberries are touted for their many health benefits no surpri… [+7638 chars]"
         },
         {
             "source": {
@@ -784,16 +797,42 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Marc Lallanilla",
+            "title": "Yellow fever, scourge from the 1800s, is coming back — and the US is woefully unprepared - New York Post ",
+            "description": "There is no cure for yellow fever, and up to 60% of people who develop a severe form of the disease will die, according to the CDC.",
+            "url": "https://nypost.com/2023/10/23/yellow-fever-scourge-from-the-1800s-is-coming-back/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000062284087.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-10-23T14:19:00Z",
+            "content": "“Yellow jack” is back.\r\nThe mosquito-borne disease known as yellow fever is primed for a resurgence, say medical experts, and the US is woefully unprepared.\r\nYellow fever joins other diseases malaria… [+3059 chars]"
+        },
+        {
+            "source": {
                 "id": "usa-today",
                 "name": "USA Today"
             },
-            "author": "Sarah Al-Arshani",
+            "author": "USA TODAY",
             "title": "Ultra-processed foods are just as addictive as cigarettes, study says - USA TODAY",
-            "description": "An analysis of 281 studies in 36 countries found that 14% of adults and 12% of children were addicted to ultra-processed foods like ice cream & chips.",
+            "description": null,
             "url": "https://www.usatoday.com/story/news/health/2023/10/23/study-ice-cream-chips-addictive-cigarettes-heroin-drugs/71286591007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/23/USAT/71291869007-getty-images-478815753.jpg?crop=4287,2412,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "urlToImage": null,
             "publishedAt": "2023-10-23T14:08:52Z",
-            "content": "You're favorite guilty pleasure snack may be just as addictive as cigarettes or heroin, a new study reveals.\r\nAn analysis of 281 studies in 36 countries, published in the British Medical Journal this… [+3792 chars]"
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Here's Why Pistachios May Be The Perfect Snack - NDTV",
+            "description": "Below we list some of the common health benefits of consuming pistachios.",
+            "url": "https://www.ndtv.com/health/heres-why-pistachios-may-be-the-perfect-snack-4507571",
+            "urlToImage": "https://c.ndtvimg.com/2022-11/hahtbpio_pistachios_625x300_01_November_22.jpg",
+            "publishedAt": "2023-10-23T13:21:16Z",
+            "content": "Pistachios have a low glycemic index, meaning they cause a slower rise in blood sugar levels\r\nPistachios are nuts that are native to Western Asia and the Middle East. They are part of the cashew fami… [+3726 chars]"
         },
         {
             "source": {
@@ -811,19 +850,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Best Life"
-            },
-            "author": "Lauren Gray",
-            "title": "Climbing 50 Stairs a Day May Be All the Cardio You Need - Best Life",
-            "description": "Walking up just a few flights of stairs daily can transform your heart health, a new study says. Here's how many stairs you'll need to climb.",
-            "url": "https://bestlifeonline.com/climbing-stairs-cardio-heart-health/",
-            "urlToImage": "https://bestlifeonline.com/wp-content/uploads/sites/3/2019/02/best-life-og-image-card.jpg?quality=82&strip=all",
-            "publishedAt": "2023-10-23T11:01:33Z",
-            "content": "Getting regular aerobic exercise is one of the best things you can do for your overall health. This is especially true when it comes to your heart health. Moving for at least 30 minutes per day can l… [+3251 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Nature.com"
             },
             "author": null,
@@ -833,32 +859,6 @@
             "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-03303-z/d41586-023-03303-z_26189366.jpg",
             "publishedAt": "2023-10-23T10:27:54Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "David Axe",
-            "title": "COVID Is Ramping Up for a Year of Deadly Surges - The Daily Beast",
-            "description": "Scientists hope that by the end of 2024 COVID may become more flu-like but before that fading immunity means more killer waves are on the way.",
-            "url": "https://www.thedailybeast.com/covid-is-ramping-up-for-a-year-of-deadly-surges",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1698024556/231007-axe-covid-surge-hero_szqc0b",
-            "publishedAt": "2023-10-23T08:35:38Z",
-            "content": "COVID is back. But then, it never really left. And the respiratory diseases late-summer resurgence might be a preview of an even biggersurge this winter.\r\nExperts say the latest bump in infections, h… [+5970 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Giulia Carbonaro",
-            "title": "COVID Map Shows States Where Positive Cases Are Higher - Newsweek",
-            "description": "Colorado, Montana, North Dakota, South Dakota, Utah and Wyoming had the highest positivity rate across the country in the last week, at 14.4 percent.",
-            "url": "https://www.newsweek.com/covid-map-states-where-positive-cases-higher-1836795",
-            "urlToImage": "https://d.newsweek.com/en/full/2297909/covid-cdc-map.png",
-            "publishedAt": "2023-10-23T08:29:56Z",
-            "content": "States in the Central, Northern and Pacific regions remain among the ones with the highest number of COVID-19 infections in the country despite a general drop at a national level, according to the la… [+3039 chars]"
         }
     ]
 }

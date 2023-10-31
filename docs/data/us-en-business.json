@@ -1,58 +1,539 @@
 {
     "status": "ok",
-    "totalResults": 66,
+    "totalResults": 62,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Euronews"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": null,
-            "title": "Israel-Hamas war: How the financial markets see the outcome of the crisis - Euronews",
-            "description": "Energy and defence-related investments are set to yield in the next 12-18 months, according to analysts.",
-            "url": "https://www.euronews.com/2023/10/30/israel-hamas-war-how-the-financial-markets-see-the-outcome-of-the-crisis",
-            "urlToImage": "https://static.euronews.com/articles/stories/07/99/56/66/1000x563_cmsv2_bf009f3e-618a-59df-ba10-d41310d23082-7995666.jpg",
-            "publishedAt": "2023-10-30T12:23:35Z",
-            "content": "Energy and defence-related investments are set to yield in the next 12-18 months, according to analysts.\r\n Weeks after Hamass devastating attack on Israel - provoking fierce retaliation by Israel tha… [+8960 chars]"
+            "author": "Chris Prentice",
+            "title": "US progressive groups ask DOJ to reverse new M&A safe harbor policy - Reuters",
+            "description": "More than a dozen groups are pressing the U.S. Justice Department to retreat from a new policy they say gives a \"free pass\" to corporate wrongdoers, a sign of mounting criticism among progressives of enforcement under President Joe Biden.",
+            "url": "https://www.reuters.com/world/us/us-progressive-groups-ask-doj-reverse-new-ma-safe-harbor-policy-2023-10-30/",
+            "urlToImage": "https://www.reuters.com/resizer/2s2IS01Tp_LeGxaTB9dY_g9At2U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OTNY65N3NNICBMGAN24WZFORCY.jpg",
+            "publishedAt": "2023-10-30T18:31:00Z",
+            "content": "NEW YORK, Oct 30 (Reuters) - More than a dozen groups are pressing the U.S. Justice Department to retreat from a new policy they say gives a \"free pass\" to corporate wrongdoers, a sign of mounting cr… [+3013 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "TOM KRISHER",
+            "title": "General Motors reaches tentative agreement with UAW, potentially ending six-week strike - The Associated Press",
+            "description": "General Motors and the United Auto Workers union have reached a tentative contract agreement that could end a six-week-old strike against Detroit automakers, three people briefed on the deal said. The agreement follows the pattern set with Ford last week and …",
+            "url": "https://apnews.com/article/general-motors-ford-stellantis-uaw-strike-34f6f0d7ca32a671783594722b20fb24",
+            "urlToImage": "https://dims.apnews.com/dims4/default/a7fee0b/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2Fb5%2F0f3fe79730c215484c65b99143cc%2F7681eb2a4a1a4e5eaf4cddb9e1785eda",
+            "publishedAt": "2023-10-30T18:26:00Z",
+            "content": "DETROIT (AP) Facing the loss of another $200 million this week to a lengthy strike, General Motors CEO Mary Barra wrapped up her weekend by going to the United Auto Workers Detroit headquarters inten… [+8014 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brian Fung",
+            "title": "Google CEO Sundar Pichai testifies in Google antitrust trial - CNN",
+            "description": "Google CEO Sundar Pichai took the stand Monday to defend the search giant in the largest tech antitrust trial since the Microsoft case of the 1990s, marking a climactic moment in the US government’s weeks-long effort to prove that Google has illegally monopol…",
+            "url": "https://www.cnn.com/2023/10/30/tech/google-ceo-testifies-antitrust-trial/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23303505427091.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-30T18:19:00Z",
+            "content": "Google CEO Sundar Pichai took the stand Monday at the US District Court for the District of Columbia to defend the search giant in the largest tech antitrust trial since the Microsoft case of the 199… [+7957 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kate Dore, CFP®",
+            "title": "Most middle-income Americans still earn less than 3% on savings, survey finds - CNBC",
+            "description": "Despite inflation concerns, most middle-income Americans still aren't leveraging higher interest rates for savings. Here's what to know.",
+            "url": "https://www.cnbc.com/2023/10/30/most-middle-income-americans-still-earning-less-than-3percent-on-savings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107325572-1698686453675-sadpiggy.jpg?v=1698686469&w=1920&h=1080",
+            "publishedAt": "2023-10-30T17:38:04Z",
+            "content": "Despite inflation concerns, most middle-income Americans still aren't leveraging higher interest rates for savings.\r\nThat's according to a new Santander survey of roughly 2,200 middle-earning U.S. ad… [+2281 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Megan Henney",
+            "title": "Fed's fight against inflation is weighing on middle-class Americans - Fox Business",
+            "description": "A growing number of middle-class Americans are worried about the state of the economy in the wake of the Federal Reserve's interest-rate hike campaign.",
+            "url": "https://www.foxbusiness.com/economy/feds-fight-inflation-is-weighing-middle-class-americans",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/federal-reserve-3.jpg?ve=1&tl=1",
+            "publishedAt": "2023-10-30T17:37:06Z",
+            "content": "Americans are more worried about the state of the U.S. economy than they were one year ago, despite the resilient job market, slowing inflation and an unexpected surge in growth during the third quar… [+3124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jenni Reid, Holly Ellyatt",
+            "title": "European markets close higher despite geopolitical tensions; German economy contracts - CNBC",
+            "description": "European markets closed higher on Monday, with investors keeping a close eye on the latest inflation data out of Spain and Germany.",
+            "url": "https://www.cnbc.com/2023/10/30/european-markets-live-updates-stocks-news-data-and-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107156759-1669290775056-GettyImages-143195253.jpg?v=1696760363&w=1920&h=1080",
+            "publishedAt": "2023-10-30T16:56:00Z",
+            "content": "The latest gross domestic product figures show the German economy remains \"stuck in stagnation\" and will do little to quell the debate over whether the country is the 'sick man of Europe,' ING analys… [+1016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "U.S. Auto Giant Hits New Low While BYD Delivers Record Profit - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/news/gm-stock-hits-new-low-end-auto-strike-eyed-byd-delivers-record-profit/",
+            "urlToImage": null,
+            "publishedAt": "2023-10-30T16:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Kristen Altus",
+            "title": "EV market could become the 'next big flop': Economist - Fox Business",
+            "description": "Car companies falling victim to \"EV mania\" could see their market values be the \"next big flop\" to hit Wall Street – and thus, Americans' wallets, says Steve Moore.",
+            "url": "https://www.foxbusiness.com/markets/ev-market-next-big-flop-economist",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/EV-MARKET-MOORE-VARNEY.jpg?ve=1&tl=1",
+            "publishedAt": "2023-10-30T16:31:57Z",
+            "content": "Just like Ford’s \"Edsel\" model in the 1950s, Trump administration economist Steve Moore cautioned that electric vehicles (EVs) may be the auto market's \"next big flop.\"\r\n\"Henry Ford's son was named E… [+3258 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Sheetz",
+            "title": "Pentagon awards $1.3 billion in contracts to Northrop Grumman and York for 100 satellites - CNBC",
+            "description": "The Pentagon's Space Development Agency announced about $1.3 billion in contracts to York Space and Northrop Grumman to build communications satellites.",
+            "url": "https://www.cnbc.com/2023/10/30/pentagon-awards-satellite-contracts-to-northrop-grumman-york.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107289434-1692628033034-20230329sdaconcept.jpg?v=1692640967&w=1920&h=1080",
+            "publishedAt": "2023-10-30T16:26:10Z",
+            "content": "The Pentagon's Space Development Agency on Monday announced about $1.3 billion in contracts to York Space and Northrop Grumman to build communications satellites.\r\nThe SDA is having the pair of compa… [+1633 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Alex Lawler",
-            "title": "Oil falls over 1% as concerns about Mideast supply ease - Reuters",
-            "description": "Oil slipped more than 1% on Monday as concern eased about the Israel-Hamas war affecting supply from the region and as investors adopted caution ahead of this week's U.S. Federal Reserve meeting and other indications of global economic health.",
-            "url": "https://www.reuters.com/markets/commodities/oil-dips-caution-about-data-heavy-week-offsets-mid-east-war-boost-2023-10-30/",
-            "urlToImage": "https://www.reuters.com/resizer/j09JP5nRY2J8a85cmaJ5VdKlBJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B2U3CAGTFVKWFDMW6ENS5HMOMI.jpg",
-            "publishedAt": "2023-10-30T12:23:00Z",
-            "content": "LONDON, Oct 30 (Reuters) - Oil slipped more than 1% on Monday as concern eased about the Israel-Hamas war affecting supply from the region and as investors adopted caution ahead of this week's U.S. F… [+1942 chars]"
+            "author": "Stephen Culp",
+            "title": "Wall St gains on megacap boost ahead of Fed rate verdict - Reuters",
+            "description": "Wall Street rallied on Monday, surging at the start of what promises to be a hectic week marked with a heavy earnings docket, economic data, and the Federal Reserve's two-day monetary policy meeting and subsequent interest rate decision.",
+            "url": "https://www.reuters.com/markets/us/futures-jump-investors-await-fed-rate-verdict-middle-east-tensions-eyed-2023-10-30/",
+            "urlToImage": "https://www.reuters.com/resizer/yuMUtVDtPdg0TZ0ZecYiXL7uxxg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SVNWMRJZCNOSLPLTCMUKM644TQ.jpg",
+            "publishedAt": "2023-10-30T16:14:00Z",
+            "content": "NEW YORK, Oct 30 (Reuters) - Wall Street rallied on Monday, surging at the start of what promises to be a hectic week marked with a heavy earnings docket, economic data, and the Federal Reserve's two… [+3932 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fb.com"
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "McDonald's, Chipotle to raise menu prices in California next year as fast-food wages rise to $20 - CNBC",
+            "description": "McDonald's CEO Chris Kempczinski said the minimum wage hike could help the burger chain gain market share in California in the long term.",
+            "url": "https://www.cnbc.com/2023/10/30/mcdonalds-chipotle-to-raise-california-menu-prices-as-fast-food-wages-rise.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107094673-1658932369699-gettyimages-953919962-1006_18_dc170527204.jpeg?v=1698682841&w=1920&h=1080",
+            "publishedAt": "2023-10-30T16:07:18Z",
+            "content": "McDonald's and Chipotle Mexican Grill will raise their menu prices in California next year to offset the state's minimum wage increase for fast-food workers, executives said as both chains announced … [+3657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tipranks.com"
+            },
+            "author": "Marty Shtrubel",
+            "title": "Top Analyst Pounds the Table on AMD Stock - TipRanks.com - TipRanks",
+            "description": "The Q3 earnings season is in full swing and there are plenty of interesting reports still to come this week. An intriguing one will be announced on Tuesday (October...",
+            "url": "https://www.tipranks.com/news/article/top-analyst-pounds-the-table-on-amd-stock",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2022/02/AMD-0201-750x406.jpg",
+            "publishedAt": "2023-10-30T15:44:48Z",
+            "content": "The Q3 earnings season is in full swing and there are plenty of interesting reports still to come this week. An intriguing one will be announced on Tuesday (October 31) after the markets close when A… [+3090 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Above the Law"
+            },
+            "author": "Staci Zaretsky",
+            "title": "The End May Be Near As Stroock Loses More Than Half Its Partners To Hogan Lovells - Above the Law",
+            "description": "The future does not seem bright for this firm.",
+            "url": "https://abovethelaw.com/2023/10/the-end-may-be-near-as-stroock-loses-more-than-half-its-partners-to-hogan-lovells/",
+            "urlToImage": "https://abovethelaw.com/uploads/2023/09/facepalm-fear-shame-embarrassed-embarrassment-face-to-palm.jpg",
+            "publishedAt": "2023-10-30T15:12:47Z",
+            "content": "Late last week, Pillsbury Winthrop ended its non-exclusive merger talks with Stroock &amp; Stroock &amp; Lavan, yet another law firm that seemed uneasy when it came to the “financial and other risks … [+2164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Facebook and Instagram To Offer Subscription For No Ads In Europe - Meta",
-            "description": "To comply with evolving European regulations, we're introducing a new subscription option in the EU, EEA and Switzerland.",
-            "url": "https://about.fb.com/news/2023/10/facebook-and-instagram-to-offer-subscription-for-no-ads-in-europe/",
-            "urlToImage": "https://about.fb.com/wp-content/uploads/2023/08/NC-DSA_Header.jpg?w=1200",
-            "publishedAt": "2023-10-30T12:00:42Z",
-            "content": "To comply with evolving European regulations, we are introducing a new subscription option in the EU, EEA and Switzerland. In November, we will be offering people who use Facebook or Instagram and re… [+4282 chars]"
+            "title": "SoFi CEO: The bigger driver for Q3 was tech platform and personal loans, not student loans - CNBC Television",
+            "description": "SoFi CEO Anthony Noto joins 'Squawk on the Street' to discuss the company's quarterly earnings results, technology platform guidance, and more. For access to...",
+            "url": "https://www.youtube.com/watch?v=tpshDWzmhys",
+            "urlToImage": "https://i.ytimg.com/vi/tpshDWzmhys/maxresdefault.jpg",
+            "publishedAt": "2023-10-30T15:02:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Joel Leon",
+            "title": "Krispy Kreme Drops on Worries That Ozempic Will Hit Donut Demand - Bloomberg",
+            "description": "Krispy Kreme Inc. might still be a popular choice for doughnut lovers, but the boom in weight-loss drugs like Ozempic and Wegovy has one Wall Street firm warning investors about the stock.",
+            "url": "https://www.bloomberg.com/news/articles/2023-10-30/krispy-kreme-dnut-falls-on-worries-that-ozempic-will-hit-donut-demand",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLVPIVqGxj_8/v1/1200x800.jpg",
+            "publishedAt": "2023-10-30T14:48:36Z",
+            "content": "Krispy Kreme Inc. might still be a popular choice for doughnut lovers, but the boom in weight-loss drugs like Ozempic and Wegovy has one Wall Street firm warning investors about the stock.\r\nTruist Se… [+263 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motor1 "
+            },
+            "author": "Adrian Padeanu",
+            "title": "Stellantis To Reopen Belvidere Factory To Build New Midsize Truck [UPDATE] - Motor1 ",
+            "description": "UAW Vice President Rich Boyer has announced that Stellantis will reopen the idled Belvidere plant in Illinois to assemble a midsize truck in two shifts.",
+            "url": "https://www.motor1.com/news/693756/stellantis-reopen-belvidere-factory-midsize-truck/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/xqbmw2/s1/rampage-rebel-2024-vermelha.jpg",
+            "publishedAt": "2023-10-30T14:38:23Z",
+            "content": "Update: While UAW Vice President Rich Boyer stated a midsize truck would be built at the Stellantis factory in Belvidere, Illinois, Ram declined our request for confirmation or comment regarding the … [+2307 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Joel Khalili",
+            "title": "Sam Bankman-Fried Built a Crypto Paradise in the Bahamas—Now He's a Bad Memory - WIRED",
+            "description": "FTX staff lived the high life in the Bahamas. Following the exchange's high-profile collapse, the country is trying to rebuild its reputation.",
+            "url": "https://www.wired.com/story/sam-bankman-fried-crypto-paradise-bahamas/",
+            "urlToImage": "https://media.wired.com/photos/653c55e83c30b8a45c06ad00/191:100/w_1280,c_limit/FTX-bahamas-biz-GettyImages-1451154052.jpg",
+            "publishedAt": "2023-10-30T14:34:30Z",
+            "content": "Each Sunday morning, the congregation of the International Deliverance Praying Ministry gathers in front of their church, ready to be let in. Its a modest building in the southside of Nassau, the cap… [+3124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexandra Canal",
+            "title": "Disney activist Nelson Peltz gets support from ex-Marvel exec in board seat fight - Yahoo Finance",
+            "description": "Former Disney executive Ike Perlmutter has entrusted his stake in the company to activist investor Nelson Peltz.",
+            "url": "https://finance.yahoo.com/news/disney-activist-nelson-peltz-gets-support-from-ex-marvel-exec-in-board-seat-fight-142754157.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/x5KqmKWW4p_0Ticch7EAdg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/032422b0-7721-11ee-b3af-9b8e9c8088d8",
+            "publishedAt": "2023-10-30T14:27:54Z",
+            "content": "Activist investor Nelson Peltz has an ally in his battle for a board seat at Disney (DIS).\r\nFormer Marvel executive Ike Perlmutter has entrusted his stake in the company to Peltz, who recently launch… [+4088 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Western Digital is spinning off its flash memory business as sales decline - The Verge",
+            "description": "Western Digital is separating its flash memory and hard drive businesses. The company says the change will allow it to “realize its full value.”",
+            "url": "https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/c9b5MsHlITgPMFAxH-fv5e1DeIw=/842x15:3520x1979/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25044493/western_digital_ssd.jpg",
+            "publishedAt": "2023-10-30T14:06:54Z",
+            "content": "Western Digital is spinning off its flash memory business as sales decline\r\nWestern Digital is spinning off its flash memory business as sales decline\r\n / Western Digital is separating its hard drive… [+1791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Dallas Morning News"
+            },
+            "author": "Steve Brown",
+            "title": "California-based firm grabs Dallas' Spirit Realty for $9.3 billion in stock - The Dallas Morning News",
+            "description": "Dallas-based real estate investor Spirit Realty is getting  purchased by a larger California-based property firm in a $9.3 billion deal.",
+            "url": "https://www.dallasnews.com/business/real-estate/2023/10/30/dallas-spirit-realty-agrees-to-sale-valued-at-93-billion/",
+            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/EDqfq0j2L2gGvkzCZsdmnpNUTM4=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/GUV2BV76NRASJPW2VEMBLKB3OM.jpeg",
+            "publishedAt": "2023-10-30T14:03:49Z",
+            "content": "A Dallas-based real estate investor is getting gobbled up by a larger California-based property firm in a $9.3 billion deal.\r\nSpirit Realty Capital Inc. owns more than 2,000 properties nationwide mos… [+3217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Megan Sauer",
+            "title": "21-year-old spent $300 to start his sticker side hustle—now it brings in up to $38,000 a day: I was 'unprepared' to go viral - CNBC",
+            "description": "Jayson Siu's side hustle Invalid.jp, selling customized car stickers and rearview mirrors, has brought in over $1 million in revenue in less than two years.",
+            "url": "https://www.cnbc.com/2023/10/30/how-sticker-side-hustle-invalid-jp-went-tiktok-viral-became-lucrative.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107324743-1698437105513-jayson_siu_SFSH.jpg?v=1698674476&w=1920&h=1080",
+            "publishedAt": "2023-10-30T14:02:01Z",
+            "content": "When Jayson Siu's car accessories side hustle first went viral, he was completely \"unprepared.\"\r\nIt was October 2021, and a TikTok video about one of his products an LED-lined rearview mirror started… [+5117 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Alexei Oreskovic",
+            "title": "Airbnb cofounder Joe Gebbia raises $41 million for his startup building small, pre-fabricated houses that spun out of Airbnb in 2022 - Fortune",
+            "description": "Airbnb cofounder Joe Gebbia and former Flex CEO Mike McNamara are betting that pre-made Accessory Dwelling Units could ease California's housing crunch.",
+            "url": "https://fortune.com/2023/10/30/airbnb-cofounder-joe-gebbia-raises-41-million-series-a-samara-startup-thrive-capital/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/10/Samara-founders-group-portrait-Joe-Gebbia-Mike-McNamara-231025.jpg?resize=1200,600",
+            "publishedAt": "2023-10-30T14:00:00Z",
+            "content": "Airbnb cofounder Joe Gebbia describes a house that sounds like a nice spot for an upcoming vacation: its cozy, with lots of natural light and a high gable ceiling, bespoke custom furniture, and a sma… [+8315 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ryan Browne",
+            "title": "UK confirms plans to regulate crypto industry with formal legislation - CNBC",
+            "description": "The U.K. government published its response to a consultation paper issued earlier this year, which recommended how the crypto industry should be regulated.",
+            "url": "https://www.cnbc.com/2023/10/30/uk-confirms-plans-to-regulate-crypto-industry-with-formal-legislation.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107213605-1679518297059-gettyimages-630953736-UK_BITCOIN.jpeg?v=1698667092&w=1920&h=1080",
+            "publishedAt": "2023-10-30T13:56:49Z",
+            "content": "The U.K. government on Monday confirmed plans to regulate the cryptocurrency industry, announcing in a consultation paper that it will look to bring in formal legislation for crypto activities by 202… [+1500 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "GuruFocus Research",
+            "title": "ON Semiconductor Corp (ON) Q3 2023 Earnings: Revenue and Net Income Exceed Expectations - Yahoo Finance",
+            "description": "Record revenue in automotive and industrial end markets with notable improvements in silicon carbide operation",
+            "url": "https://finance.yahoo.com/news/semiconductor-corp-q3-2023-earnings-135208433.html",
+            "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/7d5b8510d97c74d9668c0d4064818965",
+            "publishedAt": "2023-10-30T13:52:08Z",
+            "content": "<ul><li>ON Semiconductor Corp (NASDAQ:ON) reported Q3 2023 revenue of $2,180.8 million, slightly below Q3 2022's $2,192.6 million.\r\n</li><li>Net income attributable to ON Semiconductor Corporation wa… [+2236 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Gloria Li, Peter Wells, Maxine Kelly, Jonathan Wheatley, Steff Chávez, Oliver Ralph, William Langley, Alexandra White",
+            "title": "Live news: German inflation falls faster than expected to 3 per cent - Financial Times",
+            "description": null,
+            "url": "https://www.ft.com/content/eb259b09-fe41-4b0b-9f06-7552231afe02",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F011c23f2-44fa-4981-b542-2b2b31cdc412.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-10-30T13:49:57Z",
+            "content": "Mark Rutte, prime minister of the Netherlands, assured Volodymyr Zelenskyy that Ukraine will not be forgotten, as its allies grow more preoccupied with the Israel-Hamas conflict.\r\nWe have to make sur… [+674 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin O'Kane",
+            "title": "FDA urging parents to test their kids for lead after eating WanaBana apple cinnamon puree pouches - CBS News",
+            "description": "WanaBana has issued a voluntary recall of the pouches, which are sold at several retailers – including Amazon and Sam's Club – the FDA said​ in a recall alert Saturday.",
+            "url": "https://www.cbsnews.com/news/wanabana-pouches-recall-lead-apple-cinnamon-puree-fda-warns-test-levels/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/30/56123424-faf8-41d6-8108-844e263765d1/thumbnail/1200x630/e4c0d69e9f82c12fc9139d1231ec3226/wanabana-1.png?v=5799c2de91a486f8a37c0b0f0daf468a",
+            "publishedAt": "2023-10-30T13:35:04Z",
+            "content": "EPA proposes new standards to eliminate lead in homes \r\nEPA proposes new standards to eliminate lead in homes01:50\r\nThe FDA is urging parents who have fed their children WanaBana apple cinnamon fruit… [+2778 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anna Cooban",
+            "title": "Oil prices are falling even as Israel steps up its war on Hamas. A spike could still happen - CNN",
+            "description": "Global oil prices fell Monday even after Israel’s military expanded its ground operations in Gaza over the weekend, raising fears that the country’s war with Hamas could spill over into a regional conflict.",
+            "url": "https://www.cnn.com/2023/10/30/economy/oil-prices-israel-gaza-offensive/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231029112117-exp-israel-new-phase-miller-intv-10297aseg1-cnni-world-00002001.png?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-30T13:23:00Z",
+            "content": "Oil prices fell again Monday as concerns about the health of the global economy outweighed fears that Israels move on the weekend to expand its military operations in Gaza could lead to a regional co… [+3637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Business Wire",
+            "title": "SoFi and BlackRock Partner on $375 Million Personal Loan Securitization - Yahoo Finance",
+            "description": "SAN FRANCISCO, October 30, 2023--SoFi Technologies, Inc. (NASDAQ: SOFI), a member-centric, one-stop shop for digital financial services that helps members...",
+            "url": "https://finance.yahoo.com/news/sofi-blackrock-partner-375-million-130000038.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2023-10-30T13:00:00Z",
+            "content": "SAN FRANCISCO, October 30, 2023--(BUSINESS WIRE)--SoFi Technologies, Inc. (NASDAQ: SOFI), a member-centric, one-stop shop for digital financial services that helps members borrow, save, spend, invest… [+3127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Prashant Jha",
+            "title": "CME becomes second-largest Bitcoin futures exchange as open interest surges - Cointelegraph",
+            "description": "The CME’s rising open interest helped the futures exchange climb to the second spot among futures crypto exchanges.",
+            "url": "https://cointelegraph.com/news/cme-second-largest-bitcoin-futures-exchange-open-interest-surges",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/4eaf947f-6b5c-4b91-bcd2-d744600796c6.jpg",
+            "publishedAt": "2023-10-30T12:56:15Z",
+            "content": "The Chicago Mercantile Exchange (CME), a regulated derivatives exchange that lists Bitcoin (BTC) futures, now stands just behind Binance in terms of notional open interest to rank second in the list … [+2098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Wharton's Jeremy Siegel: I do think we're going to have a year-end rally in 2023 - CNBC Television",
+            "description": "Jeremy Siegel, professor emeritus of finance at University of Pennsylvania’s Wharton School of Business, joins 'Squawk Box' to discuss the latest market tren...",
+            "url": "https://www.youtube.com/watch?v=yA5xWjVmFsA",
+            "urlToImage": "https://i.ytimg.com/vi/yA5xWjVmFsA/maxresdefault.jpg",
+            "publishedAt": "2023-10-30T12:46:13Z",
+            "content": null
         },
         {
             "source": {
                 "id": "usa-today",
                 "name": "USA Today"
             },
-            "author": "Gabe Hauari",
-            "title": "Eye drops from major brands may cause infection, FDA issues guidance - USA TODAY",
-            "description": "The FDA has advised consumers to stop using more than 20 over-the-counter eye drops due to potential risk of infection.",
-            "url": "https://www.usatoday.com/story/news/health/2023/10/30/eye-drops-fda-warning-infection/71378351007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2019/07/06/USAT/bf3e9250-7871-4dc4-bb06-e8598e06deff-eyedrops-getty.jpg?crop=2120,1193,x1,y69&width=2120&height=1193&format=pjpg&auto=webp",
-            "publishedAt": "2023-10-30T11:31:26Z",
-            "content": "The U.S. Food and Drug Administration is advising consumers to stop using some over-the-counter eye drops due to a potential risk of infection that may lead to partial vision loss or blindness.\r\nThe … [+1505 chars]"
+            "author": "USA TODAY",
+            "title": "A Georgia restaurant goes viral for $50 'bad parenting' surcharge - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/news/nation/2023/10/30/georgia-restaurant-bad-parenting-surcharge-toccoa-riverside/71378409007/",
+            "urlToImage": null,
+            "publishedAt": "2023-10-30T12:43:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Morgan Stanley's Mike Wilson says year-end rally unlikely - CNBC Television",
+            "description": "CNBC's Becky Quick reports on the latest news. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi » Subscribe to ...",
+            "url": "https://www.youtube.com/watch?v=QtYsDlzWlHM",
+            "urlToImage": "https://i.ytimg.com/vi/QtYsDlzWlHM/maxresdefault.jpg",
+            "publishedAt": "2023-10-30T12:34:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "I expect the Fed will keep the door open for a December rate hike, says Roger Ferguson - CNBC Television",
+            "description": "Roger Ferguson, former Federal Reserve vice chairman, joins 'Squawk Box' to preview the Fed's policy meeting this week, interest rate path outlook, and more....",
+            "url": "https://www.youtube.com/watch?v=6EWNf6qv1z4",
+            "urlToImage": "https://i.ytimg.com/vi/6EWNf6qv1z4/maxresdefault.jpg",
+            "publishedAt": "2023-10-30T12:28:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annie Nova",
+            "title": "Education Department penalizes Missouri lender for error that made 800,000 student loan borrowers delinquent - CNBC",
+            "description": "The Education Department announced it would penalize student loan servicer Mohela for its failure to send timely billing statements to 2.5 million borrowers.",
+            "url": "https://www.cnbc.com/2023/10/30/education-dept-penalizes-student-loan-servicer-mohela-for-errors.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106902459-1624575667442-gettyimages-1226892509-dept_edu_002_07132020.jpeg?v=1698667906&w=1920&h=1080",
+            "publishedAt": "2023-10-30T12:20:30Z",
+            "content": "The U.S. Department of Education will penalize student loan servicer Mohela, or the Missouri Higher Education Loan Authority, for its failure to send timely billing statements to 2.5 million borrower… [+2443 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FierceBiotech"
+            },
+            "author": "FierceBiotech",
+            "title": "Novartis' $3.2B Chinook bet takes flight as phase 3 hits endpoint, providing launchpad for 2024 FDA filing - FierceBiotech",
+            "description": null,
+            "url": "https://www.fiercebiotech.com/biotech/novartis-32b-chinook-bet-takes-flight-phase-3-hits-endpoint-providing-launchpad-24-fda",
+            "urlToImage": null,
+            "publishedAt": "2023-10-30T12:16:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Panera lemonade death: Company now displaying caffeine warning after death of University of Pennsylvania student Sarah Katz - KABC-TV",
+            "description": "A death in Philadelphia has a national food chain now issuing a warning when it comes to one of its beverage options.",
+            "url": "https://abc7.com/panera-charged-lemonade-warning-death/13991080/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13991687_103023-wabc-panera-lemonade-clean-img.jpg?w=1600",
+            "publishedAt": "2023-10-30T12:08:01Z",
+            "content": "PHILADELPHIA -- A death in Philadelphia has a national food chain now issuing a warning when it comes to one of its beverage options.\r\nPanera Bread is now displaying a warning about its caffeinated l… [+703 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Leroy Leo",
+            "title": "Pharmacy staff from CVS, Walgreens stores in US start 3-day walkout - Reuters",
+            "description": "Some employees at CVS Health Corp <a href=\"https://www.reuters.com/markets/companies/CVS.N\" target=\"_blank\">(CVS.N)</a> and Walgreens Boots Alliance's <a href=\"https://www.reuters.com/markets/companies/WBA.O\" target=\"_blank\">(WBA.O)</a> U.S. pharmacies launch…",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pharmacy-staff-cvs-walgreens-stores-us-plan-3-day-walkout-2023-10-30/",
+            "urlToImage": "https://www.reuters.com/resizer/5PhkGfjOEEGEfKspEvQDTIp1lKg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PXRJ7EVHIJODFCX54OZZ2Q2C5A.jpg",
+            "publishedAt": "2023-10-30T12:07:00Z",
+            "content": "Oct 30 (Reuters) - Some employees at CVS Health Corp (CVS.N) and Walgreens Boots Alliance's (WBA.O) U.S. pharmacies launched a three-day walkout starting Monday to get the companies to improve workin… [+2517 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Jillian Deutsch",
+            "title": "Meta to Offer Ad-Free Facebook, Instagram Subscriptions in Europe - Bloomberg",
+            "description": "Meta Platforms Inc. will offer users in Europe ad-free access to Facebook and Instagram for a subscription fee after courts in the region began cracking down on the way social media companies treat data.",
+            "url": "https://www.bloomberg.com/news/articles/2023-10-30/meta-to-offer-ad-free-facebook-instagram-subscriptions-in-europe",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWN1ZgxiEsFE/v1/1200x800.jpg",
+            "publishedAt": "2023-10-30T12:04:20Z",
+            "content": "Meta Platforms Inc. will offer users in Europe ad-free access to Facebook and Instagram for a subscription fee after courts in the region began cracking down on the way social media companies treat d… [+364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Brian Evans",
+            "title": "Stocks making the biggest moves premarket: McDonald's, SoFi, Invitation Homes and more - CNBC",
+            "description": "These are the stocks posting the largest moves in premarket trading.",
+            "url": "https://www.cnbc.com/2023/10/30/-stocks-making-the-biggest-moves-premarket-mcd-sofi-invh-and-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107072858-16547021072022-06-08t143131z_2105048558_rc2pnu9x9wmj_rtrmadp_0_ukraine-crisis-russia-mcdonald-s.jpeg?v=1654702716&w=1920&h=1080",
+            "publishedAt": "2023-10-30T12:01:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Kristen V Brown",
+            "title": "23andMe Will Give GSK Access to Consumer DNA Data - Bloomberg",
+            "description": "GSK will pay the DNA testing company $20 million for non-exclusive access to genetic data.",
+            "url": "https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7kOdOta8xH4/v1/1200x801.jpg",
+            "publishedAt": "2023-10-30T12:00:21Z",
+            "content": "GSK Plc will pay 23andMe Holding Co. $20 million for access to the genetic-testing companys vast trove of consumer DNA data, extending a five-year collaboration thats allowed the drugmaker to mine ge… [+709 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Ciara Linnane",
+            "title": "Carl Icahn's investing arm's stock falls to 19-year low ahead of quarterly earnings - MarketWatch",
+            "description": "IEP’s stock closed at its lowest level since June 8, 2004",
+            "url": "https://www.marketwatch.com/story/carl-icahns-investing-arms-stock-falls-to-19-year-low-7bfc3346",
+            "urlToImage": "https://images.mktw.net/im-780136/social",
+            "publishedAt": "2023-10-30T11:55:00Z",
+            "content": "Icahn Enterprises L.P.s stock closed at its lowest level since June 8, 2004, on Friday, ahead of the release of third-quarter earnings later this week. The stock \r\n IEP,\r\n -2.03%\r\nhas languished this… [+2780 chars]"
         },
         {
             "source": {
@@ -83,6 +564,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Endpoints News"
+            },
+            "author": "Amber Tong",
+            "title": "FDA approves Junshi, Coherus’ PD-1 toripalimab for nasopharyngeal carcinoma - Endpoints News",
+            "description": "The first Chinese PD-1 is coming to the US market, as the FDA approves toripalimab in recurrent or metastatic nasopharyngeal carcinoma (NPC) across all lines of treatment. Junshi Biosciences — which back in 2018 became the first drugmaker to win approval in C…",
+            "url": "https://endpts.com/fda-approves-junshi-coherus-pd-1-toripalimab-for-nasopharyngeal-carcinoma/",
+            "urlToImage": "https://endpts.com/wp-content/uploads/2021/03/FDA-shutterstock-social-scaled.jpg",
+            "publishedAt": "2023-10-30T11:28:00Z",
+            "content": "The first Chi­nese PD-1 is com­ing to the US mar­ket, as the FDA ap­proves tori­pal­imab in re­cur­rent or metasta­t­ic na­sopha­ryn­geal car­ci­no­ma (NPC) across all lines of treat­ment.\r\nJun­shi B… [+638 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Selena Li, Lawrence White",
+            "title": "HSBC says worst over for China real estate as Q3 profit disappoints - Reuters",
+            "description": "The worst may be over for China's shaky commercial real estate market, HSBC <a href=\"https://www.reuters.com/markets/companies/HSBA.L\" target=\"_blank\">(HSBA.L)</a> said on Monday, as a further $500 million charge from the sector helped drag third quarter prof…",
+            "url": "https://www.reuters.com/business/finance/hsbc-q3-pre-tax-profit-more-than-doubles-misses-estimates-2023-10-30/",
+            "urlToImage": "https://www.reuters.com/resizer/F_hOYSkTgwfs6y2iEs_25TdRr1w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVDTUAWDVJNSFC3HLKTOXOMYDE.jpg",
+            "publishedAt": "2023-10-30T11:17:00Z",
+            "content": "HONG KONG/LONDON Oct 30 (Reuters) - The worst may be over for China's shaky commercial real estate market, HSBC (HSBA.L) said on Monday, as a further $500 million charge from the sector helped drag t… [+3589 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Yahoo Entertainment"
             },
             "author": "Brooke DiPalma",
@@ -96,15 +603,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Realtyincome.com"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Realty Income to Acquire Spirit Realty Capital in $9.3 Billion Transaction - Realty Income",
-            "description": "Realty Income to Acquire Spirit Realty Capital in $9.3 Billion Transaction",
-            "url": "https://www.realtyincome.com/investors/press-releases/realty-income-acquire-spirit-realty-capital-93-billion-transaction",
-            "urlToImage": "https://www.realtyincome.com/sites/realty-income/files/realty-income/og-image/realty-income-logo.png",
-            "publishedAt": "2023-10-30T10:32:26Z",
-            "content": "- Over 2.5% Accretion to Annualized AFFO per Share in All Stock, Leverage-Neutral Transaction\r\n- Complementary Real Estate Portfolio Enhances Size, Scale and Diversification to Expand Runway for Futu… [+19793 chars]"
+            "title": "Unifor says tentative deal reached with St. Lawrence Seaway authority - CTV News",
+            "description": "Unifor says it has reached a tentative agreement with the St. Lawrence Seaway Management Corp. during negotiations to end a strike that began Oct. 22.Subscri...",
+            "url": "https://www.youtube.com/watch?v=wH5Cpt9guc4",
+            "urlToImage": "https://i.ytimg.com/vi/wH5Cpt9guc4/hqdefault.jpg",
+            "publishedAt": "2023-10-30T11:10:50Z",
+            "content": null
         },
         {
             "source": {
@@ -147,19 +654,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Simply Wall St"
-            },
-            "author": null,
-            "title": "Both retail investors who control a good portion of SoFi Technologies, Inc. (NASDAQ:SOFI) along with institutions must be dismayed after last week's 5.4% decrease - Simply Wall St",
-            "description": "Key Insights Significant control over SoFi Technologies by retail investors implies that the general public has more...",
-            "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-sofi/sofi-technologies/news/both-retail-investors-who-control-a-good-portion-of-sofi-tec",
-            "urlToImage": "https://images.simplywall.st/asset/industry/7121000-choice2-main-header/1585186688507",
-            "publishedAt": "2023-10-30T10:15:52Z",
-            "content": "Key Insights\r\n<ul><li> Significant control over SoFi Technologies by retail investors implies that the general public has more power to influence management and governance-related decisions </li><li>… [+5902 chars]"
-        },
-        {
-            "source": {
                 "id": "financial-times",
                 "name": "Financial Times"
             },
@@ -187,149 +681,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
-            },
-            "author": "Michael Wayland",
-            "title": "Canadian auto union initiates national strike at Chrysler-parent Stellantis - CNBC",
-            "description": "After reaching a tentative agreement Saturday with the United Auto Workers union , Chrysler-parent Stellantis is now facing a national labor strike in Canada.",
-            "url": "https://www.cnbc.com/2023/10/30/canadian-auto-union-initiates-national-strike-at-stellantis.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107314675-16969623892022-08-10t191528z_2016856892_rc2utv94r2pp_rtrmadp_0_canada-union.jpeg?v=1696963361&w=1920&h=1080",
-            "publishedAt": "2023-10-30T09:54:24Z",
-            "content": "DETROIT After reaching a tentative agreement Saturday with the United Auto Workers union, Chrysler-parent Stellantis is now facing a national labor strike in Canada.\r\nCanadian union Unifor called a n… [+1834 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Charlotte Yang",
-            "title": "Tesla woes bolster appeal of China EV maker BYD - Yahoo Finance",
-            "description": "(Bloomberg) -- BYD Co. is rapidly closing in on Tesla Inc. as the world’s biggest seller of pure electric vehicles, with surging profits underscoring its...",
-            "url": "https://finance.yahoo.com/news/tesla-woes-bolster-appeal-top-020000164.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CRKxevxhO5_.Uh0hapjfxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/19cc78ed12d26f2a29732ead56dc6eae",
-            "publishedAt": "2023-10-30T09:54:08Z",
-            "content": "(Bloomberg) -- BYD Co. is rapidly closing in on Tesla Inc. as the worlds biggest seller of pure electric vehicles, with surging profits underscoring its sales clout despite intensifying competition a… [+5405 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CoinDesk"
-            },
-            "author": "Camomile Shumba, Jack Schickler",
-            "title": "UK Publishes Final Proposals for Crypto, Stablecoin Regulation - CoinDesk",
-            "description": "The government plans to propose legislation on fiat-backed stablecoins by early 2024.",
-            "url": "https://www.coindesk.com/policy/2023/10/30/uk-publishes-final-proposals-for-crypto-stablecoin-regulation/",
-            "urlToImage": "https://www.coindesk.com/resizer/Se6eR9DdP3dgQtylBc5qbWIYLYQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QR3UOAXOFVH63BISAOGY46QSN4.jpg",
-            "publishedAt": "2023-10-30T09:37:00Z",
-            "content": "<ul><li>The government published its proposals for regulating the crypto ecosystem following industry complaints it was dragging its feet\r\n</li><li>The government says it wants to make the U.K. a pre… [+3995 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Anna Shiryaevskaya",
-            "title": "European Gas Prices Jump After Risks Mount for Egypt LNG - Bloomberg",
-            "description": "European natural gas prices jumped after a halt in Egyptian imports raised the risk of LNG flows from the country, while the Israel-Hamas conflict intensified.",
-            "url": "https://www.bloomberg.com/news/articles/2023-10-30/european-gas-prices-jump-after-egypt-says-imports-stopped",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9TLJskolUkQ/v1/1200x812.jpg",
-            "publishedAt": "2023-10-30T09:33:45Z",
-            "content": "European natural gas prices jumped after a halt in Egyptian imports raised the risk of LNG flows from the country, while the Israel-Hamas conflict intensified. \r\nDecember futures surged as much as 7.… [+223 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Maureen Mackey",
-            "title": "Gifts for the holidays: How to plan and shop wisely this season amid inflation - Fox Business",
-            "description": "Americans on average will spend nearly $900 on gifts, decorations, food and more this holiday season. Amid high costs, Ramsey Solutions' personal finance experts share wise money tips.",
-            "url": "https://www.foxbusiness.com/lifestyle/gifts-holidays-how-plan-shop-wisely-season-inflation",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/Christmas_split_5_money.jpg?ve=1&tl=1",
-            "publishedAt": "2023-10-30T09:03:52Z",
-            "content": "The average family celebrating the winter holidays this year will spend nearly $900 on gifts, decorations, food and other key seasonal items, according to the National Retail Federation's latest cons… [+5021 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cointelegraph"
-            },
-            "author": "William Suberg",
-            "title": "End of 'Uptober' targets $40K BTC price — 5 things to know in Bitcoin this week - Cointelegraph",
-            "description": "Bitcoin stares down a major macro volatility week with BTC price holding 17-month highs.",
-            "url": "https://cointelegraph.com/news/uptober-40k-btc-price-5-things-bitcoin-this-week",
-            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/41be2bd1-0cbd-4add-bddd-2701205ebe8a.jpg",
-            "publishedAt": "2023-10-30T08:21:13Z",
-            "content": "Bitcoin (BTC) starts a new week at comfortable highs as traders square off over BTC price action to come.\r\nAs macroeconomic uncertainty continues to grow, Bitcoin is cementing its new trading zone ab… [+11003 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Megan Graham",
-            "title": "Omnicom Buys E-Commerce Shop Flywheel Digital for $835 Million - WSJ - The Wall Street Journal",
-            "description": "Flywheel, part of Cannes Lions owner Ascential, aims to help brands sell on digital marketplaces such as Amazon",
-            "url": "https://www.wsj.com/articles/omnicom-buys-e-commerce-shop-flywheel-digital-for-835-million-a40212d4",
-            "urlToImage": "https://images.wsj.net/im-877612/social",
-            "publishedAt": "2023-10-30T08:21:00Z",
-            "content": "Advertising holding company Omnicom said it has agreed to acquire Flywheel Digital for a net cash purchase price of approximately $835 million, in what it says is its biggest acquisition ever. \r\nFlyw… [+408 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Harry Wilson, Ambereen Choudhury",
-            "title": "HSBC Plans $3 Billion Share Buyback, CEO Touts Capital Strength - Bloomberg",
-            "description": "HSBC Holdings Plc announced a fresh buyback program and hinted at the potential for further returns to investors despite announcing profits for the third-quarter that missed market expectations.",
-            "url": "https://www.bloomberg.com/news/articles/2023-10-30/hsbc-announces-3-billion-share-buyback-after-missing-estimates",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icOjTwFHLl_A/v0/1200x800.jpg",
-            "publishedAt": "2023-10-30T07:25:57Z",
-            "content": "HSBC Holdings Plc announced a fresh buyback program and hinted at the potential for further returns to investors despite announcing profits for the third-quarter that missed market expectations.\r\nThe… [+265 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CoinDesk"
-            },
-            "author": "Omkar Godbole",
-            "title": "CME on the Cusp of Replacing Binance as Top Bitcoin Futures Exchange - CoinDesk",
-            "description": "With a notional open interest (OI) of $3.54 billion, CME is now the second-largest bitcoin futures exchange.",
-            "url": "https://www.coindesk.com/markets/2023/10/30/cme-whisker-away-from-replacing-binance-as-top-bitcoin-futures-exchange/",
-            "urlToImage": "https://www.coindesk.com/resizer/qnkB5-2XaOhHl3XBZW8MC04LuLU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/X3373OSTMZGGTC3SSG2BZVO4D4.jpg",
-            "publishedAt": "2023-10-30T07:13:00Z",
-            "content": "<ul><li>Notional open interest on CME has risen to $3.54 billion, the second-highest among exchanges offering trading in standard bitcoin and perpetual futures.\r\n</li><li>Analysts are split on whethe… [+2504 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Novartis.com"
-            },
-            "author": null,
-            "title": "Novartis investigational atrasentan Phase III study demonstrates clinically meaningful and highly statistically significant proteinuria reduction in patients with IgA nephropathy (IgAN) - Novartis",
-            "description": "Ad hoc announcement pursuant to Art. 53 LR Ad hoc announcement pursuant to Art. 53 LR Novartis is a global healthcare company based in Switzerland that provides solutions to address the evolving needs of patients worldwide.",
-            "url": "https://www.novartis.com/news/media-releases/novartis-investigational-atrasentan-phase-iii-study-demonstrates-clinically-meaningful-and-highly-statistically-significant-proteinuria-reduction-patients-iga-nephropathy-igan",
-            "urlToImage": "https://www.novartis.com/sites/novartis_com/files/novartis-logo-open-graph.jpg",
-            "publishedAt": "2023-10-30T06:50:49Z",
-            "content": "Ad hoc announcement pursuant to Art. 53 LR\r\n<ul><li>Phase III ALIGN study met its primary endpoint, demonstrating superiority of atrasentan vs. placebo in proteinuria reduction at 36-week interim ana… [+14700 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Ari Rabinovitch, Steven Scheer",
-            "title": "Israel awards gas exploration licences to Eni, BP and four others - Reuters",
-            "description": "Israel's Energy Ministry said on Sunday it had awarded 12 licences to six companies to explore for natural gas off the country's Mediterranean coast, aiming to create more competition and diversify suppliers.",
-            "url": "https://www.reuters.com/business/energy/israel-awards-gas-exploration-licences-eni-bp-four-others-2023-10-29/",
-            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=161",
-            "publishedAt": "2023-10-30T06:28:00Z",
-            "content": "JERUSALEM, Oct 30 (Reuters) - Israel's Energy Ministry said on Sunday it had awarded 12 licences to six companies to explore for natural gas off the country's Mediterranean coast, aiming to create mo… [+2300 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Cointelegraph"
             },
             "author": "Jesse Coghlan",
@@ -339,19 +690,6 @@
             "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/a65be435-b7b1-4d2d-9883-cb1a41c0d49c.jpg",
             "publishedAt": "2023-10-30T05:30:02Z",
             "content": "Gary Gensler once criticized the United States securities regulator for its inconsistent approach to spot Bitcoin (BTC) products, according to a resurfaced video of Gensler from 2019. \r\nThe video cli… [+1627 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Suzanne O'Halloran",
-            "title": "Slowing economy presenting more challenges: NABE - Fox Business",
-            "description": "The U.S. economy is likely to face more headwinds heading into the final months of the year, but the chances of a deep recession are not in the cards, according to the NABE.",
-            "url": "https://www.foxbusiness.com/economy/slowing-economy-presenting-more-challenges",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/06/0/0/Economic-uncertainty-capitol-building.jpg?ve=1&tl=1",
-            "publishedAt": "2023-10-30T05:05:27Z",
-            "content": "The nation's leading economists stopped short of forecasting a full-blown recession, but they do see headwinds for the U.S. economy. \r\nSlowing Sales, Weaker Profit Margins \r\n\"The October 2023 Busines… [+3515 chars]"
         },
         {
             "source": {
@@ -365,58 +703,6 @@
             "urlToImage": "https://www.reuters.com/resizer/kKbGblSZTY_BvaHbG22L2ezY_b4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KHGP2JDRPBNUJL46PQKS6Y2B34.jpg",
             "publishedAt": "2023-10-30T04:41:00Z",
             "content": "HONG KONG, Oct 30 (Reuters) - A Hong Kong court gave China Evergrande Group (3333.HK) a five week reprieve to come up deal with creditors or face liquidation after the embattled developer said on Mon… [+4081 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Ryan Browne",
-            "title": "Factories are heading for a 'dark' future — and it's not what you think - CNBC",
-            "description": "Factories have been transformed by automation, with robots now taking on a sizeable proportion of jobs once done by people – lifting heavy loads, assembling parts, and more.",
-            "url": "https://www.cnbc.com/video/2023/10/30/factories-are-heading-for-a-dark-future-and-its-not-what-you-think.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107325139-1698647466522-Thumbnail_Digital_Originals_Robots_Clean_V1.jpg?v=1698647496&w=1920&h=1080",
-            "publishedAt": "2023-10-30T03:49:00Z",
-            "content": "Factories have been transformed by automation, with robots now taking on a considerable proportion of jobs once done by people lifting heavy loads, assembling parts, and more.\r\nSome manufacturers are… [+1587 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Huileng Tan",
-            "title": "Elon Musk wants users' 'entire financial life' on X by the end of 2024 - Business Insider",
-            "description": "X, formerly known as Twitter, is in the process of obtaining licenses in every US state to offer banking and money transfer services.",
-            "url": "https://www.businessinsider.com/elon-musk-users-entire-financial-life-on-x-twitter-2023-10",
-            "urlToImage": "https://i.insider.com/652f3666211def8ed837c634?width=1200&format=jpeg",
-            "publishedAt": "2023-10-30T03:16:00Z",
-            "content": "Elon Musk expects X to roll out financial features by the end of next year, The Verge reported on Friday.\r\nMusk, the owner, chairman, and CTO of X the platform formerly known as Twitter gave his proj… [+1580 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Nora Eckert, Ryan Felton, Mike Colias",
-            "title": "UAW Strike Expansion With GM Shows Union Strategy: Surprise and Misdirection - The Wall Street Journal",
-            "description": "Union calls a fresh walkout at a General Motors factory in Tennessee",
-            "url": "https://www.wsj.com/business/uaw-stellantis-reach-tentative-agreement-on-new-four-year-labor-contract-1bc9c9f5",
-            "urlToImage": "https://images.wsj.net/im-877471/social",
-            "publishedAt": "2023-10-30T01:22:00Z",
-            "content": "The decision by the United Auto Workers on Saturday to call a fresh strike at General Motors as talks appeared to be nearing a conclusion was the latest in a set of unexpected moves by the union, whi… [+556 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lim Hui Jie",
-            "title": "Asia markets mixed ahead of Japan's BOJ decision and South Korea inflation this week - CNBC",
-            "description": "Asian markets are mixed as investors brace for key economic data later this week, including purchasing managers index from around the region",
-            "url": "https://www.cnbc.com/2023/10/30/asia-stock-markets-today-live-updates-bank-of-japan-meeting-starts-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107314904-1696989103344-gettyimages-1546732416-JAPAN_POWER.jpeg?v=1696989815&w=1920&h=1080",
-            "publishedAt": "2023-10-30T00:52:10Z",
-            "content": "Bitcoin is on pace to post its best week since June, after a big rally earlier this week pushed it out of the narrow range it had been stuck in for much of this year.\r\nThe coin is on pace to end the … [+1261 chars]"
         },
         {
             "source": {
@@ -446,97 +732,6 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Wayne Cole",
-            "title": "Asia stocks mull over Middle East, central bank meetings - Reuters",
-            "description": "Asian share markets were mixed on Monday as Israel's push into Gaza stirred fears of a wider conflict ahead of central bank meetings in the United States, Britain and Japan, the latter of which might see a policy tightening.",
-            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-10-30/",
-            "urlToImage": "https://www.reuters.com/resizer/tsBLNxhHax2lB8C1kxnuC3WZ-ek=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RZMV5XSY2BN6BNXMCATQDOJV7Y.jpg",
-            "publishedAt": "2023-10-30T00:07:42Z",
-            "content": "SYDNEY, Oct 30 (Reuters) - Asian share markets were mixed on Monday as Israel's push into Gaza stirred fears of a wider conflict ahead of central bank meetings in the United States, Britain and Japan… [+4712 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Eric Revell",
-            "title": "EVs create profit potholes for major US automakers GM, Ford - Fox Business",
-            "description": "The electric vehicle push by Ford and General Motors cut into both companies' profit margins which has the automakers revising some of their EV plans to rein in costs.",
-            "url": "https://www.foxbusiness.com/markets/evs-profit-potholes-major-us-automakers-gm-ford",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/06/0/0/ford-auto-worker.jpg?ve=1&tl=1",
-            "publishedAt": "2023-10-29T23:58:16Z",
-            "content": "The electric vehicle push\r\n at Ford and General Motors hit a speed bump that’s cutting into the automakers’ profits and causing them to reevaluate their electric vehicle (EV) plans amid a price war a… [+4244 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Gertrude Chavez-Dreyfuss",
-            "title": "US Treasury seen boosting auction sizes as budget deficit worsens - Reuters",
-            "description": "The U.S. Treasury is likely to boost the size of auctions for bills, notes, and bonds in the fourth quarter when it announces its financing plans this week to fund a worsening budget deficit, analysts said.",
-            "url": "https://www.reuters.com/markets/rates-bonds/us-treasury-seen-boosting-auction-sizes-budget-deficit-worsens-2023-10-29/",
-            "urlToImage": "https://www.reuters.com/resizer/ahz7cH-ovYYL7uUCRpmZWbQ2ltk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FFILHBUSJNKLPGKMB4GA4H6XG4.jpg",
-            "publishedAt": "2023-10-29T23:45:00Z",
-            "content": "NEW YORK, Oct 29 (Reuters) - The U.S. Treasury is likely to boost the size of auctions for bills, notes, and bonds in the fourth quarter when it announces its financing plans this week to fund a wors… [+3443 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Detroit News"
-            },
-            "author": "Breana Noble, Hayley Harding, Jordyn Grzelewski",
-            "title": "Ford workers to decide on UAW deal with battery-plant pathway - Detroit News",
-            "description": "The deal includes $8.1 billion in investments, 26% compounded base wage increases in addition to cost-of-living adjustments.",
-            "url": "https://www.detroitnews.com/story/business/autos/ford/2023/10/29/uaw-ford-tentative-agreement-details-highlighter/71368266007/",
-            "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2023/10/29/PDTN/71376289007-thumbnail-img-6578-1.jpg?crop=1060,595,x11,y0&width=1060&height=595&format=pjpg&auto=webp",
-            "publishedAt": "2023-10-29T23:34:13Z",
-            "content": "Taylor Some 56,000 rank-and-file United Auto Workers members employed by Ford Motor Co. now have the decision of whether to ratify an agreement that would provide a pathway for battery-plant workers … [+14774 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Britt Ross",
-            "title": "The 80+ best deals at Amazon this weekend — save up to 80% on Apple, iRobot and more - Yahoo Life",
-            "description": "Score a Keurig for a sweet 50% off and a 40-inch smart TV for just $168, along with plenty of home goods and holiday gift ideas.",
-            "url": "https://www.yahoo.com/lifestyle/amazon-sale-apple-10-29-2-233349338.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ig7h1rZGzoSd05jX1PjC2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/363507a0-63cb-11ee-abef-1e03afcb9a4d",
-            "publishedAt": "2023-10-29T23:33:51Z",
-            "content": "Sleek as a Dyson, minus the high price tag, this ultra-affordable Inse cordless vacuum just might make you enjoy cleaning your floors! At a mere three pounds, it's super easy to take with you from ro… [+1033 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "Xi Seen Tightening Grip on Finance at Twice-a-Decade Conference - Bloomberg",
-            "description": "President Xi Jinping is set to further tighten his control of China’s $61 trillion financial industry as he gathers state leaders and top bankers to set the direction over the next five years.",
-            "url": "https://www.bloomberg.com/news/articles/2023-10-29/xi-seen-tightening-grip-on-finance-at-twice-a-decade-conference",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikfZMExovh0o/v1/1200x801.jpg",
-            "publishedAt": "2023-10-29T23:00:00Z",
-            "content": "President Xi Jinping is set to further tighten his control of Chinas $61 trillion financial industry as he gathers state leaders and top bankers to set the direction over the next five years.\r\nAgains… [+264 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CleanTechnica"
-            },
-            "author": "Jennifer Sensiba",
-            "title": "Want A New EV Dirt Cheap? Get Ready To Act Fast In Two Months! - CleanTechnica",
-            "description": "New affordable EVs will come in the next 2-3 years, and with better features. But, if you're in need of a car quick, this just might be the cheap ticket to kicking gas.",
-            "url": "https://cleantechnica.com/2023/10/29/want-a-new-ev-dirt-cheap-get-ready-to-act-fast-in-two-months/",
-            "urlToImage": "https://cleantechnica.com/files/2023/07/Bolt-EUV-Towing-800x400.png",
-            "publishedAt": "2023-10-29T22:31:09Z",
-            "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nWith all of the headwinds EVs are facing in recent weeks, one thing is becoming increasingly clear: affordabi… [+8023 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Fox Business"
             },
@@ -550,42 +745,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "PBS"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": null,
-            "title": "Why pharmacy workers are going on strike amid store closures - PBS NewsHour",
-            "description": "Finding a neighborhood pharmacist is becoming more challenging. Over the past two years, CVS, Walgreens and Rite Aid have either closed or announced plans to close hundreds of stores. At many of the remaining locations, worsening working conditions have led t…",
-            "url": "https://www.pbs.org/newshour/show/why-pharmacy-workers-are-going-on-strike-amid-widespread-store-closures",
-            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/10/Pharmacy-1024x683.jpg",
-            "publishedAt": "2023-10-29T21:40:42Z",
-            "content": "Finding a neighborhood pharmacist is becoming more challenging. Over the past two years, CVS, Walgreens and Rite Aid have either closed or announced plans to close hundreds of stores. At many of the … [+191 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PBS"
-            },
-            "author": null,
-            "title": "What some states are doing to help protect your data privacy - PBS NewsHour",
-            "description": "Data brokers make money off of your personal data, including your real-time location and spending habits. These companies say the information allows service providers to personalize their products, but privacy advocates say it's collected without permission a…",
-            "url": "https://www.pbs.org/newshour/show/what-some-states-are-doing-to-improve-privacy-for-your-personal-data",
-            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/10/Data-1024x644.jpg",
-            "publishedAt": "2023-10-29T21:35:07Z",
-            "content": "Data brokers make money off of your personal data, including your real-time location and spending habits. These companies say the information allows service providers to personalize their products, b… [+187 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkei.com"
-            },
-            "author": "MITSURU OBE",
-            "title": "Japan yen poised for a big move as the BOJ discusses its next step - Nikkei Asia",
-            "description": "Policy meeting follows rate hikes by Indonesia and the Philippines",
-            "url": "https://asia.nikkei.com/Spotlight/Market-Spotlight/Japan-yen-poised-for-a-big-move-as-the-BOJ-discusses-its-next-step",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F9%252F9%252F2%252F1%252F46741299-1-eng-GB%252Fphoto_SXM2023102600003756.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-            "publishedAt": "2023-10-29T21:00:00Z",
-            "content": "TOKYO -- The currency market is being compared to a hissing volcano ahead of a two-day meeting of Bank of Japan board members who have stubbornly kept the central bank's policy rate at less than zero… [+420 chars]"
+            "author": "Jamie McGeever",
+            "title": "Morning Bid: Calm before policy, data storm - Reuters",
+            "description": "A look at the day ahead in Asian markets from Jamie McGeever, financial markets columnist.",
+            "url": "https://www.reuters.com/markets/asia/global-markets-view-asia-graphics-pix-2023-10-29/",
+            "urlToImage": "https://www.reuters.com/resizer/dG0KgXGYrCibJExiydQgDw9jGmE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DL3AW47ERVIFVJVHHV3KWNNLFA.jpg",
+            "publishedAt": "2023-10-29T21:51:00Z",
+            "content": "Oct 30 (Reuters) - A look at the day ahead in Asian markets from Jamie McGeever, financial markets columnist.\r\nAustralian retail sales is the only event on the Asian and Pacific economic calendar on … [+3442 chars]"
         },
         {
             "source": {
@@ -603,149 +772,6 @@
         {
             "source": {
                 "id": null,
-                "name": "KPRC Click2Houston"
-            },
-            "author": "Christian Terry",
-            "title": "Entergy schedules power outages in parts of Conroe for equipment upgrades - KPRC Click2Houston",
-            "description": "Entergy Texas said they will be conducting power outages in certain areas of Conroe to allow for the safe upgrade of power lines.",
-            "url": "https://www.click2houston.com/news/local/2023/10/29/entergy-schedules-power-outages-in-parts-of-conroe-for-equipment-upgrades/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JBPUGZ7ZNFDIDGMMQFLGBHQPSU.png?_a=ATAPphC0",
-            "publishedAt": "2023-10-29T20:47:26Z",
-            "content": "CONROE, Texas Entergy Texas said they will be conducting power outages in certain areas of Conroe to allow for the safe upgrade of power lines.\r\nThe company said they are upgrading power lines to imp… [+1522 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Thomas Barrabi",
-            "title": "Google's AI technology could further entrench online search monopoly: lawmakers - New York Post ",
-            "description": "Rep. Ken Buck said the competition concerns around Google’s business will “absolutely” get worse as AI takes hold.",
-            "url": "https://nypost.com/2023/10/29/business/googles-ai-technology-could-entrench-online-search-monopoly/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000064487611.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-10-29T17:55:00Z",
-            "content": "Lawmakers and antitrust watchdogs are sounding the alarm over Googles development of advanced AI products warning the tech giants alleged monopoly over online search will only become more entrenched … [+7061 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Suzanne O'Halloran",
-            "title": "Goldman Sachs CEO: Doesn’t see 1970-80s interest rates - Fox Business",
-            "description": "Interest rates are climbing, driving prices higher for everything from homes to cars to credit cards. With the Federal Reserve on tap to raise rates further, how high can they go?",
-            "url": "https://www.foxbusiness.com/markets/goldman-sachs-ceo-doesnt-see-1970-1980s-interest-rates",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/GettyImages-1245409720.jpg?ve=1&tl=1",
-            "publishedAt": "2023-10-29T17:52:03Z",
-            "content": "As the Federal Reserve prepares to make another decision on interest rates, market participants are in tune with the recent mandate telegraphed by policymakers to keep rates higher for longer. \r\nThe … [+3275 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Jamie Smyth",
-            "title": "'Jewel in the crown': Chevron follows Exxon to Guyana's oil riches - Financial Times",
-            "description": "US supermajors open a controversial fossil fuel frontier in one of Latin America’s poorest nations",
-            "url": "https://www.ft.com/content/46af09ca-90e2-4d96-b35d-4434ebd93750",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ff69d0575-4475-4e8a-a004-89174a1c66f9.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-10-29T17:00:24Z",
-            "content": "Chevrons deal to buy Hess last week for $53bn gives the US supermajor access to one of the hottest prospects in the global resources industry: Guyanas 11bn barrels of offshore oil.\r\nThere was little … [+8573 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Bailey Schulz",
-            "title": "S&P 500 and Nasdaq are in correction territory. What it means for you and your 401(k). - USA TODAY",
-            "description": "The S&P 500 and Nasdaq Composite were in correction territory after dipping more than 10% from recent peaks. Will the stock market recover?",
-            "url": "https://www.usatoday.com/story/money/2023/10/29/stock-market-correction-territory-meaning/71349135007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/27/USAT/71350613007-afp-afp-33-y-297-k.jpg?crop=7720,4345,x4,y244&width=3200&height=1802&format=pjpg&auto=webp",
-            "publishedAt": "2023-10-29T16:40:30Z",
-            "content": "If you're taking a fearful peek at your 401(k) following the stock market's recent plunge, you're not alone.\r\nThe S&amp;P 500 ended last week down more than 10% from its most recent high in July, whi… [+3254 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Joe Toppe",
-            "title": "Apple earnings, Fed decision and jobs data top Wall Street week ahead - Fox Business",
-            "description": "Investors are preparing for another busy week of earnings, including McDonald's and Apple, as well as ADP's private employer jobs report and the government's jobs data for October.",
-            "url": "https://www.foxbusiness.com/markets/apple-earnings-fed-decision-and-jobs-data-top-wall-street-week-ahead",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/NYSE-iStock.jpg?ve=1&tl=1",
-            "publishedAt": "2023-10-29T16:38:24Z",
-            "content": "Investors are gearing up for another busy week of earnings and economic data, including the jobs report for October. \r\nMeanwhile, on Wall Street, stocks ended mixed Friday leaving both the S&amp;P 50… [+7713 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Liza Lin, Raffaele Huang, Georgia Wells",
-            "title": "Rank and Yank Is Back: TikTok Wants More Workers Rated Near the Bottom - WSJ - The Wall Street Journal",
-            "description": "Staffers worry subpar performance grades could be used to reduce bonuses and pave the way for job cuts",
-            "url": "https://www.wsj.com/business/tiktok-asks-managers-to-give-more-staff-lower-review-grades-9a7daffc",
-            "urlToImage": "https://images.wsj.net/im-875881/social",
-            "publishedAt": "2023-10-29T16:36:00Z",
-            "content": "SINGAPORETikTok is asking managers across the world to give more employees lower ratings in performance reviews, a move that staff fear could reduce bonuses and lead to layoffs, people familiar with … [+506 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SFGate"
-            },
-            "author": "Katie Dowd",
-            "title": "Calif. couple sues after young son dies tragically at Mexico resort - SFGATE",
-            "description": "A California couple has filed a wrongful death lawsuit against Hyatt hotels after their young son tragically fell to his death from a resort in Puerto Vallarta.",
-            "url": "https://www.sfgate.com/bayarea/article/calif-couple-sues-son-dies-mexico-resort-18455225.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/35/03/05/24392017/3/rawImage.jpg",
-            "publishedAt": "2023-10-29T16:22:22Z",
-            "content": "The Hyatt Ziva in Puerto Vallarta, Mexico.\r\nGoogle Street View\r\nA San Diego couple has filed a wrongful death lawsuit against the Hyatt Hotels Corporation after their young son tragically fell to his… [+2455 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Foo Yun Chee",
-            "title": "Exclusive: G7 to agree AI code of conduct for companies - Reuters",
-            "description": "The Group of Seven industrial countries will on Monday agree a code of conduct for companies developing advanced artificial intelligence systems, a G7 document showed, as governments seek to mitigate the risks and potential misuse of the technology.",
-            "url": "https://www.reuters.com/technology/g7-agree-ai-code-conduct-companies-g7-document-2023-10-29/",
-            "urlToImage": "https://www.reuters.com/resizer/H8AIolIXmRwzuVSUdFWafiUx8Js=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JLXFND2FM5PBVOOJP33QH6DTZU.jpg",
-            "publishedAt": "2023-10-29T13:41:00Z",
-            "content": "BRUSSELS, Oct 29 (Reuters) - The Group of Seven industrial countries will on Monday agree a code of conduct for companies developing advanced artificial intelligence systems, a G7 document showed, as… [+2585 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TechSpot"
-            },
-            "author": "Rob Thubron",
-            "title": "Apple Watch faces US import ban as time runs out for Biden veto - TechSpot",
-            "description": "Apple has found itself in the current situation as a result of action by Masimo. The medical device company made a complaint to the USITC in 2021...",
-            "url": "https://www.techspot.com/news/100655-apple-watch-faces-us-import-ban-time-runs.html",
-            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2021/05/2021-05-27-image-12.jpg",
-            "publishedAt": "2023-10-29T13:33:00Z",
-            "content": "In brief: A potential ban on bringing Apple Watches into the US moved a step closer to reality this week when the US International Trade Commission (USITC) issued a limited exclusion order set to com… [+2666 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Motley Fool"
             },
             "author": "Justin Pope",
@@ -758,29 +784,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Christina Cheddar Berk",
-            "title": "Here are 5 anti-obesity drug stocks besides Novo Nordisk and Eli Lilly to watch into year-end - CNBC",
-            "description": "Companies — both big and small — are hoping to grab a piece of the lucrative anti-obesity drug market. Piper Sandler counts 78 agents in development.",
-            "url": "https://www.cnbc.com/2023/10/29/here-are-5-anti-obesity-drug-stocks-besides-novo-nordisk-and-eli-lilly-to-watch-into-year-end.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103714525-GettyImages-92150418.jpg?v=1698427741&w=1920&h=1080",
-            "publishedAt": "2023-10-29T10:52:33Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nouran Salahieh",
-            "title": "The FDA is warning parents to test their children after lead is found in WanaBana fruit puree pouches - CNN",
-            "description": "The US Food and Drug Administration is warning parents against buying a brand of fruit puree pouches for their children because they may have contain high levels of lead, the agency said.",
-            "url": "https://www.cnn.com/2023/10/29/us/fda-wanabana-fruit-recall-lead/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231028233251-wanabana-fruit-fda.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-10-29T09:19:00Z",
-            "content": "The US Food and Drug Administration is warning parents against buying a brand of fruit puree pouches for their children after the snacks were found to have high levels of lead, the agency said.\r\nLead… [+2504 chars]"
+            "author": "Ayelet Sheffey, Huileng Tan",
+            "title": "China's youth unemployment crisis is putting the US economy at risk - Business Insider",
+            "description": "China's youth are choosing to be \"full-time children\" instead of entering the workforce after college. It's bad for China's economy, and the world.",
+            "url": "https://www.businessinsider.com/china-xi-jinping-economy-youth-unemployment-crisis-impact-on-us-2023-10",
+            "urlToImage": "https://i.insider.com/6537e0db0487ff031caca665?width=1200&format=jpeg",
+            "publishedAt": "2023-10-29T11:04:00Z",
+            "content": "Young people in China are fed up with their employment prospects, so they're becoming \"full-time children,\" \"lying flat,\" andsprawling on the ground like a zombie.\r\nIt's a growing problem for China a… [+6432 chars]"
         },
         {
             "source": {
@@ -794,71 +807,6 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/newspress-collage-9797fssd9-1698554025016.jpg?quality=75&strip=all&1698539655&w=1024",
             "publishedAt": "2023-10-29T05:48:00Z",
             "content": "Imagine flying over the city in a pilotless, electric-powered aircraft that can take you from point A to point B in minutes without a pilot onboard. Sounds like science fiction, right? Well, not anym… [+5880 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Ruben Caginalp",
-            "title": "Housing market predictions for 2024 - Yahoo Finance",
-            "description": "What will the 2024 housing market bring? We asked the experts.",
-            "url": "https://finance.yahoo.com/news/housing-market-predictions-2024-041505011.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tBNCAUbqvgv5CeoTa3LjsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bankrate_626/2ae15f3525bfb8bca01d01403657cf0c",
-            "publishedAt": "2023-10-29T04:15:00Z",
-            "content": "Key takeaways\r\n<ul><li>Low levels of inventory mean that sellers continue to have the upper hand in the housing market.\r\n</li><li>High mortgage rates and steep home prices are dissuading would-be buy… [+8283 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cointelegraph"
-            },
-            "author": "Ana Paula Pereira",
-            "title": "Sam Bankman-Fried's perspective on FTX fall - Cointelegraph",
-            "description": "Sam Bankman-Fried took the stand this week to testify in his ongoing criminal trial in New York.",
-            "url": "https://cointelegraph.com/news/sam-bankman-fried-perspective-ftx-alameda-collapse",
-            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/ee0540e8-9a9f-4f72-baf5-1cef6f3cf584.jpg",
-            "publishedAt": "2023-10-28T17:56:23Z",
-            "content": "Sam SBF Bankman-Fried took the stand this week to testify in his ongoing criminal trial in the United States District Court for the Southern District of New York, denying any wrongdoing between FTX a… [+6690 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "The Associated Press",
-            "title": "For the second Halloween in a row, U.S. candy inflation hits double digits - CNBC",
-            "description": "Weather is the main culprit for the higher prices, while cocoa prices are trading at 44-year highs.",
-            "url": "https://www.cnbc.com/2023/10/28/for-the-second-halloween-in-a-row-us-candy-inflation-hits-double-digits.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107323679-1698331006327-gettyimages-1754629811-01-dsc_3320-_wgjvvw2n.jpeg?v=1698337398&w=1920&h=1080",
-            "publishedAt": "2023-10-28T17:53:39Z",
-            "content": "Spooked by the high price of Halloween candy? There's not much relief in sight.\r\nFor the second year in a row, U.S. shoppers are seeing double-digit inflation in the candy aisle. Candy and gum prices… [+2722 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Eric J. Savitz",
-            "title": "Microsoft, Meta, Alphabet, Amazon Earnings Were Strong. Why the Stock Market Slipped Into a Correction Anyway. - Barrons - Barron's",
-            "description": "For Microsoft, Meta, Alphabet, and Amazon, generative AI is a high-stakes, no-limit poker game that requires not just capital but also labor—mainly costly coders.",
-            "url": "https://www.barrons.com/articles/microsoft-facebook-google-amazon-tech-earnings-ai-cloud-d9fe12a1",
-            "urlToImage": "https://images.barrons.com/im-85676942/social",
-            "publishedAt": "2023-10-28T17:41:00Z",
-            "content": "Technology stocks slumped into correction territory this past week, after a wave of poorly received earnings reports from some of the worlds largest companies. On Wednesday and Thursday, the Nasdaq C… [+112 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Zoe Han",
-            "title": "Is America’s spending spree ‘sustainable’? - MarketWatch",
-            "description": "Real income growth, the key to healthy spending, fell again in September.",
-            "url": "https://www.marketwatch.com/story/is-americas-spending-spree-sustainable-consumers-are-leaning-on-their-savings-to-spend-and-some-economists-are-worried-8d3ca1d7",
-            "urlToImage": "https://images.mktw.net/im-877356/social",
-            "publishedAt": "2023-10-28T13:01:00Z",
-            "content": "Consumers continue to spend, but some economists are starting to question how long they can keep it up.Unsustainable was how some economists described the latest read on personal consumption expendit… [+3381 chars]"
         }
     ]
 }

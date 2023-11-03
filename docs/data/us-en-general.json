@@ -1,71 +1,331 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BuzzFeed News"
+            },
+            "author": "Leyla Mohammed",
+            "title": "Kim Revealed That North Always Tells Her Kanye Is “The Best” Parent Because He Doesn't Need A Nanny Or Chef - BuzzFeed News",
+            "description": "“She’ll be like, ‘Dad’s the best! He has it all figured out. He doesn’t have a nanny, he doesn’t have a chef, he doesn’t have security,” Kim said of North.",
+            "url": "https://www.buzzfeednews.com/article/leylamohammed/kim-kardashian-daughter-north-kanye-west-the-best",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-11/1/14/enhanced/54ac4676b375/original-5887-1698849647-2.jpg?crop=1581:830;0,0%26downsize=1250:*",
+            "publishedAt": "2023-11-02T05:16:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JON GAMBRELL Associated Press",
+            "title": "Yemen's Houthi rebels claim attacks on Israel, drawing their main sponsor Iran closer to Hamas war - ABC News",
+            "description": "Yemen’s Houthi rebels have for the first time claimed missile and drone attacks targeting Israel",
+            "url": "https://abcnews.go.com/International/wireStory/yemens-houthi-rebels-claim-attacks-israel-drawing-main-104514030",
+            "urlToImage": "https://i.abcnewsfe.com/a/da734020-dce7-42a1-9578-f4f6fb0d3149/wirestory_34eab8bc1d3cf3606d874166fef2f018_16x9.jpg?w=992",
+            "publishedAt": "2023-11-02T04:54:40Z",
+            "content": "DUBAI, United Arab Emirates -- Yemen's Houthi rebels for the first time Tuesday claimed missile and drone attacks targeting Israel, drawing their main sponsor Iran closer into the ongoing Israel-Hama… [+6209 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>, Christian Edwards, Ed Upright, <a href=\"/profiles/adrienne-vogt\">Adrienne Vogt</a>, <a href=\"/profiles/dakin-andone\">Dakin Andone</a>, <a href=\"/profiles/elise-hammond\">Elise Hammond</a>, <a href=\"/profiles/maureen-chowdhury\">Maureen Chowdhury</a> and <a href=\"/profiles/tori-powell\">Tori B. Powell</a>, CNN",
+            "title": "November 1, 2023 Israel-Hamas war news - CNN",
+            "description": "Crowds gathered at the Rafah crossing between Gaza and Egypt on Wednesday, as multiple sources told CNN that up to 500 foreign nationals could be allowed to flee the besieged enclave. Follow for live updates.",
+            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-01-23/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/231031132310-01-jabalia-refugee-camp-blast-103123-super-tease.jpg",
+            "publishedAt": "2023-11-02T04:24:21Z",
+            "content": "An American pediatrician, who became stranded in Gaza at the beginning of the war while on a relief mission to treat children, was finally able to leave the territory Wednesday, her husband told CNN.… [+928 chars]"
+        },
         {
             "source": {
                 "id": "espn",
                 "name": "ESPN"
             },
+            "author": "Alden Gonzalez",
+            "title": "Rangers take out D-backs for franchise's 1st World Series title - ESPN - ESPN",
+            "description": "Two seasons after losing 102 games, the Rangers completed a remarkable turnaround Wednesday night by finishing off the Diamondbacks in five games to clinch their first World Series title.",
+            "url": "https://www.espn.com/mlb/story/_/id/38797834/rangers-take-d-backs-franchise-1st-world-series-title",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1102%2Fr1247264_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-11-02T04:01:00Z",
+            "content": "PHOENIX -- The Texas Rangers spent seven months of this season terrorizing opponents with a menacing offense that feasted on home runs and hardly ever let up. The first night of November showcased th… [+4730 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jessica Moore",
+            "title": "Cornell students shocked by arrest of fellow student Patrick Dai for antisemitic threats - CBS New York",
+            "description": "An engineering student is facing federal charges, accused of promoting the murder of Jewish students.",
+            "url": "https://www.cbsnews.com/newyork/news/cornell-students-shocked-by-arrest-of-fellow-student-patrick-dai-for-antisemitic-threats/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/01/f34285c2-5666-499c-bb00-88a7228ba152/thumbnail/1200x630/f3b1f7392ea2a38c31cce47e02b3b8f9/screengrab-00002.jpg?v=4d0a8a0e724da64f433bf70cf12725a2",
+            "publishedAt": "2023-11-02T03:46:00Z",
+            "content": "NEW YORK -- A Cornell University engineering student faced a federal judge Wednesday afternoon accused of promoting the murder of Jewish students on campus. \r\nFrom a student at the prestigious Cornel… [+3993 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katelyn  Polantz",
+            "title": "Judge signals she may postpone Trump’s trial in Mar-a-Lago classified documents case - CNN",
+            "description": "The federal judge overseeing Donald Trump’s Mar-a-Lago document-mishandling case cast doubt on the viability of having a trial in May 2024, signaling she may postpone the criminal proceedings.",
+            "url": "https://www.cnn.com/2023/11/01/politics/florida-hearing-trump-mar-a-lago-documents-trial/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230615161305-17-week-in-photos-061523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-11-02T03:01:00Z",
+            "content": "The federal judge overseeing Donald Trumps Mar-a-Lago document-mishandling case cast doubt on the viability having a trial in May 2024, signaling she may postpone the criminal proceedings.\r\nDuring a … [+3496 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
             "author": null,
-            "title": "Legendary basketball coach Bob Knight dies at 83 - ESPN - ESPN",
-            "description": "Bob Knight, whose Hall of Fame career was highlighted by three national titles at Indiana, has died at 83.",
-            "url": "https://www.espn.com/mens-college-basketball/story/_/id/38796141/legendary-basketball-coach-bob-knight-dies-83",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0208%2Fr663324_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-11-01T23:44:00Z",
-            "content": "Bob Knight, whose Hall of Fame career was highlighted by three national titles at Indiana -- one capping an undefeated season not since matched -- and countless on-court outbursts, has died. He was 8… [+10387 chars]"
+            "title": "GOP senators push back but can't get past Tuberville on military blockade - POLITICO",
+            "description": "Republican senators pushed to confirm more than 60 military nominees, but Tuberville blocked them all.",
+            "url": "https://www.politico.com/news/2023/11/01/gop-senator-to-confront-tuberville-on-military-blockade-00124877",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/a76e3a66-4b10-4b84-a0f8-ecf13ead1d3b/0fb5233d-1014-450c-981e-4fb3fdc2fa36/1280x720/match/image.jpg",
+            "publishedAt": "2023-11-02T02:55:59Z",
+            "content": "Sullivan, joined by Republican Sens. Joni Ernst of Iowa, Lindsey Graham of South Carolina, Todd Young of Indiana and Mitt Romney of Utah, requested votes on each senior officer by unanimous consent, … [+4763 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
-            },
-            "author": "Adriana Diaz",
-            "title": "Are cellphones leading to male infertility? New study makes shocking call - New York Post ",
-            "description": "Research has repeatedly shown that semen quality has decreased over the last 50 years — yet the role of mobile phones has yet to be determined.",
-            "url": "https://nypost.com/2023/11/01/lifestyle/are-cellphones-leading-to-male-infertility-new-study-makes-shocking-call/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/phone-usage-infertility.gif?w=1024",
-            "publishedAt": "2023-11-01T23:18:00Z",
-            "content": "It’s an iPhone Pro-phylactic.\r\nThe more men use their cell phones, the lower their concetration of sperm, according to an alarming new study.\r\nBut hold the phone, fellas, because hope is on the line … [+3258 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Raiders.com"
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "Antonio Pierce looking to bring 'an edge and a swag' to the Raiders as interim head coach - Raiders.com",
-            "description": "The former NFL linebacker addressed the media for the first time since being appointed interim head coach.",
-            "url": "https://www.raiders.com/news/antonio-pierce-looking-to-bring-edge-and-swag-to-the-raiders-interim-head-coach",
-            "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/raiders/sacta92i7rko8ank2zbw",
-            "publishedAt": "2023-11-01T23:17:37Z",
-            "content": "\"It's a new day, it's a new chapter, it's a new era, it's a new mindset,\" he said. \"What is that mindset? It's that of the Raider pride, the commitment to excellence, and making sure our alumni, our … [+1134 chars]"
+            "title": "Earth's Hidden Guests: Strange Blobs in Deep Mantle Are the Remains of an Ancient Planet - SciTechDaily",
+            "description": "A Caltech-led study suggests that two massive, iron-rich structures deep within Earth's mantle are the remains of Theia, an ancient planet that collided with Earth, also creating the Moon. This discovery answers long-standing questions about the Moon's origin…",
+            "url": "https://scitechdaily.com/earths-hidden-guests-strange-blobs-in-deep-mantle-are-the-remains-of-an-ancient-planet/",
+            "urlToImage": "https://scitechdaily.com/images/LLVP-Deep-Earth-Mantle-Relics-Theian-Materials-scaled.jpg",
+            "publishedAt": "2023-11-02T02:51:12Z",
+            "content": "The large low velocity provinces (LLVPs) in the deep Earth mantle may be relics of Theian mantle materials. Credit:  Hongping Deng and Hangzhou Sphere Studio\r\nA Caltech-led study suggests that two ma… [+6891 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "OregonLive"
+                "name": "MacRumors"
             },
-            "author": "The Associated Press",
-            "title": "Jury deals blow to Realtors, finding industry practices inflate agent commissions - OregonLive",
-            "description": "Challenges are mounting over longstanding rules setting agent commissions on home sales.",
-            "url": "https://www.oregonlive.com/realestate/2023/11/jury-deals-blow-to-realtors-finding-industry-practices-inflate-agent-commissions.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/QkkaA0T80pyrOgERbOE5wIzqj3g=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EMIEAWSDRNBW7ACGE4NA6OEDP4.jpg",
-            "publishedAt": "2023-11-01T22:53:00Z",
-            "content": "A series of court challenges seek to upend longstanding real estate industry practices that determine the commissions agents receive on the sale of a home and who foots the bill.\r\nA federal jury in o… [+6494 chars]"
+            "author": "Joe Rossignol",
+            "title": "M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results - MacRumors",
+            "description": "The first benchmark results for Apple's M3 Max chip surfaced in the Geekbench 6 database today, providing a look at CPU performance. Based on the...",
+            "url": "https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/",
+            "urlToImage": "https://images.macrumors.com/t/L-YRvWaN0zeMj7SCf_2i8d58YH4=/1600x/article-new/2023/11/M3-Max-Chip.jpg",
+            "publishedAt": "2023-11-02T02:27:38Z",
+            "content": "The first benchmark results for Apple's M3 Max chip surfaced in the Geekbench 6 database today, providing a look at CPU performance. Based on the \"Mac15,9\" model identifier shown, the results appear … [+2037 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": "Miriam Berger, Hajar Harb, Meg Kelly",
-            "title": "Israeli strikes on Gaza refugee camp offer glimpse of war's destruction - The Washington Post",
-            "description": "The strikes on Jabalya show the toll of Israel’s relentless air war and the grave dangers facing civilians as ground forces move deeper into the enclave.",
-            "url": "https://www.washingtonpost.com/world/2023/11/01/israel-gaza-refugee-camp-strike-death-destruction/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-31-2023/t_f394d6d2731047dab5995ccfc1d34c5d_name_TB_1.jpg&w=1440",
-            "publishedAt": "2023-11-01T22:24:42Z",
-            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nJERUSALEM Kamal Masoud was at home with his wife and five children on Tuesday afternoon in the Jabalya refugee camp. They were talking… [+7978 chars]"
+            "author": "Richard Henderson",
+            "title": "Stock Market Today: Dow, S&P Live Updates for November 2 - Bloomberg",
+            "description": "Shares in Asia jumped tracking gains in US stocks and bonds after the Federal Reserve signaled its policy tightening cycle may be over.",
+            "url": "https://www.bloomberg.com/news/articles/2023-11-01/stock-market-today-dow-s-p-live-updates",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHNHgkAhJ.rU/v0/1200x800.jpg",
+            "publishedAt": "2023-11-02T02:14:27Z",
+            "content": "Shares in Asia jumped tracking gains in US stocks and bonds after the Federal Reserve signaled its policy tightening cycle may be over.\r\nBenchmarks in Australia, Japan and South Korea rose, while Chi… [+241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Amid Calls For Ceasefire, Biden Says \"Need A Pause\" In Israel-Hamas War - NDTV",
+            "description": "President Joe Biden on Wednesday called for a \"pause\" in the conflict between Israel and Palestinian militants Hamas in the Gaza Strip after a heckler pushing for a ceasefire confronted him at a campaign fundraiser.",
+            "url": "https://www.ndtv.com/world-news/amid-calls-for-ceasefire-biden-says-need-a-pause-in-israel-hamas-war-4537104",
+            "urlToImage": "https://c.ndtvimg.com/2023-10/b56a66uo_joe-biden-afp-650_650x400_20_October_23.jpg",
+            "publishedAt": "2023-11-02T02:05:29Z",
+            "content": "The White House has previously said it supports a \"humanitarian pause\"\r\nMinneapolis: President Joe Biden on Wednesday called for a \"pause\" in the conflict between Israel and Palestinian militants Ham… [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Michaela Zee",
+            "title": "Nicolas Cage Calls AI ‘Inhumane’ and a ‘Nightmare,’ Says CGI Changed His Superman ‘Flash’ Cameo: Spider Fight ‘Was Not What I Did’ on Set - Variety",
+            "description": "Nicolas Cage has shared his thoughts on the use of AI in films, as well as his feelings about his cameo as Superman in Warner Bros.' 'The Flash.'",
+            "url": "https://variety.com/2023/film/news/nicolas-cage-ai-inhumane-cgi-changed-superman-flash-cameo-1235776876/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/11/GettyImages-1392246368.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-11-02T01:57:00Z",
+            "content": "Nicolas Cage has shared his thoughts on the use of AI in films, as well as his feelings about the final cut of his cameo as Superman in Warner Bros.’ “The Flash.”\r\nIn a recent interview with Yahoo! E… [+2351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Therese Poletti",
+            "title": "This Nvidia partner has seen its stock surge 200% this year. But investors may be overlooking a risk. - MarketWatch",
+            "description": "Supermicro raised its annual forecast basd on growth in AI servers, but as more of its revenue comes from AI, the bigger the potential risk of a slowdown.",
+            "url": "https://www.marketwatch.com/story/this-nvidia-partner-has-seen-its-stock-surge-200-this-year-but-investors-may-be-overlooking-a-risk-75f0d9b0",
+            "urlToImage": "https://images.mktw.net/im-803751/social",
+            "publishedAt": "2023-11-02T01:36:00Z",
+            "content": "Super Micro Computer Inc., a longtime Nvidia Corp. partner and server maker, is now seeing over half of its revenue coming from AI-related server sales, and thats a potential risk investors should co… [+3363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Bruce Haring",
+            "title": "Britney Spears’ Memoir ‘The Woman In Me’ Is Off To Strong Start, Selling 1.1M Copies In US - Deadline",
+            "description": "Britney Spears’ memoir The Woman in Me is big. But it’s not the biggest. First week sales reports indicate the memoir has sold 1.1 million copies in the U.S. alone through its first wee…",
+            "url": "https://deadline.com/2023/11/britney-spears-memoir-off-to-strong-sales-start-1235590373/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/10/GettyImages-457100765.jpg?w=1024",
+            "publishedAt": "2023-11-02T01:36:00Z",
+            "content": "Britney Spears‘ memoir The Woman in Me is big. But it’s not the biggest. \r\nFirst week sales reports indicate the memoir has sold 1.1 million copies in the U.S. alone through its first week. The sales… [+1786 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Philip Pullella",
+            "title": "Pope says he will attend COP28 climate summit in Dubai, a first by a pontiff - Reuters",
+            "description": "Pope Francis said on Wednesday that he will attend the COP28 climate conference starting next month in Dubai, the first time a pontiff will be at the U.N. environmental meeting since they began in 1995.",
+            "url": "https://www.reuters.com/business/environment/pope-says-will-attend-cop28-climate-summit-dubai-first-by-pontiff-2023-11-01/",
+            "urlToImage": "https://www.reuters.com/resizer/JQRWU15c0JJceGDakGNNpVEM8Lw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EX63RI5UUFM5POGLSWQTYWG3ZM.jpg",
+            "publishedAt": "2023-11-02T01:14:00Z",
+            "content": "ROME, Nov 1 (Reuters) - Pope Francis said on Wednesday that he will attend the COP28 climate conference starting next month in Dubai, the first time a pontiff will be at the U.N. environmental meetin… [+2012 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "The Hill",
+            "title": "Democrats scrap plans to vote on Greene censure resolution - The Hill",
+            "description": null,
+            "url": "https://thehill.com/homenews/house/4288627-democrats-scrap-plans-to-vote-on-greene-censure-resolution/",
+            "urlToImage": null,
+            "publishedAt": "2023-11-02T01:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Israel Gaza: Children must be off limits, says father of abducted kids - BBC.com",
+            "description": "\"How can you hate a child?\" asks Yoni Asher, whose two-year-old and four-year-old were taken by Hamas.",
+            "url": "https://www.bbc.com/news/world-middle-east-67292422",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14C39/production/_131594058_pic-3.jpg",
+            "publishedAt": "2023-11-02T00:30:42Z",
+            "content": "In the garden of his home in central Israel, amid the palm trees dappled in the morning sun, Yoni Asher shows me a video on his phone.\r\nIt's of his two small girls, sitting on a bed. They're singing … [+4273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Did Sixers' owner force Daryl Morey to accept James Harden trade? - CBS Sports",
+            "description": "Reports indicate that Josh Harris and Steve Ballmer \"ironed out\" the final details of the Harden trade",
+            "url": "https://www.cbssports.com/nba/news/did-sixers-owner-force-daryl-morey-to-accept-james-harden-trade/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/02/17/be7c9cab-afdb-48c7-8a80-a5cbe6e7598b/thumbnail/1200x675/b321ee699ed16804d2a6221b0d063ee2/morey.jpg",
+            "publishedAt": "2023-11-02T00:25:37Z",
+            "content": "The James Harden saga finally came to an end earlier this week, when the Philadelphia 76ers traded him to the Los Angeles Clippers in a late-night blockbuster. As with any big move, there has been so… [+3419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Chuckles, smiles and mispronunciation - Inside Donald Trump Jr's courtroom debut - BBC.com",
+            "description": "The eldest son of the former president appeared confident on the stand as he testified on Wednesday.",
+            "url": "https://www.bbc.com/news/world-us-canada-67293355",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/385D/production/_131592441_9991ce7e336f6328d09ff451fb02b47810a2e64d0_408_5500_30941000x563.jpg",
+            "publishedAt": "2023-11-02T00:23:20Z",
+            "content": "Media caption, Donald Trump Jr: 'I should have worn make-up'\r\n\"I should have worn make-up,\" Donald Trump Jr quipped on Wednesday as a group of photographers rushed into court to take his picture.\r\nAs… [+3289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OPB News"
+            },
+            "author": "Natalie  Pate | Tiffany Camhi",
+            "title": "On the inaugural day of strike, Portland teachers, families and students rally on the picket line - Oregon Public Broadcasting",
+            "description": "The Portland Association of Teachers formally began their strike Wednesday morning. Signs carried messages such as: “Our children can’t wait!” “On strike for safe schools,” and “Class size matters.”",
+            "url": "https://www.opb.org/article/2023/11/01/first-day-teachers-strike-portland-public-schools/",
+            "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/SoyveAm6HMi6to7Gobc4GoFQCo0=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/7AM744FKVVHTZGSI3FH5LXOYG4.jpg",
+            "publishedAt": "2023-11-01T23:07:48Z",
+            "content": "Calvin Lafortune, right, a student at Abernethy Elementary School, made a sign and joined the picket line on the first day of the Portland Public Schools, or PPS, strike in Portland, Ore., Nov. 1, 20… [+10292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Eric J. Savitz",
+            "title": "Disney Buys Comcast's Hulu Stake. For How Much Is Still TBD. - Barrons - Barron's",
+            "description": "Walt Disney on Wednesday said that Comcast has exercised its right to sell its one-third stake in streaming service Hulu to Disney. Disney said it expects to pay Comcast $8.61 billion, but that’s not the end of the story.",
+            "url": "https://www.barrons.com/articles/disney-buy-comcast-hulu-stake-26a2e6f3",
+            "urlToImage": "https://images.barrons.com/im-15510819/social",
+            "publishedAt": "2023-11-01T23:06:00Z",
+            "content": "Updated Nov 01, 2023, 7:06 pm EDT / Original Nov 01, 2023, 5:56 pm EDT"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurism"
+            },
+            "author": "Victor Tangermann",
+            "title": "NASA Shows Off Image That Looks an Awful Lot Like Skeleton Fingers Floating in Space - Futurism",
+            "description": "Astronomers have spotted a ghostly skeleton hand floating in outer space some 16,000 light-years from Earth.",
+            "url": "https://futurism.com/the-byte/nasa-image-skeleton-hand-x-ray",
+            "urlToImage": "https://wp-assets.futurism.com/2023/10/nasa-image-skeleton-hand-x-ray.jpg",
+            "publishedAt": "2023-11-01T23:03:31Z",
+            "content": "Happy Halloween!\r\nGhost in the Hand\r\nAstronomers have spotted what looks just like a ghostly skeleton hand floating in outer space some 16,000 light-years from Earth.\r\nA spooky image taken by NASA's … [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Julie Coleman",
+            "title": "Jim Cramer says a big cloud over the bond market has been lifted - CNBC",
+            "description": "CNBC's Jim Cramer on Wednesday praised the Treasury Department's quarterly refunding plan.",
+            "url": "https://www.cnbc.com/2023/11/01/jim-cramer-says-a-big-cloud-over-the-bond-market-has-been-lifted.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104524980-20170612-1091-2390.jpg?v=1497300345&w=1920&h=1080",
+            "publishedAt": "2023-11-01T22:23:52Z",
+            "content": "CNBC's Jim Cramer on Wednesday praised the Treasury Department's quarterly refunding plan, saying its method of managing the U.S.' growing debt load is just what the unsettled bond market needed.\r\nTh… [+1192 chars]"
         },
         {
             "source": {
@@ -83,80 +343,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "KTVU San Francisco"
             },
-            "author": "Yahoo Sports Fantasy Staff",
-            "title": "Fantasy Football Week 9 WR Rankings - Yahoo Sports",
-            "description": "Check out our fantasy football wide receiver rankings for Week 9 of the 2023 NFL season!",
-            "url": "https://sports.yahoo.com/fantasy-football-wr-rankings-week-9-203708035.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ovkg.GIP3mnlrOOwAuV0Dw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/e230cd40-782b-11ee-b8f7-d562276c1cbb",
-            "publishedAt": "2023-11-01T22:01:14Z",
-            "content": "A.J. Brown has been an unstoppable force of late. (Photo by Lee Coleman/Icon Sportswire via Getty Images)\r\nHow long will A.J. Brown keep this heater going? He's now gone six straight games with 125+ … [+567 chars]"
+            "author": "Bailey O'Carroll",
+            "title": "Masks required in certain settings again throughout California - KTVU FOX 2 San Francisco",
+            "description": "Beginning on Wednesday, lots of people heading into doctor's offices or hospitals across the Bay Area will be required to mask up.",
+            "url": "https://www.ktvu.com/news/masks-required-in-certain-settings-again-in-california",
+            "urlToImage": "https://images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/B93/93B/1280/720/B9393B37DB249A265746F748CECFCABC.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=doo9VgUq3koDdMAfb9Z3XtpVxvM&ve=1&tl=1",
+            "publishedAt": "2023-11-01T22:00:44Z",
+            "content": "NOVATO, Calif. - Beginning on Wednesday, lots of people heading into doctor's offices or hospitals across the Bay Area will be required to mask up.\r\nIn some parts of California, masks will be require… [+1554 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The Times of Israel"
+                "id": "the-hill",
+                "name": "The Hill"
             },
-            "author": null,
-            "title": "IDF: Troops breach Hamas defenses, approach Gaza City; anti-tank missile chief slain - The Times of Israel",
-            "description": "Commanders lament death of 16 soldiers as 'heavy price,' but vow to fight the war 'until the end'; foreign passport holders in Gaza start leaving to Egypt, along with some injured",
-            "url": "https://www.timesofisrael.com/idf-troops-breach-hamas-defenses-approach-gaza-city-anti-tank-missile-chief-slain/",
-            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/11/WhatsApp_Image_2023-10-31_at_14.50.42-1-e1698872029809-1024x640.jpeg",
-            "publishedAt": "2023-11-01T21:49:11Z",
-            "content": "Military officials declared Wednesday that Israeli forces had breached Hamas’s first line of defense and were approaching Gaza City, saying the deaths of 16 soldiers this week in and near Gaza were a… [+7555 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Philip Pullella",
-            "title": "Pope says he will attend COP28 climate summit in Dubai, a first by a pontiff - Reuters",
-            "description": "Pope Francis said on Wednesday that he will attend the COP28 climate conference starting next month in Dubai, the first time a pontiff will be at the U.N. environmental meeting since they began in 1995.",
-            "url": "https://www.reuters.com/business/environment/pope-says-will-attend-cop28-climate-summit-dubai-first-by-pontiff-2023-11-01/",
-            "urlToImage": "https://www.reuters.com/resizer/JQRWU15c0JJceGDakGNNpVEM8Lw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EX63RI5UUFM5POGLSWQTYWG3ZM.jpg",
-            "publishedAt": "2023-11-01T21:22:00Z",
-            "content": "ROME, Nov 1 (Reuters) - Pope Francis said on Wednesday that he will attend the COP28 climate conference starting next month in Dubai, the first time a pontiff will be at the U.N. environmental meetin… [+1744 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Dan Stillman",
-            "title": "Hurricane Otis produced 205 mph gust, among strongest ever measured - The Washington Post",
-            "description": "The ferocious wind is preliminary but would rank among the highest on record if confirmed.",
-            "url": "https://www.washingtonpost.com/weather/2023/11/01/hurricane-otis-produced-205-mph-wind-gust-among-strongest-ever-measured/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2NI37KTNKXY5YS7KI2J5FQTV4_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-11-01T21:18:00Z",
-            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nA weather station near Acapulco measured a 205 mph wind gust, one of the highest ever observed in the world, as Category 5 Otis made l… [+3558 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Winston Cho",
-            "title": "HBO Doesn't Dispute Using Fake Twitter Accounts to Undermine TV Critics - Hollywood Reporter",
-            "description": "A dispute with a former HBO executive assistant has unearthed allegations in Rolling Stone that Casey Bloys directed employees to troll critics posting about network programming on social media from fake accounts.",
-            "url": "https://www.hollywoodreporter.com/business/digital/hbo-fake-twitter-accounts-tv-critics-1235634620/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/11/GettyImages-1704683360-H-2023.jpg?w=1024",
-            "publishedAt": "2023-11-01T21:15:36Z",
-            "content": "HBO has responded to allegations arising from a wrongful termination dispute with an ex-employee that accuse Casey Bloys, the network’s then-president of original programming, of commanding a “secret… [+5714 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Louise Lerner",
-            "title": "Chemists make breakthrough in drug discovery chemistry: Two methods to replace carbon with a nitrogen atom in a molecule - Phys.org",
-            "description": "For years, if you asked the people working to create new pharmaceutical drugs what they wished for, at the top of their lists would be a way to easily replace a carbon atom with a nitrogen atom in a molecule.",
-            "url": "https://phys.org/news/2023-11-chemists-breakthrough-drug-discovery-chemistry.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/chemists-make-breakthr.jpg",
-            "publishedAt": "2023-11-01T21:06:30Z",
-            "content": "For years, if you asked the people working to create new pharmaceutical drugs what they wished for, at the top of their lists would be a way to easily replace a carbon atom with a nitrogen atom in a … [+4537 chars]"
+            "author": "Nathaniel Weixel",
+            "title": "Millions more adults should be screened for lung cancer under new American Cancer Society guidelines - The Hill",
+            "description": "Nearly 5 million additional Americans should be screened for lung cancer, according to an updated guideline released Wednesday by the American Cancer Society (ACS).  The update marks the first change to screening recommendations in a decade. The group now rec…",
+            "url": "https://thehill.com/policy/healthcare/4288001-new-acs-guidelines-millions-more-should-be-screened-for-lung-cancer/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2019/11/ca_cigarette_111919_istock.jpg?w=1280",
+            "publishedAt": "2023-11-01T20:19:00Z",
+            "content": "Skip to content\r\nNearly 5 million additional Americans should be screened for lung cancer, according to an updated guideline released Wednesday by the American Cancer Society (ACS). \r\nThe update mark… [+2407 chars]"
         },
         {
             "source": {
@@ -164,129 +372,25 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "New lung cancer screening guidelines make millions more eligible for testing - NBC News",
-            "description": "The American Cancer Society is out with new screening guidelines for lung cancer, expanding its regular testing recommendations to nearly five million people...",
-            "url": "https://www.youtube.com/watch?v=5zm-KEzLGco",
-            "urlToImage": "https://i.ytimg.com/vi/5zm-KEzLGco/maxresdefault.jpg",
-            "publishedAt": "2023-11-01T21:00:25Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "By <a href=\"/profiles/dan-berman\">Dan Berman</a> and <a href=\"/profiles/shania-shelton\">Shania Shelton</a>, CNN",
-            "title": "Trump civil fraud trial continues in New York: Live updates - CNN",
-            "description": "Donald Trump Jr., the son of former President Donald Trump, is testifying Wednesday in the New York civil fraud trial against him. Follow here for live updates on the trial.",
-            "url": "https://www.cnn.com/politics/live-news/trump-civil-fraud-trial-11-01-23/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/231101151211-dle-donald-trump-jr-110123-super-tease.jpg",
-            "publishedAt": "2023-11-01T20:39:49Z",
-            "content": "Judge Arthur Engoron wanted to hear directly from Donald Trump.\r\nLast Wednesday, after Trump had apparently spoken about Engorons law clerk in violation of the judges gag order the judge briefly paus… [+2648 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Mike Calia",
-            "title": "Disney to buy remaining Hulu stake from Comcast in widely expected move - CNBC",
-            "description": "Disney will now own all of Hulu after agreeing to buy the remaining one-third stake from Comcast's NBCUniversal.",
-            "url": "https://www.cnbc.com/2023/11/01/disney-to-buy-remaining-hulu-stake-from-comcast-in-widely-expected-move.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106938185-1631041700661-gettyimages-1235079905-RAFAPRESS_05092021-0844.jpeg?v=1697739790&w=1920&h=1080",
-            "publishedAt": "2023-11-01T20:32:44Z",
-            "content": "Disney said Wednesday that it had agreed to buy Comcast's one-third stake in streaming service Hulu, a long-expected outcome.\r\nDisney said it expects to pay Comcast's NBCUniversal about $8.61 billion… [+977 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "USA TODAY",
-            "title": "Israel, Hamas war live updates: Americans, others allowed to exit Gaza - USA TODAY",
-            "description": null,
-            "url": "https://www.usatoday.com/story/news/world/israel-hamas/2023/11/01/israel-hamas-gaza-war-live-updates/71405089007/",
-            "urlToImage": null,
-            "publishedAt": "2023-11-01T20:14:28Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Netanyahu may not last, Biden and aides increasingly believe - POLITICO",
-            "description": "The Israeli prime minister’s political obituary has been written before. But U.S. officials are already gauging potential successors.",
-            "url": "https://www.politico.com/news/2023/11/01/biden-administration-thinks-netanyahu-may-not-last-politically-00124849",
-            "urlToImage": "https://static.politico.com/67/73/3bdb7709469b87a8fc30af77c8d7/https-delivery-gettyimages.com/downloads/1677555006",
-            "publishedAt": "2023-11-01T20:09:20Z",
-            "content": "A current U.S. official and a former U.S. official both confirmed that the administration believes Netanyahu has limited time left in office. The current official said the expectation internally was … [+6757 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "CLAIRE RUSH /REPORT FOR AMERICA Associated Press",
-            "title": "Teachers kick off strike in Portland, Oregon, over class sizes, pay and resources - ABC News",
-            "description": "Teachers in Portland, Oregon, went on strike Wednesday, shuttering school for some 45,000 students in Oregon's biggest city",
-            "url": "https://abcnews.go.com/US/wireStory/teachers-kick-off-strike-portland-oregon-class-sizes-104543036",
-            "urlToImage": "https://i.abcnewsfe.com/a/e99af7ce-0c04-4527-89e9-f7e3ab8572ab/wirestory_7c437cefd322b19c1d915a1a32431781_16x9.jpg?w=992",
-            "publishedAt": "2023-11-01T19:52:30Z",
-            "content": "PORTLAND, Ore. -- Teachers in Portland, Oregon, walked off the job on Wednesday for the first day of a strike that shuttered schools for some 45,000 students in Oregon's largest city.\r\nConcerns over … [+5762 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Howard Schneider",
-            "title": "Fed leaves rates unchanged, acknowledges US economy is 'strong' - Reuters",
-            "description": "The Federal Reserve held interest rates steady on Wednesday but left the door open to a further increase in borrowing costs in a policy statement that acknowledged the U.S. economy's surprising strength but also nodded to the tighter financial conditions face…",
-            "url": "https://www.reuters.com/markets/us/fed-poised-hold-rates-steady-despite-economys-bullish-tone-2023-11-01/",
-            "urlToImage": "https://www.reuters.com/resizer/_yCD08jeMAhE61WihwqtfVDUoK0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JU3FLGQVBJPS5JAOMAUS67WNGA.jpg",
-            "publishedAt": "2023-11-01T19:36:00Z",
-            "content": "WASHINGTON, Nov 1 (Reuters) - The Federal Reserve held interest rates steady on Wednesday but left the door open to a further increase in borrowing costs in a policy statement that acknowledged the U… [+4342 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PBS"
-            },
-            "author": null,
-            "title": "House considers censures against Rashida Tlaib and Marjorie Taylor Greene over inflammatory rhetoric - PBS NewsHour",
-            "description": "The House is expected to consider resolutions that would punish two of its most polarizing members in a partisan tit-for-tat over inflammatory rhetoric.",
-            "url": "https://www.pbs.org/newshour/politics/house-considers-censures-against-rashida-tlaib-and-marjorie-taylor-greene-over-inflammatory-rhetoric",
-            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/11/tlaib-mtg-1024x599.png",
-            "publishedAt": "2023-11-01T19:31:30Z",
-            "content": "WASHINGTON (AP) The House is expected on Wednesday to consider resolutions that would punish two of its most polarizing members, Democratic Rep. Rashida Tlaib of Michigan and Republican Rep. Marjorie… [+4476 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "House to vote on proposal to expel Rep. George Santos - MSNBC",
-            "description": "The House of Representatives is expected to hold a vote on a proposal to expel Rep. George Santos, R-N.Y., brought forward by his fellow New York Republicans...",
-            "url": "https://www.youtube.com/watch?v=1q8v0BhmWyY",
-            "urlToImage": "https://i.ytimg.com/vi/1q8v0BhmWyY/maxresdefault.jpg",
-            "publishedAt": "2023-11-01T19:00:01Z",
+            "title": "Kentucky ACLU appealing the U.S. Supreme Court to block ban on transgender youth care - WHAS11",
+            "description": "Their case is on behalf if seven transgender young people and their families, and was linked with a similar case in Tennessee. ------------------------------...",
+            "url": "https://www.youtube.com/watch?v=L52TwiAgJCA",
+            "urlToImage": "https://i.ytimg.com/vi/L52TwiAgJCA/hqdefault.jpg",
+            "publishedAt": "2023-11-01T20:16:28Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Spaceflight Now"
             },
             "author": null,
-            "title": "Bolivia has cut diplomatic relations with Israel due to 'disproportionate' attacks on Gaza strip - Al Jazeera English",
-            "description": "Bolivia’s government says it's breaking diplomatic ties with Israel, accusing it of committing crimes against humanity in Gaza. Bolivia cut ties with Israel ...",
-            "url": "https://www.youtube.com/watch?v=qYpBJGm563Y",
-            "urlToImage": "https://i.ytimg.com/vi/qYpBJGm563Y/maxresdefault.jpg",
-            "publishedAt": "2023-11-01T18:41:34Z",
-            "content": null
+            "title": "Mixed results for spacewalkers after time lost dealing with difficult-to-loosen bolts – Spaceflight Now - Spaceflight Now",
+            "description": "Astronauts Jasmin Moghbeli and Loral O'Hara worked outside the International Space Station Wednesday to replace a bearing assembly in one of the lab's solar array rotation mechanisms. But the task too",
+            "url": "https://spaceflightnow.com/2023/11/01/mixed-results-for-spacewalkers-after-time-lost-dealing-with-difficult-to-loosen-bolts/",
+            "urlToImage": "http://spaceflightnow.com/wp-content/uploads/2023/11/20231101-EVA.jpg",
+            "publishedAt": "2023-11-01T20:14:27Z",
+            "content": "Jasmin Moghbeli, wearing a spacesuit with red stripes, works with Loral O’Hara to secure insulation around a failed radio communications unit during the fourth all-female spacewalk. Image: NASA TV.\r\n… [+3553 chars]"
         },
         {
             "source": {
@@ -304,32 +408,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Variety"
-            },
-            "author": "Warren Littlefield",
-            "title": "How Matthew Perry Saved NBC’s 1996 Upfront Presentation, as Told by Former Network Boss Warren Littlefield - Variety",
-            "description": "Former NBC Entertainment president Warren Littlefield, who gave the greenlight to \"Friends\" in 1994, pays tribute to late star Matthew Perry.",
-            "url": "https://variety.com/2023/tv/obituaries-people-news/matthew-perry-nbc-1996-upfront-warren-littlefield-tribute-1235776018/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/11/Matthew-Perry-Warren-Littlefield.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2023-11-01T17:58:00Z",
-            "content": "Matthew Perry will most often be remembered for his wit and charm, but there was so much more to him.\r\nThe pilot script of “Friends” had a lot of heat at the agencies and young actors both familiar a… [+3324 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "WLOS"
             },
             "author": "Kristy Kepley-Steward",
@@ -343,15 +421,15 @@
         {
             "source": {
                 "id": null,
-                "name": "The Boston Globe"
+                "name": "SportsLine"
             },
             "author": null,
-            "title": "Maine shooting update: texts reveal fears about shooter - The Boston Globe",
-            "description": "A set of desperate texts and a letter from a US Army Reserve training supervisor to a Maine sheriff in September reveal the high level of concern the gunman's fellow reservists had about the severity of his mental illness.",
-            "url": "https://www.bostonglobe.com/2023/11/01/metro/maine-shooting-texts/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/HZxez5B5tbsOnfwz5hpNQD5dxN0=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/H6LSW7IXUNB73H3MA53W6L274Y.png",
-            "publishedAt": "2023-11-01T17:36:57Z",
-            "content": "His fellow reservist, identified in the text only as Hodgson, wrote of Card: I believe hes going to snap and do a mass shooting.\r\nPlease, the reservist wrote in the text to Mote. I believe hes messed… [+3504 chars]"
+            "title": "Fantasy Football Week 9 Half-PPR rankings: Full positional rankings include DeAndre Hopkins at WR17 and Will Levis at QB18 - SportsLine",
+            "description": "Before you set your Fantasy Football Week 9 lineups or lock in your DFS picks for this weekend's games, you need to see what SportsLine's highly-...",
+            "url": "https://www.sportsline.com/article/fantasy-football-week-9-half-ppr-rankings-full-positional-rankings-include-deandre-hopkins-at-wr17-and-will-levis-at-qb18/",
+            "urlToImage": "https://splnhub.cbsistatic.com/i/2023/10/30/f7517add-b62a-46fc-839e-80f77696093e/deandre-hopkins-will-levis-tennessee-titans-usatsi.jpg",
+            "publishedAt": "2023-11-01T16:42:13Z",
+            "content": "Before you set your Fantasy Football Week 9 lineups or lock in your DFS picks for this weekend's games, you need to see what SportsLine's highly-rated expert Jacob Gibbs has to say.\r\nGibbs uses a dat… [+1198 chars]"
         },
         {
             "source": {
@@ -369,67 +447,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Nature.com"
+                "name": "New York Post"
             },
-            "author": null,
-            "title": "Moon-forming impactor as a source of Earth’s basal mantle anomalies - Nature.com",
-            "description": "Computer simulations show that mantle material from Theia, a proto-planet theorized to have struck the proto-Earth in the Moon-forming giant impact, may be the source of Earth’s basal mantle anomalies.",
-            "url": "https://www.nature.com/articles/s41586-023-06589-1",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-06589-1/MediaObjects/41586_2023_6589_Fig1_HTML.png",
-            "publishedAt": "2023-11-01T16:04:58Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Joe Rossignol",
-            "title": "First Benchmark Results Surface for M3 Chip in New Macs - MacRumors",
-            "description": "The first benchmark results for the standard M3 chip surfaced in the Geekbench 6 database today, providing a closer look at the chip's CPU...",
-            "url": "https://www.macrumors.com/2023/11/01/m3-chip-benchmark-results/",
-            "urlToImage": "https://images.macrumors.com/t/c-gCZ2-o01RwEU81ZIcGYwLdtEA=/1600x/article-new/2023/11/M3-Chip-Apple-Event-Slide.jpg",
-            "publishedAt": "2023-11-01T14:53:53Z",
-            "content": "The first benchmark results for the standard M3 chip surfaced in the Geekbench 6 database today, providing a closer look at the chip's CPU performance improvements.\r\nBased on the results so far, the … [+1272 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Vulture Editors",
-            "title": "The Best Matthew Perry Roles (That Aren't Chandler Bing) - Vulture",
-            "description": "Matthew Perry brought his signature wit to plenty of characters not named Chandler Bing. From ‘Fools Rush In’ to ‘The Good Wife,’ Vulture staffers remember their favorite Matthew Perry roles outside of ‘Friends.’",
-            "url": "http://www.vulture.com/article/best-matthew-perry-roles.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/ca0/e85/2adbe3caabe025054b8b8fffa49e591aa3-matthew-perry-quad-lede.1x.rsocial.w1200.jpg",
-            "publishedAt": "2023-11-01T13:45:47Z",
-            "content": "Matthew Perry knew that he would be remembered for Friends, Friends, Friends, as he wrote in his 2022 memoir. Indeed the actor, who died last week at the age of 54, was so good on the iconic NBC sitc… [+5886 chars]"
+            "author": "Nika Shakhnazarova",
+            "title": "Boris Johnson suggested that COVID was 'nature's way of dealing with old people' - New York Post ",
+            "description": "During a hearing on Tuesday, the government’s former chief scientist, Sir Patrick Vallance, revealed a “bonkers set of exchanges” with the former British leader.",
+            "url": "https://nypost.com/2023/11/01/news/boris-johnson-suggested-that-covid-was-natures-way-of-dealing-with-old-people/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/NYPICHPDPICT000071588904.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-11-01T14:01:00Z",
+            "content": "Former UK Prime Minister Boris Johnson suggested that the coronavirus pandemic was “pathetic” and “nature’s way of dealing with old people,” an inquiry was told.\r\nIn his notebook in 2020, the governm… [+3159 chars]"
         },
         {
             "source": {
@@ -443,19 +469,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/d63BwvVZd22DGbbao8NwCR-1200-80.jpg",
             "publishedAt": "2023-11-01T12:31:33Z",
             "content": "We already know that the iPhone 15 Pro Max camera is incredible, and so does Apple – which is why the company has made such a big deal of the fact that its latest product reveal, this week's 'Scary F… [+1841 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Tom Verducci",
-            "title": "Star Power Crushes Smallball in Rangers' World Series Game 4 Victory - Sports Illustrated",
-            "description": "While the Diamondbacks rode a strategy of bunts and stolen bases to the Fall Classic, Texas’s 11–7 win on Tuesday proved that baseball still favors the long ball.",
-            "url": "https://www.si.com/mlb/2023/11/01/star-power-crushes-smallball-rangers-world-series-game-4",
-            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAxOTAyMjQ5NDE5NTQ3ODA3/corey-seager.jpg",
-            "publishedAt": "2023-11-01T09:11:45Z",
-            "content": "PHOENIX — Smallball took a beating. World Series Game 4 made for a forgettable, unaesthetic evening, what with its 13 pitchers and an 11–7 final in favor of Texas that camouflaged the rout that it tr… [+10892 chars]"
         }
     ]
 }

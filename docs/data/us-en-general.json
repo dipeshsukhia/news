@@ -1,58 +1,318 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Ruxandra Iordache, Christine Wang",
-            "title": "Israel-Hamas war live updates: Latest news on Gaza conflict - CNBC",
-            "description": "Foreign passport holders have begun evacuating the Gaza Strip as Doctors without Borders says more than 20,000 people remain injured in the territory.",
-            "url": "https://www.cnbc.com/2023/11/02/israel-hamas-war-live-updates-latest-news-on-gaza-conflict.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107327609-1698924056645-gettyimages-1753049517-AFP_33ZB9K2.jpeg?v=1698924085&w=1920&h=1080",
-            "publishedAt": "2023-11-02T12:26:00Z",
-            "content": "U.S. Congresswoman Rashida Tlaib of Michigan posted a voice memo and text message to her Instagram from a Palestinian-American stuck inside Gaza. The U.S. citizen, Zakaria Alarayshi, lives in Dearbor… [+1066 chars]"
+            "author": null,
+            "title": "Suspect accused of killing Tupac Shakur pleads not guilty in Las Vegas court - CNN",
+            "description": "The 60-year-old man charged with the murder of rapper Tupac Shakur plead not guilty in Las Vegas court Thursday.",
+            "url": "https://www.cnn.com/2023/11/02/us/tupac-murder-suspect-duane-davis-court-appearance/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231102121033-01-duane-keith-davis-court-1102.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-11-02T17:52:00Z",
+            "content": "The 60-year-old man charged with the killing of rapper Tupac Shakur pleaded not guilty in Las Vegas court Thursday.\r\nDuane Keith Davis, known as Keffe D, arrived in court Thursday for his third sched… [+4658 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Stephanie Wash, Meredith Deliso",
+            "title": "Former officer pleads guilty to federal charges in Tyre Nichols' death - ABC News",
+            "description": "Desmond Mills Jr. was one of five former Memphis police officers facing charges.",
+            "url": "https://abcnews.go.com/US/former-memphis-officer-plead-guilty-federal-charges-tyre/story?id=104551239",
+            "urlToImage": "https://i.abcnewsfe.com/a/7971d52c-2a4f-4190-bded-b19c13b501f0/desmond-mills-memphis-police-ht-jt-230121_1674328487263_hpMain_2_16x9.jpg?w=992",
+            "publishedAt": "2023-11-02T17:37:30Z",
+            "content": "Desmond Mills Jr., one of the five former Memphis police officers charged in connection with the death of Tyre Nichols, pleaded guilty Thursday to federal civil rights and conspiracy offenses, the De… [+3366 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Makena Kelly",
+            "title": "Amazon's secret pricing scheme made it an extra $1 billion, FTC says - The Verge",
+            "description": "Amazon’s secret pricing algorithm, codenamed “Project Nessie,” may have generated the company more than $1 billion in extra profits, according to new details released from the Federal Trade Commission’s antitrust case.",
+            "url": "https://www.theverge.com/2023/11/2/23943724/amazon-project-nessie-algorithm-ftc-antitrust-case",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/YsSwJjeePniOk01QDHeAsuHaotg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg",
+            "publishedAt": "2023-11-02T17:30:46Z",
+            "content": "Amazons secret pricing scheme made it an extra $1 billion, FTC says\r\nAmazons secret pricing scheme made it an extra $1 billion, FTC says\r\n / The Project Nessie algorithm tested Amazon price hikes aga… [+2826 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Helen Regan",
-            "title": "Second Israeli airstrike in two days pummels Gaza refugee camp, deepening a growing outcry - CNN",
-            "description": "Israel bombed the densely-populated Jabalya refugee camp in northern Gaza for the second time in two days Wednesday, prompting warnings of war crimes as more nations took diplomatic measures and condemned Israel’s offensive in the besieged enclave.",
-            "url": "https://www.cnn.com/2023/11/02/middleeast/israel-gaza-hamas-war-jabalya-camp-strike-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231101234912-01-israel-gaza-110123.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-11-02T12:08:00Z",
-            "content": "Israel bombed the densely-populated Jabalya refugee camp in northern Gaza for the second time in two days Wednesday, prompting warnings of war crimes as more nations took diplomatic measures and cond… [+7921 chars]"
+            "author": "Laura Paddison",
+            "title": "The planet is heating up faster than predicted, says scientist who sounded climate alarm in the 1980s - CNN",
+            "description": "The planet is on track to heat up at a much faster rate than scientists have predicted, meaning a key global warming threshold could be breached this decade, according to a new study co-authored by James Hansen — the scientist credited with being the first to…",
+            "url": "https://www.cnn.com/2023/11/02/climate/the-planet-is-heating-up-faster-than-predicted-says-scientist-who-first-warned-the-world-about-climate-change/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231102101455-01-global-heating-accelerating.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-11-02T17:19:00Z",
+            "content": "The planet is on track to heat up at a much faster rate than scientists have previously predicted, meaning a key global warming threshold could be breached this decade, according to a new study co-au… [+5452 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Mehul Srivastava, Guy Chazan, James Politi, Raya Jalabi",
+            "title": "Israeli army attempts to 'encircle' Gaza City as Joe Biden calls for pause in fighting - Financial Times",
+            "description": "US president says halt in hostilities needed to free hostages but stops short of pushing for full ceasefire",
+            "url": "https://www.ft.com/content/9a639400-f3bc-4142-b958-2d519c72984c",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F17ab9a8a-77a5-4dfa-b9d5-f8d089d538a6.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-11-02T16:59:29Z",
+            "content": "Israeli troops have entered Gaza City and are attempting to encircle it from several directions, Israels top military commander has said, describing it as the next phase of Israels ground offensive i… [+4007 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Patrick Hearn",
+            "title": "These JBL earbuds are 50% off for an early Black Friday deal — just $50 - Yahoo Life",
+            "description": "The noise-canceling beasts go toe-to-toe with pricier brands: 'Best I've ever owned.'",
+            "url": "https://www.yahoo.com/lifestyle/these-jbl-earbuds-are-50-percent-off-for-an-early-black-friday-deal-just-50-165154443.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ztw8LUGN85iZHJ8aHYh3kQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/165f3050-a1ab-11ed-a4f9-b04f40c3a648",
+            "publishedAt": "2023-11-02T16:51:57Z",
+            "content": "JBL has a longstanding history of producing truly impressive headphones, often at a fraction of the price of its competitors. When one of those stellar pairs are on sale for an early Black Friday dea… [+3416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katia Hetter",
+            "title": "Who should worry about lung cancer? A doctor explains - CNN",
+            "description": "The American Cancer Society has just updated their lung cancer screening guidelines in an effort to increase earlier detection. Dr. Leana Wen walks us through the different kinds of lung cancers, how to reduce risk, why early detection matters and what kinds …",
+            "url": "https://www.cnn.com/2023/11/02/health/lung-cancer-prevention-smoking-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1327248775.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-11-02T16:40:00Z",
+            "content": "The American Cancer Society has just updated their lung cancer screening guidelines in an effort to increase earlier detection. It expands the recommendation of yearly screening via low-dose CT scan … [+7267 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "US President Joe Biden calls for 'pause' in Israel-Gaza conflict - BBC.com",
+            "description": "He was responding to a heckler's demand for a ceasefire in a war which has claimed thousands of lives.",
+            "url": "https://www.bbc.com/news/world-us-canada-67294334",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DE61/production/_131592965_microsoftteams-image-60.png",
+            "publishedAt": "2023-11-02T16:30:16Z",
+            "content": "US President Joe Biden has called for a \"pause\" in the Israel-Hamas conflict. \r\nThe president was making a campaign speech in Minneapolis when a heckler urged him to call for a ceasefire.\r\n\"I think w… [+2369 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jack Baer",
+            "title": "World Series 2023: Rangers win first World Series title with 5-0 victory in Game 5 - Yahoo Sports",
+            "description": "It was a thriller until the late innings, when the Rangers' bats broke it open to clinch the title.",
+            "url": "https://sports.yahoo.com/texas-rangers-win-world-series-2023-first-title-with-5-0-victory-vs-diamondbacks-in-game-5-161802227.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ua20.Xt2aAqy3VTq3c9WXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/e98375e0-792d-11ee-afe6-dfc27b1333fd",
+            "publishedAt": "2023-11-02T16:18:02Z",
+            "content": "In the span of three innings, the Texas Rangers went from landing on the wrong side of a no-hitter to celebrating the first World Series title in franchise history.\r\nGame summary:\r\nAfter a disastrous… [+3659 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Elliot Smith",
-            "title": "Bank of England leaves interest rates at 15-year high, says policy to stay tight for 'extended period' - CNBC",
-            "description": "Since the Bank of England's last economic projections, inflation has weakened, economic activity has softened and the labor market has shown signs of loosening.",
-            "url": "https://www.cnbc.com/2023/11/02/bank-of-england-leaves-interest-rates-unchanged.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107240180-1683869708701-gettyimages-1489149014-hd1_8357_qgksvwta.jpeg?v=1698914360&w=1920&h=1080",
-            "publishedAt": "2023-11-02T12:07:14Z",
-            "content": "LONDON The Bank of England on Thursday left interest rates unchanged, but said monetary policy will likely need to stay tight for an \"extended period of time.\"\r\nThe Monetary Policy Committee voted 6-… [+5390 chars]"
+            "author": "Melissa Repko",
+            "title": "Deal-hungry shoppers will squeeze holiday sales growth to pre-pandemic levels, retail group says - CNBC",
+            "description": "NRF expects higher wages and job security to give shoppers confidence to spring for gifts and decorations. But he acknowledged challenges.",
+            "url": "https://www.cnbc.com/2023/11/02/nrf-2023-holiday-sales-forecast.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107170267-1671720049910-gettyimages-1245782688-US_RETAIL_SALES.jpeg?v=1697646820&w=1920&h=1080",
+            "publishedAt": "2023-11-02T15:47:05Z",
+            "content": "Holiday shoppers are expected to spend more this year, but their eagerness for value and hunger for deals is likely to push that growth back down to pre-pandemic levels, according to the National Ret… [+4342 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "engadget",
+                "name": "Engadget"
             },
-            "author": "Anders Hagstrom",
-            "title": "Israeli losses rise in Gaza as President Biden calls for 'pause' in Hamas war - Fox News",
-            "description": "Israeli Defense forces reported 17 deaths inside the Gaza Strip as its retaliatory war on Hamas war neared the 30-day mark. Until this week, Israel had largely relied on airstrikes and artillery to retaliate against Hamas' massacre in Israel on Oct. 7. More t…",
-            "url": "https://www.foxnews.com/live-news/november-2-israel-hamas-war",
-            "urlToImage": "https://livenews.foxnews.com/images/2023/11/003a4f4384f5e8b5c95d1e5198a82e02.jpg",
-            "publishedAt": "2023-11-02T11:23:46Z",
-            "content": "President Biden said there should be a \"pause\" in the Israel-Hamas War to provide humanitarian aid to Gazans and get those trapped in the Gaza Strip released.\r\nThe comment came during a campaign even… [+1566 chars]"
+            "author": "Lawrence Bonk",
+            "title": "Listen to the 'final' Beatles track, made with machine learning and archival recordings - Engadget",
+            "description": "The Beatles are back with a new-ish song featuring the late John Lennon on vocals and the equally late George Harrison playing some guitar. The song is...",
+            "url": "https://www.engadget.com/listen-to-the-final-beatles-track-made-with-machine-learning-and-archival-recordings-153253946.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jgFTQD3TRIofMKq_ZOAB_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODQ-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/95b0a800-7993-11ee-bf9f-65a1195885ee",
+            "publishedAt": "2023-11-02T15:32:53Z",
+            "content": "The Beatles are back, sort of. The fab four just released a new song, the groups first since 1995. Now and Then is being advertised as the final Beatles track, which makes sense given that two of the… [+1648 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WFAA.com"
+            },
+            "author": "WFAA Staff",
+            "title": "Here are the North Texas school districts closed for the Rangers World Series parade - WFAA.com",
+            "description": "The Texas Rangers organization asked Arlington ISD band students to perform during the festivities, according to a new release from the district.",
+            "url": "https://www.wfaa.com/article/news/education/arlington-isd-closed-texas-rangers-world-series-championship-victory-friday-2023/287-56163664-5fda-4868-825b-55bc9b141f4a",
+            "urlToImage": "https://media.wfaa.com/assets/WFAA/images/a3fff40d-c7a2-4e82-95f2-4b8090560a5a/a3fff40d-c7a2-4e82-95f2-4b8090560a5a_1140x641.jpg",
+            "publishedAt": "2023-11-02T14:54:00Z",
+            "content": "ARLINGTON, Texas A win for the Texas Rangers is a win for North Texas as a whole, but their World Series victory is a big win for students and staff at multiple local school districts.\r\nThe Arlington… [+1835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Macs With M3 Chip Still Officially Support Only a Single External Display - MacRumors",
+            "description": "Macs equipped with the standard M3 chip still support only one external display with up to 6K resolution at 60Hz, according to Apple's tech...",
+            "url": "https://www.macrumors.com/2023/11/02/m3-chip-still-supports-one-external-display/",
+            "urlToImage": "https://images.macrumors.com/t/aKLgq1WlvEaIVqe3Ak9TPIjkmvI=/2590x/article-new/2020/05/Pro-Display-XDR-Red.jpg",
+            "publishedAt": "2023-11-02T14:41:49Z",
+            "content": "Macs equipped with the standard M3 chip still support only one external display with up to 6K resolution at 60Hz, according to Apple's tech specs. So far, the chip is available in the entry-level 14-… [+1700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Jennifer Maas",
+            "title": "HBO Boss Casey Bloys Apologizes for Using Fake Twitter Accounts to Troll TV Critics: ‘Dumb Idea’ - Variety",
+            "description": "HBO and Max CEO and chairman Casey Bloys addressed a report that he had employees use fake Twitter accounts to respond to critics.",
+            "url": "https://variety.com/2023/tv/news/hbo-casey-bloys-explains-fake-twitter-accounts-troll-critics-1235775997/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/06/casey-bloys-variety-tv-fest-2023.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-11-02T14:35:00Z",
+            "content": "HBO and Max CEO and chairman Casey Bloys apologized to TV critics Thursday for using fake Twitter accounts to respond to negative reviews of HBO series, following a Wednesday report that revealed Blo… [+3145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Greg Evans",
+            "title": "Director James Burrows Says ‘Friends’ Castmates “Destroyed” By Matthew Perry Death: “It’s A Brother Dying” - Deadline",
+            "description": "Friends director James Burrows mourned the loss of actor Matthew Perry in an exclusive Today show interview this morning. “I had to have a couple of days to just let it soak in,” Burrows said…",
+            "url": "https://deadline.com/2023/11/james-burrows-matthew-perry-1235590753/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/11/burrows.jpg?w=1024",
+            "publishedAt": "2023-11-02T14:31:00Z",
+            "content": "Friends director James Burrows mourned the loss of actor Matthew Perry in an exclusive Today show interview this morning. “I had to have a couple of days to just let it soak in,” Burrows said on the … [+1600 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/dan-berman\">Dan Berman</a>",
+            "title": "Live updates: Trump civil fraud trial continues in New York - CNN",
+            "description": "Donald Trump's eldest son, Donald Trump Jr., continues to testify Thursday in the New York civil fraud case against the family and their business. Follow here for the latest live updates on the trial.",
+            "url": "https://www.cnn.com/politics/live-news/trump-civil-fraud-trial-11-02-23/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/231102100247-01b-donald-trump-jr-eric-trump-court-110223-super-tease.jpg",
+            "publishedAt": "2023-11-02T14:30:37Z",
+            "content": "Donald Trumps eldest son, Donald Trump Jr., testified on Wednesday that he was not involved in the preparation of his fathers financial statements at any point in time including after his father beca… [+1904 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Economist"
+            },
+            "author": "The Economist",
+            "title": "The pace of Israel's war in Gaza far exceeds previous conflicts - The Economist",
+            "description": "But Israel’s generals think they could be fighting Hamas in Gaza for a year",
+            "url": "https://www.economist.com/middle-east-and-africa/2023/11/02/the-pace-of-israels-war-in-gaza-far-exceeds-previous-conflicts",
+            "urlToImage": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231104_MAP005.jpg",
+            "publishedAt": "2023-11-02T14:17:57Z",
+            "content": "Listen to this story.\r\nEnjoy more audio and podcasts oniOSorAndroid.\r\nYour browser does not support the &lt;audio&gt; element.\r\nTHE WORLD shook, and then the ground opened. On October 31st Israeli je… [+7723 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Nick Sirianni on facing Cowboys: Can't get more up for one game than the next - NBC Sports",
+            "description": "Before the Eagles faced the Cowboys in September of Nick Sirianni's first season as the Eagles head coach, he drew a lot of attention for wearing a t-shirt that said \"Beat Dallas\" during one of his press conferences.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-on-facing-cowboys-cant-get-more-up-for-one-game-than-the-next",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/70eba93/2147483647/strip/true/crop/5400x3038+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4c%2Fff%2Fe33195c444b39b6dbf2c84e0ff2e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1763698995",
+            "publishedAt": "2023-11-02T14:06:06Z",
+            "content": "Before the Eagles faced the Cowboys in September of Nick Siriannis first season as the Eagles head coach, he drew a lot of attention for wearing a t-shirt that said Beat Dallas during one of his pres… [+1314 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Andrew Osborn",
+            "title": "Putin withdraws Russia's ratification of global nuclear test ban treaty - Reuters",
+            "description": "President Vladimir Putin on Thursday signed a law withdrawing Russia's ratification of the global treaty banning nuclear weapons tests, a step condemned by the organisation which promotes adherence to the landmark arms control pact.",
+            "url": "https://www.reuters.com/world/europe/putin-revokes-russias-ratification-nuclear-test-ban-treaty-2023-11-02/",
+            "urlToImage": "https://www.reuters.com/resizer/3i1RoT1x47gODuPhXMrCns2TdA0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5QUWL54YUZI3XK4EBDELQNFBVA.jpg",
+            "publishedAt": "2023-11-02T13:42:00Z",
+            "content": "Nov 2 (Reuters) - President Vladimir Putin on Thursday signed a law withdrawing Russia's ratification of the global treaty banning nuclear weapons tests, a step condemned by the organisation which pr… [+3814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Karen Friar",
+            "title": "Stock market news today: US futures rise as investors bet on end to Fed hikes - Yahoo Finance",
+            "description": "Investors are betting the Fed is done with its rate-hiking campaign, taking heart from Chair Jerome Powell's comments.",
+            "url": "https://finance.yahoo.com/news/stock-market-news-today-stocks-rally-dow-rises-500-points-as-investors-bet-on-end-to-fed-hikes-164433133.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8eG9cpd_c.d0ktPIlUVlIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDk-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/f80d2690-7975-11ee-aeff-2d2d3e799be6",
+            "publishedAt": "2023-11-02T13:31:27Z",
+            "content": "Roku (ROKU) shares soared more than 25% in midday trading on Thursday after the company reported strong fourth quarter guidance and pointed to further signs of recovery in its ad revenue.\r\nRoku guide… [+1641 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AnandTech"
+            },
+            "author": "Gavin Bonshor, Ryan Smith",
+            "title": "AMD Unveils Ryzen 7040U Series with Zen 4c: Smaller Cores, Bigger Efficiency - AnandTech",
+            "description": null,
+            "url": "https://www.anandtech.com/show/21111/amd-unveils-ryzen-7040u-series-with-zen-4c-smaller-cores-bigger-efficiency",
+            "urlToImage": "https://images.anandtech.com/doci/21111/Phoenix_CES_AMD_crop_678x452_678x452.jpg",
+            "publishedAt": "2023-11-02T13:02:25Z",
+            "content": "In May, AMD unveiled their Ryzen 7040U series of CPUs designed for thin and light notebooks, which they codenamed 'Phoenix.' Initially, AMD announced four Zen 4-based CPUs for the ultra-portable note… [+17172 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Lauren Sforza",
+            "title": "More civilians permitted to cross into Egypt from Gaza, including 400 Americans - The Hill",
+            "description": "Hundreds more civilians were permitted to cross into Egypt from Gaza on Thursday, including 400 Americans, after a group of injured Palestinians and foreign passport holders were allowed to leave Wednesday. The Gaza border authority released a list of foreign…",
+            "url": "https://thehill.com/policy/international/4289275-civilians-cross-egypt-gaza-400-americans/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/11/Middle-East-Gate_110123_AP_Fatima-Shbair.jpg?w=1280",
+            "publishedAt": "2023-11-02T13:02:00Z",
+            "content": "Skip to content\r\nHundreds more civilians were permitted to cross into Egypt from Gaza on Thursday, including 400 Americans, after a group of injured Palestinians and foreign passport holders were all… [+1904 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9News.com KUSA"
+            },
+            "author": "Alexander Kirk",
+            "title": "Here's the holiday drink and food menu at Starbucks - 9News.com KUSA",
+            "description": "The Peppermint Mocha is back for a 21st year and introducing the Iced Gingerbread Oatmilk Chai.",
+            "url": "https://www.9news.com/article/life/holidays/holiday-guide/starbucks-2023-holiday-cups-menu/73-fd29106d-4d1b-4a61-8dbf-8a5185aed7c0",
+            "urlToImage": "https://media.9news.com/assets/KUSA/images/bc4014b4-0cba-4308-b26c-ea0cc461e6f5/bc4014b4-0cba-4308-b26c-ea0cc461e6f5_1140x641.jpg",
+            "publishedAt": "2023-11-02T12:38:00Z",
+            "content": "COLORADO, USA It's the most wonderful time of year for Starbucks fans.\r\nThe coffee giant announced its iconic holiday cups and menu items will return to stores nationwide on Thursday, Nov. 2.\r\nReturn… [+2270 chars]"
         },
         {
             "source": {
@@ -60,90 +320,38 @@
                 "name": "ESPN"
             },
             "author": "David Purdum",
-            "title": "Braves start as 2024 favorite, but Ohtani poised to shift odds - ESPN - ESPN",
+            "title": "Braves top 2024 World Series odds as Ohtani decision looms - ESPN - ESPN",
             "description": "The Braves enter the offseason as the consensus favorite to win next year's World Series, but the odds could change significantly depending on where marquee free agent Shohei Ohtani lands.",
             "url": "https://www.espn.com/sports-betting/story/_/id/38799301/braves-start-2024-favorite-ohtani-poised-shift-odds",
             "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1005%2Fr1234389_1296x729_16%2D9.jpg",
             "publishedAt": "2023-11-02T11:23:00Z",
-            "content": "The Atlanta Braves enter the offseason as the consensus favorite to win next year's World Series at sportsbooks around the nation, but the odds could change significantly depending on where marquee f… [+2558 chars]"
+            "content": "The Atlanta Braves enter the offseason as the consensus favorite to win next year's World Series at sportsbooks around the nation, but the odds could change significantly depending on where marquee f… [+2515 chars]"
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Dan Goodin",
-            "title": "This tiny device is sending updated iPhones into a never-ending DoS loop - Ars Technica",
-            "description": "No cure yet for a popular iPhone attack, except for turning off Bluetooth.",
-            "url": "https://arstechnica.com/security/2023/11/flipper-zero-gadget-that-doses-iphones-takes-once-esoteric-attacks-mainstream/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/iphone-dosed-by-flipper-zero-02-760x380.jpeg",
-            "publishedAt": "2023-11-02T11:15:24Z",
-            "content": "Enlarge/ A fully updated iPhone (left) after being force crashed by a Flipper Zero (right).\r\n37 with \r\nOne morning two weeks ago, security researcher Jeroen van der Ham was traveling by train in the … [+4337 chars]"
+            "author": "Sandee LaMotte",
+            "title": "Sweet spot for HRT may reduce dementia risk by nearly a third, study says - CNN",
+            "description": "Taking hormone replacement at the right time in midlife reduces the risk of dementia and Alzheimer’s disease by 23% to 32%, a new meta-analysis found.",
+            "url": "https://www.cnn.com/2023/11/02/health/hormone-replacement-dementia-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231031132947-hormone-therapy-replacemnt-patch-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-11-02T11:12:00Z",
+            "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nHormone replacement therapy … [+7541 chars]"
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": "the-times-of-india",
+                "name": "The Times of India"
             },
-            "author": "Al Jazeera",
-            "title": "Putin revokes Russia’s ratification of nuclear test ban treaty - Al Jazeera English",
-            "description": "Moscow says the abandonment of the 1996 treaty is designed to bring Russia into line with the US.",
-            "url": "https://www.aljazeera.com/news/2023/11/2/putin-revokes-russias-ratification-of-nuclear-test-ban-treaty",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/2023-10-25T171129Z_1738558648_RC2TZ3A7SB9U_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-NUCLEAR-1698919005.jpg?resize=1920%2C1080&quality=80",
-            "publishedAt": "2023-11-02T11:09:03Z",
-            "content": "Russias President Vladimir Putin has revoked his countrys ratification of the Comprehensive Nuclear Test Ban Treaty (CTBT), a move he says is designed to bring Moscow into line with the United States… [+2934 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "NAJIB JOBAIN, KAREEM CHEHAYEB",
-            "title": "Israel-Hamas war: Diplomatic efforts to pause fighting gain steam - The Associated Press",
-            "description": "Israel’s ground troops are advancing toward Gaza City, as the U.S. and Arab countries intensify diplomatic efforts to ease the siege of the Hamas-ruled enclave and bring about at least a brief stop to the fighting to help civilians. Health officials said Thur…",
-            "url": "https://apnews.com/article/israel-hamas-war-gaza-news-11-2-2023-6a398d4aeba979aef24960efc31eb772",
-            "urlToImage": "https://dims.apnews.com/dims4/default/2d32a21/2147483647/strip/true/crop/1023x575+0+53/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2Fd2%2Fba54afd0bfcdfd7ac867e8484e16%2F8b200851060149fe8eb6b1c6a0c6169e",
-            "publishedAt": "2023-11-02T11:02:00Z",
-            "content": "RAFAH, Gaza Strip (AP) Israeli troops advanced toward Gaza City on Thursday, as the Palestinian death toll rose above 9,000. With no end in sight after weeks of heavy fighting, U.S. and Arab mediator… [+7429 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Video captures final screams of pro cyclist Mo Wilson after accused killer Kaitlin Armstrong tracked her on fitness app, prosecutor says - CBS News",
-            "description": "Kaitlin Armstrong, 35, has pleaded not guilty to murder in the May 2022 slaying of Mo Wilson, a competitive gravel and mountain bike racer.",
-            "url": "https://www.cbsnews.com/news/kaitlin-armstrong-trial-video-captures-final-screams-pro-cyclist-mo-wilson-prosecutor-says/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/02/273a4a2b-3a50-4464-895d-a12170c84107/thumbnail/1200x630g2/79aebdff801cad3de64dfcaea032a91a/ap23305799120507.jpg?v=4d0a8a0e724da64f433bf70cf12725a2",
-            "publishedAt": "2023-11-02T10:27:00Z",
-            "content": "The murder trial of a woman accused of gunning down rising pro cyclist Anna Moriah Wilson and fleeing the country began Wednesday with Texas prosecutors telling jurors they would hear Wilson's final … [+5586 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Weather Channel"
-            },
-            "author": "The Weather Channel",
-            "title": "Deadly Storm Ciarán Strikes Northwest Europe | Weather.com - The Weather Channel",
-            "description": "Storm Ciarán brought powerful winds to northwest Europe Thursday. Here's the latest. - Articles from The Weather Channel | weather.com",
-            "url": "https://weather.com/news/weather/news/2023-11-02-storm-ciaran-france-united-kingdom-europe-wind-flood-impacts",
-            "urlToImage": "https://s.w-x.co/stormciaran.jpg",
-            "publishedAt": "2023-11-02T10:11:16Z",
-            "content": "Sign up for the Morning Brief email newsletter to get weekday updates from The Weather Channel and our meteorologists.\r\nWinds up to 108 mph slammed France's Atlantic coast overnight as Storm Ciarán l… [+4750 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Greg Roumeliotis, David French",
-            "title": "US amusement park operators Cedar Fair, Six Flags in merger talks - sources - Reuters",
-            "description": "U.S. amusement park operator Cedar Fair LP <a href=\"https://www.reuters.com/markets/companies/FUN.N\" target=\"_blank\">(FUN.N)</a> is exploring a potential merger with peer Six Flags Entertainment Corp <a href=\"https://www.reuters.com/markets/companies/SIX.N\" t…",
-            "url": "https://www.reuters.com/markets/deals/cedar-fair-explores-merger-with-six-flags-sources-2023-11-01/",
-            "urlToImage": "https://www.reuters.com/resizer/ct_HEfeeSaXeVkLP1Ywz2x8Oq9A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PHBYOQXF5JMIVF4363J2TSSHYU.jpg",
-            "publishedAt": "2023-11-02T09:56:00Z",
-            "content": "NEW YORK, Nov 1 (Reuters) - U.S. amusement park operator Cedar Fair LP (FUN.N) is exploring a potential merger with peer Six Flags Entertainment Corp (SIX.N), people familiar with the matter said on … [+1717 chars]"
+            "author": "TIMESOFINDIA.COM",
+            "title": "Not just sugar, adding salt to your meals could also lead to diabetes - IndiaTimes",
+            "description": "Frequent use of added salt to your meals can increase the risk of Type 2 diabetes and obesity, according to a Tulane University study. More than 400,000 UK adults were surveyed, revealing a 39% higher diabetes risk for those who always added salt. High sodium…",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/not-just-sugar-adding-salt-to-your-meals-could-also-lead-to-diabetes/photostory/104915076.cms",
+            "urlToImage": "https://static.toiimg.com/photo/104915118.cms",
+            "publishedAt": "2023-11-02T10:30:00Z",
+            "content": "There are several processed foods we consume on a daily basis, that are loaded with salt, and we are not aware. These include fast foods like pizza, breads, rolls, biscuits, packaged mixes, and canne… [+397 chars]"
         },
         {
             "source": {
@@ -160,250 +368,94 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "John Davison",
-            "title": "Israeli settler attacks fuel the fire as Gaza war rages - Reuters",
-            "description": "Mourning his father and brother, Mohammed Wadi says armed Israeli settlers from outposts overlooking his olive-growing West Bank village no longer aim low when they shoot at Palestinian neighbours. \"Now, they shoot to kill,\" he said.",
-            "url": "https://www.reuters.com/world/middle-east/israeli-settler-attacks-fuel-fire-gaza-war-rages-2023-11-02/",
-            "urlToImage": "https://www.reuters.com/resizer/AKgIQ-pAJ5tJnxiInalDHn-1fNY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3WC3EPKHLBJORFMZLMJHJDYFXU.jpg",
-            "publishedAt": "2023-11-02T07:12:00Z",
-            "content": "QUSRA, West Bank, Nov 2 (Reuters) - Mourning his father and brother, Mohammed Wadi says armed Israeli settlers from outposts overlooking his olive-growing West Bank village no longer aim low when the… [+8223 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Seth Davis",
-            "title": "Legendary college basketball coach Bob Knight dies at 83 - The Athletic",
-            "description": "The winning, however, was never the point, and it only tells part of the complicated story which ended with Knight’s death Wednesday at the",
-            "url": "https://theathletic.com/5022341/2023/11/01/bob-knight-death-indiana/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/11/01184321/GettyImages-53112064-scaled.jpg",
-            "publishedAt": "2023-11-02T07:02:18Z",
-            "content": "When my time on Earth is gone\r\nAnd my activities here are passed\r\nI want they bury me upside down\r\nAnd my critics can kiss my ass\r\nBob Knight, March 12, 1994\r\nClair Bee was unquestionably one of the … [+45655 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
+            "author": "USA TODAY",
+            "title": "Israel and Hamas war updates: Americans, others allowed to exit Gaza - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/news/world/israel-hamas/2023/11/01/israel-hamas-gaza-war-live-updates/71405089007/",
             "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "publishedAt": "2023-11-02T04:04:42Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Mike Axisa",
-            "title": "Rangers win 2023 World Series: Texas takes down Diamondbacks in Game 5 for first title in franchise history - CBS Sports",
-            "description": "The Texas Rangers are World Series champions for the first time after Wednesday's 5-0 win",
-            "url": "https://www.cbssports.com/mlb/news/rangers-win-2023-world-series-texas-takes-out-diamondbacks-in-game-5-for-first-title-in-franchise-history/live/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/11/02/c51ad408-5e9f-4fb7-854a-2d458e369654/thumbnail/1200x675/cc330715f8bb61809daf483ece7c46b5/rangers-celebrate-getty-5.png",
-            "publishedAt": "2023-11-02T05:51:00Z",
-            "content": "For the first time in franchise history, the Texas Rangers are World Series champions. The Rangers clinched their first ever title with a thrilling 5-0 win (box score) over the Arizona Diamondbacks i… [+7236 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Alex Harring",
-            "title": "S&P 500 futures tick higher as attention turns from Fed to latest earnings reports: Live updates - CNBC",
-            "description": "The Federal Reserve kept rates at the conclusion of its meeting Wednesday, fueling a rally for stocks to start November.",
-            "url": "https://www.cnbc.com/2023/11/01/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107295804-1693925681025-nyse1.jpg?v=1698873754&w=1920&h=1080",
-            "publishedAt": "2023-11-02T05:23:00Z",
-            "content": "Stock futures rose Thursday as investors bet the Federal Reserve could be done raising rates for 2023. Traders also looked through the latest quarterly earnings reports. \r\nS&amp;P 500 futures gained … [+1575 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Dean Fioresi",
-            "title": "\"Succession\" star Alan Ruck crashes into Hollywood pizza restaurant - CBS Los Angeles",
-            "description": "Ruck, who also starred as Cameron Frye in \"Ferris Bueller's Day Off,\" was behind the wheel of a truck that veered into Raffallo's Pizza on Tuesday evening after a multi-car crash.",
-            "url": "https://www.cbsnews.com/losangeles/news/ferris-buellers-day-off-succession-star-alan-ruck-crashes-into-hollywood-pizza-restaurant/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/01/6c62a13b-2f32-4c7c-b270-587771a6163e/thumbnail/1200x630/a9e100016baf63738aad99f216353692/screen-shot-2023-10-31-at-9-56-31-pm.png?v=4d0a8a0e724da64f433bf70cf12725a2",
-            "publishedAt": "2023-11-02T05:17:00Z",
-            "content": "Actor Alan Ruck, known for his roles in \"Ferris Bueller's Day Off\" and \"Succession,\" was allegedly behind the wheel of a truck that slammed into a Hollywood pizza restaurant on Halloween, police say.… [+2405 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WPVI-TV"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Philadelphia prison escape: New video shows moment Ameen Hurst and Nasir Grant broke out of PICC - WPVI-TV",
-            "description": "The inmates escaped through a gap cut in the fence that had been there for nearly seven weeks and had been noticed by prison staffers at least four days before the escape, Krasner said.",
-            "url": "https://6abc.com/philadelphia-prison-escape-video-picc-city-council-hearing/14001415/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/14002742_110223-wpvi-prison-breaking-img.jpg?w=1600",
-            "publishedAt": "2023-11-02T04:25:10Z",
-            "content": "PHILADELPHIA (WPVI) -- A Philadelphia correctional center has come under close scrutiny after two inmates managed to escape the facility back in May, and it was all caught on surveillance video.\r\nDis… [+3188 chars]"
+            "title": "Cornell junior arrested for alleged threats against Jewish students - CBS Evening News",
+            "description": "An engineering student at Cornell University in New York was arrested Tuesday on federal charges that he made violent antisemitic online threats against Jewi...",
+            "url": "https://www.youtube.com/watch?v=J3JC4zIegfA",
+            "urlToImage": "https://i.ytimg.com/vi/J3JC4zIegfA/maxresdefault.jpg",
+            "publishedAt": "2023-11-01T23:28:59Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "title": "One worker dead after coal building collapses in Kentucky - WHAS11",
+            "description": "The building collapsed around 6:30 p.m. Tuesday, according to officials.------------------------------------------------------------------Read more on https:...",
+            "url": "https://www.youtube.com/watch?v=2vzOHpcf5P8",
+            "urlToImage": "https://i.ytimg.com/vi/2vzOHpcf5P8/hqdefault.jpg",
+            "publishedAt": "2023-11-01T22:26:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Charles Q. Choi",
+            "title": "A chunk of the 'protoplanet' that made the moon may be stuck near Earth's core - Space.com",
+            "description": "Debris from the impact between Earth and the protoplanet eventually formed the moon.",
+            "url": "https://www.space.com/moon-impact-remnant-earths-core",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4XitBcr9BBSsCZjVRFNRB3-1200-80.jpg",
+            "publishedAt": "2023-11-01T17:29:58Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
         },
         {
             "source": {
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Miranda Nazzaro",
-            "title": "Johnson dismisses failed Tlaib, Santos votes: ‘It was resolved on the floor’ - The Hill",
-            "description": "Speaker Mike Johnson (R-La.) appeared to dismiss the two failed votes over Rep. George Santos’s (R-N.Y.) expulsion and the censure of Rep. Rashida Tlaib (D-Mich.), arguing the issues were “resolved on the floor.” “It was resolved on the floor and we allow mem…",
-            "url": "https://thehill.com/homenews/house/4289004-johnson-dismisses-failed-tlaib-santos-votes-it-was-resolved-on-the-floor/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/11/johnsonmike_102523gn30_w.jpg?w=1280",
-            "publishedAt": "2023-11-02T04:00:00Z",
-            "content": "Skip to content\r\nSpeaker Mike Johnson (R-La.) appeared to dismiss the two failed votes over Rep. George Santos’s (R-N.Y.) expulsion and the censure of Rep. Rashida Tlaib (D-Mich.), arguing the issues… [+1893 chars]"
+            "author": "James Prince, Hiba Husseini & Marshall Breger, opinion contributors",
+            "title": "Lessons for Israel and Palestine from Cambodia’s transition to democracy - The Hill",
+            "description": "Breaking the cycle of violence requires bold new thinking untethered to the 30-year-old Oslo process.",
+            "url": "https://thehill.com/opinion/international/4285982-lessons-for-israel-and-palestine-from-cambodias-transition-to-democracy/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/GettyImages-1766677863.jpg?w=1280",
+            "publishedAt": "2023-11-01T16:03:00Z",
+            "content": "Skip to content\r\nAn Israeli invasion of Gaza — in response to Hamas’s horrific attack against Israel, resulting in the killing and injuring of innocent Israelis and Palestinians — is under way.\r\nSecu… [+6233 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Hindustan Times"
+                "name": "Eatingwell.com"
             },
-            "author": "Sumanti Sen",
-            "title": "Woman Matthew Perry was pictured with a day before death is model Athenna Crosby - Hindustan Times",
-            "description": "Photos of Matthew Perry and Athenna Crosby surfaced online, showing them in the midst of a conversation at a circular table | Hollywood",
-            "url": "https://www.hindustantimes.com/entertainment/hollywood/woman-matthew-perry-was-pictured-with-a-day-before-death-identified-as-model-athenna-crosby-he-was-so-happy-101698889125444.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/02/1600x900/Perry_1698889642595_1698889643514.jpg",
-            "publishedAt": "2023-11-02T01:53:06Z",
-            "content": "A woman Matthew Perry was pictured with a day before his death has been identified asAthenna Crosby, a 25-year-old model and entertainment reporter. Photos of Perry and Crosby surfaced online, showin… [+1851 chars]"
+            "author": "https://www.facebook.com/EatingWell/",
+            "title": "Walking Just 3,000 Steps a Day Might Improve Longevity, According to New Research - EatingWell",
+            "description": "Walk your way to a longer life: New research shows 8,000 steps a day may be all you need for better health and longevity.",
+            "url": "https://www.eatingwell.com/walking-3000-steps-longevity-new-research-8385607",
+            "urlToImage": "https://www.eatingwell.com/thmb/Hfq_yt4wGzHFNOR8fAPVhIQZwYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/New-Research-Says-Walking-Just-8000-Steps-a-Day-Might-Add-Years-to-Your-Life-82890dc611454ee79952df7a3afbf624.jpg",
+            "publishedAt": "2023-11-01T16:01:06Z",
+            "content": "You may have heard that walking 10,000 steps a day can lead to a healthier life, but that magic number might not be as accurate as once thought. In fact, the idea of 10,000 steps, which emerged from … [+4354 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deseret News"
+                "name": "Space.com"
             },
-            "author": "Lisa Riley Roche",
-            "title": "Masks protect against COVID-19, new study published by JAMA shows - Deseret News",
-            "description": "Utah public health expert says science behind masking settled",
-            "url": "https://www.deseret.com/utah/2023/11/1/23942151/covid-mask-jama-study-danish-mandate-utah-public-health",
-            "urlToImage": "https://deseret.brightspotcdn.com/dims4/default/c3cc5e8/2147483647/strip/true/crop/3000x1713+0+181/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FR1ycyTcez__n3_Nr_KUGlrZsogY%3D%2F0x0%3A3000x2074%2F3000x2074%2Ffilters%3Afocal%281500x1037%3A1501x1038%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F25050359%2Fmerlin_2905248.jpg",
-            "publishedAt": "2023-11-02T00:32:00Z",
-            "content": "Masks provide protection from COVID-19, says a new study published by the Journal of the American Medical Association.\r\nMasking in the community to reduce the spread of SARS-CoV-2 (the virus that cau… [+4107 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Chuckles, smiles and mispronunciation - Inside Donald Trump Jr's courtroom debut - BBC.com",
-            "description": "The eldest son of the former president appeared confident on the stand as he testified on Wednesday.",
-            "url": "https://www.bbc.com/news/world-us-canada-67293355",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/385D/production/_131592441_9991ce7e336f6328d09ff451fb02b47810a2e64d0_408_5500_30941000x563.jpg",
-            "publishedAt": "2023-11-02T00:23:20Z",
-            "content": "Media caption, Donald Trump Jr: 'I should have worn make-up'\r\n\"I should have worn make-up,\" Donald Trump Jr quipped on Wednesday as a group of photographers rushed into court to take his picture.\r\nAs… [+3289 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Eric Revell",
-            "title": "Realtors liable for $1.8 billion in damages for commission inflation - Fox Business",
-            "description": "A federal jury in Kansas City held the National Association of Realtors and several residential brokerages liable for $1.78 billion in damages for inflating home sales commissions.",
-            "url": "https://www.foxbusiness.com/economy/realtors-liable-1-8-billion-damages-commission-inflation",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/For-sale-sign.jpg?ve=1&tl=1",
-            "publishedAt": "2023-11-01T22:57:40Z",
-            "content": "The National Association of Realtors and several residential brokerages were found guilty by a Missouri jury on Tuesday of conspiring to artificially inflate commissions for home sales\r\n and held lia… [+3175 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Nathaniel Weixel",
-            "title": "Millions more adults should be screened for lung cancer under new American Cancer Society guidelines - The Hill",
-            "description": "Nearly 5 million additional Americans should be screened for lung cancer, according to an updated guideline released Wednesday by the American Cancer Society (ACS).  The update marks the first change to screening recommendations in a decade. The group now rec…",
-            "url": "https://thehill.com/policy/healthcare/4288001-new-acs-guidelines-millions-more-should-be-screened-for-lung-cancer/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2019/11/ca_cigarette_111919_istock.jpg?w=1280",
-            "publishedAt": "2023-11-01T20:19:00Z",
-            "content": "Skip to content\r\nNearly 5 million additional Americans should be screened for lung cancer, according to an updated guideline released Wednesday by the American Cancer Society (ACS). \r\nThe update mark… [+2407 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PhoneArena"
-            },
-            "author": "Alan Friedman",
-            "title": "Confusion led Galaxy S20, Galaxy Note 20 owners to expect an update to Android 14 - PhoneArena",
-            "description": "Miscommunication between Samsung and some customers left the latter thinking that their 2020 phones were getting Android 14.",
-            "url": "https://www.phonearena.com/news/no-android-14-for-owners-of-2020-galaxy-phones_id152196",
-            "urlToImage": "https://m-cdn.phonearena.com/images/article/152196-wide-two_1200/Confusion-led-Galaxy-S20-Galaxy-Note-20-owners-to-expect-an-update-to-Android-14.jpg",
-            "publishedAt": "2023-11-01T19:47:39Z",
-            "content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Jeff Smith",
-            "title": "Sixers' Tyrese Maxey Gives Insight Into Message He Had for James Harden After Clippers Trade - Sports Illustrated",
-            "description": "The 76ers’ talented young playmaker had a message for his ex-teammate.",
-            "url": "https://www.si.com/nba/2023/11/01/76ers-clippers-james-harden-trade-tyrese-maxey-message",
-            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTkzMzUxMzg1NjA4MTAzODQz/james-harden-tyrese-maxey-76ers.jpg",
-            "publishedAt": "2023-11-01T17:04:41Z",
-            "content": "The next era of 76ers basketball is now officially underway, even if it technically began at the start of the 2023–24 NBA season. Following the trade that sent disgruntled guard James Harden to the C… [+1318 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "Massive anomaly within Earth's mantle may be remnant of collision that formed moon - Phys.org",
-            "description": "An interdisciplinary international research team has recently discovered that a massive anomaly deep within the Earth's interior may be a remnant of the collision about 4.5 billion years ago that formed the moon.",
-            "url": "https://phys.org/news/2023-11-massive-anomaly-earth-mantle-remnant.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/heterogeneity-of-earth.jpg",
-            "publishedAt": "2023-11-01T16:37:10Z",
-            "content": "An interdisciplinary international research team has recently discovered that a massive anomaly deep within the Earth's interior may be a remnant of the collision about 4.5 billion years ago that for… [+7537 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Commerce.gov"
-            },
-            "author": null,
-            "title": "At the Direction of President Biden, Department of Commerce to Establish U.S. Artificial Intelligence Safety Institute to Lead Efforts on AI Safety - US Department of Commerce",
-            "description": "Today, the Biden-Harris Administration announced that the U.S. Department of Commerce, through the National Institute of Standards and Technology (NIST), will establish the U.S. Artificial Intelligence Safety Institute (USAISI) to lead the U.S. government’s e…",
-            "url": "https://www.commerce.gov/news/press-releases/2023/11/direction-president-biden-department-commerce-establish-us-artificial",
-            "urlToImage": "https://www.commerce.gov/sites/default/files/2021-03/commerce_twittercard_default.png",
-            "publishedAt": "2023-11-01T13:00:00Z",
-            "content": "Today, the Biden-Harris Administration announced that the U.S. Department of Commerce, through the National Institute of Standards and Technology (NIST), will establish the U.S. Artificial Intelligen… [+2694 chars]"
+            "author": "Daisy Dobrijevic",
+            "title": "Solar eruption carves colossal 'canyon of fire' in the sun's southern hemisphere (video) - Space.com",
+            "description": "The fiery chasm was at least double the width of the United States.",
+            "url": "https://www.space.com/sun-eruption-filaments-carve-canyon-of-fire",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QikSACDCr4wHWVmuE7HSh6-1200-80.gif",
+            "publishedAt": "2023-11-01T13:50:21Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
         },
         {
             "source": {
@@ -417,45 +469,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/d63BwvVZd22DGbbao8NwCR-1200-80.jpg",
             "publishedAt": "2023-11-01T12:31:33Z",
             "content": "We already know that the iPhone 15 Pro Max camera is incredible, and so does Apple – which is why the company has made such a big deal of the fact that its latest product reveal, this week's 'Scary F… [+1841 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Zac Hall",
-            "title": "Apple just started rolling out new AirTag firmware - 9to5Mac",
-            "description": "Lest you think a space black MacBook Pro was the biggest news of the week, Apple is back with an...",
-            "url": "https://9to5mac.com/2023/10/31/airtag-firmware-update/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/everything-to-know-about-airtag-faq.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-10-31T19:27:00Z",
-            "content": "Lest you think a space black MacBook Pro was the biggest news of the week, Apple is back with an all-new version of AirTag firmware. Still think the black aluminum laptop is more exciting? Fair. Neve… [+1195 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "News-Medical.Net"
-            },
-            "author": null,
-            "title": "Study finds pleasurable music and 'chills' predict music-induced hypoalgesia - News-Medical.Net",
-            "description": "In the present study, researchers evaluated which subjective aspects of listening to relaxing and favorite music were crucial for hypoalgesia.",
-            "url": "https://www.news-medical.net/news/20231031/Study-finds-pleasurable-music-and-chills-predict-music-induced-hypoalgesia.aspx",
-            "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_763069_16987562004385562.jpg",
-            "publishedAt": "2023-10-31T12:52:00Z",
-            "content": "In a study published in Frontiers in Pain Research, researchers showed that emotional responses to relaxing and favorite music predict hypoalgesia.\r\nStudy: Emotional responses to favorite and relaxin… [+5296 chars]"
         }
     ]
 }

@@ -1,19 +1,175 @@
 {
     "status": "ok",
-    "totalResults": 64,
+    "totalResults": 68,
     "articles": [
         {
             "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY",
+            "title": "Solar storms are headed for earth. But, what does that mean really? - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/news/weather/2023/11/03/solar-storms-headed-for-earth/71441571007/",
+            "urlToImage": null,
+            "publishedAt": "2023-11-03T22:19:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "NASA’s Lucy mission went to visit an asteroid and got more than it bargained for - CNN",
+            "description": "NASA’s Lucy mission flew by the asteroid Dinkinesh this week, and the images it captured revealed not one but two space rocks.",
+            "url": "https://www.cnn.com/2023/11/03/world/lucy-dinkinesh-binary-pair-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/dinkinesh-firstlook-llorri.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-11-03T22:10:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nWhen NASAs Lucy mission flew by its first asteroid thi… [+4470 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Space.com"
+            },
+            "author": "John Loeffler",
+            "title": "Meet 'Tenacity:' Sierra Space unveils 1st Dream Chaser space plane (photos) - Space.com",
+            "description": "The vehicle will soon be shipped to a NASA facility for testing.",
+            "url": "https://www.space.com/sierra-space-completes-first-dream-chaser-space-plane-tenacity",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WEdmzgu7f9B946gwFUkVrg-1200-80.jpeg",
+            "publishedAt": "2023-11-03T22:00:36Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflight Now"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "title": "Live coverage: SpaceX to launch Falcon 9 booster from Cape Canaveral on recording-breaking 18th flight – Spaceflight Now - Spaceflight Now",
+            "description": "SpaceX aims to break another re-flight record on Friday evening with the launch of 23 more Starlink satellites on a Falcon 9 booster making its 18th flight. Liftoff from pad 40 at Cape Canaveral Space",
+            "url": "https://spaceflightnow.com/2023/11/03/live-coverage-spacex-to-launch-falcon-9-booster-from-cape-canaveral-on-recording-breaking-18th-flight/",
+            "urlToImage": "http://spaceflightnow.com/wp-content/uploads/2023/07/20230713-Starlink-Fairing-Feature.jpg",
+            "publishedAt": "2023-11-03T20:25:13Z",
+            "content": "The Falcon 9 rocket is hoisted upright at pad 40 in readiness for its Starlink delivery mission on Nov. 3, 2023. Image: Adam Bernstein/Spaceflight Now.\r\nUpdate 2:24 p.m. EDT (1824 UTC): Updated launc… [+3087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Seeing the unseen: How butterflies can help scientists detect cancer - Phys.org",
+            "description": "There are many creatures on our planet with more advanced senses than humans. Turtles can sense Earth's magnetic field. Mantis shrimp can detect polarized light. Elephants can hear much lower frequencies than humans can. Butterflies can perceive a broader ran…",
+            "url": "https://phys.org/news/2023-11-unseen-butterflies-scientists-cancer.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/seeing-the-unseen-how.jpg",
+            "publishedAt": "2023-11-03T20:11:55Z",
+            "content": "There are many creatures on our planet with more advanced senses than humans. Turtles can sense Earth's magnetic field. Mantis shrimp can detect polarized light. Elephants can hear much lower frequen… [+6634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "You've Never Seen Jupiter Look So Much Like Cotton Candy - Gizmodo",
+            "description": "Our solar system’s largest planet is luminous baby blue and pink in a new Hubble image.",
+            "url": "https://gizmodo.com/jupiter-hubble-image-ultraviolet-space-planets-1850990528",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7deefb2ed5015560f4a47d3343468e73.png",
+            "publishedAt": "2023-11-03T19:58:00Z",
+            "content": "You probably know Jupiter, the rotund fifth planet from the Sun, as orange and tan with a big red splotch. But the Hubble Space Telescope recently imaged the gas giant in ultraviolet light, giving th… [+1729 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles",
+            "title": "Collision that formed the moon also created alien blobs inside Earth, study finds - CNN",
+            "description": "Theia, an ancient planet, collided with Earth to form the moon, scientists believe. A new study suggests Theia could have also formed mysterious blobs called large low-velocity provinces, or LLVPs.",
+            "url": "https://www.cnn.com/2023/11/03/world/earth-moon-theia-collision-llvps-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/moon-forming-impactor-1.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-11-03T19:18:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nScientists widely agree that an ancient planet likely … [+6048 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Ancient Denisovan DNA Could Be Increasing Modern Humans' Risk of Mental Health Disorders Like Depression - SciTechDaily",
+            "description": "The research indicates that the genetic variant observed, which affects zinc regulation, could have signified an evolutionary advantage in our ancestors’ adaptation to the cold. Approximately 60,000 years ago, modern humans embarked on a migration from Africa…",
+            "url": "https://scitechdaily.com/ancient-denisovan-dna-could-be-increasing-modern-humans-risk-of-mental-health-disorders-like-depression/",
+            "urlToImage": "https://scitechdaily.com/images/Ancient-Human-Brain-DNA.jpg",
+            "publishedAt": "2023-11-03T18:33:14Z",
+            "content": "Modern humans interbred with Denisovans in Asia, which conferred a genetic adaptation for zinc regulation that helped humans adapt to cold climates, a trait widespread in non-African populations toda… [+4608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Ben Turner",
+            "title": "NASA reveals 1st sample collected from potentially hazardous asteroid Bennu to public — and it may contain the seeds of life - Livescience.com",
+            "description": "The sample from the asteroid Bennu, collected by the OSIRIS-REx mission, was unveiled at the Smithsonian's National Museum of Natural History in Washington, D.C., on Friday.",
+            "url": "https://www.livescience.com/space/nasa-reveals-1st-sample-collected-from-potentially-hazardous-asteroid-bennu-to-public-and-it-may-contain-the-seeds-of-life",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JCC9bDaFvpjNtxzbAtFqqG-1200-80.jpg",
+            "publishedAt": "2023-11-03T17:43:38Z",
+            "content": "An Earth-threatening asteroid may be the last thing you want to see — unless it's in the confines of a museum. Today (Nov. 3), the Smithsonian's National Museum of Natural History revealed the first … [+4113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Matthew Rozsa",
+            "title": "Starfish are walking heads with their buttholes pointed to the sky, study reveals - Salon",
+            "description": "Starfish have a mysterious body plan — and scientists figured out they're basically walking heads",
+            "url": "https://www.salon.com/2023/11/03/starfish-are-walking-heads-with-their-buttholes-pointed-to-the-sky-study-reveals/",
+            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/11/sea_stars_ocean_floor_521096038.jpg",
+            "publishedAt": "2023-11-03T17:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Astronomy Magazine"
+            },
+            "author": "Elizabeth Gamillo",
+            "title": "How long is a year on other planets? - Astronomy Magazine",
+            "description": "This is how long a year is on other planets in our solar system, beginning with Mercury at about 176 Earth days to complete its orbit.",
+            "url": "https://www.astronomy.com/science/how-long-is-a-year-on-other-planets/",
+            "urlToImage": "https://www.astronomy.com/wp-content/uploads/sites/2/2023/02/Planets2013.jpg",
+            "publishedAt": "2023-11-03T17:13:02Z",
+            "content": "The planets within our solar system are in constant motion in their orbits and as they spin on their axes. All planets in our solar system revolve around the Sun. But the time they take to complete o… [+6457 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IFLScience"
+            },
+            "author": "Dr. Alfredo Carpineti",
+            "title": "Saturn's Rings Will Disappear From View In 2025 - IFLScience",
+            "description": "As we approach the day, you’ll be able to see the rings at their… finest.",
+            "url": "https://www.iflscience.com/saturns-rings-will-disappear-from-view-in-2025-71417",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/71417/aImg/71833/tilt-meta.png",
+            "publishedAt": "2023-11-03T16:00:16Z",
+            "content": "Astrophotographers and amateur astronomers this is your 18-month warning that Saturns rings are about to disappear from your images of the planet. Due to the tilt of the planet in its orbit around th… [+1876 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Howell",
+            "title": "James Webb Space Telescope reveals distances of nearly 200 deep-space galaxies - Space.com",
+            "description": "The telescope continues to uncover secrets about the universe's history.",
+            "url": "https://www.space.com/james-webb-space-telescope-200-galaxies-distances-revealed",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UqKrHFjGaYQ3Fi9rACt6S9-1200-80.jpg",
+            "publishedAt": "2023-11-03T15:00:01Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
         },
         {
             "source": {
@@ -56,16 +212,16 @@
         },
         {
             "source": {
-                "id": "polygon",
-                "name": "Polygon"
+                "id": null,
+                "name": "IFLScience"
             },
-            "author": "Gita Jackson",
-            "title": "In 2023, No Man’s Sky is a polished diamond - Polygon",
-            "description": "No Man’s Sky is nigh unrecognizable today when compared to its launch — and it’s never been easier to get into Hello Games’ space exploration game.",
-            "url": "https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/fcfj1v4d92hRQz2_WwzYSHrM9o8=/0x75:1920x1080/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25045912/ss_4f501c39d59ca70fe02ced438e43087b0e788074.1920x1080.jpg",
-            "publishedAt": "2023-11-03T13:00:00Z",
-            "content": "No Mans Sky is a game about infinity. Its not just about having infinite things to do, which is how games often express themselves. Its a game about being an inhabitant of an infinite universe, an in… [+7256 chars]"
+            "author": "Laura Simmons",
+            "title": "Genetics Behind Differences In Male And Female Organs Decoded For First Time - IFLScience",
+            "description": "The study sheds light on the differences we can’t see, as well as those we can.",
+            "url": "https://www.iflscience.com/genetics-behind-differences-in-male-and-female-organs-decoded-for-first-time-71411",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/71411/aImg/71825/lions-meta.jpg",
+            "publishedAt": "2023-11-03T12:45:57Z",
+            "content": "All those colorful feathers make it pretty easy to tell a male peacock from a female peahen, and we know that only male lions have manes well, usually, anyway. But sexual dimorphism is more than just… [+3977 chars]"
         },
         {
             "source": {
@@ -83,6 +239,19 @@
         {
             "source": {
                 "id": null,
+                "name": "SpaceNews"
+            },
+            "author": "Jeff Foust",
+            "title": "NASA open to extending ISS beyond 2030 - SpaceNews",
+            "description": "A NASA official opened the door to keeping the International Space Station in operation beyond 2030 if commercial space stations are not yet ready.",
+            "url": "https://spacenews.com/nasa-open-to-extending-iss-beyond-2030/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/03/iss-march2023.jpg",
+            "publishedAt": "2023-11-03T12:02:16Z",
+            "content": "WASHINGTON A NASA official opened the door to keeping the International Space Station in operation beyond 2030 if commercial space stations are not yet ready to take over by the end of the decade.\r\nS… [+3676 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Space.com"
             },
             "author": "Brett Tingley",
@@ -96,6 +265,32 @@
         {
             "source": {
                 "id": null,
+                "name": "indy100"
+            },
+            "author": "Harry Fletcher",
+            "title": "Scientists make crucial discovery on the existence of time travel - indy100",
+            "description": "It’s a hypothetical concept which has fascinated mankind throughout history in both the world of science and fiction, but could we be closer than ever to discovering the existence of time travel? Well no, not exactly. However, scientists have released a new s…",
+            "url": "https://www.indy100.com/science-tech/scientists-discovery-time-travel-2666139336",
+            "urlToImage": "https://www.indy100.com/media-library/image.jpg?id=50358826&width=1200&height=600&coordinates=0%2C177%2C0%2C177",
+            "publishedAt": "2023-11-03T11:19:08Z",
+            "content": "Its a hypothetical concept which has fascinated mankind throughout history in both the world of science and fiction, but could we be closer than ever to discovering the existence of time travel? \r\nWe… [+2404 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Jamie Carter",
+            "title": "How to watch the Taurid meteor showers peak this weekend and next - Livescience.com",
+            "description": "The modest Northern Taurid and Southern Taurid meteor showers peak on separate days over the next week. Here's how to get the most out of the annual display of shooting stars and fireballs.",
+            "url": "https://www.livescience.com/space/meteoroids/how-to-watch-the-taurid-meteor-showers-peak-this-weekend-and-next",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/xcXvC55jwaRTEV6bLiBDdR-1200-80.jpg",
+            "publishedAt": "2023-11-03T11:00:00Z",
+            "content": "The Taurid meteor shower is upon us — but unlike most annual displays of \"shooting stars,\" this one has two peak nights falling five days apart.\r\nKnown for its fireballs — very bright meteors that ap… [+1900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Phys.Org"
             },
             "author": "Tomasz Nowakowski",
@@ -105,19 +300,6 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/research-explores-the-2.jpg",
             "publishedAt": "2023-11-03T10:50:01Z",
             "content": "Using the Australia Telescope Compact Array (ATCA) and the Atacama Large Millimeter/submillimeter Array (ALMA), an international team of astronomers has observed a supernova remnant known as 1E 0102.… [+3547 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "FOX Weather",
-            "title": "Ancient planet could lie within Earth billions of years after collision, study says - New York Post ",
-            "description": "The dense material is located near Earth’s core and, according to researchers, is believed to contain high levels of iron and reacts to seismic waves differently than surrounding solids.",
-            "url": "https://nypost.com/2023/11/03/lifestyle/ancient-planet-could-lie-within-earth/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/Planet-in-planet.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-11-03T10:34:00Z",
-            "content": "Scientists at the California Institute of Technology have announced they believe the planet that collided with Earth billions of years ago could still be inside and led to the formation of the Moon.\r… [+2436 chars]"
         },
         {
             "source": {
@@ -148,15 +330,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Florida Today"
+                "name": "IFLScience"
             },
-            "author": "Florida Today",
-            "title": "SpaceX launch tonight: Everything to know about the Starlink launch from Cape Canaveral - Florida Today",
-            "description": null,
-            "url": "https://www.floridatoday.com/story/tech/science/space/2023/11/03/spacex-launch-day-heres-information-on-todays-starlink-launch-from-cape-canaveral-florida/71373173007/",
-            "urlToImage": null,
-            "publishedAt": "2023-11-03T09:13:27Z",
-            "content": null
+            "author": "Dr. Alfredo Carpineti",
+            "title": "What Would Happen To Your Body In Space Without A Spacesuit? - IFLScience",
+            "description": "No bodily explosion, no instant freezing, and no immediate burned to death.",
+            "url": "https://www.iflscience.com/what-would-happen-to-your-body-in-space-without-a-spacesuit-71405",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/71405/aImg/71817/skelly-meta.jpg",
+            "publishedAt": "2023-11-03T09:24:51Z",
+            "content": "There have only been just over 600 people in orbit around the planet and only three cosmonauts Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev have lost their lives above the Kármán line, t… [+2319 chars]"
         },
         {
             "source": {
@@ -226,6 +408,19 @@
         {
             "source": {
                 "id": null,
+                "name": "News-Medical.Net"
+            },
+            "author": null,
+            "title": "Time-lapsed images show how magnesium ions coordinate double-stranded breaks in CRISPR-Cas9 - News-Medical.Net",
+            "description": "The gene-editing technology known as CRISPR has led to revolutionary changes in agriculture, health research and more.",
+            "url": "https://www.news-medical.net/news/20231102/Time-lapsed-images-show-how-magnesium-ions-coordinate-double-stranded-breaks-in-CRISPR-Cas9.aspx",
+            "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/7/CRISPR_locus_on_DNA_sequence-Catalin_Rusnac_51742dddb09c41d2924841b1b4decc7a-620x480.jpg",
+            "publishedAt": "2023-11-03T03:57:00Z",
+            "content": "The gene-editing technology known as CRISPR has led to revolutionary changes in agriculture, health research and more.\r\nIn research published in Nature Catalysis, scientists at Florida State Universi… [+3126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "ScienceAlert"
             },
             "author": "Carly Cassella",
@@ -252,19 +447,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Giantfreakinrobot.com"
-            },
-            "author": "Chris Snellgrove",
-            "title": "There's A Plant That Eats Human Tissue, Seriously - Giant Freakin Robot",
-            "description": "It can be hard to sympathize with a fly (unless it’s as cute as Jeff Goldblum, of course), but when … Continue reading \"There’s A Plant That Eats Human Tissue, Seriously\"",
-            "url": "https://www.giantfreakinrobot.com/?p=572410",
-            "urlToImage": "https://www.giantfreakinrobot.com/wp-content/uploads/2022/12/little-shop-of-horrors-alien-900x506.jpg",
-            "publishedAt": "2023-11-02T21:28:37Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Live Science"
             },
             "author": "Briley Lewis",
@@ -274,6 +456,19 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/KUFUiFxR2VWjBK5mCYq87e-1200-80.jpg",
             "publishedAt": "2023-11-02T21:09:47Z",
             "content": "Demoted planet Pluto\r\n may have an ice volcano on its surface the size of Yellowstone, scientists recently discovered.\r\nThe newly discovered volcano, Kiladze Caldera, was originally pegged as a crate… [+2956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "NASA Apologizes for Not Supporting Your Plans to Visit Jupiter - Gizmodo",
+            "description": "The space agency received some online backlash for crushing people's dreams.",
+            "url": "https://gizmodo.com/nasa-apology-jupiter-spacex-travel-humans-mars-1850987118",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/410d5d8cae01ba8fc6ec18d93598369d.jpg",
+            "publishedAt": "2023-11-02T20:55:00Z",
+            "content": "NASA issued an apology for a slightly shady post on X that questioned peoples ability to visit Jupiter.\r\nIn a recent social media post, NASA wrote, Is visiting Jupiter on your bucket list? Lets face … [+2585 chars]"
         },
         {
             "source": {
@@ -317,28 +512,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Giantfreakinrobot.com"
-            },
-            "author": "Zack Zagranis",
-            "title": "NASA Releases Creepy Solar System Recordings - Giant Freakin Robot",
-            "description": "They say that in space, no one can hear you scream. That’s good because that means that no one will … Continue reading \"NASA Releases Creepy Solar System Recordings\"",
-            "url": "https://www.giantfreakinrobot.com/sci/creepy-solar-system-recordings.html",
-            "urlToImage": "https://www.giantfreakinrobot.com/wp-content/uploads/2023/10/milky-way-nebula-galaxy-space-stars.jpg",
-            "publishedAt": "2023-11-02T20:20:50Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "title": "“Once-in-a-Lifetime Find” – Scientists Discover Fossil Treasure Trove Under Wastewater Pipe - SciTechDaily",
+            "description": "Fossils of the world's oldest known flax snails, an extinct sawshark spine, and great white shark teeth were all unearthed in a pile of sand that had been excavated from under the Mangere Wastewater Treatment Plant in 2020. A paper recently published in the N…",
+            "url": "https://scitechdaily.com/once-in-a-lifetime-find-scientists-discover-fossil-treasure-trove-under-wastewater-pipe/",
+            "urlToImage": "https://scitechdaily.com/images/Mangere-Wastewater-Treatment-Plant-Fossils-scaled.jpg",
+            "publishedAt": "2023-11-02T20:20:38Z",
+            "content": "ByTaylor &amp; Francis GroupNovember 2, 2023\r\nA wastewater dig unearthed a 3-million-year-old fossil bed with 266 species, offering a snapshot of diverse ancient marine life. Credit: Bruce Hayward\r\nF… [+4314 chars]"
         },
         {
             "source": {
@@ -382,6 +564,19 @@
         {
             "source": {
                 "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Space.com"
             },
             "author": "Sharmila Kuthunur",
@@ -395,28 +590,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
+                "name": "YouTube"
             },
-            "author": "Sarah Hansen",
-            "title": "First-ever observation of a virus attaching to another virus - Phys.org",
-            "description": "No one had ever seen one virus latching onto another virus, until anomalous sequencing results sent a UMBC team down a rabbit hole leading to a first-of-its-kind discovery.",
-            "url": "https://phys.org/news/2023-11-first-ever-virus.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/umbc-team-makes-first.jpg",
-            "publishedAt": "2023-11-02T18:59:22Z",
-            "content": "No one had ever seen one virus latching onto another virus, until anomalous sequencing results sent a UMBC team down a rabbit hole leading to a first-of-its-kind discovery.\r\nIt's known that some viru… [+5808 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "Kris Holt",
-            "title": "A commercial spaceplane capable of orbital flight is ready for NASA testing - Engadget",
-            "description": "NASA will soon start testing what's dubbed as the world’s first commercial spaceplane capable of orbital flight. All going well, Sierra Space’s Dream Chaser ...",
-            "url": "https://www.engadget.com/a-commercial-spaceplane-capable-of-orbital-flight-is-ready-for-nasa-testing-185542776.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-11/139f5c40-79b0-11ee-9fef-1c860f8c6f80",
-            "publishedAt": "2023-11-02T18:55:42Z",
-            "content": "NASA will soon start testing what is dubbed as the worlds first commercial spaceplane capable of orbital flight, which will eventually be used to resupply the International Space Station. The agency … [+3368 chars]"
+            "author": null,
+            "title": "What's Up: November 2023 Skywatching Tips from NASA - NASA Jet Propulsion Laboratory",
+            "description": "What are some skywatching highlights in November 2023?The Leonid meteors peak, Saturn sits in the celestial sea, and Venus and Jupiter are visible on opposit...",
+            "url": "https://www.youtube.com/watch?v=lZSC8EosER8",
+            "urlToImage": "https://i.ytimg.com/vi/lZSC8EosER8/maxresdefault.jpg",
+            "publishedAt": "2023-11-02T18:44:32Z",
+            "content": null
         },
         {
             "source": {
@@ -434,28 +616,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Live Science"
+                "name": "Science.org"
             },
-            "author": "Harry Baker",
-            "title": "Massive solar eruption carves 60000-mile-long 'canyon of fire' into the sun on Halloween night - Livescience.com",
-            "description": "A powerful explosion from the sun briefly opened up an enormous valley on the solar surface that was more than twice as wide as the contiguous U.S. and seven times longer than Earth.",
-            "url": "https://www.livescience.com/space/the-sun/massive-solar-eruption-carves-60000-mile-long-canyon-of-fire-into-the-sun-on-halloween-night",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ojCEV7fhp9xKdrUot7jdva-1200-80.gif",
-            "publishedAt": "2023-11-02T18:03:32Z",
-            "content": "Late on Oct. 31, a massive loop of plasma broke off from the sun and temporarily left behind a massive canyon in the solar surface. (Image credit: NASA/SOHO)\r\nA massive plume of plasma that erupted f… [+2964 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ashley Strickland",
-            "title": "Starfish bodies aren’t bodies at all, study finds - CNN",
-            "description": "The heads of most animals are easily identifiable, but scientists haven’t been able to say the same for sea stars — until now.",
-            "url": "https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/adult-patiria-from-the-paper.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-11-02T16:16:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe heads of most animals are easily identifiable, but… [+6984 chars]"
+            "author": "Science",
+            "title": "Volitional activation of remote place representations with a hippocampal brain–machine interface - Science",
+            "description": null,
+            "url": "https://www.science.org/doi/10.1126/science.adh5206",
+            "urlToImage": null,
+            "publishedAt": "2023-11-02T18:00:00Z",
+            "content": null
         },
         {
             "source": {
@@ -473,32 +642,6 @@
         {
             "source": {
                 "id": null,
-                "name": "indy100"
-            },
-            "author": "Harry Fletcher",
-            "title": "Scientists make crucial discovery on the existence of time travel - indy100",
-            "description": "It’s a hypothetical concept which has fascinated mankind throughout history in both the world of science and fiction, but could we be closer than ever to discovering the existence of time travel? Well no, not exactly. However, scientists have released a new s…",
-            "url": "https://www.indy100.com/science-tech/scientists-discovery-time-travel",
-            "urlToImage": "https://www.indy100.com/media-library/image.jpg?id=50358826&width=1200&height=600&coordinates=0%2C177%2C0%2C177",
-            "publishedAt": "2023-11-02T16:10:48Z",
-            "content": "Its a hypothetical concept which has fascinated mankind throughout history in both the world of science and fiction, but could we be closer than ever to discovering the existence of time travel? \r\nWe… [+2404 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Harry Baker",
-            "title": "Astronaut captures image of a glowering 'skull' lurking in a giant volcanic pit in the Sahara - Space.com",
-            "description": "NASA has released a new image of an eerie, cranium-shaped caldera in the Sahara Desert, which looks like it is staring right at the orbiting camera.",
-            "url": "https://www.livescience.com/planet-earth/volcanos/astronaut-captures-image-of-a-glowering-skull-lurking-in-a-giant-volcanic-pit-in-the-sahara",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qwoqjkaz7d2KsfY4M5KeDH-1200-80.jpg",
-            "publishedAt": "2023-11-02T16:00:06Z",
-            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Canadian Running Magazine"
             },
             "author": "Keeley Milne",
@@ -508,6 +651,19 @@
             "urlToImage": "https://runningmagazine.ca/wp-content/uploads/2023/11/runners-in-a-race.jpg",
             "publishedAt": "2023-11-02T15:50:12Z",
             "content": "Many runners rely on gels and sports drinks to help them power through a taxing marathon or ultra, but a new study suggests we may be using our brains to fuel us as well. Researchers discovered that … [+1958 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Janos Krüger",
+            "title": "Textbook knowledge turned on its head: 3-in-1 microorganism discovered - Phys.org",
+            "description": "A team of researchers has now been able to show that there is an incredibly high biodiversity of environmentally relevant microorganisms in nature. This diversity is at least 4.5 times greater than previously known. The researchers recently published their fi…",
+            "url": "https://phys.org/news/2023-11-textbook-knowledge-in-microorganism.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/textbook-knowledge-tur.jpg",
+            "publishedAt": "2023-11-02T15:29:03Z",
+            "content": "Phylogenomic reconstruction and metabolic potential of 19 Acidobacteriota metagenome assembled genomes (MAGs) recovered in this study. MAGs from this study (bold) that contained dsrAB are highlighted… [+6160 chars]"
         },
         {
             "source": {
@@ -524,16 +680,16 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Inverse"
             },
-            "author": "Inverse",
+            "author": null,
             "title": "Hot Jupiters Orbit Young Stars Because Old Ones Already Ate Them - Inverse",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmludmVyc2UuY29tL3NjaWVuY2UvaG90LWp1cGl0ZXJzLXlvdW5nLXN0YXJz0gEA?oc=5",
-            "urlToImage": null,
+            "description": "A common type of planet (that our Solar System is surprisingly lacking), hot Jupiters don’t last long in their close-in orbits.",
+            "url": "https://www.inverse.com/science/hot-jupiters-young-stars",
+            "urlToImage": "https://imgix.bustle.com/uploads/image/2023/11/1/2999db52-a8a3-411f-bf12-8af28d37d237-790e35f2-b602-46b9-93bb-746e87df1aa0-getty-89614675.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
             "publishedAt": "2023-11-02T15:16:48Z",
-            "content": null
+            "content": "Our Solar System is missing one of the most common types of planets in the universe: Hot Jupiters.\r\nAs the name suggests, these gas giants are much like our Jupiter in the outer Solar System but, ins… [+5181 chars]"
         },
         {
             "source": {
@@ -590,15 +746,28 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Eos"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Matthew R. Francis",
+            "title": "Five Martian Mysteries That Have Scientists Scratching Their Heads - Eos",
+            "description": "Despite centuries of study and many spacecraft visits, the Red Planet still holds secrets. Here are just a few.",
+            "url": "http://eos.org/articles/five-martian-mysteries-that-have-scientists-scratching-their-heads",
+            "urlToImage": "https://eos.org/wp-content/uploads/2023/10/mars.png",
+            "publishedAt": "2023-11-02T13:15:54Z",
+            "content": "Mars looms large in the scientific imagination, as well as in fiction. Of all the worlds of the solar system, its the only one Earth-like enough for exploration with Earth-like tools: Its atmosphere … [+8736 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Samantha Mathewson",
+            "title": "See the world's largest telescope dwarfed by the Full Hunter's Moon (photo) - Space.com",
+            "description": "The photo was taken Oct. 28, the same day much of the Eastern Hemisphere was treated to a lunar eclipse.",
+            "url": "https://www.space.com/worlds-largest-telescope-elt-moon-illusion-photo",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/vak9nMzXpdMkFTPq5aCYRQ-1200-80.jpg",
+            "publishedAt": "2023-11-02T12:00:31Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
         },
         {
             "source": {
@@ -616,6 +785,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jeremiah Budin",
+            "title": "Researchers find first extensive mature population of invasive species in Europe: ‘One of the worst invasive alien species’ - Yahoo News",
+            "description": "A recent United Nations–backed report found that society spends $423 billion fighting invasive species every year.",
+            "url": "https://news.yahoo.com/researchers-first-extensive-mature-population-110000629.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/k7E88EeQE8nBur3eAGxfYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_cool_down_737/ccb0f3484dde79b5d23972241aae9528",
+            "publishedAt": "2023-11-02T11:00:00Z",
+            "content": "Changing temperatures around the world are bad news for everyone everyone, that is, except for fire ants, who have taken this opportunity to expand into Europe for the first time, according to a new … [+2383 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Good News Network"
             },
             "author": "Andy Corbley",
@@ -628,29 +810,16 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Phys.org",
-            "title": "What a '2D' quantum superfluid feels like to the touch - Phys.org",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDIzLTExLTJkLXF1YW50dW0tc3VwZXJmbHVpZC5odG1s0gE3aHR0cHM6Ly9waHlzLm9yZy9uZXdzLzIwMjMtMTEtMmQtcXVhbnR1bS1zdXBlcmZsdWlkLmFtcA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2023-11-02T10:00:01Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Esa.int"
+                "name": "Phys.Org"
             },
-            "author": null,
-            "title": "ESA - The future's magnetic pull - European Space Agency",
-            "description": "The future’s magnetic pull",
-            "url": "https://www.esa.int/ESA_Multimedia/Images/2023/11/The_future_s_magnetic_pull",
-            "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/the_future_s_magnetic_pull/25170281-1-eng-GB/The_future_s_magnetic_pull_pillars.jpg",
-            "publishedAt": "2023-11-02T09:41:19Z",
-            "content": null
+            "author": "Science X",
+            "title": "What a '2D' quantum superfluid feels like to the touch - Phys.org",
+            "description": "Researchers from Lancaster University in the UK have discovered how superfluid helium 3He would feel if you could put your hand into it. Dr. Samuli Autti is the lead author of the research published in Nature Communications.",
+            "url": "https://phys.org/news/2023-11-2d-quantum-superfluid.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/what-a-quot2dquot-quan.jpg",
+            "publishedAt": "2023-11-02T10:00:01Z",
+            "content": "Researchers from Lancaster University in the UK have discovered how superfluid helium 3He would feel if you could put your hand into it. Dr. Samuli Autti is the lead author of the research published … [+2827 chars]"
         },
         {
             "source": {
@@ -716,123 +885,6 @@
             "urlToImage": "https://www.sciencealert.com/images/2023/11/white_dwarf_debris.jpg",
             "publishedAt": "2023-11-02T00:06:00Z",
             "content": "Astronomers have found plenty of white dwarf stars surrounded by debris disks. Those disks are the remains of planets destroyed by the star as it evolved. But they've found one intact Jupiter-mass pl… [+7082 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Louise Lerner",
-            "title": "Chemists make breakthrough in drug discovery chemistry: Two methods to replace carbon with a nitrogen atom in a molecule - Phys.org",
-            "description": "For years, if you asked the people working to create new pharmaceutical drugs what they wished for, at the top of their lists would be a way to easily replace a carbon atom with a nitrogen atom in a molecule.",
-            "url": "https://phys.org/news/2023-11-chemists-breakthrough-drug-discovery-chemistry.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/chemists-make-breakthr.jpg",
-            "publishedAt": "2023-11-01T21:06:30Z",
-            "content": "For years, if you asked the people working to create new pharmaceutical drugs what they wished for, at the top of their lists would be a way to easily replace a carbon atom with a nitrogen atom in a … [+4537 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Universe Today"
-            },
-            "author": "Evan Gough",
-            "title": "Next Generation Gravitational Wave Observatories Could Detect 100-600 Solar Mass Black Hole Mergers - Universe Today",
-            "description": "We have a lot to learn about black holes and their place in the Universe. Two new gravitational wave detectors should tell us a lot.",
-            "url": "https://www.universetoday.com/164003/next-generation-gravitational-wave-observatories-could-detect-100-600-solar-mass-black-hole-mergers/",
-            "urlToImage": "https://www.universetoday.com/wp-content/uploads/2023/06/merger.jpg",
-            "publishedAt": "2023-11-01T20:57:44Z",
-            "content": "Humans are born wonderers. We’re always wondering about the next valley over, the next horizon, what we’ll understand next about this vast Universe that we’re all wrapped up in. \r\nIn 2015, we finally… [+8339 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Sharmila Kuthunur",
-            "title": "Future moon astronauts may 3D-print their supplies using lunar minerals - Space.com",
-            "description": "They could make shelters, household items, protective gear and maybe even satellites.",
-            "url": "https://www.space.com/titanium-3d-printing-astronaut-shelter-uv-radiation",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ii2QdZhAKcmMy6DgqoKZuD-1200-80.jpg",
-            "publishedAt": "2023-11-01T19:00:29Z",
-            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Brett Tingley",
-            "title": "NASA finds organic compounds seeping up from hidden ocean on Jupiter's icy moon Ganymede - Livescience.com",
-            "description": "Ganymede, one of the largest moons in the solar system, possesses a salty subsurface ocean that may contain organic compounds, new research finds.",
-            "url": "https://www.space.com/jupiter-moon-ganymede-organics-salts",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SGaSxTQPhBnGqdY4Te8RnD-1200-80.jpg",
-            "publishedAt": "2023-11-01T18:54:08Z",
-            "content": "NASA's Juno spacecraft has detected salts and organic compounds on the surface of Ganymede, Jupiter's largest moon.\r\nThe detection was made during a June 2021 flyby in which Juno analyzed Ganymede us… [+2950 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Jamie Carter",
-            "title": "Where will the April 2024 total solar eclipse be visible from? - Space.com",
-            "description": "The total eclipse is not to be missed!",
-            "url": "https://www.space.com/what-states-total-solar-eclipse-april-2024-visible-from",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hZ4bBSJ2YUWDJZbBsJHSTU-1200-80.jpg",
-            "publishedAt": "2023-11-01T18:30:50Z",
-            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Iai.tv"
-            },
-            "author": null,
-            "title": "A new theory of matter may help explain life | Lee Cronin - IAI",
-            "description": "Lee Cronin argues that the assembly theory of matter shows how evolution by modification and selection isn’t simply the preserve of life but describes how all matter develops.",
-            "url": "https://iai.tv/articles/a-new-theory-of-matter-may-help-explain-life-lee-cronin-auid-2656",
-            "urlToImage": "",
-            "publishedAt": "2023-11-01T18:02:59Z",
-            "content": "The current picture of matter that physics offers us is unable to explain how life evolved from inorganic materials. The problem seems to be with physics defining matter simply in terms of its buildi… [+10923 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Science.org"
-            },
-            "author": "Science",
-            "title": "Where did shoulders come from? Ancient fish reveal joint's evolution - Science",
-            "description": null,
-            "url": "https://www.science.org/content/article/where-did-shoulders-come-ancient-fish-reveal-joint-s-evolution",
-            "urlToImage": null,
-            "publishedAt": "2023-11-01T16:20:56Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Samantha Mathewson",
-            "title": "Hubble Telescope sees spiral galaxy dancing through the Dorado constellation (image) - Space.com",
-            "description": "A new, face-on view of the \"Spanish Dancer\" galaxy is a sight to behold.",
-            "url": "https://www.space.com/spiral-galaxy-dances-dorado-hubble-photo",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/vWcARZgy5iXxqJKryCK5XH-1200-80.jpg",
-            "publishedAt": "2023-11-01T16:00:08Z",
-            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
         }
     ]
 }

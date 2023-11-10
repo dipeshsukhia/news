@@ -1,7 +1,46 @@
 {
     "status": "ok",
-    "totalResults": 64,
+    "totalResults": 63,
     "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Marlene Cimons",
+            "title": "Traumatic brain injuries increase risk of strokes for older adults - The Washington Post",
+            "description": "Regardless of severity, brain injuries raise the risk of strokes, and having more than one such injury further increases the likelihood of a stroke.",
+            "url": "https://www.washingtonpost.com/wellness/2023/11/09/traumatic-brain-injuries-stroke-risk/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KON6KINFKNBZPODCGSCQZRDMVE.jpg&w=1440",
+            "publishedAt": "2023-11-09T11:37:21Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nFalling and hitting your head is always a concerning risk for older adults. Now new research finds that a traumatic brain injury regar… [+4658 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Dr. Tom Frieden: Covid-19 is still around, and so are these misconceptions - CNN",
+            "description": "Covid-19 hasn’t gone away, and it won’t any time soon. It’s now part of the landscape of health threats. Although the coronavirus continues to kill and cause lasting damage, our immunity, vaccines and treatments have tamed the pandemic.",
+            "url": "https://www.cnn.com/2023/11/09/health/tom-frieden-covid-19-misconceptions/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231108180448-covid-vaccine-01052023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-11-09T11:14:00Z",
+            "content": "Editors note: Dr. Tom Frieden was director of the US Centers for Disease Control and Prevention from 2009 to 2017, where he oversaw responses to the H1N1 influenza, Ebola and Zika epidemics. He is pr… [+8217 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "Lung cancer pill shows ‘earth-shattering’ results in 5-year study: ‘An optimistic time’ - Fox News",
+            "description": "Many lung cancer patients now have access to a potentially life-saving new medication called Tagrisso. A surgeon from Hackensack Meridian and a patient share their experiences with the drug.",
+            "url": "https://www.foxnews.com/health/lung-cancer-pill-shows-earth-shattering-results-5-year-study-optimistic-time",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/lung-cancer-pill-doctor-patient.jpg",
+            "publishedAt": "2023-11-09T10:00:00Z",
+            "content": "Many lung cancer patients\r\n now have access to a potentially life-saving medication.\r\nOsimertinib, sold under the brand name Tagrisso, is available to patients with Stage 1B-3A lung cancer who have a… [+5949 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -18,15 +57,15 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "ScienceAlert"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "The Conversation",
+            "title": "Ketamine Can Ease Depression And PTSD Within 1 Day, Study Finds - ScienceAlert",
+            "description": "The drug ketamine can reduce the symptoms of post-traumatic stress disorder, or PTSD, and symptoms of depression in patients as early as a day after injection.",
+            "url": "https://www.sciencealert.com/ketamine-can-ease-depression-and-ptsd-within-1-day-study-finds",
+            "urlToImage": "https://www.sciencealert.com/images/2023/07/MansEyeAmidBlurredLights.jpg",
+            "publishedAt": "2023-11-09T01:27:42Z",
+            "content": "The drug ketamine can reduce the symptoms of post-traumatic stress disorder, or PTSD, and symptoms of depression in patients as early as a day after injection. That is the key finding of my team's ne… [+4178 chars]"
         },
         {
             "source": {
@@ -86,12 +125,51 @@
                 "name": "nejm.org"
             },
             "author": "nejm.org",
+            "title": "Alzheimer's Update, Part 1 — ITT Episode 20 | NEJM - nejm.org",
+            "description": null,
+            "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2309485",
+            "urlToImage": null,
+            "publishedAt": "2023-11-08T22:01:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "nejm.org"
+            },
+            "author": "nejm.org",
+            "title": "Severe Immune-Related Enteritis after In Utero Exposure to Pembrolizumab | NEJM - nejm.org",
+            "description": null,
+            "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2308135",
+            "urlToImage": null,
+            "publishedAt": "2023-11-08T22:01:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "nejm.org"
+            },
+            "author": "nejm.org",
             "title": "Case 34-2023: A 49-Year-Old Woman with Loss of Consciousness and Thrombocytopenia | NEJM - nejm.org",
             "description": null,
             "url": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2300905",
             "urlToImage": null,
             "publishedAt": "2023-11-08T22:01:05Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WRAL.com"
+            },
+            "author": "Ryan Bisesi",
+            "title": "State's COVID numbers show slight dip in hospitalizations; cases of flu, RSV rising faster - WRAL News",
+            "description": "By the numbers, there was a slight dip in the average number of patients hospitalized compared to a week ago, currently at 459. The week of Oct. 28, there was a daily average of 490 people hospitalized with COVID.",
+            "url": "https://www.wral.com/story/coronavirus/story/state-s-covid-numbers-show-slight-dip-in-hospitalizations-cases-of-flu-rsv-rising-faster/21139678/",
+            "urlToImage": "https://wwwcache.wral.com/asset/news/education/2021/11/23/19998481/school_covid_testing-DMID1-5szgvxmni-640x480.jpg",
+            "publishedAt": "2023-11-08T21:52:00Z",
+            "content": "The North Carolina Department of Health and Human Services released the latest COVID, flu and RSV numbers for the state on Wednesday.\r\nThis information includes the number of people currently hospita… [+1216 chars]"
         },
         {
             "source": {
@@ -135,28 +213,28 @@
         {
             "source": {
                 "id": null,
-                "name": "WBOY.com"
+                "name": "Umn.edu"
             },
-            "author": "Sam Kirk",
-            "title": "White-tailed deer with rabies confirmed in West Virginia - WBOY.com",
-            "description": "A free-roaming deer in West Virginia’s Eastern Panhandle tested positive for rabies.",
-            "url": "https://www.wboy.com/wv-outdoors/white-tailed-deer-with-rabies-confirmed-in-west-virginia/",
-            "urlToImage": "https://www.wboy.com/wp-content/uploads/sites/43/2023/10/9fe8d2b5-7000-d9f6-ce0b-4c6b4088031d.jpg?w=1280",
-            "publishedAt": "2023-11-08T21:06:56Z",
-            "content": "CLARKSBURG, W.Va. (WBOY) A free-roaming deer in West Virginia’s Eastern Panhandle tested positive for rabies. \r\nThe Hampshire County Health Department announced Wednesday that the West Virginia Depar… [+1643 chars]"
+            "author": null,
+            "title": "Long COVID linked to allergies in new study - University of Minnesota Twin Cities",
+            "description": null,
+            "url": "https://www.cidrap.umn.edu/covid-19/long-covid-linked-allergies-new-study",
+            "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/iStock-474771466.jpg?itok=zMX4udo0",
+            "publishedAt": "2023-11-08T21:25:31Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Neuroscience News",
-            "title": "Brain States Influence on Decision-Making - Neuroscience News",
-            "description": "New study on mice decision-making reveals that choice is not a singular moment but a reflection of the brain's preexisting state.",
-            "url": "https://neurosciencenews.com/choice-dynamics-decision-making-25178/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/11/choice-dynamics-decision-making-neurosicence.jpg",
-            "publishedAt": "2023-11-08T20:58:17Z",
-            "content": "Summary: New study on mice decision-making reveals that choice is not a singular moment but a reflection of the brain’s preexisting state.\r\nThe research, using Buridan’s Assay, suggests that the mice… [+9511 chars]"
+            "author": "Yahoo Life",
+            "title": "The ‘Most Effective’ Nighttime Skincare Routine For Older Women With Wrinkles & Fine Lines, According To Dermatologists - Yahoo Life",
+            "description": null,
+            "url": "https://www.yahoo.com/lifestyle/most-effective-nighttime-skincare-routine-210047156.html",
+            "urlToImage": null,
+            "publishedAt": "2023-11-08T21:00:47Z",
+            "content": null
         },
         {
             "source": {
@@ -183,6 +261,19 @@
             "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/08/713445e0-8326-47be-ac4f-29a24604e654/thumbnail/1200x630g4/ebb60ef06f51e7b88287b606f4c33178/vax-covid.jpg?v=e2a739f263a10b93b27cae9568461c29",
             "publishedAt": "2023-11-08T20:12:49Z",
             "content": "With Thanksgiving only two weeks away, now's the time to get protected against potentially deadly fall viruses.\r\nIn an interview with CBS News, Dr. Mandy Cohen, director of the Centers for Disease Co… [+1642 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -241,13 +332,13 @@
                 "id": "usa-today",
                 "name": "USA Today"
             },
-            "author": "USA TODAY",
+            "author": "Natalie Neysa Alund",
             "title": "Nearly 1 million chickens infected with bird flu in Minnesota to be killed, per USDA - USA TODAY",
-            "description": null,
+            "description": "USDA stats show more than 1 million chickens are infected with bird flu in Minnesota, and in Iowa (160,850 birds) and South Dakota (300,800 birds).",
             "url": "https://www.usatoday.com/story/news/nation/2023/11/08/chickens-infected-bird-flu-minnesota-killed-usda/71501169007/",
-            "urlToImage": null,
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/02/18/USAT/0d569e1b-a62e-452d-856d-6f5250110f1b-AP23047704066594.jpeg?crop=5569,3133,x0,y549&width=3200&height=1801&format=pjpg&auto=webp",
             "publishedAt": "2023-11-08T17:38:02Z",
-            "content": null
+            "content": "Nearly 1 million chickens in Minnesota have contracted the bird flu in one flock there, the U.S. Department of Agriculture reported this week and under federal guidelines, will be killed in an effort… [+3444 chars]"
         },
         {
             "source": {
@@ -274,6 +365,19 @@
             "urlToImage": "https://neurosciencenews.com/files/2023/11/genetics-sleep-neurosicence.jpg",
             "publishedAt": "2023-11-08T16:55:37Z",
             "content": "Summary: New research reveals that genetic variants influencing sleep patterns in adults also affect children’s sleep quality and duration.\r\nAnalyzing data from 2,458 children, the study found that t… [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -317,6 +421,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "Brain and body are more intertwined than we knew - Nature.com",
+            "description": "A host of disorders once thought to be nothing to do with the brain are, in fact, tightly coupled to nervous-system activity.",
+            "url": "https://www.nature.com/articles/d41586-023-03435-2",
+            "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-03435-2/d41586-023-03435-2_26269206.jpg",
+            "publishedAt": "2023-11-08T16:08:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PsyPost"
+            },
+            "author": "Eric W. Dolan",
+            "title": "New study links childhood trauma to increased anger in adults with and without depressive and anxiety disorders - PsyPost",
+            "description": "A new study finds that childhood trauma is linked to various forms of anger in adults, with emotional neglect and physical abuse as significant predictors. These insights could guide better treatment for affective disorders by incorporating trauma-focused int…",
+            "url": "https://www.psypost.org/2023/11/new-study-links-childhood-trauma-to-increased-anger-in-adults-with-and-without-depressive-and-anxiety-disorders-214394",
+            "urlToImage": "https://www.psypost.org/wp-content/uploads/2023/11/sad-woman.jpg",
+            "publishedAt": "2023-11-08T16:08:08Z",
+            "content": "Childhood trauma has long been known to have lasting psychological effects. A new study delves deeper into how different types of childhood trauma can impact various aspects of anger in adulthood. Th… [+7746 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "WCVB Boston"
             },
             "author": "David Bienick",
@@ -343,19 +473,6 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Multiple Sclerosis News Today"
             },
             "author": "Marisa Wexler, MS",
@@ -365,19 +482,6 @@
             "urlToImage": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2023/06/DrPatientComputer-1.png",
             "publishedAt": "2023-11-08T14:57:09Z",
             "content": "The use of a computer-based program called BrainHQ led to significantly improved scores on cognitive tests among people with multiple sclerosis (MS), according to data from a small clinical trial in … [+4375 chars]"
-        },
-        {
-            "source": {
-                "id": "national-geographic",
-                "name": "National Geographic"
-            },
-            "author": "Janis Jibrin",
-            "title": "Is 'leaky gut' real? It's more complicated than you'd think. - National Geographic",
-            "description": "Dubious claims are out there of leaky gut causing diseases from depression to autoimmune disorders. Experts weighed in on why that may not be the case.",
-            "url": "https://www.nationalgeographic.com/premium/article/leaky-gut-depression-anxiety-disease",
-            "urlToImage": "https://i.natgeofe.com/n/d47151fa-e16b-4052-aba6-9b4bb65e7ca6/C0169067-Intestinal_microvilli_SEM_16x9.jpg?w=1200",
-            "publishedAt": "2023-11-08T14:44:02Z",
-            "content": "Numerous websites have issued warnings about a condition called leaky gut, claiming that it can cause depression, anxiety, autoimmune disorders such as chronic fatigue, eczema, Hashimotos thyroiditis… [+8658 chars]"
         },
         {
             "source": {
@@ -404,19 +508,6 @@
             "urlToImage": "https://miro.medium.com/v2/resize:fit:394/1*XdqnbraRugLElcbwjTwKPA.png",
             "publishedAt": "2023-11-08T14:20:47Z",
             "content": "Introduction\r\nHeart failure, characterized by the hearts inability to pump blood adequately, afflicts millions worldwide and stands as a leading cause of mortality and hospitalization. The complexiti… [+6362 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Conversation Africa"
-            },
-            "author": "C. Michael White",
-            "title": "Ketamine can rapidly reduce symptoms of PTSD and depression, new study finds - The Conversation",
-            "description": "The analysis shows that ketamine may start relieving symptoms of PTSD within one day, but it is still unclear how long the effects last and how many injections are needed to maintain benefits.",
-            "url": "https://theconversation.com/ketamine-can-rapidly-reduce-symptoms-of-ptsd-and-depression-new-study-finds-216077",
-            "urlToImage": "https://images.theconversation.com/files/555141/original/file-20231022-23-svzzue.jpg?ixlib=rb-1.1.0&rect=0%2C771%2C6949%2C3469&q=45&auto=format&w=1356&h=668&fit=crop",
-            "publishedAt": "2023-11-08T13:37:22Z",
-            "content": "The drug ketamine can reduce the symptoms of post-traumatic stress disorder, or PTSD, and symptoms of depression in patients as early as a day after injection. That is the key finding of my teams new… [+4132 chars]"
         },
         {
             "source": {
@@ -498,29 +589,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "STAT"
-            },
-            "author": "Allison DeAngelis",
-            "title": "In the fight against cancer, it's boom times for radiopharmaceuticals - STAT",
-            "description": "Drug companies developing so-called radiopharmaceuticals or radioligand therapies are suddenly making a comeback.",
-            "url": "https://www.statnews.com/2023/11/08/radiopharmaceuticals-boom-times-against-cancer/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2023/11/STAT_Radiopharma_f1_2000x1125-copy-1024x576.jpg",
-            "publishedAt": "2023-11-08T09:33:56Z",
-            "content": "When Ken Song was getting ready to leave his job as the CEO of a small biotech in 2020, he wasnt sure what was next. But he knew one thing.\r\nI deliberately said Im not going to do oncology. Oncology … [+467 chars]"
-        },
-        {
-            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Nikolas Lanum",
-            "title": "Hollywood doctor reveals the treatment celebrities are using to reverse aging, look ten years younger - Fox News",
-            "description": "Hollywood heart transplant cardiologist Dr. Ernst von Schwarz says that celebrities are using stem cell injections to slow aging and improve their skin.",
-            "url": "https://www.foxnews.com/media/hollywood-doctor-treatment-celebrities-reverse-aging-look-younger-stem-cell",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/Doctor-hollywood-stem-cells.png",
-            "publishedAt": "2023-11-08T09:30:00Z",
-            "content": "A now viral heart transplant cardiologist with Hollywood patients revealed that celebrities are now using stem cell injections to extend their lifespan and create a youthful appearance that, in some … [+5822 chars]"
+            "author": "Melissa Rudy",
+            "title": "Diabetes screening may be as simple as speaking into smartphone with new AI app, researchers say - Fox News",
+            "description": "Getting screened for type 2 diabetes could soon be as simple as speaking into your smartphone. Researchers have developed an AI model that uses a 10-second voice recording to predict diabetes risk.",
+            "url": "https://www.foxnews.com/health/diabetes-screening-may-be-simple-speaking-smartphone-new-ai-app-researchers-say",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/Klick-Labs_Jaycee-Kaufman_Yan-Fossat_VoiceDiabetes-125.jpg",
+            "publishedAt": "2023-11-08T10:00:00Z",
+            "content": "Getting screened for type 2 diabetes\r\n could one day be as simple as speaking into your smartphone.\r\nCurrently, gauging diabetes risk requires fasting, taking a blood test and waiting days for the re… [+6746 chars]"
         },
         {
             "source": {
@@ -589,19 +667,6 @@
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "C Mandler",
-            "title": "Experimental implant restores Parkinson's patient's ability to walk, researchers say - CBS News",
-            "description": "The device worked to \"reduce freezing of gait\" by electrically stimulating the Parkinson's patient's spinal cord, according to a new study.",
-            "url": "https://www.cbsnews.com/news/parkinsons-disease-implant-new-study-ability-to-walk-nature-medicine/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/07/0fb48f7b-de43-4b11-9720-25a85fc2e22a/thumbnail/1200x630/16562745b26819aa7b0055392af8998f/patient-with-parkinsondisease-training-with-stimulation-neurorestore-cchuv-gilles-weber-chateau-de-chillon-montreux-veytaux-2.jpg?v=e2a739f263a10b93b27cae9568461c29",
-            "publishedAt": "2023-11-07T21:39:14Z",
-            "content": "A new implant targeting Parkinson's disease has restored one man's ability to walk after 25 years of suffering from the disease, according to a study published in the journal Nature Medicine on Monda… [+2187 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -612,6 +677,32 @@
             "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a1b6eb0b1992b5cbeecb60f0bb5f8ace.jpg",
             "publishedAt": "2023-11-07T21:25:00Z",
             "content": "Viruses are somehow even weirder than we thought. In a recent study published last month, scientists say theyve discovered two new viruses that hijack the machinery of other bacteria-infecting viruse… [+3899 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Children who survive shootings endure huge health obstacles and costs - CNN",
+            "description": "Oronde McClain was struck by a stray bullet on a Philadelphia street corner when he was 10.",
+            "url": "https://www.cnn.com/2023/11/06/health/child-shooting-survivors-health-obstacles-kff-health-news-partner/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231106134627-03-oronde-mcclain.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-11-07T21:11:00Z",
+            "content": "Oronde McClain was struck by a stray bullet on a Philadelphia street corner when he was 10.\r\nThe bullet shattered the back of his skull, splintering it into 36 pieces. McClains heart stopped, and he … [+6421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Delish.com"
+            },
+            "author": "Taylor Ann Spencer",
+            "title": "Is Brown Rice Actually Healthier Than White? - Delish",
+            "description": "Is brown rice actually healthier?",
+            "url": "https://www.delish.com/food-news/a45764869/brown-rice-healthier-than-white/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/rice-and-rice-berry-royalty-free-image-1699387054.jpg?crop=1.00xw:0.530xh;0,0.344xh&resize=1200:*",
+            "publishedAt": "2023-11-07T21:02:30Z",
+            "content": "If youre like me, your parents indoctrinated you with this essential life principle: brown \r\nrice is healthier than white rice. Even now, you cant order a burrito bowl\r\n without an internal argument … [+4150 chars]"
         },
         {
             "source": {
@@ -668,28 +759,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Medical Xpress"
+                "name": "Fredhutch.org"
             },
-            "author": "Science X",
-            "title": "Obesity linked to neurodegeneration through insulin resistance - Medical Xpress",
-            "description": "Researchers led by Mroj Alassaf at the Fred Hutchinson Cancer Research Center in the United States have discovered a link between obesity and neurodegenerative disorders like Alzheimer's disease.",
-            "url": "https://medicalxpress.com/news/2023-11-obesity-linked-neurodegeneration-insulin-resistance.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/obesity-linked-to-neur.jpg",
-            "publishedAt": "2023-11-07T19:00:01Z",
-            "content": "Researchers led by Mroj Alassaf at the Fred Hutchinson Cancer Research Center in the United States have discovered a link between obesity and neurodegenerative disorders like Alzheimer's disease.\r\nUs… [+2803 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "Fungal hybrids study finds climate crisis could trigger outbreak of new and lethal infectious diseases - Phys.org",
-            "description": "The climate emergency poses a major threat to human health. Rising temperatures and changes in ecosystem conditions, coupled with globalization and human action, such as the extensive use of fungicides and antibiotics in agriculture, can favor the emergence a…",
-            "url": "https://phys.org/news/2023-11-fungal-hybrids-climate-crisis-trigger.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/the-climate-crisis-cou.jpg",
-            "publishedAt": "2023-11-07T17:40:05Z",
-            "content": "The climate emergency poses a major threat to human health. Rising temperatures and changes in ecosystem conditions, coupled with globalization and human action, such as the extensive use of fungicid… [+6279 chars]"
+            "author": null,
+            "title": "Insulin resistance turns tidy brain cells into slobs — which could be a link between diet and neurodegenerative diseases - Fred Hutch News Service",
+            "description": "Too much sugar for too long can cause insulin resistance in \"housekeeping\" brain cells that help neurons work properly. Fred Hutchinson Cancer Center scientists showed that insulin-resistant glia become unable to clean up toxic cellular debris. The study in f…",
+            "url": "https://www.fredhutch.org/en/news/center-news/2023/11/rajan-alassaf-glia-insulin-resistance.html",
+            "urlToImage": "https://www.fredhutch.org/content/dam/public/communications/Photo/2023/11-november/231107/social_tease_glia_neurons_illo_getty.JPG",
+            "publishedAt": "2023-11-07T19:02:10Z",
+            "content": "Neurons like it tidy. Brain cells called glia help neurons perform at their best by cleaning up toxic cellular debris. But a diet high in sugar makes glia insulin resistant which turns them into apat… [+3796 chars]"
         },
         {
             "source": {
@@ -720,58 +798,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Salon"
-            },
-            "author": "Nicole Karlis",
-            "title": "Few kids are getting the latest COVID shots. Is it misinformation or a lack of access? - Salon",
-            "description": "COVID vaccines were once hailed as life savers. Now there is profound disinterest in vaccinating kids",
-            "url": "https://www.salon.com/2023/11/07/few-kids-are-getting-the-latest-shots-is-it-misinformation-or-a-lack-of-access/",
-            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/11/nurse_giving_child_covid-19_vaccine_1237841710.jpg",
-            "publishedAt": "2023-11-07T17:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newser"
-            },
-            "author": "Arden Dier",
-            "title": "Young Gun Violence Survivors Face 'Massive Health Crises' - Newser",
-            "description": "Study explores 'unbelievable impact' on young survivors specifically, an understudied issue",
-            "url": "https://www.newser.com/story/342354/inside-the-unbelievable-impact-of-gun-violence-on-survivors.html",
-            "urlToImage": "https://img2-azrcdn.newser.com/image/1501169-12-20231107111315.jpeg",
-            "publishedAt": "2023-11-07T16:45:00Z",
-            "content": "Child survivors of gun violence are just that—survivors. Where others died, they were spared. Yet for many survivors, life after gun violence can feel like a curse. New research, using more than 2,00… [+2619 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Seattle Times"
-            },
-            "author": "JoNel Aleccia",
-            "title": "Drugs aren't required to be tested in people who are obese. Here's why that's a problem - The Seattle Times",
-            "description": "More than 40% of American adults are considered obese, yet the medications many take are rarely tested in bigger bodies.",
-            "url": "https://www.seattletimes.com/seattle-news/health/drugs-arent-required-to-be-tested-in-people-who-are-obese-heres-why-thats-a-problem/",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/11/11072023_medTests-tzrNov7_tzr_082814.jpg?d=1200x630",
-            "publishedAt": "2023-11-07T15:50:11Z",
-            "content": "More than 40% of American adults are considered obese, yet the medications many take are rarely tested in bigger bodies. \r\nThat’s because they are not required to be included in drug studies. And oft… [+5618 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "World Health Organization"
             },
             "author": "World Health Organization: WHO",
@@ -794,45 +820,6 @@
             "urlToImage": "https://i.natgeofe.com/n/3869cd9a-116d-43c1-9976-0ce717e63ed4/P2160002-Heart_with_arteries_CROP_16x9.jpg?w=1200",
             "publishedAt": "2023-11-07T14:06:44Z",
             "content": "Scientists have noticed that COVID-19 can trigger serious cardiovascular problems, especially among older people who have a buildup of fatty material in their blood vessels. But now a new study has r… [+6597 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Health.com"
-            },
-            "author": "https://www.facebook.com/Health/",
-            "title": "Black Rice: Benefits, Nutrition, and Risks - Health.com",
-            "description": "Black rice is a whole grain rich in fiber and antioxidants to support heart health and more. Learn the benefits, nutrition, and risks of black rice.",
-            "url": "https://www.health.com/black-rice-8363550",
-            "urlToImage": "https://www.health.com/thmb/5k34xWN3XjUQl8F2Um_gulpRKcU=/2119x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1475232928-782306100d2a49779e25e22837d9f105.jpg",
-            "publishedAt": "2023-11-07T13:15:00Z",
-            "content": "Black rice, also known as forbidden rice or purple rice, is a whole grain thats been consumed in China, Korea, and Japan for centuries. In ancient China, black rice was reserved exclusively for emper… [+6629 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Madinamerica.com"
-            },
-            "author": "Richard Sears",
-            "title": "Early Intervention Programs Fail to Help Psychosis Patients Rebuild Careers - Mad in America",
-            "description": "Participants in early intervention in psychosis programs report that career specialists often push them toward temporary and low-wage jobs.",
-            "url": "https://www.madinamerica.com/2023/11/early-intervention-programs-fail-to-help-psychosis-patients-rebuild-careers/",
-            "urlToImage": "https://www.madinamerica.com/wp-content/uploads/2023/11/Depositphotos_6685683_S.jpg",
-            "publishedAt": "2023-11-07T11:00:39Z",
-            "content": "A new article published in the Community Mental Health Journal finds service users who had experienced psychosis and received early intervention in psychosis services (EIS) had significant problems f… [+8272 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": null,
-            "title": "The Long Journey to Treat the Long Covid Brain - Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Audio - CNN",
-            "description": "More than three years after the outset of the Covid-19 pandemic, many long Covid patients are still experiencing brain fog, extreme fatigue, and myriad other health issues, leaving some unable to complete even the most basic of daily tasks. How should long Co…",
-            "url": "https://www.cnn.com/audio/podcasts/chasing-life/episodes/8b1424f0-4c23-11ee-92af-2b1db916dece",
-            "urlToImage": "https://www.cnn.com/audio/static/images/podcasts/chasing-life/wide.880809e3.jpg",
-            "publishedAt": "2023-11-07T10:07:30Z",
-            "content": "The Long Journey to Treat the Long Covid Brain\r\nChasing Life36 mins\r\nMore than three years after the outset of the Covid-19 pandemic, many long Covid patients are still experiencing brain fog, extrem… [+466 chars]"
         }
     ]
 }

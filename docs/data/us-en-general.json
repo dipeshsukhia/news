@@ -4,16 +4,146 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Melissa Repko",
+            "title": "Best Buy (BBY) earnings Q3 2024 - CNBC",
+            "description": "Best Buy beat Wall Street's earnings expectations, but cut is full-year sales outlook as it prepares for cost-conscious holiday shoppers.",
+            "url": "https://www.cnbc.com/2023/11/21/best-buy-bby-earnings-q3-2024.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107292713-16932323232021-11-22t231023z_321306043_rc2xzq9p6wat_rtrmadp_0_best-buy-results.jpeg?v=1695315661&w=1920&h=1080",
+            "publishedAt": "2023-11-21T12:23:47Z",
+            "content": "Best Buy cut its full-year sales outlook Tuesday, as the company weathers a period of cooler demand and prepares for price-conscious holiday shoppers.\r\nThe consumer electronics retailer beat Wall Str… [+2639 chars]"
+        },
+        {
+            "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "AUDREY MCAVOY Associated Press, BEATRICE DUPUY Associated Press",
-            "title": "Navy plane overshoots runway and ends up in ocean, but all 9 aboard escape unharmed - ABC News",
-            "description": "A Hawaii official says all nine people aboard a U.S. Navy plane that overshot a runway have escaped injury",
-            "url": "https://abcnews.go.com/US/wireStory/us-navy-plane-overshoots-runway-bay-hawaii-military-105052174",
-            "urlToImage": "https://i.abcnewsfe.com/a/728f356d-b4b2-46fa-b80e-a85f932cf7a9/wirestory_f24da12b2db265a90c475227a511ebe3_16x9.jpg?w=992",
-            "publishedAt": "2023-11-21T06:28:00Z",
-            "content": "HONOLULU -- A Navy plane flying in rainy weather overshot a runway Monday at a military base in Hawaii and splashed into Kaneohe Bay, but all nine aboard were uninjured, authorities said. \r\nThe Coast… [+2320 chars]"
+            "author": "Marilyn Heck, Vanessa Navarrete",
+            "title": "Manhunt underway after Colorado shooting leaves 3 dead, 1 injured, officials say - ABC News",
+            "description": "Custer County officials named Hanme K. Clark as a suspect in the shooting.",
+            "url": "https://abcnews.go.com/US/manhunt-underway-hanme-clark-after-colorado-shooting-leaves/story?id=105056552",
+            "urlToImage": "https://s.abcnews.com/images/US/police-01-as-gty-190813_hpMain_16x9_992.jpg?w=992",
+            "publishedAt": "2023-11-21T12:18:17Z",
+            "content": "Authorities in Custer County, Colorado, were searching late Monday for a suspect in a shooting that left three people dead and one in critical condition, officials said.\r\nA dispute over property on R… [+878 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Will Feuer, Anna Hirtenstein, Dean Seal, David Marino-Nachison, Rebecca Feng, Heard Editors",
+            "title": "Stock Market Today: All Eyes on Nvidia's Coming Results - The Wall Street Journal",
+            "description": "A slew of retailers, including Lowe's and Best Buy, updated investors. Index futures crept lower in early trading.",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-21-2023",
+            "urlToImage": "https://images.wsj.net/im-785590/social",
+            "publishedAt": "2023-11-21T11:41:00Z",
+            "content": "Artificial intelligence remains in the spotlight.\r\nEarnings are due later from Nvidia, the chip maker that is riding the AI wave. Meanwhile investors are watching the drama unfolding at OpenAI, where… [+1778 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Israel-Hamas deal on hostage release and ceasefire is imminent, sources say - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/11/21/israel-hamas-hostage-ceasefire-deal-imminent",
+            "urlToImage": null,
+            "publishedAt": "2023-11-21T11:38:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Marina Pitofsky, Nicquel Terry Ellis",
+            "title": "Rosalynn Carter, who transformed role of first lady, dies at 96 - USA TODAY",
+            "description": "Rosalynn Carter was Jimmy Carter's biggest fan. As first lady, and in the years after the White House, she fought for human freedom and dignity.",
+            "url": "https://www.usatoday.com/story/news/politics/2023/11/19/rosalynn-carter-dies-transformed-role-first-lady/71625804007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/11/19/USAT/71647674007-v-2-a-07-rosalynn-09.jpg?crop=1148,647,x0,y61&width=1148&height=647&format=pjpg&auto=webp",
+            "publishedAt": "2023-11-21T10:39:17Z",
+            "content": "Former first lady Rosalynn Carter, the devoted wife of the nation's 39th president and a tireless advocate for mental health care, has died.\r\nThe Carter Center confirmed that she died Sunday morning … [+7729 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Michael David Smith",
+            "title": "Patrick Mahomes refuses to throw Chiefs' receivers under the bus after crucial drops - NBC Sports",
+            "description": "After Monday night's loss to the Eagles, Chiefs quarterback Patrick Mahomes was asked multiple questions about multiple dropped passes, but he refused to criticize his receivers.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-refuses-to-throw-chiefs-receivers-under-the-bus-after-crucial-drops",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/7d3b351/2147483647/strip/true/crop/7449x4190+0+389/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe8%2F58%2F2113b1bb413bb3ad7491bc7e625e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1805104018",
+            "publishedAt": "2023-11-21T09:26:33Z",
+            "content": "After Monday nights loss to the Eagles, Chiefs quarterback Patrick Mahomes was asked multiple questions about multiple dropped passes, but he refused to criticize his receivers.\r\nPerhaps the biggest … [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WHIO"
+            },
+            "author": "WHIO Staff",
+            "title": "Officers continue investigation after 4 hurt, shooter dead after shooting at Beavercreek Walmart - WHIO",
+            "description": "Officers continue to investigate after four people were hurt in a shooting at the Beavercreek Walmart Monday evening.",
+            "url": "https://www.whio.com/news/local/officers-continue-investigation-after-4-hurt-shooter-dead-after-shooting-beavercreek-walmart/GNSDYIKVNVASVATI6GNSRFZY3M/",
+            "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/UxoITnx9UDWKrVaQnBEjjE2IZsY=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/11-21-2023/t_9320d8a558bf4c6f9729e970ed865fb2_name_20231121_022452121_iOS_scaled.jpg",
+            "publishedAt": "2023-11-21T09:18:40Z",
+            "content": "BEAVERCREEK — Officers continue to investigate after four people were hurt in a shooting at the Beavercreek Walmart Monday evening.\r\nNews Center 7s Xavier Hershovitz is providing continuing team cove… [+3627 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "Microsoft Shares Hit Record High Amid Tumult Around OpenAI - PYMNTS.com",
+            "description": "Microsoft shares hit an all-time high on Monday after an announcement that former OpenAI CEO Sam Altman and President Greg Brockman will join the company.",
+            "url": "https://www.pymnts.com/artificial-intelligence-2/2023/microsoft-shares-hit-record-high-amid-tumult-around-openai/",
+            "urlToImage": null,
+            "publishedAt": "2023-11-21T09:00:00Z",
+            "content": "Microsoft shares hit an all-time high on Monday (Nov. 20) after an early morning announcement that former OpenAI CEO Sam Altman and President Greg Brockman will join the company.\r\nSeveral other stock… [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "OpenAI board stands firm in face of staff revolt over Sam Altman's ousting - Financial Times",
+            "description": "More than 95% of employees have threatened to quit and join Microsoft if board refuses to resign",
+            "url": "https://www.ft.com/content/7215167b-b3dc-4a09-b8db-b6b20b79239e",
+            "urlToImage": null,
+            "publishedAt": "2023-11-21T08:54:28Z",
+            "content": "We use\r\ncookies\r\nand other data for a number of reasons, such as keeping FT Sites reliable and secure,\r\npersonalising content and ads, providing social media features and to\r\nanalyse how our Sites ar… [+6 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Indian workers trapped in Himalayan tunnel for 10 days seen on camera - Al Jazeera English",
+            "description": "Workers inside a collapsed road tunnel seen alive for first time amid attempts to create new passageways to free them.",
+            "url": "https://www.aljazeera.com/news/2023/11/21/indian-workers-trapped-in-himalayan-tunnel-for-10-days-seen-on-camera",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/image-139.jpg?resize=1800%2C1063",
+            "publishedAt": "2023-11-21T08:51:56Z",
+            "content": "The first images of 41 men trapped for 10 days in a highway tunnel in the Indian Himalayas have emerged, showing them standing in a confined space and communicating with rescue workers.\r\nA 30-second … [+3639 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Charisma Madarang",
+            "title": "David Letterman Makes Grand Return to ‘Late Show,’ Welcomed With Standing Ovation - Rolling Stone",
+            "description": "David Letterman was welcomed back to the 'Late Show' with a grand standing ovation after eight years since signing off in 2015.",
+            "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/david-letterman-late-show-return-stephen-colbert-1234889737/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/11/2319539_0156.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-11-21T07:37:44Z",
+            "content": "After more than eight years since signing off as host of The Late Show, David Letterman was welcomed back to the Ed Sullivan Theater with a grand standing ovation Monday.\r\n“Ladies and gentlemen, my g… [+1707 chars]"
         },
         {
             "source": {
@@ -30,16 +160,29 @@
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Phil Helsel, Valeriya Antonshchuk",
-            "title": "Gunman wounds 4, kills himself at Ohio Walmart, police say - NBC News",
-            "description": "A gunman opened fire at a Beavercreek, Ohio, Walmart Monday night, wounding four people and then apparently killing himself, police said.",
-            "url": "https://www.nbcnews.com/news/us-news/gunman-wounds-4-kills-self-ohio-walmart-police-say-rcna126114",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-11/231120-beavercreek-walmart-police-captain-scottmoln-ar-WDTN-snip-ac-1159p-eb8034.jpg",
-            "publishedAt": "2023-11-21T05:33:00Z",
-            "content": "A gunman opened fire at a southwestern Ohio Walmart on Monday night, wounding four people and then apparently killing himself, police said.\r\nThe man walked into the Walmart in Beavercreek around 8:35… [+1064 chars]"
+            "author": null,
+            "title": "McIntyre defeats Jey Uso to pick up the WarGames advantage: Raw highlights, Nov. 20, 2023 - WWE",
+            "description": "The Scottish Warrior defeats Jey Uso to secure the crucial WarGames advantage. Catch WWE action on Peacock, WWE Network, FOX, USA Network, Sony India and mor...",
+            "url": "https://www.youtube.com/watch?v=jZc4YMOZ61U",
+            "urlToImage": "https://i.ytimg.com/vi/jZc4YMOZ61U/hqdefault.jpg",
+            "publishedAt": "2023-11-21T05:44:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Steven Goff",
+            "title": "USMNT loses to Trinidad and Tobago but still advances on aggregate - The Washington Post",
+            "description": "The U.S. men lost, 2-1, but still advanced to the Concacaf Nations League semifinals on aggregate and secured a spot in next year’s Copa América.",
+            "url": "https://www.washingtonpost.com/sports/2023/11/20/usmnt-loses-trinidad-tobago-copa-america/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NTS3WYGCAQJXBPVWIZR2Y7SPIQ_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-11-21T05:23:03Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nThe U.S. mens national soccer team was on its merry way to closing out Trinidad and Tobago in the Concacaf Nations League quarterfinal… [+5271 chars]"
         },
         {
             "source": {
@@ -56,94 +199,55 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "NBCSports.com"
+                "id": "the-hill",
+                "name": "The Hill"
             },
-            "author": "Charean Williams",
-            "title": "Monday Night Football: Eagles escape with a 21-17 victory over the Chiefs - NBC Sports",
-            "description": "Chiefs receiver Marquez Valdes-Scantling dropped what would have been a 51-yard touchdown with 1:42 left.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-eagles-escape-with-21-17-lead",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/431fb51/2147483647/strip/true/crop/6640x3735+0+347/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa8%2Fd0%2F1693dbee4e058d292e6ddb7a45d8%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1805158498",
-            "publishedAt": "2023-11-21T04:34:04Z",
-            "content": "The Eagles somehow, some way won in Kansas City, escaping with an improbable 21-17 victory.\r\nThe Eagles moved to 9-1, while the Chiefs fell to 7-3.\r\nThe Chiefs will leave kicking themselves. They led… [+2390 chars]"
+            "author": "Lauren Sforza",
+            "title": "Navy plane overshoots runway, ends up in Hawaii bay - The Hill",
+            "description": "A Navy plane overshot the runway while landing at the Marine Corps Air Station and landed in the nearby waters of Kaneohe Bay, Hawaii. A Navy P-8 Poseidon plane overshot the runway at about 2 p.m. local time, according to a statement from Lt. Mohammad N. Issa…",
+            "url": "https://thehill.com/homenews/state-watch/4320096-navy-plane-overshoots-runway-ends-up-in-hawaii-bay/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/11/navy-plane-kanehoe-bay-ap.jpg?w=1280",
+            "publishedAt": "2023-11-21T04:04:00Z",
+            "content": "Skip to content\r\nA Navy plane overshot the runway while landing at the Marine Corps Air Station and landed in the nearby waters of Kaneohe Bay, Hawaii.\r\nA Navy P-8 Poseidon plane overshot the runway … [+1281 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Tom Soufi Burridge, Lauren Minore, Matthew Seyler",
+            "title": "Pentagon chief in Kyiv amid questions over future US arms supplies - ABC News",
+            "description": "Secretary of Defense Lloyd Austin made a surprise trip to the Ukrainian capital.",
+            "url": "https://abcnews.go.com/International/pentagon-chief-kyiv-amid-questions-future-us-arms/story?id=105027529",
+            "urlToImage": "https://i.abcnewsfe.com/a/c681418a-6c13-4f19-92ab-41a87e920927/main-shells_1700482975656_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-11-21T03:57:21Z",
+            "content": "On a surprise trip to the Ukrainian capital, Secretary of Defense Lloyd Austin tried to rally support for Ukraine and even suggested Ukrainian forces would be even more aggressive in their fight agai… [+3918 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Mariana Alfaro",
+            "title": "Appeals court decision could curtail citizens’ rights under Voting Rights Act - The Washington Post",
+            "description": "The U.S. Court of Appeals for the 8th Circuit upheld a lower court’s ruling that private citizens and groups cannot sue under a statute that forbids discrimination in state and local elections laws.",
+            "url": "https://www.washingtonpost.com/politics/2023/11/20/voting-rights-act-lawsuit/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/645NCDDBIAI63IJR5EAOJJRTNM.jpg&w=1440",
+            "publishedAt": "2023-11-21T03:38:00Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nA federal court on Monday issued a decision that could severely curtail enforcement ofthe Voting Rights Act, which could affect voters… [+7339 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Midlife's Hidden Belly Fat: A Surprising Link to Alzheimer's Disease - SciTechDaily",
-            "description": "Higher amounts of visceral abdominal fat in midlife are linked to the development of Alzheimer’s disease, according to research being presented next week at the annual meeting of the Radiological Society of North America (RSNA). Visceral fat is fat surroundin…",
-            "url": "https://scitechdaily.com/midlifes-hidden-belly-fat-a-surprising-link-to-alzheimers-disease/",
-            "urlToImage": "https://scitechdaily.com/images/Weight-Loss-Fat-Burner-Concept.jpg",
-            "publishedAt": "2023-11-21T04:11:16Z",
-            "content": "ByRadiological Society of North AmericaNovember 20, 2023\r\nA study to be presented at the RSNA meeting shows that higher levels of visceral abdominal fat in midlife are linked to an increased risk of … [+5963 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Kat Tenbarge",
-            "title": "New OpenAI CEO Emmett Shear has freewheeling social media history - NBC News",
-            "description": "problem and opportunity detection, talent identification, constructive feedback.”",
-            "url": "https://www.nbcnews.com/tech/tech-news/openai-ceo-emmett-shear-social-media-history-x-history-rcna126099",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-11/231120-Emmet-Shear-cover-2022-ac-944p-aaf68c.jpg",
-            "publishedAt": "2023-11-21T03:34:00Z",
-            "content": "OpenAI has been roiled by dramatic executive shuffling since Friday, and the appointment of an interim CEO is only adding fuel to the fire.\r\nEmmett Shear, a co-founder of the streaming platform Twitc… [+4804 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Elon Musk's X sues Media Matters over antisemitism analysis - BBC.com",
-            "description": "The lawsuit says Media Matters \"manipulated\" data in an attempt to \"destroy\" the social media site.",
-            "url": "https://www.bbc.com/news/world-us-canada-67482231",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/129F5/production/_131777267_gettyimages-1768680938.jpg",
-            "publishedAt": "2023-11-21T02:55:02Z",
-            "content": "Elon Musk's social media platform X has sued a left-leaning pressure group that accused the site of allowing antisemitic posts next to advertising. \r\nX's lawsuit alleges that Media Matters for Americ… [+3574 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "HT Entertainment Desk",
-            "title": "International Emmy Awards 2023: Shefali Shah misses Best Actress to Karla Souza - Hindustan Times",
-            "description": "International Emmy Awards 2023 is taking place in New York City. Shefali Shah, Vir Das and Jim Sarbh were nominated. | Web Series",
-            "url": "https://www.hindustantimes.com/entertainment/web-series/international-emmy-awards-2023-shefali-shah-misses-best-actress-to-karla-souza-101700532371082.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/21/1600x900/emmy_1700533901839_1700533902056.jpg",
-            "publishedAt": "2023-11-21T02:33:38Z",
-            "content": "The 51st International Emmy Awards has just begun and as per the latest winner announcement, actor Karla Souza bagged the prestigious award for her performance in the Mexican series La Caida. She was… [+2469 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KTLA Los Angeles"
-            },
-            "author": "Josh DuBose",
-            "title": "Crush of Thanksgiving traffic underway in SoCal - KTLA Los Angeles",
-            "description": "As the Thanksgiving Day holiday approaches, millions of Southern Californians are headed out of town, creating a days-long crush of traffic on the freeways and at the airports.   At Los Angeles International Airport, traveling over the holiday weekend can be …",
-            "url": "https://ktla.com/news/local-news/crush-of-thanksgiving-traffic-underway-in-socal/",
-            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/11/Thanksgiving-Holiday-traffic-1.png?w=1280",
-            "publishedAt": "2023-11-21T02:04:48Z",
-            "content": "As the Thanksgiving Day holiday approaches, millions of Southern Californians are headed out of town, creating a days-long crush of traffic on the freeways and at the airports.  \r\nAt Los Angeles Inte… [+1784 chars]"
+            "title": "Stormy weather threatening Thanksgiving travel plans - CBS News",
+            "description": "Gusty winds and heavy rain could prompt flight delays and cancellations in the Northeast just before Thanksgiving.",
+            "url": "https://www.cbsnews.com/news/thanksgiving-weather-travel-flight-delays-traffic/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/21/a041ab8f-17b1-4e3a-b2cd-ce43cdee98b9/thumbnail/1200x630/77bad87219e6beec6fb62cee4e41aaaa/gettyimages-1282389256.jpg?v=5659e73acd91751548aa89950cf015b0",
+            "publishedAt": "2023-11-21T02:28:51Z",
+            "content": "As airlines prepare for what is predicted to be the busiest Thanksgiving ever and even more Americans get set to to hit the road for the long holiday weekend, stormy weather could upend plans for ten… [+2746 chars]"
         },
         {
             "source": {
@@ -160,133 +264,55 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Barbie Latza Nadeau",
-            "title": "More than 200 mobsters jailed in one of Italy’s biggest mafia trials - CNN",
-            "description": "An Italian court has sentenced more than 200 crime gang members to a total of 2,200 years in prison, following the country’s largest mafia trial in three decades.",
-            "url": "https://www.cnn.com/2023/11/20/europe/mafia-trial-mobsters-sentenced-italy-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231120161951-04-ndrangheta-mafia-trial.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-11-21T01:23:00Z",
-            "content": "An Italian court has sentenced more than 200 crime gang members to a total of 2,200 years in prison, following the countrys largest mafia trial in three decades.\r\nDuring the trial, which began in Jan… [+2072 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "CHRISTINA A. CASSIDY, AYANNA ALEXANDER",
-            "title": "Federal appeals court deals a blow to Voting Rights Act, ruling that private plaintiffs can't sue - The Associated Press",
-            "description": "A divided federal appeals court has found that private individuals and groups such as the NAACP do not have the ability to sue under a key section of the federal Voting Rights Act. It's a decision that voting rights advocates say could further erode protectio…",
-            "url": "https://apnews.com/article/voting-rights-federal-court-private-lawsuits-00b9c4bb2174aa8077db296c3edf7c79",
-            "urlToImage": "https://dims.apnews.com/dims4/default/8e908a7/2147483647/strip/true/crop/5448x3065+0+388/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F04%2F4c9a55045855e8dd7188d31acca5%2Fb69a8781b9224bc9b6c02e9c1e93b325",
-            "publishedAt": "2023-11-21T00:06:00Z",
-            "content": "WASHINGTON (AP) A divided federal appeals court on Monday ruled that private individuals and groups such as the NAACP do not have the ability to sue under a key section of the federal Voting Rights A… [+7567 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Rivals.com"
-            },
-            "author": "Casey Bartley",
-            "title": "Purdue 73, Gonzaga 63- Maui Invitational Quick Wrap - BoilerUpload - Rivals.com - Purdue",
-            "description": "Purdue starts the Maui Invitational with a win over Gonzaga.",
-            "url": "https://purdue.rivals.com/news/purdue-73-gonzaga-63-maui-invitational-quick-wrap",
-            "urlToImage": "https://images.rivals.com/image/upload/f_auto,q_auto,t_headline_primary/e134qjf3qnm7rpvrcllu",
-            "publishedAt": "2023-11-20T23:59:31Z",
-            "content": "With Purdue as the favorite this season, #2 Purdue beats #11 Gonzaga for the second straight season, this time winning 73-63. \r\nPurdue couldn't get a three-pointer to fall for most the game before tr… [+4598 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Spencer S. Hsu, Tom Jackman, Devlin Barrett",
-            "title": "Chutkan’s gag order on Trump appealed to Judges Millet, Pillard, Garcia - The Washington Post",
-            "description": "A three-judge panel struggled over how to protect Donald Trump’s “core political speech” but also ensure a fair D.C. election-obstruction trial.",
-            "url": "https://www.washingtonpost.com/dc-md-va/2023/11/20/trump-appeal-gag-order-hearing/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S7XAVCO23RC5HOX5SDI5RTAYYU.JPG&w=1440",
-            "publishedAt": "2023-11-20T23:40:42Z",
-            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nA federal appeals court wrestled Monday with the scope of a gag order imposed in the D.C. election-obstruction case of Donald Trump, g… [+8197 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Joseph Choi, Nathaniel Weixel",
-            "title": "Flu surges in the Southeast - The Hill",
-            "description": "Presented by Novavax — This comes as the worst of flu season approaches. {beacon} Health Care Health Care    The Big Story  Flu surges in the Southeast  New federal data shows influenza is likely surging throughout the Southeast as this year’s flu season gets…",
-            "url": "https://thehill.com/newsletters/health-care/4319871-flu-surges-in-the-southeast/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/09/sick_illness_flu_istock_0915.jpeg?w=1280",
-            "publishedAt": "2023-11-20T23:31:00Z",
-            "content": "The most recent weekly summary update from the Centers for Disease Control and Prevention (CDC) designated nine U.S. states and territories as having high or very high levels of activity related to i… [+1453 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Jon Schuppe, Mike Hixenbaugh",
-            "title": "Dexter Wade, buried alone in Mississippi, finally gets the funeral he was denied - NBC News",
-            "description": "Dexter Wade was run over by a police officer in Jackson, Mississippi, and buried in a pauper's grave. On Monday, he finally got the funeral he was denied.",
-            "url": "https://www.nbcnews.com/news/us-news/dexter-wade-buried-alone-mississippi-finally-funeral-denied-rcna124871",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-11/231110-dexter-wade-funeral-wm-231p-3379de.jpg",
-            "publishedAt": "2023-11-20T23:23:44Z",
-            "content": "JACKSON, Miss. More than eight months after 37-year-old Dexter Wade was killed and later buried in a paupers field, his mother gave her only son the formal funeral that hed been denied.  \r\nCivil righ… [+4064 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Reuters",
-            "title": "UK PM reportedly said 'just let people die', Covid inquiry hears - Hindustan Times",
-            "description": "Vallance quoted Cummings in his diary as saying: \"Rishi thinks just let people die and that's okay. This all feels like a complete lack of leadership.\" | World News",
-            "url": "https://www.hindustantimes.com/world-news/uk-pm-rishi-sunak-reportedly-said-just-let-people-die-covid-inquiry-hears-101700522145066.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/20/1600x900/BRITAIN-POLITICS-9_1700522349121_1700522401387.jpg",
-            "publishedAt": "2023-11-20T23:21:22Z",
-            "content": "Prime Minister Rishi Sunak was quoted as saying the government should \"just let people die\" during the COVID-19 pandemic rather than impose a second national lockdown, the inquiry into how Britain ha… [+1660 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Edward Segarra",
-            "title": "Suki Waterhouse baby: Singer is expecting with Robert Pattinson - USA TODAY",
-            "description": "Suki Waterhouse is pregnant and expecting her first child with boyfriend Robert Pattinson, the singer revealed during a recent performance in Mexico.",
-            "url": "https://www.usatoday.com/story/entertainment/celebrities/2023/11/20/suki-waterhouse-pregnant-robert-pattinson/71650120007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/25/USAT/71307536007-ap-23295171310086.jpg?crop=2090,1176,x124,y188&width=2090&height=1176&format=pjpg&auto=webp",
-            "publishedAt": "2023-11-20T23:18:23Z",
-            "content": "Suki Waterhouse and Robert Pattinson are expecting their first child together.\r\nThe British actress and singer-songwriter alluded to her pregnancy during a performance at the Corona Capital Festival … [+1874 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "title": "Dave Wannstedt reacts to Bears' historic loss to Lions on Sunday - NBC Sports Chicago",
+            "description": "On this Football Night in Chicago episode, Dave Wannstedt joins Laurence Holmes to discuss the Bears' loss to the Lions. Wanny talks about what play calling ...",
+            "url": "https://www.youtube.com/watch?v=gk0Q49LVdxs",
+            "urlToImage": "https://i.ytimg.com/vi/gk0Q49LVdxs/maxresdefault.jpg",
+            "publishedAt": "2023-11-21T01:33:18Z",
+            "content": null
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": null,
+                "name": "WEAR"
             },
-            "author": "James Powel",
-            "title": "Apple's RCS messaging in iPhone update, improves Android communication - USA TODAY",
-            "description": "Apple said Monday it would support rich communication services (RCS) on iPhones with an update next year to improve messaging with non-iPhone users.",
-            "url": "https://www.usatoday.com/story/tech/news/2023/11/20/apple-rcs-announcement/71657772007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2019/03/23/PCIN/035d8e58-28cd-4be0-b0ed-a8715d22b06f-MUR1Brd_12-12-2018_DNJ_1_A002__2018_12_11_IMG_texting_cell_phone_1_1_T3NJEAD1_L1317126673_IMG_texting_cell_phone_1_1_T3NJEAD1.jpg?crop=533,300,x0,y71&width=533&height=300&format=pjpg&auto=webp",
-            "publishedAt": "2023-11-20T23:10:51Z",
-            "content": "Apple announced Monday that it will support rich communication services for iPhones, helping to ease the green and blue bubble divide.\r\nThe update will come later next year and will work alongside th… [+1526 chars]"
+            "author": "Aubrey Spears",
+            "title": "Mysterious respiratory illness in dogs prompts concern among Pensacola veterinarians - WEAR",
+            "description": "PENSACOLA, Fla. -- A mysterious respiratory illness is concerning dog owners and veterinarians.The infectious disease starts with a cough, which often develops",
+            "url": "https://weartv.com/news/local/mysterious-respiratory-illness-in-dogs-prompts-concern-among-pensacola-veterinarians",
+            "urlToImage": "https://weartv.com/resources/media/4bf9b945-9f35-4532-a3ee-5f7d0d2ebe67-large16x9_frgrf.PNG",
+            "publishedAt": "2023-11-20T23:16:20Z",
+            "content": "PENSACOLA, Fla. -- A mysterious respiratory illness is concerning dog owners and veterinarians.\r\nThe infectious disease starts with a cough, which often develops into pneumonia, and in some cases tur… [+2298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Seattle Times"
+            },
+            "author": "The Seattle Times",
+            "title": "Judge bans media cameras in Bryan Kohberger case, offers new way to watch Moscow trial - The Seattle Times",
+            "description": null,
+            "url": "https://www.seattletimes.com/nation-world/judge-bans-media-cameras-in-bryan-kohberger-case-offers-new-way-to-watch-moscow-trial/",
+            "urlToImage": null,
+            "publishedAt": "2023-11-20T23:06:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aliza Chasan",
+            "title": "Webb telescope captures cluster of baby stars in the center of the Milky Way - CBS News",
+            "description": "A stunning image from NASA's James Webb Space Telescope shows a cluster of protostars at the dense center of the Milky Way.",
+            "url": "https://www.cbsnews.com/news/webb-telescope-baby-stars-protostars-milky-way/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/20/f58a1d27-1f91-4d12-badd-e337d2d67b98/thumbnail/1200x630/e69150529227c968b771c9b7f603fd64/sagittarius-c-nircam-image.png?v=5659e73acd91751548aa89950cf015b0",
+            "publishedAt": "2023-11-20T23:03:36Z",
+            "content": "The James Webb Space Telescope captured an image of the dense center of the Milky Way, a chaotic region of space, NASA said on Monday. \r\nThe image features Sagittarius C, a star-forming region about … [+2811 chars]"
         },
         {
             "source": {
@@ -304,171 +330,145 @@
         {
             "source": {
                 "id": null,
-                "name": "Golden State of Mind"
+                "name": "Teslarati"
             },
-            "author": "Brady Klopfer",
-            "title": "Warriors vs. Rockets: Draymond Green, Gary Payton II out - Golden State of Mind",
-            "description": "Draymond Green, Gary Payton II, and Amen Thompson are out for the NBA game between the Golden State Warriors and Houston Rockets, while Alperen Şengün is questionable.",
-            "url": "https://www.goldenstateofmind.com/2023/11/20/23970019/warriors-rockets-injuries-draymond-green-gary-payton-ii-amen-thompson-alperen-sengun",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/r58xHbJwj1YihMmk_jO27rwVnTA=/0x0:4800x2513/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25100226/1453496167.jpg",
-            "publishedAt": "2023-11-20T22:53:47Z",
-            "content": "The Golden State Warriors have not won a game in exactly two weeks. Sources tell me that this is not ideal, and the Dubs should try to change that. Theyll get a chance to do so tonight, when they hos… [+2556 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Chris Boyette, Holly Yan",
-            "title": "A mysterious respiratory illness is spreading among dogs and baffling veterinarians. Here’s what owners can do - CNN",
-            "description": "From New Hampshire to Oregon, researchers are trying to figure out what’s causing an infectious respiratory disease among dogs that has turned deadly in rare cases.",
-            "url": "https://www.cnn.com/2023/11/20/us/mystery-dog-illness-spreading/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231120133145-01-dog-walking-060823-file-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-11-20T22:44:00Z",
-            "content": "From New Hampshire to Oregon, researchers are trying to figure out whats causing an infectious respiratory disease among dogs that has turned deadly in rare cases.\r\nThe mysterious illness is describe… [+3783 chars]"
+            "author": "Richard Angle",
+            "title": "SpaceX bookends Starship launch with two Starlink missions - TESLARATI",
+            "description": "While Starship garnered all the attention this weekend on its 2nd integrated flight test, SpaceX also launched 2 Starlink missions from Florida and California.",
+            "url": "https://www.teslarati.com/spacex-bookends-starship-launch-with-two-starlink-missions/",
+            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2023/11/F-ZApUKbcAATcCS-scaled.jpg",
+            "publishedAt": "2023-11-20T21:31:00Z",
+            "content": "While Starship garnered all the attention this weekend on its 2nd integrated flight test, SpaceX also launched 2 Starlink missions from Florida and California.\r\nFlorida was up first. Just hours befor… [+2686 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WPLG Local 10"
+                "name": "WXYZ"
             },
-            "author": "Layron Livingston",
-            "title": "Doctors urge caution as holidays bring increase in 'tripledemic' cases - WPLG Local 10",
-            "description": "Flu cases are spiking in Florida and across the country as the holiday travel season gets underway.",
-            "url": "https://www.local10.com/news/local/2023/11/20/doctors-urge-caution-as-holidays-bring-increase-in-tripledemic-cases/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/11-20-2023/t_c06bfcdc53814bd0b30c28a0990d96c8_name_image.jpg?_a=ATAPphC0",
-            "publishedAt": "2023-11-20T22:16:25Z",
-            "content": "MIAMI Flu cases are spiking in Florida and across the country as the holiday travel season gets underway.\r\nDr. Hany Atallah, Jackson Memorial Hospitals Chief Medical Officer, said the CDCs tripledemi… [+1164 chars]"
+            "author": "Dr. Partha Nandi",
+            "title": "The flu is soaring in seven US states and rising in others, health officials say - WXYZ 7 Action News Detroit",
+            "description": "Health officials report flu cases are soaring in seven US states, with numbers rising in other regions. Flu season historically ramps up in December or January.",
+            "url": "https://www.wxyz.com/news/the-flu-is-soaring-in-seven-us-states-and-rising-in-others-health-officials-say",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/597b4a9/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F25%2F27%2F1ebaa57f480bb8a5bd38b528e38a%2Fap-20232548233562.jpg",
+            "publishedAt": "2023-11-20T20:34:09Z",
+            "content": "(WXYZ) Health officials report flu cases are soaring in seven US states, with numbers rising in other regions.  Flu season historically ramps up in December or January, but once again, its taking off… [+1895 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Ashley Strickland",
-            "title": "Webb telescope captures never-before-seen glimpse of the heart of the Milky Way - CNN",
-            "description": "The James Webb Space Telescope spied new details and mysteries within the chaotic heart of the Milky Way galaxy.",
-            "url": "https://www.cnn.com/2023/11/20/world/webb-telescope-milky-way-heart-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231120110656-james-webb-space-telescope-sagittarius-c.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-11-20T21:59:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe James Webb Space Telescope has looked into the hea… [+3311 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Sinéad Carew, Amruta Khandekar",
-            "title": "Nasdaq leads Wall Street gains as Microsoft hits record - Reuters",
-            "description": "Wall Street's three major stock averages closed higher on Monday with Nasdaq's 1% rally leading the charge as heavyweight Microsoft hit a record high after it hired prominent artificial intelligence executives.",
-            "url": "https://www.reuters.com/markets/us/futures-edge-higher-microsoft-shines-2023-11-20/",
-            "urlToImage": "https://www.reuters.com/resizer/0GJjfXpYYrZ27uRGQlcwC7AdBJ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FT544524SJLCNCJL63MR2Y5VSQ.jpg",
-            "publishedAt": "2023-11-20T21:55:00Z",
-            "content": "Nov 20 (Reuters) - Wall Street's three major stock averages closed higher on Monday with Nasdaq's 1% rally leading the charge as heavyweight Microsoft hit a record high after it hired prominent artif… [+4126 chars]"
+            "author": "Al Jazeera",
+            "title": "Premature babies from Gaza arrive in Egypt - Al Jazeera English",
+            "description": "28 premature babies, evacuated from Al-Shifa hospital in Gaza are now being treated in Egypt.",
+            "url": "https://www.aljazeera.com/program/newsfeed/2023/11/20/premature-babies-from-gaza-arrive-in-egypt",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/2023-11-20T112330Z_270681219_RC2ZG4AU7G4W_RTRMADP_3_ISRAEL-PALESTINIANS-PREMATURE-BABIES-1700511264.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-11-20T20:18:04Z",
+            "content": "NewsFeed\r\nThey have a long way to go. 28 premature babies, evacuated from Al-Shifa hospital in Gaza are now being treated in Egypt after safely being transported through the Rafah border crossing. Th… [+68 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Tech.co"
+                "name": "9to5google.com"
             },
-            "author": "Conor Cawley",
-            "title": "What Is Microsoft Copilot? How to Use Bing AI Chatbot - Tech.co",
-            "description": "Also known as Bing Chat, the generative AI assistant from Microsoft can do a lot for your business, if you use it right.",
-            "url": "https://tech.co/news/what-is-microsoft-copilot",
-            "urlToImage": "https://images.tech.co/wp-content/uploads/2023/11/20122747/microsoft-copilot.jpg",
-            "publishedAt": "2023-11-20T21:49:41Z",
-            "content": null
+            "author": "Ben Schoon",
+            "title": "LineageOS is currently installed on 1.5 million Android devices - 9to5Google",
+            "description": "LineageOS, one of the last great Android ROMs, is currently in use on around 1.5 million different devices.",
+            "url": "https://9to5google.com/2023/11/20/lineageos-number-of-devices/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/Lineage-OS-20-setup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-11-20T17:05:00Z",
+            "content": "The custom ROM scene for Android devices isnt nearly what it once was, but down to today, 1.5 million devices are currently running on LineageOS.\r\nLineageOS is the project that took up the work of th… [+1153 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "The Natural History Museum"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "title": "Serotine bats have sex unlike any other mammal - The Natural History Museum",
+            "description": "Their style of mating is more similar to birds than any known mammal.",
+            "url": "https://www.nhm.ac.uk/discover/news/2023/november/serotine-bats-have-sex-unlike-any-other-mammal.html",
+            "urlToImage": "https://www.nhm.ac.uk/content/dam/nhmwww/discover/bat-sex/bat-sex-full-width.jpg",
+            "publishedAt": "2023-11-20T16:46:13Z",
+            "content": "Despite being one of the largest groups of mammals, making up around 20% of all species, surprisingly little is known about how bats reproduce. Being nocturnal species that often live in difficult to… [+2354 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
+                "name": "Digital Trends"
             },
-            "author": "Science X",
-            "title": "Study reveals new clues about how whales and dolphins came to use echolocation - Phys.org",
-            "description": "A study published in Diversity provides new insight into how toothed whales and dolphins came to navigate the underwater world using sound waves.",
-            "url": "https://phys.org/news/2023-11-reveals-clues-whales-dolphins-echolocation.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/study-reveals-new-clue-3.jpg",
-            "publishedAt": "2023-11-20T21:03:04Z",
-            "content": "A study published in Diversity provides new insight into how toothed whales and dolphins came to navigate the underwater world using sound waves.\r\nWhales and dolphins, which lack external ears, rely … [+4989 chars]"
-        },
-        {
-            "source": {
-                "id": "the-jerusalem-post",
-                "name": "The Jerusalem Post"
-            },
-            "author": "By  REUTERS",
-            "title": "Six Americans killed since Hamas' Oct. 7 attack into Israel - The Jerusalem Post",
-            "description": "There are a little more than 1,200 Americans, legal permanent residents and family members still in Gaza and a",
-            "url": "https://www.jpost.com/breaking-news/article-774278",
-            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
-            "publishedAt": "2023-11-20T20:49:00Z",
-            "content": "There are a little more than 1,200 Americans, legal permanent residents and family members still in Gaza and at least six US citizens have been killed since the Oct. 7 rampage into Israel by Hamas, t… [+447 chars]"
+            "author": "Jennifer Allen",
+            "title": "This 70-inch 4K TV is discounted to $400 at Best Buy for Black Friday - Digital Trends",
+            "description": "The Insignia 70-inch F30 Series TV is a cheap but appealing TV that's even cheaper now it's on sale at Best Buy.",
+            "url": "https://www.digitaltrends.com/home-theater/insignia-70-inch-f30-series-4k-tv-deal-best-buy-november-2023/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/06/6456970cv21d1-e1700488444856.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2023-11-20T16:00:36Z",
+            "content": "Best Buy\r\nIf you want a huge TV at a fantastic price, look no further than the Black Friday TV deals going on at Best Buy today. You can buy an Insignia 70-inch F30 Series 4K TV for $400 instead of $… [+1729 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Hola"
+                "name": "NME"
             },
-            "author": "Shirley Gómez",
-            "title": "Kim and Khloé Kardashian girl's night out at Mariah Carey's show - HOLA! USA",
-            "description": "The girls‘ night out,  which included Kris Jenner’s, was filled with unforgettable moments.",
-            "url": "https://www.hola.com/us/celebrities/20231120352827/kim-and-khloe-kardashian-girls-night-out-at-mariah-careys-show/",
-            "urlToImage": "https://images.hola.com/us/images/0287-19818ca583b5-ccfd6a639576-1000/horizontal-800/1083155304-collage-u02445710105tvq.jpg",
-            "publishedAt": "2023-11-20T20:33:29Z",
-            "content": "Theres nothing like celebrating the holidays to the rhythm of Mariah Carey! Now that the so-called Queen of Christmas kicked off her annual music special, sisters Kim and Khloé Kardashian took North … [+1912 chars]"
+            "author": "Adam Starkey",
+            "title": "Diddy's appearance on 'The Graham Norton Show' resurfaces after abuse lawsuit - NME",
+            "description": "The lawsuit has since been settled",
+            "url": "https://www.nme.com/news/tv/diddys-appearance-on-the-graham-norton-show-resurfaces-after-abuse-lawsuit-3544360",
+            "urlToImage": "https://www.nme.com/wp-content/uploads/2023/11/Diddy-main-new.jpg",
+            "publishedAt": "2023-11-20T15:13:21Z",
+            "content": "Sean ‘Diddy’ Combs’ recent appearance on The Graham Norton Show has resurfaced following abuse allegations by singer Cassie.\r\nDiddy made an appearance on the BBC chat show just days before his ex, re… [+2405 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Nature.com"
+                "name": "9to5google.com"
+            },
+            "author": "Abner Li",
+            "title": "Android 14 removed long pressing on app icons to see notifications - 9to5Google",
+            "description": "With Android 14, Google removed the ability to long press an icon on the homescreen to quickly see notifications from that app...",
+            "url": "https://9to5google.com/2023/11/20/android-14-long-press-notification/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/06/android-14-themed-icons-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-11-20T12:30:00Z",
+            "content": "With Android 14, Google removed the ability to long press an icon on the homescreen to quickly see notifications from that app.\r\nPreviously, youd be able to see any available notifications from an ap… [+1665 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Christopher Curley",
+            "title": "Long COVID: New treatment helps restore sense of smell for some people - Medical News Today",
+            "description": "Researchers say a new treatment that involves blocking a nerve in the neck shows promise in restoring a normal sense of smell in some people with long COVID",
+            "url": "https://www.medicalnewstoday.com/articles/new-treatment-restores-sense-of-smell-in-some-people-with-long-covid",
+            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2023/11/male-smelling-cooking-732x549-thumbnail.jpg",
+            "publishedAt": "2023-11-20T10:23:28Z",
+            "content": "<ul><li>Some people with long COVID report lasting alterations to their sense of taste and smell.</li><li>A new treatment might help these people regain those senses and restore quality of life. </li… [+4863 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Coronavirus: US faces COVID winter wave and hospitalization; learn preventive measures to safeguard health - IndiaTimes",
+            "description": "The US faces a winter wave of COVID-19, with a surge in hospitalizations across 14 states. While cases had stabilized since September, recent weeks have seen an 8.6% increase. Experts note that colder weather exacerbates virus spread. Preventive measures, inc…",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-us-faces-covid-winter-wave-and-hospitalization-learn-preventive-measures-to-safeguard-health/photostory/105350074.cms",
+            "urlToImage": "https://static.toiimg.com/photo/105350102.cms",
+            "publishedAt": "2023-11-20T07:28:03Z",
+            "content": "The spike in cases is higher in the upper Midwest, parts of the South Atlantic, and southern Mountain regions. As per reports, hospitalizations had steadily risen since late June, peaking in early Se… [+506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "Serotine bats are the first mammals found to have non-penetrative mating - Nature.com",
-            "description": "A European bat has been captured on film engaging in what appears to be an unusual reproductive strategy.",
-            "url": "https://www.nature.com/articles/d41586-023-03565-7",
-            "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-03565-7/d41586-023-03565-7_26311966.jpg",
-            "publishedAt": "2023-11-20T16:04:41Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Zachary Kew-Denniss",
-            "title": "Google Pixel 8 Pro vs. Samsung Galaxy S23+: Trading blows - Android Police",
-            "description": "The Pixel 8 Pro and S23+ are both compelling smartphones",
-            "url": "https://www.androidpolice.com/google-pixel-8-pro-vs-samsung-galaxy-s23/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/10/pixel-8-pro-bay-square-render.jpg",
-            "publishedAt": "2023-11-20T14:01:00Z",
-            "content": "<ul><li> Google Pixel 8 Pro \r\nThe Pixel 8 Pro is the most expensive non-folding Pixel so far, but it justifies that cost with flagship performance in almost all areas. Pixels have always relied on sp… [+8907 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Spaceflight Now"
-            },
-            "author": null,
-            "title": "SpaceX Falcon 9 launches 22 Starlink satellites from California – Spaceflight Now - Spaceflight Now",
-            "description": "SpaceX launched a Falcon 9 from the West Coast with another batch of 22 Starlink satellites at 2:30 a.m. PST Monday (5:30 a.m. EST / 1030 UTC).",
-            "url": "https://spaceflightnow.com/2023/11/20/live-coverage-spacex-falcon-9-to-launch-22-starlink-satellites-from-california/",
-            "urlToImage": "http://spaceflightnow.com/wp-content/uploads/2022/12/20221214f9swot1.jpg",
-            "publishedAt": "2023-11-20T09:33:45Z",
-            "content": "A Falcon 9 rocket lifts off from Vandenberg Space Force Base in California carrying 22 Starlink satellites on Nov 20, 2023. Image: Space X.\r\nSpaceX launched a Falcon 9 from the West Coast with anothe… [+2248 chars]"
+            "title": "EMIT: NASA's Unexpected Hero in the Climate Crisis - SciTechDaily",
+            "description": "Since launching 16 months ago, the EMIT imaging spectrometer aboard the International Space Station has shown an ability to detect more than just surface minerals. More than a year after first detecting methane plumes from its perch aboard the International S…",
+            "url": "https://scitechdaily.com/?p=329357",
+            "urlToImage": "https://scitechdaily.com/images/Methane-Natural-Gas-Flaring-Concept.jpg",
+            "publishedAt": "2023-11-19T21:09:51Z",
+            "content": "ByJet Propulsion LaboratoryNovember 19, 2023\r\nFlaring, in which excess natural gas is intentionally burned into the air, is one way methane is released from oil and gas facilities. NASAs EMIT mission… [+10482 chars]"
         }
     ]
 }

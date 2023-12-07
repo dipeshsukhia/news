@@ -1,7 +1,20 @@
 {
     "status": "ok",
-    "totalResults": 69,
+    "totalResults": 66,
     "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Ars Technica",
+            "title": "Daily Telescope: A super-hot jet 1000 light-years from Earth - Ars Technica",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NwYWNlLzIwMjMvMTIvZGFpbHktdGVsZXNjb3BlLWEtc3VwZXItaG90LWpldC0xMDAwLWxpZ2h0LXllYXJzLWZyb20tZWFydGgv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-06T13:00:31Z",
+            "content": null
+        },
         {
             "source": {
                 "id": null,
@@ -14,6 +27,19 @@
             "urlToImage": "https://www.sciencealert.com/images/2023/11/zhurong_rover.jpg",
             "publishedAt": "2023-12-06T12:13:50Z",
             "content": "China's Zhurong rover was equipped with a ground-penetrating radar system, allowing it to peer beneath Mars's surface.\r\nResearchers have announced new results from the scans of Zhurong's landing site… [+4595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Lindsay Clark",
+            "title": "'Wobbly spacetime' is latest stab at unifying physics - The Register",
+            "description": "Grudge match between quantum mechanics and general relativity attracts new effort to find harmony",
+            "url": "https://www.theregister.com/2023/12/06/wobbly_spacetime/",
+            "urlToImage": "https://regmedia.co.uk/2023/12/05/shutterstock_spacetime.jpg",
+            "publishedAt": "2023-12-06T11:45:00Z",
+            "content": "Since the early 20th century, physicists have struggled to marry theories governing the very big with those for the very small.\r\nDespite the staggering achievements in modern science, the conflict be… [+3009 chars]"
         },
         {
             "source": {
@@ -31,28 +57,41 @@
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "Live Science"
             },
-            "author": "Michelle Starr",
-            "title": "Radical New Theory Could Finally Unite The Two Biggest Frameworks in Physics - ScienceAlert",
-            "description": "Some enmities are so powerful, they could never be resolved.",
-            "url": "https://www.sciencealert.com/radical-new-theory-could-finally-unite-the-two-biggest-frameworks-in-physics",
-            "urlToImage": "https://www.sciencealert.com/images/2023/12/quantum-relativity.jpg",
-            "publishedAt": "2023-12-06T10:34:24Z",
-            "content": "Some enmities are so powerful, they could never be resolved. Bette and Joan. Batman and the Joker. Hamilton and Burr.\r\nIt was starting to look like that list would include general relativity and quan… [+5092 chars]"
+            "author": "Jamie Carter",
+            "title": "One of the brightest stars in the sky will 'blink out' on Dec. 12. Here's how to watch. - Livescience.com",
+            "description": "Betelgeuse, the most famous red supergiant star and one of the sky's brightest, will disappear for up to 12 seconds during an ultra-rare occultation by asteroid 319 Leona.",
+            "url": "https://www.livescience.com/space/astronomy/one-of-the-brightest-stars-in-the-sky-will-blink-out-on-dec-12-heres-how-to-watch",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Fy58djWNNXkyqKa4nscxFH-1200-80.png",
+            "publishedAt": "2023-12-06T10:00:00Z",
+            "content": "Next week, a rare celestial event will occur as an asteroid blocks the red supergiant star Betelgeuse in the constellation Orion.\r\nBetelgeuse, usually the 10th-brightest star in the night sky, will b… [+2261 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New Atlas"
+                "name": "SpaceNews"
             },
-            "author": "https://newatlas.com/author/michael-irving/",
-            "title": "Powerful solar storms dazzle in annual aurora photography gallery - New Atlas",
-            "description": "The Sun is approaching the most active period of the solar cycle, which is great news for aurora photographers around the world. As such, Capture the Atlas’ annual Northern Lights Photographer of the Year collection is particularly vibrant this year, showcasi…",
-            "url": "https://newatlas.com/photography/annual-aurora-northern-lights-photography-2023-gallery/",
-            "urlToImage": "https://assets.newatlas.com/dims4/default/df581c6/2147483647/strip/true/crop/1920x1008+0+136/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F47%2F86%2Ff54a90874db8b96d23e14cfdd63c%2Fisland-of-aurora-kat-lawman.jpg&na.image_optimisation=0",
-            "publishedAt": "2023-12-06T06:12:34Z",
-            "content": "The Sun is approaching the most active period of the solar cycle, which is great news for aurora photographers around the world. As such, Capture the Atlas annual Northern Lights Photographer of the … [+1655 chars]"
+            "author": "Jeff Foust",
+            "title": "OSIRIS-REx parachute deployment affected by wiring error - SpaceNews",
+            "description": "The drogue parachute on the OSIRIS-REx sample return capsule failed to deploy properly because of a design error that did not prevent a safe landing.",
+            "url": "https://spacenews.com/osiris-rex-parachute-deployment-affected-by-wiring-error/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/12/orex-chute.jpg",
+            "publishedAt": "2023-12-06T09:04:41Z",
+            "content": "WASHINGTON The drogue parachute on the OSIRIS-REx sample return capsule failed to deploy properly because of a design error, a flaw that did not prevent a safe landing of the capsule.\r\nIn a Dec. 5 st… [+3795 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IFLScience"
+            },
+            "author": "Dr. Alfredo Carpineti",
+            "title": "Naturally Occurring Magnetic Monopoles Measured For The First Time - IFLScience",
+            "description": "Quasiparticles have been found to only have a single magnetic pole, or two, or four.",
+            "url": "https://www.iflscience.com/naturally-occurring-magnetic-monopoles-measured-for-the-first-time-71851",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/71851/aImg/72498/monopoles-meta.jpg",
+            "publishedAt": "2023-12-06T07:21:18Z",
+            "content": "Regular magnets have two poles, a north and a south, and their behavior is defined in classical terms by the Maxwell equations. From contemporaries of Maxwell through to modern researchers, there hav… [+2456 chars]"
         },
         {
             "source": {
@@ -66,19 +105,6 @@
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230904144924-cafe-mision-chandrayaan.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2023-12-06T03:31:00Z",
             "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe propulsion module that powered Indias spacecraft t… [+4024 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Michelle Starr",
-            "title": "Gaping Hole in The Sun Bigger Than 60 Earths Just Blasted Solar Wind Right at Us - ScienceAlert",
-            "description": "A giant hole in the atmosphere of the Sun more than five times larger than the diameter of Jupiter is unleashing a powerful solar wind that's blasting through the Solar System.",
-            "url": "https://www.sciencealert.com/gaping-hole-in-the-sun-bigger-than-60-earths-just-blasted-solar-wind-right-at-us",
-            "urlToImage": "https://www.sciencealert.com/images/2023/12/coronal-hole-diagram.jpg",
-            "publishedAt": "2023-12-06T03:23:50Z",
-            "content": "A giant hole in the atmosphere of the Sun more than five times larger than the diameter of Jupiter is unleashing a powerful solar wind that's blasting through the Solar System.\r\nIt's called a coronal… [+4280 chars]"
         },
         {
             "source": {
@@ -109,19 +135,6 @@
         {
             "source": {
                 "id": null,
-                "name": "IFLScience"
-            },
-            "author": "Dr. Alfredo Carpineti",
-            "title": "Light-Speed Spaceships Would Have Trouble Communicating, Spelling Bad News For Interstellar Travel - IFLScience",
-            "description": "Sci-fi might have spoiled us with how communication would work in space.",
-            "url": "https://www.iflscience.com/light-speed-spaceships-would-have-trouble-communicating-spelling-bad-news-for-interstellar-travel-71865",
-            "urlToImage": "https://assets.iflscience.com/assets/articleNo/71865/aImg/72513/liu-zishan-meta.jpg",
-            "publishedAt": "2023-12-06T00:07:00Z",
-            "content": "Communication is key. Thats true on Earth and its true in space. But in space, you need to contend with a crucial fact of life. The speed of light is finite and distances between worlds are pretty bi… [+3035 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Space.com"
             },
             "author": "Monisha Ravisetti",
@@ -131,6 +144,19 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/rh5EmQQHqN7LVqvVZLFyAn-1200-80.jpg",
             "publishedAt": "2023-12-05T22:38:50Z",
             "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Jeremy Gray",
+            "title": "How a Photographer Captured Aurora, STEVE, and the Milky Way in One Shot - PetaPixel",
+            "description": "How a photographer captured an extremely rare night sky image.",
+            "url": "https://petapixel.com/2023/12/05/how-a-photographer-captured-aurora-steve-and-the-milky-way-in-one-shot/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2023/12/northernpixl-Aurora-3-featured.jpg",
+            "publishedAt": "2023-12-05T22:23:36Z",
+            "content": "© NorthernPixl\r\nBritish photographer Stephen Pemberton, who goes by NorthernPixl, has demonstrated how determination, preparation, and good luck can result in beautiful night sky photographs. When ph… [+6942 chars]"
         },
         {
             "source": {
@@ -161,6 +187,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Linguistics study claims that languages are louder in the tropics - Phys.org",
+            "description": "Languages are a key factor in human societies. They connect people, serve as a vehicle to pass on knowledge and ideas, but they also distinguish between different groups of people. Languages can therefore tell us a lot about the societies that use them. As la…",
+            "url": "https://phys.org/news/2023-12-linguistics-languages-louder-tropics.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/languages-are-louder-i.jpg",
+            "publishedAt": "2023-12-05T21:15:59Z",
+            "content": "Languages are a key factor in human societies. They connect people, serve as a vehicle to pass on knowledge and ideas, but they also distinguish between different groups of people. Languages can ther… [+4270 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Space.com"
             },
             "author": "Andrew Jones",
@@ -174,15 +213,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
+                "name": "PetaPixel"
             },
-            "author": "Science X",
-            "title": "Linguistics study claims that languages are louder in the tropics - Phys.org",
-            "description": "Languages are a key factor in human societies. They connect people, serve as a vehicle to pass on knowledge and ideas, but they also distinguish between different groups of people. Languages can therefore tell us a lot about the societies that use them. As la…",
-            "url": "https://phys.org/news/2023-12-linguistics-languages-louder-tropics.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/languages-are-louder-i.jpg",
-            "publishedAt": "2023-12-05T20:57:59Z",
-            "content": "Languages are a key factor in human societies. They connect people, serve as a vehicle to pass on knowledge and ideas, but they also distinguish between different groups of people. Languages can ther… [+3888 chars]"
+            "author": "Jeremy Gray",
+            "title": "10 Photos From the 2023 Northern Lights Photographer of the Year - PetaPixel",
+            "description": "Amazing aurora photos show the night sky bursting with color.",
+            "url": "https://petapixel.com/2023/12/05/10-photos-from-the-2023-northern-lights-photographer-of-the-year/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2023/12/nlpoty-2023-featured-v2.jpg",
+            "publishedAt": "2023-12-05T20:54:40Z",
+            "content": "Capture the Atlas revealed the winners of its annual Northern Lights Photographer of the Year competition, showcasing the year’s best aurora borealis or australis photos. \r\nCapture the Atlas is a pop… [+10248 chars]"
         },
         {
             "source": {
@@ -196,32 +235,6 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/friendly-hyenas-are-mo.jpg",
             "publishedAt": "2023-12-05T20:06:04Z",
             "content": "After more than 35 years of surveillance, Michigan State University researchers are exposing some of the secret workings of mobs. To be clear, these mobs are made up of spotted hyenas.\r\nPublishing in… [+6698 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Sharmila Kuthunur",
-            "title": "James Webb Space Telescope pierces through dust to find an ancient ghostly galaxy - Space.com",
-            "description": "\"It's potentially telling us there's a whole population of galaxies that have been hiding from us.\"",
-            "url": "https://www.space.com/james-webb-space-telescope-ghostly-galaxy-early-universe",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KsMojAjipmqoDpsGx2yc4R-1200-80.jpg",
-            "publishedAt": "2023-12-05T20:00:02Z",
-            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "Replacing bone saws with smart lasers - Phys.org",
-            "description": "Using lasers rather than scalpels and saws has many benefits in surgery. Yet they are only used in isolated cases. But that could be about to change: laser systems are getting smarter and better all the time, as a research team from the University of Basel de…",
-            "url": "https://phys.org/news/2023-12-bone-smart-lasers.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/replacing-bone-saws-wi.jpg",
-            "publishedAt": "2023-12-05T19:28:15Z",
-            "content": "Using lasers rather than scalpels and saws has many benefits in surgery. Yet they are only used in isolated cases. But that could be about to change: laser systems are getting smarter and better all … [+5556 chars]"
         },
         {
             "source": {
@@ -265,6 +278,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Astronomers determine the age of three mysterious baby stars at the heart of the Milky Way - Phys.org",
+            "description": "Through analysis of high-resolution data from a 10-meter telescope in Hawaii, researchers at Lund University in Sweden have succeeded in generating new knowledge about three stars at the very heart of the Milky Way. The stars proved to be unusually young with…",
+            "url": "https://phys.org/news/2023-12-astronomers-age-mysterious-baby-stars.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/astronomers-determine.jpg",
+            "publishedAt": "2023-12-05T17:38:30Z",
+            "content": "Through analysis of high-resolution data from a 10-meter telescope in Hawaii, researchers at Lund University in Sweden have succeeded in generating new knowledge about three stars at the very heart o… [+4168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Jonathan O'Callaghan",
+            "title": "Top space telescope from Europe seeks to solve riddles of the universe - Phys.org",
+            "description": "EU researchers expect unprecedented insights into galaxies from the study of a mysterious energy force.",
+            "url": "https://phys.org/news/2023-12-space-telescope-europe-riddles-universe.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/top-space-telescope-fr.jpg",
+            "publishedAt": "2023-12-05T17:38:04Z",
+            "content": "EU researchers expect unprecedented insights into galaxies from the study of a mysterious energy force.\r\nA powerful new European space telescope will bring astronomers closer than ever to answering a… [+6775 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Isaac Schultz",
@@ -274,19 +313,6 @@
             "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6cb77cd79cfb7e01dc561ddc0bc9f93d.jpg",
             "publishedAt": "2023-12-05T17:38:00Z",
             "content": "When you look in the mirror, what do you see? In all likelihood, you see a complex shape that you immediately recognize as yourself. Now, a team of researchers has found that mice appear capable of d… [+4032 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Harry Baker",
-            "title": "SpaceX rocket punches a hole in the clouds, birthing an ethereal halo around full moon - Livescience.com",
-            "description": "Shortly after lifting off from Florida, a SpaceX Falcon 9 rocket flew through clouds of ice crystals, temporarily creating a bright halo of light that appeared to surround the full moon.",
-            "url": "https://www.livescience.com/space/space-exploration/spacex-rocket-punches-a-hole-in-the-clouds-birthing-an-ethereal-halo-around-full-moon",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tbtcc8nNmjynaW4LeKamRR-1200-80.jpg",
-            "publishedAt": "2023-12-05T17:35:45Z",
-            "content": "The halo appeared around the full moon shortly after a Falcon 9 rocket carrying Starlink satellites lifted off from Cape Canaveral Space Force Station in Florida. (Image credit: Gilbert E. Plumer)\r\nA… [+3513 chars]"
         },
         {
             "source": {
@@ -343,6 +369,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Salon"
+            },
+            "author": "Nicole Karlis",
+            "title": "Wildfire smoke threatens to undo improvements on air pollution, study finds - Salon",
+            "description": "EPA regulations were supposed to improve air quality, but fires have limited or erased these gains: experts",
+            "url": "https://www.salon.com/2023/12/05/wildfire-smoke-threatens-to-undo-improvements-on-air-pollution-study-finds/",
+            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/12/california_wildfire_1538646370.jpg",
+            "publishedAt": "2023-12-05T16:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Major Antarctic glacier passed a tipping point in the last 80 years, research reveals - Phys.org",
+            "description": "Pine Island Glacier in West Antarctica has gone through an irreversible retreat, passing a tipping point within the last 80 years, researchers have found.",
+            "url": "https://phys.org/news/2023-12-major-antarctic-glacier-years-reveals.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/major-antarctic-glacie.jpg",
+            "publishedAt": "2023-12-05T15:54:04Z",
+            "content": "Pine Island Glacier in West Antarctica has gone through an irreversible retreat, passing a tipping point within the last 80 years, researchers have found.\r\nThe paper, \"Recent irreversible retreat pha… [+6017 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Thedebrief.org"
             },
             "author": "Micah Hanks, Micah Hanks",
@@ -382,19 +434,6 @@
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "US-India Space Cooperation: $1.5 Billion NASA-ISRO SAR Satellite to Map Earth Every 12 Days - Zee Business",
-            "description": "About Zee Business:Zee Business is India's Number 1 Hindi business news channel. It's your channel for profit and wealth. Watch Live coverage of Indian marke...",
-            "url": "https://www.youtube.com/watch?v=Hf9OIhkX2vE",
-            "urlToImage": "https://i.ytimg.com/vi/Hf9OIhkX2vE/maxresdefault.jpg",
-            "publishedAt": "2023-12-05T13:25:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Esa.int"
             },
             "author": null,
@@ -404,6 +443,32 @@
             "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/12/artist_impression_of_hot_gaseous_exoplanets/25349493-1-eng-GB/Artist_impression_of_hot_gaseous_exoplanets_pillars.jpg",
             "publishedAt": "2023-12-05T13:24:20Z",
             "content": "Science &amp; Exploration05/12/2023924 views37 likes\r\nAriel mission patch\r\nToday, the preliminary spacecraft design of ESAs future exoplanet mission Ariel got approval from the ESA review board and p… [+4036 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "Daily Telescope: An ancient galaxy behind a veil of dust - Ars Technica",
+            "description": "\"This thing is a real monster.\"",
+            "url": "https://arstechnica.com/space/2023/12/daily-telescope-an-ancient-galaxy-behind-a-veil-of-dust/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/aztecc71_f277w_f444w_almaB6_rgb_1200x800-1200x800-c-default-760x380.png",
+            "publishedAt": "2023-12-05T13:05:05Z",
+            "content": "Enlarge/ Color composite of galaxy AzTECC71 from multiple color filters in the NIRCam instrument on the James Webb Space Telescope.\r\n37\r\nWelcome to the Daily Telescope. There is a little too much dar… [+2169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Paul Sutter",
+            "title": "Interstellar astronauts would face years-long communication delays due to time dilation - Yahoo News",
+            "description": "Due to the mind-blowing distances and speeds required, interstellar travel remains a major spaceflight challenge. But new research highlights yet another...",
+            "url": "https://www.space.com/time-dilation-interstellar-communication-delays",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/btW3LYE92L0mvO831mSJpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/space_311/c0f13d2c6e52e9d3bc8d0c7bc2793eb9",
+            "publishedAt": "2023-12-05T13:00:01Z",
+            "content": "Due to the mind-blowing distances and speeds required, interstellar travel would be extraordinarily difficult, if not impossible, for humanity to achieve. But new research highlights yet another chal… [+5071 chars]"
         },
         {
             "source": {
@@ -446,19 +511,6 @@
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Wildfires in U.S. West undo air quality progress of past 20 years - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/12/05/wildfires-air-quality-progress-western-us",
-            "urlToImage": null,
-            "publishedAt": "2023-12-05T12:04:59Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Milwaukee Journal Sentinel"
             },
@@ -469,6 +521,19 @@
             "urlToImage": "https://www.jsonline.com/gcdn/authoring/authoring-images/2023/12/04/PMJS/71801977007-bx-142-674-f-9.jpeg?crop=1023,576,x0,y84&width=1023&height=576&format=pjpg&auto=webp",
             "publishedAt": "2023-12-05T12:04:28Z",
             "content": "A recent study has led scientists to ponder whether it was just an asteroid's collision with Earth that killed off the dinosaurs 66 million years ago.\r\nThe study posited that volcanic eruptions may h… [+8099 chars]"
+        },
+        {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": "James Romero",
+            "title": "800,000 years ago, a huge meteorite hit Earth. Scientists may have just found where. - National Geographic",
+            "description": "The missing crater formed in a catastrophic collision that may have scattered debris from China to Antarctica.",
+            "url": "https://www.nationalgeographic.com/premium/article/have-scientists-found-800000-year-old-meteorite-impact-crater",
+            "urlToImage": "https://i.natgeofe.com/n/50b072bf-a93e-424a-be49-0578a412756d/GettyImages-556920897_16x9.jpg?w=1200",
+            "publishedAt": "2023-12-05T12:02:57Z",
+            "content": "In 2011 geologist Kerry Sieh and his husband were shopping in Ho Chi Minh City, Vietnam, when they popped into a little jewelry shop to check out the countrys famous rubies and spinels. But once insi… [+8615 chars]"
         },
         {
             "source": {
@@ -538,19 +603,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "Diamonds and rust help unveil 'impossible' quasi-particles - Phys.org",
-            "description": "Researchers have discovered magnetic monopoles—isolated magnetic charges—in a material closely related to rust, a result that could be used to power greener and faster computing technologies.",
-            "url": "https://phys.org/news/2023-12-diamonds-rust-unveil-impossible-quasi-particles.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/diamonds-and-rust-help.jpg",
-            "publishedAt": "2023-12-05T10:00:01Z",
-            "content": "Researchers have discovered magnetic monopolesisolated magnetic chargesin a material closely related to rust, a result that could be used to power greener and faster computing technologies.\r\nResearch… [+5412 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Live Science"
             },
             "author": "Briley Lewis",
@@ -577,19 +629,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Globalcyclingnetwork.com"
-            },
-            "author": null,
-            "title": "10 ways to improve your average speed on a road bike - Global Cycling Network",
-            "description": "GCN's Hank shares 10 ways any cyclist can get faster on their bike: Strength training, fitness, training plans, nutrition and tech. It's all in here.",
-            "url": "https://www.globalcyclingnetwork.com/how-to/skills/10-ways-to-improve-your-average-speed-on-a-road-bike",
-            "urlToImage": "https://cdn.sanity.io/images/hk2y3slq/production/cbb7fb27b26e3128bb02f5b6bc05e4f173d19350-1280x720.jpg/HFYXHN6UiU8-HD.jpg?q=100&auto=format",
-            "publishedAt": "2023-12-05T09:03:09Z",
-            "content": "Fuel your rides\r\nIf you want to ride fast, make sure you fuel your rides. To do so, have a carbohydrate-rich meal at least two hours before you leave, and if you're riding for more than 90 minutes, e… [+437 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Big Think"
             },
             "author": "Ethan Siegel",
@@ -599,19 +638,6 @@
             "urlToImage": "https://bigthink.com/wp-content/uploads/2023/12/hikerr-negview.png?w=1024&h=576&crop=1",
             "publishedAt": "2023-12-05T07:00:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CounterPunch"
-            },
-            "author": "Evaggelos Vallianatos",
-            "title": "Why Was the Antikythera Mechanism So Far Ahead of its Time? - CounterPunch",
-            "description": "Prologue In its November 2023 issue, the Website Grunge assumed that certain science questions “won’t be answered in the next 50 years.” One of those",
-            "url": "https://www.counterpunch.org/2023/12/05/why-was-the-antikythera-mechanism-so-far-ahead-of-its-time/",
-            "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2023/12/a-black-and-white-image-of-a-cloud-with-red-text.jpeg",
-            "publishedAt": "2023-12-05T06:48:09Z",
-            "content": ": Of the Cosmos. Back plate inscription, Antikythera Mechanism. X-ray Computed Tomography. Slice of Fragment B. Courtesy X-Tek Systems (Nikon Metrology)\r\nPrologue\r\nIn its November 2023 issue, the Web… [+11874 chars]"
         },
         {
             "source": {
@@ -733,6 +759,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Space.com"
+            },
+            "author": "Keith Cooper",
+            "title": "James Webb Space Telescope gazes into 'The Brick,' a dark nebula near the Milky Way's heart - Space.com",
+            "description": "Ice in a dark nebula found near the center of our galaxy is compounding the mystery of why this cloud isn't forming stars.",
+            "url": "https://www.space.com/james-webb-space-telescope-investigates-the-brick-dark-nebula",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5MjpbQfoARDbbpyByAkoNX-1200-80.png",
+            "publishedAt": "2023-12-04T20:00:01Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "BBC News"
             },
             "author": "Michael Marshall",
@@ -742,6 +781,32 @@
             "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0gxl3wg.jpg",
             "publishedAt": "2023-12-04T20:00:00Z",
             "content": "By Michael MarshallFeatures correspondent\r\nThe human brain is turning out to be much more complicated than scientists could have ever imagined (Credit: Mareen Fischinger/Forschungszentrum Julich)\r\nOu… [+15906 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Keith Cooper",
+            "title": "Strange object trapped between Saturn and Uranus is transforming before our eyes - Livescience.com",
+            "description": "A distant comet trapped in orbit between Saturn and Uranus is accompanied by a transforming disk of icy dust, new observations reveal.",
+            "url": "https://www.space.com/comet-chiron-centaur-icy-rings-structure-transformation",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZvMGkwfhHKCs9UaP8iNuqK-1200-80.jpg",
+            "publishedAt": "2023-12-04T19:04:07Z",
+            "content": "A bizarre object that sometimes gets as close to the sun as Saturn, and other times retreats as far out as Uranus, has been discovered to have a transforming disk of dust around it that changes shape… [+4607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Fernandez",
+            "title": "Historic magnetic storms help scientists learn what to expect when one hits - Space.com",
+            "description": "Historic magnetic storms, including the newly identified Chapman-Silverman storm, can help us understand what such events could do to our power grid.",
+            "url": "https://www.space.com/magnetic-storm-historic-earth-solar-flares-power-grid",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PcVitqQQxejj96Ypq73oBR-1200-80.jpg",
+            "publishedAt": "2023-12-04T19:00:01Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
         },
         {
             "source": {
@@ -759,27 +824,14 @@
         {
             "source": {
                 "id": null,
-                "name": "Theregister.com"
+                "name": "Neurosciencenews.com"
             },
-            "author": "Richard Speed",
-            "title": "Remember when the Hubble Space Telescope was more punchline than science powerhouse? - The Register",
-            "description": "30 years ago astronauts embarked on ambitious mission to fix Hubble ... and NASA's reputation",
-            "url": "https://www.theregister.com/2023/12/04/remember_when_the_hubble_space/",
-            "urlToImage": "https://regmedia.co.uk/2015/04/25/hubble_flaw.jpg",
-            "publishedAt": "2023-12-04T18:30:00Z",
-            "content": "Today is the thirtieth anniversary since NASA launched the first servicing mission for the stricken Hubble observatory, a record that lands just as the the space telescope faces a fresh round of fixe… [+4650 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "The evolution of human altriciality and brain development in comparative context - Nature.com",
-            "description": "Humans have the highest evolutionary rate towards becoming more altricial across all placental mammals, but this results primarily from postnatal enlargement of brain size rather than neonatal changes.",
-            "url": "https://www.nature.com/articles/s41559-023-02253-z",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-023-02253-z/MediaObjects/41559_2023_2253_Fig1_HTML.png",
-            "publishedAt": "2023-12-04T16:19:02Z",
+            "author": "Neuroscience News",
+            "title": "Human Brain Development: Growth After Birth Challenges Previous Assumptions - Neuroscience News",
+            "description": null,
+            "url": "https://neurosciencenews.com/human-brain-development-evolution-25306/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-04T16:14:21Z",
             "content": null
         },
         {
@@ -798,19 +850,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
-            },
-            "author": "Keith Cooper",
-            "title": "Mighty morphin' Centaur rings — a distant icy object's rings are transforming - Space.com",
-            "description": "A distant comet trapped in orbit between Saturn and Uranus is accompanied by a transforming disk of icy dust.",
-            "url": "https://www.space.com/comet-chiron-centaur-icy-rings-structure-transformation",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7qtNqufWZnsoffEN2EtiPd-1200-80.jpg",
-            "publishedAt": "2023-12-04T16:00:01Z",
-            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Phys.Org"
             },
             "author": "Science X",
@@ -820,84 +859,6 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-map-crocod.jpg",
             "publishedAt": "2023-12-04T16:00:01Z",
             "content": "A research team, led by scientists at the University of York, mapped the family tree of the ferocious ambush-predators and their extinct relatives known as Pseudosuchia. They then compared this with … [+4464 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Birte Vierjahn",
-            "title": "On/off in trillionths of a second: Optically controlled magnetic fields - Phys.org",
-            "description": "Physicists at the University of Duisburg-Essen and their cooperating partners have discovered that tiny graphene sheets can become electromagnets under infrared radiation. The study is published in the journal Nature Communications.",
-            "url": "https://phys.org/news/2023-12-onoff-trillionths-optically-magnetic-fields.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/onoff-in-trillionths-o-1.jpg",
-            "publishedAt": "2023-12-04T15:53:56Z",
-            "content": "Physicists at the University of Duisburg-Essen and their cooperating partners have discovered that tiny graphene sheets can become electromagnets under infrared radiation. The study is published in t… [+3009 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo! Voices",
-            "title": "The elusive origins of long gamma-ray bursts may finally be revealed - Yahoo! Voices",
-            "description": null,
-            "url": "https://www.yahoo.com/news/elusive-origins-long-gamma-ray-150001028.html",
-            "urlToImage": null,
-            "publishedAt": "2023-12-04T15:00:01Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "IFLScience"
-            },
-            "author": "Dr. Alfredo Carpineti",
-            "title": "Paradoxical Dark Region At Center Of Our Galaxy Has Finally Been Explained - IFLScience",
-            "description": "‘The Brick’ should be a star-forming powerhouse instead little is happening there.",
-            "url": "https://www.iflscience.com/paradoxical-dark-region-at-center-of-our-galaxy-has-finally-been-explained-71831",
-            "urlToImage": "https://assets.iflscience.com/assets/articleNo/71831/aImg/72473/brick-meta.png",
-            "publishedAt": "2023-12-04T14:33:41Z",
-            "content": "At the center of our galaxy, the Milky Way, there is a turbulent dark cloud called \"The Brick\". It is dense, opaque, and full of cold gas, and for decades researchers couldnt explain why a cloud that… [+2347 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Georgina Torbet",
-            "title": "Space lasers! - The Verge",
-            "description": "The Deep Space Network is aging and needs to be replaced. Our ability to travel to Mars will depend on a reliable communications system. Can lasers do the trick?",
-            "url": "https://www.theverge.com/23981012/deep-space-network-optical-communication-laser-infrastructure",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_h0s5uZnbPOunM5VPoGy1XfIi2g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25122137/236836_Infrastructure_SPACE_LASER_Sisi_Kim.jpg",
-            "publishedAt": "2023-12-04T13:30:00Z",
-            "content": "If we want to go to Mars, we need a better way to reliably relay messages through space. The solution could be optical communication, or lasers.\r\nByGeorgina Torbet\r\nDec 4, 2023, 1:30 PM UTC|Comments\r… [+16474 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "India Today"
-            },
-            "author": "Srimoyee Chowdhury",
-            "title": "Indian woman drives rover on Mars. Her story is all about reaching for the stars - India Today",
-            "description": "Dr. Akshata Krishnamurthy turned this childhood dream into reality, emerging as the first Indian citizen to operate a rover on Mars, marking a monumental achievement in her career.",
-            "url": "https://www.indiatoday.in/trending-news/story/woman-becomes-first-indian-citizen-to-operate-a-rover-on-mars-read-her-story-2471883-2023-12-04",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202312/mars-rover-042305652-16x9_0.jpg?VersionId=eYzCa6ssU.6kd3v5YdUIIqiN6IVW.Z5L",
-            "publishedAt": "2023-12-04T13:23:19Z",
-            "content": "Working for NASA is a dream for many but very few actually fulfill it and then tell the tale of their success. In today’s episode of stories that are brimming with positivity, this aerospace engineer… [+1496 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "David Schechter, Haley Rush, Chance Horner",
-            "title": "Ancient methane escaping from melting glaciers could potentially warm the planet even more - CBS News",
-            "description": "Spiking temperatures in the Arctic are rapidly melting glaciers. Scientists are now worried about underground methane, a potent greenhouse gas, leaking up to the surface.",
-            "url": "https://www.cbsnews.com/news/methane-escaping-melting-glaciers-svalbard-norway-climate-change/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/01/6636c25f-15ff-4cf4-bf94-d7c6663f5f31/thumbnail/1200x630/d216f9e9eb6fd3645c3dedf504e76cd7/methane.jpg?v=2a3c5d91939c9bf28fa0bc6fdfacfdd4",
-            "publishedAt": "2023-12-04T13:07:00Z",
-            "content": "As mighty glaciers melt in the Arctic, new research finds million-year-old methane gas trapped beneath the ice is surfacing, with a potential to further warm the planet. \r\n\"Glacial retreat is the big… [+5617 chars]"
         }
     ]
 }

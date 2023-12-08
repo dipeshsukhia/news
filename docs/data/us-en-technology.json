@@ -1,7 +1,46 @@
 {
     "status": "ok",
-    "totalResults": 67,
+    "totalResults": 65,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Super Smash Bros. Ultimate Sora amiibo Locks In February 2024 Release Date - Nintendo Life",
+            "description": "The Kingdom Hearts rep is on the way",
+            "url": "https://www.nintendolife.com/news/2023/12/super-smash-bros-ultimate-sora-amiibo-locks-in-february-2024-release-date",
+            "urlToImage": "https://images.nintendolife.com/4856bc539a173/1280x720.jpg",
+            "publishedAt": "2023-12-07T01:25:00Z",
+            "content": "I don't pick up every amiibo, but I definitely plan to get the Sora one because ot the legacy behind Kingdom Hearts. I never had the opportunity to play them as I never had a PlayStation, but I got a… [+2453 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Anker's Qi2 Chargers Will Charge iPhones at 15W - MacRumors",
+            "description": "Next-generation Qi2 chargers from Anker will charge the iPhone 13, iPhone 14, and iPhone 15 at faster 15W speeds, Anker told The Verge. Current...",
+            "url": "https://www.macrumors.com/2023/12/06/anker-qi2-15w-charging/",
+            "urlToImage": "https://images.macrumors.com/t/ZIXbcz3QjAfUoZY0c5rL126a-8w=/2500x/article-new/2023/09/magsafe-blue-2.jpg",
+            "publishedAt": "2023-12-07T00:53:30Z",
+            "content": "Next-generation Qi2 chargers from Anker will charge the iPhone 13, iPhone 14, and iPhone 15 at faster 15W speeds, Anker told The Verge. Current Qi-based chargers from companies like Anker are limited… [+1675 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -18,15 +57,15 @@
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Decrypt"
             },
-            "author": null,
-            "title": "Nope Challenge - Official Trailer | Upload VR Showcase Winter 2023 - IGN",
-            "description": "Watch the trailer for Nope Challenge to discover what this upcoming VR game is all about--and it's probably exactly as you imagined. The trailer showcases va...",
-            "url": "https://www.youtube.com/watch?v=QQMgYFvvhUI",
-            "urlToImage": "https://i.ytimg.com/vi/QQMgYFvvhUI/maxresdefault.jpg",
-            "publishedAt": "2023-12-06T23:23:31Z",
-            "content": null
+            "author": "Kate Irwin",
+            "title": "Merit Circle Brings Immutable zkEVM Into Beam Crypto Gaming Ecosystem - Decrypt",
+            "description": "Merit Circle’s Beam tech is expanding beyond Avalanche to the Immutable zkEVM as a part of the DAO's \"chain agnostic\" approach.",
+            "url": "https://decrypt.co/208912/merit-circle-brings-immutable-zkevm-into-beam-crypto-gaming-ecosystem",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/gaming-gID_7.jpg",
+            "publishedAt": "2023-12-06T23:31:04Z",
+            "content": "The gaming-focused group Merit Circle DAOwhich previously launched an Avalanche subnet called Beamhas announced that its Sphere NFT marketplace and tech stack will now also be compatible with Immutab… [+2589 chars]"
         },
         {
             "source": {
@@ -43,29 +82,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": "Zack Zwiezen",
-            "title": "New Steam Sale Contains Some Of The Best Games Ever - Kotaku",
-            "description": "Big 2023 hits like Diablo IV, Starfield, and more are on sale ahead of this year’s Game Awards",
-            "url": "https://kotaku.com/steam-sale-2023-game-awards-starfield-diablo-gta-1851078948",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e88cde1e186ca02b126e17444b3fcd5d.jpg",
-            "publishedAt": "2023-12-06T22:34:55Z",
-            "content": "The 2023 Game Awards are happening on December 7. And to celebrate a night of mostly trailers, ads, and celebrities with maybe (if were lucky) a few awards tossed in, Steam and The Game Awards have t… [+2136 chars]"
+            "author": "Mark Gurman",
+            "title": "Apple's (AAPL) Steve Hotelling, Who Invented iPhone Screen and Touch ID, Retires - Bloomberg",
+            "description": "Apple Inc.’s senior executive overseeing touch-screen technology, health sensors and the company’s Face ID interface is leaving the company, according to people with knowledge of the matter.",
+            "url": "https://www.bloomberg.com/news/articles/2023-12-06/apple-aapl-executive-who-invented-iphone-multitouch-and-touch-id-leaving",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE18MkyNNMZ8/v3/1200x1046.jpg",
+            "publishedAt": "2023-12-06T22:51:42Z",
+            "content": "Apple Inc.s senior executive overseeing touch-screen technology, health sensors and the companys Face ID interface is leaving the company, according to people with knowledge of the matter.\r\nSteve Hot… [+238 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The Drive"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": null,
+            "author": "The War Zone",
             "title": "This Navy Drone Boat With A Fascinating Past Can Be Yours - The War Zone",
-            "description": "The uncrewed test vessel helped blaze the way for the drone boat capabilities we are seeing come to fruition today.",
-            "url": "https://www.thedrive.com/the-war-zone/this-navy-drone-boat-with-a-fascinating-past-can-be-yours#article",
-            "urlToImage": "https://www.thedrive.com/uploads/2023/12/06/USSV-HTF-auction.jpg?auto=webp",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRoZWRyaXZlLmNvbS90aGUtd2FyLXpvbmUvdGhpcy1uYXZ5LWRyb25lLWJvYXQtd2l0aC1hLWZhc2NpbmF0aW5nLXBhc3QtY2FuLWJlLXlvdXJz0gEA?oc=5",
+            "urlToImage": null,
             "publishedAt": "2023-12-06T22:34:13Z",
-            "content": "If youre in the market for a new addition to your boat collection, or are looking to get in the game with a pretty unique first-time purchase, you might be interested in this vessel which is currentl… [+8438 chars]"
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Andrew Cunningham",
+            "title": "Intel, of all companies, knocks AMD's CPU numbering in now-deleted presentation - Ars Technica",
+            "description": "When it comes to recycling and rebranding old chips, no one's hands are clean.",
+            "url": "https://arstechnica.com/gadgets/2023/12/intel-accuses-amd-of-selling-old-cpus-with-new-model-numbers-which-intel-also-does/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/intel-core-truths-02-760x380.jpg",
+            "publishedAt": "2023-12-06T22:19:17Z",
+            "content": "Enlarge/ A now-deleted Intel presentation makes a good point, but with a side of disingenuousness. \r\n58\r\nAMD changed the way it numbers its Ryzen laptop processors last year, switching to a new syste… [+5624 chars]"
         },
         {
             "source": {
@@ -79,6 +131,58 @@
             "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1618df88c23f7c9a2a325a099974db55.gif",
             "publishedAt": "2023-12-06T21:55:00Z",
             "content": "Todays big Gemini AI announcement from Google was inevitably going to suck all the air from any other big Pixel product updates. However, amid all the talk of native AI on Pixel 8 Pros, Google is als… [+3249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Krystle Vermes",
+            "title": "Discord's latest update brings a major mobile makeover, for better or worse - Android Police",
+            "description": "Organization and customization are prioritized in the redesigned app",
+            "url": "https://www.androidpolice.com/discord-mobile-app-redesign/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/discord-2-ap-hero.jpg",
+            "publishedAt": "2023-12-06T21:54:00Z",
+            "content": "Summary\r\n<ul><li> Discord has redesigned its mobile app to improve organization and make it easier to navigate through multiple conversations. </li><li> The update includes features like a new dark t… [+2814 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "Meta's new AI image generator was trained on 1.1 billion Instagram and Facebook photos - Ars Technica",
+            "description": "\"Imagine with Meta AI\" turns prompts into images, trained using public Facebook data.",
+            "url": "https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/meta_emu_hero_1-760x380.jpg",
+            "publishedAt": "2023-12-06T21:52:14Z",
+            "content": "Enlarge/ Three images generated by \"Imagine with Meta AI\" using the Emu AI model.\r\n40\r\nOn Wednesday, Meta released a free standalone AI image generator website, \"Imagine with Meta AI,\" based on its E… [+4810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "SpaceX's next Starship launch could feature key refueling test - Space.com",
+            "description": "SpaceX may aim to conduct a propellant-transfer demonstration on Starship's third flight.",
+            "url": "https://www.space.com/spacex-starship-refueling-test-flight",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pRpgnaNoEAjCKkgGfrorLN-1200-80.jpg",
+            "publishedAt": "2023-12-06T21:30:29Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Google has a fix for missing Drive files on desktop - The Verge",
+            "description": "Google has released a solution for users who found they had months of missing files on Drive’s desktop app.",
+            "url": "https://www.theverge.com/2023/12/6/23991183/google-drive-lost-files-desktop-fix",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/6PmSC3z2Tj2x2MLtAbodD297WI8=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954499/acastro_STK459_03.jpg",
+            "publishedAt": "2023-12-06T21:28:49Z",
+            "content": "Google has a fix for missing Drive files on desktop\r\nGoogle has a fix for missing Drive files on desktop\r\n / After a bug caused files to disappear on Drive for desktop, Google has outlined the steps … [+1569 chars]"
         },
         {
             "source": {
@@ -135,19 +239,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
-            },
-            "author": "Kif Leswing",
-            "title": "Meta and Microsoft say they will buy AMD's new AI chip as an alternative to Nvidia's - CNBC",
-            "description": "AMD's newest AI chip, the Instinct MI300X, could give big tech buyers leverage over Nvidia, if it works as advertised and is price-competitive.",
-            "url": "https://www.cnbc.com/2023/12/06/meta-and-microsoft-to-buy-amds-new-ai-chip-as-alternative-to-nvidia.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318.jpeg?v=1701900216&w=1920&h=1080",
-            "publishedAt": "2023-12-06T21:09:30Z",
-            "content": "Meta, OpenAI, and Microsoft said at an AMD investor event Wednesday they will use AMD's newest AI chip, the Instinct MI300X. It's the biggest sign so far that technology companies are searching for a… [+3523 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "New York Post"
             },
             "author": "Jennifer Gould",
@@ -157,6 +248,19 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/12/smuckers.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2023-12-06T20:55:00Z",
             "content": "This is sweet! \r\nThe fruit spread-famous Smucker family is auctioning one of its Plaza Hotel condos a one-bedroom, one-bath pied-à-terre with a terrace, which is rare for the famed Central Park-facin… [+1972 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Alice Newcome-Beill",
+            "title": "Steam Sale: Save on past winners, nominees from The Game Awards - Polygon",
+            "description": "Select nominees for the 2023 Game Awards, as well as winners from the past nine years, are currently on sale on Steam",
+            "url": "https://www.polygon.com/deals/2023/12/6/23990684/steam-goty-game-awards-2023-deal-sale",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/NmOSwQ8BDgMOweJN-J1rm8wMDYU=/0x38:1934x1051/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24711298/idris_elba_brighter.jpg",
+            "publishedAt": "2023-12-06T20:37:50Z",
+            "content": "Once again, its time for Geoff Keighley to bestow his blessings on the best games of the year before retreating to Valhalla to feast and slumber. To celebrate the occasion, Steam is currently offerin… [+6235 chars]"
         },
         {
             "source": {
@@ -174,15 +278,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Cord Cutters News, LLC"
+                "name": "MacRumors"
             },
-            "author": "Roger Cheng",
-            "title": "Comedy Central, MTV, and Paramount Network Streaming Apps Are Getting Shut Down - Cord Cutters News",
-            "description": "Paramount will shut down the streaming app version of three of its key networks, Comedy Central, MTV and Paramount Network. While they remain live now, a listing on the Apple App Store says the apps will be discontinued. Instead, it directs viewers to watch t…",
-            "url": "https://cordcuttersnews.com/comedy-central-mtv-and-paramount-network-streaming-apps-are-getting-shut-down/",
-            "urlToImage": "https://cordcuttersnews.com/wp-content/uploads/2020/07/South-Park.jpg",
-            "publishedAt": "2023-12-06T20:07:17Z",
-            "content": "Paramount will shut down the streaming app version of three of its key networks, Comedy Central, MTV and Paramount Network. \r\nWhile they remain live now, a listing on the Apple App Store says the app… [+1010 chars]"
+            "author": "Juli Clover",
+            "title": "Apple Eliminating iTunes Movies and TV Show Apps in tvOS 17.2 - MacRumors",
+            "description": "Apple is doing away with the redundant iTunes Movies and iTunes TV Show apps on the Apple TV starting with the tvOS 17.2 update. As noted by 9to5Mac,...",
+            "url": "https://www.macrumors.com/2023/12/06/apple-itunes-movies-tv-show-apps-tvos-17-2/",
+            "urlToImage": "https://images.macrumors.com/t/yiYYCcpk2PGGLOWRwcpVRA7_xb0=/2000x/article-new/2023/12/apple-tv-itunes-purchases.jpg",
+            "publishedAt": "2023-12-06T20:05:43Z",
+            "content": "('https://www.macrumors.com/2023/12/06/apple-itunes-movies-tv-show-apps-tvos-17-2/')Apple is doing away with the redundant iTunes Movies and iTunes TV Show apps on the Apple TV starting with the tvOS… [+1982 chars]"
         },
         {
             "source": {
@@ -226,15 +330,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Videocardz.com"
+                "name": "Android Authority"
             },
             "author": null,
-            "title": "AMD's latest driver lowers high idle power on Radeon RX 7800/7700/7600 GPUs connected to high refresh rate monitors - VideoCardz.com",
-            "description": "High idle power improvements for select Radeon RX 7000 cards with high refresh rate and dual monitors AMD rolled out an important driver update yesterday, introducing various enhancements such as HAGS (Hardware Accelerated GPU Scheduling) support, addition of…",
-            "url": "https://videocardz.com/newz/amds-latest-driver-lowers-high-idle-power-on-radeon-rx-7800-7700-7600-gpus-connected-to-high-refresh-rate-monitors",
-            "urlToImage": "https://cdn.videocardz.com/1/2023/12/AMD-RADEON-RX-7800-NAVI-32-HERO.jpg",
-            "publishedAt": "2023-12-06T19:15:00Z",
-            "content": "AMD rolled out an important driver update yesterday, introducing various enhancements such as HAGS (Hardware Accelerated GPU Scheduling) support, addition of HYPR-RX Eco mode, and optimizations tailo… [+2340 chars]"
+            "title": "OnePlus does the opposite of the iPhone 15, gives new phone huge cooling chamber - Android Authority",
+            "description": "OnePlus's latest flagship phone got the full teardown treatment. The teardown reveals the OnePlus 12 as a large cooling chamber.",
+            "url": "https://www.androidauthority.com/oneplus-12-cooling-3392103/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/12/OnePlus-12-launch-stream.jpg",
+            "publishedAt": "2023-12-06T19:18:57Z",
+            "content": "<ul><li>A teardown of the OnePlus 12 has revealed the components within the handset.</li><li>The teardown shows that the OnePlus 12 has a massive cooling chamber hiding inside of it.</li></ul>\r\nWhile… [+1362 chars]"
         },
         {
             "source": {
@@ -248,6 +352,19 @@
             "urlToImage": "https://assetsio.reedpopcdn.com/baldurs-gate-3-romance-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
             "publishedAt": "2023-12-06T19:08:30Z",
             "content": "Baldur's Gate 3 is pretty popular, it turns out. So popular that more collective human time has been spent chatting up hot vampires, shagging bears and being turned into sentient cheese than human ci… [+3083 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -265,6 +382,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Dexerto"
+            },
+            "author": "Patrick Dane",
+            "title": "Best live service games of 2023 - Dexerto",
+            "description": "There were some amazing Live Service offerings this year and we've rounded up the best ones. Here are our top 5 live service games of the year.",
+            "url": "https://www.dexerto.com/gaming/best-live-service-games-of-2023-2417651/",
+            "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/12/06/live-service-featured.jpg",
+            "publishedAt": "2023-12-06T18:32:25Z",
+            "content": "There have been a lot of excellent new games in 2023 from Baldurs Gate to The Legend of Zelda: Tears of the Kingdom, but theres also been great support for older titles. If youre looking for somethin… [+5905 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Jalopnik"
             },
             "author": "Steve DaSilva",
@@ -278,6 +408,19 @@
         {
             "source": {
                 "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile, Abhijeet Mishra",
+            "title": "Flickr users love photos shot by the Galaxy S23 Ultra - SamMobile - Samsung news",
+            "description": "Samsung's flagship smartphones may not have the most bleeding-edge camera tech compared to phones from Chinese brands, but the overall ...",
+            "url": "https://www.sammobile.com/news/galaxy-s23-ultra-photos-loved-on-flickr/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/03/Galaxy-S23-Ultra-Green-3-720x405.jpg",
+            "publishedAt": "2023-12-06T18:05:00Z",
+            "content": "Samsung's flagship smartphones may not have the most bleeding-edge camera tech compared to phones from Chinese brands, but the overall photography and videography experience that they offer remains t… [+1941 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "9to5google.com"
             },
             "author": "Ben Schoon",
@@ -287,19 +430,6 @@
             "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/Pixel-8-Pro-Lifestyle-topdown-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
             "publishedAt": "2023-12-06T18:03:00Z",
             "content": "Googles Pixel phones, especially those powered by Tensor chips, arent known for their gaming performance, but there seems to be a considerable upgrade coming with the December 2023 update as a GPU up… [+2073 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Insider-gaming.com"
-            },
-            "author": "Tom Henderson",
-            "title": "EXCLUSIVE - Details on the New Action RPG by Xbox and Wu-Tang Clan - Insider Gaming",
-            "description": "Insider Gaming has learned of new details on Project Shaolin, a new action RPG in partnership with Xbox and Wu-Tang Clan.",
-            "url": "https://insider-gaming.com/wu-tang-clan-xbox-project-shaolin/",
-            "urlToImage": "https://insider-gaming.com/wp-content/uploads/2023/12/wu-tang-clan-xbox.jpg",
-            "publishedAt": "2023-12-06T18:01:13Z",
-            "content": "Details first emerged on Project Shaolin in October 2021 following the infamous NVIDIA leak that revealed a slew of project codenames of in-development games. One such leaked project was Shaolin, and… [+2488 chars]"
         },
         {
             "source": {
@@ -317,19 +447,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Dua Rashid",
-            "title": "The iPhone 13 and iPhone 14 to Get Faster Wireless Charging - Gizmodo",
-            "description": "Qi2 Wireless Charging should be coming to last-gen iPhones later this month.",
-            "url": "https://gizmodo.com/apple-iphone-14-iphone-13-qi2-wireless-charging-1851076837",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2e2a8d7977875241f66a3defdce3e5d9.jpg",
-            "publishedAt": "2023-12-06T17:55:00Z",
-            "content": "Theres good news for iPhone 13 and iPhone 14 users still holding off on upgrading to an iPhone 15. 9to5Mac reports that the iOS 17.2 update will offer Qi2 wireless charging support like on the iPhone… [+1531 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Kotaku"
             },
             "author": "Ethan Gach",
@@ -342,29 +459,16 @@
         },
         {
             "source": {
-                "id": "ign",
-                "name": "IGN"
+                "id": null,
+                "name": "Nintendo.com"
             },
-            "author": "Rebekah Valentine",
-            "title": "Day of the Devs Shows New Games From Boyfriend Dungeon, Snipperclips Devs and More - IGN",
-            "description": "Day of the Devs consistently shows off some of the most inventive, weird, and exciting upcoming indie games in the industry, and this year is no exception. I can’t pick favorites, so here’s a little tiny rundown of everything we just saw in the show, though I…",
-            "url": "https://www.ign.com/articles/day-of-the-devs-shows-new-games-from-boyfriend-dungeon-snipperclips-devs-and-more",
-            "urlToImage": "https://assets1.ignimgs.com/2021/02/12/militsioner---screen-9-1613160466816.jpg?width=1280",
-            "publishedAt": "2023-12-06T17:16:21Z",
-            "content": "Every year, I end up writing roundups of a lot of indie showcases. But inevitably, Day of the Devs showcases are always my favorites. Originally an annual in-person show in San Francisco run by Doubl… [+12125 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Sarah Perez",
-            "title": "Meta AI adds Reels support and ‘reimagine,’ a way to generate new AI images in group chats, and more - TechCrunch",
-            "description": "Alongside other AI updates announced today, Meta AI, the company's generative AI experience, is gaining new capabilities starting today, including the",
-            "url": "https://techcrunch.com/2023/12/06/meta-ai-adds-reels-support-and-reimagine-a-way-to-generate-new-ai-images-in-group-chats/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/01_Reimagine_Carousel-01.png?resize=1200,1045",
-            "publishedAt": "2023-12-06T17:01:45Z",
-            "content": "Alongside other AI updates announced today, Meta AI, the company’s generative AI experience, is gaining new capabilities starting today, including the ability to create new AI images when prompted as… [+3917 chars]"
+            "author": "Nintendo",
+            "title": "Single-player games for Nintendo Switch - Nintendo",
+            "description": "Take on a thrilling solo adventure with this selection of games. Available to buy on Nintendo.com and Nintendo eShop.",
+            "url": "https://www.nintendo.com/us/whatsnew/take-on-thrilling-adventures-in-these-single-player-games/",
+            "urlToImage": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+            "publishedAt": "2023-12-06T17:04:30Z",
+            "content": "When it comes to games, sometimes you just feel like single-handedly taking on overwhelming odds, confronting hordes of enemies, and saving the kingdom/universe/place-where-you-keep-all-your-stuff.\r\n… [+235 chars]"
         },
         {
             "source": {
@@ -394,6 +498,19 @@
         },
         {
             "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Wesley Yin-Poole",
+            "title": "Call of Duty: Warzone Season 1 Patch Notes Shake Up the Battle Royale - IGN",
+            "description": "Activision has published the Call of Duty: Warzone Season 1 Patch Notes, and just like the update for Modern Warfare 3, Warzone’s update makes significant changes.",
+            "url": "https://www.ign.com/articles/call-of-duty-warzone-season-1-patch-notes-shake-up-the-battle-royale",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/12/06/warzone-1701880010754.jpg?width=1280",
+            "publishedAt": "2023-12-06T16:32:04Z",
+            "content": "Activision has published the Call of Duty: Warzone Season 1 patch notes as part of the launch today, December 6, and just like the update for Modern Warfare 3, Warzones update makes significant chang… [+56873 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "YouTube"
             },
@@ -407,19 +524,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "PCGamesN"
-            },
-            "author": "Niall Walsh",
-            "title": "You can win a free Steam Deck OLED just by watching The Game Awards - PCGamesN",
-            "description": "Geoff is once again offering a big prize to anyone watching The Game Awards this year as you have to chance to win one of 100 OLED Steam Decks",
-            "url": "https://www.pcgamesn.com/steam-deck/win-a-free-oled-steam-deck-the-game-awards",
-            "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/12/the-game-awards-steam-deck-oled-giveaway.jpg",
-            "publishedAt": "2023-12-06T16:10:40Z",
-            "content": "While there is plenty of hype for The Game Awards 2024 – and a fair bit of controversy – one thing that is becoming somewhat of an annual tradition is the giving away of Steam Decks. This year, 100 1… [+1878 chars]"
-        },
-        {
-            "source": {
                 "id": "polygon",
                 "name": "Polygon"
             },
@@ -430,19 +534,6 @@
             "urlToImage": "https://cdn.vox-cdn.com/thumbor/OZ2Afx2LKMcwmnY1ohPWe0FfpmM=/0x541:8461x4971/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25119909/Final_2.jpg",
             "publishedAt": "2023-12-06T16:00:00Z",
             "content": "If you buy something from a Polygon link, Vox Media may earn a commission. See our ethics statement.It can be tough to think of clever gifts to buy for someone who really loves video games. Gamers ar… [+9180 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Callofduty.com"
-            },
-            "author": null,
-            "title": "Modern Warfare III Season 1 Patch Notes - Call of Duty",
-            "description": null,
-            "url": "https://www.callofduty.com/patchnotes/2023/12/call-of-duty-modern-warfare-iii-season-1-patch-notes",
-            "urlToImage": null,
-            "publishedAt": "2023-12-06T15:39:26Z",
-            "content": "New Maps\r\nLook for the Meat 24/7 Playlist to debut during the first week of Season 1, with other exciting Playlists expected in the weeks ahead. Another all-new 6v6 map, Rio, is expected to launch in… [+6464 chars]"
         },
         {
             "source": {
@@ -486,19 +577,6 @@
         {
             "source": {
                 "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Kyle Bradshaw",
-            "title": "Patched Chromecast with Google TV exploit bypassed Android Verified Boot - 9to5Google",
-            "description": "Following this month’s updates to both the HD and 4K models of Chromecast with Google TV, a group of LineageOS...",
-            "url": "https://9to5google.com/2023/12/06/chromecast-google-tv-exploit-bypass-android-verified-boot/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/09/Chromecast-with-Google-TV-HD-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-12-06T14:30:00Z",
-            "content": "Following this month’s updates to both the HD and 4K models of Chromecast with Google TV, a group of LineageOS developers have shared the details of a (now-patched) exploit that enabled rooting the d… [+2811 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Digital Trends"
             },
             "author": "Andy Boxall",
@@ -511,41 +589,15 @@
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Samuel Stolton",
-            "title": "Apple Set to Avoid EU Crackdown Over iMessage Service - Bloomberg",
-            "description": "Apple Inc.’s iMessage service looks set to win a carve out from new European Union antitrust rules to rein in Big Tech platforms after watchdogs tentatively concluded that it isn’t popular enough with business users to warrant being hit by the regulation.",
-            "url": "https://www.bloomberg.com/news/articles/2023-12-06/apple-imessage-set-to-avoid-eu-s-digital-dominance-crackdown",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioagJaj63nF8/v0/1200x800.jpg",
-            "publishedAt": "2023-12-06T13:18:45Z",
-            "content": "Apple Inc.s iMessage service looks set to win a carve out from new European Union antitrust rules to rein in Big Tech platforms after watchdogs tentatively concluded that it isnt popular enough with … [+282 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Android Police"
+                "name": "Push Square"
             },
-            "author": "Android Police",
-            "title": "Here's what Google Chrome's AI-powered 'Help me write' will look like - Android Police",
+            "author": "Push Square",
+            "title": "Fallout: New Vegas Vibes Front New Fallout 76 Content - Push Square",
             "description": null,
-            "url": "https://www.androidpolice.com/google-chrome-ai-powered-help-me-write-look-like/",
+            "url": "https://www.pushsquare.com/news/2023/12/fallout-new-vegas-vibes-front-new-fallout-76-content",
             "urlToImage": null,
-            "publishedAt": "2023-12-06T12:02:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "5 tech gifts for this holiday season - CNN",
-            "description": "CNN Underscored's tech editor, Mike Andronico, gives us his gift ideas for this holiday season. These are useful and practical gift ideas for everyone on you...",
-            "url": "https://www.youtube.com/watch?v=a1MpCdGV4bk",
-            "urlToImage": "https://i.ytimg.com/vi/a1MpCdGV4bk/maxresdefault.jpg",
-            "publishedAt": "2023-12-06T12:00:00Z",
+            "publishedAt": "2023-12-06T13:30:00Z",
             "content": null
         },
         {
@@ -564,106 +616,93 @@
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Honolulu Star-Advertiser"
             },
-            "author": null,
-            "title": "Avatar: Frontiers of Pandora Gameplay - First 29 Minutes in 4K 60FPS - IGN",
-            "description": "Check out the opening Avatar Frontiers of Pandora gameplay. Here's the first 29 minutes of Avatar: Frontiers of Pandora, developed by Massive Entertainment, ...",
-            "url": "https://www.youtube.com/watch?v=M2J3mLueVW4",
-            "urlToImage": "https://i.ytimg.com/vi/M2J3mLueVW4/maxresdefault.jpg",
-            "publishedAt": "2023-12-06T11:01:02Z",
-            "content": null
+            "author": "Rob Kay",
+            "title": "Tech View: Gadgets and gifts to carry you through the new year - Honolulu Star-Advertiser",
+            "description": "For my annual holiday column, I’ve curated a consumer tech gear guide based on products I use.",
+            "url": "https://www.staradvertiser.com/?p=1293675",
+            "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2023/12/web1_eufy-g30-image--courtesy-of-manufacturer-.jpg",
+            "publishedAt": "2023-12-06T10:11:52Z",
+            "content": "For my annual holiday column, I’ve curated a consumer tech gear guide based on products I use.\r\nLet’s begin on the road. This summer, while playing digital nomad in Europe, my midnight flight to Port… [+4357 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "NME"
             },
-            "author": null,
-            "title": "Apple Watch Series 9 Hits New All-Time Low for the Holidays With a $90 Discount - CNET",
-            "description": "The Apple Watch Series 9 is the latest and greatest available, and now it's yours with a huge discount.",
-            "url": "https://www.cnet.com/deals/apple-watch-series-9-hits-new-all-time-low-for-the-holidays-with-a-90-discount/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/16f5cc2028e903bdc310dbf745b3be25a79b612c/hub/2023/11/07/ba3a1e4d-2579-4500-8b74-4df5dcd451dc/apple-watch-series-9-bf.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2023-12-06T11:00:00Z",
-            "content": "The Apple Watch is among the best smartwatches on the market and the Apple Watch Series 9 is the latest model. There were a few Black Friday deals available but right now you can pick a new watch up … [+1273 chars]"
+            "author": "Ryan Easby",
+            "title": "'The Day Before' developer issues apology ahead of release - NME",
+            "description": "'The Day Before' developer Fntastic has issued an apology ahead of the game releasing in early access this month.",
+            "url": "https://www.nme.com/news/gaming-news/the-day-before-developer-issues-apology-ahead-of-release-3553874",
+            "urlToImage": "https://www.nme.com/wp-content/uploads/2021/02/the-day-before@2000x1270.jpg",
+            "publishedAt": "2023-12-06T09:05:48Z",
+            "content": "The Day Before developer Fntastic has issued an apology ahead of the early access release of the title.\r\nThough The Day Before is set to launch this week (December 7), the run-up has been plagued wit… [+1562 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
+                "name": "Wccftech"
             },
-            "author": "Tim Hardwick",
-            "title": "'All-Screen' iPhone Under-Display Camera Enters Development - MacRumors",
-            "description": "Apple's Korean suppliers have begun developing smartphone under-display cameras (UDC), paving the way for the first iPhone with a true...",
-            "url": "https://www.macrumors.com/2023/12/06/iphone-under-display-camera/",
-            "urlToImage": "https://images.macrumors.com/t/5T4ZV-NSnQPFtq9ufhWcA6bQMxA=/2500x/article-new/2021/04/Beyond-iPhone-13-Better-Triad.jpg",
-            "publishedAt": "2023-12-06T10:03:17Z",
-            "content": "Apple's Korean suppliers have begun developing smartphone under-display cameras (UDC), paving the way for the first iPhone with a true \"all-screen\" appearance.\r\nAccording to The Elec, LG Innotek has … [+1594 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Benjamin Mayo",
-            "title": "iTunes Movies and TV Shows app discontinued with new Apple TV update - 9to5Mac",
-            "description": "As first reported in October, Apple will discontinue the standalone iTunes Movies and iTunes TV Shows apps on the Apple...",
-            "url": "https://9to5mac.com/2023/12/06/itunes-movies-and-tv-shows-app-discontinued-apple-tv/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/itunes-tv-movies-apps-moved-apple-tv.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "author": "Alessio Palumbo",
+            "title": "Warcraft Inspired Stormgate RTS Is Well on Its Way to Become the Biggest Kickstarter Game Campaign in a While - Wccftech",
+            "description": "Frost Giant Studios has launched a Kickstarter campaign for Stormgate, their upcoming Warcraft inspired RTS, and it's doing great.",
+            "url": "https://wccftech.com/warcraft-inspired-stormgate-rts-is-well-on-its-way-to-become-the-biggest-kickstarter-game-campaign-in-a-while/",
+            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/12/stormgate-ks-HD-scaled.jpg",
             "publishedAt": "2023-12-06T09:00:00Z",
-            "content": "As first reported in October, Apple will discontinue the standalone iTunes Movies and iTunes TV Shows apps on the Apple TV box, starting with tvOS 17.2 The warning message seen above has started appe… [+1549 chars]"
+            "content": "Irvine-based developer Frost Giant Studios has smashed the Kickstarter campaign goal for its debut game, the real-time strategy title Stormgate, in less than fifteen minutes. Now that it's been aroun… [+1725 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Richard Lai",
+            "title": "Windows 10 will receive its final security update in October 2028 - Engadget",
+            "description": "Microsoft's Extended Security Update (ESU) program for Windows 10 will stretch its lifespan by up to three years.",
+            "url": "https://www.engadget.com/windows-10-will-receive-its-final-security-update-in-october-2028-084902439.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gnHiuZgpa0Na0DxJMwxCIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NjA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/a5818db0-9411-11ee-97fa-1fe8df221f87",
+            "publishedAt": "2023-12-06T08:49:03Z",
+            "content": "Even though Windows 10 is still getting the Copilot AI love, the fact remains that it will no longer receive updates as of its end-of-support date, October 14, 2025, as noted in Microsoft's IT Pro Bl… [+1522 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Push Square"
+                "name": "Android Police"
             },
-            "author": "Push Square",
-            "title": "The Day Before Developer Apologises for Poor Marketing, Denies Scam Accusations - Push Square",
-            "description": null,
-            "url": "https://www.pushsquare.com/news/2023/12/the-day-before-developer-apologises-for-poor-marketing-denies-scam-accusations",
-            "urlToImage": null,
-            "publishedAt": "2023-12-06T05:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Intel's Snake Oil & Completely Insane Anti-AMD Marketing - Gamers Nexus",
-            "description": "Sponsor: Thermal Grizzly Kryosheets https://geni.us/53ArNb and Thermal Grizzly Hydronaut Paste (Amazon - https://geni.us/Fsray )Intel released a series of sl...",
-            "url": "https://www.youtube.com/watch?v=xUT4d5IVY0A",
-            "urlToImage": "https://i.ytimg.com/vi/xUT4d5IVY0A/maxresdefault.jpg",
-            "publishedAt": "2023-12-06T03:43:22Z",
-            "content": null
+            "author": "Dominic Preston",
+            "title": "Snapdragon 8 Gen 3 cruises in the iQOO 12 - Android Police",
+            "description": "Qualcomm's latest flagship chip lives up to its promise in one of its first phones",
+            "url": "https://www.androidpolice.com/snapdragon-8-gen-3-iqoo-12/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/iqoo-12-07-1.jpg",
+            "publishedAt": "2023-12-06T08:00:00Z",
+            "content": "Stateside Android aficionados are unlikely to get their hands on a Snapdragon 8 Gen 3 phone until the Samsung Galaxy S24 and OnePlus 12 make their expected debuts some time in January, but the rest o… [+4163 chars]"
         },
         {
             "source": {
                 "id": "ign",
                 "name": "IGN"
             },
-            "author": "IGN",
+            "author": "Michael Cripe",
             "title": "Like a Dragon Gaiden's English Dub Will Be Arriving This Month as a Free Update - IGN",
-            "description": null,
+            "description": "Yakuza series developer RGG Studio has confirmed that the Like a Dragon Gaiden: The Man Who Erased His Name's English dub will arrive sometime this month as a free update.",
             "url": "https://www.ign.com/articles/like-a-dragon-gaidens-english-dub-will-be-arriving-this-month-as-a-free-update",
-            "urlToImage": null,
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/12/05/like-a-dragon-gaiden-1701820785071.jpg?width=1280",
             "publishedAt": "2023-12-06T00:56:17Z",
-            "content": null
+            "content": "Yakuza series developer RGG Studio has confirmed that the Like a Dragon Gaiden: The Man Who Erased His Name's English dub will arrive sometime this month as a free update.\r\nThe announcement post, whi… [+2080 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "RoadandTrack.com"
             },
-            "author": "Road & Track",
+            "author": "Mack Hogan",
             "title": "New Mercedes-AMG CLE 53 Coupe: Photos - Road & Track",
-            "description": null,
+            "description": "Mercedes has replaced the C- and E-Class Coupes with this, the CLE. Now we know what the AMG version will look like.",
             "url": "https://www.roadandtrack.com/photos/g46043185/2024-mercedes-cle-53-amg-photos/",
-            "urlToImage": null,
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/23c0420-011-656f6e2bd683d.jpg?crop=1.00xw:0.751xh;0,0.210xh&resize=1200:*",
             "publishedAt": "2023-12-05T23:11:19Z",
-            "content": null
+            "content": "Arguably the most fickle member of the Road &amp; Track staff, Reviews Editor Mack Hogan is likely the only person to ever cross shop an ND Miata with an Isuzu Vehicross. He founded the automotive re… [+101 chars]"
         },
         {
             "source": {
@@ -677,6 +716,19 @@
             "urlToImage": "https://regmedia.co.uk/2021/05/05/shutterstock_fb_ads.jpg",
             "publishedAt": "2023-12-05T22:30:00Z",
             "content": "Meta plans to end support for cross-app messaging between Facebook Messenger and Instagram, the social media biz quietly announced in a pair of help page updates. \r\nBeginning sometime in the middle o… [+2839 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Kyle Bradshaw",
+            "title": "'Help me write' AI is coming soon to Chrome for desktop - 9to5Google",
+            "description": "Over the past few months, Google has been steadily introducing AI tools to its many apps and services. The latest...",
+            "url": "https://9to5google.com/2023/12/05/help-me-write-ai-chrome-desktop/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/google-chrome-laptop.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-05T22:30:00Z",
+            "content": "Over the past few months, Google has been steadily introducing AI tools to its many apps and services. The latest example will see AI-powered “Help me write” become available in Chrome for Windows, M… [+2658 chars]"
         },
         {
             "source": {
@@ -746,28 +798,15 @@
         {
             "source": {
                 "id": null,
-                "name": "GameSpot"
+                "name": "Futurism"
             },
-            "author": "GameSpot Staff",
-            "title": "GameSpot's 10 Best Games Of 2023 - GameSpot",
-            "description": "2023 saw the release of tons of excellent games and post-launch expansions, both big and small.",
-            "url": "https://www.gamespot.com/gallery/gamespots-10-best-games-of-2023/2900-4972/",
-            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1587/15875866/4229987-top-10-games-of-2023_gs-best-of_2023_2.jpg",
-            "publishedAt": "2023-12-05T19:54:08Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Ben Schoon",
-            "title": "Twitter (X) is investigating performance issues on Google Pixel phones - 9to5Google",
-            "description": "As reports come in from some users, Twitter/X says it is investigating issues with slow performance on Google Pixel phones.",
-            "url": "https://9to5google.com/2023/12/05/twitter-google-pixel-performance-investigation/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/twitter-x-fi-blue-02.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-12-05T18:53:00Z",
-            "content": "Twitter/X is looking into potential issues with its Android app on Google Pixel phones where, apparently, the app runs slow for some.\r\nThe Android version of the Twitter/X app often goes a bit neglec… [+1398 chars]"
+            "author": "Victor Tangermann",
+            "title": "You'll Be Astonished How Much Power It Takes to Generate a Single AI Image - Futurism",
+            "description": "Researchers from AI developer Hugging Face and Carnegie Mellon University calculated how much power AI tools need to generate an image.",
+            "url": "https://futurism.com/the-byte/power-generate-single-ai-image",
+            "urlToImage": "https://wp-assets.futurism.com/2023/12/power-generate-single-ai-image.jpg",
+            "publishedAt": "2023-12-05T19:18:04Z",
+            "content": "It's way more than you think.\r\nPower Hungry\r\nIt's an open secret that generative AI tools like OpenAI's ChatGPT eat up an astronomical amount of power.\r\nEven generating images from a text prompts wit… [+2487 chars]"
         },
         {
             "source": {
@@ -798,80 +837,15 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "YouTube"
             },
-            "author": "Michael Sheetz",
-            "title": "SpaceX plans key NASA demonstration for next Starship launch - CNBC",
-            "description": "A propellant transfer demonstration would require that the rocket reach orbit as one of the demo's goals.",
-            "url": "https://www.cnbc.com/2023/12/05/spacex-plans-nasa-refueling-demonstration-for-next-starship-launch.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107335907-17002480692023-11-16t010341z_458439619_rc20e4ador8b_rtrmadp_0_space-exploration-starship.jpeg?v=1700248098&w=1920&h=1080",
-            "publishedAt": "2023-12-05T16:47:07Z",
-            "content": "SpaceX could attempt a key demonstration for NASA during the third test flight of its towering Starship rocket, according to the federal agency.\r\nA NASA official revealed on Monday that the next Star… [+3264 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "https://www.facebook.com/thehackernews",
-            "title": "Warning for iPhone Users: Experts Warn of Sneaky Fake Lockdown Mode Attack - The Hacker News",
-            "description": "Malicious actors can deceive you into thinking your iPhone is in Lockdown Mode when it's not. Find out how this fake Lockdown Mode works.",
-            "url": "https://thehackernews.com/2023/12/warning-for-iphone-users-experts-warn.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNTwnSHFL-JrzwIrMKYRrXy6xG6E5irQhyZtf9sjUKWTXF1N-ehDIDb2HrJzfC6dE0wFr2fYeJVGjiAT42zOIokJiVn09Brz6NH34Uew9VakXHtOAlv_Xw5bc-9d_eDQ086Sh6m5bHLzmY01MBjvvJSNAF9aUBWCoL14MKqf8r83qNTLeJGjARsJt4wffL/s728-rw-ft-e30/iphone-lockdown.jpg",
-            "publishedAt": "2023-12-05T14:58:00Z",
-            "content": "A new \"post-exploitation tampering technique\" can be abused by malicious actors to visually deceive a target into believing that their Apple iPhone is running in Lockdown Mode when it's actually not … [+3874 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Ben Schoon",
-            "title": "OnePlus 12 goes official in China, revealing full sepcs - 9to5Google",
-            "description": "The OnePlus 12 has officially launched in China, giving us a look at the full specs and an idea of a price increase too.",
-            "url": "https://9to5google.com/2023/12/05/oneplus-12-specs-price-china/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/oneplus-12-green-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-12-05T14:50:00Z",
-            "content": "The OnePlus 12 has been officially announced, at least over in China. Here’s the full specs of the brand’s 2024 flagship ahead of the global debut.\r\nToday’s launch of the OnePlus 12 in China tells us… [+3002 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "https://www.facebook.com/thehackernews",
-            "title": "15,000 Go Module Repositories on GitHub Vulnerable to Repojacking Attack - The Hacker News",
-            "description": "Over 15,000 Go module repositories on GitHub are at risk of Repojacking, a serious security threat.",
-            "url": "https://thehackernews.com/2023/12/15000-go-module-repositories-on-github.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSBn-QHX_EyZ7R-aCfD90SqZ4lFBv_KfVv43fBxK8c5K_y7j3EJqlSmttsaffrjQZfYqtvvSN3zd1_PplYkJz3g-xMUrc9V7WGIgJ7IKTOfWXIaBjT_1RUghYkvCam7JJoFPp9AjEGS966PdceqZwrpIEdnV672xxRUoUFB87VuPR9eEGh7r6vjD4RtKaT/s728-rw-ft-e30/github.jpg",
-            "publishedAt": "2023-12-05T10:14:00Z",
-            "content": "New research has found that over 15,000 Go module repositories on GitHub are vulnerable to an attack called repojacking.\r\n\"More than 9,000 repositories are vulnerable to repojacking due to GitHub use… [+3031 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Michael Lee",
-            "title": "Elon Musk was warned that AI could destroy human colony on Mars: report - Fox News",
-            "description": "Elon Musk has been one of the most vocal critics of the dangers potentially posed by AI since he was told in 2012 that the technology could destroy a human colony on Mars.",
-            "url": "https://www.foxnews.com/us/elon-musk-was-warned-that-ai-could-destroy-a-human-colony-on-mars-report",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Elon-Musk.jpg",
-            "publishedAt": "2023-12-05T07:00:00Z",
-            "content": "Elon Musk was warned that artificial intelligence would represent a danger to humans attempting to colonize Mars.\r\nDuring a 2012 conversation with DeepMind co-founder Demis Hassabis, Musk hinted that… [+3213 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SamMobile"
-            },
-            "author": "SamMobile, Asif Iqbal Shaik",
-            "title": "WhatsApp to make screen sharing even easier on Android - SamMobile - Samsung news",
-            "description": "WhatsApp has added plenty of new features to its instant messaging app over the past couple of years. The company ...",
-            "url": "https://www.sammobile.com/news/whatsapp-screen-sharing-easier-android/",
-            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/08/WhatsApp-Video-Calls-Desktop-Landscape-Screen-Sharing-720x405.jpeg",
-            "publishedAt": "2023-12-05T05:54:00Z",
-            "content": "WhatsApp has added plenty of new features to its instant messaging app over the past couple of years. The company is making sure that whatever form of communication you need, the app offers those cap… [+1523 chars]"
+            "author": null,
+            "title": "Fire Stick 4K Max Setup Tips and Tricks - Digital Trends",
+            "description": "Amazon Fire TV is one of the biggest streaming platforms in the world. It’s relatively inexpensive to get into, and is super-easy to use. And most important ...",
+            "url": "https://www.youtube.com/watch?v=RmI29GFxOnQ",
+            "urlToImage": "https://i.ytimg.com/vi/RmI29GFxOnQ/maxresdefault.jpg",
+            "publishedAt": "2023-12-05T15:56:29Z",
+            "content": null
         }
     ]
 }

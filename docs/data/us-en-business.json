@@ -4,29 +4,367 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Pia Singh",
-            "title": "Stock futures are little changed after Dow, S&P 500 register three losing days: Live updates - CNBC",
-            "description": "The major averages slid during Wednesday's trading as the recent rally cools.",
-            "url": "https://www.cnbc.com/2023/12/06/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107332203-1699631647902-gettyimages-1785916976-ms2_0464_542tqdsw.jpeg?v=1701902701&w=1920&h=1080",
-            "publishedAt": "2023-12-07T08:49:00Z",
-            "content": "Stock futures hovered near the flat line Thursday morning, following a three-day run of losses for the S&amp;P 500 and the Dow Jones Industrial Average.\r\nFutures tied to the 30-stock Dow slipped 30 p… [+1668 chars]"
+            "author": "WSJ Staff",
+            "title": "GameStop Stock Turns Positive After Quarterly Results - The Wall Street Journal",
+            "description": "GameStop shares drop after results",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-07-2023",
+            "urlToImage": "https://images.wsj.net/im-895483/social",
+            "publishedAt": "2023-12-07T15:58:00Z",
+            "content": "GameStop shares (GME) rose, shrugging off early declines, as investors digested quarterly results that included a 9% drop in quarterly sales and narrowing losses.\r\nThe stock was recently up a bit mor… [+256 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Joe Cash",
-            "title": "China's exports grow for first time in 6 months in relief for factories - Reuters",
-            "description": "China's exports grew for the first time in six months in November, suggesting factories in the world's second-largest economy are attracting buyers through discount pricing to get over a prolonged slump in demand.",
-            "url": "https://www.reuters.com/world/china/chinas-exports-grow-first-time-6-months-imports-unexpectedly-shrink-2023-12-07/",
-            "urlToImage": "https://www.reuters.com/resizer/ujkZL9ao5bbA7G028V20dg5mEkE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WDRPQRKUU5N6XFYPIZ7VVS7A7I.jpg",
-            "publishedAt": "2023-12-07T08:40:00Z",
-            "content": "BEIJING, Dec 7(Reuters) - China's exports grew for the first time in six months in November, suggesting factories in the world's second-largest economy are attracting buyers through discount pricing … [+4832 chars]"
+            "author": null,
+            "title": "Facebook and Messenger to automatically encrypt messages - BBC.com",
+            "description": "The Home Secretary James Cleverly says he's \"incredibly disappointed\" by Meta's decision to automatically encrypt all messages",
+            "url": "https://www.bbc.com/news/technology-67646047",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C07A/production/_131947294_gettyimages-1142183122.jpg",
+            "publishedAt": "2023-12-07T15:49:00Z",
+            "content": "By Chris VallanceTechnology reporter, BBC News\r\nAll Facebook and Messenger chats will be encrypted automatically, parent company Meta has announced.\r\nMessages and calls protected by end-to-end-encryp… [+5472 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sean McLain",
+            "title": "Why Smaller EV Batteries Could Be the Next Big Thing - The Wall Street Journal",
+            "description": "Lucid Group CEO Peter Rawlinson sees an alternative to bigger batteries and longer range",
+            "url": "https://www.wsj.com/business/autos/electric-vehicle-battery-tech-peter-rawlinson-045dd189",
+            "urlToImage": "https://images.wsj.net/im-896521/social",
+            "publishedAt": "2023-12-07T15:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "McDonald's is opening a new chain called CosMc's. Here are the locations and menu. - CBS News",
+            "description": "CosMc's is \"what would happen if a McDonald's character from the 1980s that was part alien, part surfer, part robot\" opened a restaurant, its CEO said.",
+            "url": "https://www.cbsnews.com/news/mcdonalds-cosmcs-locations-near-me-bolingbrook-illinois-starbucks/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/07/4022a40a-39f9-463a-a6a5-0d92f84ea204/thumbnail/1200x630/423520a537d794927f094549e6607250/cosmcsskyhero-2336x1040-hero-desktop.jpg?v=170b469460f9b5b4a2670b02bb591e2d",
+            "publishedAt": "2023-12-07T14:59:00Z",
+            "content": "A first look at the McDonald's concept CosMc's \r\nA first look at the McDonald's concept CosMc's00:28\r\nMcDonald's said it is opening a new chain called CosMc's that will focus on coffee and other drin… [+2883 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tamara Hardingham-Gill",
+            "title": "They bought a house in France for $20,000 without seeing it. Here’s what happened next - CNN",
+            "description": "US couple Ellen and Joseph came across a rundown home in the historic village of Lonlay l’Abbaye in Normandy online back in 2014, and decided to purchase it unseen.",
+            "url": "https://www.cnn.com/travel/this-us-couple-bought-a-house-in-france-unseen/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/bathroom-before-1.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-07T14:28:00Z",
+            "content": "Her fascination with France began when she spent a summer in the European country while working as an au pair back back in the 1970s.\r\nFrom then on, Ellen, originally from the East Coast of the US, m… [+11598 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Tanaya Macheel",
+            "title": "Michael Novogratz says Jamie Dimon is wrong on bitcoin as it outperforms JPMorgan's stock - CNBC",
+            "description": "\"He keeps doubling down and he keeps being wrong,\" Novogratz said.",
+            "url": "https://www.cnbc.com/2023/12/07/novogratz-says-jamie-dimon-is-wrong-on-bitcoin-as-it-outperforms-jpmorgan-stock.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104880719-20171205-7838-2526.jpg?v=1701965396&w=1920&h=1080",
+            "publishedAt": "2023-12-07T14:07:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Jack Denton",
+            "title": "Bitcoin Steadies Near 20-Month Highs. What Could Halt the Crypto Rally. - Barron's",
+            "description": "Bitcoin and other cryptocurrencies were little changed on Thursday, holding on to the bulk of gains from a rally that pushed prices sharply higher in recent days.",
+            "url": "https://www.barrons.com/articles/bitcoin-ether-price-crypto-market-today-0c4218f3",
+            "urlToImage": "https://images.barrons.com/im-844022/social",
+            "publishedAt": "2023-12-07T13:58:00Z",
+            "content": "Updated Dec 07, 2023, 8:58 am EST / Original Dec 07, 2023, 5:24 am EST"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WLWT Cincinnati"
+            },
+            "author": "Meredith Stutz",
+            "title": "DHL workers at CVG begin strike Thursday morning - WLWT Cincinnati",
+            "description": "A strike has begun for union DHL workers upset about pay and working conditions at DHL's largest hub at CVG International Airport.",
+            "url": "https://www.wlwt.com/article/dhl-workers-strike-cvg-airport-hub-cincinnati/46061868",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cvg-dhl-strike-6571c83da639b.png?crop=1.00xw:0.846xh;0,0.0538xh&resize=1200:*",
+            "publishedAt": "2023-12-07T13:27:00Z",
+            "content": "HEBRON, Ky. —A strike has begun for union DHL workers upset about pay and working conditions at DHL's largest hub at CVG International Airport. \r\nThis comes during the holiday rush, with less than th… [+794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Gabrielle Fonrouge",
+            "title": "Retail lobby group's retraction of key crime claim shows how hard it is to track theft - CNBC",
+            "description": "The National Retail Federation walked back a claim that organized retail crime accounted for nearly half of all shrink losses because the data point was flawed.",
+            "url": "https://www.cnbc.com/2023/12/07/us-retail-lobbyists-retract-key-claim-on-organized-retail-crime-accounting-for-inventory-losses.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107001411-1642163879060-gettyimages-1193597443-xxjpbee007192_20200113_pepfn0a001.jpeg?v=1691756508&w=1920&h=1080",
+            "publishedAt": "2023-12-07T13:20:27Z",
+            "content": "The leading retail lobbying group has walked back a key claim about shrink, or inventory losses from various sources, after a news investigation revealed that the analysis was incorrect.\r\nThe Friday … [+4470 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "Can rocks absorb enough CO2 to fight climate change? These companies think so - The Verge",
+            "description": "Alphabet, Stripe, Shopify, and other companies inked a deal with startup Lithos Carbon that’s a big vote of confidence for a new tactic for addressing climate change called enhanced weathering.",
+            "url": "https://www.theverge.com/2023/12/7/23990979/alphabet-stripe-shopify-lithos-climate-change-carbon-removal-enhanced-weathering",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/j7ZaNwu4ZRNN52o3N__D_NFwM78=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25138955/Farm_spreading_wide.jpg",
+            "publishedAt": "2023-12-07T13:00:00Z",
+            "content": "Can rocks absorb enough CO2 to fight climate change? These companies think so\r\nCan rocks absorb enough CO2 to fight climate change? These companies think so\r\n / Alphabet, Stripe, Shopify, and other c… [+6091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "China's economy has a 'steep hill to climb' despite positive export surprise, HSBC says - CNBC",
+            "description": "The Chinese economy still has a \"steep hill to climb\" despite a surprise pickup in exports and is unlikely to be bolstered by further fiscal stimulus, according to HSBC's chief Asia economist.",
+            "url": "https://www.cnbc.com/2023/12/07/chinas-economy-has-a-steep-hill-to-climb-despite-positive-export-surprise-hsbc.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107306405-1695717177883-gettyimages-1689204422-AFP_33WK6MT.jpeg?v=1701952216&w=1920&h=1080",
+            "publishedAt": "2023-12-07T12:27:57Z",
+            "content": "Hong Kong observation wheel, and the Hong Kong and Shanghai Bank, HSBC building, Victoria harbor, Hong Kong, China.\r\nThe Chinese economy still has a \"steep hill to climb\" despite a surprise pickup in… [+3707 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Endpoints News"
+            },
+            "author": "Amber Tong",
+            "title": "Merck details PhII TIGIT/PD-1 fail in lung cancer - Endpoints News",
+            "description": "Nine months after revealing that its TIGIT/PD-1 combo failed a mid-stage lung cancer study, Merck is spelling out the full results — with the combo missing all the primary and secondary endpoints. Despite the flop, Merck kept going with a slate of Phase III s…",
+            "url": "https://endpts.com/merck-details-phii-tigit-pd-1-fail-in-lung-cancer/",
+            "urlToImage": "https://endpts.com/wp-content/uploads/2021/05/Merck-shutterstock-social1-scaled.jpg",
+            "publishedAt": "2023-12-07T12:15:00Z",
+            "content": "Nine months af­ter re­veal­ing that its TIG­IT/PD-1 com­bo failed a mid-stage lung can­cer study, Mer­ck is spelling out the full re­sults — with the com­bo miss­ing all the pri­ma­ry and sec­ondary … [+621 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Ex-Twitter exec claims X fired him for raising security concerns after Musk-led takeover - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/12/07/elon-musk-fired-twitter-executive-security-concerns",
+            "urlToImage": null,
+            "publishedAt": "2023-12-07T11:50:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Steve Goldstein",
+            "title": "There's a new dynamic heading into payrolls report, Goldman trading expert says - MarketWatch",
+            "description": "Critical information for the U.S. trading day",
+            "url": "https://www.marketwatch.com/story/theres-a-new-market-dynamic-heading-into-payrolls-report-goldman-trading-expert-says-1f3798f2",
+            "urlToImage": "https://images.mktw.net/im-335489/social",
+            "publishedAt": "2023-12-07T11:41:00Z",
+            "content": "It was the day before payrolls, when all through the house, not an asset was stirring, not even a mouse. (We will for poetic license ignore the movements in Japan; more on that later.)Its worth revie… [+5202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Brett Knight",
+            "title": "Canelo Álvarez Flexes His Business Muscle - Forbes",
+            "description": "Having amassed a $275 million fortune as one of the best pound-for-pound boxers in the world, the 33-year-old Mexican champion is once again punching above his weight as he builds an empire outside the ring.",
+            "url": "https://www.forbes.com/sites/brettknight/2023/12/07/canelo-alvarez-interview-boxing-champion-flexes-his-business-muscle/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6570d4ac7bda34571c5691fa/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-12-07T11:30:00Z",
+            "content": "At his ranch on the southwestern outskirts of Guadalajara, Mexico, Saúl Álvarez, the countrys most famous boxer, settles into a leather chair next to a zebra-skin rug. Behind him is a floor-to-ceilin… [+16287 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "23andMe updates terms of service to shield itself from class-action lawsuits after data breach - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/12/07/23andme-terms-of-service-update-data-breach",
+            "urlToImage": null,
+            "publishedAt": "2023-12-07T11:24:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Restaurant worker wage growth falls post-pandemic - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/12/07/restaurant-worker-wage-growth",
+            "urlToImage": null,
+            "publishedAt": "2023-12-07T11:07:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GamesIndustry.biz"
+            },
+            "author": "Sophie McEvoy",
+            "title": "FTC appeals to block already-completed Microsoft-Activision deal - GamesIndustry.biz",
+            "description": "The Federal Trade Commission has made its appeal to block Microsoft's acquisition of Activision Blizzard – despite the …",
+            "url": "https://www.gamesindustry.biz/ftc-appeals-to-block-already-completed-microsoft-activision-deal",
+            "urlToImage": "https://assetsio.reedpopcdn.com/xab-vs-ftc-gold.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2023-12-07T10:41:36Z",
+            "content": "The Federal Trade Commission has made its appeal to block Microsoft's acquisition of Activision Blizzard – despite the $68.7 billion deal closing in October.\r\nAs Reuters reports, lawyers representing… [+1393 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Bloomberg",
+            "title": "Moody's asked staff to stay home ahead of China cut: Report - Times of India - IndiaTimes",
+            "description": "China News: Moody’s Investors Service advised its staff in China to work from home ahead of its announcement this week cutting the outlook for sovereign bonds to .",
+            "url": "https://timesofindia.indiatimes.com/world/china/moodys-asked-staff-to-stay-home-ahead-of-china-cut-report/articleshow/105812082.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-105812087,width-1070,height-580,imgsize-35850,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-12-07T10:39:05Z",
+            "content": "10 habits that are a guarantee for your child's success"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jennifer Williams-Alvarez",
+            "title": "OpenAI's Unusual Board: Should It Change Its Structure to Govern Effectively? - The Wall Street Journal",
+            "description": "The unique governance arrangement, with a nonprofit overseeing a for-profit arm, raises questions about the job of the board",
+            "url": "https://www.wsj.com/articles/openais-unusual-board-should-it-change-its-structure-to-govern-effectively-e3d5ee76",
+            "urlToImage": "https://images.wsj.net/im-896588/social",
+            "publishedAt": "2023-12-07T10:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Michelle Hackman",
+            "title": "Cost of Hiring Au Pairs Could Double Under Biden Administration Proposal - The Wall Street Journal",
+            "description": "New formula for foreign nannies would take into account state and local minimum wages",
+            "url": "https://www.wsj.com/politics/policy/cost-of-hiring-au-pairs-could-double-under-biden-administration-proposal-23afe8b7",
+            "urlToImage": "https://images.wsj.net/im-896479/social",
+            "publishedAt": "2023-12-07T10:30:00Z",
+            "content": "WASHINGTONA popular child-care option would be put out of reach for some families under a new Biden administration proposal that could double the cost of hiring an au pair.\r\nThe proposed policy chang… [+352 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Claim that investors profited from Hamas Oct. 7 attacks on Israel, explained - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/12/07/hamas-short-selling-paper",
+            "urlToImage": null,
+            "publishedAt": "2023-12-07T10:28:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "https://www.facebook.com/thehackernews",
+            "title": "Governments May Spy on You by Requesting Push Notifications from Apple and Google - The Hacker News",
+            "description": "Governments are demanding mobile push notification records from Apple and Google users to track individuals of interest.",
+            "url": "https://thehackernews.com/2023/12/governments-may-spy-on-you-by.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiazwMwv8oPjdxTtVoTWmr5h_XYo1pwAf2PDCK_agR_uKAa82axA4E4kVx6dw2Dxx5vTY-c893yarWWc6B-ZJy2ZrTbJS9Zt7BfBxAhgrAhPVWVEuEnTIkKv6BGvtp8Yy6_2Vyrh9dnRaFXgUINMGXM2Lb8dhFY_G1jt6lfzvIP9BD8aesgqk7Y3Uk60QM/s728-rw-ft-e30/save.jpg",
+            "publishedAt": "2023-12-07T10:24:00Z",
+            "content": "Unspecified governments have demanded mobile push notification records from Apple and Google users to pursue people of interest, according to U.S. Senator Ron Wyden.\r\n\"Push notifications are alerts s… [+3378 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kartik Menon",
+            "title": "New Passive Income Side Hustle: Selling Electricity to Neighbors - Business Insider",
+            "description": "The boom in solar panels means that millions of Americans will soon be able to sell electricity directly to their neighbors.",
+            "url": "https://www.businessinsider.com/new-passive-income-side-hustle-selling-electricity-neighbors-solar-panels-2023-12",
+            "urlToImage": "https://i.insider.com/6566209dfe5bc6545ebcf7cc?width=1200&format=jpeg",
+            "publishedAt": "2023-12-07T10:22:00Z",
+            "content": "For decades, electricity has flowed one way: from power producers to public utilities, which then distribute it over vast distances to households and businesses. That utility-to-consumer status quo, … [+9957 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Stephen Graves",
+            "title": "Robinhood Crypto Launches in EU With 'Crypto Back' Bitcoin Rewards Program - Decrypt",
+            "description": "Robinhood Crypto's EU users will receive a percentage of trading volume back in Bitcoin, as well as Bitcoin rewards for referrals.",
+            "url": "https://decrypt.co/208954/robinhood-crypto-launches-in-eu-with-crypto-back-bitcoin-rewards-program",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/12/RHCEU-Inline-e1701942736725-gID_7.jpg",
+            "publishedAt": "2023-12-07T10:06:11Z",
+            "content": "Trading platform Robinhood is launching its crypto app in the EU, with a Bitcoin rewards program that will see customers earn a percentage of their trading volume back each month in BTC.\r\nAccording t… [+2540 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Alexa St. John, Tom Krisher, The Associated Press",
+            "title": "The electric vehicle math isn’t adding up, with average transaction price around $50,000 and gas price nationwide falling to $3 a gallon - Fortune",
+            "description": "The EV industry was touting 90% year-over-year growth figures last summer, but that figure has been cut in half in 2023.",
+            "url": "https://fortune.com/2023/12/07/electric-vehicle-sales-growth-slows-rapidly-2023-ford-gm-white-house-goals/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/12/AP23340712200131-e1701942620829.jpg?resize=1200,600",
+            "publishedAt": "2023-12-07T09:53:36Z",
+            "content": "Despite new electric vehicle market share and sales hitting a record in the U.S. this year, EV growth is starting to slow and fall short of the auto industrys lofty ambitions to transition away from … [+7072 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Pedro Goncalves",
+            "title": "Trending tickers: AMD | Rivian | C3.ai | Frasers - Yahoo Finance",
+            "description": "The latest investor updates on stocks that are trending on Thursday.",
+            "url": "https://uk.finance.yahoo.com/news/amd-rivian-c3ai-frasers-trending-tickers-ftse-093223855.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HPmV9ZNVc6nPpcViLrEZmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/1516d5e0-94df-11ee-bdcf-f845c4d18dde",
+            "publishedAt": "2023-12-07T09:32:23Z",
+            "content": "AMD is taking in Nvidia in the AI chip market. (Florence Lo / reuters)\r\nShares in Advanced Micro Devices (AMD) were higher in extended trading as the company announced an AI chip in a bid to challeng… [+3220 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Moscow Times"
+            },
+            "author": "The Moscow Times",
+            "title": "Russia's Monthly Income From Oil Exports Surpasses Pre-War Levels – Bloomberg - The Moscow Times",
+            "description": "Russian oil exports have generated $11 billion through a shadow fleet and obscure entities in the year since G7 countries set a price cap on one of Russia’s largest sources of income, Bloomberg reported Wednesday, citing trade data.",
+            "url": "https://www.themoscowtimes.com/2023/12/07/russias-monthly-income-from-oil-exports-surpasses-pre-war-levels-bloomberg-a83336",
+            "urlToImage": "https://static.themoscowtimes.com/image/og/5c/83336__5ca8b60d120434a1134c010ca6272da6.jpg",
+            "publishedAt": "2023-12-07T09:05:44Z",
+            "content": "Russian oil exports have generated $11 billion through a shadow fleet and obscure entities in the year since G7 countries set a price cap on one of Russia’s largest sources of income, Bloombergreport… [+1815 chars]"
         },
         {
             "source": {
@@ -34,38 +372,25 @@
                 "name": "The Washington Post"
             },
             "author": "Washington Post Staff",
-            "title": "Washington Post staffers walk off job in labor protest - The Washington Post",
+            "title": "staffers walk off job in labor protest - The Washington Post - The Washington Post",
             "description": "More than 750 Post staffers will stop work for 24 hours, starting early Thursday. A picket and rally will be held outside The Post’s offices in downtown Washington.",
             "url": "https://www.washingtonpost.com/style/media/2023/12/07/washington-post-staff-walkout-strike-labor/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K7MKT7VYLJYGKYXYD7QTSPOWDE_size-normalized.jpg&w=1440",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P6PKCGQ4LYMEFLSV5R2HGSOF7E_size-normalized.jpg&w=1440",
             "publishedAt": "2023-12-07T08:27:00Z",
-            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nMore than 750 Washington Post staffers said they were walking off the job early Thursday, refusing to work for 24 hours in the biggest… [+5986 chars]"
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nMore than 750 Washington Post staffers said they had walked off the job Thursday, refusing to work for 24 hours in the biggest labor p… [+6162 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Shreyashi Sanyal",
-            "title": "Moody's cuts outlook for eight China banks on potential credit quality decline; downgrades Hong Kong too - CNBC",
-            "description": "Moody's Investors Service cut its outlook for eight Chinese banks to negative from stable on Wednesday, following an identical downgrade to China's credit rating a day earlier.",
-            "url": "https://www.cnbc.com/2023/12/07/moodys-outlook-cut-china-banks-hong-kong-local-govt-financing-vehicles.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105242832-GettyImages-103658095.jpg?v=1699614214&w=1920&h=1080",
-            "publishedAt": "2023-12-07T08:05:02Z",
-            "content": "Moody's Investors Service cut its outlook for eight Chinese banks to negative from stable on Wednesday, following an identical downgrade to China's government credit ratings a day earlier.\r\nThe ratin… [+3038 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Al Root",
-            "title": "The EV Bubble Has Popped. There’s No Denying the Numbers. - Barron's",
-            "description": "Tens of billions of dollars have all gone to money heaven, spent by EV startups that don't have profits on their near-term horizons.",
-            "url": "https://www.barrons.com/articles/electric-vehicles-stock-tesla-ford-gm-rivian-bubble-73c949c6",
-            "urlToImage": "https://images.barrons.com/im-74068986/social",
-            "publishedAt": "2023-12-07T06:30:00Z",
-            "content": "Dec 07, 2023, 1:30 am EST"
+            "author": "Reuters",
+            "title": "EV maker Nio considers more job cuts after shedding 10% staff - Bloomberg News - Reuters",
+            "description": "Chinese electric vehicle (EV) maker Nio Inc <a href=\"https://www.reuters.com/markets/companies/9866.HK\" target=\"_blank\">(9866.HK)</a> may undertake further job cuts after the company announced plans to cut 10% of its workforce last month, Bloomberg News <a hr…",
+            "url": "https://www.reuters.com/business/autos-transportation/ev-maker-nio-considers-more-job-cuts-after-shedding-10-staff-bloomberg-news-2023-12-07/",
+            "urlToImage": "https://www.reuters.com/resizer/1Zf_30L_OH8G3oqmvpSUsrzud5g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WCA2AT7NRFKPVFNXX7KPULIN6Y.jpg",
+            "publishedAt": "2023-12-07T06:52:44Z",
+            "content": "Dec 7 (Reuters) - Chinese electric vehicle (EV) maker Nio Inc (9866.HK) may undertake further job cuts after the company announced plans to cut 10% of its workforce last month, Bloomberg News reporte… [+821 chars]"
         },
         {
             "source": {
@@ -82,42 +407,42 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Reuters",
-            "title": "Meta to start fully encrypting messages on Facebook and Messenger - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/technology/meta-start-fully-encrypting-messages-facebook-instagram-wsj-2023-12-07/",
-            "urlToImage": null,
-            "publishedAt": "2023-12-07T05:54:48Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "23andMe updates terms of service to shield itself from class-action lawsuits after data breach - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/12/07/23andme-terms-of-service-update-data-breach",
-            "urlToImage": null,
-            "publishedAt": "2023-12-07T04:22:54Z",
-            "content": null
+            "author": "STAN CHOE",
+            "title": "Stock market today: Asian shares slide after retreat on Wall Street as crude oil prices skid - The Associated Press",
+            "description": "Wall Street is hanging near its best level in 20 months Wednesday following the latest signals that pressure on inflation may be easing. The S&P 500 was little changed in afternoon trading Wednesday. The Dow rose 35 points, and the Nasdaq was down 0.1%. Campb…",
+            "url": "https://apnews.com/article/stock-market-rates-jobs-e4760b24cb65cd8da7e8d6d04b879fa1",
+            "urlToImage": "https://dims.apnews.com/dims4/default/7441dcd/2147483647/strip/true/crop/5454x3068+0+284/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2F33%2F6b19d79303ed2eb844b2b4ca15af%2F7420325426c1487fb3f8ac785956e8ad",
+            "publishedAt": "2023-12-07T05:03:45Z",
+            "content": "NEW YORK (AP) Wall Street is hanging near its best level in 20 months Wednesday following the latest signals that pressure on inflation may be easing.\r\nThe S&amp;P 500 was little changed in afternoon… [+4180 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investor's Business Daily"
+                "name": "Electrek"
             },
-            "author": "Investor's Business Daily",
-            "title": "Futures: AMD Sees Huge AI Market — And Wants A Big Piece - Investor's Business Daily",
-            "description": "AMD said the AI chip business could top $400 billion in a few years.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-amd-ai-chip-takes-on-nvidia-in-400-billion-plus-market/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/11/Stock-AImachinelearning-01-adobe.jpg",
-            "publishedAt": "2023-12-07T03:20:00Z",
-            "content": "Dow Jones futures were little changed overnight, along with S&amp;P 500 futures and Nasdaq futures. Braze (BRZE) and C3.ai (AI) headlined earnings Wednesday night.\r\nXThe stock market rally opened wit… [+8831 chars]"
+            "author": "Michelle Lewis",
+            "title": "US smashes solar records in 2023 – but 2024 will bring road bumps - Electrek",
+            "description": "The US is expected to add a record-setting 33 GW of solar capacity in 2023, but 2024 will bring challenges to the industry.",
+            "url": "https://electrek.co/2023/12/06/us-solar-records-in-2023-2024-road-bumps/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvZmwzNjM4Njg2NjM3MC1pbWFnZS5qcGc.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-07T05:00:00Z",
+            "content": "The US is expected to add a record-setting 33 gigawatts (GW) of solar capacity in 2023, according to a new report, but 2024 will bring challenges to the industry. \r\nThe Solar Energy Industries Associ… [+4555 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kai Xiang Teo",
+            "title": "It Looks Like SpaceX Is Worth $175 Billion – More Than Disney, Comcast - Business Insider",
+            "description": "Elon Musk's space exploration company is looking to sell shares that implies a valuation that's $25 billion higher than the last funding round, Bloomberg reported.",
+            "url": "https://www.businessinsider.com/elon-musk-spacex-valuation-175-billion-more-disney-comcast-2023-12",
+            "urlToImage": "https://i.insider.com/6571262b7a3c8094d5da7c8c?width=1200&format=jpeg",
+            "publishedAt": "2023-12-07T03:18:00Z",
+            "content": "SpaceX\r\n is looking to sell shares that implies a value for the company of about $175 billion  $25 billion more than it was worth in the summer, Bloomberg reported Thursday.\r\nElon Musk\r\n's company is… [+1518 chars]"
         },
         {
             "source": {
@@ -135,15 +460,28 @@
         {
             "source": {
                 "id": null,
-                "name": "pymnts.com"
+                "name": "Business Standard"
             },
-            "author": "PYMNTS",
-            "title": "OCC Says Banks Must Take 'Safe and Sound' Approach to BNPL - PYMNTS.com",
-            "description": "The Office of the Comptroller of the Currency has issued a guidance to national banks and federal savings associations addressing buy now, pay later lending.",
-            "url": "https://www.pymnts.com/buy-now-pay-later/2023/occ-says-banks-must-take-safe-and-sound-approach-to-bnpl/",
+            "author": "Business Standard",
+            "title": "Starbucks loses $11 billion market value due to poor sales, boycotts - Business Standard",
+            "description": null,
+            "url": "https://www.business-standard.com/world-news/starbucks-loses-11-billion-market-value-due-to-poor-sales-boycotts-123120700054_1.html",
             "urlToImage": null,
-            "publishedAt": "2023-12-07T02:25:43Z",
-            "content": "The Office of the Comptroller of the Currency (OCC) has issued a guidance to national banks and federal savings associations addressing buy now, pay later (BNPL) lending.\r\nThe OCC expects banks that … [+2030 chars]"
+            "publishedAt": "2023-12-07T02:23:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": null,
+            "title": "State charts a new energy future for Mass., beyond natural gas - The Boston Globe",
+            "description": "The edict marks an abrupt about-face from the DPU’s more industry-friendly approach under Charlie Baker.",
+            "url": "https://www.bostonglobe.com/2023/12/06/science/state-report-charts-new-energy-future-mass-beyond-natural-gas/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kh549MyhqPWSj1ySHrqhOVBMfjM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/3GW5SHGHGAI6RBMFVG5O3D7UTQ.jpg",
+            "publishedAt": "2023-12-07T01:49:50Z",
+            "content": "It is fair to say that a different lens will be applied to gas infrastructure investments going forward, DPU commissioners wrote in the order.\r\nThe transition wont happen overnight, and no building o… [+5083 chars]"
         },
         {
             "source": {
@@ -161,28 +499,28 @@
         {
             "source": {
                 "id": null,
-                "name": "KABC-TV"
+                "name": "Theregister.com"
             },
-            "author": null,
-            "title": "Woman who threw bowl of food at Chipotle worker sentenced to work 2 months in fast food job - KABC-TV",
-            "description": "A woman who threw a bowl of hot food in the face of a Chipotle worker has been sentenced to a month in jail - and two months working a fast food job.",
-            "url": "https://abc7.com/chipotle-woman-throws-bowl-at-work-rosemary-hayne-ohio-sentenced-to-in-fast-food/14149133/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/14149151_120623-kgo-chipotle-restaurant-img.jpg?w=1600",
-            "publishedAt": "2023-12-07T01:19:05Z",
-            "content": "NEW YORK -- A woman who threw a bowl of hot food in the face of a Chipotle worker has been sentenced to a month in jail - and two months working a fast food job.\r\nVideos of the woman, Rosemary Hayne,… [+3806 chars]"
+            "author": "Thomas Claburn",
+            "title": "Dump C++ and in Rust you should trust, Five Eyes agencies urge - The Register",
+            "description": "Memory safety vulnerabilities need to be crushed with better code",
+            "url": "https://www.theregister.com/2023/12/07/memory_correction_five_eyes/",
+            "urlToImage": "https://regmedia.co.uk/2021/01/13/shutterstock_rust.jpg",
+            "publishedAt": "2023-12-07T01:15:00Z",
+            "content": "Business and technical leaders should prepare to focus on memory safety in software development, the US Cybersecurity and Infrastructure Agency (CISA) urged on Wednesday.\r\nThe federal agency, part of… [+4158 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Evelyn Cheng",
-            "title": "China's big property market problem will take at least 4 to 6 years to resolve - CNBC",
-            "description": "China has a big problem within real estate that will take years to resolve, according to analysis from Oxford Economics' Louise Loo.",
-            "url": "https://www.cnbc.com/2023/12/07/chinas-big-property-market-problem-will-take-years-to-resolve.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107343606-1701819967165-gettyimages-1806666299-CHINA_HEFEI_VANKE.jpeg?v=1701821964&w=1920&h=1080",
-            "publishedAt": "2023-12-07T00:23:00Z",
-            "content": "Residential buildings under construction at China Vanke Co.'s Isle Maison development in Hefei, China, on Monday, Nov. 27, 2023. China is ramping up pressure on banks to support struggling real estat… [+3717 chars]"
+            "author": "David Shepardson",
+            "title": "US House Republicans seek to halt Biden EV regulations - Reuters",
+            "description": "The Republican-led House of Representatives voted on Wednesday to bar the Biden administration from moving forward with stringent vehicle emissions regulations that would result in 67% of new vehicles being electric by 2032.",
+            "url": "https://www.reuters.com/business/autos-transportation/us-house-republicans-seek-halt-biden-ev-regulations-2023-12-07/",
+            "urlToImage": "https://www.reuters.com/resizer/RfZX2vJ9d97pixbsJ-raRHlb1jk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NWCR2E72UZNHTBFC3E6U7EJL6A.jpg",
+            "publishedAt": "2023-12-07T01:12:04Z",
+            "content": "WASHINGTON, Dec 6 (Reuters) - The Republican-led House of Representatives voted on Wednesday to bar the Biden administration from moving forward with stringent vehicle emissions regulations that woul… [+2288 chars]"
         },
         {
             "source": {
@@ -202,26 +540,39 @@
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "Sarah E. Needleman",
-            "title": "GameStop Sales Drop 9%, Loss Narrows On Cost Cuts - The Wall Street Journal",
+            "author": "Angus Berwick",
+            "title": "British American Tobacco Stock Sinks on $31.5 Billion Impairment - The Wall Street Journal",
             "description": "Benchmark yields slip; Benchmark U.S. crude drops below $70 a barrel",
             "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-06-2023",
-            "urlToImage": "https://images.wsj.net/im-896764/social",
+            "urlToImage": "https://images.wsj.net/im-896297?width=600",
             "publishedAt": "2023-12-06T23:53:00Z",
-            "content": "GameStop reported sales dropped 9% and its loss narrowed for its third fiscal quarter after the videogame retailer cut costs as part of continued efforts to turnaround its business.\r\nThe Grapevine, T… [+389 chars]"
+            "content": "British American Tobacco stock sank to decade-plus lows Wednesday, after the maker of Dunhill and Lucky Strike cigarettes warned of a likely $31.5 billion write-down tied to its U.S. brands.\r\n BAT's … [+297 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "New York Post"
             },
-            "author": "Brody Ford",
-            "title": "C3.ai says revenue dented by new 'AI governance' department reviews - Yahoo Finance",
-            "description": "(Bloomberg) -- C3.ai Inc. reported quarterly revenue that fell short of analysts’ estimates and gave an outlook for an operating loss in the fiscal year that...",
-            "url": "https://finance.yahoo.com/news/c3-ai-says-revenue-dented-230744207.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/X7LUZC8Y5_OiS5jIYmjpQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA-/https://media.zenfs.com/en/bloomberg_technology_68/98ad554086f8a74f852330b7af9ba9d4",
-            "publishedAt": "2023-12-06T23:07:44Z",
-            "content": "(Bloomberg) -- C3.ai Inc. reported quarterly revenue that fell short of analysts estimates and gave an outlook for an operating loss in the fiscal year that was worse than projected. The shares dropp… [+3370 chars]"
+            "author": "Vaughn Golden, Nolan Hicks",
+            "title": "Upstate NY pol threatens to back New Jersey lawsuit against congestion pricing - New York Post ",
+            "description": "State Sen. James Skoufis is demanding the MTA make a carve out for his Orange and Rockland County commuters in the scheme that would put a $15 per day fare on entering Manhattan below 60th St.",
+            "url": "https://nypost.com/2023/12/06/metro/upstate-ny-pol-threatens-to-back-new-jersey-lawsuit-against-congestion-pricing/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/12/miami-beach-florida-veterans-day-73361341.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-12-06T23:43:00Z",
+            "content": "An Orange County lawmaker is threatening to throw his support behind a lawsuit filed last month by the state of New Jersey trying to scrap the MTAs congestion pricing plan.\r\nState Sen. James Skoufis … [+2711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Sabrina Karl",
+            "title": "Top CD Rates Today: 9 Best Offers Pay 5.75% to 5.88% on Terms of 6 to 18 Months - Investopedia",
+            "description": "Today's best CD rates are 5.88% for 7 months from West Town Bank & Trust, 5.80% for 18 months from Seattle Bank, and 5.77% for 11 months from West Town Bank & Trust.",
+            "url": "https://www.investopedia.com/top-cd-rates-today-9-best-offers-pay-5-75-to-5-88-on-terms-of-6-to-18-months-8411709",
+            "urlToImage": "https://www.investopedia.com/thmb/yadd_z6JmIYBNFqmI-vWHr10CgE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12.06v2-b358653823b945b7b6e5783e7ca6b558.png",
+            "publishedAt": "2023-12-06T23:06:10Z",
+            "content": "After a couple of days of losing CD term leaders, rates on the best nationwide CDs held their ground today. You can still earn 5.88% APY with the best-paying certificate in the country, and eight mor… [+5877 chars]"
         },
         {
             "source": {
@@ -239,93 +590,41 @@
         {
             "source": {
                 "id": null,
-                "name": "Chicago Tribune"
+                "name": "Investor's Business Daily"
             },
-            "author": "Talia Soglin",
-            "title": "McDonald's will open first CosMc's spinoff in suburban Bolingbrook this week - Chicago Tribune",
-            "description": "CosMc’s, named after a McDonald’s character from the 1980s, will be a 10-store small-format pilot concept focused on specialty beverages and coffees.",
-            "url": "https://www.chicagotribune.com/business/ct-biz-mcdonalds-cosmcs-bolingbrook-20231206-fkize2wyorfxnlsnkcrdshbrwi-story.html",
-            "urlToImage": "https://www.chicagotribune.com/resizer/LaqIeMve62GOgyKhqqZ-gaAmg38=/1200x630/filters:format(jpg):quality(70):focal(2825x2655:2835x2665)/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZCR5CWXCANDWTBH7K342SS4PYA.JPG",
-            "publishedAt": "2023-12-06T22:16:00Z",
-            "content": "The week after photos of its new spinoff CosMcs in suburban Bolingbrook surfaced on social media, McDonalds officially announced the concept at an investor day in Chicago Wednesday.\r\nCosMcs, named af… [+3918 chars]"
+            "author": "Investor's Business Daily",
+            "title": "Hot AI Stock C3.ai Falls As Fiscal Q2 Revenue Misses, Guidance Light - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/news/technology/ai-stock-c3ai-earnings-c3ai-stock-news-q32023/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-06T22:52:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Claudia Assis",
-            "title": "Nikola's stock drops 16% after EV company announces equity raise, convertible debt raise - MarketWatch",
-            "description": "Shares of Nikola Corp. fell more than 16% in the extended session Wednesday after the EV company said it plans to raise $100 million of stock and $200...",
-            "url": "https://www.marketwatch.com/story/nikolas-stock-drops-16-after-ev-company-announces-equity-raise-convertible-debt-raise-1c644fb3",
-            "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-            "publishedAt": "2023-12-06T22:16:00Z",
-            "content": "Shares of Nikola Corp. \r\n NKLA,\r\n +1.28%\r\nfell more than 16% in the extended session Wednesday after the EV company said it plans to raise $100 million of stock and $200 million in convertible notes … [+593 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.cn.ca"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "CN to Acquire Iowa Northern Railway | cn.ca - CN Rail",
-            "description": "CN to Acquire Iowa Northern Railway",
-            "url": "https://www.cn.ca/en/news/2023/12/cn-to-acquire-iowa-northern-railway/",
-            "urlToImage": "/https://www.cn.ca/-/media/Images/Share/DefaultSocialImage.jpg?v=25011",
-            "publishedAt": "2023-12-06T22:09:11Z",
-            "content": "Acquisition Will Provide Options for Shipping to and from Iowa\r\nMONTREAL, Dec. 06, 2023 (GLOBE NEWSWIRE) -- CN (TSX: CNR) (NYSE: CNI) today announced that it has signed and closed an agreement to acq… [+4530 chars]"
+            "title": "Lower oil prices will persist into 2024: Portfolio Manager - Yahoo Finance",
+            "description": "#crudeoil #oilstocks #yahoofinance Crude oil (CL=F) dipped below $70 per barrel on Wednesday, weighed down by demand concerns. Tortoise Senior Portfolio Mana...",
+            "url": "https://www.youtube.com/watch?v=87Vkr6Tpha4",
+            "urlToImage": "https://i.ytimg.com/vi/87Vkr6Tpha4/maxresdefault.jpg",
+            "publishedAt": "2023-12-06T22:45:01Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Upwallstreet",
-            "title": "Nio Narrowed Its Losses But Fell Short On Revenue And Guidance - Yahoo Finance",
-            "description": "On Tuesday, Nio Inc (NYSE: NIO) reported a narrower-than-expected third quarter loss. Like other automakers in China, Nio was pressured to slash prices...",
-            "url": "https://finance.yahoo.com/news/nio-narrowed-losses-fell-short-215613054.html",
-            "urlToImage": "https://media.zenfs.com/en/Benzinga/081ab805295c630ea9f581e68c510478",
-            "publishedAt": "2023-12-06T21:56:13Z",
-            "content": "On Tuesday, Nio Inc (NYSE: NIO) reported a narrower-than-expected third quarter loss. Like other automakers in China, Nio was pressured to slash prices, thinning its margins, in response to the price… [+3367 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Foxweather.com"
-            },
-            "author": "Chris Oberholtz",
-            "title": "Shipping companies offering millions to jump long lines for drought-stricken Panama Canal - Fox Weather ",
-            "description": "The Panama Canal, connecting the Atlantic and Pacific oceans, faces significant transportation challenges due to a drought causing its lowest water levels since the mid-1900s.",
-            "url": "https://www.foxweather.com/weather-news/drought-panama-canal-december-latest",
-            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/12/1024/512/GettyImages-1762118906.jpg?ve=1&tl=1",
-            "publishedAt": "2023-12-06T21:53:00Z",
-            "content": "PEDRO MIGUEL, Panama – Shipping companies are opening up their pocketbooks in desperate attempts to get their cargo through the Panama Canal in a timely manner, as the canal faces an unprecedented dr… [+3238 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Benj Edwards",
-            "title": "Meta's new AI image generator was trained on 1.1 billion Instagram and Facebook photos - Ars Technica",
-            "description": "\"Imagine with Meta AI\" turns prompts into images, trained using public Facebook data.",
-            "url": "https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/meta_emu_hero_1-760x380.jpg",
-            "publishedAt": "2023-12-06T21:52:14Z",
-            "content": "Enlarge/ Three images generated by \"Imagine with Meta AI\" using the Emu AI model.\r\n40\r\nOn Wednesday, Meta released a free standalone AI image generator website, \"Imagine with Meta AI,\" based on its E… [+4810 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Breck Dumas",
-            "title": "Elon Musk's AI start-up xAI looks to raise $1 billion, filing shows - Fox Business",
-            "description": "Elon Musk's artificial intelligence start-up xAI is seeking to raise as much as $1 billion, a Securities and Exchange Commission filing from this week shows.",
-            "url": "https://www.foxbusiness.com/technology/elon-musks-ai-startup-xai-raise-1-billion-filing",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/0/0/f3d5afca-Elon-Musk.jpg?ve=1&tl=1",
-            "publishedAt": "2023-12-06T21:48:00Z",
-            "content": "Elon Musk's artificial intelligence company, xAI, disclosed this week it is looking to raise up to seven figures, but the tech billionaire says the start-up is not raising funds \"right now.\"\r\nIn a Se… [+2819 chars]"
+            "author": "Reuters",
+            "title": "Danish pension fund to sell its Tesla shares over union dispute - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/sustainability/danish-pension-fund-sell-its-tesla-shares-over-union-dispute-2023-12-06/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-06T21:59:00Z",
+            "content": null
         },
         {
             "source": {
@@ -342,68 +641,42 @@
         },
         {
             "source": {
-                "id": "fortune",
-                "name": "Fortune"
+                "id": null,
+                "name": "PRNewswire"
             },
-            "author": "Paolo Confino",
-            "title": "Sen. Robert Menendez, facing bribery charges, stumps bank CEOs by asking how much their firms paid in settlements for allegedly ripping off consumers - Fortune",
-            "description": "The senator, who is charged with bribery, asked bank CEOs how much money the Consumer Financial Protection Bureau had fined each of them. They didn't know.",
-            "url": "https://fortune.com/2023/12/06/sen-robert-menendez-bribery-charges-bank-ceos-cfpb-settlements/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/12/GettyImages-1827588261-e1701891456167.jpg?resize=1200,600",
-            "publishedAt": "2023-12-06T21:36:00Z",
-            "content": "Sen. Bob Menendez (D-N.J.), charged with bribery, gave Wall Street bank executives a pop quiz about their own corporate misbehavior that they all failed. On Wednesday, at a congressional hearing, the… [+5400 chars]"
+            "author": null,
+            "title": "NIKOLA CORPORATION ANNOUNCES PROPOSED OFFERINGS OF COMMON STOCK AND CONVERTIBLE SENIOR NOTES - PR Newswire",
+            "description": "/PRNewswire/ -- Nikola Corporation (Nasdaq: NKLA) today announced its intention to offer, subject to market and other conditions, $100,000,000 of common stock...",
+            "url": "https://www.prnewswire.com/news-releases/nikola-corporation-announces-proposed-offerings-of-common-stock-and-convertible-senior-notes-302008131.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2168504/Nikola_Corporation_Headquarters.jpg?p=facebook",
+            "publishedAt": "2023-12-06T21:35:00Z",
+            "content": "PHOENIX, Dec. 6, 2023 /PRNewswire/ -- Nikola Corporation (Nasdaq: NKLA) today announced its intention to offer, subject to market and other conditions, $100,000,000 of common stock and $200,000,000 a… [+6776 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Abbvie.com"
+                "name": "MarketWatch"
+            },
+            "author": "Jon Swartz",
+            "title": "Chewy’s stock drops 8% on revenue miss - MarketWatch",
+            "description": "Chewy Inc.’s stock declined 8% in after-hours trading Wednesday after the online pet-supplies retailer posted quarterly results that topped analyst revenue...",
+            "url": "https://www.marketwatch.com/story/chewys-stock-drops-8-on-revenue-miss-9f712fce",
+            "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+            "publishedAt": "2023-12-06T21:33:00Z",
+            "content": "Jon Swartz is a senior reporter for MarketWatch in San Francisco, covering many of the biggest players in tech, including Netflix, Facebook and Google. Jon has covered technology for more than 20 yea… [+84 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
             },
             "author": null,
-            "title": "AbbVie to Acquire Cerevel Therapeutics in Transformative Transaction to Strengthen Neuroscience Pipeline - AbbVie",
-            "description": "Proposed acquisition adds robust pipeline of assets focused on best-in-class potential for psychiatric and neurological disorders where significant unmet needs remain Cerevel's clinical-stage...",
-            "url": "https://news.abbvie.com/2023-12-06-AbbVie-to-Acquire-Cerevel-Therapeutics-in-Transformative-Transaction-to-Strengthen-Neuroscience-Pipeline",
+            "title": "AbbVie to Acquire Cerevel Therapeutics in Transformative Transaction to Strengthen Neuroscience Pipeline - PR Newswire",
+            "description": "Proposed acquisition adds robust pipeline of assets focused on best-in-class potential for psychiatric and neurological disorders where significant unmet needs...",
+            "url": "https://www.prnewswire.com/news-releases/abbvie-to-acquire-cerevel-therapeutics-in-transformative-transaction-to-strengthen-neuroscience-pipeline-302008134.html",
             "urlToImage": null,
-            "publishedAt": "2023-12-06T21:31:24Z",
+            "publishedAt": "2023-12-06T21:30:00Z",
             "content": "<ul><li>Proposed acquisition adds robust pipeline of assets focused on best-in-class potential for psychiatric and neurological disorders where significant unmet needs remain</li><li>Cerevel's clinic… [+13473 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "JPMorgan CEO Jamie Dimon says he would \"close\" cryptocurrency down - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/12/06/jamie-dimon-cryptocurrency-bitcoin",
-            "urlToImage": null,
-            "publishedAt": "2023-12-06T21:28:17Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "Investor's Business Daily",
-            "title": "MDB Stock Falls Despite Strong Earnings From MongoDB - Investor's Business Daily",
-            "description": null,
-            "url": "https://www.investors.com/news/technology/mongodb-earnings-top-expectations-mdb-stock-down-following-report/",
-            "urlToImage": null,
-            "publishedAt": "2023-12-06T21:04:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FX Empire"
-            },
-            "author": null,
-            "title": "Decoding Natural Gas: Signals Point to Further Downside Pressures - FX Empire",
-            "description": "As natural gas hovers near the 2.54 mark, a drop below signals a bearish continuation. The emergence of a larger bearish flag pattern raises concerns about further declines.",
-            "url": "https://www.fxempire.com/forecasts/article/decoding-natural-gas-signals-point-to-further-downside-pressures-1394075",
-            "urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2023/12/shutterstock_2176932633.jpg",
-            "publishedAt": "2023-12-06T21:03:00Z",
-            "content": "Bearish Continuation Indicated Below 2.54\r\nA drop below todays low of 2.54 signals a bearish continuation. The next lower targets will then be 2.50, followed by a price range from 2.44 to 2.42. The l… [+1531 chars]"
         },
         {
             "source": {
@@ -420,29 +693,16 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "Forbes"
             },
-            "author": "Reuters",
-            "title": "US FTC tries again to stop Microsoft's already-closed deal for Activision - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/markets/deals/us-ftc-tries-again-stop-microsofts-already-closed-deal-activision-2023-12-06/",
-            "urlToImage": null,
-            "publishedAt": "2023-12-06T20:49:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "KELVIN CHAN",
-            "title": "Europe was set to lead the world on AI regulation. But can leaders reach a deal? - The Associated Press",
-            "description": "The generative AI boom has sent governments worldwide scrambling to regulate the emerging technology. It's also raised the risk of upending a European Union push to approve the world’s first comprehensive artificial intelligence rules. The 27-nation bloc’s Ar…",
-            "url": "https://apnews.com/article/ai-act-talks-artificial-intelligence-regulation-e2bb57eef7ba6d2b0c85ef757fcd3bb0",
-            "urlToImage": "https://dims.apnews.com/dims4/default/f708e48/2147483647/strip/true/crop/3803x2139+0+198/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffd%2F52%2Faba5ecee1309b2043b714fdc2ffb%2F206d1072c8254aacb44e033693f18afd",
-            "publishedAt": "2023-12-06T20:47:00Z",
-            "content": "LONDON (AP) The generative AI boom has sent governments worldwide scrambling to regulate the emerging technology, but it also has raised the risk of upending a European Union push to approve the worl… [+4124 chars]"
+            "author": "James Farrell",
+            "title": "McDonald’s Plans ‘Fastest Period Of Growth In Brand’s History’ With 10,000 New Stores By 2027 - Forbes",
+            "description": "The fast food burger chain announced it’s planning to expand with 10,000 new stores and new investments in AI.",
+            "url": "https://www.forbes.com/sites/jamesfarrell/2023/12/06/mcdonalds-plans-fastest-period-of-growth-in-brands-history-with-10000-new-stores-by-2027/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6570d8946218f1648e50ca3e/0x0.jpg?format=jpg&crop=2229,1253,x0,y115,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-12-06T20:25:41Z",
+            "content": "McDonalds is planning to open 10,000 new stores globally by 2027, in what the worlds largest fast food chain says would be the fastest period of growth in the brands history, while also announcing a … [+3430 chars]"
         },
         {
             "source": {
@@ -459,32 +719,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Andy Greenberg",
-            "title": "The Binance Crackdown Will Be an 'Unprecedented' Bonanza for Crypto Surveillance - WIRED",
-            "description": "Binance’s settlement requires it to offer years of transaction data to US regulators and cops, exposing the company—and its customers—to a “24/7, 365-days-a-year financial colonoscopy.”",
-            "url": "https://www.wired.com/story/binance-settlement-transaction-histories/",
-            "urlToImage": "https://media.wired.com/photos/655e55765a9f03a94854e2cd/191:100/w_1280,c_limit/binance.jpg",
-            "publishedAt": "2023-12-06T18:56:10Z",
-            "content": "One attraction of Binance, as the company grew from its 2017 founding into the biggest cryptocurrency exchange in the world, was the firm's freewheeling flouting of rules. As it amassed well over 100… [+3491 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Redd Brown",
-            "title": "Stock Rally in November Embarrassed Strategists But Vindicated Analysts - Bloomberg",
-            "description": "November’s near-record equity rally has left top strategists facing a wildly off-the-mark year but their analyst colleagues looking forward to their most-accurate in more than a decade, highlighting Wall Street’s onerous task of forecasting 2024 amid persiste…",
-            "url": "https://www.bloomberg.com/news/articles/2023-12-06/november-s-rally-embarrassed-strategists-but-vindicated-analysts",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOrqtVaNGuZE/v1/1200x800.jpg",
-            "publishedAt": "2023-12-06T18:41:14Z",
-            "content": "Novembers near-record equity rally has left top strategists facing a wildly off-the-mark year but their analyst colleagues looking forward to their most-accurate in more than a decade, highlighting W… [+432 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "[Removed]"
             },
@@ -498,58 +732,6 @@
         },
         {
             "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Lukanyo Mnyanda, Stephanie Stacey",
-            "title": "Oil slumps to lowest in five months despite Opec+ production cuts - Financial Times",
-            "description": "Investors are betting cartel’s reductions will be offset by weak demand and rising supply from elsewhere",
-            "url": "https://www.ft.com/content/89d77073-4f0c-446e-a187-fe92fec9d8d8",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fbb76f906-2009-4827-8db5-dcc7cd6cadfc.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-12-06T18:07:49Z",
-            "content": "Oil prices have fallen to their lowest level in five months as investors grow increasingly sceptical that production cuts announced by Opec+ last week will be enough to offset rising supply from coun… [+2766 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Cara Tabachnick",
-            "title": "McDonald's plans to add about 10,000 new stores worldwide by 2027; increase use of AI - CBS News",
-            "description": "The company announced it will work with Google Cloud on automation innovation to lead to \"hotter, fresher food.\"",
-            "url": "https://www.cbsnews.com/news/mcdonalds-plans-to-add-about-10000-new-stores-worldwide-by-2027/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/28/5b9922a3-eade-4b8e-aa45-44119bf6e250/thumbnail/1200x630/6e5244e03741a28595cca20b5768fa1d/gettyimages-1801010211.jpg?v=170b469460f9b5b4a2670b02bb591e2d",
-            "publishedAt": "2023-12-06T17:45:41Z",
-            "content": "McDonald's plans to open about 10,000 new stores worldwide by 2027 in what it anticipates will be the \"fastest period of growth\" in its 60-year history, the company said in a news statement on Wednes… [+2295 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "AOG Technics: UK fraud body makes arrest in aircraft parts probe - BBC.com",
-            "description": "It has launched a criminal investigation into alleged fraud at aircraft parts supplier AOG Technics.",
-            "url": "https://www.bbc.com/news/business-67641076",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4410/production/_131942471_gettyimages-1140118089.jpg",
-            "publishedAt": "2023-12-06T17:43:00Z",
-            "content": "By Katy Austin &amp; Lora JonesBBC Business\r\nThe Serious Fraud Office (SFO) has launched a criminal investigation into suspected fraud at a UK-based aircraft parts supplier.\r\nInvestigators from the S… [+3612 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "JONEL ALECCIA AP health writer",
-            "title": "FDA is inspecting plant in Ecuador that made lead-tainted fruit pouches - ABC News",
-            "description": "U.S. health officials have launched an inspection of a plant in Ecuador that made the cinnamon applesauce pouches linked to dozens of cases of acute lead poisoning in U.S. children",
-            "url": "https://abcnews.go.com/Health/wireStory/fda-inspecting-plant-ecuador-made-lead-tainted-fruit-105427766",
-            "urlToImage": "https://i.abcnewsfe.com/a/3dd30504-d84c-4770-a083-607b87a05549/wirestory_8a7bba763e7fdb79688dea6b2be79007_16x9.jpg?w=992",
-            "publishedAt": "2023-12-06T17:40:32Z",
-            "content": "U.S. health officials have launched an inspection of a plant in Ecuador that made the cinnamon applesauce pouches linked to dozens of cases of acute lead poisoning in U.S. children.\r\nThe U.S. Food an… [+1305 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Investopedia"
             },
@@ -560,32 +742,6 @@
             "urlToImage": "https://www.investopedia.com/thmb/J06Ej21ZOhQ73Wl37roSWlASmrM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-14946233992-c60286924dfc4183afa20dc41a3cab64.jpg",
             "publishedAt": "2023-12-06T17:01:29Z",
             "content": "<ul><li>Nvidia CEO Jensen Huang said the chip maker is developing chips to comply with higher restrictions on chip exports to China.</li><li>The U.S. government recently imposed curbs on high-end chi… [+1282 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "Marty Shtrubel",
-            "title": "PayPal Stock Could Stay Grounded, Says Stifel - TipRanks.com - TipRanks",
-            "description": "It has been a testing year for PayPal (NASDAQ:PYPL) investors. While the markets have been on the up for most of the year with tech driving the gains, the digital</...",
-            "url": "https://www.tipranks.com/news/article/paypal-stock-could-stay-grounded-says-stifel",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2023/12/PYPL-0612-750x406.jpg",
-            "publishedAt": "2023-12-06T16:44:32Z",
-            "content": "It has been a testing year for PayPal (NASDAQ:PYPL) investors. While the markets have been on the up for most of the year with tech driving the gains, the digital payments leader has been entirely ex… [+2871 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Above the Law"
-            },
-            "author": "Joe Patrice",
-            "title": "Despite 2023 Setbacks, Law Firm Will Match Pay & Bonus Scale - Above the Law",
-            "description": "Layoffs and deferrals aren't dampening the firm's 2024 outlook.",
-            "url": "https://abovethelaw.com/2023/12/despite-2023-setbacks-law-firm-will-match-pay-bonus-scale/",
-            "urlToImage": "https://abovethelaw.com/uploads/2016/06/Throwing-money-RF.jpg",
-            "publishedAt": "2023-12-06T15:41:18Z",
-            "content": "When Cadwalader incurred staff and attorney layoffs and deferred its incoming associate class, you might have expected the firm to be cagey about the prospect of jumping to match the new normal in co… [+2532 chars]"
         },
         {
             "source": {
@@ -603,67 +759,28 @@
         {
             "source": {
                 "id": null,
-                "name": "PRNewswire"
+                "name": "CNBC"
             },
-            "author": null,
-            "title": "ADP National Employment Report: Private Sector Employment Increased by 103,000 Jobs in November; Annual Pay was Up 5.6% - PR Newswire",
-            "description": "/PRNewswire/ -- Private sector employment increased by 103,000 jobs in November and annual pay was up 5.6 percent year-over-year, according to the November...",
-            "url": "https://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-103-000-jobs-in-november-annual-pay-was-up-5-6-302007536.html",
-            "urlToImage": "https://mma.prnewswire.com/media/1212743/ADP_Research_Institute__Logo.jpg?p=facebook",
-            "publishedAt": "2023-12-06T13:15:00Z",
-            "content": "ROSELAND, N.J., Dec. 6, 2023 /PRNewswire/ -- Private sector employment increased by 103,000 jobs in November and annual pay was up 5.6 percent year-over-year, according to the November ADP® National … [+6855 chars]"
+            "author": "Jeff Cox",
+            "title": "Private payrolls increased by 103,000 in November, below expectations, ADP says - CNBC",
+            "description": "Private sector job creation slowed further in November and wages showed their smallest growth in more than two years, ADP reported.",
+            "url": "https://www.cnbc.com/2023/12/06/private-payrolls-increased-by-103000-in-november-below-expectations-adp-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107311990-1696601938918-107311990-1696509716030-gettyimages-1693347717-JOB_FAIR.jpg?v=1696601965&w=1920&h=1080",
+            "publishedAt": "2023-12-06T13:15:01Z",
+            "content": "Private sector job creation slowed further in November and wages showed their smallest growth in more than two years, payrolls processing firm ADP reported Wednesday.\r\nCompanies added just 103,000 wo… [+2495 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Harvard Business Review"
+                "name": "Post Magazine"
             },
             "author": null,
-            "title": "Strategy, Not Technology, Is the Key to Winning with GenAI - HBR.org Daily",
-            "description": "The explosion of AI startups in dozens of sectors masks something many of them share: They are increasingly built on top of standardized technology from a few AI giants like OpenAI, Google, and Meta. This puts a premium on strategy over proprietary technology…",
-            "url": "https://hbr.org/2023/12/strategy-not-technology-is-the-key-to-winning-with-genai",
-            "urlToImage": "https://hbr.org/resources/images/article_assets/2023/11/Dec23_06_3289719.jpg",
-            "publishedAt": "2023-12-06T13:13:10Z",
-            "content": "The explosion of AI startups in dozens of sectors masks something many of them share: They are increasingly built on top of standardized technology from a few AI giants like OpenAI, Google, and Meta.… [+311 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KOMO News"
-            },
-            "author": "Danny Schmidt, KOMO News",
-            "title": "Will homebuyers catch a break in 2024? Redfin, Zillow make annual predictions - KOMO News",
-            "description": "Homebuyers may finally catch a break in 2024 as mortgage rates come down and listings go up.",
-            "url": "https://komonews.com/news/local/housing-market-real-estate-2024-predictions-new-year-redfin-zillow-seattle-washington-mortgage-rates-2023-homebuyer-seller-listings-sales-pending-buy-should-i-wait-agent-realtor-house-home-condo-rent-single-family",
-            "urlToImage": "https://komonews.com/resources/media/041025c2-ed54-487b-acf7-1584c6235991-large16x9_GettyImages1475361645.jpg?1686758612407",
-            "publishedAt": "2023-12-06T13:00:00Z",
-            "content": "SEATTLE Homebuyers may finally catch a break in 2024 as mortgage rates come down and listings go up.\r\nThat's what Redfin is forecasting for the new year. The Seattle-based real estate brokerage relea… [+5770 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": null,
-            "title": "British American Tobacco wipes $31.5 billion off value of US cigarette brands - CNN",
-            "description": "British American Tobacco will take a hit of around $31.5 billion as it writes down the value of Camel, Pall Mall and other US cigarette brands, the company said Wednesday, acknowledging that its traditional market has no long-term future.",
-            "url": "https://www.cnn.com/2023/12/06/business/bat-cigarette-brands-writedown/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231206064550-01-lucky-strike-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-12-06T12:13:00Z",
-            "content": "London British American Tobacco (BAT) will take a hit of around $31.5 billion as it writes down the value of Camel, Pall Mall and other US cigarette brands, the company said Wednesday, acknowledging … [+2059 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Colleen Howe",
-            "title": "China starts up world's first fourth-generation nuclear reactor - Reuters",
-            "description": "China has started commercial operations at a new generation nuclear reactor that is the first of its kind in the world, state media said on Wednesday.",
-            "url": "https://www.reuters.com/world/china/china-starts-up-worlds-first-fourth-generation-nuclear-reactor-2023-12-06/",
-            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=165",
-            "publishedAt": "2023-12-06T11:29:00Z",
-            "content": "BEIJING, Dec 6 (Reuters) - China has started commercial operations at a new generation nuclear reactor that is the first of its kind in the world, state media said on Wednesday.\r\nCompared with previo… [+1377 chars]"
+            "title": "World’s first fourth-generation nuclear reactor goes online in China - South China Morning Post",
+            "description": "Reactor at Shidaowan plant in China’s eastern Shandong province is part of global push for safer, more sustainable and efficient nuclear operations.",
+            "url": "https://www.scmp.com/news/china/science/article/3244102/shidaowan-worlds-first-4th-generation-nuclear-reactor-begins-commercial-operation-chinas-east-coast",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/12/06/f041461a-6764-4db0-9e79-f5722571ce97_b3932ad3.jpg?itok=Ld7QIypd&v=1701863356",
+            "publishedAt": "2023-12-06T11:50:05Z",
+            "content": "The reactor at the Shidaowan plant in Chinas eastern Shandong province is part of a global push for safer, more sustainable and efficient nuclear operations.\r\nInstead of using water to cool the syste… [+4542 chars]"
         },
         {
             "source": {
@@ -681,19 +798,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
-            },
-            "author": "Elliot Smith",
-            "title": "International airline group expects a banner year for travel in 2024 - CNBC",
-            "description": "Airlines expect record traveler numbers and revenues in 2024 but will continue to be constrained by the high cost of capital and limited capacity, IATA said.",
-            "url": "https://www.cnbc.com/2023/12/06/airlines-signs-are-pointing-to-a-bumper-travel-year-in-2024.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107170892-1671811130323-gettyimages-1245797995-tang-notitle221223_npGzn.jpeg?v=1701867124&w=1920&h=1080",
-            "publishedAt": "2023-12-06T11:25:36Z",
-            "content": "American Airlines planes are seen at gates at LaGuardia Airport ahead of the Thanksgiving holiday, in New York City, U.S., November 21, 2023. \r\nAirlines expect record traveler numbers and revenues in… [+3234 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "YouTube"
             },
             "author": null,
@@ -702,19 +806,6 @@
             "url": "https://www.youtube.com/watch?v=std18rG7MK8",
             "urlToImage": "https://i.ytimg.com/vi/std18rG7MK8/maxresdefault.jpg",
             "publishedAt": "2023-12-06T11:00:08Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "CVS drug pricing overhaul signals a broader industry shift - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/12/06/cvs-drug-pricing-overhaul",
-            "urlToImage": null,
-            "publishedAt": "2023-12-06T10:35:27Z",
             "content": null
         },
         {
@@ -729,19 +820,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/107341979-107341979-17014457131701445711-32264353573-1080pnbcnews.jpg?v=1701854070&w=1920&h=1080",
             "publishedAt": "2023-12-06T09:21:28Z",
             "content": "U.S. Treasury yields were little changed on Wednesday as investors assessed the state of the economy after the release of labor market data while awaiting a key report due Friday.\r\nThe yield on the 1… [+1920 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Louis Ashworth, Alexandra Scaggs",
-            "title": "A reality check on those Hamas insider trading claims - Financial Times",
-            "description": "“Fact-checking anything is basically pointless” — Oscar Wilde",
-            "url": "https://www.ft.com/content/cee5e4fd-2353-4958-a5f8-c4a802024fab",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fc98036dd-f355-4380-bef9-8da15759a7a3.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-12-06T06:44:46Z",
-            "content": "Markets reporters have a private running joke about how its mostly impossible to know what moves stocks, or what might motivate a particular trade.\r\nSometimes the catalyst looks obvious, like better-… [+9608 chars]"
         },
         {
             "source": {
@@ -768,84 +846,6 @@
             "urlToImage": "https://www.oregonlive.com/resizer/ogdHzITkbDd9tdGhWfi5APclSZM=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3DRPRWKXDRE4NOQVQMVHHGNGX4.JPG",
             "publishedAt": "2023-12-06T03:38:00Z",
             "content": "Electricity provider PacifiCorp has agreed to pay $299 million to victims of the 2020 wildfires in southern Oregon to end a lawsuit that could have cost it far more.\r\nPacifiCorps decision to settle c… [+5725 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KLAS - 8 News Now"
-            },
-            "author": "Joshua Peguero, Linsey Lewis",
-            "title": "Republic Services opens $75 million one-of-a-kind recycling plastics facility in Las Vegas - KLAS - 8 News Now",
-            "description": "A first-of-its-kind facility is opening in Las Vegas with the hopes of reducing the amount of plastic in landfills.",
-            "url": "https://www.8newsnow.com/news/local-news/republic-services-opens-75-million-one-of-a-kind-recycling-plastics-facility-in-las-vegas/",
-            "urlToImage": "https://www.8newsnow.com/wp-content/uploads/sites/59/2023/12/Polymer-Center-1.jpg?w=1280",
-            "publishedAt": "2023-12-06T03:11:10Z",
-            "content": "LAS VEGAS (KLAS) — A first-of-its-kind facility is opening in Las Vegas with the hopes of reducing the amount of plastic in landfills.\r\nRepublic Services invested $75 million into its Polymer Center … [+1890 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Ariel Shapiro",
-            "title": "Spotify's not going for Pulitzers anymore - The Verge",
-            "description": "Heavyweight and Stolen have been canceled, while Spotify’s originals roster is dominated by celebrity chat shows.",
-            "url": "https://www.theverge.com/2023/12/5/23989879/spotify-heavyweight-gimlet-stolen-pulitzer-layoff-daniel-ek",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/oaNdxtfeU3sXEbIdR2rGWZb-sd4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg",
-            "publishedAt": "2023-12-05T23:15:00Z",
-            "content": "Spotifys not going for Pulitzers anymore\r\nSpotifys not going for Pulitzers anymore\r\n / Spotify has shifted its focus from in-depth narrative podcasts to high-margin shows that are straightforward to … [+6596 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jordan Novet",
-            "title": "Ex-OpenAI director Reid Hoffman says we still don't 'fully know' why board forced out Altman - CNBC",
-            "description": "Reid Hoffman, who sold LinkedIn to Microsoft and previously served as an OpenAI director, said he's still not sure why the board pushed out Sam Altman",
-            "url": "https://www.cnbc.com/2023/12/05/reid-hoffman-says-we-dont-know-why-openai-board-forced-out-sam-altman.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105496130-1539094172652img_5073.jpg?v=1539094286&w=1920&h=1080",
-            "publishedAt": "2023-12-05T23:03:35Z",
-            "content": "Three weeks after OpenAI's board briefly pushed out CEO Sam Altman without providing a specific reason for its decision, former director Reid Hoffman says he's still puzzled by what took place and wh… [+3132 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "U.S. labor market rebalances from pandemic-era extremes - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/12/05/us-job-market-openings-labor-pandemic-covid",
-            "urlToImage": null,
-            "publishedAt": "2023-12-05T21:58:33Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Transport Topics Online"
-            },
-            "author": "Keiron Greenhalgh",
-            "title": "XPO In Line for 28 Yellow Properties for $870 Million - Transport Topics",
-            "description": "Less-than-truckload carrier XPO Inc. has agreed to pay $870 million for 26 owned terminals and two leased properties that previously were operated by Yellow Corp.",
-            "url": "https://www.ttnews.com/articles/xpo-yellow-terminal-auction",
-            "urlToImage": "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-12/Yellow-XPO-1200.jpg",
-            "publishedAt": "2023-12-05T21:15:49Z",
-            "content": "[Stay on top of transportation news: Get TTNews in your inbox.]\r\nLess-than-truckload carrier XPO Inc. has agreed to pay $870 million for 26 owned terminals and two leased properties that previously w… [+5157 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Kayla Bailey",
-            "title": "How AI is revolutionizing the world of medicine - Fox Business",
-            "description": "FOX Business' Lauren Simonetti details a breakthrough finding in the medical community revealing how artificial intelligence can help detect silent seizures.",
-            "url": "https://www.foxbusiness.com/healthcare/how-ai-revolutionizing-world-medicine",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/12/0/0/stethoscope_getty.jpg?ve=1&tl=1",
-            "publishedAt": "2023-12-05T19:55:00Z",
-            "content": "Artificial intelligence is revolutionizing industries across the board, including the world of medicine. \r\nAI WILL KILL SOME JOBS BUT MAY OFFER NEW OPPORTUNITIES FOR WORKERS: EXPERTS\r\nReporting live … [+2354 chars]"
         }
     ]
 }

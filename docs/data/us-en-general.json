@@ -4,80 +4,158 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Iceland volcano eruption weakening - BBC.com",
+            "description": "But new vents could open at short notice at the volcano on the Reykjanes peninsula, meteorologists say.",
+            "url": "https://www.bbc.com/news/world-europe-67770645",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B21F/production/_132099554_02ae2c11a4984e087fc28252c7433b763d593fde0_0_4259_28391000x667.jpg",
+            "publishedAt": "2023-12-20T10:25:00Z",
+            "content": "Spectacular helicopter shots show the eruption on the island's coast\r\nA volcano that erupted in south-west Iceland on Monday is weakening, although new vents could open at short notice, the country's… [+2944 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Adam Shaw",
+            "title": "Texas immigration law pushback marks latest tension between Biden administration and border states over crisis - Fox News",
+            "description": "A new Texas immigration law has sparked the ire of the Biden administration, igniting the latest clash over border security between the administration and border states.",
+            "url": "https://www.foxnews.com/politics/texas-immigration-law-marks-latest-in-tensions-between-biden-admin-border-states",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/abbottborderbiden.jpg",
+            "publishedAt": "2023-12-20T09:00:00Z",
+            "content": "The White House described a new immigration law in Texas allowing law enforcement to arrest illegal immigrants as \"extreme\" Tuesday, igniting the latest tension between the Biden administration and s… [+5487 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Israel battles Hamas on streets of Gaza city as UN delays vote again - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/middle-east/israel-battles-hamas-streets-gaza-city-un-delays-vote-again-2023-12-20/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-20T07:30:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "UK inflation rate drops more than expected to 3.9% in November - CNBC",
+            "description": "U.K. inflation fell far more than expected in November to 3.9%, its lowest annual reading since September 2021.",
+            "url": "https://www.cnbc.com/2023/12/20/uk-inflation-rate-drops-to-3point9percent-in-november-well-below-expectations.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106962350-1634624498621-gettyimages-1235512993-FE0A2293jpeg.jpeg?v=1703058161&w=1920&h=1080",
+            "publishedAt": "2023-12-20T07:11:07Z",
+            "content": "LONDON U.K. inflation fell by more than expected in to hit 3.9% in November, in the lowest annual reading since September 2021.\r\nEconomists polled by Reuters had expected a modest decline in the head… [+3407 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Toshiba delisted after 74 years, faces future with new owners - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/deals/toshiba-be-delisted-after-74-years-faces-future-with-new-owners-2023-12-19/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-20T07:03:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jason Owens",
+            "title": "Stephen Curry sinks Celtics with 3-point dagger in bounce back from rare game with no 3s - Yahoo Sports",
+            "description": "Curry had five fouls and 13 points midway through the third quarter. He finished with 33 points after rallying Golden State to overtime for the win.",
+            "url": "https://sports.yahoo.com/stephen-curry-sinks-celtics-with-3-point-dagger-in-bounce-back-from-rare-game-with-no-3s-054720117.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mJhyezQQpyj4POON6SI.Ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDk-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/2def4720-9efb-11ee-bcff-6bfb43774bbc",
+            "publishedAt": "2023-12-20T06:03:00Z",
+            "content": "There's no need to worry about Stephen Curry's shot.\r\nAfter a rare game without a 3-pointer, Curry was back in form Tuesday. The Warriors sharpshooter helped rally Golden State from an 11-point fourt… [+2860 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "247Sports"
+            },
+            "author": "Steve Wiltfong",
+            "title": "Blue-Chip Buzz: The latest on top prospects as morning of the Early Signing Period hits - 247Sports",
+            "description": "News and notes with the three-day Early Signing Period on the horizon.",
+            "url": "https://247sports.com/Article/blue-chip-buzz-the-latest-on-top-prospects-with-less-than-eight-hours-till-signing-day-begins-223546672/",
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/221/731/11731221.jpg",
+            "publishedAt": "2023-12-20T05:38:04Z",
+            "content": "We are under eight hours until the three-day Early Signing Period begins and college football prospects can start putting pen to paper and locking in their respective futures. There will be many rush… [+6059 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters India",
+            "title": "Some Muslims around major India temple fearful ahead of opening - Reuters India",
+            "description": null,
+            "url": "https://www.reuters.com/world/india/some-muslims-around-major-india-temple-fearful-ahead-opening-2023-12-20/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-20T05:07:43Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "MARCO DI MARCO Associated Press, DAVID KEYTON Associated Press",
-            "title": "A volcano erupts in southwestern Iceland and spews magma in a spectacular show of Earth's power - ABC News",
-            "description": "A volcano has erupted in southwestern Iceland with a flash of light into the evening sky in the land known for fire and ice",
-            "url": "https://abcnews.go.com/Business/wireStory/volcano-erupts-southwestern-iceland-spews-magma-spectacular-show-105768504",
-            "urlToImage": "https://i.abcnewsfe.com/a/fb9f5d0c-7079-4fc9-b71f-6642467fa435/wirestory_0840241f66c7799b55dfff4c3d4c4cc8_16x9.jpg?w=992",
-            "publishedAt": "2023-12-20T05:44:00Z",
-            "content": "GRINDAVIK, Iceland -- A volcano has erupted in southwestern Iceland, sending a flash of light into the evening sky and spewing semi-molten rock into the air in a spectacular show of the Earth's power… [+3989 chars]"
+            "author": "Kendall Ross, Isabella Murray, Lalee Ibssa, Soo Rin Kim",
+            "title": "Ramaswamy pledges to withdraw from Colorado GOP primary in solidarity with Trump - ABC News",
+            "description": "Ramaswamy challenged Christie, DeSantis, and Haley to do the same.",
+            "url": "https://abcnews.go.com/Politics/ramaswamy-pledges-withdraw-colorado-gop-primary-solidarity-trump/story?id=105794659",
+            "urlToImage": "https://i.abcnewsfe.com/a/0f5cdd83-7b82-4663-85b2-7872cf497f24/Ramaswamy-1-ap-er-231211_1702314138148_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-12-20T04:47:44Z",
+            "content": "Presidential candidate Vivek Ramaswamy pledged on Tuesday to remove himself from Colorados Republican primary ballot in response to the states Supreme Courts ruling that former President Donald Trump… [+3058 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "NPR"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "This cat video is out of this world, and NASA used a laser to beam it to Earth - NPR",
-            "description": "The 15-second video of Taters the cat was beamed to Earth from NASA's Psyche spacecraft, 19 million miles (30 million kilometers) away. Taters is shown chasing a red laser light.",
-            "url": "https://www.npr.org/2023/12/19/1220539948/this-cat-video-is-out-of-this-world-and-nasa-used-a-laser-to-beam-it-to-earth",
-            "urlToImage": "https://media.npr.org/assets/img/2023/12/19/ap23353691872064_wide-7aaa62b24be5c750d9c4051db1476953945df9b8-s1400-c100.jpg",
-            "publishedAt": "2023-12-20T04:42:08Z",
-            "content": "This image shows a frame from a 15-second ultra-high-definition video featuring a cat named Taters which was streamed via laser from deep space by NASA on Dec. 11, 2023.\r\nAP\r\nCAPE CANAVERAL, Fla. An … [+1647 chars]"
+            "author": "Morgan Rimmer, Piper HudspethBlackburn",
+            "title": "Senate approves final 11 military nominees after Tuberville backs down from hold - CNN",
+            "description": "Republican Sen. Tommy Tuberville of Alabama on Tuesday backed down for a second time this month, allowing the Senate to unanimously confirm 11 remaining top military nominees by voice vote after months of delaying hundreds of confirmations.",
+            "url": "https://www.cnn.com/2023/12/19/politics/tuberville-senate-final-11-military-nominees/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231219180421-01-sen-tommy-tuberville-112923.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-20T04:43:00Z",
+            "content": "Republican Sen. Tommy Tuberville of Alabama on Tuesday backed down for a second time this month, allowing the Senate to unanimously confirm 11 remaining top military nominees by voice vote after mont… [+1508 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "axios",
+                "name": "Axios"
             },
-            "author": "Reuters",
-            "title": "Tougher French immigration bill passes, Macron's parliament majority wobbles - Reuters",
+            "author": "Axios",
+            "title": "Apple Watch 9 sales pause: What's next - Axios",
             "description": null,
-            "url": "https://www.reuters.com/world/europe/france-lawmakers-seek-deal-tougher-migration-bill-2023-12-19/",
+            "url": "https://www.axios.com/2023/12/19/apple-watch-series-9-sales-pause-patent",
             "urlToImage": null,
-            "publishedAt": "2023-12-20T04:19:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Reversing earlier decision, judge allows removal of Confederate memorial at Arlington Cemetery - POLITICO",
-            "description": "“I saw no desecration of any graves,” Judge Rossie Alston said.",
-            "url": "https://www.politico.com/news/2023/12/19/judge-allows-removal-confederate-memorial-arlington-cemetery-00132626",
-            "urlToImage": "https://static.politico.com/ef/e4/cc994a074b939d2ce8af1d5be39c/confederate-memorial-arlington-61702.jpg",
-            "publishedAt": "2023-12-20T04:15:20Z",
-            "content": "I saw no desecration of any graves, Alston said. The grass wasnt even disturbed.\r\nAlston issued an 18-page opinion Tuesday evening to lift the injunction. He said the allegations that the removal eff… [+2663 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "https://www.facebook.com/kslcom/",
-            "title": "Google to pay $700M in Play store settlement; Utahns getting $15M cut of deal - KSL.com",
-            "description": "Alphabet's Google will pay $700 million and revamp its Play app store to allow for greater competition as part of an antitrust settlement with U.S. states and consumers, according to the company and filings in San Francisco federal court on Monday.",
-            "url": "https://www.ksl.com/article/50823130/google-to-pay-700m-in-play-store-settlement-utahns-getting-15m-cut-of-deal",
-            "urlToImage": "https://img.ksl.com/slc/2962/296223/29622357.JPG?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2023-12-20T03:33:45Z",
-            "content": "Estimated read time: 4-5\r\n minutes\r\nSAN FRANCISCO Alphabet's Google will pay $700 million and revamp its Play app store to allow for greater competition as part of an antitrust settlement with U.S. s… [+4451 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Trump barred from Colorado primary ballot for role in US Capitol attack - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/legal/colorado-supreme-court-disqualifies-trump-holding-office-filing-2023-12-19/",
-            "urlToImage": null,
-            "publishedAt": "2023-12-20T03:27:00Z",
+            "publishedAt": "2023-12-20T02:40:11Z",
             "content": null
         },
         {
@@ -86,11 +164,11 @@
                 "name": "Reuters"
             },
             "author": "Reuters",
-            "title": "China leaves lending benchmark rates unchanged as expected - Reuters",
+            "title": "Homes collapse as earthquake kills more than 100 in China's rural Gansu - Reuters",
             "description": null,
-            "url": "https://www.reuters.com/markets/asia/china-leaves-lending-benchmark-rates-unchanged-expected-2023-12-20/",
+            "url": "https://www.reuters.com/world/china/magnitude-61-earthquake-strikes-qinghai-china-emsc-2023-12-18/",
             "urlToImage": null,
-            "publishedAt": "2023-12-20T02:32:56Z",
+            "publishedAt": "2023-12-20T02:13:00Z",
             "content": null
         },
         {
@@ -108,16 +186,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Rick Porter",
-            "title": "‘Percy Jackson’ Premiere Moves Up on Disney+, Hulu - Hollywood Reporter",
-            "description": "The streamers drop the first two episodes a few hours ahead of schedule.",
-            "url": "https://www.hollywoodreporter.com/tv/tv-news/percy-jackson-series-premieres-early-disney-plus-hulu-1235766525/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/11/Percy-Jackson-and-the-Olympians-publicity-H-2023.jpg?w=1024",
-            "publishedAt": "2023-12-20T02:00:25Z",
-            "content": "Percy Jackson’s quest is beginning a little sooner than anticipated.\r\nDisney+ moved up the premiere of its Percy Jackson and the Olympians series by a few hours. The first two episodes, which had bee… [+1273 chars]"
+            "author": "Olivia Diaz, Justin Wm. Moyer, Gregory S. Schneider",
+            "title": "Judge says removal of Confederate statue at Arlington can proceed - The Washington Post",
+            "description": "The federal judge wrote that the “case essentially attempts to place this Court at the center of a great debate” between the Confederacy’s detractors and defenders.",
+            "url": "https://www.washingtonpost.com/dc-md-va/2023/12/19/arlington-confederate-memorial-removal-ruling/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4UIGEO7SIZGTKD4FQEHIS6JUA_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-12-20T01:54:00Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nA day after halting work to remove the Confederate memorial at Arlington National Cemetery, a federal judge in Virginia on Tuesday sai… [+6248 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Who are the Houthi rebels attacking commercial ships in the Middle East? - Fox News",
+            "description": "Houthi rebels from Yemen have threatened international shipping in the Red Sea and have engaged in a number of attacks on vessels while also threatening Israel.",
+            "url": "https://www.foxnews.com/world/who-houthi-rebels-attacking-commercial-ships-middle-east",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/2023-12-02T065945Z_271323776_RC2UO4AD5AW5_RTRMADP_3_ISRAEL-PALESTINIANS-YEMEN-HOUTHIS.jpg",
+            "publishedAt": "2023-12-20T01:38:00Z",
+            "content": "Yemen's Iran-backed Houthi rebels have increasingly become a threat to commercial global shipping and the region in which they operate as they continue to launch attacks in the Red Sea. \r\nThe Houthis… [+4785 chars]"
         },
         {
             "source": {
@@ -160,55 +251,16 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
             },
-            "author": "ACACIA CORONADO",
-            "title": "New Texas law over immigration faces lawsuit from ACLU, other groups - The Associated Press",
-            "description": "The White House and Mexico’s president are sharply criticizing a new Texas law that would allow police to arrest migrants who illegally cross into the U.S. and empower local judges to order them to leave the country. Also Tuesday, civil rights groups and Texa…",
-            "url": "https://apnews.com/article/texas-immigration-lawsuit-border-2be91001567623db8ad3171265d5e739",
-            "urlToImage": "https://dims.apnews.com/dims4/default/49eb4d2/2147483647/strip/true/crop/4876x2743+0+254/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2F7c%2F0d35bdb1acd0cd98e8dcc532abaf%2Fcf9b273a27404a18ab3b0f75016cc6ce",
-            "publishedAt": "2023-12-20T00:59:00Z",
-            "content": "AUSTIN, Texas (AP) The White House and Mexicos president on Tuesday came out strongly against a new Texas law that would allow police to arrest migrants who illegally cross into the U.S. and empower … [+4373 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Tucker Reals",
-            "title": "Who are the Houthi rebels? What to know about the Yemeni militants attacking ships in the Red Sea - CBS News",
-            "description": "What to know about the Houthi rebel movement, an Iran-backed group that controls much of Yemen, as it attacks ships in the Red Sea.",
-            "url": "https://www.cbsnews.com/news/who-are-houthi-rebels-what-to-know-yemen-militants-attack-ships-red-sea/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/10/06/b0373bc4-407d-4daa-b26f-29d89b429d2b/thumbnail/1200x630/b43c8e29cc07323536553d9a03dd5354/houthi-yemen-ap22278622673883.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
-            "publishedAt": "2023-12-20T00:42:00Z",
-            "content": "For weeks, Houthi rebels in Yemen have launched drone and rocket attacks targeting ships in the Red Sea and the Bab al-Mandab Strait, a strategic passage that connects the Red Sea and the Arabian Sea… [+6903 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Sandee LaMotte",
-            "title": "This type of plant-based diet helps battle diabetes and weight gain, study says - CNN",
-            "description": "Plant-based diets have amazing health benefits, including preventing diabetes and weight gain, but may only work if they are healthy, a new study says.",
-            "url": "https://www.cnn.com/2023/12/19/health/healthy-vs-unhealthy-plant-diets-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231219145417-01-plant-based-cooking-stock-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-12-20T00:01:00Z",
-            "content": "Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nEating a plant-based diet can d… [+3832 chars]"
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "Holly Marie Combs says Alyssa Milano had Shannen Doherty fired from 'Charmed' - Entertainment Weekly News",
+            "description": "Holly Marie Combs said that Alyssa Milano was directly responsible for Shannen Doherty's firing from 'Charmed.'",
+            "url": "https://ew.com/holly-marie-combs-alyssa-milano-shannen-doherty-fired-charmed-8418304",
+            "urlToImage": "https://ew.com/thmb/s9lgiAlj47CV1gYzPMhYwpDVAKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/charmed-121923-c38f40c439ce45ac93b6f5e09340e0c1.jpg",
+            "publishedAt": "2023-12-20T00:09:43Z",
+            "content": "Charmedis beloved by multiple generations of fans around the world but a new claim from Holly Marie Combs suggests that the behind-the-scenes drama of the hit series was anything but charming.\r\nIn an… [+2961 chars]"
         },
         {
             "source": {
@@ -226,15 +278,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Hola"
+                "name": "Entertainment Tonight"
             },
-            "author": "Monica Tirado",
-            "title": "Did Mariah Carey and Bryan Tanaka break up? - HOLA! USA",
-            "description": "The couple started their relationship in 2016, but for months now, they haven&#039;t been sharing photos on their social media.",
-            "url": "https://www.hola.com/us/celebrities/20231219353856/is-it-over-clues-mariah-carey-bryan-tanaka-breakup/",
-            "urlToImage": "https://images.hola.com/us/images/0288-19bc241f93c2-8c27dadb62f7-1000/horizontal-800/mariah-carey-y-bryan-tanaka.jpg",
-            "publishedAt": "2023-12-19T23:35:05Z",
-            "content": "Amid news that Bad Bunny and Kendall Jenner have ended their relationship,Mariah Carey and her boyfriend Bryan Tanaka have people convinced that they split. Rumors began circulating several days ago … [+2164 chars]"
+            "author": "Zach Seemayer",
+            "title": "Jennifer Love Hewitt Addresses Claim She Looks 'Unrecognizable': 'Aging Is Really Hard in Hollywood' - Entertainment Tonight",
+            "description": "The actress recently opened up about a barrage of criticism she faced for using a filter on social media.",
+            "url": "https://www.etonline.com/jennifer-love-hewitt-addresses-claim-she-looks-unrecognizable-aging-is-really-hard-in-hollywood",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2021-05/jlh-gettyimages-1136499887.jpg?h=99b8e05a",
+            "publishedAt": "2023-12-19T23:35:06Z",
+            "content": "Jennifer Love Hewitt is reflecting on the impossible beauty standards of Hollywood after getting dragged by trolls and critics over an innocuous social media post.\r\nThe 9-1-1 actress recently sat dow… [+1357 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MARCIA DUNN",
+            "title": "NASA transmits cat video by laser from deep space - The Associated Press",
+            "description": "An orange tabby cat named Taters stars in the first video sent by laser from deep space, stealing the show as he chases a red laser light. The 15-second ultra high-definition video was beamed to Earth from NASA's Psyche spacecraft, 19 million miles away. It t…",
+            "url": "https://apnews.com/article/nasa-laser-test-cat-psyche-space-d546e7e14acedb1464c279baf3c3eb68",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f95d4fa/2147483647/strip/true/crop/2739x1541+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2F24%2F4de5019293f0b93eb7f2f7048b0d%2F4a3e7ca43bd547edb098967f3a82a0d2",
+            "publishedAt": "2023-12-19T23:30:00Z",
+            "content": "CAPE CANAVERAL, Fla. (AP) An orange tabby cat named Taters stars in the first video transmitted by laser from deep space, stealing the show as he chases a red laser light.\r\nThe 15-second video was be… [+1656 chars]"
         },
         {
             "source": {
@@ -252,32 +317,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "TipRanks",
-            "title": "FedEx (NYSE:FDX) Plunges on Earnings Miss and Soft Guidance - TipRanks.com - TipRanks",
-            "description": null,
-            "url": "https://www.tipranks.com/news/fedex-nysefdx-plunges-on-earnings-miss-and-soft-guidance",
-            "urlToImage": null,
-            "publishedAt": "2023-12-19T22:22:29Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Brenda Goodman",
-            "title": "Coronavirus subvariant JN.1 growing fast in US, already dominant in the Northeast - CNN",
-            "description": "The US Centers for Disease Control and Prevention estimates that the coronavirus subvariant JN.1 is now causing about 20% of new Covid-19 infections in this country, and it’s the fastest-growing strain of the virus. It’s already dominant in the Northeast, whe…",
-            "url": "https://www.cnn.com/2023/12/19/health/what-to-know-about-jn-1/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231215171150-va-face-mask-090823.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-12-19T21:47:00Z",
-            "content": "The US Centers for Disease Control and Prevention estimates that the coronavirus subvariant JN.1 is now causing about 20% of new Covid-19 infections in this country, and its the fastest-growing strai… [+4576 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "PhoneArena"
             },
             "author": "Anam Hamid",
@@ -290,42 +329,29 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "MarketWatch"
             },
-            "author": "EDITH M. LEDERER",
-            "title": "UN Security Council vote on Gaza humanitarian resolution delayed again in effort to avoid US veto - The Associated Press",
-            "description": "U.N. Security Council members are in intense negotiations on an Arab-sponsored resolution to spur desperately needed humanitarian aid deliveries to Gaza during some kind of a halt in the fighting, trying to avoid another veto by the United States. A vote on t…",
-            "url": "https://apnews.com/article/un-israel-palestinians-gaza-humanitarian-e29910393c9c78a7419a5987e1279571",
-            "urlToImage": "https://dims.apnews.com/dims4/default/56880ae/2147483647/strip/true/crop/2970x1671+0+155/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4a%2Fa7%2Fe49527c964db1d53e7bc6323b589%2F8fc4baab50c14e49bc18c05c3cbf22e6",
-            "publishedAt": "2023-12-19T21:20:00Z",
-            "content": "UNITED NATIONS (AP) U.N. Security Council members were in intense negotiations Tuesday on an Arab-sponsored resolution to spur desperately needed humanitarian aid deliveries to Gaza during some kind … [+5241 chars]"
+            "author": "Bill Peters",
+            "title": "FedEx says holiday rush has been 'relatively similar' to last year, as forecast sends shares lower - MarketWatch",
+            "description": "‘We’ve said this over and over again over the last few quarters: We’re focused on the things that we can control,’ CEO says",
+            "url": "https://www.marketwatch.com/story/fedexs-stock-drops-as-company-trims-sales-forecast-10478d00",
+            "urlToImage": "https://images.mktw.net/im-507706/social",
+            "publishedAt": "2023-12-19T21:36:00Z",
+            "content": "Shares of FedEx Corp. dropped Wednesday after the package-delivery giant trimmed its full-year sales forecast, amid continued concerns about subdued shipping demand through the peak holiday season. F… [+3349 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "KCRA Sacramento"
             },
-            "author": "",
-            "title": "NFL Week 16 Power Rankings: No one's beating the 49ers right now; Eagles and Cowboys fall out of the top 5 - CBS Sports",
-            "description": "Pete Prisco feels great about picking San Francisco to win the Super Bowl before the season",
-            "url": "https://www.cbssports.com/nfl/news/nfl-week-16-power-rankings-no-ones-beating-the-49ers-right-now-eagles-and-cowboys-fall-out-of-the-top-5/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/12/19/008828ee-75ae-4b8d-aef7-6b5844329c79/thumbnail/1200x675/644ae0d5fb320a88128bf996098b1121/screen-shot-2023-12-19-at-10-47-15-am.png",
-            "publishedAt": "2023-12-19T21:04:00Z",
-            "content": "As we head into the final three weeks of the NFL's regular season, is there any team right now that you would take over the San Francisco 49ers to win it all?\r\nThink? Anybody?\r\nDidn't think so. \r\nI p… [+10223 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": null,
-            "title": "Parents and uncle convicted of murdering Pakistani teen in Italy for refusing an arranged marriage - The Associated Press",
-            "description": "A court in northern Italy has convicted the parents and an uncle of an 18-year-Pakistani woman of murdering her after she refused her family's demands to marry a cousin in their homeland. The parents were sentenced to life in prison on Tuesday, and the uncle …",
-            "url": "https://apnews.com/article/parents-uncle-convicted-pakistani-woman-killing-5120bbede99d1608e7dd5617ca2acc5a",
-            "urlToImage": "https://dims.apnews.com/dims4/default/e4a3140/2147483647/strip/true/crop/5972x3359+0+311/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2Fc0%2F835ed566beabbf6ae5ecd930dc98%2F58b89d219c5547ae83dca8b330d81065",
-            "publishedAt": "2023-12-19T20:35:00Z",
-            "content": "MILAN (AP) A court in northern Italy convicted the parents and an uncle of an 18-year-Pakistani woman for her murder in Italy after she refused her familys demands to marry a cousin in their homeland… [+1785 chars]"
+            "author": "Daniel Macht",
+            "title": "UC Davis professor teams up with SETI, has 20-minute ‘conversation’ with humpback whale in the wild - KCRA Sacramento",
+            "description": "In the same way that scientists have studied Antarctica for what insights could prove valuable for a Mars mission, the Whale-SETI group said its studies with humpback whales can help them develop “intelligence filters” used in the search for extraterrestrial …",
+            "url": "https://www.kcra.com/article/uc-davis-professor-teams-up-with-seti-has-20-minute-conversation-with-humpback-whale-in-the-wild/46179826",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/twain-fluke-135a2276noaa-permit-19703-6582019265336.jpg?crop=1.00xw:0.845xh;0,0.106xh&resize=1200:*",
+            "publishedAt": "2023-12-19T21:22:00Z",
+            "content": "A team that includes a UC Davis professor and a scientist with SETI, the organization that searches the cosmos for signs of alien intelligence, has cited a breakthrough here on Earth a 20-minute conv… [+2773 chars]"
         },
         {
             "source": {
@@ -355,81 +381,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": null,
-            "title": "Rich Eisen Reacts to Seahawks QB Drew Lock’s MNF Heroics & Heartwarming Postgame Interview - The Rich Eisen Show",
-            "description": "Rich Eisen weighs in on the emotional postgame interview of Seahawks QB Drew Lock after Seattle’s thrilling come-from-behind win over the Philadelphia Eagles...",
-            "url": "https://www.youtube.com/watch?v=bquYrI3rEho",
-            "urlToImage": "https://i.ytimg.com/vi/bquYrI3rEho/maxresdefault.jpg",
-            "publishedAt": "2023-12-19T19:00:17Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
+            "author": "USA TODAY",
+            "title": "New COVID variant JN.1 is on the rise this holiday season: What symptoms to look out for - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/news/health/2023/12/19/jn-1-symptoms-covid-variant/71971287007/",
             "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Pepper Expert Ed Currie Answers Pepper Questions From Twitter | Tech Support | WIRED - WIRED",
-            "description": "PuckerButt Pepper Company founder Ed Currie answers the internet's sizzling questions about peppers. Why do only mammals taste capsaicin? What kind of pepper...",
-            "url": "https://www.youtube.com/watch?v=eXmVq8x1Lqk",
-            "urlToImage": "https://i.ytimg.com/vi/eXmVq8x1Lqk/maxresdefault.jpg",
-            "publishedAt": "2023-12-19T17:00:20Z",
+            "publishedAt": "2023-12-19T18:11:30Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Endpoints News"
+                "id": "techcrunch",
+                "name": "TechCrunch"
             },
-            "author": "Max Gelman",
-            "title": "Lilly, Novo's bet on heart disease starts to take shape, and 2024 could be a pivotal year for their GLP-1s - Endpoints News",
-            "description": "Eli Lilly and Novo Nordisk are steadily — and somewhat quietly — preparing to build comprehensive cardiovascular franchises helmed by their lucrative treatments for diabetes and obesity. This year, the companies have started to publicly talk up their plans to…",
-            "url": "https://endpts.com/lilly-novos-bet-on-heart-disease-starts-to-take-shape-and-2024-could-be-a-pivotal-year-for-their-glp-1s/",
-            "urlToImage": "https://endpts.com/wp-content/uploads/2023/11/Ozempic-Mounjaro-shutterstock-social.jpg",
-            "publishedAt": "2023-12-19T16:24:00Z",
-            "content": "Eli Lil­ly and No­vo Nordisk are steadi­ly — and some­what qui­et­ly — prepar­ing to build com­pre­hen­sive car­dio­vas­cu­lar fran­chis­es helmed by their lu­cra­tive treat­ments for di­a­betes and … [+741 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Lauren Mascarenhas",
-            "title": "The Powerball jackpot has climbed to $572 million ahead of Wednesday’s drawing - CNN",
-            "description": "When the next Powerball numbers are drawn in a studio in Tallahassee, Florida, Wednesday evening, a lucky lottery player somewhere in the country could head into the holidays with a $572 million jackpot.",
-            "url": "https://www.cnn.com/2023/12/19/business/powerball-jackpot-572-million-drawing/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231219085221-01-powerball-tickets-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-12-19T15:40:06Z",
-            "content": "When the next Powerball numbers are drawn Wednesday evening, a lucky lottery player somewhere in the country could head into the holidays with a $572 million jackpot.\r\nWhen no tickets matched the num… [+722 chars]"
+            "author": "Kyle Wiggers",
+            "title": "Microsoft Copilot gets a music creation feature via Suno integration - TechCrunch",
+            "description": "Via a new integration with gen AI music creation tool Suno, Microsoft Copilot can now generate custom songs.",
+            "url": "https://techcrunch.com/2023/12/19/microsoft-copilot-gets-a-music-creation-feature-via-suno-integration/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/microsoft-copilot-bing.jpg?resize=1200,690",
+            "publishedAt": "2023-12-19T17:17:50Z",
+            "content": "Microsoft Copilot, Microsoft’s AI-powered chatbot, can now compose songs thanks to an integration with GenAI music app Suno.\r\nUsers can enter prompts into Copilot like “Create a pop song about advent… [+3151 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "FRANCE 24 English"
+                "name": "Who13.com"
             },
-            "author": "NEWS WIRES",
-            "title": "Putin says Russia ready to hold talks on the future of Ukraine - FRANCE 24 English",
-            "description": "President Vladimir Putin said on Tuesday that Russia would be prepared to talk to Ukraine, the United States and Europe about the future of Ukraine if they wanted to, but that Moscow would defend its national interests.",
-            "url": "https://www.france24.com/en/europe/20231219-putin-says-russia-ready-to-hold-talks-on-the-future-of-ukraine",
-            "urlToImage": "https://s.france24.com/media/display/cd078b54-9a66-11ee-bcbb-005056bfb2b6/w:1280/p:16x9/2023-12-14T092503Z_1698665403_RC2XW4A8XIFV_RTRMADP_3_RUSSIA-PUTIN.JPG",
-            "publishedAt": "2023-12-19T14:52:53Z",
-            "content": "President Vladimir Putin said on Tuesday that Russia would be prepared to talk to Ukraine, the United States and Europe about the future of Ukraine if they wanted to, but that Moscow would defend its… [+2312 chars]"
+            "author": "Natasha Keicher",
+            "title": "Flu hospitalizations jump 250% in Iowa - WHO TV 13 Des Moines News & Weather",
+            "description": "POLK COUNTY, Iowa — Health leaders said on Monday that flu hospitalizations in the state jumped by 250% in the past four weeks. Health leaders also say Iowa is at a “medium” level in hospital admissions for COVID-19 with the rate of admission jumping 58%. RSV…",
+            "url": "https://who13.com/news/flu-hospitalizations-jump-250-in-iowa/",
+            "urlToImage": "https://who13.com/wp-content/uploads/sites/19/2023/12/snapshot-2023-12-18T173812.968.jpg?w=1280",
+            "publishedAt": "2023-12-18T23:44:54Z",
+            "content": "POLK COUNTY, Iowa — Health leaders said on Monday that flu hospitalizations in the state jumped by 250% in the past four weeks. \r\nHealth leaders also say Iowa is at a “medium” level in hospital admis… [+1036 chars]"
         },
         {
             "source": {
@@ -443,6 +430,19 @@
             "urlToImage": "https://cdn.abcotvs.com/dip/images/14199320_121823-wls-garcia-respiratory-viruses-430-vid.jpg?w=1600",
             "publishedAt": "2023-12-18T23:17:30Z",
             "content": "CHICAGO -- Respiratory virus season is well underway in the United States, and the US Centers for Disease Control and Prevention warns that the peak is still to come. Low vaccination rates leave many… [+4433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WCPO"
+            },
+            "author": "Taylor Nimmo",
+            "title": "'I hope we don't let our guard down': Respiratory illnesses on the rise in Ohio - WCPO 9 Cincinnati",
+            "description": "COVID-19, RSV and influenza cases are all on the rise in Ohio. Health experts are urging people to get vaccinated ahead of the holidays.",
+            "url": "https://www.wcpo.com/news/health/i-hope-we-dont-let-our-guard-down-respiratory-illnesses-on-the-rise-in-ohio",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/2c37dd2/2147483647/strip/true/crop/1500x788+0+35/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F07%2F0c%2F04914d1b47cf98f59706e4085c08%2Fap-06121503723.jpg",
+            "publishedAt": "2023-12-18T21:50:40Z",
+            "content": "CINCINNATI Ohio is seeing a spike in respiratory illnesses just ahead of the holidays.\r\nThe Ohio Department of Health said in an update Monday that COVID-19, RSV and influenza cases are all on the ri… [+2367 chars]"
         }
     ]
 }

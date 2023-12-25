@@ -1,7 +1,20 @@
 {
     "status": "ok",
-    "totalResults": 65,
+    "totalResults": 66,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
         {
             "source": {
                 "id": null,
@@ -18,6 +31,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Futurism"
+            },
+            "author": "Sharon Adarlo",
+            "title": "Smoking Cigarettes Does Something Horrifying to Your Brain, Scientists Find - Futurism",
+            "description": "A new study suggests that daily smoking can shrink your brain, leading to dementia and Alzheimer's disease.",
+            "url": "https://futurism.com/neoscope/smoking-cigarettes-brain",
+            "urlToImage": "https://wp-assets.futurism.com/2023/12/smoking-cigarettes-brain-scientists.jpg",
+            "publishedAt": "2023-12-24T00:16:22Z",
+            "content": "Smoking cigarettes not only has the great potential to give you cancer and lung disease, but it may also apparently shrink your poor brain, leading to dementia and Alzheimer's disease, according to a… [+2244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "ScienceAlert"
             },
             "author": "Mike McRae",
@@ -27,19 +53,6 @@
             "urlToImage": "https://www.sciencealert.com/images/2023/08/cadasil_patient_brain-1.jpg",
             "publishedAt": "2023-12-23T23:29:09Z",
             "content": "A simple tooth extraction ended in a trip to the emergency room with nausea, dizziness, and tilted vision for an Australian man in his 60s, who was later diagnosed with a rare disorder that causes bl… [+3756 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Bebe Hodges",
-            "title": "Is turkey bacon healthy? How it compares to pork bacon - USA TODAY",
-            "description": "Turkey tends to be lower in saturated fat compared to red meats like pork. But this doesn’t mean turkey bacon is much healthier than pork bacon.",
-            "url": "https://www.usatoday.com/story/life/health-wellness/2023/12/22/is-turkey-bacon-healthy/71887436007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/-mm-/f04ecd25a18f6e40219c6b22ce855be60cc5b166/c=0-929-2448-2312/local/-/media/2017/07/26/WIGroup/Milwaukee/636366611520812327-depcol28p5.JPG?width=2448&height=1383&fit=crop&format=pjpg&auto=webp",
-            "publishedAt": "2023-12-23T21:30:07Z",
-            "content": "The sizzling sound of bacon on the stove can be like music to your ears. But with those strips of pork also comes fat and sodium nutrients that can lead to health issues if consumed in excess.\r\nTo tr… [+2888 chars]"
         },
         {
             "source": {
@@ -66,19 +79,6 @@
             "urlToImage": "https://KAKE.images.worldnow.com/images/25648311_G.jpg",
             "publishedAt": "2023-12-23T19:24:53Z",
             "content": "WICHITA, Kan. (KAKE) - Ascension Via Christi officials say health care workers are extremely busy taking care of people sick with respiratory illnesses like flu, RSV, and Covid and it's expecting a s… [+1666 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Michael Dorgan",
-            "title": "'Zombie deer disease' concerns scientists over possible spread to humans - Fox News",
-            "description": "Scientists are raising concerns that a fatal brain disease in deer, elk, reindeer and moose may someday spread to humans following Yellowstone National Park's first case of the disease.",
-            "url": "https://www.foxnews.com/us/zombie-deer-disease-concerns-scientists-possible-spread-humans",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/mule-deer-buck-NPS.jpg",
-            "publishedAt": "2023-12-23T19:04:00Z",
-            "content": "The discovery of Yellowstone National Parks first case of chronic wasting disease (CWD) last month has raised concerns that the fatal brain disease may someday spread to humans, according to some sci… [+4258 chars]"
         },
         {
             "source": {
@@ -121,29 +121,16 @@
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": null,
+                "name": "EL PAÍS"
             },
-            "author": "Addy Bink",
-            "title": "Coughing? When you may want to skip over-the-counter medication, according to experts - The Hill",
-            "description": "As annoying or even painful as a cough can be, it sometimes serves a purpose.",
-            "url": "https://thehill.com/homenews/nexstar_media_wire/4371755-coughing-when-you-may-want-to-skip-over-the-counter-medication-according-to-experts/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/12/GettyImages-1551445607-e1703184047427.jpg?w=1280",
-            "publishedAt": "2023-12-23T15:00:00Z",
-            "content": "Skip to content\r\n(NEXSTAR) — With multiple viruses and even bacteria going around this time of year, there’s a good chance you or someone in your household has fallen victim to illness recently. You … [+4107 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Melissa Fleur Afshar",
-            "title": "'People Don't Believe I Have Cancer'—Woman Challenges Patient Stereotype - Newsweek",
-            "description": "Sydney Towle, 24, wants to show the world, through her TikTok posts, that rare cancers don't discriminate and can affect the young and otherwise healthy.",
-            "url": "https://www.newsweek.com/people-dont-believe-i-have-cancer-woman-changing-narrative-rare-cancers-1849254",
-            "urlToImage": "https://d.newsweek.com/en/full/2319819/sydney.png",
-            "publishedAt": "2023-12-23T14:39:27Z",
-            "content": "\"A lot of people have told me that I don't look someone who has cancer. There's obviously no way to really tell if someone has cancer or not and it's a hard comment to respond to because you do think… [+10298 chars]"
+            "author": "Oriol Güell",
+            "title": "'Mycoplasma': The peculiar bacteria that has the WHO on alert - EL PAÍS USA",
+            "description": "Health authorities are encouraging countries to strengthen surveillance systems and to report any changes in the incidence or severity of detected cases",
+            "url": "https://english.elpais.com/science-tech/2023-12-23/mycoplasma-the-peculiar-bacteria-that-has-the-who-on-alert.html",
+            "urlToImage": "https://images.english.elpais.com/resizer/qec92YrtWsRBf1XmfEAVauk308U=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/S6RDH4CJVGNPCPZD6R3JDO3RQE.jpg",
+            "publishedAt": "2023-12-23T14:15:44Z",
+            "content": null
         },
         {
             "source": {
@@ -157,19 +144,6 @@
             "urlToImage": "https://www.oregonlive.com/resizer/Wvvbtog6-qDTLTw3yGxck9JKODo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5AWIQ3Q6HNDXDD4M7UWBAMYOAY.jpg",
             "publishedAt": "2023-12-23T13:32:00Z",
             "content": "Look for flu and COVID-19 infections to ramp up in the coming weeks, U.S. health officials say, with increases fueled by holiday gatherings, too many unvaccinated people and a new version of the coro… [+2785 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Evan Lambert",
-            "title": "College drinking culture masked alcoholism; I blacked out nightly - Business Insider",
-            "description": "College drinking culture, especially Greek life, normalized blacking out, so I didn't think I was an alcoholic. I finally got sober in my late 20s.",
-            "url": "https://www.businessinsider.com/college-drinking-culture-greek-life-alcoholism-blacking-out-2023-12",
-            "urlToImage": "https://i.insider.com/6571f2da7a3c8094d5daa2a9?width=1200&format=jpeg",
-            "publishedAt": "2023-12-23T12:19:00Z",
-            "content": "When I attended my freshman orientation\r\n at Dartmouth in 2007, I met Keggy for the first time. Portly, gregarious, and prone to spontaneous dancing, he was both an outsize presence and a perfect dis… [+4631 chars]"
         },
         {
             "source": {
@@ -187,6 +161,19 @@
         {
             "source": {
                 "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Jillian Wilson",
+            "title": "5 Signs The Stress You're Dealing With Isn't 'Normal' Stress - HuffPost",
+            "description": "Therapists share the red flags your stress has become a bigger issue, plus tips for how to manage it.",
+            "url": "https://www.huffpost.com/entry/signs-of-chronic-stress_l_657899a9e4b0881b7918a243",
+            "urlToImage": "https://img.huffingtonpost.com/asset/6578c52e2300005800c0aeaa.jpeg?cache=xtSxnP1tKR&ops=1200_630",
+            "publishedAt": "2023-12-23T10:45:00Z",
+            "content": "Chronic stress is detrimental for both your physical health and mental health.\r\nFrom nerves about a final exam to wedding-day jitters, stress is a part of life. But all stress is not created equal.\r\n… [+8267 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "ScienceAlert"
             },
             "author": "The Conversation",
@@ -196,6 +183,32 @@
             "urlToImage": "https://www.sciencealert.com/images/2023/12/CatWithSantaHat.jpg",
             "publishedAt": "2023-12-23T10:34:14Z",
             "content": "As Christmas approaches, so does the challenge of healthy eating and maintaining weight-related goals.\r\nThe season's many social gatherings can easily tempt us to indulge in calorie-rich food and cel… [+5514 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Jessica Freeborn",
+            "title": "IVF: Mediterranean diet, some supplements may increase success rate - Medical News Today",
+            "description": "A recent review found that several supplements and following a Mediterranean diet may increase the chances of successful IVF.",
+            "url": "https://www.medicalnewstoday.com/articles/mediterranean-diet-may-help-increase-chances-successful-ivf",
+            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2023/12/Mediterranean-diet-foods-plate-732x549-thumbnail.jpg",
+            "publishedAt": "2023-12-23T10:18:45Z",
+            "content": "<ul><li>The use of IVF is becoming more common; however, IVF attempts may not always have favorable results due to many factors. </li><li>One area of interest is how diet and certain supplements may … [+7453 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -209,6 +222,19 @@
             "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/12/Screen-Shot-2023-12-22-at-10.36.05-AM-e1703270258118.png?w=1280",
             "publishedAt": "2023-12-23T07:30:02Z",
             "content": "(NEXSTAR)  If you’ve been coughing, feverish, phlegmy or otherwise sick, you are far from alone. A trio of respiratory illnesses are spreading widely, sickening families around the country with the f… [+2373 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": null,
+            "title": "Risk of Penile Fractures Rises at Christmas, Doctors Find - Slashdot - Slashdot",
+            "description": "An anonymous reader shares a report: It may be the season of loving and giving, but doctors have warned against embracing this spirit too enthusiastically -- at least where sexual relations are concerned. They have discovered that the Christmas period is asso…",
+            "url": "https://science.slashdot.org/story/23/12/22/1853232/risk-of-penile-fractures-rises-at-christmas-doctors-find",
+            "urlToImage": "https://a.fsdn.com/sd/topics/science_64.png",
+            "publishedAt": "2023-12-23T07:18:45Z",
+            "content": "It may be the season of loving and giving, but doctors have warned against embracing this spirit too enthusiastically -- at least where sexual relations are concerned. They have discovered that the C… [+1517 chars]"
         },
         {
             "source": {
@@ -239,19 +265,6 @@
         {
             "source": {
                 "id": null,
-                "name": "WTVD-TV"
-            },
-            "author": null,
-            "title": "Healthcare systems brace for strain after holidays - WTVD-TV",
-            "description": "UNC Health said all of their hospitals have seen an uptick in people coming in with respiratory illnesses.",
-            "url": "https://abc11.com/healthcare-system-holidays-flu-rsv-covid-19/14217210/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/14219003_HolidayHealth.png?w=1600",
-            "publishedAt": "2023-12-23T04:49:29Z",
-            "content": "DURHAM, N.C. (WTVD) -- Alfreda Clegg had a shopping cart full of everything Friday night.\r\n\"I'm here shopping for kids and family and Secret Santa gifts,\" said Clegg outside the Target near Southpoin… [+1699 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "KSL.com"
             },
             "author": "https://www.facebook.com/kslcom/",
@@ -265,6 +278,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": null,
+            "title": "How Two Pharmacists Figured Out That Decongestants Don't Work - Slashdot",
+            "description": "In 2005, the reclassification of pseudoephedrine to behind-the-counter status led to widespread use of oral phenylephrine in OTC decongestants, despite evidence of its ineffectiveness. Randy Hatton, a clinical professor in the College of Pharmacy at the Unive…",
+            "url": "https://science.slashdot.org/story/23/12/22/0717228/how-two-pharmacists-figured-out-that-decongestants-dont-work",
+            "urlToImage": "https://a.fsdn.com/sd/topics/medicine_64.png?refresh=now",
+            "publishedAt": "2023-12-23T03:56:15Z",
+            "content": "why shouldn't a person be allowed to select some medicine they think might work and use it\r\nBecause the usual result is bad things and when bad things happen those same people who knew more than the … [+3039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Channel3000.com - WISC-TV3"
             },
             "author": "Arman Rahman",
@@ -274,6 +300,32 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/0/a7/0a7f815a-a7c5-5f03-9189-b7a1be2baddb/65866cdcbf609.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
             "publishedAt": "2023-12-23T03:16:00Z",
             "content": "MADISON, Wis. -- The Wisconsin Department of Health Services confirmed the first two children in Wisconsin to have died from RSV. The significant rise in all respiratory illnesses this season is caus… [+1535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailykos.com"
+            },
+            "author": null,
+            "title": "Covid Brain: Did Human (un)Civilization Just Get Dementia? - Daily Kos",
+            "description": "I just can’t help but remark at how different society looks these days, anecdotally, statistically, demographically — by any measure you care to take, it seems like all across the globe we see societies becoming less tolerant, less patient, less...",
+            "url": "https://www.dailykos.com/stories/2023/12/22/2213373/-Covid-Brain-Did-Human-un-Civilization-Just-Get-Dementia",
+            "urlToImage": "https://images.dailykos.com/images/1043710/story_image/AP22061117824276.jpg?1646194103",
+            "publishedAt": "2023-12-23T02:36:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -300,19 +352,6 @@
             "urlToImage": "https://media.king5.com/assets/KING/images/37a0cd12-12a6-4044-9802-c92f2661aa6e/37a0cd12-12a6-4044-9802-c92f2661aa6e_1140x641.jpg",
             "publishedAt": "2023-12-23T00:52:00Z",
             "content": "SEATTLE A new FDA-approved drug to treat early-onset Alzheimer's disease is now being offered at UW Medicine's Harborview Medical Center for qualifying patients. Harborview is one of the first West C… [+3683 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KCCI Des Moines"
-            },
-            "author": "Beau Bowman",
-            "title": "Pleasant Hill nursing home to resume tap water usage following contamination - KCCI Des Moines",
-            "description": "A Pleasant Hill nursing home is using tap water again after a contamination led to a case of Legionnaires' disease.",
-            "url": "https://www.kcci.com/article/pleasant-hill-nursing-home-to-resume-tap-water-usage-following-contamination/46213588",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/982b7730-a564-44df-849f-b8929a2382e3/0775a7a1-0308-4d9f-96ca-6f35658f7780.jpg?crop=0.760xw:0.759xh;0.0228xw,0&resize=1200:*",
-            "publishedAt": "2023-12-23T00:11:00Z",
-            "content": "PLEASANT HILL, Iowa —A Pleasant Hill nursing home is using tap water again after a contamination led to a case of Legionnaires' disease.\r\nBottled water is still on site at Parkridge as they slowly st… [+1502 chars]"
         },
         {
             "source": {
@@ -355,6 +394,45 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPRI.com"
+            },
+            "author": "Alexandra Leslie",
+            "title": "‘Busting at the seams’: RI hospitals overflowing with COVID, flu and RSV patients - WPRI.com",
+            "description": "According to the Health Department’s COVID-19 data, 1,110 new cases and two deaths were reported the week of Dec. 10-16.",
+            "url": "https://www.wpri.com/health/busting-at-the-seams-ri-hospitals-overflowing-with-covid-flu-and-rsv-patients/",
+            "urlToImage": "https://www.wpri.com/wp-content/uploads/sites/23/2023/05/long-covid.jpg?w=1280",
+            "publishedAt": "2023-12-22T22:20:14Z",
+            "content": "PROVIDENCE, R.I. (WPRI) The rate of COVID-19 cases has been increasing steadily since the Thanksgiving holiday, which has translated into overflowing hospitals during one of the busiest times of the … [+4406 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "Vaccine for deadly skin cancer shows ‘groundbreaking’ results in clinical trial - Fox News",
+            "description": "New hope may be on the horizon for melanoma patients, as Moderna has announced promising results for its new skin cancer vaccine, which is now entering Phase III trials.",
+            "url": "https://www.foxnews.com/health/vaccine-deadly-skin-cancer-shows-groundbreaking-results-clinical-trial",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/skin-cancer-microscope.jpg",
+            "publishedAt": "2023-12-22T21:32:00Z",
+            "content": "New hope may be on the horizon for melanoma patients in the form of a novel skin cancer\r\n vaccine.\r\nThis week, Moderna announced that its new vaccine has shown promising results in clinical trials.\r\n… [+4410 chars]"
+        },
+        {
+            "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
@@ -381,6 +459,19 @@
         },
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Deidre McPhillips",
+            "title": "As US life expectancy lags, nutritional deficiency is often an overlooked factor - CNN",
+            "description": "Nutritional deficiency is far from a leading cause of death in the United States, but the mortality rate has grown significantly enough in recent years to impact life expectancy.",
+            "url": "https://www.cnn.com/2023/12/21/health/nutritional-deficiency-life-expectancy/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231221071324-restricted-stock-elderly-man-pills.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-22T20:17:00Z",
+            "content": "Nutritional deficiency is far from a leading cause of death in the United States, but the mortality rate has grown significantly enough in recent years to impact life expectancy.\r\nMore than 21,000 pe… [+5336 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
@@ -404,32 +495,6 @@
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TGP.SGEjJZWd1RIp4ZUYPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDk-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/14ef3340-9deb-11ee-9dff-309ac1d0518e",
             "publishedAt": "2023-12-22T19:49:33Z",
             "content": "Aging has been a big focus over the past few years, with research advancing in that area along with a growing number of people looking for more insight on how to live longer, healthier lives.\r\nPeople… [+9280 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Owen Jarus",
-            "title": "Skull with 'execution-style wounds' suggests woman died due to enslavement or suspected sorcery in colonial Indonesia - Livescience.com",
-            "description": "The skull of a woman from colonial Indonesia bears sharp force trauma, possibly due to slavers or because she was seen as a sorcerer.",
-            "url": "https://www.livescience.com/archaeology/skull-with-execution-style-wounds-suggests-woman-died-due-to-enslavement-or-suspected-sorcery-in-colonial-indonesia",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BzpMKBPZHf2VS2xnUvmkEe-1200-80.jpg",
-            "publishedAt": "2023-12-22T19:26:08Z",
-            "content": "A possibly enslaved woman may have been executed with a sharp weapon in what is now the Papua province of Indonesia, a new study finds.\r\nOnly the skull of the victim is available for analysis, but it… [+2185 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Science.org"
-            },
-            "author": "Science",
-            "title": "A vibrating ingestible bioelectronic stimulator modulates gastric stretch receptors for illusory satiety - Science",
-            "description": null,
-            "url": "https://www.science.org/doi/10.1126/sciadv.adj3003",
-            "urlToImage": null,
-            "publishedAt": "2023-12-22T19:04:12Z",
-            "content": null
         },
         {
             "source": {
@@ -590,19 +655,6 @@
         {
             "source": {
                 "id": null,
-                "name": "WAFF"
-            },
-            "author": "Sean Dowling",
-            "title": "‘A light at the end of the tunnel’: Alabama doctor explains new weight loss drugs could curb state’s obesity crisis - WAFF",
-            "description": "The newest class of weight loss drugs is being called the “Breakthrough of the Year\" because their benefits go beyond weight loss itself.",
-            "url": "https://www.waff.com/2023/12/22/light-end-tunnel-alabama-doctor-explains-new-weight-loss-drugs-could-curb-states-obesity-crisis/",
-            "urlToImage": "https://gray-waff-prod.cdn.arcpublishing.com/resizer/v2/TNYMUGULTJAQFA2VXSBT6EYJ3Q.jpg?auth=01d36842ab2ab87550ab3096ba3f2099aa28bec6887c0a8bc4d9eb58ea5d4f66&width=1200&height=600&smart=true",
-            "publishedAt": "2023-12-22T15:24:00Z",
-            "content": "HUNTSVILLE, Ala. (WAFF) - The newest class of weight loss drugs is being called the Breakthrough of the year.\r\nThats because their benefits go beyond weight loss itself, according to the health publi… [+2025 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Verywellhealth.com"
             },
             "author": "https://www.facebook.com/verywell",
@@ -612,19 +664,6 @@
             "urlToImage": "https://www.verywellhealth.com/thmb/JZbRFbxRyy19kaFnSyp6UokUtGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-924182314-082ac619caba4c1ca715f846f1fff720.jpg",
             "publishedAt": "2023-12-22T15:21:22Z",
             "content": "Beans are a nutritious, convenient, versatile, and economical legume (a plant that includes pods). Beans contain a unique combination of fiber, protein, vitamins, and minerals, offering many health b… [+9075 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jenna Demmer",
-            "title": "Is Yogurt Good For Constipation? Yes — and So Are These 9 Other Foods - Yahoo Life",
-            "description": "Plus, the smoothie stir-in that doctors agree is one of the best ways to get things moving",
-            "url": "https://www.yahoo.com/lifestyle/yogurt-good-constipation-yes-9-151957934.html",
-            "urlToImage": "https://media.zenfs.com/en/first_for_women_876/ed7b9b61cd2ac761d1ec5ed0c415aea7",
-            "publishedAt": "2023-12-22T15:19:57Z",
-            "content": "Its a fact of life: What goes in must come out. When you're dealing with a bout of constipation, though, you know that sometimes this can take ages. And while laxatives can help, they can sometimes c… [+12538 chars]"
         },
         {
             "source": {
@@ -651,19 +690,6 @@
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/j4ux2Id6RyEuXeRboMO40Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjE-/https://media.zenfs.com/en/cbs_news_897/aa945b34b3de43b4201d0751b0f974ec",
             "publishedAt": "2023-12-22T14:48:20Z",
             "content": "Reports of respiratory illness have now reached \"high\" or \"very high\" levels across at least 16 state or big city health departments, the Centers for Disease Control and Prevention said, as trends of… [+7499 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medical Xpress"
-            },
-            "author": "Science X",
-            "title": "Ongoing brain injury caused by COVID-19 may not always be detected by routine tests - Medical Xpress",
-            "description": "A new study details that markers of brain injury are present in the blood many months after COVID-19 infection, despite inflammation blood tests being normal. The full paper, \"Para-infectious brain injury in COVID-19 persists at follow-up despite attenuated c…",
-            "url": "https://medicalxpress.com/news/2023-12-ongoing-brain-injury-covid-routine.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/ongoing-brain-injury-c.jpg",
-            "publishedAt": "2023-12-22T14:35:03Z",
-            "content": "A new study details that markers of brain injury are present in the blood many months after COVID-19 infection, despite inflammation blood tests being normal. The full paper, \"Para-infectious brain i… [+4307 chars]"
         },
         {
             "source": {
@@ -719,16 +745,16 @@
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": null,
+                "name": "WANE"
             },
-            "author": "Washington Post staff",
-            "title": "Our best expert advice of 2023 for better mental health - The Washington Post",
-            "description": "Anxiety, depression, loneliness, poor sleep and other issues can take a toll on our emotional well-being. But there are ways to counter these problems.",
-            "url": "https://www.washingtonpost.com/wellness/2023/12/22/mental-health-tips-experts/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QMOXDVCGNBHYRGQBO2VPPHR3I4.jpg&w=1440",
-            "publishedAt": "2023-12-22T14:00:00Z",
-            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nEvery week on Well+Being, psychiatrists and psychologists suggest ways to improve our mental health. Here are the 10 of the most popul… [+7899 chars]"
+            "author": "Joe Carroll",
+            "title": "Triple threat of viruses are making us sick - WANE",
+            "description": "If you aren’t feeling sick, odds are someone you know is. Respiratory illnesses are spreading with cases of RSV, the flu, and COVID-19 on the rise.",
+            "url": "https://www.wane.com/top-stories/triple-threat-of-viruses-are-making-us-sick/",
+            "urlToImage": "https://www.wane.com/wp-content/uploads/sites/21/2023/02/coughing-e1676049879284.jpg?w=1280",
+            "publishedAt": "2023-12-22T14:02:12Z",
+            "content": "FORT WAYNE, Ind. (WANE) If you aren’t feeling sick, odds are someone you know is. Respiratory illnesses are spreading with cases of RSV, the flu, and COVID-19 on the rise according to the Allen Count… [+1488 chars]"
         },
         {
             "source": {
@@ -759,6 +785,19 @@
         {
             "source": {
                 "id": null,
+                "name": "menshealth.com"
+            },
+            "author": "Kate Neudecker",
+            "title": "New Research Debunks the 20 Gram Protein Intake Limit - Men's Health UK",
+            "description": "How much protein can we really absorb? New research says it could be more than we thought",
+            "url": "https://www.menshealth.com/uk/nutrition/a46199798/new-research-debunks-20-gram-protein-intake-limit/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/muscular-men-drink-his-nutritional-supplement-in-royalty-free-image-1703170765.jpg?crop=1.00xw:0.753xh;0,0.199xh&resize=1200:*",
+            "publishedAt": "2023-12-22T12:17:47Z",
+            "content": "We know, we know, the idea that there is a 20 gram protein absorption limit has long been debunked. While we may know better, the idea that 'any gram of protein consumed over 20 grams will go to wast… [+2908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "San Francisco Chronicle"
             },
             "author": "Maggie Angst",
@@ -768,19 +807,6 @@
             "urlToImage": "https://s.hdnux.com/photos/01/35/55/63/24567023/13/rawImage.jpg",
             "publishedAt": "2023-12-22T12:03:38Z",
             "content": "Rebecca Chapa, 39, prepares to take a dose of fentanyl in San Franciscos Tenderloin neighborhood. Chapa, who is originally from Eureka, has been living on the streets for the past six months and uses… [+7853 chars]"
-        },
-        {
-            "source": {
-                "id": "national-geographic",
-                "name": "National Geographic"
-            },
-            "author": "Rachel Fairbank",
-            "title": "What is holiday heart syndrome and how to avoid it - National Geographic",
-            "description": "With all the traveling and family time, the holidays can be exhausting—especially for your heart.",
-            "url": "https://www.nationalgeographic.com/premium/article/heart-attacks-surge-christmas-new-years",
-            "urlToImage": "https://i.natgeofe.com/n/89020566-357b-41ea-a6cc-fa1d4b85bf70/C0365918-Myocardial_infarction_angiogram_16x9.jpg?w=1200",
-            "publishedAt": "2023-12-22T12:03:18Z",
-            "content": "While the holidays can be the most wonderful time of the year, they can also be one of the most stressfulespecially for the heart.\r\nAlong with traveling, family time, and festivities, the celebration… [+6168 chars]"
         },
         {
             "source": {
@@ -798,54 +824,41 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Actionnews5.com"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Ivanhoe  Newswire",
+            "title": "Best Life: Soul soothing foods to beat winter blue - Action News 5",
+            "description": "Did you know that during the winter months, up to six percent of people experience winter depression?",
+            "url": "https://www.actionnews5.com/2023/12/21/best-life-soul-soothing-foods-beat-winter-blue/",
+            "urlToImage": "https://gray-wmctv-prod.cdn.arcpublishing.com/resizer/v2/7ELFSV625BC3PNTLWSUYF2MOLE.jpg?auth=34fe49eb6d1969f184c2488a7fecb978e745437cb5930c0b1b095524b1211f5d&width=1200&height=600&smart=true",
+            "publishedAt": "2023-12-21T12:41:00Z",
+            "content": "ORLANDO, FL (Ivanhoe Newswire) - Did you know that during the winter months, up to six percent of people experience winter depression? \r\nAnother 10% to 20% may experience symptoms associated with Sea… [+1678 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Ottawa Citizen"
+                "name": "WRDW-TV"
             },
-            "author": null,
-            "title": "Why some doctors see COVID as a new risk factor for cardiovascular disease - Ottawa Citizen",
-            "description": "The virus causes inflammation of blood vessels that can lead to heart attacks and strokes.",
-            "url": "https://ottawacitizen.com/news/local-news/why-some-doctors-see-covid-as-a-new-risk-factor-for-cardiovascular-disease",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2023/12/dr-peter-liu-uottawa-heart-institute.jpg",
-            "publishedAt": "2023-12-22T09:36:01Z",
-            "content": "\"Studies are showing that even young, active people can experience heightened risk of these complications.\"\r\n Get the latest from Elizabeth Payne straight to your inbox Sign Up\r\nDr. Peter Liu of the … [+7259 chars]"
+            "author": "Taylor Martin",
+            "title": "Why RSV, flu could spoil your Christmas in the CSRA - WRDW",
+            "description": "It's the season for family time for many people, but that also means potential exposure to illnesses that tend to spike this time of year.",
+            "url": "https://www.wrdw.com/2023/12/19/could-rsv-or-flu-spoil-your-christmas-csra/",
+            "urlToImage": "https://gray-wrdw-prod.cdn.arcpublishing.com/resizer/v2/X5RHS2AYAVF73IB5544O3D2QSE.jpg?auth=ebf22d474559d4affaabe838a3c4812c534a80f54e427caf038da29dfe77b279&width=1200&height=600&smart=true",
+            "publishedAt": "2023-12-19T20:50:00Z",
+            "content": "AUGUSTA, Ga. (WRDW/WAGT) - Were now less than one week away from Christmas.\r\nWhile that means unwrapping gifts and family time for many people, it also means potential exposure to illnesses that tend… [+3329 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Fox Business"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Pandora Dewan",
-            "title": "Cold Viruses 'May Never Be the Same Again' - Newsweek",
-            "description": "Disruption caused by COVID lockdowns may have made winter bugs less predictable, with significant consequences for public health.",
-            "url": "https://www.newsweek.com/cold-viruses-never-same-again-covid-1854609",
-            "urlToImage": "https://d.newsweek.com/en/full/2327059/woman-cold.jpg",
-            "publishedAt": "2023-12-21T19:00:02Z",
-            "content": "The COVID-19 pandemic changed a lot of things, like how we use cash, how we work, how we learn—and, according to new research, how and when we get sick.\r\nBy analyzing disease data from the United Sta… [+2721 chars]"
+            "title": "Pandemic has made people ‘on edge’ for seasonal illnesses: Dr. Marty Makary - Fox Business",
+            "description": "FOX News medical contributor Dr. Marty Makary joined 'Varney & Co.' to discuss the recent rise of respiratory illnesses and the impact weight loss drugs can have on an individuals' health.",
+            "url": "https://www.foxbusiness.com/video/6343094524112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/201a651b-985d-4681-8f65-e7ea8baf3114/30844dfe-4fc4-4e8f-be28-ae48f6372380/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+            "publishedAt": "2023-12-14T17:39:09Z",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes."
         }
     ]
 }

@@ -1,32 +1,318 @@
 {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 35,
     "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "US actor Christian Oliver and his 2 daughters died in a plane crash in the Caribbean, police say - ABC News",
+            "description": "Police in St. Vincent and the Grenadines say U.S. actor Christian Oliver and his two daughters died in a plane crash near a tiny private island in the eastern Caribbean",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/us-actor-christian-oliver-2-daughters-died-plane-106139722",
+            "urlToImage": "https://i.abcnewsfe.com/a/c8f9ea71-262b-462f-85ee-ba8b0e14822a/wirestory_984fedf4cd3288dba6092a67b908a312_16x9.jpg?w=992",
+            "publishedAt": "2024-01-06T00:15:23Z",
+            "content": "SAN JUAN, Puerto Rico -- U.S. actor Christian Oliver and his two daughters died in a plane crash near a tiny private island in the eastern Caribbean, according to police in St. Vincent and the Grenad… [+979 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "4.2 magnitude earthquake strikes Lytle Creek area, USGS says - KABC-TV",
+            "description": "A preliminary magnitude 4.2 earthquake struck the Lytle Creek area on Friday morning, according to the U.S. Geological Survey.",
+            "url": "https://abc7.com/earthquake-lytle-creek-san-bernardino-county-quake/14281187/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/14281428_quake_lytle.jpg?w=1600",
+            "publishedAt": "2024-01-06T00:07:34Z",
+            "content": "LYTLE CREEK, Calif. (KABC) -- A preliminary magnitude 4.2 earthquake struck the Lytle Creek area on Friday morning, according to the U.S. Geological Survey.\r\nThe quake's epicenter was located in the … [+1822 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MARK SHERMAN, NICHOLAS RICCARDI",
+            "title": "The Supreme Court will decide if Donald Trump can be kept off 2024 presidential ballots - The Associated Press",
+            "description": "The Supreme Court will decide whether former President Donald Trump can be kept off the 2024 presidential ballot because of his efforts to overturn his 2020 election loss that culminated in the U.S. Capitol attack. The justices Friday agreed to take Trump’s a…",
+            "url": "https://apnews.com/article/supreme-court-trump-insurrection-2024-election-0baac5ba0c1868e437e365af17eeab24",
+            "urlToImage": "https://dims.apnews.com/dims4/default/643d1d1/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2F1b%2Fc594d01570f0ccfcf2903c3f4409%2Fbc445b07f71a498aacfd60ed0c3b6c56",
+            "publishedAt": "2024-01-05T23:50:00Z",
+            "content": "WASHINGTON (AP) The Supreme Court said Friday it will decide whether former President Donald Trump can be kept off the ballot because of his efforts to overturn his 2020 election loss, inserting the … [+6033 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson",
+            "title": "Biden focuses on Trump in speech near Valley Forge: \"Democracy is on the ballot\" - CBS News",
+            "description": "The president is arguing, in a speech near Valley Forge, that the former president and current GOP front-runner is a threat to democracy.",
+            "url": "https://www.cbsnews.com/news/joe-biden-marks-3-years-since-jan-6-2021-capitol-riot-valley-forge/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/03/eafae3a0-f51b-422a-98b2-7efae6907689/thumbnail/1200x630/59a830e15b03d8385836f3e96346d4d2/gettyimages-1461644959.jpg?v=3638d056f7798fc8425d74271bc0b398",
+            "publishedAt": "2024-01-05T23:43:00Z",
+            "content": "In his first campaign speech of the election year, President Biden warned the nation against the perils of compromising democracy, and the threat he and his campaign believe former President Donald T… [+4586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Danica Daniel",
+            "title": "Michael Bolton reveals brain tumor diagnosis, 'immediate surgery' in emotional note to fans - New York Post ",
+            "description": "Michael Bolton is getting back on his feet again after a health scare last year.",
+            "url": "https://nypost.com/2024/01/05/entertainment/michael-bolton-reveals-he-had-a-brain-tumor-that-required-immediate-surgery/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/Michael-Bolton-comp-1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-01-05T23:39:00Z",
+            "content": "Michael Bolton is getting back on his feet again after a health scare last year. \r\nThe 70-year-old “When A Man Loves A Woman” singer penned a heartfelt note to fans on Friday and revealed that he was… [+2907 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Teddy Amenabar",
+            "title": "FDA finds chromium, a second metal contaminant, in applesauce pouches - The Washington Post",
+            "description": "Chromium-3 is an essential mineral found in foods and dietary supplements, but one form of chromium — chromium-6 — can cause harm.",
+            "url": "https://www.washingtonpost.com/wellness/2024/01/05/applesauce-lead-recall-chromium/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BD4ZERXADFWM2EGXRRLYJ2T2H4.jpg&w=1440",
+            "publishedAt": "2024-01-05T23:36:16Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nFederal investigators have discovered a second contaminant in recalled applesauce pouches the naturally-occurring metal chromium, whic… [+3824 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Karen Friar",
+            "title": "Stock market news today: Stocks snap 9-week win streak as Dow, S&P 500 have worst start since 2016 - Yahoo Finance",
+            "description": "Stocks ended their longest consecutive weekly run in the green since 2004.",
+            "url": "https://finance.yahoo.com/news/stock-market-news-today-stocks-snap-9-week-win-streak-as-dow-sp-500-have-worst-start-since-2016-134002983.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/itv78EHInUtaEULYU4Fujw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/9cd768f0-51b4-11ee-bf5b-913176adb9be",
+            "publishedAt": "2024-01-05T23:24:23Z",
+            "content": "Stocks wobbled Friday, ending their longest consecutive weekly run in the green since 2004 as new economic data intensified the debate about when the Federal Reserve will cut interest rates.\r\nInvesto… [+12603 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "Experimental antibiotic kills deadly superbug, opens whole new class of drugs - Ars Technica",
+            "description": "The relatively large molecule clogs a transport system, leading to lethal toxicity.",
+            "url": "https://arstechnica.com/science/2024/01/experimental-antibiotic-reveals-entirely-new-way-to-kill-drug-resistant-bacteria/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/10096-760x380.jpg",
+            "publishedAt": "2024-01-05T23:15:40Z",
+            "content": "Enlarge/ This Scanning Electron Microscope image depicts several clusters of aerobic Gram-negative, non-motile Acinetobacter baumannii bacteria under a magnification of 24,730x.\r\nMembers of the genus… [+4877 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Samantha Delouya, Jeff Winter, Lauren del Valle",
+            "title": "In third batch of Epstein documents, a call from Harvey Weinstein, more famous men and disquieting details - CNN",
+            "description": "The third round of documents from a lawsuit connected to Jeffrey Epstein, the convicted pedophile who died in jail before he could face trial on federal sex-trafficking charges, was publicly released Friday.",
+            "url": "https://www.cnn.com/2024/01/05/business/jeffrey-epstein-documents-unsealed-part-three/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2019-07-10t000000z-35234140-rc1b38e9a200-rtrmadp-3-people-jeffrey-epstein-copy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-05T22:38:00Z",
+            "content": "The third round of documents from a lawsuit connected to Jeffrey Epstein, the convicted pedophile who died in jail before he could face trial on federal sex-trafficking charges, was publicly released… [+6965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foxweather.com"
+            },
+            "author": "Steven Yablonski",
+            "title": "Nor'easter live tracker: Latest forecast, live radar, snowfall totals, travel information and more - Fox Weather ",
+            "description": "Millions of people from the Southeast through the mid-Atlantic and New England are bracing for a powerful storm system that will likely develop into a nor’easter, which will bring a wide variety of precipitation from flooding rain in the South to ice in the m…",
+            "url": "https://www.foxweather.com/weather-news/noreaster-northeast-new-england-forecast-travel-live-tracker",
+            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2024/01/1024/512/tracker.jpg?ve=1&tl=1",
+            "publishedAt": "2024-01-05T22:12:00Z",
+            "content": "NEW YORK – Millions of people from the Southeast through the mid-Atlantic and New England are bracing for a powerful storm system that will likely develop into a nor’easter, which will bring a wide v… [+1160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Charles Robinson",
+            "title": "CFP national championship sets up important duel of NFL QB prospects: Washington's Michael Penix Jr. vs. Michigan's J.J. McCarthy - Yahoo Sports",
+            "description": "NFL evaluators weigh in on where the QBs stack up and how important Monday's national championship game will be for their draft stock.",
+            "url": "https://sports.yahoo.com/cfp-national-championship-sets-up-important-duel-of-nfl-qb-prospects-washingtons-michael-penix-jr-vs-michigans-jj-mccarthy-215205170.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.k9ISHbX9mNJtNYU62SOjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/1f07c910-a9b6-11ee-b9c9-d02e172d81fb",
+            "publishedAt": "2024-01-05T21:52:05Z",
+            "content": "For the first eight years of its existence, the College Football Playoff National Championship minted future high-end NFL quarterbacks.\r\nMarcus Mariota. Deshaun Watson. Jalen Hurts. Tua Tagovailoa. T… [+11005 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kristin Fisher",
+            "title": "Navajo Nation’s objection to landing human remains on the moon prompts last-minute White House meeting - CNN",
+            "description": "The White House convened a meeting to discuss a mission set to launch Monday after the Navajo Nation asked for a delay because it will carry human remains for lunar burial.",
+            "url": "https://www.cnn.com/2024/01/05/world/peregrine-moon-mission-navajo-nation-objection-human-remains-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240104194533-02-astrobotics-peregrine-lunar-lander.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-05T21:52:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe White House has convened a last-minute meeting to … [+7333 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Forget $250M. New York's AG now wants Trump to pay $370M for civil fraud. - POLITICO",
+            "description": "The increased request comes as both sides in the fraud trial prepare to make closing arguments next week.",
+            "url": "https://www.politico.com/news/2024/01/05/new-york-ag-trump-fraud-00134103",
+            "urlToImage": "https://static.politico.com/a0/55/ce4e75814a0e97e0af31e94420c1/https-delivery-gettyimages.com/downloads/1425941152",
+            "publishedAt": "2024-01-05T20:22:48Z",
+            "content": "James office said the updated request consisted of $168 million in saved interest on four commercial real estate loans, more than $139 million in profit from the sale of the Old Post Office building … [+1097 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters.com",
+            "title": "Iran arrests 11 suspects over bomb blasts, mourners demand revenge - state TV - Reuters.com",
+            "description": null,
+            "url": "https://www.reuters.com/world/middle-east/iran-leaders-vow-revenge-funeral-bomb-attack-victims-state-media-2024-01-05/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-05T20:20:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Hospitals revive mask mandates as respiratory viruses surge - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/01/05/mask-mandate-us-hospitals-covid-jn1",
+            "urlToImage": null,
+            "publishedAt": "2024-01-05T20:16:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annika Kim Constantino",
+            "title": "Eli Lilly's direct drug sales alone may not upend the industry, but others could follow suit - CNBC",
+            "description": "LillyDirect is the latest attempt to simplify what critics call a complex system for distributing, pricing and prescribing prescription drugs.",
+            "url": "https://www.cnbc.com/2024/01/05/eli-lilly-weight-loss-drug-site-may-not-upend-industry.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106301322-1576616813818img_1720r.jpg?v=1687341601&w=1920&h=1080",
+            "publishedAt": "2024-01-05T19:37:41Z",
+            "content": "Eli Lilly is shaking up the pharmaceutical industry with a new website offering telehealth prescriptions and direct home delivery of certain drugs, including its red-hot weight loss treatment Zepboun… [+6437 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MIKE STOBBE",
+            "title": "Flu and COVID infections got worse over the holidays, with more misery expected, CDC says - The Associated Press",
+            "description": "The flu season in the U.S. is getting worse with 38 states reporting high or very high levels for respiratory illnesses. That’s up from 31 states the week before. But it’s too soon to tell how much holiday gatherings contributed to a likely spike in illnesses…",
+            "url": "https://apnews.com/article/flu-covid19-cdc-holidays-028cab262ca8ec817cc7ff745a83387f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/ce13907/2147483647/strip/true/crop/3300x1856+0+172/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fde%2Fd4%2Ffe3861e534212c776f409eab7df4%2F0c815ce3ddd24d2d81feb0b1a222e994",
+            "publishedAt": "2024-01-05T19:32:27Z",
+            "content": "NEW YORK (AP) The flu season in the U.S. is getting worse but its too soon to tell how much holiday gatherings contributed to a likely spike in illnesses.\r\nNew government data posted Friday for last … [+2290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": "The Times of Israel",
+            "title": "Indian Navy rescues ship crew from hijack attempt in Arabian Sea - The Times of Israel",
+            "description": null,
+            "url": "https://www.timesofisrael.com/indian-navy-rescues-ship-crew-from-hijack-attempt-in-arabian-sea/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-05T19:27:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflight Now"
+            },
+            "author": null,
+            "title": "NASA discusses Moon-bound science as ULA's Vulcan rocket gets go ahead for Jan. 8 launch – Spaceflight Now - Spaceflight Now",
+            "description": "The mission will be a first for both ULA’s Vulcan rocket as well as Astrobotic’s lunar lander, Peregrine. Liftoff is set for Monday, Jan. 8 at 2:18 am EST (0718 UTC).",
+            "url": "https://spaceflightnow.com/2024/01/05/nasa-discusses-moon-bound-science-as-ulas-vulcan-rocket-gets-go-ahead-for-jan-8-launch/",
+            "urlToImage": "https://spaceflightnow.com/wp-content/uploads/2023/12/Peregrine-Encapsulation-4.jpg",
+            "publishedAt": "2024-01-05T19:11:43Z",
+            "content": "The payload for the Certification-1 (Cert-1) flight test on a United Launch Alliance (ULA) Vulcan rocket is encapsulated inside its payload fairing in preparation for launch. The mission will launch … [+8610 chars]"
+        },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Brooke Singman, Kelly Phares",
-            "title": "House Republicans consider holding Hunter Biden in contempt of Congress - Fox News",
-            "description": "The House Oversight Committee next week will hold a meeting to consider a resolution to hold Hunter Biden in contempt of Congress after violating his congressional subpoenas.",
-            "url": "https://www.foxnews.com/politics/house-republicans-consider-holding-hunter-biden-in-contempt-of-congress",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/AP23347595861026.jpg",
-            "publishedAt": "2024-01-05T15:58:00Z",
-            "content": "The House Oversight Committee next week will hold a meeting to consider a resolution to hold Hunter Biden in contempt of Congress after violating his congressional subpoenas.\r\nThe House Oversight Com… [+2817 chars]"
+            "author": "Emma Colton",
+            "title": "Wayne LaPierre announces resignation as NRA chief - Fox News",
+            "description": "Longtime National Rifle Association CEO and executive vice president Wayne LaPierre announced his resignation from the NRA after more than three decades serving as its chief.",
+            "url": "https://www.foxnews.com/politics/wayne-lapierre-announces-resignation-nra-chief",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/waynelapierrekennedy.png",
+            "publishedAt": "2024-01-05T18:45:00Z",
+            "content": "Read this article for free!\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you are agreeing… [+4308 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chris Pandolfo",
+            "title": "Hezbollah leader says Lebanon will be 'exposed' to Israeli attacks if no response to Hamas leader's death - Fox News",
+            "description": "Hezbollah leader Sayyed Hassan Nasrallah said Lebanon will be \"exposed\" to Israeli attack if his terrorist group does not respond to the killing of a senior Hamas leader in Beirut.",
+            "url": "https://www.foxnews.com/world/hezbollah-leader-lebanon-exposed-israeli-attacks-no-response-hamas-leaders-death",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/hezbollah-chief-sayyed-hassan-nasrallah-televised-address.jpg",
+            "publishedAt": "2024-01-05T18:40:00Z",
+            "content": "Hezbollah chief Sayyed Hassan Nasrallah said on Friday that Lebanon would be \"exposed\" to Israeli attacks if his terrorist group does not respond to the alleged assassination of a senior Hamas offici… [+3470 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "9to5google.com"
             },
-            "author": null,
-            "title": "David Soul: Starsky & Hutch actor dies aged 80 - BBC.com",
-            "description": "His wife Helen Snell said he died \"after a valiant battle for life in the loving company of family\".",
-            "url": "https://www.bbc.com/news/entertainment-arts-67895679",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/163AB/production/_132215019_soul-index-pa.jpg",
-            "publishedAt": "2024-01-05T15:52:00Z",
-            "content": "By Charlotte Gallagher and Mark SavageBBC News\r\nThe actor was best known for his role as Detective Kenneth \"Hutch\" Hutchinson in Starsky &amp; Hutch\r\nActor David Soul, best known for his role in the … [+5077 chars]"
+            "author": "Ben Schoon",
+            "title": "Galaxy S24 Ultra said to take better zoom photos despite killing 10x optical lens - 9to5Google",
+            "description": "According to a known leaker, Samsung's Galaxy S24 Ultra will have better zoom photos despite removing the 10x optical zoom lens.",
+            "url": "https://9to5google.com/2024/01/05/galaxy-s24-ultra-zoom-photos/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/samsung-galaxy-s23-ultra-3-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-01-05T18:27:00Z",
+            "content": "The Galaxy S24 Ultra is expected to bring upgrades such as a flat display and a whole bunch of AI, but it’s also getting rid of the 10x optical zoom lens. Despite that, though, one reliable leaker cl… [+1649 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Amara Omeokwe, Chip Cutter",
+            "title": "Job Gains Picked Up in December, Capping Year of Healthy Hiring - The Wall Street Journal",
+            "description": "Unemployment held at 3.7% last month and hiring was revised lower in prior months",
+            "url": "https://www.wsj.com/economy/jobs/jobs-report-december-today-unemployment-economy-58801a70",
+            "urlToImage": "https://images.wsj.net/im-908205/social",
+            "publishedAt": "2024-01-05T18:19:00Z",
+            "content": "Employers \r\nhired at a solid pace in December, capping a year of steady gains for a job market that continues to defy expectations and remains a bright spot in a gradually cooling economy.The U.S. ec… [+465 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Clicks is a $139 iPhone case for people who hate touchscreen typing - Ars Technica",
+            "description": "Each key has 0.22 mm of travel.",
+            "url": "https://arstechnica.com/gadgets/2024/01/clicks-is-a-139-iphone-case-for-people-who-hate-touchscreen-typing/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/clicks-keyboard-600x380.jpg",
+            "publishedAt": "2024-01-05T18:08:14Z",
+            "content": "There's an app for the keyboard promising new features, but it's not mandatory for the keyboard to work.\r\n47\r\nI used to be a speed demon on phone keyboards. Similar to when I use a mechanical keyboar… [+4075 chars]"
         },
         {
             "source": {
@@ -43,120 +329,55 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "id": "nfl-news",
+                "name": "NFL News"
             },
             "author": null,
-            "title": "Oscar Pistorius released on parole 11 years after killing Reeva Steenkamp - BBC.com",
-            "description": "The former athlete shot Reeva Steenkamp multiple times through a closed bathroom door in 2013.",
-            "url": "https://www.bbc.com/news/world-africa-67885713",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1794C/production/_98888569_mediaitem98888568.jpg",
-            "publishedAt": "2024-01-05T15:06:00Z",
-            "content": "By Daniel De Simone in Pretoria &amp; Damian Zane in LondonBBC News\r\nOscar Pistorius's various trials and hearings attracted enormous media interest\r\nParalympian Oscar Pistorius has been freed on par… [+6304 chars]"
+            "title": "NFL Week 18 bold predictions: Justin Fields artfully ends Packers' season; Bills blow out Dolphins AGAIN - NFL.com",
+            "description": "Is Bears QB Justin Fields about to end the rival Packers' season with an otherworldly performance? Will the de facto AFC East title game on Sunday night be a blowout? Our analysts provide bold predictions for Week 18 of the 2023 season.",
+            "url": "https://www.nfl.com/news/nfl-week-18-bold-predictions-justin-fields-artfully-ends-packers-season-bills-bl",
+            "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/dnyqvozqk2ufds5wvbyj",
+            "publishedAt": "2024-01-05T17:06:00Z",
+            "content": "Throughout the 2023 season, NFL Network analysts will provide one bold prediction heading into each week's slate of games (see the full Week 18 schedule).\r\nJust like last year, the Packers are on the… [+2854 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "GMA"
             },
-            "author": "Josh Schafer",
-            "title": "December jobs report: US economy adds 216,000 jobs, shocking Wall Street - Yahoo Finance",
-            "description": "Investors' soft landing narrative is once again put to the test with the release of the December jobs report.",
-            "url": "https://finance.yahoo.com/news/december-jobs-report-us-economy-adds-216000-jobs-shocking-wall-street-133957707.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MeG1qsfqKS7roten7.IWYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTc-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/86f54a30-ab36-11ee-b77f-bd4aafee733a",
-            "publishedAt": "2024-01-05T14:53:41Z",
-            "content": "The US economy ended 2023 on a high note.\r\nThe labor market added 216,000 jobs in the month of December, up from 173,000 the previous month, surprising Wall Street once again to close out 2023. Econo… [+3035 chars]"
+            "author": "Shafiq Najib, Vera Drymon, Robyn Weil",
+            "title": "Gypsy Rose Blanchard speaks out in 1st TV interview after being released from prison - Good Morning America",
+            "description": "Gypsy Rose Blanchard was sent to prison for the murder of her mother in 2015.",
+            "url": "https://www.goodmorningamerica.com/news/story/gypsy-rose-blanchard-speaks-1st-tv-interview-after-106085484",
+            "urlToImage": "https://s.abcnews.com/images/GMA/gypsy-rose-blanchard-abc-jt-240104_1704408013472_hpMain_16x9_992.jpg",
+            "publishedAt": "2024-01-05T16:52:30Z",
+            "content": "Gypsy Rose Blanchard is speaking out about her freedom since being released from prison last month after serving time for the murder of her mother Clauddinnea \"Dee Dee\" Blanchard in 2015.\r\nSpeaking t… [+5546 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Ashley Capoot",
-            "title": "Tesla recalls more than 1.6 million cars in China over problems with Autopilot, locks - CNBC",
-            "description": "Tesla is recalling more than 1.6 million vehicles in China, state regulators announced Friday.",
-            "url": "https://www.cnbc.com/2024/01/05/tesla-recalls-over-1point6-million-cars-in-china-over-autopilot-locks.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107296413-1694011816486-gettyimages-1663555669-vcg111452802342.jpeg?v=1704472233&w=1920&h=1080",
-            "publishedAt": "2024-01-05T14:13:36Z",
-            "content": "Tesla is recalling more than 1.6 million cars in China to fix problems with Autopilot features and locks, state regulators announced Friday. Both issues can be repaired through a free over-the-air so… [+1647 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "Will Shanklin",
-            "title": "Samsung will certify controllers optimized for game streaming on its smart TVs - Engadget",
-            "description": "Samsung is looking to boost its game-streaming ecosystem for its smart TVs with a certification program. The company today unveiled Designed for Samsung...",
-            "url": "https://www.engadget.com/samsung-will-certify-controllers-optimized-for-game-streaming-on-its-smart-tvs-140031028.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JjDVsYgOOzmnHukX6uWg.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/3c43f930-ab38-11ee-b535-dac4da49ceb1",
-            "publishedAt": "2024-01-05T14:00:31Z",
-            "content": "Samsung is looking to boost the game-streaming ecosystem around its smart TVs with a certification program. Ahead of CES 2024 in Las Vegas, the company today unveiled Designed for Samsung Gaming Hub,… [+1708 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Carrefour to halt Pepsi sales over price rises - BBC.com",
-            "description": "The French supermarket put notices on shelves in parts of Europe to inform customers of the decision.",
-            "url": "https://www.bbc.com/news/business-67884603",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F71C/production/_132206236_gettyimages-1795076011.jpg",
-            "publishedAt": "2024-01-05T13:31:00Z",
-            "content": "Grocer Carrefour will stop selling Pepsi products in parts of Europe due to \"unacceptable price increases\".\r\nThe French supermarket put up signs in stores in France, Spain, Italy and Belgium on Thurs… [+3029 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
+                "id": "cnn",
+                "name": "CNN"
             },
             "author": "",
-            "title": "WATCH: Nuggets absolutely stun Warriors as Nikola Jokic banks in 39-foot three-pointer at the buzzer - CBS Sports",
-            "description": "Amid a sea of special plays, even Jokic knew his prayer was an all-time highlight",
-            "url": "https://www.cbssports.com/nba/news/watch-nuggets-absolutely-stun-warriors-as-nikola-jokic-banks-in-39-foot-three-pointer-at-the-buzzer/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/01/05/fe3b7b4b-223a-49a1-bd22-35c58bd67270/thumbnail/1200x675/450322ea4d8dcca18da7ba889280c4e9/jokic-celebrate-2024-still.png",
-            "publishedAt": "2024-01-05T13:19:00Z",
-            "content": "The Denver Nuggets just pulled off one of the wildest victories of the NBA season, capping a 25-4 run over the game's final six-plus minutes with a 39-foot, banked-in buzzer-beater from Nikola Jokic … [+2199 chars]"
+            "title": "See Tetris president's reaction after 13-year-old appears to break the game - CNN",
+            "description": "Henk Rodgers, the chairman of the Tetris Company, discusses a 13-year-old from Oklahoma who appeared to defeat the game.",
+            "url": "https://www.cnn.com/videos/business/2024/01/05/teen-breaks-tetris-ceo-reaction-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240105113453-boy-defeats-tetris.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-05T16:43:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters",
-            "title": "Iran arrests suspects over bomb blasts, mourners demand revenge - state TV - Reuters.com",
-            "description": "Mourners on Friday wept over the coffins of victims of two deadly blasts in Iran, and the interior minister said a number of suspects had been arrested over the attacks claimed by Islamic State.",
-            "url": "https://www.reuters.com/world/middle-east/iran-leaders-vow-revenge-funeral-bomb-attack-victims-state-media-2024-01-05/",
-            "urlToImage": "https://www.reuters.com/resizer/r9Lyb85Ox2HMoHvvZfcEa3NYI08=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QYCYBAUKTJOFPFASZ4VNY6SR3E.jpg",
-            "publishedAt": "2024-01-05T13:00:00Z",
-            "content": "Jan 5 (Reuters) - Mourners on Friday wept over the coffins of victims of two deadly blasts in Iran, and the interior minister said a number of suspects had been arrested over the attacks claimed by I… [+2054 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "Investor's Business Daily",
-            "title": "Bitcoin ETFs Are Coming Fast. Crypto Investing Will Never Be The Same. - Investor's Business Daily",
-            "description": "The SEC within days is expected to OK the first spot bitcoin ETFs, promising to revolutionize the crypto landscape. Are the gains priced in?",
-            "url": "https://www.investors.com/news/bitcoin-etfs-are-coming-fast-crypto-investing-will-never-be-the-same/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2017/12/stock-bitcoin-21-adobe.jpg",
-            "publishedAt": "2024-01-05T13:00:00Z",
-            "content": "Bitcoin and other cryptocurrency investments have climbed in the past few months, mostly for one big reason: anticipation of spot bitcoin ETFs. And the eagerly awaited launch is almost here.\r\nXRegula… [+13556 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SamMobile"
-            },
-            "author": "SamMobile, Asif Iqbal Shaik",
-            "title": "Galaxy S24 battery and screen replacement costs revealed - SamMobile - Samsung news",
-            "description": "After the European pricing of the Galaxy S24 series was leaked, some new information has come to light. Details about ...",
-            "url": "https://www.sammobile.com/news/galaxy-s24-battery-screen-replacement-costs-leak/",
-            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-S24-S24-Ultra-720x405.jpg",
-            "publishedAt": "2024-01-05T12:46:00Z",
-            "content": "After the European pricing of the Galaxy S24 series was leaked, some new information has come to light. Details about the pricing of some of its replacement parts might have been revealed. A Slovenia… [+2173 chars]"
+            "author": "Nancy Lapid",
+            "title": "Wegovy, Ozempic not linked to increase in suicidal thoughts, US study finds - Reuters.com",
+            "description": "A large U.S. study found no evidence that taking Novo Nordisk's <a href=\"https://www.reuters.com/markets/companies/NOVOb.CO\" target=\"_blank\">(NOVOb.CO)</a> Ozempic or Wegovy is tied to an increase in suicidal thoughts, researchers reported on Friday.",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-ozempic-not-linked-increase-suicidal-thoughts-us-study-finds-2024-01-05/",
+            "urlToImage": "https://www.reuters.com/resizer/uBVdWMPPIansxVjQNovFaq2V5K0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UIHKLYV3UJL4TJ4OBBFDNOID44.jpg",
+            "publishedAt": "2024-01-05T13:54:00Z",
+            "content": "Jan 5 (Reuters) - A large U.S. study found no evidence that taking Novo Nordisk's (NOVOb.CO) Ozempic or Wegovy is tied to an increase in suicidal thoughts, researchers reported on Friday.\r\nBoth Ozemp… [+3666 chars]"
         },
         {
             "source": {
@@ -167,126 +388,35 @@
             "title": "Neptune and Uranus seen in true colours for first time - BBC.com",
             "description": "Analysis shows that our ideas of the colours of the planets Neptune and Uranus have been wrong.",
             "url": "https://www.bbc.com/news/science-environment-67892275",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14321/production/_132212728_index.jpg",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15E33/production/_132215698_index2.jpg",
             "publishedAt": "2024-01-05T12:46:00Z",
-            "content": "By Pallab GhoshScience correspondent\r\nOur ideas of the colours of the planets Neptune and Uranus have been wrong, research led by UK astronomers reveals.\r\nImages from a space mission in the 1980s sho… [+3999 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Lawrence Richard",
-            "title": "North Korea fired 200 artillery rounds near border, violating of 2018 military agreement, South says - Fox News",
-            "description": "South Korea's defense ministry said North Korea violated a 2018 military agreement on Friday when it fired hundreds of artillery rounds along the sea boundary between the sovereign countries.",
-            "url": "https://www.foxnews.com/world/north-korea-fired-200-artillery-rounds-border-violating-2018-military-agreement-south",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/GettyImages-1900668962.jpg",
-            "publishedAt": "2024-01-05T12:23:00Z",
-            "content": "North Korea fired hundreds of artillery rounds along its sea boundary with neighboring South Korea in violation of a 2018 military agreement, Seoul's defense ministry said.\r\nSouth Koreas Joint Chiefs… [+2297 chars]"
+            "content": "By Pallab GhoshScience correspondent\r\nOur ideas of the colours of the planets Neptune and Uranus have been wrong, research led by UK astronomers reveals.\r\nImages from a space mission in the 1980s sho… [+4009 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Sports Illustrated"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Ian Casselberry",
+            "title": "Nikola Jokić Had Blunt Response to Charles Barkley Teasing Him About Buzzer Beater - Sports Illustrated",
+            "description": "Jokić said he knew the shot would bank in.",
+            "url": "https://www.si.com/nba/2024/01/05/nikola-jokić-had-blunt-response-charles-barkley-teasing-him-about-buzzer-beater",
+            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAzNDEyODQ3NjY3OTc5ODU1/jokic010424.jpg",
+            "publishedAt": "2024-01-05T12:45:54Z",
+            "content": "Nikola Jokić ended Thursday night’s clash between the Denver Nuggets and Golden State Warriors in dazzling fashion, hitting a shot from half-court just before the buzzer sounded for a 130–127 win. \r\n… [+966 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Weather Channel"
+                "name": "The Athletic"
             },
-            "author": "The Weather Channel",
-            "title": "Winter Storm Ember To Bring Snow To Northeast | Weather.com - The Weather Channel",
-            "description": "A winter storm will affect parts of the East this weekend with snow, ice, rain and wind. Here's what we know right now. - Articles from The Weather Channel | weather.com",
-            "url": "https://weather.com/storms/winter/news/2024-01-04-winter-storm-ember-forecast-northeast-winter-storm",
-            "urlToImage": "https://s.w-x.co/Ember_prim_0105a.jpg",
-            "publishedAt": "2024-01-05T12:01:11Z",
-            "content": "At a Glance\r\n<ul><li>A winter storm will bring snow, ice, rain and wind to the East this weekend.</li><li>Parts of southern and central New England will see significant snowfall accumulations and gus… [+4038 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Prideofdetroit.com"
-            },
-            "author": "Jeremy Reisman",
-            "title": "Detroit Lions WR Amon-Ra St. Brown heated over 2024 Pro Bowl snub - Pride Of Detroit",
-            "description": "Detroit Lions WR Amon-Ra St. Brown didn’t make the 2024 Pro Bowl, and he’s pissed about it.",
-            "url": "https://www.prideofdetroit.com/2024/1/5/24025758/2024-pro-bowl-snub-amon-ra-st-brown-pissed-heated-detroit-lions",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/RcBoqlzrMAiQKCnmCsWD5tudmdY=/0x396:4683x2848/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25205224/1885505058.jpg",
-            "publishedAt": "2024-01-05T11:32:06Z",
-            "content": "Detroit Lions wide receiver Amon-Ra St. Brown didnt make the initial 2024 Pro Bowl roster, and he clearly wasnt happy about it. \r\nI was heated, St. Brown told reporters on Thursday. \r\nThe Lions recei… [+1374 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "ALANNA DURKIN RICHER, MICHAEL KUNZELMAN",
-            "title": "Hundreds of convictions, but a major mystery is still unsolved 3 years after the Jan. 6 Capitol riot - The Associated Press",
-            "description": "Three years after the attack on the U.S. Capitol, Washington’s federal courthouse is flooded with trials, guilty plea hearings and sentencings stemming from the largest criminal investigation in American history. And the hunt for suspects is far from over. Au…",
-            "url": "https://apnews.com/article/capitol-riot-jan-6-criminal-cases-anniversary-bf436efe760751b1356f937e55bedaa5",
-            "urlToImage": "https://dims.apnews.com/dims4/default/35846fb/2147483647/strip/true/crop/5133x2887+0+267/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8b%2F75%2F0fa8cc0eb7c25c012c1d310ad58b%2F8f03b88fa3b845e096c5e08441229b06",
-            "publishedAt": "2024-01-05T11:15:00Z",
-            "content": "WASHINGTON (AP) Members of far-right extremist groups. Former police officers. An Olympic gold medalist swimmer. And active duty U.S. Marines. \r\nThey are among the hundreds of people who have been co… [+7003 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Jamison Hensley, Nick Wagoner",
-            "title": "Ravens and 49ers rest Jackson and Purdy: Will it backfire? - ESPN",
-            "description": "The last time the Ravens rested Lamar Jackson in the regular-season finale, they lost their playoff opener. Will this year be different?",
-            "url": "https://www.espn.com/nfl/story/_/id/39240780/ravens-49ers-nfl-playoffs-lamar-jackson-brock-purdy",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0104%2Fr1273457_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-01-05T11:09:00Z",
-            "content": "The Baltimore Ravens and San Francisco 49ers decided to rest starting quarterbacks Lamar Jackson and Brock Purdy in Week 18, continuing a trend for the best teams in the NFL.\r\nOver the past six seaso… [+8327 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "syracuse.com"
-            },
-            "author": "The Associated Press",
-            "title": "Glynis Johns, ‘Mary Poppins’ star who first sang ‘Send in the Clowns,’ dies at 100 - syracuse.com",
-            "description": "She won a Tony Award and was nominated for an Oscar.",
-            "url": "https://www.syracuse.com/celebrity-news/2024/01/glynis-johns-mary-poppins-star-who-first-sang-send-in-the-clowns-dies-at-100.html",
-            "urlToImage": "https://www.syracuse.com/resizer/oA_cxQBURfp_0xUDlIMo2zrhOqs=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4UF3VHSILBD2BPDNVCFQ6PP7DI.jpg",
-            "publishedAt": "2024-01-05T10:56:00Z",
-            "content": "NEW YORK (AP) Glynis Johns, a Tony Award-winning stage and screen star who played the mother opposite Julie Andrews in the classic movie Mary Poppins and introduced the world to the bittersweet stand… [+3895 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "David Rutz",
-            "title": "Harvard president plagiarism scandal likely tip of iceberg of widespread 'academic corruption', scholar says - Fox News",
-            "description": "Plagiarism and academic corruption could be gripping more campuses than people know, Manhattan Institute scholar Ilya Shapiro tells Fox News Digital.",
-            "url": "https://www.foxnews.com/media/harvard-president-plagiarism-scandal-likely-tip-iceberg-widespread-academic-corruption-scholar",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/Harvard-gates_Gay.png",
-            "publishedAt": "2024-01-05T10:00:00Z",
-            "content": "Read this article for free!\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you are agreeing… [+5647 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Emily Mullin",
-            "title": "They Had PTSD. A Psychedelic Called Ibogaine Helped Them Get Better - WIRED",
-            "description": "Ibogaine, a plant-based psychoactive drug, drastically reduced symptoms of depression and PTSD in veterans with traumatic brain injuries.",
-            "url": "https://www.wired.com/story/they-had-ptsd-a-psychedelic-called-ibogaine-helped-them-get-better/",
-            "urlToImage": "https://media.wired.com/photos/6597e71ef1d6acd5410fb96b/191:100/w_1280,c_limit/WIRED-Online-050124-Science.jpg",
-            "publishedAt": "2024-01-05T10:00:00Z",
-            "content": "After multiple deployments with the US Army Special Forces, Joe Hudak returned home in 2011 changed by his time in Iraq, Afghanistan, and South America.\r\nHe was quickly diagnosed with post-traumatic … [+2485 chars]"
+            "author": "Kalyn Kahler and Zak Keefer",
+            "title": "NFL’s Black Monday stories: ‘For the coaches and families, it’s an absolute nightmare’ - The Athletic",
+            "description": "Based on conversations with a half-dozen former head coaches, here’s a peek inside one of the most daunting days on the NFL calendar.",
+            "url": "https://theathletic.com/5168142/2024/01/05/nfl-coaches-firing-black-monday-stories/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/01/04114252/0103_BlackMonday-scaled.jpg",
+            "publishedAt": "2024-01-05T10:01:57Z",
+            "content": "Most will downplay and dismiss it, especially when pressed in front of a microphone. Theyll claim its the last thing on their radar, then lean on some trusty clichés to get through a few weeks of unc… [+14335 chars]"
         },
         {
             "source": {
@@ -316,94 +446,16 @@
         },
         {
             "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "Mariella Moon",
-            "title": "Google has started disabling third-party cookies for Chrome users - Engadget",
-            "description": "Google has just disabled third-party cookies for one percent of Chrome users, years after it first introduced its Privacy Sandbox project.",
-            "url": "https://www.engadget.com/google-has-started-disabling-third-party-cookies-for-chrome-users-060955481.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dYJBiK4La9CJlm_i0sSvjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODE-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/28c59450-ab73-11ee-bee7-30047ce69ab7",
-            "publishedAt": "2024-01-05T06:09:00Z",
-            "content": "Google has just disabled third-party cookies for one percent of Chrome users, years after it first introduced its Privacy Sandbox project. The company announced late last year that it will kick thing… [+1685 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "newschannel20.com"
+                "name": "HYPEBEAST"
             },
-            "author": "Carson Gourdie",
-            "title": "Illinois State Board of Elections to decide whether former President Trump will remain on primary ballot following petition - newschannel20.com",
-            "description": "Several Illinois voters have filed a petition that could bar former President Donald Trump from the Republican Primary ballot, forcing the Illinois State Board",
-            "url": "https://newschannel20.com/news/local/illinois-state-board-of-elections-to-vote-jan-30-on-whether-former-president-trump-will-remain-on-primary-ballot",
-            "urlToImage": "https://newschannel20.com/resources/media/0e2dc847-f50f-457b-b5ea-1b8e6574b5e4-large16x9_GettyImages1790161820.jpg",
-            "publishedAt": "2024-01-05T04:42:25Z",
-            "content": "Springfield, Ill. (WICS) Several Illinois voters have filed a petition that could bar former President Donald Trump from the Republican Primary ballot, forcing the Illinois State Board of Elections (… [+2361 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
-            },
-            "author": null,
-            "title": "ISRO's Aditya- L1 Satellite Has A Date With The Sun - NDTV",
-            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
-            "url": "https://www.ndtv.com",
-            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
-            "publishedAt": "2024-01-05T01:38:50Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Whec.com"
-            },
-            "author": "David Wheeler",
-            "title": "With several illnesses spiking, how do you and your family stay safe? - News10NBC",
-            "description": "It seems like everyone is sick right now. With the flu, COVID-19 and RSV spiking in Monroe County, it is tough to know what you have and how to treat it.News10NBC looked into what’s going around, and how you can protect yourself and your family.The spikes we …",
-            "url": "https://www.whec.com/top-news/with-several-illnesses-spiking-how-do-you-and-your-family-stay-safe/",
-            "urlToImage": "https://www.whec.com/wp-content/uploads/2024/01/illnesses.jpg",
-            "publishedAt": "2024-01-05T01:27:41Z",
-            "content": "It seems like everyone is sick right now. With the flu, COVID-19 and RSV spiking in Monroe County, it is tough to know what you have and how to treat it.\r\nNews10NBC looked into what’s going around, a… [+2337 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Newly unsealed documents reveal Jeffrey Epstein’s relationships with powerful people - NBC News",
-            "description": "Hundreds of pages of old court records related to Jeffrey Epstein have been unsealed, providing insight into his relationships with a wide network of people....",
-            "url": "https://www.youtube.com/watch?v=4_x7tg5YO5s",
-            "urlToImage": "https://i.ytimg.com/vi/4_x7tg5YO5s/maxresdefault.jpg",
-            "publishedAt": "2024-01-05T01:00:02Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Sara Moniuszko",
-            "title": "Florida surgeon general wants to halt COVID-19 mRNA vaccines; FDA calls his claims \"misleading\" - CBS News",
-            "description": "Florida's surgeon general Dr. Joseph Ladapo has previously taken aim at the Pfizer and Moderna COVID-19 vaccines with claims that federal health officials called \"implausible\" and \"misleading.\"",
-            "url": "https://www.cbsnews.com/news/florida-surgeon-general-covid-vaccines-fda-claims-misleading/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/06/04/cb002389-e337-446f-8fa3-2628dc7e9ba8/thumbnail/1200x630g1/8a4945ced2fb40c4adb62e6d8686cde2/ap22154802699290.jpg?v=3638d056f7798fc8425d74271bc0b398",
-            "publishedAt": "2024-01-04T20:07:00Z",
-            "content": "Florida's state surgeon general, Dr. Joseph Ladapo, is calling for doctors to stop recommending mRNA COVID-19 vaccines, citing alleged health risks promoted by anti-vaccine activists that federal hea… [+4210 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": null,
-            "title": "New Physical Keyboard Case Brings iPhones Back to BlackBerry's Glory Days - CNET",
-            "description": "The Clicks for iPhone keyboard case has a hardware keyboard and will make its debut at CES 2024. It's made by a couple of YouTubers and a new company.",
-            "url": "https://www.cnet.com/tech/mobile/new-physical-keyboard-case-brings-iphones-back-to-blackberrys-glory-days/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/e7f163e91d1a80290ba6e69bad60d1c2ca9f5029/hub/2024/01/04/9cc0da4e-6dba-4475-9c20-2b68091c0639/4-clicks-more-screen-for-content.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-01-04T18:00:00Z",
-            "content": "When the first iPhone launched in 2007, it heralded a new age for all-screen smartphones with digital keyboards. But some folks continue to miss the full physical keyboards that made handsets from Bl… [+2688 chars]"
+            "author": "Sarah Kearns",
+            "title": "Xbox's New Toaster Sears Its Logo Onto Your Morning Toast - HYPEBEAST",
+            "description": "Giving gamers the \"Optimal Carb Experience.\"",
+            "url": "https://hypebeast.com/2024/1/xbox-series-s-toaster-logo-print",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F01%2Fxbox-series-s-toaster-wallmart-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+            "publishedAt": "2024-01-04T16:43:36Z",
+            "content": "Xbox wants you to always be thinking about them even when youre eating breakfast. The company has a new gadget: a two-slice toaster designed to replicate an Xbox Series S.\r\nBilled as offering the “Op… [+726 chars]"
         }
     ]
 }

@@ -4,16 +4,250 @@
     "articles": [
         {
             "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters.com",
+            "title": "Stocks slump, dollar gains on rate outlook jitters - Reuters.com",
+            "description": null,
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-01-16/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-16T06:00:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Chan Ho-him, Joe Leahy",
+            "title": "China's economy faces 'critical year' in battle against deflation - Financial Times",
+            "description": "Beijing forecast to exceed 2023 growth target but outlook is tougher as consumers remain cautious",
+            "url": "https://www.ft.com/content/00a5d925-bb54-4be8-ae8e-9f558d9ac86f",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F3342abc8-252d-4dd2-807f-60d1d6f9e4a8.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-01-16T05:01:06Z",
+            "content": "As the head of Chinas biggest jewellery retailer, Kent Wong has his finger on the pulse of consumers in the worlds second-largest economy and they are wary.\r\nWong, managing director of Chow Tai Fook,… [+5810 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "James Mackintosh",
+            "title": "ETFs Make Bitcoin's Problems Even Worse - WSJ - The Wall Street Journal",
+            "description": "Bitcoin ETFs are likely to exacerbate its bad performance in crises by bringing in even more speculators to what’s already mostly a speculative asset",
+            "url": "https://www.wsj.com/finance/currencies/etfs-make-bitcoins-problems-even-worse-f48256d2",
+            "urlToImage": "https://images.wsj.net/im-912410/social",
+            "publishedAt": "2024-01-16T05:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Fox Business"
             },
             "author": "Louis Casiano",
-            "title": "Serial Target thief stole $39,000 worth of items across Southern California, police say - Fox Business",
-            "description": "A serial thief has stolen around $39,000 worth of merchandise from multiple Target stores across Southern California, police said in a social media post.",
-            "url": "https://www.foxbusiness.com/retail/serial-target-thief-stole-39000-worth-items-across-southern-california-police-say",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/01/0/0/Target.jpg?ve=1&tl=1",
-            "publishedAt": "2024-01-15T20:41:00Z",
-            "content": "An alleged serial thief has stolen around $39,000 worth of merchandise from multiple Target stores across Southern California, police said.\r\nThe Irvine Police Department recently released surveillanc… [+978 chars]"
+            "title": "Chicago-area Tesla charging stations lined with dead cars in freezing cold: 'A bunch of dead robots out here' - Fox Business",
+            "description": "Many Chicago-area Tesla owners were visibly frustrated on Monday after their electric vehicles failed to charge amid freezing temperatures.",
+            "url": "https://www.foxbusiness.com/technology/chicago-area-tesla-charging-stations-lined-with-dead-cars-in-freezing-cold-a-bunch-of-dead-robots-out-here",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/01/0/0/Tesla.jpg?ve=1&tl=1",
+            "publishedAt": "2024-01-16T02:48:00Z",
+            "content": "Desperate Tesla owners in and around Chicago were seen trying to charge their vehicles with no luck amid frigid temperatures that have gripped the Midwest.\r\nCharging stations have essentially turned … [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Richard Lai",
+            "title": "OpenAI lays out its misinformation strategy ahead of 2024 elections - Engadget",
+            "description": "OpenAI will use cryptography to tackle misinformation related to the 2024 elections.",
+            "url": "https://www.engadget.com/openai-lays-out-its-misinformation-strategy-ahead-of-2024-elections-022549912.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Lke6F81hs2j7cydUE.jK1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/83223b50-b40c-11ee-ae57-e5f7ba338a46",
+            "publishedAt": "2024-01-16T02:25:00Z",
+            "content": "As the US gears up for the 2024 presidential election, OpenAI shares its plans on suppressing misinformation related to elections worldwide, with a focus set on boosting the transparency around the o… [+1726 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lora Kolodny",
+            "title": "Elon Musk wants more control of Tesla, seeks 25% voting power - CNBC",
+            "description": "Elon Musk says he's 'uncomfortable' growing Tesla without 25% voting control",
+            "url": "https://www.cnbc.com/2024/01/16/elon-musk-wants-more-control-of-tesla-seeks-25percent-voting-power.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107335104-1700154424300-gettyimages-1760546699-UK_MUSK.jpeg?v=1705365208&w=1920&h=1080",
+            "publishedAt": "2024-01-16T01:56:00Z",
+            "content": "Elon Musk, chief executive officer of Tesla Inc., during a fireside discussion on artificial intelligence risks with Rishi Sunak, UK prime minister, not pictured, in London, UK, on Thursday, Nov. 2, … [+4863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Charmaine Jacob",
+            "title": "After a stellar 2023, Indian markets are set to pause until the general elections - CNBC",
+            "description": "Analysts warn that the level of optimism seen last year will not be replicated before the general election concludes.",
+            "url": "https://www.cnbc.com/2024/01/16/indian-markets-priced-to-perfection-not-much-upside-ahead-of-elections-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107359043-1705366376394-gettyimages-1235477962-AVaishnav_Celebration_outside_Bombay_Stock_Exchange_BSE_3.jpeg?v=1705366417&w=1920&h=1080",
+            "publishedAt": "2024-01-16T00:35:00Z",
+            "content": "Indian equity benchmarks the Nifty 50 and BSE Sensex have rallied by more than 6% since the state elections.\r\nThe Indian stock markets rallied to new highs in 2023 on the back of bullish investors an… [+5256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thebaltimorebanner.com"
+            },
+            "author": "Liz Bowie, Emily Sullivan, Cody Boteler",
+            "title": "Baltimore Sun sold: Sinclair's David Smith buys Sun, Capital Gazette and more - The Baltimore Banner",
+            "description": "Maryland's oldest newspapers are now back in local hands after nearly four decades.",
+            "url": "https://www.thebaltimorebanner.com/economy/the-baltimore-sun-media-group-sold-to-local-media-local-businessman-david-smith-GSYOCRC3PRE5FHNHDGHDBYFGOY/",
+            "urlToImage": "https://www.thebaltimorebanner.com/resizer/9e1cN6_QzVTuPdCQk7GxbeWtjIs=/657x0/filters:quality(70):format(url)/cloudfront-us-east-1.images.arcpublishing.com/baltimorebanner/54YUT5YNWJAAPLNWFN5U2P7CLY.jpg",
+            "publishedAt": "2024-01-16T00:31:00Z",
+            "content": "Local businessman David Smith has purchased The Baltimore Sun, the citys oldest newspaper, from Alden Global Capital, putting an institution that has been reporting on the state for more than a centu… [+9580 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Pia Singh",
+            "title": "Stock futures are lower to start shortened trading week: Live updates - CNBC",
+            "description": "Investors are looking ahead to a fresh batch of bank earnings out Tuesday and December retail sales data out Wednesday.",
+            "url": "https://www.cnbc.com/2024/01/15/stock-futures-are-lower-to-start-shortened-trading-week-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107357434-1704989884567-gettyimages-1917730773-AFP_34EL3ET.jpeg?v=1704989962&w=1920&h=1080",
+            "publishedAt": "2024-01-16T00:00:00Z",
+            "content": "Stock futures are lower Monday night as Wall Street awaits further data and bank earnings that will provide a better glimpse into the state of the American consumer.\r\nFutures tied to the Dow Jones In… [+1502 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": null,
+            "title": "WA attorney general sues to block Kroger, Albertsons merger - OregonLive",
+            "description": "The suit, filed Monday morning in King County Superior Court, appears to be the first formal move by state or federal regulators to halt the acquisition.",
+            "url": "https://www.oregonlive.com/business/2024/01/wa-attorney-general-sues-to-block-kroger-albertsons-merger.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/Wl0bJmaEQMwd8yso9D9T7qoeEkU=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IVKWQSS5CBB2VANT3JI6YK5R4I.jpg",
+            "publishedAt": "2024-01-15T23:51:00Z",
+            "content": "Washington state has asked a judge to block a proposed merger between Kroger and Albertsons, arguing that the $25 billion deal would harm consumers and raise prices in a state where the two retailers… [+4384 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chicago Tribune"
+            },
+            "author": "Claire Savage",
+            "title": "Ground collision of two Boeing planes at O'Hare sparks investigation - Chicago Tribune",
+            "description": "A plane taxiing for departure clipped another aircraft at Chicago O’Hare International Airport on Sunday evening, the Federal Aviation Administration said Monday.",
+            "url": "https://www.chicagotribune.com/business/transportation/boeing-crash-ohare-20240115-ovwwvnfv5bgzlbfmt7m7gcnjji-story.html",
+            "urlToImage": "https://www.chicagotribune.com/resizer/YyFDGtDrqZywIKxsOiQ17vn-PZo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/LHA73DG7IB2VNP43HJCLPXS4Z4.jpg",
+            "publishedAt": "2024-01-15T23:41:00Z",
+            "content": "A plane taxiing for departure clipped another aircraft at Chicago OHare International Airport on Sunday evening, the Federal Aviation Administration said Monday.\r\nNo injuries were reported, both plan… [+1549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Recession in Germany: Economy down by 0.3 % in 2023 | DW News - DW News",
+            "description": "The German economy shrank in 2023. That's according to fresh government data. For the full year, growth came in at a negative 0.3 percent. It's mainly due to...",
+            "url": "https://www.youtube.com/watch?v=wIXXtgeTOnY",
+            "urlToImage": "https://i.ytimg.com/vi/wIXXtgeTOnY/maxresdefault.jpg",
+            "publishedAt": "2024-01-15T23:15:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Eric Revell",
+            "title": "DoorDash, Uber Eats hike fees in blue state city over delivery app minimum pay law - Fox Business",
+            "description": "DoorDash, Uber Eats and Instacart are warning consumers about higher prices and fees after the Seattle City Council's new minimum payment law for app-based workers took effect.",
+            "url": "https://www.foxbusiness.com/politics/doordash-uber-eats-hike-fees-blue-state-city-over-delivery-app-minimum-pay-law",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/0/0/Seattle.jpg?ve=1&tl=1",
+            "publishedAt": "2024-01-15T23:09:00Z",
+            "content": "Seattle residents\r\n face higher delivery bills from services like DoorDash, Instacart and Uber Eats after a new law took effect that requires minimum payments to app-based workers who drive for those… [+3968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ABC15 Arizona"
+            },
+            "author": "Clayton Klapper",
+            "title": "Man arrested for deadly shooting after argument in Mesa McDonald's drive-thru - ABC15 Arizona in Phoenix",
+            "description": "Shooting happened near Country Club Drive and Southern Avenue",
+            "url": "https://www.abc15.com/news/crime/man-arrested-for-deadly-shooting-after-argument-in-mesa-mcdonalds-drive-thru",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/9d66410/2147483647/strip/true/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmedia2.abc15.com%2Fphoto%2F2015%2F03%2F18%2FKNXV%20Mesa%20Police_1426697210375_15136478_ver1.0_640_480.jpg",
+            "publishedAt": "2024-01-15T23:01:17Z",
+            "content": "MESA, AZ A man has been arrested in connection to a deadly shooting that happened in a Mesa McDonald's drive-thru over the weekend.\r\nMesa police say the incident happened Saturday around 3 a.m. at th… [+751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WKRN News 2"
+            },
+            "author": "Erin McCullough",
+            "title": "Ground stop lifted at Nashville International Airport amid winter weather - WKRN News 2",
+            "description": "The FAA issued the ground stop at Nashville International Airport due to the ongoing winter weather.",
+            "url": "https://www.wkrn.com/news/local-news/nashville/faa-orders-ground-stop-at-nashville-international-airport-due-to-weather-in-nashville/",
+            "urlToImage": "https://www.wkrn.com/wp-content/uploads/sites/73/2022/06/thumbnail_IMG_0591.jpg?w=1280",
+            "publishedAt": "2024-01-15T22:04:10Z",
+            "content": "NASHVILLE, Tenn. (WKRN) As of 5:15 p.m. Monday, the Federal Aviation Administration (FAA) has lifted the ground stop at Nashville International Airport (BNA).\r\nThe FAA ordered the ground stop just be… [+393 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kali Hays",
+            "title": "Viewers question if video of Tesla robot folding a shirt is real - Business Insider",
+            "description": "Elon Musk admitted that a video showing his Tesla robot folding a shirt was not happening \"autonomously,\" without explaining how it was done.",
+            "url": "https://www.businessinsider.com/reactions-tesla-robot-folding-shirt-question-video-real-2024-1",
+            "urlToImage": "https://i.insider.com/65a5a0afdcdb354a9857988e?width=1200&format=jpeg",
+            "publishedAt": "2024-01-15T21:59:00Z",
+            "content": "Elon Musk admitted that a video showing Tesla's Optimus robot folding a shirt is \"not yet\" possible, leaving online observers to wonder how the video was created at all.In a short video posted Monday… [+2226 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Morning Bid: Japan's equity juggernaut rolls on - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-2024-01-15/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-15T21:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Uber shutting down Drizly three years after $1.1 billion acquisition - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/01/15/uber-drizly-acquisition-shutters",
+            "urlToImage": null,
+            "publishedAt": "2024-01-15T21:42:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Points Guy"
+            },
+            "author": "Caroline Tanner",
+            "title": "EV road trip anyone? White House says more electric vehicle charging stations are on the way - The Points Guy",
+            "description": "President Biden announced $623 million to fund 47 electric vehicle charging and alternative-fueling infrastructure projects in 22 states and Puerto Rico.",
+            "url": "https://thepointsguy.com/news/ev-rollout/",
+            "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2024/01/GettyImages-1564615208.jpg",
+            "publishedAt": "2024-01-15T21:01:21Z",
+            "content": "The White House says it is making progress on the charging network the country needs to enable long road trips in electric cars.\r\nOn Thursday, President Joe Biden announced $623 million to fund 47 el… [+7016 chars]"
         },
         {
             "source": {
@@ -30,55 +264,81 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "TheStreet"
             },
-            "author": "Emma Roth, Alex Cranz",
-            "title": "Apple Watch drops blood oxygen features to dodge the import ban - The Verge",
-            "description": "A letter from Masimo and published by 9to5Mac suggests Apple will be dropping the blood oxygen feature from the Apple Watch Series 9 and Ultra Watch 2 in order to get around a ban put in place after Apple was found to infringe on Masimo’s patents.",
-            "url": "https://www.theverge.com/2024/1/15/24034324/apple-watch-ban-us-customs-decision",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hILUF-Za7eoQ0__C4dyV3QkyYIE=/0x0:2040x1360/1200x628/filters:focal(656x533:657x534)/cdn.vox-cdn.com/uploads/chorus_asset/file/24933442/236790_Apple_watch_9_Ultra_2_AKrales_0356.jpg",
-            "publishedAt": "2024-01-15T20:14:05Z",
-            "content": "Apple Watch drops blood oxygen features to dodge the import ban\r\nApple Watch drops blood oxygen features to dodge the import ban\r\n / While neither the US Customs and Border Protection or Apple has gi… [+2718 chars]"
+            "author": "Dan Weil",
+            "title": "Goldman Sachs heavyweights forecast what's next for the stock market, economy - TheStreet",
+            "description": "The S&P 500 soared 24% last year. Here's what could happen next.",
+            "url": "https://www.thestreet.com/stocks/goldman-sachs-heavyweights-forecast-whats-next-for-the-stock-market-economy",
+            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAwMzA1OTg5MzkwNDQzNjI4/pivot-mia---day-2.jpg",
+            "publishedAt": "2024-01-15T20:22:11Z",
+            "content": "Goldman Sachs has stumbled in its financial performance over the past 15 years. But its investment/economic research remains among the best in the business. \r\nBack in the day, now-defunct securities … [+4222 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "Apple will remove Blood Oxygen app from Watch Series 9 and Ultra 2 to evade US import ban - Engadget",
+            "description": "Apple may be set to remove the blood oxygen app from new Apple Watch Series 9 and Ultra 2 units in the US so it can keep selling the devices in the country.",
+            "url": "https://www.engadget.com/apple-will-remove-blood-oxygen-app-from-watch-series-9-and-ultra-2-to-evade-us-import-ban-194517839.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zP_qSS5hecMkc6Q24VmxmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/ca741b60-5749-11ee-bfff-96fc8a455d70",
+            "publishedAt": "2024-01-15T19:45:18Z",
+            "content": "It seems that Apple will be able to bypass an import ban on Apple Watch Series 9 and Ultra 2 devices and once again sell those products in the US after dropping a key feature. According to a letter t… [+3200 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investor's Business Daily"
+                "name": "The Colorado Sun"
             },
-            "author": "Investor's Business Daily",
-            "title": "Dow Jones Futures Fall Amid Stellar Market Rally; Microsoft Leads Stocks In Buy Zones - Investor's Business Daily",
-            "description": null,
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stellar-market-rally/",
-            "urlToImage": null,
-            "publishedAt": "2024-01-15T19:33:00Z",
-            "content": null
+            "author": "Olivia Prentzel",
+            "title": "Massive winter storm closes Colorado mountain passes, grounds at least 300 flights at Denver International Airport - The Colorado Sun",
+            "description": "The cold was a possible factor in the deaths of four people in Denver over the weekend, officials said",
+            "url": "http://coloradosun.com/2024/01/15/massive-colorado-storm-road-closures-flights-canceled/",
+            "urlToImage": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/01/bankslide.jpeg",
+            "publishedAt": "2024-01-15T19:35:23Z",
+            "content": "A massive winter storm, blasting subfreezing temperatures and dangerously cold wind chills, continues to sweep across most of Colorado on Monday, from the Eastern Plains to the Western Slope and high… [+6216 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kate Gibson",
+            "title": "Goldman Sachs expects the Fed to cut interest rates 5 times this year, starting in March - CBS News",
+            "description": "With the U.S. seemingly on track for a \"soft landing,\" the investment bank projects a gradual decline in the Fed's benchmark rate.",
+            "url": "https://www.cbsnews.com/news/interest-rates-today-mortgage-goldman-sachs/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/05/8523a315-0907-4f7c-af25-f1b49e493a01/thumbnail/1200x630/d39c2f9ce4ea4ab3ebeece4f77a8680f/gettyimages-172739253.jpg?v=50926e3bde2e7c9caafa13eb3f9693b5",
+            "publishedAt": "2024-01-15T19:35:00Z",
+            "content": "What economists expect from inflation in 2024 \r\nWhat economists expect from inflation in 202402:45\r\nThe Federal Reserve is likely to start lowering its benchmark interest rate in March and make a tot… [+3181 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Seattle Times"
+                "name": "Forbes"
             },
-            "author": "Paul Roberts",
-            "title": "WA attorney general sues to block Kroger, Albertsons merger - The Seattle Times",
-            "description": "Washington state has asked a judge to block a proposed merger between Kroger and Albertsons, arguing the $25 billion deal would harm consumers and raise prices.",
-            "url": "https://www.seattletimes.com/business/retail/wa-attorney-general-sues-to-block-kroger-albertsons-merger/",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/12/12152023_TZR_Kroger_tzr_114038.jpg?d=1200x630",
-            "publishedAt": "2024-01-15T19:29:06Z",
-            "content": "Washington state has asked a judge to block a proposed merger between Kroger and Albertsons, arguing that the $25 billion deal would harm consumers and raise prices in a state where the two retailers… [+4294 chars]"
+            "author": "Kelly Phillips Erb",
+            "title": "FinCEN Issues More Guidance On Beneficial Ownership Information Reporting - Forbes",
+            "description": "Weeks after it opened the platform for beneficial ownership information (BOI) reports, FinCEN has offered more clarity on filing issues.",
+            "url": "https://www.forbes.com/sites/kellyphillipserb/2024/01/15/fincen-issues-more-guidance-on-beneficial-ownership-information-reporting/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65a48e87e3f899c2046542e1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-01-15T19:00:47Z",
+            "content": "Feet and arrows on road background in starting line beginning idea.\r\ngetty\r\nTwo weeks after FinCENthe Financial Crimes Enforcement Networkopened the platform for beneficial ownership information (BOI… [+9835 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KATU"
+                "name": "KGW.com"
             },
-            "author": "KATU Staff",
-            "title": "Providence and Regence reach agreement for continued in-network patient care - KATU",
-            "description": "Providence has announced they have reached an agreement with Regence Blue Cross Blue Shield.The new contract means that all Providence patients with Regence He",
-            "url": "https://katu.com/news/local/providence-and-regence-reach-agreement-for-continued-in-network-patient-care-oregon-health-care",
-            "urlToImage": "https://katu.com/resources/media/69ef0501-f00b-466f-bb1a-bcb7486a097e-large16x9_Chopper2viewofProvidencePortland.png?1647533575906",
-            "publishedAt": "2024-01-15T19:22:13Z",
-            "content": "PORTLAND, Ore. (KATU) Providence has announced they have reached an agreement with Regence Blue Cross Blue Shield. \r\nThe new contract means that all Providence patients with Regence Health Insurance … [+1197 chars]"
+            "author": "KGW Staff",
+            "title": "Providence, Regence BlueCross BlueShield reach deal to keep Oregon hospitals in-network - KGW.com",
+            "description": "Monday was the deadline to avoid a split that would've resulted in Oregonians with Regence insurance being billed at out-of-network rates at Providence hospitals.",
+            "url": "https://www.kgw.com/article/news/health/providence-regence-reach-deal/283-8d0244f5-3783-4710-881a-4f2b95b6d213",
+            "urlToImage": "https://media.kgw.com/assets/KGW/images/496465a0-13d1-4ac0-aaa8-1e31f19ed2b4/496465a0-13d1-4ac0-aaa8-1e31f19ed2b4_1140x641.jpg",
+            "publishedAt": "2024-01-15T18:59:00Z",
+            "content": "PORTLAND, Ore. Providence Health and Services and Regence BlueCross BlueShield of Oregon have reached an agreement to keep the hospital system in the insurance provider's network, ensuring that Orego… [+1742 chars]"
         },
         {
             "source": {
@@ -96,6 +356,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Notateslaapp.com"
+            },
+            "author": "Kevin Armstrong",
+            "title": "Hertz Selling Off Teslas as It Reduces Its EV Fleet and the Implications on the Market - Not a Tesla App",
+            "description": "Hertz sells 20,000 EVs, including Teslas, due to high costs and cooling demand, impacting Tesla's market position and reflecting broader EV challenges.",
+            "url": "https://www.notateslaapp.com/news/1867/hertz-selling-off-teslas-as-it-reduces-its-ev-fleet-and-the-implications-on-the-market",
+            "urlToImage": "https://www.notateslaapp.com/img/containers/article_images/hertzinvests_1634924112275-hr.jpg/1ab16915ccf3689ffd3ed7509cd60187.jpg",
+            "publishedAt": "2024-01-15T18:27:00Z",
+            "content": "January 15, 2024 \r\nHertz Global Holdings, a major player in the vehicle rental industry, recently announced a significant change in its electric vehicle strategy. The company is selling about 20,000 … [+10575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Efinancialcareers.com"
             },
             "author": "Sarah Butcher",
@@ -108,68 +381,55 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "financial-times",
+                "name": "Financial Times"
             },
-            "author": "COURTNEY BONNELL",
-            "title": "More CEOs fear their companies won't survive 10 years as AI and climate challenges grow, survey says - The Associated Press",
-            "description": "More executives are feeling better about the global economy. But a growing number don’t think their companies will survive the coming decade without a major overhaul because of pressure from climate change and technology like artificial intelligence. That's a…",
-            "url": "https://apnews.com/article/davos-ceo-survey-ai-climate-change-economy-cdf526bec5ce12812b5d2704dc054867",
-            "urlToImage": "https://dims.apnews.com/dims4/default/b68abfa/2147483647/strip/true/crop/3323x1869+0+173/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F16%2Ffc%2F8b4dbfb434b26dbbe13e1588ee21%2F02be3d0dbab4428689daaee38090f478",
-            "publishedAt": "2024-01-15T17:50:00Z",
-            "content": "LONDON (AP) More executives are feeling better about the global economy, but a growing number dont think their companies will survive the coming decade without a major overhaul because of pressure fr… [+5218 chars]"
+            "author": "Sam Fleming",
+            "title": "Generative artificial intelligence will lead to job cuts this year, CEOs say - Financial Times",
+            "description": "Impact of cutting-edge AI tools on work and society set to dominate discussions at World Economic Forum in Davos",
+            "url": "https://www.ft.com/content/908e5465-0bc4-4de5-89cd-8d5349645dda",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F9edeb334-81d0-4e44-84a2-5a70e487153b.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-01-15T17:50:10Z",
+            "content": "A quarter of global chief executives expect the deployment of generative artificial intelligence to lead to headcount reductions of at least 5 per cent this year, according to a survey unveiled as wo… [+3994 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Detroit News"
             },
-            "author": "Detroit News",
+            "author": "Breana Noble",
             "title": "Stellantis cuts 539 supplemental workers from U.S. plants - Detroit News",
-            "description": null,
+            "description": "The job cuts follow a series of other actions the automaker has taken in evaluating its costs.",
             "url": "https://www.detroitnews.com/story/business/autos/chrysler/2024/01/15/stellantis-cuts-supplemental-workers-u-s-plants/72231791007/",
-            "urlToImage": null,
+            "urlToImage": "https://www.detroitnews.com/gcdn/presto/2022/11/22/PDTN/e21c307a-b1e4-41c4-92ce-98ccc8be6c7c-AP22307508791756.jpg?crop=703,395,x0,y34&width=703&height=395&format=pjpg&auto=webp",
             "publishedAt": "2024-01-15T17:40:55Z",
+            "content": "Stellantis NV said Monday that 539 supplemental employees across its U.S. manufacturing footprint are being \"permanently separated\" from the company following an evaluation of operations.\r\nThe automa… [+3310 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Sanjay Dutta",
+            "title": "Eye on China, India inks first overseas lithium mining deal for five blocks in Argentina - IndiaTimes",
+            "description": "India News: NEW DELHI: Khanij Bidesh India Ltd (KABIL), a joint venture of state-run miners, has inked India’s first overseas lithium exploration and mining deal .",
+            "url": "https://timesofindia.indiatimes.com/india/eye-on-china-india-inks-first-overseas-lithium-mining-deal-for-five-blocks-in-argentina/articleshow/106874549.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-106874634,width-1070,height-580,imgsize-1570040,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-01-15T17:18:00Z",
+            "content": "7 Indian foods declared 'best in the world'"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Shares in Brazil's Gol tank on report of potential US bankruptcy filing - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/business/aerospace-defense/brazils-gol-considering-chapter-11-bankruptcy-report-says-2024-01-15/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-15T16:36:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WDAF FOX4 Kansas City"
-            },
-            "author": "Andrew Lynch",
-            "title": "Man shot outside Lenexa McDonald's identified - WDAF FOX4 Kansas City",
-            "description": "Lenexa police say Markese Gleghorn was shot, killed Saturday outside a McDonald’s near intersection of W. 87th Street Parkway, Pflumm Road",
-            "url": "https://fox4kc.com/news/lenexa-police-identify-shooting-victim-man-charged-with-murder/",
-            "urlToImage": "https://fox4kc.com/wp-content/uploads/sites/16/2024/01/Single-image-for-homepage-crop-17.png?w=1280",
-            "publishedAt": "2024-01-15T17:08:27Z",
-            "content": "OLATHE, Kan. — The Lenexa Police Department identified a man killed in a weekend shooting on Monday, and the Johnson County district attorney filed charges against the suspected gunman. \r\nLenexa poli… [+989 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Shannon Thaler",
-            "title": "Beloved McDonald's cashier who began working at fast food chain before McNuggets launch retires at 84 - New York Post ",
-            "description": "A McDonald’s cashier who predated the rollout of McNuggets and Happy Meals during her more than four decades at the fast food chain is hanging up her drive-thru headset. Dot Sharp, who turned…",
-            "url": "https://nypost.com/2024/01/15/business/mcdonalds-cashier-84-retires-after-more-than-four-decades/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-ql8vgg4u9-1705333812865.jpg?quality=75&strip=all&1705315843&w=1024",
-            "publishedAt": "2024-01-15T17:00:00Z",
-            "content": "A McDonald’s cashier who predated the rollout of McNuggets and Happy Meals during her more than four decades at the fast food chain is hanging up her drive-thru headset.\r\nDot Sharp, who turned 84 las… [+3012 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Wire"
-            },
-            "author": "Amanda Harding",
-            "title": "How The Stanley Cup Craze Points To A Bigger Crisis For Teens - The Daily Wire",
-            "description": "In December, a 13-year-old Australian girl’s Christmas list went viral. The teen had reportedly requested a slew of expensive items for under her tree including Skims shaping undergarments, Drunk Elephant and Dior luxury skincare, high-priced Lululemon active…",
-            "url": "https://www.dailywire.com/news/how-the-stanley-cup-craze-points-to-a-bigger-crisis-for-teens",
-            "urlToImage": "https://dw-wp-production.imgix.net/2024/01/GettyImages-1913161658.jpg?w=1200&h=800&ixlib=react-9.3.0",
-            "publishedAt": "2024-01-15T16:13:26Z",
-            "content": "In December, a 13-year-old Australian girls Christmas list went viral.\r\nThe teen had reportedly requested a slew of expensive items for under her tree including Skims shaping undergarments, Drunk Ele… [+5918 chars]"
         },
         {
             "source": {
@@ -187,19 +447,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Simply Wall St"
-            },
-            "author": null,
-            "title": "The Price Is Right For Tesla, Inc. (NASDAQ:TSLA) - Simply Wall St",
-            "description": "When close to half the companies in the United States have price-to-earnings ratios (or \"P/E's\") below 16x, you may...",
-            "url": "https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla/news/the-price-is-right-for-tesla-inc-nasdaqtsla",
-            "urlToImage": "https://images.simplywall.st/asset/company-cover/27444752-main-header/1585186658592",
-            "publishedAt": "2024-01-15T15:59:58Z",
-            "content": "When close to half the companies in the United States have price-to-earnings ratios (or \"P/E's\") below 16x, you may consider Tesla, Inc. (NASDAQ:TSLA) as a stock to avoid entirely with its 64.5x P/E … [+3669 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": null,
@@ -209,32 +456,6 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/4146c1afdd3b0d211e91398fe082ad2e5efa1e31/hub/2024/01/09/34a79a58-83ba-47c3-a0ef-ce31875176a8/anker-maggo-family.png?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2024-01-15T15:47:00Z",
             "content": "Each year, the Consumer Electronics Show provides us with amazing demos and concepts that won't be available to regular consumers for years (we're all still waiting to make ColdSnap ice cream in minu… [+54079 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bank of Canada"
-            },
-            "author": null,
-            "title": "Business Outlook Survey—Fourth Quarter of 2023 - Bank of Canada",
-            "description": "Results from the Business Outlook Survey and the Business Leaders’ Pulse show that with high interest rates and soft demand, firms’ sales growth has slowed over the past 12 months. Firms are less optimistic about current business conditions than they were las…",
-            "url": "https://www.bankofcanada.ca/2024/01/business-outlook-survey-fourth-quarter-of-2023/",
-            "urlToImage": "https://www.bankofcanada.ca/wp-content/uploads/2022/03/BOS-default-image.jpg",
-            "publishedAt": "2024-01-15T15:31:44Z",
-            "content": "Roughly three-quarters of firms said they are being negatively impacted by higher interest rates. These firms have more negative sales outlooks as well as weaker intentions to hire and invest in the … [+1513 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "13abc Action News"
-            },
-            "author": "WTVG Staff",
-            "title": "Man allegedly robs Walmart, leads police on chase before being arrested - WTVG",
-            "description": "According to Toledo Police, Tavion Calhoun put several items into a backpack at an area Walmart before attempting to leave the store without paying.",
-            "url": "https://www.13abc.com/2024/01/15/man-allegedly-robs-walmart-leads-police-chase-before-being-arrested/",
-            "urlToImage": "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/v2/4QV5QX3NWNBONOQUDF32P4OWVE.png?auth=62f29e0358947e06605a593af70fe5824cbc88de9dc5b2cbf61739fe96731c2f&width=1200&height=600&smart=true",
-            "publishedAt": "2024-01-15T15:30:00Z",
-            "content": "TOLEDO, Ohio (WTVG) - A 29-year-old faces multiples charges, including robbery and fleeing police Saturday.\r\nAccording to Toledo Police, Tavion Calhoun put several items into a backpack at an area Wa… [+497 chars]"
         },
         {
             "source": {
@@ -251,42 +472,16 @@
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Todd Feurer",
-            "title": "Planes clip wings at O'Hare International Airport - CBS Chicago",
-            "description": "All Nippon Airways Flight 11, a Boeing 777, was taxiing for departure when its left wing hit the stabilizer of Delta Air Lines Flight 2122, a Boeing 717.",
-            "url": "https://www.cbsnews.com/chicago/news/planes-clip-wings-at-ohare-international-airport/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/15/5e24eaff-4643-4430-a324-e9fd3a7fd4f1/thumbnail/1200x630/3d15c04510a2bc9686fef81ab416da93/planes-clip-wings-ohare.jpg?v=50926e3bde2e7c9caafa13eb3f9693b5",
-            "publishedAt": "2024-01-15T15:04:00Z",
-            "content": "CHICAGO (CBS) -- Passengers on two planes at O'Hare International Airport had to go back inside the terminal Sunday night after their planes clipped wings on the tarmac.\r\nThe FAA said All Nippon Airw… [+487 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Blockworks.co"
+                "name": "Dlnews.com"
             },
-            "author": "Ben Strack",
-            "title": "Short-term view on spot bitcoin ETFs 'a mistake' says 21Shares president - Blockworks",
-            "description": "Various investors are likely to “dip their toe” into BTC funds before ramping up allocations over time, Snyder says in a Blockworks interview.",
-            "url": "https://blockworks.co/news/21shares-ceo-interview-bitcoin-etfs",
-            "urlToImage": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2024/01/21shares.jpg&w=1920&q=75&webp=false",
-            "publishedAt": "2024-01-15T15:03:58Z",
-            "content": "Ten spot bitcoin ETFs started trading Thursday after garnering approval from the US Securities and Exchange Commission, with one from Ark Invest and 21Shares among them.\r\n The fund saw day-one tradin… [+6162 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Brian Sozzi",
-            "title": "Microsoft co-founder Bill Gates: I am concerned about the state of healthcare funding - Yahoo Finance",
-            "description": "Bill Gates weighs in on the falling budgets tied to healthcare improvement.",
-            "url": "https://finance.yahoo.com/news/microsoft-co-founder-bill-gates-i-am-concerned-about-the-state-of-healthcare-funding-145541738.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rnLxVZ_39AAtMig.IWUDmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/365bb270-b3ac-11ee-b37b-b424fea48c73",
-            "publishedAt": "2024-01-15T14:55:41Z",
-            "content": "Microsoft (MSFT) co-founder and Bill &amp; Melinda Gates Foundation co-chair Bill Gates is concerned about declining spending on healthcare by governments and companies around the world.\r\n\"I'm a litt… [+1865 chars]"
+            "author": "Sebastian Sinclair",
+            "title": "Why Bitcoin is falling even as ETFs see billions in new investment - DLNews",
+            "description": "The world’s largest cryptocurrency extended losses into the weekend, even as US spot Bitcoin exchange-traded funds posted a strong debut.",
+            "url": "https://www.dlnews.com/articles/snapshot/why-bitcoin-fell-even-as-etfs-see-billions-in-new-money/",
+            "urlToImage": "https://www.dlnews.com/resizer/K4jdvG4oFfCX6l8LEQ3M-UL68b4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/dlnews/OA2PNL7GPVEWHAY36RS3XPTYH4.jpg",
+            "publishedAt": "2024-01-15T15:08:29Z",
+            "content": null
         },
         {
             "source": {
@@ -330,19 +525,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Efinancialcareers.com"
-            },
-            "author": "Sarah Butcher",
-            "title": "Did shamed Morgan Stanley MD Pawan Passi earn over $2.5m a year in bonuses? - eFinancialCareers",
-            "description": "Pawan Passi was not badly paid.",
-            "url": "https://www.efinancialcareers.com/news/2024/01/pawan-passi-pay-morgan-stanley",
-            "urlToImage": "https://cdn.filestackcontent.com/aC6lD2ZrQ4KgfsXC0I0D",
-            "publishedAt": "2024-01-15T14:12:01Z",
-            "content": "Pawan Passi is no longer in the room, and he will not be coming back for a while.\r\nGet Morning Coffee  in your inbox. Sign up here.\r\nHaving lost his job at Morgan Stanley after 12 years in December 2… [+3346 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Electrek"
             },
             "author": "Jennifer Mossalgue",
@@ -369,45 +551,6 @@
         {
             "source": {
                 "id": null,
-                "name": "WKRN News 2"
-            },
-            "author": "Brittney Baird",
-            "title": "BNA implementing snow, ice protocol at airport - WKRN News 2",
-            "description": "The Nashville International Airport (BNA) released a statement Monday morning on winter weather conditions at the facility.",
-            "url": "https://www.wkrn.com/weather-headlines/bna-implementing-snow-ice-protocol-at-airport/",
-            "urlToImage": "https://www.wkrn.com/wp-content/uploads/sites/73/2024/01/image0-3.jpeg?w=1280",
-            "publishedAt": "2024-01-15T13:47:49Z",
-            "content": "NASHVILLE, Tenn. (WKRN) The Nashville International Airport (BNA) released a statement Monday morning on winter weather conditions at the facility. \r\nNashville International Airport® (BNA®) Airport O… [+1288 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CoinDesk"
-            },
-            "author": "Lyllah Ledesma",
-            "title": "First Mover Americas: Bitcoin Pulls Back to $42K; Venezuela Shutters Petro Crypto Project - CoinDesk",
-            "description": "The latest price moves in crypto markets in context for Jan. 15, 2024.",
-            "url": "https://www.coindesk.com/markets/2024/01/15/first-mover-americas-bitcoin-pulls-back-to-42k-venezuela-shutters-petro-crypto-project/",
-            "urlToImage": "https://www.coindesk.com/resizer/6TNsR6CViT-5REgj__bp2bBih3w=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/K457UJANE5HABOAXSLVA4XRZJY.png",
-            "publishedAt": "2024-01-15T13:27:00Z",
-            "content": "This article originally appeared in First Mover, CoinDesks daily newsletter, putting the latest moves in crypto markets in context. Subscribe to get it in your inbox every day.\r\nBitcoin (BTC) contrar… [+2278 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Yaron Steinbuch",
-            "title": "New video shows final moments of disturbed passenger who died after climbing into Delta plane engine - New York Post ",
-            "description": "Disturbing video captured the final moments of a Utah man who was found dead inside the engine of a Delta plane – showing him breaching an emergency exit door and making his way to the tarmac.",
-            "url": "https://nypost.com/2024/01/15/news/new-video-shows-final-moments-of-man-who-died-after-climbing-into-plane-engine/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/74931171.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-01-15T13:23:00Z",
-            "content": "Disturbing video captured the final moments of a Utah man who was found dead inside the engine of a Delta plane showing him breaching an emergency exit door and making his way to the tarmac.\r\nKyler E… [+2926 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "YouTube"
             },
             "author": null,
@@ -417,45 +560,6 @@
             "urlToImage": "https://i.ytimg.com/vi/rC3tc8zPc44/maxresdefault.jpg",
             "publishedAt": "2024-01-15T13:08:27Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "AI to hit 40% of jobs and worsen inequality, IMF says - BBC.com",
-            "description": "Policymakers should address the \"troubling trend\", says the organisation's managing director Kristalina Georgieva.",
-            "url": "https://www.bbc.com/news/business-67977967",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BF86/production/_132303094_gettyimages-1450616449.jpg",
-            "publishedAt": "2024-01-15T12:35:00Z",
-            "content": "By Annabelle LiangBusiness reporter\r\nArtificial intelligence is set to affect nearly 40% of all jobs, according to a new analysis by the International Monetary Fund (IMF).\r\nIMF's managing director Kr… [+3352 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Jamie Chisholm",
-            "title": "Goldman Sachs offers 10 reasons why it’s more confident about the U.S. economy - MarketWatch",
-            "description": "Goldman Sachs thinks the U.S. economy will be growing by more than double market consensus at the end of 2024, and has a list of 10 reasons why it is more...",
-            "url": "https://www.marketwatch.com/story/goldman-sachs-offers-10-reasons-why-its-more-confident-about-the-u-s-economy-2e045fb9",
-            "urlToImage": "https://images.mktw.net/im-626343/social",
-            "publishedAt": "2024-01-15T12:26:00Z",
-            "content": "Goldman Sachs thinks the U.S. economy will be growing by more than double market consensus at the end of 2024, and has a list of 10 reasons why it is more optimistic than most.In a note published ove… [+4245 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": null,
-            "title": "Best Buy Launches MLK Day Sale With Huge Savings on Tech and More - CNET",
-            "description": "Score discounts on everything from Apple Watches and TVs to major appliances with this member-exclusive sale.",
-            "url": "https://www.cnet.com/deals/best-buy-launches-mlk-day-sale-with-huge-savings-on-tech-and-more/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/4941405866e488f45bca6bedc36bec307a534f8e/hub/2024/01/15/f4451138-d4d6-42d9-abc5-6ea4383bf19b/best-buy-sale.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-01-15T12:18:00Z",
-            "content": "Martin Luther King Jr. Day has arrived and it's a great time to educate ourselves on racial injustice across America. But as with any three-day weekend, our biggest retailers are not going to miss th… [+1341 chars]"
         },
         {
             "source": {
@@ -488,13 +592,13 @@
                 "id": null,
                 "name": "The Atlantic"
             },
-            "author": "The Atlantic",
+            "author": "James Surowiecki",
             "title": "What's Gone Wrong at Boeing - The Atlantic",
-            "description": null,
+            "description": "Behind the 737 Max’s persistent problems is the erosion of a valuable corporate culture. That will be harder to fix than a loose bolt.",
             "url": "https://www.theatlantic.com/ideas/archive/2024/01/boeing-737-max-corporate-culture/677120/",
-            "urlToImage": null,
+            "urlToImage": "https://cdn.theatlantic.com/thumbor/potdfwbmyJJnb20S4kwOESwBRMQ=/0x83:2000x1125/1200x625/media/img/mt/2024/01/boeing_down/original.jpg",
             "publishedAt": "2024-01-15T12:00:00Z",
-            "content": null
+            "content": "When, last week, a panel called a door plug blew off a Boeing 737 Max 9 plane in mid-flight, leaving a gaping hole in the planes fuselage, air travelers everywhere no doubt felt a shudder of horrorev… [+6222 chars]"
         },
         {
             "source": {
@@ -511,19 +615,6 @@
         },
         {
             "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Orianna Rosa Royle",
-            "title": "Adidas CEO gave out his number to 60,000 employees to boost morale after that Kanye West crisis: ‘Some people think I’m crazy’ - Fortune",
-            "description": "\"Some people think I’m crazy,\" chief executive Bjørn Gulden says.",
-            "url": "https://fortune.com/europe/2024/01/15/adidas-ceo-bjorn-gulden-gives-number-60000-employees-boost-moral-kanye-west-crisis/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1782807610-e1705318589101.jpg?resize=1200,600",
-            "publishedAt": "2024-01-15T11:38:00Z",
-            "content": "Whats a CEO to do when staff morale is low? Some might dish out free lunches or provide an all-expenses paid trip to Disneyland. Adidas CEO Bjørn Gulden did something much more drastic. The professio… [+3185 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "nj.com"
             },
@@ -534,6 +625,19 @@
             "urlToImage": "https://www.nj.com/resizer/ur9hUSDl_D7P9ohDiZOOACvqT0o=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EQG6IHW6TBHN5GRAKABWIXIAJY.jpg",
             "publishedAt": "2024-01-15T11:33:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "George Budwell",
+            "title": "5 Biotech Stocks That Could Be Big Winners in 2024 and Beyond - The Motley Fool",
+            "description": "These five biotech companies could have a lot of room to run.",
+            "url": "https://www.fool.com/investing/2024/01/15/5-biotech-stocks-that-could-be-big-winners-in-2024/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/761232/biotech-researcher.jpg",
+            "publishedAt": "2024-01-15T11:30:00Z",
+            "content": "Biotech could be on the verge of a major comeback in 2024. The main reason for this expected turnaround is the high likelihood that the Federal Reserve will start to cut interest rates this year, and… [+3292 chars]"
         },
         {
             "source": {
@@ -550,29 +654,16 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Junko Ogura, Marc Stewart",
-            "title": "Cracked window on Boeing 737 forces All Nippon Airways flight to turn back - CNN",
-            "description": "A domestic flight operated by Japanese carrier All Nippon Airways (ANA) returned to its departure airport on Saturday after a crack was found in a window in the cockpit of the Boeing 737-800 plane, the airline said Monday.",
-            "url": "https://www.cnn.com/2024/01/15/business/japan-ana-boeing-cockpit-window-cracked-hnk-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240115091941-all-nippon-airways-fil3-112921.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-01-15T11:22:00Z",
-            "content": "A domestic flight operated by Japanese carrier All Nippon Airways (ANA) returned to its departure airport on Saturday after a crack was found in a window in the cockpit of the Boeing 737-800 plane, t… [+1545 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBC4 WCMH-TV"
-            },
-            "author": "Jackie Gillis, David Rees",
-            "title": "‘Blue Monday’? Some say third Monday of January is most depressing day of the year - NBC4 WCMH-TV",
-            "description": "COLUMBUS, Ohio (WCMH) — Infamously known as “Blue Monday,” the third Monday of January is regarded as the most depressing day of the year. The term gained traction in 2005 by a travel company that was capitalizing on the best time for travelers to book getawa…",
-            "url": "https://www.nbc4i.com/news/local-news/columbus/blue-monday-some-say-third-monday-of-january-is-most-depressing-day-of-the-year/",
-            "urlToImage": "https://www.nbc4i.com/wp-content/uploads/sites/18/2024/01/Depressed-person-adobe-stock.png?w=1280",
-            "publishedAt": "2024-01-15T10:30:00Z",
-            "content": "COLUMBUS, Ohio (WCMH) — Infamously known as “Blue Monday,” the third Monday of January is regarded as the most depressing day of the year. \r\nThe term gained traction in 2005 by a travel company that … [+2919 chars]"
+            "author": "Reuters",
+            "title": "Record budget for Gates Foundation as wider global health funding stalls - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/record-budget-gates-foundation-wider-global-health-funding-stalls-2024-01-15/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-15T11:00:13Z",
+            "content": null
         },
         {
             "source": {
@@ -602,42 +693,16 @@
         },
         {
             "source": {
-                "id": "fortune",
-                "name": "Fortune"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Heejin Kim, Bloomberg",
-            "title": "Hyundai will give U.S. EV buyers as much as $7,500 in cash bonuses to compete with domestic autos that qualify for tax credits - Fortune",
-            "description": "Hyundai’s EVs couldn’t meet the requirements under the clean vehicle tax credit program, which aims to encourage domestic production of EVs.",
-            "url": "https://fortune.com/asia/2024/01/15/hyundai-us-ev-buyers-7500-cash-bonuses-compete-domestic-autos-tax-credits/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1915753010-e1705312055173.jpg?resize=1200,600",
-            "publishedAt": "2024-01-15T09:49:00Z",
-            "content": "[hotlink]Hyundai Motor[/hotlink] Co. will give as much as $7,500 in cash bonuses for electric-vehicle buyers in the US, seeking to keep its cars competitive with automakers qualifying for tax credits… [+1181 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Ruxandra Iordache",
-            "title": "Germany skirts recession at the end of 2023 but faces prolonged slump - CNBC",
-            "description": "The estimate is in line with the expectations of analysts polled by Reuters.",
-            "url": "https://www.cnbc.com/2024/01/15/germanys-economy-shrinks-by-0point3percent-in-2023.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107319791-1697701953835-gettyimages-1718589252-mt-cabinet-meeting001.jpeg?v=1705308325&w=1920&h=1080",
-            "publishedAt": "2024-01-15T09:15:16Z",
-            "content": "German Chancellor, Olaf Scholz arrives for the weekly federal government cabinet meeting on Oct. 11, 2023 in Berlin, Germany.\r\nEurope's largest economy contracted by 0.3% year-on-year in 2023, as hig… [+3862 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Giulia Carbonaro",
-            "title": "Americans Can No Longer Afford Their Cars - Newsweek",
-            "description": "Just 10% of new car listings are currently priced below the $30,000 mark, after years of price increases have made vehicles unaffordable to millions.",
-            "url": "https://www.newsweek.com/americans-can-no-longer-afford-their-cars-1859929",
-            "urlToImage": "https://d.newsweek.com/en/full/2334531/car-showcase.jpg",
-            "publishedAt": "2024-01-15T08:00:02Z",
-            "content": "For decades, car ownership has been a trademark of the American lifestyle, with vehicles becoming symbols of freedom, independence and even rebellion, as well as a necessity. But in 2024, the country… [+5109 chars]"
+            "author": "Nimesh Vora",
+            "title": "Investors bet via options that India's rupee will rise - Reuters",
+            "description": "Investors are betting that India's rupee will break out of its narrow range and rally this year, and are expressing that view via currency options.",
+            "url": "https://www.reuters.com/markets/currencies/investors-bet-via-options-that-indias-rupee-will-rise-2024-01-15/",
+            "urlToImage": "https://www.reuters.com/resizer/XiWxpvmxnuMAfD4xNLoz01Inb48=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TGJDEYGDQFO3NDY6QMX466DGLM.jpg",
+            "publishedAt": "2024-01-15T07:13:17Z",
+            "content": "MUMBAI, Jan 15 (Reuters) - Investors are betting that India's rupee will break out of its narrow range and rally this year, and are expressing that view via currency options.\r\nVolumes in the dollar-r… [+3018 chars]"
         },
         {
             "source": {
@@ -668,41 +733,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Morning Brew"
             },
-            "author": "Yahoo Finance",
-            "title": "Bone-Chilling Cold Tests Power Grids From Texas to Alberta - Yahoo Finance",
+            "author": "Morning Brew",
+            "title": "Tech companies start 2024 with a wave of job cuts - Morning Brew",
             "description": null,
-            "url": "https://finance.yahoo.com/news/bone-chilling-cold-tests-power-232315794.html",
+            "url": "https://www.morningbrew.com/daily/stories/2024/01/14/tech-companies-start-2024-with-a-wave-of-job-cuts",
             "urlToImage": null,
-            "publishedAt": "2024-01-15T00:30:00Z",
+            "publishedAt": "2024-01-15T02:26:15Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "The Seattle Times"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Daniel Beekman",
-            "title": "Seattle's minimum-pay law for delivery-app drivers takes effect - The Seattle Times",
-            "description": "Seattle Mayor Bruce Harrell hailed the law, meant to boost pay for gig workers. Delivery-app companies blasted it as they raised fees on customers.",
-            "url": "https://www.seattletimes.com/seattle-news/politics/seattles-minimum-pay-law-for-delivery-app-drivers-takes-effect/",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/01/01142024_Delivery_tzr_145552.jpg?d=1200x630",
-            "publishedAt": "2024-01-14T23:31:55Z",
-            "content": "Drivers for delivery apps like DoorDash and Instacart are now entitled to minimum pay in Seattle, based on a law that took effect Saturday.\r\nMayor Bruce Harrell is celebrating the law that the City C… [+2773 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Oliver Darcy",
-            "title": "Business Insider stands by reporting on Bill Ackman’s wife, Neri Oxman, says stories ‘are accurate’ with ‘no unfair bias’ - CNN",
-            "description": "Business Insider and its parent company, Axel Springer, said Sunday that they stood by the outlet’s reporting that uncovered Neri Oxman, a prominent former professor at the Massachusetts Institute of Technology and the wife of Bill Ackman, had plagiarized in …",
-            "url": "https://www.cnn.com/2024/01/14/business/neri-oxman-business-insider-plagiarism/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240114111744-restricted-neri-oxman-may-2022.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-01-14T23:10:00Z",
-            "content": "Business Insider and its parent company, Axel Springer, said Sunday that they stood by the outlets reporting that Neri Oxman, a prominent former professor at the Massachusetts Institute of Technology… [+2883 chars]"
+            "author": "Brian Eckhouse and Naureen S. Malik",
+            "title": "Bone-Chilling Cold Tests Power Grids From Texas to Alberta - Yahoo Finance",
+            "description": "(Bloomberg) -- An Arctic blast that’s sweeping through North America is heightening the risk of blackouts. With more cold still in the forecast, electric...",
+            "url": "https://finance.yahoo.com/news/bone-chilling-cold-tests-power-232315794.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Bm9T5_PcllhZ8JJAGXgaCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTQ-/https://media.zenfs.com/en/bloomberg_markets_842/3bb51aa8372875150737ff1c888bc75a",
+            "publishedAt": "2024-01-15T00:30:00Z",
+            "content": "(Bloomberg) -- An Arctic blast thats sweeping through North America is heightening the risk of blackouts. With more cold still in the forecast, electric grids from Texas to Alberta will continue to b… [+5043 chars]"
         },
         {
             "source": {
@@ -732,32 +784,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Investopedia"
-            },
-            "author": "Terry Lane",
-            "title": "What To Expect in the Markets This Week - Investopedia",
-            "description": "Coming up: A government shutdown deadline, the Davos conference, more bank earnings, and the latest housing data.",
-            "url": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-8425873",
-            "urlToImage": "https://www.investopedia.com/thmb/_v9DoIBKzA6BDfDA4M0dZ8cCKrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_WEF_DavosSign_GettyImages-1920168250-7fa9844cde014784a8afdb07a435fb23.jpg",
-            "publishedAt": "2024-01-14T20:49:30Z",
-            "content": "<ul><li>Markets are closed on Monday, Jan. 15, for Martin Luther King Jr. Day. </li><li>The World Economic Forum in Davos looks to address artificial intelligence (AI) and global stability concerns.<… [+5302 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Denver Post"
-            },
-            "author": "Megan Ulu-Lani Boyanton",
-            "title": "Hundreds of flight cancellations, delays continue at Denver International Airport in weekend freeze - The Denver Post",
-            "description": "Numerous flight cancellations and delays have inconvenienced travelers at Denver International Airport on Sunday as the weekend’s freezing temperatures continue.",
-            "url": "https://www.denverpost.com/2024/01/14/denver-international-airport-sunday-cancellations-delays-weather/",
-            "urlToImage": "https://www.denverpost.com/wp-content/uploads/2023/11/Holiday_Travel_03759.jpg?w=1024&h=683",
-            "publishedAt": "2024-01-14T18:07:55Z",
-            "content": "More than 150 flight cancellations and around 250 delays have inconvenienced travelers at Denver International Airport on Sunday as the weekend’s freezing temperatures continue.\r\nAs of 11 a.m. MST, 1… [+1470 chars]"
-        },
-        {
-            "source": {
                 "id": "buzzfeed",
                 "name": "Buzzfeed"
             },
@@ -771,42 +797,29 @@
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "Motley Fool"
             },
-            "author": "Allysia Finley",
-            "title": "Opinion | Hertz, Tesla and the Perils of CEO Groupthink - The Wall Street Journal",
-            "description": "The rental company was far from alone in making a losing bid on electric cars.",
-            "url": "https://www.wsj.com/articles/hertz-tesla-and-the-perils-of-groupthink-electric-vehicles-auto-industry-dd50c158",
-            "urlToImage": "https://images.wsj.net/im-912186/social",
-            "publishedAt": "2024-01-14T17:07:00Z",
-            "content": "Hertz announced to much fanfare on Oct. 25, 2021, that it planned to buy 100,000 Teslas. Electric vehicles are now mainstream, and weve only just begun to see rising global demand and interest, then-… [+615 chars]"
+            "author": "Neil Patel, The Motley Fool",
+            "title": "Can Costco Stock Hit $1,000 in 2024? - Yahoo Finance",
+            "description": "This winning stock might disappoint investors hoping for huge near-term gains.",
+            "url": "https://www.fool.com/investing/2024/01/14/can-costco-stock-hit-1000-in-2024/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article",
+            "urlToImage": "https://media.zenfs.com/en/motleyfool.com/a06afa635ebd548030f400a356aa7ba1",
+            "publishedAt": "2024-01-14T15:45:00Z",
+            "content": "Costco(NASDAQ: COST) finished off 2023 with another stellar performance. The stock climbed nearly 45% amid renewed investor sentiment. This beat the 24% gain of the S&amp;P 500.\r\nAs of this writing, … [+4565 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Rachel Curry",
-            "title": "After big tech layoffs, Silicon Valley may have lost its monopoly on workers - CNBC",
-            "description": "Technology workers are trading the prospect of high-growth equity and household-name employment for more predictable compensation and stability.",
-            "url": "https://www.cnbc.com/2024/01/14/after-big-tech-layoffs-silicon-valley-loses-its-monopoly-on-workers.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107349685-1703017804038-gettyimages-1867973096-js1_8528_ebmifz4f.jpeg?v=1703017916&w=1920&h=1080",
-            "publishedAt": "2024-01-14T15:07:02Z",
-            "content": "An Android character is displayed at Google headquarters on December 19, 2023 in Mountain View, California. \r\nAfter a year defined by mass layoffs among Silicon Valley giants, technology workers are … [+5957 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SFGate"
-            },
-            "author": "ANNE D'INNOCENZIO and ALEXANDRA OLSON",
-            "title": "DEI opponents are using a 1866 Civil Rights law to challenge equity policies in the workplace - SFGATE",
-            "description": "Opponents of diversity programs are increasingly banking on an 1866 civil rights law meant...",
-            "url": "https://www.sfgate.com/business/article/dei-opponents-are-using-a-1866-civil-rights-law-18607759.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/35/73/60/24624145/6/rawImage.jpg",
-            "publishedAt": "2024-01-14T13:21:25Z",
-            "content": "NEW YORK (AP) Opponents of workplace diversity programs are increasingly banking on a section of the Civil Rights Act of 1866 to challenge equity policies as well as funding to minority-owned busines… [+6661 chars]"
+            "author": "Annika Kim Constantino",
+            "title": "Biotech and pharma companies are betting on a promising class of cancer drugs to drive growth - CNBC",
+            "description": "The JPMorgan Healthcare Conference was likely just the beginning of another year of heightened interest and investments in ADC cancer drugs.",
+            "url": "https://www.cnbc.com/2024/01/14/cancer-drugs-renewed-interest-in-adcs-will-continue-in-2024.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107238280-1683650170075-gettyimages-1238822565-20090101220228-99-316819.jpeg?v=1705225358&w=1920&h=1080",
+            "publishedAt": "2024-01-14T13:12:40Z",
+            "content": "Medical personnel use a mammogram to examine a woman's breast for breast cancer.\r\nSAN FRANCISCO An establishedbut promising group of cancer drugs was a red-hot market in 2023, and more companies coul… [+7572 chars]"
         },
         {
             "source": {
@@ -820,19 +833,6 @@
             "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ffd992914-a5f3-42da-975a-a355bf964446.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
             "publishedAt": "2024-01-14T12:00:01Z",
             "content": "Adebayo Ogunlesi, co-founder of Global Infrastructure Partners, credits his wife Amelia for a career switch that led on Friday to a $12.5bn deal and a leadership position at BlackRock, the worlds lar… [+7989 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Kayla Bailey",
-            "title": "Jamie Dimon weighs in on AI, says only ‘God knows’ what the tech will do for humanity - Fox Business",
-            "description": "Banking industry leader Jamie Dimon reveals his most pressing concerns regarding artificial intelligence and its predicted impact on the banking sector.",
-            "url": "https://www.foxbusiness.com/technology/jamie-dimon-ai-only-god-knows-tech-humanity",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/12/0/0/Jamie-Dimon-testimony.jpg?ve=1&tl=1",
-            "publishedAt": "2024-01-14T12:00:00Z",
-            "content": "As artificial intelligence continues to revolutionize the world around us, JPMorgan Chase CEO Jamie Dimon predicts that the technology will have a \"tremendous\" impact on healthcare and finance.\r\nHOW … [+3018 chars]"
         },
         {
             "source": {

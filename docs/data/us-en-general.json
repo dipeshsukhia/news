@@ -4,42 +4,198 @@
     "articles": [
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Luis Martinez, Anne Flaherty",
-            "title": "US, UK stage multiple airstrikes against Iran-backed Houthi militants in Yemen - ABC News",
-            "description": "The White House on Monday insisted the strikes have been effective.",
-            "url": "https://abcnews.go.com/Politics/us-uk-stage-multiple-airstrikes-iran-backed-houthi/story?id=106571848",
-            "urlToImage": "https://i.abcnewsfe.com/a/01018bec-fc24-492d-86f7-aaeb94a1e3bf/houthis-yemen-gaza-ap-lv-240122_1705950596409_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-01-23T06:18:20Z",
-            "content": "The U.S. and U.K. on Monday staged airstrikes against eight locations in Yemen aimed at stopping Iran-backed Houthi militants from attacking ships in the Red Sea.\r\nThe White House has insisted the re… [+3924 chars]"
+            "author": "Amelia Lucas",
+            "title": "Procter & Gamble revenue rises 3%, short of expectations - CNBC",
+            "description": "Procter & Gamble on Tuesday reported mixed quarterly earnings and revenue for its fiscal second quarter.",
+            "url": "https://www.cnbc.com/2024/01/23/procter-gamble-pg-q2-2024-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107362628-1705956711276-gettyimages-1781339106-vcg111463363195.jpeg?v=1705956789&w=1920&h=1080",
+            "publishedAt": "2024-01-23T12:01:25Z",
+            "content": "Procter &amp; Gamble on Tuesday reported mixed quarterly earnings and revenue for its fiscal second quarter of 2024 as price hikes helped boost revenue 3%. \r\nThe company also narrowed its outlook for… [+2786 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Doc Louallen",
+            "title": "Powerball winning numbers for 1/22/24 drawing: Jackpot at $145 million - USA TODAY",
+            "description": "Did you play the Powerball lottery on Jan. 22, 2024? See the winning numbers.",
+            "url": "https://www.usatoday.com/story/money/lottery/2024/01/22/powerball-winning-numbers/72318488007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/12/14/USAT/71925092007-112823-powerball-093023-draw-1-million-waleed-abdulshafi-wayne-county.jpg?crop=631,356,x0,y145&width=631&height=356&format=pjpg&auto=webp",
+            "publishedAt": "2024-01-23T11:54:08Z",
+            "content": "The Powerball jackpot for Wednesday's drawing rose to $145 million after no winner emerged from Monday's drawing.\r\nThe winning numbers were chosen just after 11 p.m. ET on Monday, and we have the res… [+3455 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan, Wayne Chang",
+            "title": "Death toll rises to 25 after landslide buries dozens in southwest China in freezing winter temperatures - CNN",
+            "description": "The death toll from a landslide in southwestern China has reached 25, with 19 people still unaccounted for, state broadcaster CCTV reported Tuesday.",
+            "url": "https://www.cnn.com/2024/01/22/china/china-yunnan-landslide-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240122105748-01-china-landslide-rescue-012224.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-23T11:10:00Z",
+            "content": "The death toll from a landslide in southwestern China has reached 25 as rescuers continue to comb mud, snow and rubble in search of survivors.\r\nThere are 19 people still unaccounted for, reported sta… [+1745 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "NICK PERRY",
+            "title": "Nikki Haley sweeps Dixville Notch's primary, winning all 6 votes - The Associated Press",
+            "description": "All six registered voters of Dixville Notch cast their ballots for Nikki Haley. The midnight voters were outnumbered more than 10 to one on Tuesday by reporters, not to mention by a pile of freshly baked chocolate chip cookies. The New Hampshire resort commun…",
+            "url": "https://apnews.com/article/dixville-notch-primary-voting-new-hampshire-tuesday-0f7f420054403510364469ad52255270",
+            "urlToImage": "https://dims.apnews.com/dims4/default/42a5164/2147483647/strip/true/crop/5094x2865+0+265/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2F18%2Fb827a56a16bfc554782993480c4a%2F834e02bfafdf4ffe869b03e763aaf704",
+            "publishedAt": "2024-01-23T10:43:00Z",
+            "content": "DIXVILLE NOTCH, N.H. (AP) The six registered voters of tiny Dixville Notch in New Hampshire all cast their ballots for Nikki Haley at midnight on Tuesday, giving her a clean sweep over former Preside… [+1877 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "US and UK launch fresh strikes on Houthis in Yemen - BBC.com",
+            "description": "The second joint operation between the US and UK targets underground storage and missiles, they say.",
+            "url": "https://www.bbc.com/news/world-middle-east-68064422",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C292/production/_132401894_mediaitem132401892.jpg",
+            "publishedAt": "2024-01-23T10:35:00Z",
+            "content": "By Ruth Comerford &amp; Frank Gardner, security correspondentBBC News\r\nWatch: Explosions and flashes near Yemen's capital\r\nThe US and UK have conducted a fresh series of joint air strikes against Hou… [+7030 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Kaia Hubbard",
-            "title": "What is Dixville Notch? Why a small New Hampshire town holds its primary voting at midnight - CBS News",
-            "description": "The unincorporated township has been casting the first votes in the New Hampshire primary for more than six decades.",
-            "url": "https://www.cbsnews.com/news/dixville-notch-new-hampshire-voting-primary/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/22/bd11bb6f-576e-4d04-af68-cd00fd5243d9/thumbnail/1200x630/c584f321743c97f1c58a33ba53631411/gettyimages-1200188898.jpg?v=1acc31b0e955989267fc7dd28b496c5e",
-            "publishedAt": "2024-01-23T05:24:00Z",
-            "content": "Deep in New Hampshire's North Country, a handful of civic-minded Americans in a small town called Dixville Notch gathered late into the night on Monday to cast the first votes of the state's 2024 pri… [+7942 chars]"
+            "author": "Camilo Montoya-Galvez",
+            "title": "Supreme Court says Biden administration can remove razor wire that Texas installed along border - CBS News",
+            "description": "Texas has assembled razor wire along some sections of the U.S.-Mexico border to try to deter migrants from entering the country illegally.",
+            "url": "https://www.cbsnews.com/news/supreme-court-texas-razor-wire-case-us-mexico-border/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/30/254b1123-8420-45be-91ff-b2544e1d91cd/thumbnail/1200x630/9eeefccb516e548d0a99069636fe9f88/gettyimages-1707222957.jpg?v=1acc31b0e955989267fc7dd28b496c5e",
+            "publishedAt": "2024-01-23T08:59:00Z",
+            "content": "The Supreme Court on Monday allowed federal immigration agents to remove the razor wire that Texas state officials have set up along some sections of the U.S.-Mexico border to try to discourage migra… [+5165 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "The Wall Street Journal",
-            "title": "A War in All but Name Simmers at Israel-Lebanon Border - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/world/middle-east/israel-border-lebanon-hezbollah-conflict-4565ee12",
-            "urlToImage": null,
-            "publishedAt": "2024-01-23T05:01:00Z",
+            "author": null,
+            "title": "United Airlines to lose money over Boeing groundings - BBC.com",
+            "description": "The airline is one of the biggest operators of Boeing 737 Max 9 jets and has had to cancel flights.",
+            "url": "https://www.bbc.com/news/business-68064948",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12BFF/production/_132399767_gettyimages-1935914834.jpg",
+            "publishedAt": "2024-01-23T08:18:08Z",
+            "content": "Copyright 2024 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.\r\nBeta Terms By using the Beta Site, you agree that… [+595 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China Weighs Stock Market Rescue Package Backed by $278 Billion - Bloomberg",
+            "description": "Chinese authorities are considering a package of measures to stabilize the slumping stock market, according to people familiar with the matter, after earlier attempts to restore investor confidence fell short and prompted Premier Li Qiang to call for “forcefu…",
+            "url": "https://www.bloomberg.com/news/articles/2024-01-23/china-mulls-stock-market-rescue-package-backed-by-278-billion",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiX1SbS5L08w/v0/1200x800.jpg",
+            "publishedAt": "2024-01-23T08:03:45Z",
+            "content": "Chinese authorities are considering a package of measures to stabilize the slumping stock market, according to people familiar with the matter, after earlier attempts to restore investor confidence f… [+562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Republicans unable to overcome constituents' Trump devotion fall in line - MSNBC",
+            "description": "Jonathan Martin, senior political columnist for Politico, talks with Jen Psaki about why so many Republicans are bending the knee to Donald Trump, in some ca...",
+            "url": "https://www.youtube.com/watch?v=Fvoio-91zm0",
+            "urlToImage": "https://i.ytimg.com/vi/Fvoio-91zm0/maxresdefault.jpg",
+            "publishedAt": "2024-01-23T08:01:57Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Axel Metz",
+            "title": "No, the Samsung Galaxy S22 isn't getting Galaxy AI features – here's why - TechRadar",
+            "description": "Exclusive: “We want to secure the quality and the performance of what we deploy\"",
+            "url": "https://www.techradar.com/phones/samsung-galaxy-phones/no-the-samsung-galaxy-s22-isnt-getting-galaxy-ai-features-heres-why",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tuJKqeB25jWVnN4JsiTRYk-1200-80.jpg",
+            "publishedAt": "2024-01-23T07:22:56Z",
+            "content": "The Samsung Galaxy S24 series launched last week with several AI-powered features in tow, and we now know that a select group of existing Samsung devices – including the Galaxy S23, Galaxy Z Fold 5 a… [+2602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The Bachelor Joey on First Episode, Living with His Sister & Jimmy Tries to Figure Out Who He Chose - Jimmy Kimmel Live",
+            "description": "Bachelor Joey talks about the premiere episode, being the runner-up on “The Bachelorette” with Charity, working as a tennis pro in Hawaii, living with his si...",
+            "url": "https://www.youtube.com/watch?v=blrdcK9uBBg",
+            "urlToImage": "https://i.ytimg.com/vi/blrdcK9uBBg/maxresdefault.jpg",
+            "publishedAt": "2024-01-23T07:00:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Shooting rampage suspect dead - KTLA 5",
+            "description": "A manhunt ended on Monday evening after a man connected to a string of attacks over two days in Joliet and Will County that left eight dead and one injured, ...",
+            "url": "https://www.youtube.com/watch?v=kiHF6Qjjm38",
+            "urlToImage": "https://i.ytimg.com/vi/kiHF6Qjjm38/maxresdefault.jpg",
+            "publishedAt": "2024-01-23T06:21:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Scott Thompson",
+            "title": "Sixers’ Joel Embiid breaks Wilt Chamberlain’s franchise record in masterful performance vs Spurs - Fox News",
+            "description": "Philadelphia 76ers big man Joel Embiid scored a franchise high 70 points against the San Antonio Spurs on Monday night, breaking Wilt Chamberlain's previous record.",
+            "url": "https://www.foxnews.com/sports/sixers-joel-embiid-breaks-wilt-chamberlains-franchise-record-masterful-performance-vs-spurs",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/Joel-Embiid-1.jpg",
+            "publishedAt": "2024-01-23T04:55:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+2626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Sabba Rahbar",
+            "title": "How Taylor Swift Reacted to Jason Kelce Lifting Up Little Girl at Game - E! NEWS",
+            "description": "Ella Piazza, 8, shared Taylor Swift's reaction after Travis Kelce's brother Jason Kelce lifted the little girl up to see Taylor at the Jan. 21 NFL game.",
+            "url": "https://www.eonline.com/news/1393633/8-year-old-girl-reveals-taylor-swifts-reaction-after-jason-kelce-lifted-her-up-to-nfl-suite",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024022/cr_1200x1200-240122182959-GettyImages-1943420167.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2024-01-23T04:51:57Z",
+            "content": "\"Taylor smiled,\" Ella shared, showing how the singer excitedly waved at her. \"She was so happy and she did like this with her hand.\"\r\nUpon getting back to her seat, Ella shed tears of joy. \"Like oh m… [+458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Rebecca Rubin",
+            "title": "What Scott Stuber’s Exit Means for Netflix’s Film Future - Variety",
+            "description": "How Scott Stuber's sudden departure will affect Netflix's film future.",
+            "url": "https://variety.com/2024/film/news/netflix-scott-stuber-exit-film-future-analysis-1235882609/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2021/07/Scott-Stuber-Netflix-Variety-Cover-Story-16x9-3.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-01-23T04:27:00Z",
+            "content": "If Hollywood executive shuffles were an Oscar category, Scott Stuber would take home the trophy for scene-stealing announcement.\r\nThe company’s long-time (at least by entertainment industry standards… [+6274 chars]"
         },
         {
             "source": {
@@ -56,16 +212,29 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "STEVE PEOPLES, HOLLY RAMER, MICHELLE L. PRICE, JILL COLVIN",
-            "title": "2024 New Hampshire primary: Haley urges Americans to stop Trump - The Associated Press",
-            "description": "On the eve of New Hampshire’s presidential primary, almost every top Republican has lined up behind former President Donald Trump. Polls in the state suggest he leads former South Carolina Gov. Nikki Haley by a lot. Haley is the last major challenger standing…",
-            "url": "https://apnews.com/article/republican-president-primary-new-hampshire-trump-haley-desantis-dbfeec2fa885f265fcf06f0ca7ea3b4a",
-            "urlToImage": "https://dims.apnews.com/dims4/default/8d43a1f/2147483647/strip/true/crop/3842x2161+0+200/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4b%2Ff7%2Fdea83e19f359c76ea074045a50a4%2F77a20073666146ca84da523eedd91bd2",
-            "publishedAt": "2024-01-23T03:29:00Z",
-            "content": "LACONIA, N.H. (AP) As the last major challenger in Donald Trump s way to the Republican nomination, Nikki Haley is hoping New Hampshire voters feel so strongly about keeping the former president away… [+6846 chars]"
+            "author": "Gene Park",
+            "title": "‘Palworld,’ a divisive Pokémon lookalike, is 2024’s first viral hit game - The Washington Post",
+            "description": "At more than a million concurrent players, “Palworld” become the world’s most popular game in a weekend.",
+            "url": "https://www.washingtonpost.com/entertainment/video-games/2024/01/22/palworld-pokemon-viral-sales/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P6GG7ZLMLRBHLAYVEDXO5Z734M.jpg&w=1440",
+            "publishedAt": "2024-01-23T03:45:00Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nIf you hibernated this past weekend and just woke up, welcome to a post-Palworld society.\r\nPalworld emerged seemingly out of nowhere o… [+5424 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Chris Finch on loss after Karl-Anthony Town's 62 - 'Immature basketball' - ESPN",
+            "description": "Chris Finch lit into his team for playing \"immature\" after letting the Hornets storm back for the win amid Karl-Anthony Towns' 62-point performance.",
+            "url": "https://www.espn.com/nba/story/_/id/39366606/chris-finch-loss-karl-anthony-town-62-immature-basketball",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0123%2Fr1281104_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-01-23T03:32:00Z",
+            "content": "Jan 22, 2024, 10:32 PM ET\r\nMINNEAPOLIS -- Karl-Anthony Towns scored a franchise-record 62 points, including 44 in the first half, but the Charlotte Hornets erased an 18-point deficit and stunned the … [+2909 chars]"
         },
         {
             "source": {
@@ -82,19 +251,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Mia Galuppo, Aaron Couch",
-            "title": "Scott Stuber Departing Netflix as Film Head - Hollywood Reporter",
-            "description": "The executive, who has been in his post since 2017, is forming his own company.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/scott-stuber-departing-netflix-as-film-head-4072996/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2020/10/GettyImages-1205149441-H-2020-1601930338.jpg?w=1024",
-            "publishedAt": "2024-01-23T03:19:48Z",
-            "content": "Scott Stuber, who pushed Netflix to expand into blockbuster movie territory, is stepping down from the streaming service’s top film job to form his own media company.\r\nStuber will remain with the str… [+4480 chars]"
-        },
-        {
-            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
@@ -108,29 +264,16 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "NBC 5 Dallas-Fort Worth"
             },
-            "author": "HILLEL ITALIE",
-            "title": "Norman Jewison, acclaimed director of 'In the Heat of the Night' and 'Moonstruck,' dead at 97 - The Associated Press",
-            "description": "Filmmaker Norman Jewison has died at 97. The Canadian-born director’s work ranged from Doris Day comedies and “Moonstruck” to social dramas such as the Oscar-winning “In the Heat of the Night.\" Jewison was a three-time Oscar nominee who in 1999 received an ho…",
-            "url": "https://apnews.com/article/norman-jewison-dead-abd93f2b671b416aabdd83829822e14a",
-            "urlToImage": "https://dims.apnews.com/dims4/default/cbf622c/2147483647/strip/true/crop/2948x1658+0+236/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2F15%2F43cf713c8977c8eaf5d419d6d23d%2F0af78e67bf8a43ed856225a31d428465",
-            "publishedAt": "2024-01-23T02:55:00Z",
-            "content": "NEW YORK (AP) Norman Jewison, the acclaimed and versatile Canadian-born director whose Hollywood films ranged from Doris Day comedies and Moonstruck to such social dramas as the Oscar-winning In the … [+5974 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Tim Bontemps",
-            "title": "Philadelphia 76ers star Joel Embiid drops 70 on Spurs in win - ESPN",
-            "description": "Joel Embiid had 70 points, 18 rebounds and 5 assists -- a stat line that's never been seen before in NBA history -- in the Sixers' 133-123 win over the Spurs on Monday.",
-            "url": "https://www.espn.com/nba/story/_/id/39366170/philadelphia-76ers-star-joel-embiid-drops-70-spurs-win",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0123%2Fr1281094_1024x576_16%2D9.jpg",
-            "publishedAt": "2024-01-23T02:43:00Z",
-            "content": "PHILADELPHIA -- Joel Embiid scored 70 points to surpass Wilt Chamberlain and set a new franchise record for points in a single game, leading the Philadelphia 76ers to a 133-123 victory over the San A… [+2880 chars]"
+            "author": "NBCDFW Staff",
+            "title": "Navy SEAL lost at sea during maritime ship raid near Somalia identified as North Texan - NBC 5 Dallas-Fort Worth",
+            "description": "One of the two Navy SEALs presumed dead after being lost at sea during a nighttime raid near Somalia was identified as a North Texan.",
+            "url": "http://www.nbcdfw.com/news/local/navy-seal-lost-at-sea-during-maritime-ship-raid-identified-as-north-texan-declared-dead/3441389/",
+            "urlToImage": "https://media.nbcdfw.com/2024/01/Nathan-Gage-Ingram.png?resize=1200%2C675&quality=85&strip=all",
+            "publishedAt": "2024-01-23T02:48:45Z",
+            "content": "One of the two Navy SEALs presumed dead after being lost at sea during a nighttime raid near Somalia was identified as a North Texan.\r\nOn the night of Jan.11, Special Warfare Operator 2nd Class Natha… [+2182 chars]"
         },
         {
             "source": {
@@ -147,42 +290,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "MLB.com"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Henry Palattella, Jake Crouse",
-            "title": "Pirates agree to deal with Aroldis Chapman (source) - MLB.com",
-            "description": "The Pirates’ bullpen entered the offseason as arguably the club's greatest strength, and now they’ve bolstered it further, reaching an agreement on a one-year, $10.5 million contract with free-agent reliever Aroldis Chapman, a source told MLB.com's Mark Feins…",
-            "url": "https://www.mlb.com/news/aroldis-chapman-pirates-deal",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/pvsjjxldv18fmzrpf2n4.jpg",
-            "publishedAt": "2024-01-23T01:54:00Z",
-            "content": "The Pirates bullpen entered the offseason as arguably the club's greatest strength, and now theyve bolstered it further, reaching an agreement on a one-year, $10.5 million contract with free-agent re… [+2377 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Victoria Hernandez",
-            "title": "Tyler Bass deactivates social media; Bills fans donate in support - USA TODAY",
-            "description": "Bills Mafia rallied around kicker Tyler Bass by donating to a local cat shelter. He deactivated his social media accounts after missing a field goal.",
-            "url": "https://www.usatoday.com/story/sports/nfl/bills/2024/01/22/tyler-bass-deactivates-social-media-wide-right-kick/72318413007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/23/USAT/72318537007-usatsi-22346580.jpg?crop=3611,2031,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2024-01-23T01:38:37Z",
-            "content": "Buffalo Bills kicker Tyler Bass has deactivated his social media accounts after missing a potential game-tying field goal in the team's 27-24 loss to the Kansas City Chiefs in the divisional round of… [+1668 chars]"
+            "author": "Amrita Khalid",
+            "title": "Apple tells artists how much more money they can make with spatial audio - The Verge",
+            "description": "Apple Music will increase royalties for artists who release their tracks in spatial audio formats starting this month. They can make up to 10 percent more just for including it.",
+            "url": "https://www.theverge.com/2024/1/22/24047461/apple-music-spatial-audio-royalties-dolby-atmos-streaming",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/CA-jNOWVx4JuAh_Qtq-kTe0aSK8=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23925979/acastro_STK046_03.jpg",
+            "publishedAt": "2024-01-23T01:43:00Z",
+            "content": "Apple tells artists how much more money they can make with spatial audio\r\nApple tells artists how much more money they can make with spatial audio\r\n / The 10 percent increased payout will apply to al… [+2083 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Page Six"
+                "name": "Earth.com"
             },
-            "author": "Vanessa Serna",
-            "title": "How Travis Kelce felt about brother Jason taking off his shirt during Chiefs vs. Bills game - Page Six",
-            "description": "The Eagles center went viral after he tore his shirt off and jumped into the crowd following the Chief’s win against Bills.",
-            "url": "https://pagesix.com/2024/01/22/celebrity-news/how-travis-kelce-felt-about-brother-jason-taking-off-his-shirt-during-chiefs-vs-bills-game/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/01/75326811.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-01-23T01:28:00Z",
-            "content": "Travis Kelce thought Jason Kelce’s behavior during the Kansas City Chiefs versus Buffalo Bills game on Sunday was very fitting.\r\nJust moments after the game had ended, the tight end was told by Westw… [+2661 chars]"
+            "author": null,
+            "title": "Ongoing solar storms: Spectacular auroras and radio blackouts - Earth.com",
+            "description": "The Earth is currently experiencing a series of solar storms, raising concerns about potential technological disruptions",
+            "url": "https://www.earth.com/news/ongoing-solar-storms-spectacular-auroras-and-radio-blackouts/",
+            "urlToImage": "https://cff2.earth.com/uploads/2024/01/22183509/Solar-storms2-scaled.jpg",
+            "publishedAt": "2024-01-23T01:36:37Z",
+            "content": "The Earth is currently experiencing a series of solar storms, raising concerns about potential technological disruptions and offering the chance to witness stunning auroras. \r\nOver the weekend, the S… [+3896 chars]"
         },
         {
             "source": {
@@ -199,81 +329,29 @@
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": null,
+                "name": "Sports Illustrated"
             },
-            "author": "Hunter Woodall",
-            "title": "Why Joe Biden isn't on the 2024 New Hampshire primary ballot—and what it means for the election - CBS News",
-            "description": "Allies want voters to write Joe Biden in on the 2024 New Hampshire primary election ballot anyway.",
-            "url": "https://www.cbsnews.com/news/joe-biden-not-on-new-hampshire-primary-ballot-2024/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/22/5d482d0b-f265-4703-82b6-07b3255d21d3/thumbnail/1200x630g1/74e6cc178214d870bc21d27459dd4da8/gettyimages-1953170682.jpg?v=1acc31b0e955989267fc7dd28b496c5e",
-            "publishedAt": "2024-01-23T00:05:00Z",
-            "content": "The last time Joe Biden ran in the New Hampshire primary he didn't stick around to see the results. \r\nFor the state's 2024 primary, his name isn't even on the ballot.\r\nBack in 2020 he was a supposed … [+10270 chars]"
+            "author": "Ian Casselberry",
+            "title": "Bills Fans Support Tyler Bass by Donating to Local Animal Charity - Sports Illustrated",
+            "description": "The Bills kicker has been public about his love for cats.",
+            "url": "https://www.si.com/nfl/2024/01/23/bills-fans-support-tyler-bass-donating-local-animal-charity",
+            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAzNzk4NDk1MTk3NDA2Nzgw/tyler-bass-012124.jpg",
+            "publishedAt": "2024-01-23T00:28:28Z",
+            "content": "Tyler Bass might not be the most popular figure in Buffalo after missing a game-tying, 44-yard field goal in the Bills’ 27–24 divisional round playoff loss to the Kansas City Chiefs. \r\nHowever, some … [+1234 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "9to5Mac"
             },
-            "author": "Megan Palin, Priscilla DeGregory, Marjorie Hernandez",
-            "title": "Details of Fani Willis’ ‘improper’ relationship with prosecutor go public as bombshell divorce docs unsealed - New York Post ",
-            "description": "Wade had asked for his divorce from wife of 26-years, Joycelyn Wade, be sealed after he was hired to head up the prosecution of Donald Trump and co-defendants on counts of election fraud, but a jud…",
-            "url": "https://nypost.com/2024/01/22/news/divorce-file-at-center-of-fani-willis-relationship-claims-released/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/willis-wade-comp2_096080.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-01-23T00:00:00Z",
-            "content": "Explosive divorce documents which could derail the election fraud case against Donald Trump in Georgia were unsealed by a judge Monday.\r\nEvidence of Fulton County District Attorney Fani Willis relati… [+7495 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Emily Bary",
-            "title": "Morgan Stanley's new top software pick is a familiar winner - MarketWatch",
-            "description": "Salesforce’s stock rallied last year amid profit improvements — but Morgan Stanley thinks new factors could drive a further run",
-            "url": "https://www.marketwatch.com/story/morgan-stanleys-new-top-software-pick-is-a-familiar-winner-ecf7e0a9",
-            "urlToImage": "https://images.mktw.net/im-76400187/social",
-            "publishedAt": "2024-01-22T23:49:00Z",
-            "content": "Shares of Salesforce Inc. are up 85% over the past 12 months, but Morgan Stanley sees plenty of juice left in their rally. Analyst Keith Weiss tabbed the stock as his top pick Monday, reiterating his… [+1543 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WPVI-TV"
-            },
-            "author": null,
-            "title": "Could a solar storm this week cause tech disruptions? NOAA expert explains - WPVI-TV",
-            "description": "The coronal mass ejection (CME) is expected to cause a moderate solar storm here on Earth on Monday and Tuesday, according to NOAA.",
-            "url": "https://6abc.com/solar-storm-coronal-mass-ejection-aurora-forecast/14350720/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/14350717_solar-storm-proper-fit.jpg?w=1600",
-            "publishedAt": "2024-01-22T23:37:02Z",
-            "content": "Earth is in the midst of a moderate solar storm - but will it be strong enough to cause technology disruptions?\r\nThe National Oceanic and Atmospheric Administration's (NOAA) Space Weather Prediction … [+5431 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Palworld Sells 5 Million Copies Over the Weekend, Devs Get Death Threats - IGN Daily Fix - IGN",
-            "description": "In today's Daily Fix:Palworld sold 5 million copies across Steam and Xbox over the weekend, making it a certified smash hit. But not everyone's happy. Appare...",
-            "url": "https://www.youtube.com/watch?v=mODSSy9cnUk",
-            "urlToImage": "https://i.ytimg.com/vi/mODSSy9cnUk/maxresdefault.jpg",
-            "publishedAt": "2024-01-22T23:15:42Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Julie Hyman",
-            "title": "United Airlines will be 'prepared' for 2024 earnings losses - Yahoo Finance",
-            "description": "United Airlines (UAL) shares moved higher in Monday's after-hours session after reporting a fourth-quarter 2024 earnings beat. The airline operator is...",
-            "url": "https://finance.yahoo.com/video/united-airlines-prepared-2024-earnings-230408286.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/X7Koiv8MIJTXxSuX48QLww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/3c2db080-b97a-11ee-be31-b6472499ba07",
-            "publishedAt": "2024-01-22T23:04:08Z",
-            "content": "United Airlines (UAL) shares moved higher in Monday's after-hours session after reporting a fourth-quarter 2024 earnings beat. The airline operator is predicting less than stellar results for its fir… [+4118 chars]"
+            "author": "Chance Miller",
+            "title": "First Apple Vision Pro pre-orders now shipping to buyers for February 2 launch - 9to5Mac",
+            "description": "After pre-orders kicked off on Friday, the first Apple Vision Pro shipments are on their way to early buyers. Vision...",
+            "url": "https://9to5mac.com/2024/01/22/vision-pro-pre-orders-now-shipping/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/apple-vision-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-01-22T23:30:00Z",
+            "content": "After pre-orders kicked off on Friday, the first Apple Vision Pro shipments are on their way to early buyers. Vision Pro orders are departing Apple’s facilities via UPS, and here’s how you can check … [+1751 chars]"
         },
         {
             "source": {
@@ -290,29 +368,29 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Nadeen Ebrahim",
-            "title": "Netanyahu touts ‘initiative’ to free hostages in Gaza as pressure mounts - CNN",
-            "description": "Israel has offered a two-month ceasefire to Hamas as part of a prospective hostage deal, Axios reported Monday, citing two unnamed Israeli officials.",
-            "url": "https://www.cnn.com/2024/01/22/middleeast/netanyahu-rejects-hamas-hostage-offer-mime-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240122035229-exp-netanyahu-two-state-solution-barak-ravid-intv-012212aseg1-cnni-world-00004103.png?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-01-22T22:56:00Z",
-            "content": "Editors Note: A version of this story appears in CNNs Meanwhile in the Middle East newsletter, a three-times-a-week look inside the regions biggest stories. Sign up here.\r\nIsrael has offered a two-mo… [+5685 chars]"
+            "author": "Bradford Betz",
+            "title": "Judge in Trump prosecutor’s divorce case cuts off DA Fani Willis lawyer during hearing: ‘Let me interrupt you’ - Fox News",
+            "description": "A judge on Monday cut off DA Fani Willis' lawyer as he was arguing why she shouldn't be deposed in a divorce hearing involving special prosecutor Nathan Wade.",
+            "url": "https://www.foxnews.com/politics/judge-trump-prosecutors-divorce-case-cuts-off-da-fani-willis-lawyer-during-hearing-let-me-interrupt-you",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/Fani-Willis-Nathan-Wade.jpg",
+            "publishedAt": "2024-01-22T21:51:27Z",
+            "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+3820 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "New York Post"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Caitlin Doornbos",
-            "title": "Deaths of Navy SEALs in Red Sea a 'profound loss for our country': Biden - New York Post ",
-            "description": "“These SEALs represented the very best of our country, pledging their lives to protect their fellow Americans,” President Biden said.",
-            "url": "https://nypost.com/2024/01/22/news/red-sea-deaths-of-navy-seals-profound-loss-for-us-biden/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/forces-yemen-part-houthis-ongoing-75001242.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-01-22T22:52:30Z",
-            "content": "WASHINGTON The Pentagon on Monday identified the two Navy SEALs who were lost at sea during a recent mission to confiscate Iranian weapons en route to Houthi rebels in Yemen, with President Biden cal… [+3045 chars]"
+            "author": "Geoffrey Skelley",
+            "title": "DeSantis couldn't shake Trump's hold on the GOP - ABC News",
+            "description": "Republican voters liked DeSantis. But they like Trump more.",
+            "url": "https://abcnews.go.com/538/desantis-shake-trumps-hold-gop/story?id=106557334",
+            "urlToImage": "https://i.abcnewsfe.com/a/bb02e487-86b8-4339-a53f-b6616fbcee28/desantis-gty-er-240122_1705946526585_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-01-22T21:11:44Z",
+            "content": "In January 2023, Florida Gov. Ron DeSantis looked like the Republican contender most likely to give former President Donald Trump a serious challenge for the party's 2024 presidential nomination. But… [+10771 chars]"
         },
         {
             "source": {
@@ -320,103 +398,51 @@
                 "name": "TechCrunch"
             },
             "author": "Aria Alamalhodaei",
-            "title": "Successful failure: Sierra Space’s inflatable habitat blows up as planned - TechCrunch",
-            "description": "Sierra Space successfully inflated its space station habitat until it exploded – all according to plan.",
-            "url": "https://techcrunch.com/2024/01/22/successful-failure-sierra-spaces-inflatable-habitat-blows-up-as-planned/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/image001.png?resize=1200,780",
-            "publishedAt": "2024-01-22T22:32:53Z",
-            "content": "Sierra Space has completed a key test of its inflatable space habitat, as the company progresses toward launching and operating a private space station with Blue Origin before the end of the decade.\r… [+2549 chars]"
+            "title": "Japanese lunar lander touches down and Axiom space launches its third mission with SpaceX - TechCrunch",
+            "description": "TechCrunch Space is TechCrunch's weekly newsletter rounding up news across the commercial space industry.",
+            "url": "https://techcrunch.com/2024/01/22/japanese-lunar-lander-touches-down-and-axiom-space-launches-its-third-mission-with-spacex/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/tc-space-hero.gif?w=949",
+            "publishedAt": "2024-01-22T20:00:39Z",
+            "content": "Hello and welcome back to TechCrunch Space. What a week! For the second week in a row, we have lunar lander news to report on. Plus, a final update on Astrobotic’s Peregrine lander, news on the Artem… [+3633 chars]"
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Lexi Lonas",
-            "title": "Group projects swastika, yells racist chants outside college dorm building - The Hill",
-            "description": "A group of four individuals projected a swastika on a college dorm building at the University of Wisconsin-Whitewater while yelling racist chants Sunday night, according to the school.   Chancellor Corey King said in a statement to his community that around 5…",
-            "url": "https://thehill.com/homenews/education/4422523-university-of-wisconsin-whitewater-swastika-projected-dorm-racist-chants/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/GettyImages-943697000-1-1-3-2-2-e1697928619486.jpg?w=1280",
-            "publishedAt": "2024-01-22T22:20:00Z",
-            "content": "Skip to content\r\nA group of four individuals projected a swastika on a college dorm building at the University of Wisconsin-Whitewater while yelling racist chants Sunday night, according to the schoo… [+1457 chars]"
+            "author": "Sarah Al-Arshani",
+            "title": "Multivitamins could slow cognitive decline, study finds - USA TODAY",
+            "description": "The latest study evaluated nearly 600 participants aged 60 and older and found those who took a daily multivitamin scored better on cognitive tests.",
+            "url": "https://www.usatoday.com/story/life/health-wellness/2024/01/22/multivitamins-cognitive-decline-study/72312621007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/22/USAT/72313843007-getty-images-1298149992.jpg?crop=6399,3600,x0,y480&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-01-22T19:52:12Z",
+            "content": "A new study found that taking a multivitamin could help slow cognitive decline that's associated with aging by as much as two years.\r\nA study led by researchers at Mass General Brigham and published … [+1962 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Here's what NASA brought back from the Bennu asteroid. - The Verge",
+            "description": "",
+            "url": "https://www.theverge.com/2024/1/22/24047089/heres-what-nasa-brought-back-from-the-bennu-asteroid",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/v2hLVZG-M6Avw0loXofZ91aswpw=/0x0:1920x1440/1920x1440/filters:focal(960x720:961x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/25242052/jsc2024e006057_large.jpg",
+            "publishedAt": "2024-01-22T18:46:09Z",
+            "content": ""
         },
         {
             "source": {
                 "id": null,
                 "name": "Live Science"
             },
-            "author": "Ben Turner",
-            "title": "At last: NASA's complete sample of the 'potentially hazardous' asteroid Bennu is finally freed from its canister - Livescience.com",
-            "description": "It's finally time to look inside the sample-return capsule from NASA's OSIRIS-REx mission. Scientists were locked out of the container for months due to a technical malfunction.",
-            "url": "https://www.livescience.com/space/asteroids/at-last-nasas-complete-sample-of-the-potentially-hazardous-asteroid-bennu-is-finally-freed-from-its-canister",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uTiN7stwXq2zjSjHVgTWUa-1200-80.jpg",
-            "publishedAt": "2024-01-22T21:01:00Z",
-            "content": "NASA scientists have finally disassembled the canister containing rocks snatched from a distant \"potentially hazardous\" asteroid, and now you can look inside.\r\nThe sample — roughly 8.8 ounces (250 gr… [+1746 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eurogamer.net"
-            },
-            "author": "Matt Wales",
-            "title": "Suicide Squad's first post-launch \"season\" adds playable Elseworlds Joker - Eurogamer.net",
-            "description": "Developer Rocksteady have detailed Suicide Squad: Kill the Justice League's initial post-launch plans, confirming The J…",
-            "url": "https://www.eurogamer.net/suicide-squads-first-post-launch-season-includes-playable-elseworlds-joker",
-            "urlToImage": "https://assetsio.reedpopcdn.com/suicide-squad-joker-capture-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2024-01-22T20:55:58Z",
-            "content": "Developer Rocksteady have detailed Suicide Squad: Kill the Justice League's initial post-launch plans, confirming The Joker will arrive as a playable character in a free content update accompanying t… [+2226 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "Apple Releases iOS 17.3 and iPadOS 17.3 With Stolen Device Protection, Collaborative Apple Music Playlists and More - MacRumors",
-            "description": "Apple today released iOS 17.3 and iPadOS 17.3, the third major updates to the iOS 17 and iPadOS 17 operating system updates that initially came out...",
-            "url": "https://www.macrumors.com/2024/01/22/apple-releases-ios-17-3/",
-            "urlToImage": "https://images.macrumors.com/t/HxH2oq9jQAijkwd_GMf2xqHaoow=/1600x/https://img.youtube.com/vi/xUIzfDkQqqo/maxresdefault.jpg",
-            "publishedAt": "2024-01-22T18:04:53Z",
-            "content": "Apple today released iOS 17.3 and iPadOS 17.3, the third major updates to the iOS 17 and iPadOS 17 operating system updates that initially came out in September 2023. The software comes more than a m… [+1985 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": null,
-            "title": "Samsung Galaxy S24 Ultra vs. Apple iPhone 15 Pro Max, Google Pixel 8 Pro, OnePlus 12: High-End Flagships Compared - CNET",
-            "description": "How Samsung's highest-end Galaxy S24 Ultra compares with the most expensive, non-folding phones offered by Apple, Google and OnePlus.",
-            "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-max-google-pixel-8-pro-oneplus-12-high-end-flagships-compared/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/a6580cac0c46a0b55771c5ccdc0839343fbcf34a/hub/2024/01/19/23bd7535-dc5c-4137-9326-2189dd43bd56/s24ultra-02.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-01-22T17:00:00Z",
-            "content": "Samsung's $1,300 (£1,249, AU$2,199) Galaxy S24 Ultra is the company's highest-end and priciest phone in the lineup, highlighting lots of new AI features along with tweaks to its cameras.\r\nIt's also b… [+4916 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CALmatters"
-            },
-            "author": "Mikhail Zinshteyn",
-            "title": "Faculty at Cal State strike in historic walkout - CalMatters",
-            "description": "The faculty at Cal State strike at all 23 campuses. The union of 29,000 seeks 12% raises this year, among other benefits.",
-            "url": "https://calmatters.org/education/2024/01/cal-state-strike/",
-            "urlToImage": "https://calmatters.org/wp-content/uploads/2024/01/012224-Sacramento-State-Strike-MG-CM-01.jpg",
-            "publishedAt": "2024-01-22T16:56:12Z",
-            "content": "After more than half a year of failed negotiations to increase their pay by 12% and expand other benefits, the faculty of the California State University today began a historic strike at all 23 campu… [+12436 chars]"
+            "author": "Harry Baker",
+            "title": "James Webb telescope spots bizarre 'cat tail' flowing out of nearby star, and scientists can't fully explain it - Livescience.com",
+            "description": "New images from the James Webb Space Telescope have revealed a bizarre string of dust in the shape of a cat's tail around the nearby juvenile star Beta Pictoris.",
+            "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-spots-bizarre-cat-tail-flowing-out-of-nearby-star-and-scientists-cant-fully-explain-it",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q2WQk3rzZFTX3n69FVx3bU-1200-80.jpg",
+            "publishedAt": "2024-01-22T15:36:05Z",
+            "content": "A newborn star in our cosmic backyard is being circled by an unusual, cat-like tail of gas and dust, new images from the James Webb Space Telescope\r\n (JWST) reveal. And the strange structure is provi… [+4075 chars]"
         },
         {
             "source": {
@@ -424,38 +450,12 @@
                 "name": "BBC News"
             },
             "author": null,
-            "title": "Measles vaccine campaign targets unprotected millions - BBC.com",
-            "description": "More than three million children under 16 are at risk of becoming ill, NHS England says.",
-            "url": "https://www.bbc.com/news/health-68057317",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18003/production/_132370389_jab-index2-getty.jpg",
-            "publishedAt": "2024-01-22T14:28:00Z",
-            "content": "By Philippa RoxbyHealth reporter\r\nMillions of parents in England are being contacted by the NHS and urged to make an appointment to have their children vaccinated against measles, as cases rise acros… [+5179 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Japan hopes sunlight can save stricken Slim Moon lander - BBC.com",
-            "description": "The Slim spacecraft was switched off after failing to generate power - but the Sun may now revive it.",
-            "url": "https://www.bbc.com/news/science-environment-68055186",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13A87/production/_132391508_d25fa28435a6c673f5ff11529dab4aca.jpg",
-            "publishedAt": "2024-01-22T10:43:00Z",
-            "content": "By Jonathan AmosScience correspondent\r\nAn artist's impression of how the lander might look on the Moon's surface\r\nJapan may yet manage to salvage its Moon lander, the country's space agency Jaxa says… [+3666 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digital Trends"
-            },
-            "author": "Trevor Mogg",
-            "title": "Gorgeous images show Axiom-3 crew over Himalayas on ISS approach - Digital Trends",
-            "description": "Astronauts aboard the ISS have shared dramatic imagery of the Axiom-3 Crew Dragon as it approached the station on Saturday.",
-            "url": "https://www.digitaltrends.com/space/gorgeous-images-show-axiom-3-space-crew-over-himalayas/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/01/blog_ax3_dock_012024b1.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2024-01-22T04:15:38Z",
-            "content": "A SpaceX Crew Dragon approaching the ISS in the Axiom-3 mission.NASA\r\nThe first all-European commercial crew to head for the International Space Station (ISS) arrived safely at the orbital outpost on… [+2087 chars]"
+            "title": "Oscars nominations 2024: Barbie and Oppenheimer set to dominate - BBC.com",
+            "description": "The two films which conquered the 2023 box office are likely to be recognised at the Academy Awards.",
+            "url": "https://www.bbc.com/news/entertainment-arts-68016860",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9CBE/production/_132362104_crgettyimages-1539554059.jpg",
+            "publishedAt": "2024-01-22T13:40:00Z",
+            "content": "By Steven McIntoshEntertainment reporter\r\nBarbie stars Ryan Gosling and Margot Robbie could both be nominated for acting prizes\r\nNominations for the 2024 Oscars will be announced later, after a huge … [+8443 chars]"
         }
     ]
 }

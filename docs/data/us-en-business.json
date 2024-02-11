@@ -1,19 +1,318 @@
 {
     "status": "ok",
-    "totalResults": 65,
+    "totalResults": 66,
     "articles": [
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Axios",
-            "title": "The S&P 500 closes at a new record at 5000 - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2024/02/09/stock-market-record-high-sp-500-5000",
+            "author": "Devan Burris",
+            "title": "Why direct-to-consumer darlings such as Casper, Allbirds and Peloton are now struggling - CNBC",
+            "description": "Once booming, direct-to-consumer companies such as Casper, Allbirds and Peloton now struggle with profitability, layoffs and the cost of advertising.",
+            "url": "https://www.cnbc.com/2024/02/10/why-direct-to-consumer-darlings-casper-allbirds-peloton-now-struggle.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106971590-1636133442922allbirds1.jpg?v=1636133472&w=1920&h=1080",
+            "publishedAt": "2024-02-10T17:00:01Z",
+            "content": "The direct-to-consumer boom is coming to an end.\r\nA once-bustling group of companies, backed by billions in venture capital funding, saw a record year for IPOs in 2021. Now, three years later, most o… [+2125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Tamantha Ryan",
+            "title": "Taylor Swift rushes from Tokyo Eras Tour to private jet for 12-hour flight to Super Bowl - Page Six",
+            "description": "The “Cruel Summer” singer will have to travel against time as she treks through multiple time zones in order to make it to Vegas for the Super Bowl.",
+            "url": "https://pagesix.com/2024/02/10/entertainment/taylor-swift-rushes-to-her-private-jet-for-12-hour-flight-to-vegas-to-watch-travis-kelce-in-super-bowl/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/02/76251034.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-02-10T16:07:00Z",
+            "content": "She’s getting a one-way ticket to Vegas.\r\nTaylor Swift reportedly rushed to her private jet after wrapping her Eras Tour show in Tokyo to begin her 12-hour flight to Las Vegas to watch Travis Kelce p… [+2974 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Taylor Lorenz, Naomi Nix",
+            "title": "Meta won’t recommend political posts on Instagram and Threads - The Washington Post",
+            "description": "Meta announced on Friday it would stop proactively recommending political content on Instagram and its upstart text-based app Threads.",
+            "url": "https://www.washingtonpost.com/technology/2024/02/10/politics-meta-threads-instagram/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RPN2GMZM7PZUFEIBZWJU7T2V34_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-02-10T16:00:00Z",
+            "content": "Meta announced on Friday it would stop proactively recommending political content on Instagram or its upstart text-based app Threads, alarming news and politics-focused creators and journalists geari… [+6838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Tobias Mann",
+            "title": "Sam Altman's chip ambitions may be loonier than feared - The Register",
+            "description": "$7 trillion will buy you a helluva lotta fabs or every chip biz of consequence",
+            "url": "https://www.theregister.com/2024/02/10/sam_altmans_chip_manufacturing_ambitions/",
+            "urlToImage": "https://regmedia.co.uk/2024/02/10/altman.jpg",
+            "publishedAt": "2024-02-10T15:24:00Z",
+            "content": "Opinion OpenAI CEO Sam Altman's dream of establishing a network of chip factories to fuel the growth of AI may be much, much wilder than feared.\r\nAs reported last month, Altman is supposedly seeking … [+7290 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "The 22 best last-minute Valentine’s Day gifts for 2024 - The Verge",
+            "description": "From wireless earbuds and budget-friendly speakers to gift cards and other digital ideas, we’ve rounded up a selection of great presents you can still get ahold of before V-Day.",
+            "url": "https://www.theverge.com/24063707/valentines-day-gifts-best-last-minute-tech-digital-ideas-earbuds-streaming",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/f7LRyCllux5eoQar3_2HOKF0dNw=/0x0:1000x667/1200x628/filters:focal(500x334:501x335)/cdn.vox-cdn.com/uploads/chorus_asset/file/25278089/Sony_SRS_XB100_Lifestyle_Press_Image.jpg",
+            "publishedAt": "2024-02-10T15:21:53Z",
+            "content": "Here are 22 last-minute gifts you can still grab ahead of Valentines Day\r\nHere are 22 last-minute gifts you can still grab ahead of Valentines Day\r\n / Many of them, including Apples latest AirPods Pr… [+9784 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "CORA LEWIS",
+            "title": "Report: Wealth disparities by race grew during the pandemic despite income gains - Yahoo Finance",
+            "description": "A strong performance in financial markets, particularly an outsize gain for the stock market in 2021, helped entrench existing trends of wealth inequality...",
+            "url": "https://finance.yahoo.com/news/wealth-disparities-race-grew-during-150830365.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/h0vAO_5YJxbYObr.2OKsHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/46c4cdd0101fbfb9e7c98eeeb2b0d2ea",
+            "publishedAt": "2024-02-10T15:08:30Z",
+            "content": "NEW YORK (AP) A strong performance in financial markets, particularly an outsize gain for the stock market in 2021, helped entrench existing trends of wealth inequality during the pandemic, new data … [+4737 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Nicholas Morgan",
+            "title": "Bitcoin ETF Issuers May Dwindle by End of Year, Says Valkyrie CIO - Decrypt",
+            "description": "With such fierce competition in the field, Valkyrie’s CIO Steve McClurg predicts that not everyone will be left standing by next year.",
+            "url": "https://decrypt.co/216862/bitcoin-etf-issuers-may-dwindle-by-end-of-year-says-valkyrie-cio",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/bitcoin-etf-application-gID_7.jpg",
+            "publishedAt": "2024-02-10T14:01:13Z",
+            "content": "Spot Bitcoin exchange-traded funds (ETF) are close to their first month anniversary of operating, but there is a chance the field of ETFs may shrink by the end of the year, said Valkyrie Funds Chief … [+3658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ray Parisi",
+            "title": "The most expensive home for sale in the U.S. goes up for $295 million in Naples, Florida - CNBC",
+            "description": "The mega-listing includes a main house that spans about 11,500 square feet on a private peninsula.",
+            "url": "https://www.cnbc.com/2024/02/10/florida-mansion-is-most-expensive-us-home-for-sale-at-295-million.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107371073-1707419466995-DJI_20230905193604_0073_D.jpg?v=1707504449&w=1920&h=1080",
+            "publishedAt": "2024-02-10T14:00:01Z",
+            "content": "The main house at Gordon Pointe spans 11,500 sq ft.\r\nThe most expensive home for sale in the U.S. hit the market this week for $295 million.\r\nGordon Pointe, as it's called, is a roughly 9-acre compou… [+7151 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Graham Kates, Cara Tabachnick",
+            "title": "Why do Super Bowl tickets cost so much? Inside the world of NFL pricing, luxury packages, and ticket brokers with bags of cash - CBS News",
+            "description": "Face-value Super Bowl tickets — already expensive to begin with — are rarely made available to the general public.",
+            "url": "https://www.cbsnews.com/news/super-bowl-2024-ticket-prices-nfl-brokers/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/10/34dffcfe-b616-43aa-b8df-c00aa287dbdd/thumbnail/1200x630/377975f568ed599a5eb98906ab00d92e/gettyimages-1981169630.jpg?v=39487f160c45192867463e7cb2b51dad",
+            "publishedAt": "2024-02-10T14:00:00Z",
+            "content": "Nicholas Cù has been on the fence about buying a ticket to see his beloved San Francisco 49ers play in the 2024 Super Bowl on Sunday. \r\nThe lifelong fan has attended every 49ers playoff game for the … [+10163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KARE11.com"
+            },
+            "author": "KARE 11 Staff",
+            "title": "RECIPE: 'The Super Highball' cocktail - KARE11.com",
+            "description": "Erik Eastman, a former bartender who now sells premium cocktail ice to bars and restaurants in the Twin Cities joined KARE 11 Saturday to whip up a Super Bowl drink.",
+            "url": "https://www.kare11.com/article/news/local/kare11-saturday/recipe-super-bowl-libations-cocktail/89-e199770e-7e58-49b9-aa53-ab6782de3d25",
+            "urlToImage": "https://media.kare11.com/assets/KARE/images/fe87972f-792d-44d7-ae33-7a7963fc8a5b/fe87972f-792d-44d7-ae33-7a7963fc8a5b_1140x641.jpg",
+            "publishedAt": "2024-02-10T13:58:12Z",
+            "content": "MINNEAPOLIS More than 112 million people will be hosting or heading to a Super Bowl party this year. Between the commercials, halftime show and celeb power, viewers will be chowing down on snacks and… [+1039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Greg Iacurci",
+            "title": "Policy changes look to reduce 401(k) plan 'leakage' - CNBC",
+            "description": "Workers frequently cash out their retirement accounts when changing jobs. That can cost them in the long run.",
+            "url": "https://www.cnbc.com/2024/02/10/policy-changes-look-to-reduce-401k-plan-leakage.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107249513-1685640535275-gettyimages-1306206468-dsc_9578b.jpeg?v=1707320973&w=1920&h=1080",
+            "publishedAt": "2024-02-10T13:30:01Z",
+            "content": "Leaks aren't just a problem for pipes.\r\nBillions of dollars a year drip from the U.S. retirement system when investors cash out their 401(k) plan accounts, potentially crippling their odds of growing… [+7888 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Todd Spangler",
+            "title": "Uber Eats to Delete Super Bowl Ad’s Peanut-Allergy Bit After Angry Backlash - Variety",
+            "description": "Uber Eats will remove an ill-advised joke about peanut allergies from its 2024 Super Bowl ad, according to an advocacy group.",
+            "url": "https://variety.com/2024/tv/news/uber-eats-super-bowl-ad-peanut-allergy-backlash-1235906703/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/02/Uber-Eats-Peanut-Butter-Allergy.png?w=1000&h=563&crop=1",
+            "publishedAt": "2024-02-10T13:21:00Z",
+            "content": "This Super Bowl Sunday, don’t forget Uber Eats — but also, as the food-delivery service has learned, don’t forget that trying to make fun of a life-threatening allergy is bad PR.\r\nUber Eats, a divisi… [+2642 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Past performance suggests S&P 500 has further to go after record high - Financial Times",
+            "description": "Trends since 1950 point to double-digit gains in next 12 months, but caution needed over tech dominance",
+            "url": "https://www.ft.com/content/6810f509-feaf-4f4f-ab96-5784b94fa8f8",
             "urlToImage": null,
-            "publishedAt": "2024-02-10T06:40:29Z",
+            "publishedAt": "2024-02-10T13:00:25Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annika Kim Constantino",
+            "title": "Weight loss drugs are still hard to find — but Novo Nordisk and Eli Lilly are trying to change that - CNBC",
+            "description": "Novo Nordisk and Eli Lilly have given positive supply updates, aiming to reassure investors that they can continue to capitalize on the success of their drugs.",
+            "url": "https://www.cnbc.com/2024/02/10/weight-loss-drugs-novo-nordisk-eli-lilly-are-tackling-supply-issues.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107364694-17062136162023-11-21t141914z_82196440_rc2oh4ah9cpp_rtrmadp_0_health-obesity-novo-nordisk.jpeg?v=1707513174&w=1920&h=1080",
+            "publishedAt": "2024-02-10T13:00:01Z",
+            "content": "Injection pens of Novo Nordisk's weight-loss drug Wegovy are shown in this photo illustration in Oslo, Norway, Nov. 21, 2023.\r\nThe insatiable demand for weight loss drugs is trouncing supply, leaving… [+8581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Chris Pandolfo",
+            "title": "Musk switches Neuralink location of incorporation to Nevada - Fox Business",
+            "description": "Elon Musk's cybernetic implant company, Neuralink, has switched its incorporation to Nevada from Delaware after he complained about incorporating in the First State.",
+            "url": "https://www.foxbusiness.com/business-leaders/musk-switches-neuralink-location-incorporation-nevada",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/GettyImages-1237156033.jpg?ve=1&tl=1",
+            "publishedAt": "2024-02-10T12:57:00Z",
+            "content": "Billionaire Elon Musk's cybernetic implant company, Neuralink, has changed its location of incorporation from Delaware to Nevada, state records show. \r\nThe move comes about a week after Musk said Tes… [+3844 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "James Brumley",
+            "title": "Want Super-Safe Dividend Income in 2024? Invest in the Following 3 Ultra-High-Yield Stocks. - The Motley Fool",
+            "description": "There are trade-offs to be sure, but this year may be one that merits prioritizing income over other goals and strategies.",
+            "url": "https://www.fool.com/investing/2024/02/10/want-super-safe-dividend-income-in-2024-invest-in/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/764053/dividend-cash-holding-money-rich-wealthy-hundreds-franklins-hand.jpg",
+            "publishedAt": "2024-02-10T12:05:00Z",
+            "content": "This year could prove to be a tricky one for investors. The economy appears to be on a firmer footing than it was previously presumed to be. As a result of that surprising strength, however, the Fede… [+6465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sabina Wex",
+            "title": "'I'm embarrassed': This TikToker moved to NYC with a $2.3K/month budget to rent an apartment — and was told that was 'pretty low.' Is it fruitless to try to make it in the Big Apple? - Yahoo Finance",
+            "description": "New York: the city that never sleeps … on your rent.",
+            "url": "https://finance.yahoo.com/news/m-embarrassed-tiktoker-moved-nyc-113400977.html",
+            "urlToImage": "https://media.zenfs.com/en/moneywise_327/8f79b6c2a844b348d082fb958b70ffe2",
+            "publishedAt": "2024-02-10T11:34:00Z",
+            "content": "Im embarrassed: This TikToker moved to NYC with a $2.3K/month budget to rent an apartment and was told that was pretty low. Is it fruitless to try to make it in the Big Apple?\r\nLong gone are the days… [+3996 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Arthur Jones II",
+            "title": "Biden administration announces $5 billion commitment for research and development of computer chips - ABC News",
+            "description": "HBCUs are gearing up for the global chip competition through a new partnership.",
+            "url": "https://abcnews.go.com/Politics/biden-administration-announces-5-billion-commitment-research-development/story?id=107088192",
+            "urlToImage": "https://i.abcnewsfe.com/a/33a1039e-dba9-4598-a1fc-3e30f45496a6/biden-chips-gty-er-240209_1707523383612_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-10T11:05:54Z",
+            "content": "The Biden administration announced Friday that it expects to commit $5 billion in a public-private consortium for research and development of computer chips.\r\nThe White House said this would advance … [+4779 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "Stop these V-day scams before they break your heart and your bank account - Fox News",
+            "description": "When entering the world of online dating, it's wise to stay vigilant on Valentine's Day to avoid being victimized by a scamming Casanova.",
+            "url": "https://www.foxnews.com/tech/stop-these-v-day-scams-before-they-break-your-heart-your-bank-account",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/2-How-to-spot-these-V-day-Scams-before-they-break-your-heart-and-your-bank-account-pexels-artem-podrez-4492134.jpeg",
+            "publishedAt": "2024-02-10T11:00:49Z",
+            "content": "valen\r\nAs Valentines Day approaches, many people have love on the brain. Online romance, however, has complicated courtships and coupling dynamics by adding a layer of potential deception to every co… [+11134 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Martin Arnold",
+            "title": "Italy central bank chief says time for interest rate cuts is 'fast approaching' - Financial Times",
+            "description": "Fabio Panetta says eurozone inflation is falling faster than expected",
+            "url": "https://www.ft.com/content/c5de341f-747d-49e0-8028-553632866286",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F87c493c6-3099-436d-bc63-6335ed660c7d.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-02-10T10:52:00Z",
+            "content": "Italys new central bank chief has said the time for cutting interest rates is fast approaching and dismissed fears of a fresh inflationary spiral, in the latest sign that pressure is mounting to loos… [+2560 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chloe Berger",
+            "title": "Feel the burn(out): Millennials are aging from bright-eyed ‘hustle culture’ workers into exhausted middle managers - Fortune",
+            "description": "In the modern workplace, the millennials are the least happy.",
+            "url": "https://fortune.com/2024/02/10/millennial-burnout-happiness-at-work-gen-z-middle-management/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1389366611.jpg?resize=1200,600",
+            "publishedAt": "2024-02-10T10:30:00Z",
+            "content": "Burnt out millennials are by no means the new kid on the block. Even before the pandemic, nonr other than beloved millennial outlet BuzzFeed spoke out about the beleaguered generation. In 2019, repor… [+5899 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Gina Heeb, Rachel Louise Ensign",
+            "title": "New York Community Bancorp Went From a Crisis Winner to Banking's Next Worry - The Wall Street Journal",
+            "description": "Regional lender seeks funds and considers asset sales after stock plunges",
+            "url": "https://www.wsj.com/finance/banking/new-york-community-bank-banking-crisis-663a95af",
+            "urlToImage": "https://images.wsj.net/im-923692/social",
+            "publishedAt": "2024-02-10T10:30:00Z",
+            "content": "New York Community Bancorp closed a transformational deal in late 2022, buying mortgage lender Flagstar Bancorp to nearly double its size. Four months later, it struck again, buying parts of Signatur… [+419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "Will Ebiefung",
+            "title": "Missed Out on Nvidia? 2 Soaring Artificial Intelligence (AI) Stocks to Buy Instead - The Motley Fool",
+            "description": "Super Micro Computer and Meta Platforms look poised for continued outperformance.",
+            "url": "https://www.fool.com/investing/2024/02/10/missed-out-on-nvidia-2-soaring-artificial-intellig/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/764165/gettyimages-1289228163.jpg",
+            "publishedAt": "2024-02-10T09:45:00Z",
+            "content": "Generative artificial intelligence (AI) is the hottest investment megatrend in recent memory, and few companies have benefited more than Nvidia, which supplies the hardware needed to train and run th… [+3449 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "Danny Vena",
+            "title": "Arm CEO Rene Haas Calls AI the \"Most Profound Opportunity in Our Lifetimes.\" 1 Stock I'll Be Buying Hand Over Fist if He's Right. - The Motley Fool",
+            "description": "The chief executive has joined the growing chorus of tech enthusiasts who believe AI will be a game changer -- and one stock is the clear winner in the space so far.",
+            "url": "https://www.fool.com/investing/2024/02/10/arm-ceo-rene-haas-calls-ai-the-most-profound-oppor/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/764740/a-person-pushing-a-virtual-ai-button-surrounded-by-various-technology-icons.jpg",
+            "publishedAt": "2024-02-10T08:32:00Z",
+            "content": "There's no getting around the impact that artificial intelligence (AI) has had on the market trajectory over the past year or so. Some would even argue that the latest advances in AI helped spark the… [+4637 chars]"
         },
         {
             "source": {
@@ -30,55 +329,29 @@
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Doc Louallen",
-            "title": "Mega Millions winning numbers for February 9 as jackpot climbs to $394 million - USA TODAY",
-            "description": "The Mega Millions jackpot is now at $394 million ahead of the drawing on Friday, Feb. 9, 2024.",
-            "url": "https://www.usatoday.com/story/money/lottery/2024/02/09/mega-millions-winning-numbers/72543384007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/02/22/USAT/4840c741-d5f7-49b0-b18f-947d62bf1251-AP_Mega_Million_Jackpot.jpg?crop=5999,3375,x0,y305&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2024-02-10T04:39:37Z",
-            "content": "The Mega Millions jackpot has climbed to $394 million for Friday's drawing after no one won the top prize on Tuesday night.\r\nThe numbers were drawn just after 11 p.m. ET on Friday, and we have the re… [+2498 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "WCNC.com"
             },
-            "author": "Biz Carson and Kristine Owram",
-            "title": "Bezos Sells $2 Billion of Amazon Shares in First Major Stock Sale Since 2021 - Yahoo Finance",
-            "description": "(Bloomberg) -- Jeff Bezos unloaded 12 million shares of Amazon.com Inc. this week, the first time the billionaire has sold the company’s stock since 2021...",
-            "url": "https://finance.yahoo.com/news/bezos-sells-2-billion-amazon-023115298.html",
-            "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/37fabe5c1eba2e7330519fc2b06fbb05",
-            "publishedAt": "2024-02-10T02:31:00Z",
-            "content": "(Bloomberg) -- Jeff Bezos unloaded 12 million shares of Amazon.com Inc. this week, the first time the billionaire has sold the companys stock since 2021.\r\nMost Read from Bloomberg\r\nThe sales took pla… [+869 chars]"
+            "author": "Matthew Ablon (WCNC)",
+            "title": "1 person hospitalized after shooting near south Charlotte McDonald's, Medic reports - WCNC.com",
+            "description": "A WCNC Charlotte recorded several police cars at the restaurant Friday night.",
+            "url": "https://www.wcnc.com/article/news/crime/person-shot-south-charlotte-mcdonalds-local-crime-news/275-b926e2e2-cfdb-4535-8638-8daaf6510ea5",
+            "urlToImage": "https://media.wcnc.com/assets/WCNC/images/a901d9ce-96ec-4f62-bb56-12fc6769744f/a901d9ce-96ec-4f62-bb56-12fc6769744f_1140x641.jpg",
+            "publishedAt": "2024-02-10T05:07:00Z",
+            "content": "CHARLOTTE, N.C. A person is in the hospital after a shooting in south Charlotte late Friday night.\r\nMedic confirmed to WCNC Charlotte they responded around 11 p.m. to Tyvola road near the interchange… [+1432 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Reuters",
-            "title": "NYCB shares surge after top executives disclose stake purchases - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/markets/us/nycb-shares-struggle-gain-after-selloff-over-cre-exposure-worries-2024-02-09/",
-            "urlToImage": null,
-            "publishedAt": "2024-02-09T23:56:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Emily Bary",
-            "title": "Amazon’s stock just racked up its highest close in more than two years - MarketWatch",
-            "description": "Amazon holds off Nvidia to keep its spot within the four largest U.S. companies",
-            "url": "https://www.marketwatch.com/story/amazons-stock-just-racked-up-its-highest-close-in-more-than-two-years-26226d1a",
-            "urlToImage": "https://images.mktw.net/im-829921/social",
-            "publishedAt": "2024-02-09T22:26:00Z",
-            "content": "Amazon.com Inc. shares continued their charge higher Friday, securing their highest close in more than two years. The e-commerce giants stock advanced 2.7% in Fridays session to finish the day at $17… [+1606 chars]"
+            "author": "Mason Leib",
+            "title": "Vornado recalls 2 million handheld steamers for potential burn hazard - ABC News",
+            "description": "The company says it received 23 reports of burn injuries.",
+            "url": "https://abcnews.go.com/GMA/Living/vornado-recalls-2-million-handheld-steamers-potential-burn/story?id=107079188",
+            "urlToImage": "https://i.abcnewsfe.com/a/0011a3c1-a0bb-458c-b8cf-6040b80ca9e4/steamfast-0-ht-bb-240209_1707513714652_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-10T00:43:12Z",
+            "content": "Roughly 2 million Vornado, Steamfast and Sharper Image branded Handheld Garment Steamers were recalled by Vornado, according to a recall notice on the United States Consumer Products Safety Commision… [+1774 chars]"
         },
         {
             "source": {
@@ -92,19 +365,6 @@
             "urlToImage": "https://i.ytimg.com/vi/D4kzVR4qzX4/maxresdefault.jpg",
             "publishedAt": "2024-02-09T22:00:50Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Parkev Tatevosian, CFA, The Motley Fool",
-            "title": "Great News for SoFi Stock Investors! - Yahoo Finance",
-            "description": "SoFi gave investors many reasons to cheer as it showed robust profitability in the fourth quarter.",
-            "url": "https://www.fool.com/investing/2024/02/09/great-news-for-sofi-stock-investors/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HHsOh0CzAPoz3m1Bi98y2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/61f342ce399f12168ac823473d70d9f1",
-            "publishedAt": "2024-02-09T21:37:25Z",
-            "content": "Fool.com contributor Parkev Tatevosian reviews the latest developments from SoFi(NASDAQ: SOFI) and what it could mean for investors.\r\n*Stock prices used were the afternoon prices of Feb. 7, 2024. The… [+1280 chars]"
         },
         {
             "source": {
@@ -134,19 +394,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Josh Lipton",
-            "title": "Bitcoin climbs above $47K for first time since spot ETF approvals - Yahoo Finance",
-            "description": "Bitcoin (BTC-USD) is surging past $47,000 on Friday afternoon for the first time since spot ETFs debuted, following US Securities Exchange Commission...",
-            "url": "https://finance.yahoo.com/video/bitcoin-climbs-above-47k-first-212157792.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NSLBCxrVGycMPytprRTBKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/77366100-c78e-11ee-9dea-f36072b6f924",
-            "publishedAt": "2024-02-09T21:21:57Z",
-            "content": "Bitcoin (BTC-USD) is surging past $47,000 on Friday afternoon for the first time since spot ETFs debuted, following US Securities Exchange Commission approval last month of 11 of the exchange-traded … [+2300 chars]"
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -164,64 +411,12 @@
                 "name": "Investor's Business Daily"
             },
             "author": "Investor's Business Daily",
-            "title": "Expedia Stock: 'A Lot To Work Through' After Soft Bookings Outlook, Analyst Says - Investor's Business Daily",
-            "description": "Expedia plunged after Q4 results. Earnings growth accelerated in the holiday quarter.",
-            "url": "https://www.investors.com/news/expedia-stock-expedia-earnings-q4-travel-demand/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2018/02/stock-EXpedia-01-shutter.jpg",
-            "publishedAt": "2024-02-09T21:13:00Z",
-            "content": "Expedia (EXPE) announced a CEO change late Thursday while beating earnings estimates for the fourth quarter. Expedia stock tanked below a key level Friday after hitting a 52-week high Thursday.\r\nThe … [+2020 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "Investor's Business Daily",
-            "title": "Best Mutual Funds Invest Billions In This Unexpected List Of 7 Magnificent Stocks Including Nvidia - Investor's Business Daily",
+            "title": "TTWO Stock: Take-Two Badly Misses Views With Outlook - Investor's Business Daily",
             "description": null,
-            "url": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-invest-billions-in-this-unexpected-list-of-7-magnificent-stocks-including-nvidia/",
+            "url": "https://www.investors.com/news/technology/ttwo-stock-take-two-badly-misses-views-with-outlook/",
             "urlToImage": null,
-            "publishedAt": "2024-02-09T21:03:00Z",
+            "publishedAt": "2024-02-09T21:05:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BleepingComputer"
-            },
-            "author": "Sergiu Gatlan",
-            "title": "New Fortinet RCE bug is actively exploited, CISA confirms - BleepingComputer",
-            "description": "CISA confirmed today that attackers are actively exploiting a critical remote code execution (RCE) bug patched by Fortinet on Thursday.",
-            "url": "https://www.bleepingcomputer.com/news/security/new-fortinet-rce-bug-is-actively-exploited-cisa-confirms/",
-            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/02/09/Fortinet.jpg",
-            "publishedAt": "2024-02-09T21:02:41Z",
-            "content": "CISA confirmed today that attackers are actively exploiting a critical remote code execution (RCE) bug patched by Fortinet on Thursday.\r\nThe flaw (CVE-2024-21762) is due to an out-of-bounds write wea… [+2443 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Reuters",
-            "title": "Wall Street firms hit with $81M in fines in latest WhatsApp, texting crackdown - New York Post ",
-            "description": "A new group of Wall Street firms has agreed to pay more than $81 million in civil penalties to settle SEC charges of record-keeping failures, the regulator said.",
-            "url": "https://nypost.com/2024/02/09/business/wall-street-firms-hit-with-81m-in-fines-in-latest-whatsapp-texting-crackdown/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/sec-whatsapp-probe.jpg?quality=75&strip=all&1707491293&w=1024",
-            "publishedAt": "2024-02-09T20:59:00Z",
-            "content": "A new group of Wall Street firms has agreed to pay more than $81 million in civil penalties to settle Securities and Exchange Commission charges of record-keeping failures, the regulator said Friday.… [+2189 chars]"
         },
         {
             "source": {
@@ -239,19 +434,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Futurism"
-            },
-            "author": "Victor Tangermann",
-            "title": "Sam Altman Seeking Trillions of Dollars for New AI Venture - Futurism",
-            "description": "OpenAI CEO Sam Altman is trying to woo investors, including the Emirati government, to raise up to $7 trillion for an AI hardware venture.",
-            "url": "https://futurism.com/the-byte/sam-altman-seeking-trillions",
-            "urlToImage": "https://wp-assets.futurism.com/2024/02/sam-altman-seeking-trillions-of-dollars-for-new-ai-venture.jpg",
-            "publishedAt": "2024-02-09T20:35:23Z",
-            "content": "He's trying to secure a ludicrous amount of money.\r\nA Trilli\r\nOpenAI CEO Sam Altman is looking to raise some serious cash.\r\nThe executive is currently trying to woo investors, including the United Ar… [+2509 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Thedefiant.io"
             },
             "author": "Pedro Solimano",
@@ -261,6 +443,45 @@
             "urlToImage": "https://cdn.sanity.io/images/6oftkxoa/production/3e2987f2490bd30344545de8acdc586af4850761-1792x1024.webp",
             "publishedAt": "2024-02-09T20:32:01Z",
             "content": "Bitcoins market capitalization approaches $1T, while Ether trades at $2,500. Its been a good week in the crypto markets, with eight of the top 10 tokens by market capitalization posting solid gains o… [+1351 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Matt Richardson",
+            "title": "Why you should open a CD this February - CBS News",
+            "description": "CD rates are high but they could fall in the weeks to come. Here's why you should open an account this month.",
+            "url": "https://www.cbsnews.com/news/why-you-should-open-a-cd-this-february/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/09/defc8fb8-5506-4582-b124-b6994bcc7dc3/thumbnail/1200x630/d0eae81ff719b17a6f84d6d7b38f339d/gettyimages-1275761597.jpg?v=39487f160c45192867463e7cb2b51dad",
+            "publishedAt": "2024-02-09T20:23:10Z",
+            "content": "By opening a CD with an online bank now, savers can earn high returns long into the future.\r\nGetty Images/iStockphoto\r\nInflation has caused economic pain for millions of Americans in recent years. Wh… [+4263 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "NY attorney general expands crypto lawsuit, sees $3 bln fraud - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/technology/ny-attorney-general-expands-crypto-lawsuit-sees-3-bln-fraud-2024-02-09/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-09T20:14:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Hermes sales outstrip luxury rivals, send shares to record high - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/business/retail-consumer/hermes-sales-jump-175-demand-expensive-goods-persists-2024-02-09/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-09T19:48:29Z",
+            "content": null
         },
         {
             "source": {
@@ -290,6 +511,45 @@
         },
         {
             "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "How the Fed's inflation fight has changed over the last year - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/02/09/us-economy-inflation-fed-compare-years",
+            "urlToImage": null,
+            "publishedAt": "2024-02-09T19:21:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GMA"
+            },
+            "author": "GMA Team",
+            "title": "It's National Pizza Day! Shop these tools to make your own pie at home - Good Morning America",
+            "description": "From pizza cutters, to pizza ovens, to cast iron skillets, to pizza stones, enjoy a pizza party at home with these must-have tools to make your own pie.",
+            "url": "https://www.goodmorningamerica.com/shop/story/tools-make-pizza-at-home-107076729",
+            "urlToImage": "https://s.abcnews.com/images/GMA/GMA_NationalPizzaDay_V01_GV_1707431888684_hpMain_16x9_992.jpg",
+            "publishedAt": "2024-02-09T19:18:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Finland: Finnair to Weigh Passengers And Their Luggage Before Takeoff | Firstpost America - Firstpost",
+            "description": "Finland: Finnair to Weigh Passengers And Their Luggage Before Takeoff | Firstpost AmericaFinnish airline company Finnair is now voluntarily making their pass...",
+            "url": "https://www.youtube.com/watch?v=PSz9BUSFr6I",
+            "urlToImage": "https://i.ytimg.com/vi/PSz9BUSFr6I/maxresdefault.jpg",
+            "publishedAt": "2024-02-09T19:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Motley Fool"
             },
@@ -300,19 +560,6 @@
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/y0TPZsCsnLNoOEa9UIjaJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjY-/https://media.zenfs.com/en/motleyfool.com/d2f97cba72e941b58f2f15683bede34b",
             "publishedAt": "2024-02-09T19:06:59Z",
             "content": "Shares of Newell Brands(NASDAQ: NWL), the parent of brands like Rubbermaid and Elmer's, were heading lower today after the company posted solid fourth-quarter results but offered lackluster guidance … [+2764 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Instagram and Threads will soon recommend less political content - The Verge",
-            "description": "Meta is introducing changes that make it easier to avoid political content across Instagram and Threads unless users explicitly choose to have it recommended to them.",
-            "url": "https://www.theverge.com/2024/2/9/24067742/instagram-threads-meta-political-content-recommended-feeds",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/YavtHu47GBXbFJeKLrxkZwo474E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg",
-            "publishedAt": "2024-02-09T19:03:37Z",
-            "content": "Instagram and Threads will stop recommending political content\r\nInstagram and Threads will stop recommending political content\r\n / Users can choose to opt back in to seeing content related to laws, e… [+2893 chars]"
         },
         {
             "source": {
@@ -343,28 +590,28 @@
         {
             "source": {
                 "id": null,
-                "name": "TheStreet"
+                "name": "YouTube"
             },
-            "author": "Rob Lenihan",
-            "title": "Analysts reveal PayPal stock price targets after earnings - TheStreet",
-            "description": "Here's what could happen to PayPal shares next.",
-            "url": "https://www.thestreet.com/technology/analysts-reveal-paypal-stock-price-targets-after-earnings",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTczODE5NDkwNTk1Nzc2MDU4/paypal-venmo-taxes-what-you-need-to-know-about-p2p-platforms_l5dnjoum1-ty19-turbotax_large.jpg",
-            "publishedAt": "2024-02-09T17:55:22Z",
-            "content": "On Jan. 17 Alex Chriss made a bold promise.\r\nAppearing on CNBC, Chriss, who recently took over as PayPal's  (PYPL)  president and chief executive, addressed the less-than-stellar comments the online … [+4619 chars]"
+            "author": null,
+            "title": "How to Trade the Magnificent Seven in 2024 - Bloomberg Television",
+            "description": "Jurrien Timmer, Director of Global Macro at Fidelity Investments, discusses trading and investing strategies as the world's most valuable technology companie...",
+            "url": "https://www.youtube.com/watch?v=CyzZh6WDsiY",
+            "urlToImage": "https://i.ytimg.com/vi/CyzZh6WDsiY/maxresdefault.jpg",
+            "publishedAt": "2024-02-09T17:03:29Z",
+            "content": null
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "financial-times",
+                "name": "Financial Times"
             },
-            "author": "Chris Isidore",
-            "title": "It’s not just Taylor Swift: Record number of private jet flights expected for this year’s Super Bowl - CNN",
-            "description": "No one’s trip to the Super Bowl is getting more attention than Taylor Swift. Her plan to make it from a Saturday night concert in Tokyo to Vegas for Sunday’s big game depends on a private jet. But she’s not the only one who isn’t flying commercial.",
-            "url": "https://www.cnn.com/2024/02/09/business/private-jets-super-bowl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24037069301480.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-02-09T16:59:42Z",
-            "content": "Clark County expects more than 1,000 private jets -- a record -- to fly in for the Super Bowl.\r\nEven four local airports combined only have space to park 500 jets ahead of the game.\r\nLanding slots ar… [+4532 chars]"
+            "author": "Susannah Savage",
+            "title": "Cocoa prices soar to record high as El Niño batters West African growers - Financial Times",
+            "description": "Chocolate maker Hershey says 40% price rise this year will hurt profits",
+            "url": "https://www.ft.com/content/c163633a-cd9e-4962-8b7f-3d6c44463405",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ff2878f42-b592-4342-86c1-825e02d9ed43.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-02-09T16:59:39Z",
+            "content": "Global cocoa prices have soared to record highs as bad weather batters harvests in the worlds main producing countries in West Africa. \r\nNew York cocoa prices surged to $5,874 per ton on Thursday, a … [+2090 chars]"
         },
         {
             "source": {
@@ -382,119 +629,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Search Engine Land"
             },
-            "author": "Zacks Equity Research",
-            "title": "Alibaba (BABA) Q3 Earnings Miss Estimates, Revenues Rise Y/Y - Yahoo Finance",
-            "description": "Alibaba's (BABA) third-quarter fiscal 2024 results reflect strength across the International commerce, local services, Digital Media and Entertainment and...",
-            "url": "https://finance.yahoo.com/news/alibaba-baba-q3-earnings-miss-165000270.html",
-            "urlToImage": "https://media.zenfs.com/en/zacks.com/6aeef3c46a6c7ea6b556882abdd6f761",
-            "publishedAt": "2024-02-09T16:50:00Z",
-            "content": "Alibaba Group Holding Limited BABA reported third-quarter fiscal 2024 non-GAAP earnings of $2.67 per ADS (RMB 18.97), which missed the Zacks Consensus Estimate by 2.2%. The figure decreased 2% from t… [+6804 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "ABC News",
-            "title": "'The View' co-hosts share their favorite snacks for Super Bowl LVIII - ABC News",
-            "description": "Snack down on these delicious recipes this Super Bowl Sunday.",
-            "url": "https://abcnews.go.com/theview/view-hosts-share-favorite-snacks-super-bowl-lviii/story?id=107076528",
-            "urlToImage": "https://i.abcnewsfe.com/a/851cbded-7e7d-46cf-ba57-b9cce5be68f6/super-snackdown-abc-thg-240209_1707491416363_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-02-09T15:57:14Z",
-            "content": "Let's be honest, half of the excitement leading up to Super Bowl Sunday is all about what's on the table. There's nothing like an amazing snack spread on the biggest sports day of the year, and this … [+3381 chars]"
+            "author": "Nicola Agius",
+            "title": "Pinterest announces major ad partnership with Google - Search Engine Land",
+            "description": "The collaboration makes Google the second third-party ad partner for Pinterest, following its multi-year collaboration with Amazon.",
+            "url": "https://searchengineland.com/pinterest-ad-partnership-google-437390",
+            "urlToImage": "https://searchengineland.com/wp-content/seloads/2016/06/pinterest-mobile-app-phone-ss-1920.jpg",
+            "publishedAt": "2024-02-09T16:24:00Z",
+            "content": "Pinterest announced a new ad partnership with Google designed to boost its ad revenue.\r\nThis marks Google as the second third-party ad partner for Pinterest, following its multi-year collaboration wi… [+1623 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
-            },
-            "author": "Dade Hayes",
-            "title": "AMC Networks Stock Punished After Shaky Q4 Earnings Report; CEO Kristin Dolan Downplays M&A Scenarios, Says Plan Is To “Stick To Our Knitting” As “Marketplace Sorts Itself Out” - Deadline",
-            "description": "Shares in AMC Networks dropped sharply Friday following a shaky fourth-quarter earnings report and a conference call with Wall Street analysts.",
-            "url": "http://deadline.com/2024/02/amc-networks-stock-earnings-ceo-kristin-dolan-mergers-1235820281/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/02/AMC-Networks-illo.jpg?w=1024",
-            "publishedAt": "2024-02-09T15:44:00Z",
-            "content": "Shares in AMC Networks dropped sharply in early trading Friday following a shaky fourth-quarter earnings report and a conference call with Wall Street analysts.\r\nThe stock initially drifted down by m… [+2977 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "name": "FX Empire"
             },
             "author": null,
-            "title": "JetBlue planes clip wings at Boston Logan Airport - ABC News",
-            "description": "The left winglet of a JetBlue plane bound for Las Vegas clipped another JetBlue plane while de-icing on the runway early Thursday morning. Both jets were dam...",
-            "url": "https://www.youtube.com/watch?v=AJdLYaJUKrk",
-            "urlToImage": "https://i.ytimg.com/vi/AJdLYaJUKrk/maxresdefault.jpg",
-            "publishedAt": "2024-02-09T15:25:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Ryan Vlastelica, Bloomberg",
-            "title": "$1.72 trillion AI chip giant Nvidia has rocketed in value so fast it’s about to pass Amazon as the 4th-most valuable U.S. company - Fortune",
-            "description": "Jensen Huang's company has added nearly Tesla’s entire market capitalization in the past two months alone.",
-            "url": "https://fortune.com/2024/02/09/how-valuable-nvidia-amazon-billionaire-jensen-huang/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1885796923-e1707491832141.jpg?resize=1200,600",
-            "publishedAt": "2024-02-09T15:20:00Z",
-            "content": "Nvidia Corp.s stock has rallied so much this year that its now threatening to overtake Amazon.com Inc. to become the fourth most valuable US company.Having added nearly Tesla Inc.s entire market capi… [+3750 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Philip van Doorn",
-            "title": "Why income hunters should go for dividend compounders over high yielding stocks - MarketWatch",
-            "description": "Companies in the S&P 500 that have increased their payouts the most tend to be strong overall performers",
-            "url": "https://www.marketwatch.com/story/why-income-hunters-should-go-for-dividend-compounders-over-high-yielding-stocks-1484f2d9",
-            "urlToImage": "https://images.mktw.net/im-32143307/social",
-            "publishedAt": "2024-02-09T15:05:00Z",
-            "content": "An investor who needs income right now has an advantage short-term interest rates remain high and you can easily get a yield of 5% with no risk with a bank CD (if you are below deposit insurance limi… [+8906 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "How Spirit Airlines’ Stock Crashed 60% | WSJ What Went Wrong - The Wall Street Journal",
-            "description": "Budget airline Spirit was soaring earlier this year as Frontier and JetBlue engaged in a bidding war to buy out the smaller airline. But now, Spirit is strug...",
-            "url": "https://www.youtube.com/watch?v=JTfwq81LMCI",
-            "urlToImage": "https://i.ytimg.com/vi/JTfwq81LMCI/maxresdefault.jpg",
-            "publishedAt": "2024-02-09T15:00:15Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Rachel Wells",
-            "title": "20 ChatGPT Prompts To Improve Communication Skills In 2024 - Forbes",
-            "description": "Regardless of where you work or your job title, you will need exceptional communication skills. Here are 20 ChatGPT prompts you can use to communicate effectively.",
-            "url": "https://www.forbes.com/sites/rachelwells/2024/02/09/20-chatgpt-prompts-to-improve-communication-skills-in-2024/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65c63b7e3d74d8978576614f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-02-09T14:59:06Z",
-            "content": "Communication skills affect every interaction and transaction in the workplace, and account for ... [+] career and business success or failure\r\ngetty\r\nRegardless of where you work or your job title, … [+7431 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Barclays to end direct financing of new oil and gas fields - BBC.com",
-            "description": "The banking giant has been coming under mounting pressure to curb its support for fossil fuels.",
-            "url": "https://www.bbc.com/news/business-68249168",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/492F/production/_129253781_oilworker.png",
-            "publishedAt": "2024-02-09T14:36:59Z",
-            "content": "By Theo LeggettBusiness correspondent, BBC News\r\nBarclays has announced it will no longer provide direct funding for new oil and gas projects.\r\nThe banking giant also says it will restrict lending to… [+3079 chars]"
+            "title": "Natural Gas Weekly Price Forecast – Natural Gas Continues to Look For a Bottom - FX Empire",
+            "description": "Natural gas markets have fallen again this week, as we are now dancing around the crucial $2.00 level, an area that should continue to be important.",
+            "url": "https://www.fxempire.com/forecasts/article/natural-gas-weekly-price-forecast-natural-gas-continues-to-look-for-a-bottom-1408611",
+            "urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2024/02/shutterstock_2176932633.jpg",
+            "publishedAt": "2024-02-09T16:11:00Z",
+            "content": "A bounce from here does make a certain amount of sense though, as we are at such extreme lows. But quite frankly, that is something that you need to be very cautious doing because we could drop anoth… [+836 chars]"
         },
         {
             "source": {
@@ -511,29 +667,29 @@
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": null,
+                "name": "Simply Wall St"
             },
-            "author": "Axios",
-            "title": "ChatGPT and AI replacing jobs is a worry for workers, per WSU survey - Axios",
-            "description": null,
-            "url": "https://www.axios.com/local/seattle/2024/02/09/chat-gpt-ai-workers-replace-employees",
-            "urlToImage": null,
-            "publishedAt": "2024-02-09T14:06:07Z",
-            "content": null
+            "author": null,
+            "title": "PayPal Holdings Full Year 2023 Earnings: EPS Beats Expectations - Simply Wall St",
+            "description": "PayPal Holdings ( NASDAQ:PYPL ) Full Year 2023 Results Key Financial Results Revenue: US$29.8b (up 8.2% from FY 2022...",
+            "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-pypl/paypal-holdings/news/paypal-holdings-full-year-2023-earnings-eps-beats-expectatio",
+            "urlToImage": "https://images.simplywall.st/asset/company-cover/112732-main-header/1585186806605",
+            "publishedAt": "2024-02-09T14:10:12Z",
+            "content": "Key Financial Results\r\n<ul><li>Revenue: US$29.8b (up 8.2% from FY 2022).</li><li>Net income: US$4.25b (up 76% from FY 2022).</li><li>Profit margin: 14% (up from 8.8% in FY 2022). The increase in marg… [+1966 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ForexLive"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Adam Button",
-            "title": "US Treasury yields fall on CPI revisions, then rebound - ForexLive",
-            "description": "The smart money is supposed to be in the bond market but even Treasuries can't figure out what to make of US CPI benchmark revisions.",
-            "url": "https://www.forexlive.com/news/us-treasury-yields-fall-on-cpi-revisions-then-rebound-20240209/",
-            "urlToImage": "https://images.forexlive.com/images/US%202s_id_2e23b19b-6f93-44d9-8917-01ed0d6217b2_size975.jpg",
-            "publishedAt": "2024-02-09T14:01:00Z",
-            "content": "High risk warning:\r\nForeign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade fo… [+2129 chars]"
+            "author": "Zacks Equity Research",
+            "title": "Tesla, Inc. (TSLA) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+            "description": "Tesla (TSLA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "url": "https://finance.yahoo.com/news/tesla-inc-tsla-trending-stock-140010134.html",
+            "urlToImage": "https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
+            "publishedAt": "2024-02-09T14:00:10Z",
+            "content": "Tesla (TSLA) has recently been on Zacks.com's list of the most searched stocks. Therefore, you might want to consider some of the key factors that could influence the stock's performance in the near … [+5443 chars]"
         },
         {
             "source": {
@@ -551,19 +707,6 @@
         {
             "source": {
                 "id": null,
-                "name": "10TV"
-            },
-            "author": "10TV Web Staff",
-            "title": "Where to find deals for National Pizza Day in central Ohio - 10TV",
-            "description": "Check out some of the best pizza deals around central Ohio in honor of this special day.",
-            "url": "https://www.10tv.com/article/news/local/national-pizza-day-deals-central-ohio/530-edfc5bee-c101-48a2-aad7-1c2218b021a1",
-            "urlToImage": "https://media.tegna-media.com/assets/WBNS/images/54db1978-cc5c-4f5e-9602-96176eece24c/54db1978-cc5c-4f5e-9602-96176eece24c_1140x641.jpg",
-            "publishedAt": "2024-02-09T13:16:00Z",
-            "content": "COLUMBUS, Ohio Pizza lovers unite! Feb. 9 marks National Pizza Day.\r\nAs several pizza restaurants prepare for one of their busiest days of the year, many are offering deals and discounts.\r\nCheck out … [+1936 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Motley Fool"
             },
             "author": "Keithen Drury",
@@ -573,6 +716,19 @@
             "urlToImage": "https://g.foolcdn.com/editorial/images/763784/person-on-their-phone-looking-at-stock-prices.jpg",
             "publishedAt": "2024-02-09T13:03:00Z",
             "content": "Few companies have taken investors on as much of a roller coaster ride as Meta Platforms (META -0.40%), formerly known as Facebook. In late 2021, Meta's stock hit an all-time high of $382 before plum… [+3635 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Simplyrecipes.com"
+            },
+            "author": "https://www.facebook.com/simplyrecipes/",
+            "title": "12 Easy Slow Cooker Recipes for the Big Game - Simply Recipes",
+            "description": "These slow cooker recipes will score touchdowns on game day!",
+            "url": "https://www.simplyrecipes.com/easy-slow-cooker-recipes-for-game-day-8557122",
+            "urlToImage": "https://www.simplyrecipes.com/thmb/qfv7oKezG9GBGaj945ZRLoM-E7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Slow-Cooker-Super-Bowl-Lead-1-00a0f94fd84e4c28a76d093132410842.jpg",
+            "publishedAt": "2024-02-09T12:30:00Z",
+            "content": "Game day means grazing, and grazing in the wintertime is especially fun when you're digging into something hot and oozy or bold and hearty. Or both!\r\nThese 12 slow cooker recipes are all total touchd… [+243 chars]"
         },
         {
             "source": {
@@ -590,6 +746,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Investorplace.com"
+            },
+            "author": "Louis Navellier and the InvestorPlace Research Staff",
+            "title": "7 Tech Stocks Primed for a Red-Hot 2024 - InvestorPlace",
+            "description": "Tech stocks had a great 2023 and are projected to be just as strong this year. These tech stocks are leading the charge.",
+            "url": "https://investorplace.com/market360/2024/02/7-tech-stocks-primed-for-a-red-hot-2024/",
+            "urlToImage": "https://investorplace.com/wp-content/uploads/2019/07/tech1600e.jpg",
+            "publishedAt": "2024-02-09T12:18:13Z",
+            "content": "Last year was an amazing year for tech stocks. Coming off a disappointing 2022, tech rallied to make up much of its losses and set the stage for further gains in 2022.\r\nThe tech-heavy Nasdaq composit… [+8419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "MarketWatch"
             },
             "author": "Ciara Linnane",
@@ -602,32 +771,6 @@
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Jaclyn Peiser, Emma Kumer",
-            "title": "Why Super Bowl parties are so expensive - The Washington Post",
-            "description": "It’s still expensive to host a Super Bowl party. Here’s a breakdown of what determines the cost of the avocados in your guacamole and beef in your sliders.",
-            "url": "https://www.washingtonpost.com/business/interactive/2024/super-bowl-party-expensive/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NFB57PU7MZFZ5LTDDRP7BHL3QI.jpg&w=1200",
-            "publishedAt": "2024-02-09T11:01:22Z",
-            "content": "Once higher, food prices tend to be very sticky, said Scott Brown, an agriculture economist at the University of Missouri. Theyre vulnerable to multiple factors, including supply chain disruptions, c… [+321 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HuffPost"
-            },
-            "author": "Caroline Bologna",
-            "title": "Americans' Dip Preferences For The Super Bowl, Broken Down By State - HuffPost",
-            "description": "Google shared the most uniquely searched game day dips across the U.S.",
-            "url": "https://www.huffpost.com/entry/super-bowl-dips-by-state_l_65bceeade4b0a3aad5a4c31f",
-            "urlToImage": "https://img.huffingtonpost.com/asset/65c4655c2200003600fb14ad.jpeg?ops=1200_630",
-            "publishedAt": "2024-02-09T10:45:09Z",
-            "content": "From chili cheese to buffalo chicken to spinach and artichoke, the game day dip options are endless. \r\nChicken wings, nachos and beer have long been game day staples. But for many Americans, Super Bo… [+4327 chars]"
-        },
-        {
-            "source": {
                 "id": "axios",
                 "name": "Axios"
             },
@@ -636,21 +779,21 @@
             "description": null,
             "url": "https://www.axios.com/2024/02/09/super-bowl-chicken-wings",
             "urlToImage": null,
-            "publishedAt": "2024-02-09T10:30:43Z",
+            "publishedAt": "2024-02-09T10:30:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Motley Fool"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Maurie Backman",
+            "title": "The One Thing You Need to Know About Social Security Well Ahead of Retirement - The Motley Fool",
+            "description": "It's something that could change your approach to retirement planning.",
+            "url": "https://www.fool.com/retirement/2024/02/09/the-one-thing-you-need-to-know-about-social-securi/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/763772/social-security-cards-1_gettyimages-157422696.jpg",
+            "publishedAt": "2024-02-09T10:04:00Z",
+            "content": "When you're in your 20s and 30s, Social Security is probably not something you're likely thinking about. At that point, you're decades away from being eligible for benefits. Also, you may be more foc… [+2697 chars]"
         },
         {
             "source": {
@@ -664,45 +807,6 @@
             "urlToImage": "https://www.realsimple.com/thmb/BG6KIqt3k_fv7SAdXajEju4n7Hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rs-whall-cordless-vacuum-cleaner-tout-5d6527e708a843ffa21e5ce0c34c9b07.jpg",
             "publishedAt": "2024-02-09T10:00:00Z",
             "content": "Clever cleaning gadgets are typically on the pricey end, which is why finding one that can handle multiple tasks is a surefire way to get your moneys worth. If youre in the market for a vacuum that c… [+2853 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Ivan Mehta",
-            "title": "Pinterest announces a new ad deal with Google as it approaches 500M MAUs - TechCrunch",
-            "description": "Pinterest announced a new ad deal with Google as the company aims to ramp up its ad revenue after partnering with Amazon last year.",
-            "url": "https://techcrunch.com/2024/02/09/pinterest-announces-a-new-ad-deal-with-google-as-it-approaches-500m-maus/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1070303232.jpg?resize=1200,900",
-            "publishedAt": "2024-02-09T09:48:27Z",
-            "content": "Pinterest announced a new ad deal with Google as the company aims to ramp up its ad revenue. Google is the social platform’s second third-party ad partner after Amazon signed a multiyear deal with Pi… [+1976 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "Amit Singh",
-            "title": "Cloudflare Stock (NYSE:NET) Spikes on Stellar Q4 Earnings - TipRanks.com - TipRanks",
-            "description": "Shares of internet solutions and cloud-based cybersecurity service provider Cloudflare (NYSE:NET) jumped nearly 24% higher in Thursday’s after-hours of trade. This ...",
-            "url": "https://www.tipranks.com/news/cloudflare-stock-nysenet-spikes-on-stellar-q4-earnings",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/02/shutterstock_1044968086-750x406.jpg",
-            "publishedAt": "2024-02-09T06:26:19Z",
-            "content": "Shares of internet solutions and cloud-based cybersecurity service provider Cloudflare (NYSE:NET) jumped nearly 24% higher in Thursdays after-hours of trade. This spike in NET stock came after the co… [+2284 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Sarah Rumpf-Whitten",
-            "title": "Popular clothing steamers sold at Walmart, Amazon, others recalled due to 'serious burn hazard' - Fox Business",
-            "description": "Vornado's handheld garment steamers has recalled about 2 million garment steamers, and an additional 13,000 steamers sold in Canada, because of reports of serious burns.",
-            "url": "https://www.foxbusiness.com/retail/popular-clothing-steamers-sold-walmart-amazon-others-recalled-due-serious-burn-hazard",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/Double-Rectangle-Inset.jpg?ve=1&tl=1",
-            "publishedAt": "2024-02-09T03:17:00Z",
-            "content": "Vornado is recalling 2 million handheld garment steamers over a serious burn hazard to consumers, the U.S. Consumer Product Safety Commission said Thursday.\r\nThe agency said that the recall includes … [+2520 chars]"
         },
         {
             "source": {
@@ -720,58 +824,6 @@
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "AI companies join US tech safety consortium to address risks | BBC News - BBC News",
-            "description": "Leading artificial intelligence companies are among more than 200 entities joining a new US consortium to support the safe development and deployment of gene...",
-            "url": "https://www.youtube.com/watch?v=gPBsjfbtBJ4",
-            "urlToImage": "https://i.ytimg.com/vi/gPBsjfbtBJ4/maxresdefault.jpg",
-            "publishedAt": "2024-02-08T23:00:40Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Matt Richardson",
-            "title": "Here's what a 5% CD interest rate will earn you in 3 years - CBS News",
-            "description": "Considering opening a long-term CD? Here's how much a 5% CD could earn in three years.",
-            "url": "https://www.cbsnews.com/news/what-a-5-cd-interest-rate-will-earn-in-3-years/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/08/85877420-44ab-462b-9f51-85105dc5acff/thumbnail/1200x630/eb51853efb73a5a11999b20df4b1586d/gettyimages-1368379558.jpg?v=39487f160c45192867463e7cb2b51dad",
-            "publishedAt": "2024-02-08T21:34:13Z",
-            "content": "By calculating the potential returns, savers can better determine the right amount to put into a long-term CD.\r\nGetty Images\r\nWhile borrowers have struggled in the last two years thanks to elevated i… [+3367 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lori Ann LaRocco",
-            "title": "Trade leaders urge governments around the world to join Red Sea military effort - CNBC",
-            "description": "The U.S.-coordinated Red Sea defense effort, Operation Prosperity Guardian, has 23 member countries, but trade groups are calling on more nations to join.",
-            "url": "https://www.cnbc.com/2024/02/08/trade-leaders-urge-governments-around-world-to-join-red-sea-defense.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107356631-1704892869704-gettyimages-1922026975-syd_8294.jpeg?v=1707425419&w=1920&h=1080",
-            "publishedAt": "2024-02-08T21:25:21Z",
-            "content": "A ship transits the Suez Canal towards the Red Sea on January 10, 2024 in Ismailia, Egypt.\r\nTrade associations representing sectors across the global economy have joined an open letter urging more go… [+4627 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FX Empire"
-            },
-            "author": null,
-            "title": "Natural Gas Price Forecast: Plummets to 42-Month Low, Eyes Next Target - FX Empire",
-            "description": "Natural gas reaches 42-month low, signaling potential for further decline amidst bearish sentiment and moving average confirmation.",
-            "url": "https://www.fxempire.com/forecasts/article/natural-gas-price-forecast-plummets-to-42-month-low-eyes-next-target-1408356",
-            "urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2024/02/Natural-GasJ-1.jpg",
-            "publishedAt": "2024-02-08T21:13:00Z",
-            "content": "Possible Acceleration of Decline\r\nCertainly, a rapid drop in the price of natural gas has been seen before. The 75% drop from the November 2022 swing high in only 13 weeks is a good example. Regardle… [+1368 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Endpoints News"
             },
             "author": "Kyle LaHucik",
@@ -784,68 +836,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "AdAge.com"
+                "id": "axios",
+                "name": "Axios"
             },
-            "author": "Ad Age",
-            "title": "Uber Eats Super Bowl ad angers food allergy advocates - Ad Age",
+            "author": "Axios",
+            "title": "The cost of interest on U.S. debt is soaring - Axios",
             "description": null,
-            "url": "https://adage.com/article/special-report-super-bowl/uber-eats-super-bowl-commercial-angers-food-allergy-advocates/2540766",
+            "url": "https://www.axios.com/2024/02/08/us-government-debt-gdp-interest-costs",
             "urlToImage": null,
-            "publishedAt": "2024-02-08T21:00:28Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "The Wall Street Journal",
-            "title": "UBS Loses to Whistleblower in Wide-Reaching Supreme Court Decision - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/articles/ubs-loses-to-whistleblower-in-wide-reaching-supreme-court-decision-da59349e",
-            "urlToImage": null,
-            "publishedAt": "2024-02-08T20:23:00Z",
+            "publishedAt": "2024-02-08T20:21:52Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "The Economist"
+                "name": "Sec.gov"
             },
-            "author": "The Economist",
-            "title": "Warning lights are flashing red over China's economy - The Economist",
-            "description": "Our podcast on markets, the economy and business. This week, how much trouble is China’s economy really in?",
-            "url": "https://www.economist.com/podcasts/2024/02/08/warning-lights-are-flashing-red-over-chinas-economy",
-            "urlToImage": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240210_PDP511.jpg",
-            "publishedAt": "2024-02-08T18:13:42Z",
-            "content": "Listen to this podcast\r\nEnjoy more audio and podcasts oniOSorAndroid.\r\nYour browser does not support the &lt;audio&gt; element.\r\nIn China, investors are feeling the pain everywhere you look. The hous… [+998 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Joseph Cotterill, Martin Arnold, Claire Jones",
-            "title": "China to export deflation to the world as economy stumbles - Financial Times",
-            "description": "Prices of products shipped overseas have been falling at the fastest rate since 2008 crisis",
-            "url": "https://www.ft.com/content/3b45b700-e7ca-4a8a-9946-21e289d9fefe",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fbce63282-86ad-4c2e-bed3-c59fa5608b20.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2024-02-08T17:37:36Z",
-            "content": "Global investors expect falling prices in China to push down inflation rates worldwide this year, as excess capacity in its slowing economy prompts Chinese exporters to cut prices on goods they sell … [+4748 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Parul Singh",
-            "title": "Uber-Healthy Snacks for Super Bowl Sunday - Yahoo Entertainment",
-            "description": "Are you all geared up for Super Bowl Sunday? The big game isn’t all about football; it’s also about good food you can enjoy with great friends. From a table ...",
-            "url": "https://www.yahoo.com/entertainment/uber-healthy-snacks-super-bowl-155708438.html",
-            "urlToImage": "https://media.zenfs.com/en/momtastic_536/32b2ae2500a0412e927e148930355ad4",
-            "publishedAt": "2024-02-07T15:57:08Z",
-            "content": "Are you all geared up for Super Bowl Sunday? The big game isnt all about football; its also about good food you can enjoy with great friends. From a table full of snacks to cheesy and meaty delicacie… [+4209 chars]"
+            "author": "SEC.gov",
+            "title": "SEC Adopts Amendments to Enhance Private Fund Reporting - SEC.gov",
+            "description": null,
+            "url": "https://www.sec.gov/news/press-release/2024-17",
+            "urlToImage": null,
+            "publishedAt": "2024-02-08T20:19:42Z",
+            "content": null
         }
     ]
 }

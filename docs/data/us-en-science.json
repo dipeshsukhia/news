@@ -1,7 +1,59 @@
 {
     "status": "ok",
-    "totalResults": 62,
+    "totalResults": 68,
     "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Angela Dewan",
+            "title": "Greenland has lost ice 36 times the size of New York. That’s a huge problem for the planet - CNN",
+            "description": "The amount of vegetation doubled in three decades, as swaths of the country that were once covered in ice and snow were transformed into wetlands or shrub area.",
+            "url": "https://www.cnn.com/2024/02/13/climate/greenland-ice-loss-vegetation-climate-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/03-greenland-ice-sheet-univ-leeds.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-13T10:00:00Z",
+            "content": "The area of Greenlands ice loss in the past three decades is roughly 36 times the size of New York City land that is rapidly giving way to wetlands and shrubs, a study published Tuesday shows.\r\nThe a… [+2891 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Tessa Koumoundouros",
+            "title": "It's Confirmed. A Major Atlantic Ocean Current Is Verging on Collapse. - ScienceAlert",
+            "description": "Last year a concerning study suggested one of Earth's major ocean currents is racing towards collapse.",
+            "url": "https://www.sciencealert.com/its-confirmed-a-major-atlantic-ocean-current-is-verging-on-collapse",
+            "urlToImage": "https://www.sciencealert.com/images/2024/02/SwirlOfSurfaceCurrentsDancingAcrossTheAtlanticOceanColouredByTemperature.jpg",
+            "publishedAt": "2024-02-13T06:27:57Z",
+            "content": "Last year a concerning study suggested one of Earth's major ocean currents is racing towards collapse. Unfortunately, new data now backs that up.\r\n\"The temperature, sea level and precipitation change… [+3532 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Giantfreakinrobot.com"
+            },
+            "author": "Jason Collins",
+            "title": "The Final Countdown Comes True As Venus Mission Is Go - Giant Freakin Robot",
+            "description": "Space exploration is ramping up, and finally, Venus is getting some of the attention Mars has been receiving for years.",
+            "url": "https://www.giantfreakinrobot.com/sci/final-countdown-venus-mission.html",
+            "urlToImage": "https://www.giantfreakinrobot.com/wp-content/uploads/2024/02/Venus.jpg",
+            "publishedAt": "2024-02-13T05:05:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mit.edu"
+            },
+            "author": "Adam Zewe | MIT News",
+            "title": "A new way to let AI chatbots converse all day without crashing - MIT News",
+            "description": "Researchers developed a technique that enables an AI chatbot like ChatGPT to conduct a day-long conversation with a human collaborator without slowing down or crashing, no matter how much text the conversation involves.",
+            "url": "https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213",
+            "urlToImage": "https://news.mit.edu/sites/default/files/images/202402/MIT-Streaming-LLMs-01-PRESS.jpg",
+            "publishedAt": "2024-02-13T05:00:00Z",
+            "content": "When a human-AI conversation involves many rounds of continuous dialogue, the powerful large language machine-learning models that drive chatbots like ChatGPT sometimes start to collapse, causing the… [+7294 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -14,6 +66,45 @@
             "urlToImage": "https://scitechdaily.com/images/Quantum-Physics-Particle-Spin.jpg",
             "publishedAt": "2024-02-13T02:48:36Z",
             "content": "Researchers have identified a novel quantum state of matter with chiral currents, potentially revolutionizing electronics and quantum technologies. This breakthrough, confirmed through direct observa… [+3491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Michelle Starr",
+            "title": "Earth Isn't Flat, But New Theory Suggests Jupiter Might Once Have Been - ScienceAlert",
+            "description": "The formation of planets might not always go the way we picture it in our heads.",
+            "url": "https://www.sciencealert.com/earth-isnt-flat-but-new-theory-suggests-jupiter-might-once-have-been",
+            "urlToImage": "https://www.sciencealert.com/images/2024/02/planet-pancake.jpg",
+            "publishedAt": "2024-02-12T23:13:57Z",
+            "content": "The formation of planets might not always go the way we picture it in our heads.\r\nNew simulations show large planets that form quite far away from their host stars start their lives not as a neat sph… [+3992 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASASpaceflight.com"
+            },
+            "author": "Adrian Beil",
+            "title": "IDEFIX Phobos rover sent to Japan ahead of mission to Mars - NASASpaceFlight.com - NASASpaceflight.com",
+            "description": "The Martian Moons eXploration (MMX) mission is JAXA’s lead mission that plans to survey and…",
+            "url": "https://www.nasaspaceflight.com/2024/02/idefix-interview/",
+            "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2024/02/0f9a6881-e4d8-410c-bfbc-c8a59ce4964a.jpeg",
+            "publishedAt": "2024-02-12T22:28:35Z",
+            "content": "17The Martian Moons eXploration (MMX) mission is JAXA’s lead mission that plans to survey and explore Mars’ two moons, Phobos and Deimos. While the Japanese agency will build the main payload, the Ge… [+7897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Scientists identify water molecules on asteroids for the first time - Phys.org",
+            "description": "Using data from the retired Stratospheric Observatory for Infrared Astronomy (SOFIA)—a joint project of NASA and the German Space Agency at DLR—Southwest Research Institute scientists have discovered, for the first time, water molecules on the surface of an a…",
+            "url": "https://phys.org/news/2024-02-scientists-molecules-asteroids.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/swri-scientists-identi.jpg",
+            "publishedAt": "2024-02-12T22:18:03Z",
+            "content": "Using data from the retired Stratospheric Observatory for Infrared Astronomy (SOFIA)a joint project of NASA and the German Space Agency at DLRSouthwest Research Institute scientists have discovered, … [+3560 chars]"
         },
         {
             "source": {
@@ -44,6 +135,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Archaeologists discover oldest known bead in the Americas - Phys.org",
+            "description": "University of Wyoming archaeology Professor Todd Surovell and his team of collaborators have discovered a tube-shaped bead made of bone that is about 12,940 years old. The bead, found at the La Prele Mammoth site in Converse County, is the oldest known bead i…",
+            "url": "https://phys.org/news/2024-02-archaeologists-oldest-bead-americas.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/archaeologists-discove.jpg",
+            "publishedAt": "2024-02-12T21:31:03Z",
+            "content": "University of Wyoming archaeology Professor Todd Surovell and his team of collaborators have discovered a tube-shaped bead made of bone that is about 12,940 years old. The bead, found at the La Prele… [+2949 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurism"
+            },
+            "author": "Noor Al-Sibai",
+            "title": "Scientists Surprised to Find Mushroom Growing Out of Frog - Futurism",
+            "description": "When going on a nature walk, an Indian scientist discovered something astounding — a frog that seemed to have a mushroom growing out of it.",
+            "url": "https://futurism.com/the-byte/scientists-find-mushroom-frog",
+            "urlToImage": "https://wp-assets.futurism.com/2024/02/scientists-find-mushroom-frog.jpg",
+            "publishedAt": "2024-02-12T21:07:47Z",
+            "content": "You don't see this kind of thing every day.\r\nCottage Core\r\nOn a nature walk with friends, an Indian scientist uncovered something astounding a frog that seemed to have a mushroom growing out of its b… [+2717 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Space.com"
             },
             "author": "Andrew Jones",
@@ -69,16 +186,29 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "NASA"
             },
-            "author": "Jackie Wattles",
-            "title": "Just one month after failed mission, a second US lunar lander is ready to make an attempt - CNN",
-            "description": "The Odysseus spacecraft will be the second US-made lunar lander to launch amid a new space race. It follows a failed NASA-sponsored mission last month.",
-            "url": "https://www.cnn.com/2024/02/12/world/odysseus-lunar-lander-nasa-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/im-00309-orig.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-02-12T19:13:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAfter a failed lunar landing mission last month, NASA … [+6294 chars]"
+            "author": "Victoria Ugalde",
+            "title": "Collins Aerospace Tests NASA Space Station Suit in Weightlessness - NASA",
+            "description": "A key NASA design milestone was recently completed by Collins Aerospace as the company works to develop a next-generation spacesuit for use on the",
+            "url": "https://www.nasa.gov/image-article/collins-aerospace-tests-nasa-space-station-suit-in-weightlessness/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/02/collins-0g-6.jpg",
+            "publishedAt": "2024-02-12T19:26:20Z",
+            "content": "A key NASA design milestone was recently completed by Collins Aerospace as the company works to develop a next-generation spacesuit for use on the International Space Station.\r\nThe milestone a pressu… [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Alfonso Maruccia",
+            "title": "An experimental 3D printer will melt steel to create new objects... in space - TechSpot",
+            "description": "In a historic development, the ISS is now equipped with a 3D printer capable of theoretically shaping new objects by melting stainless-steel wire. This experimental printer, designed...",
+            "url": "https://www.techspot.com/news/101857-experimental-3d-printer-melt-steel-create-new-objects.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-12-image-16.jpg",
+            "publishedAt": "2024-02-12T19:13:12Z",
+            "content": "Space Science: The recently launched Cygnus NG-20 robotic spacecraft is currently docked with the International Space Station (ISS). The resupply mission is packed with supplies for the ISS crew as w… [+2490 chars]"
         },
         {
             "source": {
@@ -92,6 +222,19 @@
             "urlToImage": "https://i.insider.com/65ca385c610ab33aa5df00dc?width=1200&format=jpeg",
             "publishedAt": "2024-02-12T18:27:00Z",
             "content": "Researchers on the hunt to settle a long-standing debate ended up rewriting the timeline of ancient human history in the process.\r\nFor years, archaeologists have argued over an ancient culture with t… [+5726 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foxweather.com"
+            },
+            "author": "Emilee Speck",
+            "title": "Geomagnetic storm could create vivid Northern Lights display from New York to Idaho - Fox Weather ",
+            "description": "Materials from the Sun hitting Earth's atmosphere could create a vivid Northern Lights display for parts of the upper Midwest and Northern U.S. early this week.",
+            "url": "https://www.foxweather.com/earth-space/geomagnetic-storm-northern-lights-new-york-idaho",
+            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/04/1024/512/Northern-Lights-Devils-Lake-Wisconsin-04242023.png?ve=1&tl=1",
+            "publishedAt": "2024-02-12T18:19:00Z",
+            "content": "Materials from the Sun hitting Earth's atmosphere could create a vivid Northern Lights display for parts of the upper Midwest and northern U.S. early this week.\r\nNOAA's Space Weather Prediction Cente… [+1756 chars]"
         },
         {
             "source": {
@@ -118,19 +261,6 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/seti-institute-employs.jpg",
             "publishedAt": "2024-02-12T17:29:18Z",
             "content": "A team of researchers from the SETI Institute, Berkeley SETI Research Center and the University of Washington reported an exciting development for the field of astrophysics and the search for extrate… [+4134 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Unilad.com"
-            },
-            "author": "Gerrard Kaonga",
-            "title": "Boy scout stuns neighborhood after building a nuclear reactor in his mom's shed - UNILAD",
-            "description": "A boy scout once showed off their ingenuity as they were able to create a nuclear reactor in their mom's shed at 15.",
-            "url": "https://www.unilad.com/news/david-charles-hahn-boy-scout-nuclear-reactor-shed-611133-20240212",
-            "urlToImage": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/blt949ea8e16e463049/blt40beecfdd6bea1bb/65ca38859f8600040ac14dde/boy-scout-launcher-mothers-shed-moms.png",
-            "publishedAt": "2024-02-12T17:21:34Z",
-            "content": "Boy scouts are expected to learn how to be self-sufficient and forward thinking when it comes to lifes challenge. \r\nI didnt know that also included the ability to create nuclear reactors, however. \r\n… [+2924 chars]"
         },
         {
             "source": {
@@ -174,6 +304,19 @@
         {
             "source": {
                 "id": null,
+                "name": "NASA"
+            },
+            "author": null,
+            "title": "Sense the Solar Eclipse with NASA’s Eclipse Soundscapes Project - Science@NASA",
+            "description": "When darkness sweeps across the landscape during a total solar eclipse, unusual things start happening. Fooled by the false dusk, birds stop singing, crickets start chirping, and bees return to their hives. Reports of these atypical animal behaviors date back…",
+            "url": "https://science.nasa.gov/solar-system/skywatching/sense-the-solar-eclipse-with-nasas-eclipse-soundscapes-project/",
+            "urlToImage": "https://science.nasa.gov/wp-content/uploads/2024/02/grasshopper-eclipse-soundscapes.jpeg",
+            "publishedAt": "2024-02-12T17:02:37Z",
+            "content": "A total solar eclipse occurs when the Moon passes directly in front of the Sun, blocking its light from reaching parts of the planet. In areas where the Suns light is completely blocked known as the … [+359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Phys.Org"
             },
             "author": "Steve Lundeberg",
@@ -183,6 +326,19 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/key-advance-for-captur.jpg",
             "publishedAt": "2024-02-12T16:54:04Z",
             "content": "A chemical element so visually striking it was named for a goddess shows a \"Goldilocks\" level of reactivityneither too much nor too littlethat makes it a strong candidate as a carbon scrubbing tool.\r… [+5260 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Florida Today"
+            },
+            "author": "Florida Today",
+            "title": "SpaceX Valentine's Day rocket doubleheader to launch moon lander, secret mission from Cape - Florida Today",
+            "description": null,
+            "url": "https://www.floridatoday.com/story/tech/science/space/2024/02/12/spacex-valentines-day-launch-doubleheader-cape-canaveral-for-intuitive-machines-ussf-124-lunar-moon/72561143007/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-12T16:48:37Z",
+            "content": null
         },
         {
             "source": {
@@ -212,16 +368,16 @@
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": null,
+                "name": "Phys.Org"
             },
-            "author": "Addy Bink",
-            "title": "Northern lights could reach parts of US amid geomagnetic storm watches: What to know - The Hill",
-            "description": "They may be faint, but those in the northern U.S. could get a glimpse at the aurora.",
-            "url": "https://thehill.com/homenews/nexstar_media_wire/4463092-northern-lights-could-reach-parts-of-us-amid-geomagnetic-storm-watches-what-to-know/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/02/GettyImages-1819582999-e1707752907555.jpg?w=1280",
-            "publishedAt": "2024-02-12T16:23:00Z",
-            "content": "Skip to content\r\n(NEXSTAR) — The sun has been active over the last few days, prompting solar radiation events, a strong flare event, and now, multiple coronal mass ejections (CMEs), which could bring… [+5695 chars]"
+            "author": "Science X",
+            "title": "Clouds disappear quickly during a solar eclipse, shows study - Phys.org",
+            "description": "Cumulus clouds over land start to disappear almost instantly during a partial solar eclipse. Until recently, satellite measurements during the eclipse resulted in dark spots in the cloud map, but researchers from TU Delft and KNMI were able to recover the sat…",
+            "url": "https://phys.org/news/2024-02-clouds-quickly-solar-eclipse.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/clouds-disappear-quick.jpg",
+            "publishedAt": "2024-02-12T16:12:01Z",
+            "content": "Cumulus clouds over land start to disappear almost instantly during a partial solar eclipse. Until recently, satellite measurements during the eclipse resulted in dark spots in the cloud map, but res… [+3834 chars]"
         },
         {
             "source": {
@@ -252,19 +408,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Euronews"
-            },
-            "author": null,
-            "title": "This 'tipping point' would be catastrophic for Europe but scientists are unsure when we'll reach it - Euronews",
-            "description": "It would mean severe global climate repercussions, with Europe bearing the brunt of the consequences.",
-            "url": "https://www.euronews.com/green/2024/02/12/this-tipping-point-would-be-catastrophic-for-europe-but-scientists-are-unsure-when-well-re",
-            "urlToImage": "https://static.euronews.com/articles/stories/08/23/52/18/1200x675_cmsv2_cf0e6ee6-3bd8-5bf5-bd2b-e89cb843a3f2-8235218.jpg",
-            "publishedAt": "2024-02-12T16:02:43Z",
-            "content": "It would mean severe global climate repercussions, with Europe bearing the brunt of the consequences. \r\n Scientists have successfully modelled a climate tipping point that would plunge large parts of… [+4230 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Nature.com"
             },
             "author": null,
@@ -274,32 +417,6 @@
             "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41564-023-01580-y/MediaObjects/41564_2023_1580_Fig1_HTML.png",
             "publishedAt": "2024-02-12T16:01:25Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "IFLScience"
-            },
-            "author": "Holly Large",
-            "title": "Live Frog Plays Host To Tiny Mushroom In First Documented Case - IFLScience",
-            "description": "This little frog is a really fun-gi.",
-            "url": "https://www.iflscience.com/live-frog-plays-host-to-tiny-mushroom-in-first-documented-case-72906",
-            "urlToImage": "https://assets.iflscience.com/assets/articleNo/72906/aImg/74119/mushroom-frog-meta.jpeg",
-            "publishedAt": "2024-02-12T15:18:39Z",
-            "content": "If you thought humans were going to be the first species invaded by mushrooms (thanks to The Last of Us for that recurring nightmare), were sorry to tell you that our amphibious friends appear to hav… [+2372 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thedebrief.org"
-            },
-            "author": "Christopher Plain, Christopher Plain",
-            "title": "Breaking: Satellite Failure Scuttles First-of-Its-Kind In-Space Test of Physics-Defying Quantum Drive - The Debrief",
-            "description": "The cancellation of the first in-space test of a controversial quantum drive has resulted from an electrical failure on its host satellite.",
-            "url": "https://thedebrief.org/breaking-satellite-failure-scuttles-first-of-its-kind-in-space-test-of-physics-defying-quantum-drive/",
-            "urlToImage": "https://thedebrief.b-cdn.net/wp-content/uploads/2024/02/rogue.jpg",
-            "publishedAt": "2024-02-12T15:17:55Z",
-            "content": "Rogue Space Systems has announced the failure of its Barry 1 satellite, which occurred before the company could test a controversial quantum drive propellantless propulsion system.\r\nIn a posted state… [+4839 chars]"
         },
         {
             "source": {
@@ -330,6 +447,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Miami Herald"
+            },
+            "author": "Brendan Rascius",
+            "title": "Winged 'fairy' creature preserved inside amber belongs to 'enigmatic' new species - AOL",
+            "description": "It lived millions of years ago, researchers said.",
+            "url": "https://www.miamiherald.com/news/nation-world/world/article285304747.html",
+            "urlToImage": "https://media.zenfs.com/en/aol_miami_herald_mcclatchy_670/20caa62cf176dd4bd97e87a2a327f9c2",
+            "publishedAt": "2024-02-12T14:31:16Z",
+            "content": "Echoing the plot of Jurassic Park, researchers recently discovered a piece of amber containing insects from the dinosaur age.\r\nIt turns out, the bugs belonged to a previously unknown species of wasp … [+2082 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Housedigest.com"
             },
             "author": "Saskia Ainsworth",
@@ -339,6 +469,19 @@
             "urlToImage": "https://www.housedigest.com/img/gallery/why-tiktok-recommends-ditching-the-bird-feeder-in-your-yard-garden/l-intro-1707322337.jpg",
             "publishedAt": "2024-02-12T14:30:57Z",
             "content": "If you've been struggling with pests in your garden, you're not alone up to 73% of us experiencing the same issue, per Frontiers. So, how can you fix it? According to @microflowerfarm on TikTok, one … [+876 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Tomasz Nowakowski",
+            "title": "Dracula's Chivito: New protoplanetary disk discovered with Pan-STARRS - Phys.org",
+            "description": "By analyzing the images obtained with the Panoramic Survey Telescope and Rapid Response System (Pan-STARRS), astronomers have serendipitously discovered a new protoplanetary disk located some 800 light years away. The finding was reported in a paper published…",
+            "url": "https://phys.org/news/2024-02-dracula-chivito-protoplanetary-disk-pan.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-protoplanetary-dis.jpg",
+            "publishedAt": "2024-02-12T14:30:01Z",
+            "content": "By analyzing the images obtained with the Panoramic Survey Telescope and Rapid Response System (Pan-STARRS), astronomers have serendipitously discovered a new protoplanetary disk located some 800 lig… [+3266 chars]"
         },
         {
             "source": {
@@ -404,6 +547,19 @@
             "urlToImage": "https://scitechdaily.com/images/Tardigrade-in-Space.jpg",
             "publishedAt": "2024-02-12T13:42:38Z",
             "content": "Recent research on tardigrades uncovers a complex genetic basis for their extreme resilience, challenging previous assumptions about their ecological adaptations and pointing to independent evolution… [+6640 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Richard Tribou, Orlando Sentinel",
+            "title": "US military hopes one day to move supplies, maybe troops, on SpaceX's Starship - Phys.org",
+            "description": "While NASA is rooting for SpaceX to achieve Starship success so it can land humans on the moon, the U.S. military has plans of their own for the massive rocket that could include launches from Florida's Space Coast.",
+            "url": "https://phys.org/news/2024-02-military-day-troops-spacex-starship.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/starship.jpg",
+            "publishedAt": "2024-02-12T13:10:01Z",
+            "content": "While NASA is rooting for SpaceX to achieve Starship success so it can land humans on the moon, the U.S. military has plans of their own for the massive rocket that could include launches from Florid… [+6830 chars]"
         },
         {
             "source": {
@@ -486,6 +642,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Big Think"
+            },
+            "author": "Ethan Siegel",
+            "title": "How has the cosmic distance record progressed over time? - Big Think",
+            "description": "Beyond the planets, stars, and Milky Way lie ultra-distant objects: galaxies and quasars. Here's how far back we've seen throughout history.",
+            "url": "https://bigthink.com/starts-with-a-bang/cosmic-distance-record-time/",
+            "urlToImage": "https://bigthink.com/wp-content/uploads/2024/02/HCM6a-galaxy.jpg?w=999&h=562&crop=1",
+            "publishedAt": "2024-02-12T07:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "SciTechDaily"
             },
             "author": null,
@@ -512,19 +681,6 @@
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "How LISA – A Gravitational Wave Observatory in Space – Will Transform Our Cosmic Understanding - SciTechDaily",
-            "description": "LISA, a collaborative mission between ESA and NASA, aims to detect gravitational waves from space, offering new insights into the cosmos through advanced technology and international cooperation. The first space-based observatory designed to detect gravitatio…",
-            "url": "https://scitechdaily.com/how-lisa-a-gravitational-wave-observatory-in-space-will-transform-our-cosmic-understanding/",
-            "urlToImage": "https://scitechdaily.com/images/LISA-Laser-Interferometer-Space-Antenna-Mission.jpg",
-            "publishedAt": "2024-02-12T02:32:47Z",
-            "content": "The LISA (Laser Interferometer Space Antenna) mission, led by ESA (European Space Agency) with NASA contributions, will detect gravitational waves in space using three spacecraft, separated by more t… [+5811 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "ScienceAlert"
             },
             "author": "David Nield",
@@ -534,6 +690,19 @@
             "urlToImage": "https://www.sciencealert.com/images/2024/02/BennuCapsule.jpg",
             "publishedAt": "2024-02-12T00:34:05Z",
             "content": "NASA scientists are just getting started in their analysis of fragments brought back from the Bennu asteroid, and the early indications are that the material it contains originated from an ancient oc… [+2525 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jamie Carter",
+            "title": "A Jaw-Dropping Crescent Moon Meets Jupiter: The Night Sky This Week - Forbes",
+            "description": "Each Monday, I pick out North America’s celestial highlights for the week ahead.",
+            "url": "https://www.forbes.com/sites/jamiecartereurope/2024/02/11/a-jaw-dropping-crescent-moon-meets-jupiter-the-night-sky-this-week/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63a43cafde89a82ed21d7c6d/0x0.jpg?format=jpg&crop=4012,1881,x540,y742,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-02-12T00:15:00Z",
+            "content": "The crescent moon and Jupiter are seen in a rare planetary alignment over Van province of Turkey on ... [+] October 31, 2019. (Photo by Ozkan Bilgin/Anadolu Agency via Getty Images)\r\nAnadolu Agency v… [+3903 chars]"
         },
         {
             "source": {
@@ -590,6 +759,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Loopnews.com"
+            },
+            "author": "Melissa Wong",
+            "title": "Seismic activity at Kick 'em Jenny decreases | Loop Caribbean News - Loop News Caribbean",
+            "description": "Grenada's National Disaster Management Agency (NaDMA)  in its latest update on Kick ‘em Jenny says activity at the submarine volcano has subsided. \r\n\r\nIt says according to information from the UWI Seismic Research Center (UWI SRC), betwee",
+            "url": "https://caribbean.loopnews.com/content/seismic-activity-kick-em-jenny-decreases",
+            "urlToImage": "https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2020-06/sR2uc5YHOX.jpg",
+            "publishedAt": "2024-02-11T21:52:00Z",
+            "content": "Grenada's National Disaster Management Agency (NaDMA)  in its latest update on Kick em Jenny says activity at the submarine volcano has subsided. \r\nIt says according to information from the UWI Seism… [+862 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Coasttocoastam.com"
             },
             "author": null,
@@ -603,15 +785,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Newser"
+                "name": "YouTube"
             },
-            "author": "Gina Carey",
-            "title": "Greenland Is Getting Taller - Newser",
-            "description": "Melting ice is a big factor, study says",
-            "url": "https://www.newser.com/story/346147/greenland-is-getting-taller.html",
-            "urlToImage": "https://img2-azrcdn.newser.com/image/1517219-12-20240211151502.jpeg",
-            "publishedAt": "2024-02-11T20:45:00Z",
-            "content": "\"The maximum land uplift is where you have the most mass loss, and that's closest to the biggest glaciers in Greenland,\" says lead author Danjal Longfors Berg. He and his cohorts used data from the 5… [+984 chars]"
+            "author": null,
+            "title": "Uncovering the Secrets of the International Space Station (Full Episode) | Superstructures - National Geographic",
+            "description": "The International Space Station is taken apart to uncover its engineering secrets.Enjoy a free trial of National Geographic right here: https://ngmdomsubs.na...",
+            "url": "https://www.youtube.com/watch?v=Ei-TcECJVXU",
+            "urlToImage": "https://i.ytimg.com/vi/Ei-TcECJVXU/maxresdefault.jpg",
+            "publishedAt": "2024-02-11T16:00:15Z",
+            "content": null
         },
         {
             "source": {
@@ -703,110 +885,6 @@
             "urlToImage": "https://www.slashgear.com/img/gallery/5-of-the-coolest-images-taken-by-the-james-webb-space-telescope-so-far/l-intro-1707106780.jpg",
             "publishedAt": "2024-02-11T10:15:47Z",
             "content": "What makes Webb's First Deep Field special is partially in the name itself: This is one of the Webb's first color images, and as packed with detail as it may be, it's still just a tiny fraction of th… [+1169 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "",
-            "title": "Study: Longtime ice sheet could melt again; raise sea levels - CNN",
-            "description": "Scientists who drilled into Earth’s oldest ice sheet in Antarctica warn of possible rapid ice melting that could lead to global flooding. CNN’s Michael Holmes speaks to Eric Wolff, Climatologist and Glaciologist at the University of Cambridge.",
-            "url": "https://www.cnn.com/videos/world/2024/02/11/exp-antarctic-ice-sheet-melt-holmes-wolff-intv-021102aseg2-cnni-climate.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240211035607-exp-antarctic-ice-sheet-melt-holmes-wolff-intv-021102aseg2-cnni-climate-00004401.png?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-02-11T09:06:20Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Michelle Starr",
-            "title": "Mysterious Rings Around Space Rock Might Be Carved by a Secret Moon - ScienceAlert",
-            "description": "The secret lives of minor planets may be even more complex and fascinating than we thought.",
-            "url": "https://www.sciencealert.com/mysterious-rings-around-space-rock-might-be-carved-by-a-secret-moon",
-            "urlToImage": "https://www.sciencealert.com/images/2024/02/chariklo.jpg",
-            "publishedAt": "2024-02-11T09:03:12Z",
-            "content": "The secret lives of minor planets may be even more complex and fascinating than we thought.\r\nScientists have discovered that a pair of gossamer rings circling an asteroid-like chunk of rock in the co… [+4089 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Skyatnightmagazine.com"
-            },
-            "author": null,
-            "title": "Astronomers discover six planets in perfect balance - Sky at Night Magazine",
-            "description": "A rare system of six planets, all kept perfectly in balance, has been found around star HD110067, just 100 lightyears away.",
-            "url": "https://www.skyatnightmagazine.com/news/hd110067-exoplanets-orbital-resonance",
-            "urlToImage": "https://c02.purpledshub.com/uploads/sites/48/2024/02/HD110067.jpg",
-            "publishedAt": "2024-02-11T08:38:13Z",
-            "content": "A rare system of six planets, all kept perfectly in balance, has been found around a star just 100 lightyears away.\r\nThe star, HD110067, is so near to us that its the brightest-known system with four… [+2335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Conversation Africa"
-            },
-            "author": "Nicholas R. Longrich",
-            "title": "Morocco dinosaur discovery gives clues on why they went extinct - The Conversation",
-            "description": "Fossils suggest that as many as three abelisaurid species coexisted in Morocco around 66 million years ago.",
-            "url": "https://theconversation.com/morocco-dinosaur-discovery-gives-clues-on-why-they-went-extinct-221229",
-            "urlToImage": "https://images.theconversation.com/files/573016/original/file-20240202-23-8o5s1p.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-            "publishedAt": "2024-02-11T08:06:33Z",
-            "content": "66 million years ago, the last dinosaurs vanished from Earth. Were still trying to understand why. New fossils of abelisaurs distant relatives of the tyrannosaurs from north Africa suggest that Afric… [+6440 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WAPT Jackson"
-            },
-            "author": "Matt Maielli",
-            "title": "New 'super-Earth' discovered in 'fairly close' solar system, NASA says - WAPT Jackson",
-            "description": "The exoplanet is \"about one and a half times as wide as Earth\" and in a system that is only 137 light-years away.",
-            "url": "https://www.wapt.com/article/super-earth-discovered-nasa-says/46662013",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/super-earth-nasa-illustration-photo-65c298a414722.jpg?crop=0.998xw:1.00xh;0.00160xw,0&resize=1200:*",
-            "publishedAt": "2024-02-11T04:28:17Z",
-            "content": "A new \"super-Earth\" has been discovered in a nearby solar system's habitable zone, according to NASA.\r\nThe planet, designated as TOI-715 b, is \"about one and a half times as wide as Earth\" and in a s… [+2036 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Beyond the Visible Universe: New Research Reveals How Gravity Influences the Quantum Realm - SciTechDaily",
-            "description": "Nuclear physicists at Jefferson Lab have mapped the distribution of the strong force within the proton, employing a framework that links to gravity, opening a new pathway for exploration. Gravity's influence is unmistakably evident throughout the observable u…",
-            "url": "https://scitechdaily.com/beyond-the-visible-universe-new-research-reveals-how-gravity-influences-the-quantum-realm/",
-            "urlToImage": "https://scitechdaily.com/images/Particle-Physics-Plasma-Relativity.jpg",
-            "publishedAt": "2024-02-08T22:09:28Z",
-            "content": "Nuclear physicists have discovered gravity’s profound influence on the quantum scale, revealing the strong force’s distribution within protons for the first time. This groundbreaking research, combin… [+7604 chars]"
         }
     ]
 }

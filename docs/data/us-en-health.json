@@ -1,19 +1,188 @@
 {
     "status": "ok",
-    "totalResults": 61,
+    "totalResults": 64,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Martha Shade",
-            "title": "Colorectal cancer is on the rise: What to know and how to help - CNN",
-            "description": "Here’s a sobering thought:",
-            "url": "https://www.cnn.com/colorectal-cancer-is-on-the-rise-what-to-know-and-how-to-help-iyw-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/170807172633-colorectal-cancer-1.jpg?q=x_5,y_239,h_2587,w_4598,c_crop/w_800",
-            "publishedAt": "2024-03-05T17:27:00Z",
-            "content": "Heres a sobering statistic: By 2030, cases of colorectal cancer in people under 50 are expected to nearly double, and it will become the leading cause of death for people age 20 to 49.\r\nBut theres go… [+6478 chars]"
+            "author": "Jen Christensen",
+            "title": "‘Parrot fever’ outbreak in Europe has led to deaths of five people - CNN",
+            "description": "A deadly outbreak of psittacosis, a bacterial infection also known as parrot fever, has affected people living several European countries, the World Health Organization said Tuesday.",
+            "url": "https://www.cnn.com/2024/03/05/health/parrot-fever-outbreak-europe/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1645172485.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-05T23:10:00Z",
+            "content": "A deadly outbreak of psittacosis, a bacterial infection also known as parrot fever, has affected people living in several European countries, the World Health Organization said Tuesday.\r\nThe outbreak… [+3376 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Concussions Linked to Higher Brain Iron - Neuroscience News",
+            "description": "Individuals experiencing headaches after concussions may have higher levels of iron in certain brain regions, indicating cell injury.",
+            "url": "https://neurosciencenews.com/concussions-brain-iron-25711/",
+            "urlToImage": "https://neurosciencenews.com/files/2024/03/concussion-iron-brain-neurosicence.jpg",
+            "publishedAt": "2024-03-05T22:42:24Z",
+            "content": "Summary: Individuals experiencing headaches after concussions may have higher levels of iron in certain brain regions, indicating cell injury. The research examined 60 people with post-traumatic head… [+4330 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "AI Reveals Brain Oscillations for Memory and Disease - Neuroscience News",
+            "description": "A recent study showcases a significant leap in the study of brain oscillations, particularly ripples, which are crucial for memory organization and are affected in disorders like epilepsy and Alzheimer's.",
+            "url": "https://neurosciencenews.com/ai-brain-oscillations-memory-25709/",
+            "urlToImage": "https://neurosciencenews.com/files/2024/03/ai-brain-oscillations-memory-neurosicence.jpg",
+            "publishedAt": "2024-03-05T21:53:07Z",
+            "content": "Summary: A recent study showcases a significant leap in the study of brain oscillations, particularly ripples, which are crucial for memory organization and are affected in disorders like epilepsy an… [+4950 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sandee LaMotte",
+            "title": "Diet drinks may boost risk of dangerous heart condition by 20%, study says - CNN",
+            "description": "Artificially sweetened drinks are linked to a 20% higher risk of atrial fibrillation while sugary beverages raise that risk by 10%, a new study found.",
+            "url": "https://www.cnn.com/2024/03/05/health/diet-and-sugary-drinks-atrial-fibrillation-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-825986476.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-05T21:38:00Z",
+            "content": "Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nDrinking two liters or more per… [+5340 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "Man dies after consuming too much vitamin D, experts warn of risks: 'Cascade of problems' - Fox News",
+            "description": "Amid reports of a U.K. man's death from high amounts of vitamin D, two medical experts are warning about the dangers of excessive consumption through supplements.",
+            "url": "https://www.foxnews.com/health/man-dies-consuming-too-much-vitamin-d-experts-warn-risks-cascade-problems",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/vitamin-d-man-hand.jpg",
+            "publishedAt": "2024-03-05T21:30:00Z",
+            "content": "Amid reports of a U.K. man's death from high amounts of vitamin D, experts are warning about the dangers of unsafe levels\r\n.\r\nAfter 89-year-old David Mitchener died last year from hypercalcemia, a bu… [+7513 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "nj.com"
+            },
+            "author": "Karin Price Mueller | NJ Advance Media for NJ.com",
+            "title": "Mumps cases suspected in N.J., state says, warning residents to be on the lookout for symptoms - NJ.com",
+            "description": "The state is investigating a \"family cluster,\" the Health Department said.",
+            "url": "https://www.nj.com/news/2024/03/mumps-case-confirmed-in-nj-state-says-warning-residents-to-be-on-the-lookout-for-symptoms.html",
+            "urlToImage": "https://www.nj.com/resizer/GAEXzw4sOLQIQXEsjnBqDOG7YQM=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KMC3NU7QWRHWFEASN2HFJQPYQM.png",
+            "publishedAt": "2024-03-05T21:04:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Viagra Shows Potential As Alzheimer's Treatment - Neuroscience News",
+            "description": "Researchers identified sildenafil, known commercially as Viagra, as a promising candidate for treating Alzheimer's disease.",
+            "url": "https://neurosciencenews.com/viagra-alzheimers-neuropharmacology-25706/",
+            "urlToImage": "https://neurosciencenews.com/files/2024/03/viagra-alzheimers-neurosicence.jpg",
+            "publishedAt": "2024-03-05T20:56:04Z",
+            "content": "Summary: Researchers identified sildenafil, known commercially as Viagra, as a promising candidate for treating Alzheimer’s disease. Leveraging artificial intelligence the team analyzed vast amounts … [+7481 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "3D Maps Reveal Molecular Complexities of the Brain - Neuroscience News",
+            "description": "Researchers pioneered the use of spatial omics and deep learning to craft 3D molecular maps of the brain, offering new insights into its function across different scales.",
+            "url": "https://neurosciencenews.com/molecular-brain-map-25706/",
+            "urlToImage": "https://neurosciencenews.com/files/2024/03/molecular-brain-map-neuroscience.jpg",
+            "publishedAt": "2024-03-05T20:25:21Z",
+            "content": "Summary: Researchers pioneered the use of spatial omics and deep learning to craft 3D molecular maps of the brain, offering new insights into its function across different scales. Their study employs… [+6609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Renée Onque",
+            "title": "5 doctors and nutritionists share the foods they eat every day for brain health, longevity and overall wellness - CNBC",
+            "description": "A well-rounded diet is one of the keys to a healthy lifestyle, but these foods stand out as the healthiest options with the most nutrients, experts say.",
+            "url": "https://www.cnbc.com/2024/03/05/doctors-and-nutritionists-share-the-foods-they-eat-for-better-health.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107382599-1709659555426-gettyimages-912617718-f0023.jpeg?v=1709659657&w=1920&h=1080",
+            "publishedAt": "2024-03-05T19:52:26Z",
+            "content": "1. Leafy greens\r\nThe importance of leafy green vegetables in your daily diet cannot be overstated experts recommend it over and over again. Eating leafy greens like spinach and kale supports brain he… [+3594 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "German man got 217 COVID shots over 29 months—here's how it went - Ars Technica",
+            "description": "It conflicts with concerns of repeat boosters, but authors warn against hypervaccination.",
+            "url": "https://arstechnica.com/science/2024/03/german-man-got-217-covid-shots-over-29-months-heres-how-it-went/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1242252869-760x380.jpeg",
+            "publishedAt": "2024-03-05T19:40:15Z",
+            "content": "79\r\nA 62-year-old man in Germany decided to get 217 COVID-19 vaccinations over the course of 29 months for \"private reasons.\" But, somewhat surprisingly, he doesn't seem to have suffered any ill effe… [+3882 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Caren Chesler",
+            "title": "Menopause is often wrongly linked with depression, study finds - The Washington Post",
+            "description": "Menopause and depression are often wrongly linked. Researchers say midlife is challenging, but menopause isn’t always to blame for depressive symptoms.",
+            "url": "https://www.washingtonpost.com/wellness/2024/03/05/menopause-depression-risks/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IVXHPDFASYI6ZFBYEVLQTNWN3Q.jpg&w=1440",
+            "publishedAt": "2024-03-05T19:34:54Z",
+            "content": "For years, menopause and depression have been closely linked. But now a new paper in The Lancet disputes the commonly held notion that menopause consistently raises risk for mental health problems.\r\n… [+6428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PsyPost"
+            },
+            "author": "Ziyad Al-Aly",
+            "title": "COVID-19 leaves its mark on the brain, including with significant drops in IQ scores - PsyPost",
+            "description": "Research reveals COVID-19's profound impact on brain health, including cognitive declines like memory issues, brain fog, and severe effects equivalent to decades of aging. Studies highlight brain shrinkage, inflammation, and blood-brain barrier disruption.",
+            "url": "https://www.psypost.org/covid-19-leaves-its-mark-on-the-brain-including-with-significant-drops-in-iq-scores/",
+            "urlToImage": "https://www.psypost.org/wp-content/uploads/2021/02/covid-19-coronavirus-image.jpg",
+            "publishedAt": "2024-03-05T19:01:53Z",
+            "content": "From the very early days of the pandemic, brain fogemerged as a significant health condition that many experience after COVID-19.\r\nBrain fog is a colloquial term that describes a state of mental slug… [+7199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Kristen Jordan Shamus",
+            "title": "Measles in Michigan: Hundreds potentially exposed in Wayne, Washtenaw - Detroit Free Press",
+            "description": "The exposures sparked a race against the clock for county health leaders to stave off an outbreak among unvaccinated people unknowingly exposed.",
+            "url": "https://www.freep.com/story/news/health/2024/03/05/measles-michigan-exposure-sites-wayne-washtenaw/72842424007/",
+            "urlToImage": "https://www.freep.com/gcdn/authoring/2019/04/25/NWKL/ghows-WL-875c732c-99de-123b-e053-0100007f11c9-a1a53fb5.jpeg?crop=2654,1499,x0,y0&width=2654&height=1499&format=pjpg&auto=webp",
+            "publishedAt": "2024-03-05T17:35:26Z",
+            "content": "Potentially hundreds of people were exposed to measles in Wayne and Washtenaw counties over the last week as two adults who had traveled internationally and had no record of measles immunization soug… [+11734 chars]"
         },
         {
             "source": {
@@ -31,28 +200,28 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "WRAL.com"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Heather Leah",
+            "title": "Rabies alert: 4-year-old girl bitten by rabid fox in Raleigh neighborhood - WRAL News",
+            "description": "Wake County Public Health has issued a rabies notice after a rabid fox bit a child in a Raleigh neighborhood.",
+            "url": "https://www.wral.com/story/rabies-alert-4-year-old-girl-bitten-by-rabid-fox-in-raleigh-neighborhood/21313842/",
+            "urlToImage": "https://images.wral.com/asset/news/local/2024/03/05/21313845/rabid_fox_raleigh-DMID1-6261r3rby-640x360.jpg",
+            "publishedAt": "2024-03-05T16:19:00Z",
+            "content": "Wake County Public Health has issued a rabies notice after a rabid fox bit a 4-year-old girl in a Raleigh neighborhood.\r\nThe fox tested positive for rabies after biting the little girl over the weeke… [+4172 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WRAL.com"
+                "name": "National Institutes of Health"
             },
-            "author": "Heather Leah",
-            "title": "Rabies alert: Rabid fox bites child in Raleigh neighborhood near Western Blvd. - WRAL News",
-            "description": "Wake County Public Health has issued a rabies notice after a rabid fox bit a child in a Raleigh neighborhood.",
-            "url": "https://www.wral.com/story/rabies-alert-rabid-fox-bites-child-in-raleigh-neighborhood-near-western-blvd/21313842/",
-            "urlToImage": "https://images.wral.com/asset/news/local/2024/03/05/21313845/rabid_fox_raleigh-DMID1-6261r3rby-640x360.jpg",
-            "publishedAt": "2024-03-05T16:19:07Z",
-            "content": "Wake County Public Health has issued a rabies notice after a rabid fox bit a child in a Raleigh neighborhood.\r\nThe fox tested positive for rabies after biting a child over the weekend outside a home … [+2618 chars]"
+            "author": null,
+            "title": "Semaglutide reduces severity of common liver disease in people with HIV - National Institutes of Health (NIH) (.gov)",
+            "description": "NIH-funded findings inform interdisciplinary care approach across the lifespan.",
+            "url": "https://www.nih.gov/news-events/news-releases/semaglutide-reduces-severity-common-liver-disease-people-hiv",
+            "urlToImage": "https://www.nih.gov/sites/default/files/news-events/news-releases/2024/20240305-hiv-tem-4-particles.jpg",
+            "publishedAt": "2024-03-05T15:04:50Z",
+            "content": null
         },
         {
             "source": {
@@ -83,32 +252,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Medical Xpress"
-            },
-            "author": "Science X",
-            "title": "Researchers investigate immune response of a man who received 217 COVID vaccinations - Medical Xpress",
-            "description": "Researchers at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen have examined a man who has received more than 200 vaccinations against COVID-19. They learned of his case via newspaper reports.",
-            "url": "https://medicalxpress.com/news/2024-03-immune-response-covid-vaccinations.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/covid-vaccine-1.jpg",
-            "publishedAt": "2024-03-05T14:50:57Z",
-            "content": "Researchers at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen have examined a man who has received more than 200 vaccinations against COVID-19. They learned… [+5711 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Stress Ages You, But Control Can Keep You Young - Neuroscience News",
-            "description": null,
-            "url": "https://neurosciencenews.com/stress-aging-psychology-25702/",
-            "urlToImage": null,
-            "publishedAt": "2024-03-05T14:34:08Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "fox8.com"
             },
             "author": "Danielle Langenfeld",
@@ -118,6 +261,71 @@
             "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2023/12/GettyImages-691579838-e1703877443963.jpg?w=1280",
             "publishedAt": "2024-03-05T14:27:00Z",
             "content": "(WJW) – The latest data shows more people in Ohio are reporting to the doctor with flu-like symptoms than anywhere else in the country right now.\r\nThe weekly report from the Centers for Disease and C… [+654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Multiple Sclerosis News Today"
+            },
+            "author": "BioNews Staff",
+            "title": "Here I am with MS, being the best that I can be - Multiple Sclerosis News Today",
+            "description": "Being diagnosed with MS wasn't what Julie Stamm envisioned for herself, but it hasn't dimmed her desire to be the best person she can be.",
+            "url": "https://multiplesclerosisnewstoday.com/here-i-am-ms-being-best-i-can-be/",
+            "urlToImage": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2024/02/Article_MS-AWARENESS-2024-eNL-700x350-No-Button.png",
+            "publishedAt": "2024-03-05T14:13:36Z",
+            "content": "Julie Stamm was diagnosed with multiple sclerosis in 2007. (Courtesy of Colorado Parent magazine)\r\nDay 5 of 31\r\nThis is Julie Stamm’s (@iamstamm) story:\r\nI was officially diagnosed with multiple scle… [+2887 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurism"
+            },
+            "author": "Noor Al-Sibai",
+            "title": "Weird Particle Floating Through Air May Cause Alzheimer's - Futurism",
+            "description": "New research into tiny magnetic particles that float through the air may help scientists unravel the mysterious causes of Alzheimer's disease.",
+            "url": "https://futurism.com/neoscope/air-particles-alzheimers",
+            "urlToImage": "https://wp-assets.futurism.com/2024/03/air-particles-alzheimers.jpg",
+            "publishedAt": "2024-03-05T14:03:03Z",
+            "content": "New research into tiny magnetic particles that float through the air may help scientists unravel the mysterious causes of Alzheimer's disease.\r\nIn a press release, Australia's University of Technolog… [+2526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Seattle Times"
+            },
+            "author": "Seattle Times staff",
+            "title": "New podcast 'Lost Patients' takes a deep look at mental illness in WA - The Seattle Times",
+            "description": "Journalists from The Seattle Times and KUOW investigate why mental health care in Washington is the way it is, and what we might do to break free.",
+            "url": "https://www.seattletimes.com/seattle-news/mental-health/new-podcast-lost-patients-takes-a-deep-look-at-mental-illness-in-wa/",
+            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/03/03042024_TZR_Lost_Patients-Podcast_tzr_173333.jpg?d=1200x630",
+            "publishedAt": "2024-03-05T14:00:00Z",
+            "content": "If you compare recent news stories about mental health with articles from 40, even 50 years ago, its shocking how similar they are. \r\nThey talk about people with serious mental illnesses caught in cy… [+1710 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Native News Online Staff",
+            "title": "American Indian Cancer Foundation Launches Sixth Annual Blue Beads Campaign for National Colorectal Cancer Awareness Month - Yahoo Life",
+            "description": "The month of March has been designated as National Colorectal Cancer Awareness Month.  Unfortunately, American Indian and Alaskan Native (AI/AN) people are...",
+            "url": "https://www.yahoo.com/lifestyle/american-indian-cancer-foundation-launches-133323944.html",
+            "urlToImage": "https://media.zenfs.com/en/native_news_online_articles_488/205e23d79900e6c894e82f01abd679cf",
+            "publishedAt": "2024-03-05T13:33:23Z",
+            "content": "The month of March has been designated as National Colorectal Cancer Awareness Month. Unfortunately, American Indian and Alaskan Native (AI/AN) people are experiencing higher colorectal cancer rates … [+3172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Prevention.com"
+            },
+            "author": "Korin Miller",
+            "title": "Current CDC COVID Guidelines 2024: What to Do if You Test Positive - Prevention Magazine",
+            "description": "The CDC has released new COVID guidelines. See the current guidelines to follow after testing positive, including whether to isolate and when to return to work.",
+            "url": "https://www.prevention.com/health/health-conditions/a60078153/current-cdc-covid-guidelines-2024/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/overhead-view-of-senior-asian-woman-carrying-out-a-royalty-free-image-1709578897.jpg?crop=1.00xw:0.752xh;0,0.132xh&resize=1200:*",
+            "publishedAt": "2024-03-05T13:14:11Z",
+            "content": "<ul><li>The CDC has new recommendations around COVID-19 isolation periods.</li><li> The organization now groups COVID-19 with other respiratory illnesses, like the flu and RSV.</li><li> 2024 recommen… [+6029 chars]"
         },
         {
             "source": {
@@ -144,58 +352,6 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RU3XQABF3FR5AEPNWGB4CEXWEM.jpg&w=1440",
             "publishedAt": "2024-03-05T11:47:49Z",
             "content": "Mental health counselor Jeffrey Meltzer sees clients nearly every day who suffer from high-functioning depression, so he decided to post a video about it on TikTok. He struck a nerve. The video now h… [+6581 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "UPI.com"
-            },
-            "author": "Paul Godfrey",
-            "title": "Study finds sweetened drink consumption may be linked to atrial fibrillation - UPI News",
-            "description": "People who consume drinks sweetened either artificially or with sugar may run a heightened risk of developing an irregular heart rhythm, says a new peer-reviewed Chinese study published Tuesday.",
-            "url": "https://www.upi.com",
-            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/3061709629717/2024/1/56508dc777ca3f6e9dc52a3e519e3a13/v1.5/Study-finds-sweetened-drink-consumption-may-be-linked-to-atrial-fibrillation.jpg",
-            "publishedAt": "2024-03-05T11:34:05Z",
-            "content": "March 5 (UPI) -- People who consume drinks sweetened either artificially or with sugar may run a heightened risk of developing an irregular heart rhythm, according to a new peer-reviewed Chinese stud… [+5214 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SILive.com"
-            },
-            "author": "Paul Liotta | pliotta@siadvance.com",
-            "title": "Staten Island parents grateful to RUMC staff after teen’s months-long ordeal: ‘They carried us through’ - SILive.com",
-            "description": "'They are amazing people who possess the skills to cure a critically ill child, plus provide the patient and weary parents with emotional support.'",
-            "url": "https://www.silive.com/news/2024/03/they-carried-us-through-staten-island-parents-grateful-to-rumc-for-helping-their-son-through-2-surgeries.html",
-            "urlToImage": "https://www.silive.com/resizer/l8jzZyV2w0u4z9qqcQ0HDZOgEa4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CM4Z6ZG6LBHB5M524H4ZMEOF4A.JPG",
-            "publishedAt": "2024-03-05T11:30:00Z",
-            "content": "STATEN ISLAND, N.Y. Hospitals can be scary places, especially for parents with a sick 15 year old, but one Staten Island family has decided to share their story of gratitude and triumph.\r\nDawn and Cr… [+6287 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Brenda Goodman",
-            "title": "The Covid-19 pandemic killed off one strain of the flu, and that will change the next vaccines - CNN",
-            "description": "For ten years, Americans have had access to flu shots that protect against four different strains of the flu—two A strains and two B strains.",
-            "url": "https://www.cnn.com/2024/03/05/health/flu-vaccine-yamagata-strains/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231023185521-flu-vaccine-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-03-05T11:19:00Z",
-            "content": "For 10 years, Americans have had access to flu shots that protect against four strains of the virus: two A strains and two B strains.\r\nStarting this fall, however, all the flu shots distributed in th… [+3522 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HuffPost"
-            },
-            "author": "Jillian Wilson",
-            "title": "This 1 Hobby Is Great For An Aging Brain, According To A New Study - HuffPost",
-            "description": "And no one is too old to pick it up.",
-            "url": "https://www.huffpost.com/entry/playing-musical-instruments-aging-brain-health_l_65dfada2e4b005b85832abc7",
-            "urlToImage": "https://img.huffingtonpost.com/asset/65dfae0622000037004b73ea.jpeg?ops=1200_630",
-            "publishedAt": "2024-03-05T10:45:18Z",
-            "content": "Want to protect your brain as you age? Pick up an instrument.\r\nIf youre looking to bolster your cognitive abilities and keep your mind sharp throughout your lifetime, you may want to pick up a musica… [+7854 chars]"
         },
         {
             "source": {
@@ -265,6 +421,19 @@
         {
             "source": {
                 "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "New study warns of ultra-processed food dangers - FOX 5 New York",
+            "description": "Researchers say that ultra-processed foods like snacks, cereals, sodas, and even certain types of red meat could in fact lower your life expectancy.Subscribe...",
+            "url": "https://www.youtube.com/watch?v=roS6QRfoDsY",
+            "urlToImage": "https://i.ytimg.com/vi/roS6QRfoDsY/hqdefault.jpg",
+            "publishedAt": "2024-03-05T04:41:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "[Removed]"
             },
             "author": null,
@@ -291,19 +460,6 @@
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "David Nield",
-            "title": "Flashing Lights And a Clicking Sound Cleared Toxic Proteins in Alzheimer's Mice - ScienceAlert",
-            "description": "Could Alzheimer's disease one day be treated by flashes of light and clicks of sound? Scientists have now demonstrated how stimulating high-frequency brain waves in mice can clear out the amyloid protein clumps associated with Alzheimer's.",
-            "url": "https://www.sciencealert.com/flashing-lights-and-a-clicking-sound-cleared-toxic-proteins-in-alzheimers-mice",
-            "urlToImage": "https://www.sciencealert.com/images/2024/03/BrainFluid.jpg",
-            "publishedAt": "2024-03-05T00:27:54Z",
-            "content": "Could Alzheimer's disease one day be treated by flashes of light and clicks of sound? Scientists have now demonstrated how stimulating high-frequency brain waves in mice can clear out the amyloid pro… [+2753 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "New York Post"
             },
             "author": "Tracy Swartz",
@@ -313,19 +469,6 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/quorn-canaps-launch-quorn-new-77712662.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-03-05T00:05:00Z",
             "content": "Mooove over, beef.\r\nSwapping meat for mycoprotein a protein made from fungus that’s found in Quorn-brand frozen products could help lower bad cholesterol by 10%, results from a new four-week study sh… [+2622 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WXYZ"
-            },
-            "author": "Brett Kast",
-            "title": "Health officials urge vaccination as Michigan measles cases rise - WXYZ 7 Action News Detroit",
-            "description": "Oakland County was the first to report their case on Feb. 23. Over the weekend, Washtenaw County and Wayne County also reported cases.",
-            "url": "https://www.wxyz.com/news/health-officials-urge-vaccination-as-michigan-measles-cases-rise",
-            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/f7fce41/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2F2ca%2Fbe88c4e651db4a7dbe102614d7272948%2F2ca3846beb004234a297977648fbeafb%2Fposter_9f9fe71acd794427861a7c85bcf348eb.jpg",
-            "publishedAt": "2024-03-04T23:15:47Z",
-            "content": "BIRMINGHAM (WXYZ) There are now three confirmed cases of the measles in Michigan, and all three are in metro Detroit.\r\nOakland County was the first to report their case on Feb. 23. Over the weekend, … [+2901 chars]"
         },
         {
             "source": {
@@ -343,32 +486,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Substance Abuse Beyond Dopamine and Impulsivity - Neuroscience News",
-            "description": "Researchers shed new light on why some individuals are more vulnerable to substance abuse than others, focusing on the relationship between impulsivity, dopamine production, and cocaine use.",
-            "url": "https://neurosciencenews.com/dopamine-impulse-addiction-25698/",
-            "urlToImage": "https://neurosciencenews.com/files/2024/03/addiction-dopamine-impulsivity-neurosicence.jpg",
-            "publishedAt": "2024-03-04T22:24:14Z",
-            "content": "Summary: Researchers shed new light on why some individuals are more vulnerable to substance abuse than others, focusing on the relationship between impulsivity, dopamine production, and cocaine use.… [+7520 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Life",
-            "title": "This 30-second walking technique could help you lose a pound a week, expert claims - Yahoo Life",
-            "description": null,
-            "url": "https://www.yahoo.com/lifestyle/30-second-walking-technique-could-221420118.html",
-            "urlToImage": null,
-            "publishedAt": "2024-03-04T22:14:20Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "STAT"
             },
             "author": "Isabella Cueto",
@@ -382,19 +499,6 @@
         {
             "source": {
                 "id": null,
-                "name": "VOA News"
-            },
-            "author": "VOA Learning English",
-            "title": "Electrical Device in Brain Might Help with Depression - VOA Learning English",
-            "description": "Research in a kind of medical treatment for depression called deep brain stimulation is showing promise for patients. However, some experts have concerns about the treatment’s risks and lack of scientific knowledge of the brain.",
-            "url": "https://learningenglish.voanews.com/a/electrical-device-in-brain-might-help-with-depression/7497228.html",
-            "urlToImage": "https://gdb.voanews.com/79c7f011-4328-4f7b-b8c9-ba767241aa2d_w1200_r1.jpg",
-            "publishedAt": "2024-03-04T22:05:00Z",
-            "content": "Deep brain stimulation, or DBS, is an experimental treatment that involves having an electrical device placed in the brain.\r\nThe treatment gives patients brains targeted electrical impulses.\r\nResearc… [+7537 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Neurosciencenews.com"
             },
             "author": "Neuroscience News",
@@ -404,19 +508,6 @@
             "urlToImage": "https://neurosciencenews.com/files/2024/03/neuroscience-creativity-brain.jpg",
             "publishedAt": "2024-03-04T21:55:10Z",
             "content": "Summary: A new study unveils how the brain enters the creative flow state, famously known as being “in the zone.” By analyzing jazz improvisations through EEGs, the research confirms that creative fl… [+8812 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WEAU"
-            },
-            "author": "PRESS RELEASE",
-            "title": "DATCP Issues Public Health Alert for Nilssen’s Market Bacon Cheddar Beef Burgers Due to Misbranding and Undeclared Allergens - WEAU",
-            "description": "The product was sold at Nilssen’s Market, according to a press release.",
-            "url": "https://www.weau.com/2024/03/04/datcp-issues-public-health-alert-nilssens-market-bacon-cheddar-beef-burgers-due-misbranding-undeclared-allergens/",
-            "urlToImage": "https://gray-weau-prod.cdn.arcpublishing.com/resizer/v2/TPF6J7LY2NEMTPMGQHIH5WMHUM.jpg?auth=0c9643658679e7fbe5b5026262f20e6d21a2320059c22c0d3c02cfce2dd22736&width=1200&height=600&smart=true",
-            "publishedAt": "2024-03-04T21:40:00Z",
-            "content": "MADISON, Wis. (WISCONSIN DEPARTMENT OF AGRICULTURE, TRADE AND CONSUMER PROTECTION PRESS RELEASE) - The Wisconsin Department of Agriculture, Trade and Consumer Protection (DATCP) is issuing a public h… [+1020 chars]"
         },
         {
             "source": {
@@ -460,15 +551,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "New York Post"
             },
-            "author": "Melissa Rudy",
-            "title": "Protest of CDC's new COVID guidance planned for this month in Washington, DC: 'Urgent need' - Yahoo! Voices",
-            "description": "A community of \"long COVID\" activists has planned a march in Washington, D.C., to protest a recent announcement from the CDC. One of the organizers speaks to...",
-            "url": "https://www.yahoo.com/news/protest-cdc-covid-guidance-planned-193013880.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gwPsI4dfp7IzRSGLyZwmcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fox_news_text_979/a390a3aa6e2ea1ba0f3e1e837ba59293",
-            "publishedAt": "2024-03-04T19:30:13Z",
-            "content": "A community of \"long COVID\r\n\"\r\n patients and activists are planning a march in Washington, D.C., to protest a recent announcement from the CDC.\r\nOn March 1, the U.S. Centers for Disease Control and P… [+6662 chars]"
+            "author": "Brooke Steinberg",
+            "title": "US measles outbreak in 2024 already surpasses last year's total - New York Post ",
+            "description": "2024 is shaping up to be a critical year for the measles virus.",
+            "url": "https://nypost.com/2024/03/04/lifestyle/us-measles-outbreak-in-2024-already-surpasses-last-years-total/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/measles-women-scratch-upper-arm-77701480.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-03-04T19:59:00Z",
+            "content": "2024 is shaping up to be a critical year for the measles virus.\r\nThe number of measles or rubeola diagnoses in the United States so far this year has nearly surpassed the case count for all of 2023, … [+2559 chars]"
         },
         {
             "source": {
@@ -476,12 +567,12 @@
                 "name": "New York Post"
             },
             "author": "Alexandra Klausner",
-            "title": "I thought my 22-year-old son had autism — I was shocked to find out it was early-onset dementia - Yahoo Life",
+            "title": "I thought my 22-year-old son had autism — I was shocked to find out it was early-onset dementia - New York Post ",
             "description": "A 22-year-old man with early onset dementia has become the youngest person with the condition in the United Kingdom.",
-            "url": "https://nypost.com/2024/03/04/lifestyle/my-son-with-dementia-22-has-the-brain-of-a-70-year-old/?utm_source=yahoo&utm_campaign=nypost&utm_medium=referral",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zDcKbdGKMobnGVj36T2zFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ny_post_articles_869/0fe8c2f7ee43c7dc8adc010b4f932913",
-            "publishedAt": "2024-03-04T19:07:13Z",
-            "content": "A 22-year-old man with early onset dementia has become the youngest person with the condition in the United Kingdom, according to his mother.\r\nSam Fairborn, 47, from Norwich, Norfolk, England says sh… [+3272 chars]"
+            "url": "https://nypost.com/2024/03/04/lifestyle/my-son-with-dementia-22-has-the-brain-of-a-70-year-old/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/young-dementia-early-onset-comp-01.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-03-04T19:08:38Z",
+            "content": "A 22-year-old man with early onset dementia has become the youngest person with the condition in the United Kingdom, according to his mother.\r\nSam Fairborn, 47, from Norwich, Norfolk, England says sh… [+3299 chars]"
         },
         {
             "source": {
@@ -564,19 +655,6 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "FiercePharma"
             },
             "author": "FiercePharma",
@@ -586,6 +664,19 @@
             "urlToImage": null,
             "publishedAt": "2024-03-04T16:46:02Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jamanetwork.com"
+            },
+            "author": "Nader Shaikh, MD",
+            "title": "Development and Validation of an Automated Classifier to Diagnose Acute Otitis Media - JAMA Network",
+            "description": "This diagnostic study analyzes the validity of an artificial intelligence decision-support tool for the diagnosis of acute otitis media.",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2815513",
+            "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/poi240002f1_1708448635.81635.png?Expires=2147483647&Signature=eQhV586XeRg3vSRvC9oSII-GwokdMrlay~O3l2QAfL3lYfP8~bRqp2yjJ6ayzbltAomOlRtvlpz9i~3cP2-42pCW4-5nL1QTiCaWQOmdKBaKukLlRJ6tOMyJVIINPr2zk7hpV51p~rvhR~dCXqXxoZ4TuQwjeAtLfxhnIWunL0ErUcGQqE9huYSJWF~qdqZPqA1BaZe35Np7z1izsMrG1jps2vWvqpBhzko3c7vlnWs1O3BG8gPpnzStVTuqrz~SrmHq9eXWMNiS-368pulolSv6xz0NlSxZq7X1Q9k9jEsZUYa3d9UGICp3b3tWfwwKpOtCGJo3PJFu~gk86VVJVg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+            "publishedAt": "2024-03-04T16:41:19Z",
+            "content": "Key PointsQuestion \r\n Can an artificial intelligence decision support tool be used in a primary care setting to enhance accuracy in the diagnosis of acute otitis media in young children?\r\nFindings \r\n… [+2750 chars]"
         },
         {
             "source": {
@@ -616,6 +707,32 @@
         {
             "source": {
                 "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alexandra Klausner",
+            "title": "Fruits and vegetables are great for weight loss — but these are the absolute best - Yahoo Life",
+            "description": "\"Vegging\" out can help you drop pounds — and gain back your health.",
+            "url": "https://nypost.com/2024/03/04/lifestyle/fruits-and-vegetables-are-great-for-weight-loss-but-these-are-the-best/?utm_source=yahoo&utm_campaign=nypost&utm_medium=referral",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ah.MF3WklGzxtIVsM2.V2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ny_post_articles_869/53fb3b6b98982f1c71c5872767b72c65",
+            "publishedAt": "2024-03-04T16:19:25Z",
+            "content": "Vegging out can help you lose weight and gain back your health.\r\nEating certain fruits and vegetables can help people lose weight and feel fuller longer, nutritionist Aneequa Godart told The Mirror t… [+1979 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Irishstar.com"
             },
             "author": "Laura Colgan",
@@ -625,19 +742,6 @@
             "urlToImage": "https://i2-prod.irishmirror.ie/incoming/article32270374.ece/ALTERNATES/s1200/0_Dermatologist-examining-patient-for-signs-of-skin-cancer.jpg",
             "publishedAt": "2024-03-04T15:28:00Z",
             "content": "A cannabis extract has a \"deadly\" effect on melanoma skin cancer cells, a study found.\r\nResearchers from Charles Darwin University and the Royal Melbourne Institute of Technology in Australia found a… [+1280 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Miami Herald"
-            },
-            "author": "Simone Jasper",
-            "title": "Stray dog found scrounging for scraps outside McDonald's. Then, couple 'fell in love' - Yahoo News",
-            "description": "The “filthy and emaciated” dog got a second chance, a Florida animal rescue said.",
-            "url": "https://www.miamiherald.com/news/state/florida/article286142946.html",
-            "urlToImage": "https://media.zenfs.com/en/miami_herald_mcclatchy_975/ce43567e022f62ace70c4bd799c18f89",
-            "publishedAt": "2024-03-04T14:57:27Z",
-            "content": "A stray dog scrounged for food outside a McDonalds then her luck took a turn.\r\nNatalie the dog was found filthy and emaciated and eventually found her way to foster parents Bill and Donna Belanger. T… [+1779 chars]"
         },
         {
             "source": {
@@ -655,19 +759,6 @@
         {
             "source": {
                 "id": null,
-                "name": "PsyPost"
-            },
-            "author": "Vladimir Hedrih",
-            "title": "Social anxiety might be transmissible through gut microbiota, study finds - PsyPost",
-            "description": "Research has revealed that mice receiving gut microbiota from individuals with social anxiety disorder showed increased sensitivity to social fear, despite normal behavior in non-social tests. This highlights the potential role of gut bacteria in influencing …",
-            "url": "https://www.psypost.org/social-anxiety-might-be-transmissible-through-gut-microbiota-study-finds/",
-            "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/03/gut-bacteria-and-microbes.jpg",
-            "publishedAt": "2024-03-04T13:00:35Z",
-            "content": "A study conducted in Sweden discovered that transplanting the gut microbiota from individuals with social anxiety disorder into mice made these mice more sensitive to social fear. While the mice main… [+6225 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Nature.com"
             },
             "author": null,
@@ -677,19 +768,6 @@
             "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-023-01800-9/MediaObjects/41562_2023_1800_Fig1_HTML.png",
             "publishedAt": "2024-03-04T10:39:07Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "ANI",
-            "title": "Common anesthetic in low doses can improve symptoms of depression: Study - Hindustan Times",
-            "description": "The study shows that low doses of ketamine can restore social deficits. Ketamine is a common anaesthetic. | Health",
-            "url": "https://www.hindustantimes.com/lifestyle/health/common-anesthetic-in-low-doses-can-improve-symptoms-of-depression-study-101709547992078.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/04/1600x900/_b154a2e2-e244-11e7-b4c0-9346261494eb_1709548377574.jpg",
-            "publishedAt": "2024-03-04T10:36:21Z",
-            "content": "Well-being is important for everyone, especially when we are lonely or alone. Depression is a serious problem for many people, and finding an effective therapy is crucial.\r\nKetamine is often used at … [+2852 chars]"
         },
         {
             "source": {
@@ -733,19 +811,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBCTV18"
-            },
-            "author": "Dr. Ajaikumar B S",
-            "title": "There are key advancements in cancer treatment, but how to address care disparities - CNBCTV18",
-            "description": "The government must set up an advisory body comprising domain experts, technocrats, and government executives for developing prudent and sustainable solutions to address the healthcare disparities, suggests top oncologist and HealthCare Global Chairman Dr B S…",
-            "url": "https://www.cnbctv18.com/healthcare/cancer-care-latest-advancements-care-disparities-in-india-dr-b-s-ajaikumar-19189131.htm",
-            "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2024/03/dr-bs-ajai-kumar.jpg",
-            "publishedAt": "2024-03-04T07:44:39Z",
-            "content": "Let's Connect with CNBCTV 18\r\n©TV18 Broadcast Limited. All rights reserved."
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "New York Post"
             },
             "author": "Fox News",
@@ -759,41 +824,15 @@
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "PEOPLE"
             },
-            "author": null,
-            "title": "“Concerning” Findings – Study Links Everyday Chemicals to Parkinson's Disease in Western U.S. - SciTechDaily",
-            "description": "A preliminary study recently presented at the American Academy of Neurology’s 76th Annual Meeting has linked pesticides and herbicides used in farming to Parkinson’s disease in the Rocky Mountain and Great Plains region of the country “We used geographic meth…",
-            "url": "https://scitechdaily.com/concerning-findings-study-links-everyday-chemicals-to-parkinsons-disease-in-western-u-s/",
-            "urlToImage": "https://scitechdaily.com/images/Parkinsons-Glowing-Neuron.jpg",
-            "publishedAt": "2024-03-03T22:51:45Z",
-            "content": "Recent research indicates that pesticides and herbicides used in farming could be contributing to higher rates of Parkinson’s disease in certain U.S. regions, emphasizing the need for more in-depth s… [+3644 chars]"
-        },
-        {
-            "source": {
-                "id": "medical-news-today",
-                "name": "Medical News Today"
-            },
-            "author": "Erika Watts",
-            "title": "Dementia: Can sleep apnea contribute to memory issues? - Medical News Today",
-            "description": "A new study analyzes the effects of sleep apnea symptoms on memory and thinking. The findings show an association between sleep apnea symptoms and a 50% increased risk of memory and thinking problems.",
-            "url": "https://www.medicalnewstoday.com/articles/sleep-apnea-symptoms-may-cause-memory-problems",
-            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/03/Sleep-apnea-Stocksy-txp28d2a6049Xt300-Medium-4159281-Thumb.jpg",
-            "publishedAt": "2024-03-03T22:44:43Z",
-            "content": "<ul><li>A new study analyzes the impact of sleep apnea symptoms on memory and thinking. </li><li>Sleep apnea is a sleep disorder that sometimes causes people to stop breathing. </li><li>The study sub… [+6965 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newser"
-            },
-            "author": "Gina Carey",
-            "title": "Discovery May Change Treatment of Snake Bites - Newser",
-            "description": "Research raises hope of a universal antivenom",
-            "url": "https://www.newser.com/story/346770/discovery-may-change-treatment-of-snake-bites.html",
-            "urlToImage": "https://img1-azrcdn.newser.com/image/1521178-12-20240303144023.jpeg",
-            "publishedAt": "2024-03-03T19:20:00Z",
-            "content": "Scientists from Scripps Research have developed a synthetic antibody that's effective against the lethal venom of four separate snake species. This discovery could be a game-changer in creating a uni… [+149 chars]"
+            "author": "https://www.facebook.com/peoplemag",
+            "title": "Texas Teacher Loses Arms and Legs After Sepsis 'Mummified' Her Limbs - PEOPLE",
+            "description": "Texas teacher Sherri Moody went into septic shock following a pneumonia infection, causing doctors to amputate all four limbs to save her life",
+            "url": "https://people.com/texas-teacher-sherri-moody-loses-arms-legs-strep-infection-sepsis-8600889",
+            "urlToImage": "https://people.com/thmb/3tJ5G8pgA2TIELd36KUfmdhVLjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Teacher-Sherri-Moody-Loses-Arms-and-Legs-After-Strep-Infection-Turns-Into-Sepsis-022724-cb40da53e7f6491488320f4e2450c33f.jpg",
+            "publishedAt": "2024-02-27T16:53:54Z",
+            "content": "A Texas teacher is adjusting to life without limbs after a strep infection caused her to go into septic shock which required doctors to amputate her arms and legs to save her life.\r\nLast April, Deer … [+3614 chars]"
         }
     ]
 }

@@ -4,16 +4,107 @@
     "articles": [
         {
             "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Alex Leary, Corinne Ramey",
+            "title": "Trump's Split-Screen Strategy: Put Criminal Trial at Center of His Campaign - The Wall Street Journal",
+            "description": "Presumptive GOP nominee will soon be in a New York courtroom four days a week",
+            "url": "https://www.wsj.com/politics/elections/trumps-split-screen-strategy-put-criminal-trial-at-center-of-his-campaign-0767fb34",
+            "urlToImage": "https://images.wsj.net/im-943656/social",
+            "publishedAt": "2024-03-30T04:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Samantha Beech, Sharif Paget",
+            "title": "7 taken to New York hospital for observation after ‘severe turbulence’ on United flight, official says - CNN",
+            "description": "Seven people were taken to a New York hospital for observation after experiencing severe turbulence on a United Airlines flight, according to a local EMS chief.",
+            "url": "https://www.cnn.com/2024/03/29/us/new-york-united-flight-turbulence/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1252905815.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-30T03:15:00Z",
+            "content": "Seven people were taken to a New York hospital for observation after experiencing severe turbulence on a United Airlines flight Friday night, according to a local EMS chief.\r\nThe flight, which was tr… [+1529 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jack Baer",
+            "title": "March Madness: South Carolina survives Indiana comeback bid, now 3 wins from perfect season - Yahoo Sports",
+            "description": "Indiana cut a 22-point South Carolina lead to two points.",
+            "url": "https://sports.yahoo.com/march-madness-south-carolina-survives-indiana-comeback-bid-now-3-wins-from-perfect-season-230723436.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7HgVvf7RAiHWxuWLYIEaEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/cbbf7370-ee20-11ee-bfb6-44b325dc5440",
+            "publishedAt": "2024-03-30T02:47:00Z",
+            "content": "South Carolina is three wins away from perfection, despite looking significantly less than perfect Friday.\r\nThe No. 1 seed Gamecocks survived a comeback attempt from No. 4 Indiana in the Sweet 16, pu… [+2569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Patrick Reilly",
+            "title": "Sean 'Diddy' Combs owes nearly $100M in mortgages on luxury LA, Miami mansions raided by feds: report - New York Post ",
+            "description": "Sean “Diddy” Combs owes nearly $100 million in mortgage payments on a trio of mansions in Los Angeles and Miami that were raided by federal agents this week, according to a report. The embattled ra…",
+            "url": "https://nypost.com/2024/03/29/us-news/diddy-owes-banks-nearly-100-million-for-luxury-mansions-raided-by-feds-report/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/newspress-collage-fe5hoz4d8-1711759380295.jpg?quality=75&strip=all&1711744999&w=1024",
+            "publishedAt": "2024-03-30T01:37:00Z",
+            "content": "Sean Diddy Combs owes nearly $100 million in mortgage payments on a trio of mansions in Los Angeles and Miami that were raided by federal agents this week, according to a report. \r\nThe embattled rapp… [+2622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Florida Today"
+            },
+            "author": "Brooke Edwards, Mara Bellaby",
+            "title": "SpaceX Falcon 9 rocket launch doubleheader coming up on Cape Saturday - Florida Today",
+            "description": "Two SpaceX Falcon 9 rockets could take to the skies over Florida in back-to-back Saturday evening launches.",
+            "url": "https://www.floridatoday.com/story/tech/science/space/2024/03/29/spacex-rocket-launch-doubleheader-cape-canaveral-starlink-delta-iv-heavy-ula-falcon-9/73138596007/",
+            "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2024/03/28/PBRE/73137828007-crb-032824-delta-16.jpg?crop=3613,2032,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2024-03-30T00:56:41Z",
+            "content": "While the wait to say farewell to the Delta IV Heavy continues, locals and spring breakers are in for a possible double rocket launch show on Saturday.\r\nIf all goes according to plan, two Falcon 9 ro… [+4325 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Eva Hartog",
+            "title": "Putin the autocrat comes of age – POLITICO - POLITICO Europe",
+            "description": "Тhe Moscow attack by radical Islamists could have been a wake-up call. But it doesn’t seem like it will be.",
+            "url": "https://www.politico.eu/article/vladimir-putin-autocrat-election-terrorism/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/03/29/12126084-scaled.jpg",
+            "publishedAt": "2024-03-30T00:29:00Z",
+            "content": "But it also resulted in him suffering delusional beliefs about the state of affairs in his country, as underlings feared sharing any information that could be seen as negative, Umarov said. \r\nHe adde… [+936 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": "William Brangham, Ali Schmitz",
+            "title": "Brooks and Capehart on Biden's record fundraiser and the importance of campaign spending - PBS NewsHour",
+            "description": "New York Times columnist David Brooks and Washington Post associate editor Jonathan Capehart join William Brangham to discuss the week in politics, including a record fundraiser that nets the Biden campaign millions, a stock market debut that could potentiall…",
+            "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-bidens-record-fundraiser-and-the-importance-of-campaign-spending",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/03/brooksandcapehart-3-1024x576.jpg",
+            "publishedAt": "2024-03-30T00:13:24Z",
+            "content": "Jonathan Capehart:\r\nWell, let's be clear that the Ronna McDaniel hiring was an NBC News hire. I'm at MSNBC. I'm not at NBC News.\r\nAnd when the announcement was made, e-mail came into the inbox. I sen… [+1098 chars]"
+        },
+        {
+            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Glynn A. Hill, Noah Ferguson, Sally Jenkins, Chuck Culpepper, Candace Buckner",
-            "title": "March Madness live updates: Purdue meets Gonzaga in men's Sweet 16; Stanford women face N.C. State - The Washington Post",
-            "description": "March Madness today features the start of the women’s Sweet 16 and the second Sweet day for the men. Follow along for live updates, highlights and analysis.",
-            "url": "https://www.washingtonpost.com/sports/2024/03/29/march-madness-games-scores-live-updates/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJQZMBEVTNGBJNV4M3WFVEY33A.jpg&w=1440",
-            "publishedAt": "2024-03-30T00:27:40Z",
-            "content": null
+            "author": "Lena H. Sun",
+            "title": "Bird flu spreads to dairy cows in Idaho, Michigan, New Mexico and Ohio - The Washington Post",
+            "description": "Six states have been affected, with evidence the virus may be spreading cow-to-cow.",
+            "url": "https://www.washingtonpost.com/health/2024/03/29/bird-flu-cows/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YEGJII7QON5R2WWJER7T5MEBOY.jpg&w=1440",
+            "publishedAt": "2024-03-29T23:51:29Z",
+            "content": "A highly virulent bird flu first detected in dairy cows in Texas and Kansas this week has spread to additional herds, bringing the number of affected states to six and adding evidence the virus may b… [+3937 chars]"
         },
         {
             "source": {
@@ -30,29 +121,94 @@
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Skye Seipp, Keri Heath, Tony Plohetski, Amaris Encinas",
-            "title": "Truck driver in fatal Texas school bus crash arrested Friday; admitted drug use before wreck, police say - USA TODAY",
-            "description": "Jerry Hernandez, a 42-year-old truck driver told authorities had gotten very little sleep and used cocaine before crashing into Texas school bus.",
-            "url": "https://www.usatoday.com/story/news/nation/2024/03/29/texas-bus-crash-driver-jerry-hernandez-homicide-charge/73144048007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/22/NAAS/73072776007-aa-8911-c-02-ada-4599931-ee-7895-da-3-aa-97.jpg?crop=784,441,x0,y0&width=784&height=441&format=pjpg&auto=webp",
-            "publishedAt": "2024-03-29T23:03:45Z",
-            "content": "The man behind the wheel of the concrete truck that collided with a bus full of pre-kindergarten students last week in Texas, killing one student and one driver, had taken recreational drugs hours be… [+6031 chars]"
+            "author": "Matt Stiles, Deidre McPhillips, Christopher Hickey, Curt Merrill, Byron Manley",
+            "title": "Tracking measles cases in the United States - CNN",
+            "description": "There have already been more reported measles cases in 2024 than there were in all of 2023, according to data from the US Centers for Disease Control and Prevention.",
+            "url": "https://www.cnn.com/health/measles-cases-us-dg/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/measles-cases-card-image-0329.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-29T23:35:00Z",
+            "content": "Several outbreaks of measles in the United States are driving case counts up and raising alarm among public health officials, especially as vaccination rates among children lag.\r\nBy the end of March,… [+2603 chars]"
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Katherine Faulders, Aaron Katersky, Peter Charalambous",
-            "title": "Trump must 'immediately desist' from targeting judge's daughter, prosecutors say - ABC News",
-            "description": "The request comes after Trump targeted the daughter of the judge in his NY case.",
-            "url": "https://abcnews.go.com/US/trump-immediately-desist-targeting-judges-daughter-prosecutors/story?id=108668982",
-            "urlToImage": "https://i.abcnewsfe.com/a/48ebf0e8-5556-4546-8bb6-744761bbd5ae/donald-trump-gty-jef-240329_1711747230090_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-03-29T22:30:00Z",
-            "content": "Two days after former President Donald Trump targeted the daughter of the judge overseeing his New York hush money case on social media, lawyers for the Manhattan district attorney have asked Judge J… [+3572 chars]"
+            "author": "Brie Stimson",
+            "title": "NY Gov. Kathy Hochul leaves NYPD Officer Jonathan Diller's wake abruptly after 10 minutes; bystanders clap - Fox News",
+            "description": "Just minutes after arriving at the wake of a slain NYPD officer, New York Gov. Kathy Hochul left following a short discussion with someone there.",
+            "url": "https://www.foxnews.com/us/people-heard-clapping-ny-gov-hochul-abruptly-leaves-slain-nypd-officers-wake-after-just-ten-minutes",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/hochul.jpg",
+            "publishedAt": "2024-03-29T23:03:26Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+3090 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Daniel Klaidman",
+            "title": "Fulton County DA Fani Willis plans to take a lead role in trying Trump case - CBS News",
+            "description": "Two weeks after Fulton County District Attorney Fani Willis survived a bid​ by defense lawyers to have her disqualified from the Georgia election interference case​, she has all but taken over the case personally,",
+            "url": "https://www.cbsnews.com/news/fulton-county-da-fani-willis-trump-case-georgia/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/29/4f6bc415-d60c-4099-bbef-e1a870d568af/thumbnail/1200x630/6445d6f077cf84fce50426eb2e7bdf21/ap24046805202636.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+            "publishedAt": "2024-03-29T22:34:00Z",
+            "content": "Two weeks after Fulton County District Attorney Fani Willis survived a bid by defense lawyers to have her disqualified from the Georgia election interference case, she has all but taken over the case… [+6518 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Nancy Armour",
+            "title": "Notre Dame's Hannah Hidalgo calls 'BS' on order to remove nose ring - USA TODAY",
+            "description": "Hannah Hidalgo, Notre Dame's All-America point guard, sat more than four minutes in second quarter after officials said she had to remove nose ring.",
+            "url": "https://www.usatoday.com/story/sports/ncaaw/2024/03/29/hannah-hidalgo-notre-dame-remove-nose-ring/73150100007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/29/USAT/73150344007-hannah.jpg?crop=2398,1348,x0,y78&width=2398&height=1348&format=pjpg&auto=webp",
+            "publishedAt": "2024-03-29T22:32:20Z",
+            "content": "ALBANY, N.Y. Hannah Hidalgo said it was BS she had to sit out for more than four minutes while her nose piercing was removed and said it disrupted her game.\r\nNotre Dames All-America point guard has w… [+1662 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kate Gibson",
+            "title": "What U.S. consumers should know about the health supplement linked to 5 deaths in Japan - CBS News",
+            "description": "Products containing red yeast rice and meant to lower cholesterol are also sold in the U.S., but what they contain can be murky.",
+            "url": "https://www.cbsnews.com/news/cholesterol-supplements-japan-pill-recall-red-yeast-benikoji/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/29/c1e574c0-5313-44fe-84d9-9f6be9164ad5/thumbnail/1200x630/320e877033485733de3a5a5923cde1d2/gettyimages-1290451277.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+            "publishedAt": "2024-03-29T22:29:23Z",
+            "content": "The recall of red yeast products linked to at least five deaths in Japan may have Americans questioning the safety of a range of dietary supplements containing the ingredient and readily found online… [+3915 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "NICOLE WINFIELD, ANDREW MEDICHINI, ARITZ PARRA, SILVIA STELLACCI",
+            "title": "Pope skips Good Friday event to preserve health ahead of Easter, Vatican says - The Associated Press",
+            "description": "The Vatican says Pope Francis has skipped the traditional Good Friday procession at Rome’s Colosseum to protect his health, adding to concerns about his frail condition during a particularly busy liturgical period. Francis had been expected to preside over th…",
+            "url": "https://apnews.com/article/pope-skips-good-friday-event-a36f1533f9716933ba4965663fa4dd7b",
+            "urlToImage": "https://dims.apnews.com/dims4/default/9f51624/2147483647/strip/true/crop/6746x3795+0+351/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F83%2F4a%2Fb24bbb90c0291bbbbb809291676d%2F3942f822050145649c8c7125851e204b",
+            "publishedAt": "2024-03-29T22:17:00Z",
+            "content": "ROME (AP) Pope Francis skipped the traditional Good Friday procession at Romes Colosseum to protect his health, the Vatican said, making a last-minute decision that added to concerns about his frail … [+4456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Thomas Claburn",
+            "title": "Malicious SSH backdoor sneaks into xz, Linux world's data compression library - The Register",
+            "description": "Red Hat in all caps says STOP USAGE OF ANY FEDORA RAWHIDE INSTANCES",
+            "url": "https://www.theregister.com/2024/03/29/malicious_backdoor_xz/",
+            "urlToImage": "https://regmedia.co.uk/2022/09/05/shutterstock_emergency_button.jpg",
+            "publishedAt": "2024-03-29T21:58:00Z",
+            "content": "Red Hat on Friday warned that a malicious backdoor found in the widely used data compression software library xz may be present in instances of Fedora Linux 40 and in the Fedora Rawhide developer dis… [+4120 chars]"
         },
         {
             "source": {
@@ -69,42 +225,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "mlive.com"
-            },
-            "author": "Rose White | rwhite@mlive.com",
-            "title": "Dairy cows from commercial Michigan farm infected with bird flu - MLive.com",
-            "description": "his is the first time the virus has infected Michigan cattle.",
-            "url": "https://www.mlive.com/public-interest/2024/03/dairy-cows-from-commercial-michigan-farm-infected-with-bird-flu.html",
-            "urlToImage": "https://www.mlive.com/resizer/v2/PD745V6KKVCYBB7NTJPQQUXPME.JPG?auth=fd462716688ee56cc1aff39cf1450500c7805ff5daacb93a5ccadfd746908876&width=1280&quality=90",
-            "publishedAt": "2024-03-29T21:26:00Z",
-            "content": "An avian flu that has killed millions of birds over the past two years was confirmed in a herd of Montcalm County dairy cows. \r\nThis is the first time the virus has infected Michigan cattle. \r\nIts be… [+3487 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AZCentral"
-            },
-            "author": "Madeline Nguyen",
-            "title": "What time is the SpaceX launch? How to see the rocket in Arizona - The Arizona Republic",
-            "description": "SpaceX will launch a rocket on Saturday evening after a two-day delay. Here's where and when to catch the launch in Arizona.",
-            "url": "https://www.azcentral.com/story/news/local/arizona/2024/03/29/how-to-see-spacex-rocket-launch-in-arizona/73147143007/",
-            "urlToImage": "https://www.azcentral.com/gcdn/presto/2022/10/28/PPHX/4c8e215c-6245-40ba-b494-129a09175cee-SpaceX_rocket_launch_NWS_Flagstaff.png?crop=1113,626,x0,y35&width=1113&height=626&format=pjpg&auto=webp",
-            "publishedAt": "2024-03-29T21:01:46Z",
-            "content": "Stargazers in western Arizona will be able to see SpaceXs upcoming Falcon 9 rocket launch from Vandenberg Space Force Base in Southern California on Saturday evening.\r\nThe private spaceflight company… [+2363 chars]"
-        },
-        {
-            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "GERALD IMRAY, NQOBILE NTSHANGASE",
-            "title": "Girl, 8, only survivor of bus crash that kills 45 Easter pilgrims on South Africa's deadly roads - The Associated Press",
-            "description": "An 8-year-old girl was the lone survivor after a bus full of Easter pilgrims from Botswana making their way to a popular church festival in rural South Africa crashed off a bridge on a mountain pass and plunged into a ravine before bursting into flames. Autho…",
-            "url": "https://apnews.com/article/south-africa-moria-bus-crash-accident-629834eb5a308166afe7cdbbd4c7de3d",
-            "urlToImage": "https://dims.apnews.com/dims4/default/3d18038/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2F9d%2F88d4d7761d6aed1e2959fbef73f6%2F518d1501ecf44e0ebcaaae26a47aa139",
-            "publishedAt": "2024-03-29T20:59:00Z",
-            "content": "MMAMATLAKALA, South Africa (AP) An 8-year-old girl was the lone survivor after a bus full of pilgrims making their way to a popular Easter festival in rural South Africa slammed into a bridge on a mo… [+4429 chars]"
+            "author": "JOSHUA GOODMAN, RICHARD LARDNER",
+            "title": "Could tugboats have helped avert the bridge collapse tragedy in Baltimore? - The Associated Press",
+            "description": "Tugboats were not escorting the massive cargo ship Dali when it lost power in the Port of Baltimore and slammed into the Francis Scott Key Bridge, toppling the span and killing six people. Maritime experts told The Associated Press that this week's disaster i…",
+            "url": "https://apnews.com/article/maryland-bridge-collapse-shipping-tugboats-baltimore-cargo-33e1b42c7e0cd9a558d3732ffdaa6220",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f40a661/2147483647/strip/true/crop/7558x4251+0+394/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2F18%2Fd0a9da1594b0b81a830a255ba319%2F6346e7b5f5dc40b88ed0a32c87e76cdd",
+            "publishedAt": "2024-03-29T21:39:00Z",
+            "content": "With the 95,000-ton cargo ship Dali powerless and hurtling helplessly toward the Francis Scott Key Bridge, the harbor pilot commanding the vessel had just minutes to make his last, desperate attempts… [+8112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Trump’s DJT Stock Boosts His Net Worth—and Raises Election Questions - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/donald-trump-djt-stock-truth-social-net-worth-election-1005340a",
+            "urlToImage": null,
+            "publishedAt": "2024-03-29T21:24:00Z",
+            "content": null
         },
         {
             "source": {
@@ -121,29 +264,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "New York Post"
+                "id": "espn",
+                "name": "ESPN"
             },
-            "author": "Reuters",
-            "title": "Tupperware warns it could go out of business over liquidity problems - New York Post ",
-            "description": "Tupperware Brands warned that the 77-year-old company may not survive for another year.",
-            "url": "https://nypost.com/2024/03/29/business/tupperware-warns-it-could-go-out-of-business-amid-liquidity-problems/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/2023-chicago-illinois-tupperware-stock-78602689.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-03-29T20:53:00Z",
-            "content": "Tupperware Brands warned that the 77-year-old company may not survive for another year and forecast inadequate liquidity to fund operations, the seller of plastic airtight food storage containers sai… [+1468 chars]"
+            "author": "ESPN",
+            "title": "Sources: Eagles sending edge rusher Haason Reddick to Jets - ESPN",
+            "description": "The Philadelphia Eagles are sending edge rusher Haason Reddick to the New York Jets for a conditional 2026 third-round pick that could be a second, sources told ESPN's Adam Schefter on Friday.",
+            "url": "https://www.espn.com/nfl/story/_/id/39834145/eagles-sending-edge-rusher-haason-reddick-jets",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2024%2F0329%2Fdm_240329_Haason_Reddick_analysis%2Fdm_240329_Haason_Reddick_analysis.jpg",
+            "publishedAt": "2024-03-29T20:45:31Z",
+            "content": "Mar 29, 2024, 04:15 PM ET\r\nThe Philadelphia Eagles are sending edge rusher Haason Reddick to the New York Jets for a conditional 2026 third-round pick that could be a second, sources told ESPN's Adam… [+290 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Kotaku"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Moises Taveras",
+            "title": "Destiny 2 Changes Course On Into The Light Weapon Rollout - Kotaku",
+            "description": "Players will now be able to get their hands on all the new weapons in a matter of weeks rather than a month and a half",
+            "url": "https://kotaku.com/destiny-2-into-the-light-brave-arsenal-changes-1851375440",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/56e4d31ef9d18cd4e30b4c8f5bb13c82.jpg",
+            "publishedAt": "2024-03-29T20:45:00Z",
+            "content": "Late last year, it was reported that Destiny 2s upcoming expansion, The Final Shape, was getting delayed amidst struggles and layoffs at Bungie. The expansion, which was initially supposed to release… [+3317 chars]"
         },
         {
             "source": {
@@ -173,94 +316,68 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "New York Post"
+                "id": "politico",
+                "name": "Politico"
             },
-            "author": "Craig McCarthy, Vaughn Golden, Olivia Land",
-            "title": "Gov. Hochul leaves wake for slain NYPD Officer Jonathan Diller after confrontation - New York Post ",
-            "description": "Gov. Kathy Hochul left the wake for slain NYPD Officer Jonathan Diller Friday afternoon after a tense confrontation with another man in attendance.",
-            "url": "https://nypost.com/2024/03/29/us-news/kathy-hochul-leaves-nypd-officer-jonathan-dillers-wake-after-confrontation/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/hocul-wake.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-03-29T19:22:00Z",
-            "content": "Gov. Kathy Hochul was filmed being confronted by an emotional mourner on her way out of a short visit to the wake for slain NYPD hero Jonathan Diller Friday afternoon with bystanders applauding as sh… [+5513 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "The Associated Press, Marlene Lenthang",
-            "title": "Cranes arriving to start removing wreckage from deadly Baltimore bridge collapse - NBC News",
-            "description": "BALTIMORE — A crane appeared at the site of a collapsed highway bridge in Baltimore as crews prepared Friday to begin clearing wreckage that has stymied the search for four missing workers and blocked ships from entering or leaving the city’s vital port. A cr…",
-            "url": "https://www.nbcnews.com/news/us-news/building-new-key-bridge-take-years-cost-least-400-million-experts-say-rcna145602",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240329-francis-scott-key-bridge-al-0855-d9319e.jpg",
-            "publishedAt": "2024-03-29T19:06:59Z",
-            "content": "BALTIMORE A crane appeared at the site of a collapsed highway bridge in Baltimore as crews prepared Friday to begin clearing wreckage that has stymied the search for four missing workers and blocked … [+5738 chars]"
+            "author": "POLITICO",
+            "title": "Biden rule downshifts EV truck transition - POLITICO - POLITICO",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/power-switch/2024/03/29/biden-rule-downshifts-ev-truck-transition-00149803",
+            "urlToImage": null,
+            "publishedAt": "2024-03-29T19:59:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "SFGate"
+                "name": "BBC News"
             },
-            "author": "Amy Graff",
-            "title": "Whopping cough outbreak reported at Marin's Tamalpais High School - SFGATE",
-            "description": "Marin County has recorded a high number of whooping cough cases in recent months.",
-            "url": "https://www.sfgate.com/bayarea/article/whooping-cough-outbreak-reported-in-marin-county-19375492.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/36/65/57/24861661/5/rawImage.jpg",
-            "publishedAt": "2024-03-29T18:55:19Z",
-            "content": "An American flag flies over athletic fields at Tamalpais High School, with Mount Tamalpais visible in the background and the Mill Valley-Sausalito path visible in the foreground, Mill Valley, Calif.,… [+6406 chars]"
+            "author": null,
+            "title": "Jeffrey Donaldson: DUP leader resigns after rape charge - BBC.com",
+            "description": "Sir Jeffrey Donaldson MP is charged with historical sexual offences and has been suspended from the DUP.",
+            "url": "https://www.bbc.com/news/uk-northern-ireland-68686691",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A1E4/production/_133044414_gettyimages-1859706312-1.jpg",
+            "publishedAt": "2024-03-29T19:39:31Z",
+            "content": null
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Dan Goodin",
-            "title": "Backdoor found in widely used Linux utility breaks encrypted SSH connections - Ars Technica",
-            "description": "Malicious code planted in xz Utils has been circulating for more than a month.",
-            "url": "https://arstechnica.com/security/2024/03/backdoor-found-in-widely-used-linux-utility-breaks-encrypted-ssh-connections/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/backdoor-1-760x380.jpg",
-            "publishedAt": "2024-03-29T18:50:34Z",
-            "content": "Enlarge/ Internet Backdoor in a string of binary code in a shape of an eye.\r\n91\r\nResearchers have found a malicious backdoor in a compression tool that made its way into widely used Linux distributio… [+4970 chars]"
+            "author": "Gabriel Hays",
+            "title": "Wall Street Journal leaves front page portion blank in honor of Evan Gershkovich: 'His story should be here' - Fox News",
+            "description": "The Wall Street Journal put a large blank space in honor of reporter Evan Gershkovich on its front page Friday, to mark one year he's been imprisoned in Russia.",
+            "url": "https://www.foxnews.com/media/wall-street-journal-leaves-front-page-portion-blank-honor-evan-gershkovich-story-should-here",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/EVAN.COLLEAGUES_splash.jpg",
+            "publishedAt": "2024-03-29T19:01:00Z",
+            "content": "The Wall Street Journal put a massive blank space on its front page on Friday in honor of Evan Gershkovich, its correspondent who's been imprisoned in Russia for exactly one year.\r\nThe media outlet s… [+2885 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "HuffPost"
+                "name": "Deadline"
             },
-            "author": "Marco Margaritoff",
-            "title": "Melissa Joan Hart Reacts To 'Quiet On Set' Allegations - HuffPost",
-            "description": "The former Nickelodeon child star said she hasn't actually seen the disturbing documentary yet.",
-            "url": "https://www.huffpost.com/entry/melissa-joan-hart-reacts-to-quiet-on-set-allegations_n_6606c354e4b05c3d072a3a5c",
-            "urlToImage": "https://img.huffingtonpost.com/asset/6606d0bc230000a828657ac3.jpeg?cache=cjg3uWCriO&ops=1200_630",
-            "publishedAt": "2024-03-29T18:11:17Z",
-            "content": "Melissa Joan Hart is showing support for her former Nickelodeon colleagues amid the release of Quiet on Set: The Dark Side of Kids TV, an Investigation Discovery docuseries in which Drake Bell of Dra… [+5352 chars]"
+            "author": "Nancy Tartaglione",
+            "title": "‘Godzilla X Kong’ Off To Kingly Start Overseas, Storms China In Friday Debut – International Box Office - Deadline",
+            "description": "Godzilla x Kong is roaring at the international box office with $15.9M through Thursday which doesn't include the $13.4M China opening day today",
+            "url": "http://deadline.com/2024/03/godzilla-x-kong-the-new-empire-china-global-international-box-office-1235871670/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/MV5BMjNlY2UxYTMtYzMzNC00ZGEyLTk4ODUtNTI3ODYxOTY2OWY4XkEyXkFqcGdeQWFybm8@._V1_QL75_UX500_CR00500281_.jpg?w=500",
+            "publishedAt": "2024-03-29T17:56:00Z",
+            "content": "Warner Bros/Legendary Entertainment’s Godzilla x Kong: The New Empire is out and roaring at the international box office, generating $15.9M from 49 markets through its first two days overseas (Wed/Th… [+1581 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Sara Moniuszko",
-            "title": "What is meningococcal disease? Symptoms to know as CDC warns of spike in bacterial infection - CBS News",
-            "description": "The CDC is warning about a rise in meningococcal disease, a rare bacterial illnesses than can lead to meningitis and possible death. Here's what to know about symptoms, transmission and treatment.",
-            "url": "https://www.cbsnews.com/news/meningococcal-disease-symptoms-treatment/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/04/12/c3fd3a1b-dbd8-4367-a6f4-f6205ad6cee6/thumbnail/1200x630/c332986e36b28cee16be7b34b6b4e1c6/GettyImages-1265278079.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
-            "publishedAt": "2024-03-29T18:05:16Z",
-            "content": "The Centers for Disease Control and Prevention are warning about a rise in meningococcal disease, a rare bacterial illness that can lead to meningitis, a potentially fatal infection. \r\nIn an alert to… [+3199 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "KEN MILLER",
-            "title": "Texas appeals court overturns voter fraud conviction for woman on probation - The Associated Press",
-            "description": "A Texas appeals court has overturned a woman's voter fraud conviction and five-year sentence for casting an illegal provisional ballot. The court ruled that Crystal Mason of Fort Worth did not know that being on probation after serving in prison still made he…",
-            "url": "https://apnews.com/article/texas-voter-fraud-conviction-overturned-f6265c98b5a134388c229d3886e39410",
-            "urlToImage": "https://dims.apnews.com/dims4/default/e856aff/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2Fa6%2Fae05e302251c5e799003bc1086a1%2F251bc0ed6b80442b9b2a315487c11ec0",
-            "publishedAt": "2024-03-29T17:41:00Z",
-            "content": "A Texas appeals court has overturned a Fort Worth womans voter fraud conviction and five-year prison term for casting an illegal provisional ballot.\r\nCrystal Mason did not know that being on probatio… [+4571 chars]"
+            "author": "Jackie Wattles",
+            "title": "An Everest-size volcano hiding in plain sight on Mars? New research make waves in the science community - CNN",
+            "description": "A massive volcano may be hiding in plain sight on Mars, according to a report from two researchers that’s making waves in the planetary science community.",
+            "url": "https://www.cnn.com/2024/03/29/world/mars-volcano-glacier-noctis-labyrinthus-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/pia13655-large.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-29T17:52:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nScientists may have pinpointed a massive, oddly shaped… [+7635 chars]"
         },
         {
             "source": {
@@ -311,86 +428,8 @@
             "description": "Ultra-Orthodox in the government react furiously over a High Court order on military service.",
             "url": "https://www.bbc.com/news/world-middle-east-68684069",
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF9C/production/_133044275_ultra-orthodox_idf.jpg",
-            "publishedAt": "2024-03-29T16:29:43Z",
+            "publishedAt": "2024-03-29T16:14:07Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Sascha Pare",
-            "title": "Secretive Delta IV Heavy rocket launch postponed indefinitely - Livescience.com",
-            "description": "The final liftoff of a United Launch Alliance Delta IV Heavy rocket was postponed indefinitely following a last-minute nitrogen issue.",
-            "url": "https://www.livescience.com/space/watch-the-final-delta-iv-heavy-rocket-launch-secret-cargo-into-space-today",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/22F65JH2PyqpHKE9eWrA8m-1200-80.jpg",
-            "publishedAt": "2024-03-29T16:26:21Z",
-            "content": "UPDATE: The launch of the Delta IV Heavy rocket has been postponed indefinitely. According to a tweet from United Launch Alliance (ULA) posted on Thursday, an ongoing problem with a gaseous nitrogen … [+4150 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Meredith Gordon",
-            "title": "How to watch today's Gonzaga vs. Purdue men's NCAA March Madness Sweet 16 game: Livestream options, more - CBS News",
-            "description": "Gonzaga faces Purdue in the 2024 March Madness Sweet 16 round. Here's when and how to watch or stream today's game.",
-            "url": "https://www.cbsnews.com/essentials/how-to-watch-todays-gonzaga-vs-purdue-mens-ncaa-march-madness-sweet-16-game/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/28/b3de0344-9b9a-4b0e-a44a-d09c39abfbf9/thumbnail/1200x630/4a1aef9e6468fc314e7af0cd63bdd911/gettyimages-2110275184-1.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
-            "publishedAt": "2024-03-29T16:22:12Z",
-            "content": "Braden Smith #3 of the Purdue Boilermakers reacts with his teammates against the Utah State Aggies during the second half in the second round of the NCAA Men's Basketball Tournament at Gainbridge Fie… [+9831 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Israel accused of killing dozens of Syria troops and Hezbollah fighters with major airstrikes near Aleppo - CBS News",
-            "description": "A Syrian war monitor says Israeli airstrikes targeting Hezbollah fighters and Syrian soldiers near Aleppo have killed 44 people.",
-            "url": "https://www.cbsnews.com/news/israel-hezbollah-syria-airstrikes-aleppo-gaza-hamas-war/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/29/d7ed826e-c2f6-49b1-b97b-bdd428515e7a/thumbnail/1200x630g8/c57f65cba4f103523c6d0019210c986f/syria-israel-airstrike-hezbollah-ap24052372080369.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
-            "publishedAt": "2024-03-29T15:39:48Z",
-            "content": "Beirut — The Syrian army said Friday that Israeli airstrikes near the northern city of Aleppo had killed or wounded \"a number of\" people and caused damage. A war monitoring group said the strikes kil… [+3205 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Ella Hopkins",
-            "title": "Sam Bankman-Fried may struggle to stick to a vegan diet in prison - Business Insider",
-            "description": "The disgraced FTX founder could be sent to a prison with very limited vegan options, The Wall Street Journal reported.",
-            "url": "https://www.businessinsider.com/sam-bankman-fried-ftx-struggle-vegan-diet-rice-almonds-prison-2024-3",
-            "urlToImage": "https://i.insider.com/6606cf0e1caec1275a6ace52?width=1200&format=jpeg",
-            "publishedAt": "2024-03-29T15:19:00Z",
-            "content": "Sam Bankman-Fried might have trouble maintaining his vegan diet in prison.\r\nThe disgraced crypto entrepreneur could carry out his 25-year sentence at Mendota, a medium-security prison near Fresno, Ca… [+2124 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Sandra Lilley",
-            "title": "A record surge in dengue cases in Latin America spurs a warning - NBC News",
-            "description": "A record surge in dengue cases throughout Latin America and the Caribbean this year prompted the head of the Pan American Health Organization to call for collective action to curb the deadly mosquito-borne viral disease.",
-            "url": "https://www.nbcnews.com/news/latino/record-surge-dengue-cases-latin-america-spurs-warning-rcna145612",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240329-dengue-fever-peru-se-1146a-ca899b.jpg",
-            "publishedAt": "2024-03-29T15:03:20Z",
-            "content": "A record surge in dengue cases throughout Latin America and the Caribbean prompted the head of the Pan American Health Organization to warn of the need for proactive measures to curb the virus that i… [+2511 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Epa.gov"
-            },
-            "author": null,
-            "title": "Final Rule: Greenhouse Gas Emissions Standards for Heavy-Duty Vehicles – Phase 3 | US EPA - U.S. EPA.gov",
-            "description": "EPA issued a final rule, “Greenhouse Gas Emissions Standards for Heavy-Duty Vehicles – Phase 3”.",
-            "url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-greenhouse-gas-emissions-standards-heavy-duty",
-            "urlToImage": "https://www.epa.gov/system/files/images/2022-03/epa-standard-twitter.jpg",
-            "publishedAt": "2024-03-29T14:24:26Z",
-            "content": "On this page:\r\nPara información en español, haga clic aquí.\r\nOn March 29, 2024, the U.S. Environmental Protection Agency (EPA) announced a final rule, Greenhouse Gas Emissions Standards for Heavy-Dut… [+833 chars]"
         },
         {
             "source": {
@@ -408,32 +447,6 @@
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
-            },
-            "author": "Ryan Dunleavy",
-            "title": "Yankees began to reverse Houston curse on Opening Day 2024 - New York Post ",
-            "description": "Imagine if the Yankees could finish a season the way that this one started.",
-            "url": "https://nypost.com/2024/03/29/sports/yankees-began-to-reverse-houston-curse-on-opening-day-2024/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/newspress-collage-jk3aaoc74-1711711206824.jpg?quality=75&strip=all&1711697185&w=1024",
-            "publishedAt": "2024-03-29T12:40:00Z",
-            "content": "Imagine if the Yankees could finish a season the way that this one started.\r\nThere is a natural tendency to overstate the meaning of every MLB game especially the first one in a 162-game marathon.\r\nB… [+619 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Palestinian Christians barred from Jerusalem’s Old City at Easter - Al Jazeera English",
-            "description": "During Gaza war, usual crowds of international worshippers absent, and Palestinians face ‘unprecedented’ restrictions.",
-            "url": "https://www.aljazeera.com/news/2024/3/29/palestinians-barred-from-celebrating-easter-in-jerusalems-old-city",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-28T110734Z_647969187_RC2VU6A4EG63_RTRMADP_3_RELIGION-EASTER-HOLY-THURSDAY-1711710034.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-03-29T12:21:31Z",
-            "content": "As Christians around the world prepare to celebrate Easter, Palestinians in the land that birthed the religion are facing severe restrictions on entering Jerusalems Old City to mark the occasion.\r\nWh… [+3906 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "MacRumors"
             },
             "author": "Tim Hardwick",
@@ -446,29 +459,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "NPR"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Charles Maynes",
-            "title": "U.S. reporter Evan Gershkovich has now spent a whole year jailed in Russia - NPR",
-            "description": "It's been a year since Russia detained Wall Street Journal reporter Evan Gershkovich on spying allegations.",
-            "url": "https://www.npr.org/2024/03/29/1241398745/evan-gershkovich-russia-prison-anniversary",
-            "urlToImage": "https://media.npr.org/assets/img/2024/03/28/gettyimages-2016821357_wide-b24f76f56a6fd3dbda5bdbb4873952c76c5f70f3-s1400-c100.jpg",
-            "publishedAt": "2024-03-29T09:00:15Z",
-            "content": "MOSCOW Friday marks one year since Wall Street Journal reporter Evan Gershkovich was detained by Russian security forces on spying allegations the first such detention of an American journalist on es… [+9855 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emilia David",
-            "title": "Microsoft's new safety system can catch hallucinations in its customers' AI apps - The Verge",
-            "description": "Microsoft’s Azure AI platform is adding safety features for hallucinations, prompt attacks, and safety evaluations that automatically work on GPT-4, Llama 2, and other models.",
-            "url": "https://www.theverge.com/2024/3/28/24114664/microsoft-safety-ai-prompt-injections-hallucinations-azure",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg",
-            "publishedAt": "2024-03-28T20:34:30Z",
-            "content": "Microsofts new safety system can catch hallucinations in its customers AI apps\r\nMicrosofts new safety system can catch hallucinations in its customers AI apps\r\n / The Azure AI Studio tools can screen… [+3525 chars]"
+            "author": "Rafy Rivera, Amanda Musa",
+            "title": "Puerto Rico declares public health emergency as dengue cases surge - CNN",
+            "description": "Puerto Rico has declared a public health emergency due to a surging number of dengue cases.",
+            "url": "https://www.cnn.com/2024/03/28/health/dengue-fever-puerto-rico-emergency/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-03-28t020302z-1660265734-rc2fu6arhkau-rtrmadp-3-health-dengue-puerto-rico.JPG?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-28T16:01:00Z",
+            "content": "Puerto Rico has declared a public health emergency due to a surging number of dengue cases.\r\nPuerto Rico Secretary of Heath Carlos Mellado said the health department has registered 549 cases of dengu… [+2762 chars]"
         }
     ]
 }

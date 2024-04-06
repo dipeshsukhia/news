@@ -1,19 +1,396 @@
 {
     "status": "ok",
-    "totalResults": 59,
+    "totalResults": 65,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Harring",
+            "title": "Dow futures are little changed after index notches worst day in more than a year, jobs report looms: Live updates - CNBC",
+            "description": "The Dow clinched its biggest daily loss since March 2023 after the market turned midday.",
+            "url": "https://www.cnbc.com/2024/04/04/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107380407-1709220694045-gettyimages-2048151009-_s1_0013_k1qwrf18.jpeg?v=1712270165&w=1920&h=1080",
+            "publishedAt": "2024-04-04T22:04:00Z",
+            "content": "Futures tied to the Dow Jones Industrial Average sat near flat Thursday night following the index's worst session in over a year. Investors also awaited key labor data due Friday morning.\r\nDow future… [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Scott Nover",
+            "title": "Elon Musk realized he created a badge of shame with blue checks on X. - Slate",
+            "description": "Now he's trying to walk back his mistake.",
+            "url": "https://slate.com/technology/2024/04/elon-musk-blue-checks-x-twitter-badge-of-shame.html",
+            "urlToImage": "https://compote.slate.com/images/0a45e566-92a5-4c5c-92ff-b5c89c7b75cb.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2024-04-04T21:48:00Z",
+            "content": "In 2022, when Elon Musk campaigned to buy Twitterbefore he realized he would be massively overpaying and went to court to get out of the deal he himself proposed, before he admitted defeat and took o… [+5918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Elon Musk boosting pay of AI engineers to prevent poaching from OpenAI - Fox Business",
+            "description": "Tesla CEO Elon Musk said the electric vehicle maker is raising the compensation of its artificial intelligence engineers due to OpenAI \"aggressively recruiting\" them.",
+            "url": "https://www.foxbusiness.com/technology/elon-musk-boosting-pay-ai-engineers-prevent-poaching-openai",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/elon-musk-1.jpg?ve=1&tl=1",
+            "publishedAt": "2024-04-04T21:19:00Z",
+            "content": "Tesla CEO Elon Musk said the electric vehicle giant is giving its artificial intelligence engineers a raise as the automaker tries to fend off poaching efforts by ChatGPT creator OpenAI.\r\nThe tech bi… [+2771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Boeing pays Alaska Air more than $160m after blowout - BBC.com",
+            "description": "The sum to the airline for losses since January reflects the ongoing fallout to Boeing from the crisis.",
+            "url": "https://www.bbc.com/news/business-68737292",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8672/production/_133081443_whatsubject.jpg",
+            "publishedAt": "2024-04-04T21:18:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox Business",
+            "title": "California fast food workers stunned as restaurant closes without warning over $20 minimum wage: 'Only the beginning' - New York Post ",
+            "description": "Another California small business and its workers have seemingly suffered at the hands of the state’s newly enacted $20 minimum wage.",
+            "url": "https://nypost.com/2024/04/04/business/california-minimum-wage-shocks-fast-food-workers-as-restaurant-closes-only-the-beginning/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/miami-beach-florida-veterans-day-79485020.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-04-04T20:08:00Z",
+            "content": "Another California small business and its workers have seemingly suffered at the hands of the states newly enacted $20 minimum wage.\r\n“It’s a shock,” Monica Navarro, former assistant general manager … [+3019 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STAT"
+            },
+            "author": "Allison DeAngelis",
+            "title": "Amylyx to pull ALS drug from market, cut 70% of staff - STAT",
+            "description": "Amylyx Pharmaceuticals will take its ALS drug off the market in the U.S. and Canada, ending a multi-year saga for patients with the disease.",
+            "url": "https://www.statnews.com/2024/04/04/amylyx-to-pull-als-drug-relyvrio-from-market/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2020/09/Amylyx_04-1024x576.jpg",
+            "publishedAt": "2024-04-04T20:01:58Z",
+            "content": "Amylyx Pharmaceuticals will take its ALS drug Relyvrio off the market in the U.S. and Canada, ending a multi-year saga for patients with the rare neurodegenerative disease.\r\nRelyvrio was approved by … [+615 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Joe Miller",
+            "title": "British billionaire Joe Lewis avoids US prison in insider trading case - Financial Times",
+            "description": "Businessman whose family owns Tottenham Hotspur football club had pleaded guilty to tipping off friends, private pilots and a girlfriend",
+            "url": "https://www.ft.com/content/00ea0949-135c-4604-8ca7-067bc4fc1072",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F39520856-553e-4777-81d6-dc2f645346a3.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-04-04T19:50:20Z",
+            "content": "Joe Lewis, the British billionaire whose family owns Tottenham Hotspur football club, will avoid being sent to prison for insider trading, after a federal judge in Manhattan agreed on Thursday to sen… [+3406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Carl Campanile, Emily Crane",
+            "title": "NY Gov. Kathy Hochul orders MTA to stand down over NYC Marathon $750K toll fight after Post report on 'cash grab' move - New York Post ",
+            "description": "“I’ve directed the MTA to fix this mess and allow the marathon to move forward as it always has,” Hochul said after The Post highlighted outrage over the MTA’s cash grab.",
+            "url": "https://nypost.com/2024/04/04/us-news/hochul-orders-mta-to-stand-down-over-nyc-marathon-750k-toll-fight/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-9wym4kw4a-1712261372988.jpg?quality=75&strip=all&1712247138&w=1024",
+            "publishedAt": "2024-04-04T19:49:00Z",
+            "content": "Stand down — and fix this mess! \r\nGov. Kathy Hochul on Thursday nixed the Metropolitan Transportation Authority’s efforts to squeeze a $750,000 toll from the organizers of the New York City Marathon … [+5138 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "The Password Sharing Crackdown Is Coming to Disney - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/business/media/disney-to-crack-down-on-password-sharing-starting-in-june-2d060eaf",
+            "urlToImage": null,
+            "publishedAt": "2024-04-04T19:21:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "Fed’s Kashkari says he expects 2 rate cuts in 2024; possible there will be none - MarketWatch",
+            "description": null,
+            "url": "https://www.marketwatch.com/story/feds-kashkari-says-he-expects-two-rate-cuts-this-year-but-its-possible-there-will-be-none-b8365841",
+            "urlToImage": null,
+            "publishedAt": "2024-04-04T19:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ashley Capoot",
+            "title": "Meta shares hit intraday record after analyst says company 'has too many advantages to count' - CNBC",
+            "description": "Analysts at Jefferies and RBC lifted their price targets on Meta, citing the company's improving position in the digital ad market.",
+            "url": "https://www.cnbc.com/2024/04/04/meta-rises-to-record-after-jefferies-rbc-analysts-raise-price-targets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1712252136&w=1920&h=1080",
+            "publishedAt": "2024-04-04T19:07:06Z",
+            "content": "Meta shares jumped to an intraday record on Thursday after analysts at two firms raised their price targets on the stock, citing optimism over the company's growing market share in digital advertisin… [+2458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Ford postpones rollout of some new EVs as demand wanes - Fox Business",
+            "description": "Ford Motor Co. said it is delaying the production of two new electric vehicle models — an SUV and a pickup truck — as global demand for EVs continues to slow.",
+            "url": "https://www.foxbusiness.com/markets/ford-postpones-rollout-some-new-evs-as-demand-wanes",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/Ford-1.jpg?ve=1&tl=1",
+            "publishedAt": "2024-04-04T18:29:00Z",
+            "content": "Ford Motor Co. is pumping the brakes on the production of two forthcoming electric vehicle models as demand for EVs continues to wane.\r\nIn a manufacturing update Thursday, Ford announced that it is p… [+2143 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "SCOTT McFETRIDGE",
+            "title": "Powerball jackpot reaches $1.23B as long odds mean lots of losing, just as designed - The Associated Press",
+            "description": "Powerball is about to match a record for lottery drawings with a stretch of more than three months without a jackpot winner. It’s that string of futility that has enabled Powerball’s top prize to reach $1.23 billion for the next drawing Saturday night. That m…",
+            "url": "https://apnews.com/article/powerball-lottery-jackpot-b2471a4d796af84fc8628b2c3fa4f4e2",
+            "urlToImage": "https://dims.apnews.com/dims4/default/d724e44/2147483647/strip/true/crop/6300x3544+0+329/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2F76%2F9e0b52adc30fcac9b03573c9fac9%2F88e90d2ace2b427aaed9a2ac32cd963b",
+            "publishedAt": "2024-04-04T18:09:00Z",
+            "content": "Powerball will match a record for lottery drawings Saturday night with a stretch of more than three months without a jackpot winner.\r\nIts that string of futility that has enabled Powerballs top prize… [+3279 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "TheStreet",
+            "title": "Popular shoe brand files for Chapter 11 bankruptcy - TheStreet",
+            "description": null,
+            "url": "https://www.thestreet.com/retail/popular-shoe-brand-files-for-chapter-11-bankruptcy",
+            "urlToImage": null,
+            "publishedAt": "2024-04-04T18:00:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Aislinn Murphy",
+            "title": "Spotify plans to raise prices later this year: report - Fox Business",
+            "description": "Listening to Spotify will get more expensive for premium users when the company implements price increases in five non-U.S. markets in April, according to Bloomberg. They will hit the U.S. later in the year.",
+            "url": "https://www.foxbusiness.com/technology/spotify-plans-to-raise-prices-later-this-year",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/09/0/0/c460ac60-spotify-audiobook.jpg?ve=1&tl=1",
+            "publishedAt": "2024-04-04T17:44:00Z",
+            "content": "Listening to Spotify could get more expensive for some users this year.\r\nThe cost of Spotify Premium subscriptions in the U.S. will rise later in the year, Bloomberg reported Wednesday, citing people… [+2574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WGN TV Chicago"
+            },
+            "author": "Michael Bartiromo",
+            "title": "National Burrito Day: Where to get deals and discounts on April 4 - WGN TV Chicago",
+            "description": "Several popular restaurant chains are celebrating National Burrito Day with deals ranging from free delivery to buy-one-get-one burritos.",
+            "url": "https://wgntv.com/news/trending/national-burrito-day-where-to-get-deals-and-discounts-on-april-4/",
+            "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2024/04/burritoGettyImages-1362753401-e1712246459883.jpg?w=1280",
+            "publishedAt": "2024-04-04T17:41:57Z",
+            "content": "(NEXSTAR) Its been whole days since the last major made-up food holiday, leaving Americans everywhere in dire need of an excuse to treat themselves to free or discounted food.\r\nThankfully for those A… [+2191 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sydney Lake",
+            "title": "Bill Gates' three tips for business success - Fortune",
+            "description": "Gates eventually realized that “intensity was not always appropriate.”",
+            "url": "https://fortune.com/2024/04/04/bill-gates-microsoft-tips-business-success/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1235973626-e1712252029862.jpg?resize=1200,600",
+            "publishedAt": "2024-04-04T17:39:00Z",
+            "content": "Exactly 49 years ago today, Bill Gates and Paul Allen founded Microsofta company that has had a lasting impression and impact on the software industry, and Big Tech itself. To build such a successful… [+3411 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "High-stakes jobs report has stock-market investors on edge. Here’s why. - MarketWatch",
+            "description": null,
+            "url": "https://www.marketwatch.com/story/high-stakes-job-report-has-stock-market-investors-on-edge-heres-why-b32cdbf7",
+            "urlToImage": null,
+            "publishedAt": "2024-04-04T17:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Stock Market Today: Dow Jones Rebounds As Alphabet Eyes This Buy Point - Investor's Business Daily",
+            "description": "Alphabet, the Google search engine operator, fell nearly 0.9% and traded as low as 152.18.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-stock-google-googl-meta/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/01/Stock-googleworkers-01-shutt.jpg",
+            "publishedAt": "2024-04-04T17:25:00Z",
+            "content": "The Dow Jones Industrial Average held steady in afternoon trades Thursday as the blue chip index strived to snap a three-day losing streak. Meanwhile, Magnificent Seven companies were mixed as AI ind… [+7914 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tom Hals",
+            "title": "Trump to be deposed in dispute with media company co-founders - Reuters",
+            "description": "Republican presidential candidate Donald Trump is scheduled to be deposed later this month by lawyers for co-founders of his social media company as part of a dispute over ownership in Trump Media & Technology Group , which went public last week.",
+            "url": "https://www.reuters.com/legal/trump-be-deposed-dispute-with-media-company-co-founders-2024-04-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/XLOPOQNQ6BJW5HCPZRAZUF4GIM.jpg?auth=3abd96ce540c8645250055951cad3f16966e63e2a34f497f95e453d99afb1815&width=1920&height=1005&smart=true",
+            "publishedAt": "2024-04-04T17:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Dade Hayes",
+            "title": "After Losing Disney Proxy Fight, Nelson Peltz Claims About $1B In Profit On Stock Gains; Won’t Rule Out A Third Effort To Shake Up Board - Deadline",
+            "description": "Investor Nelson Peltz, who lost his proxy battle with Disney, said his firm has nevertheless made about $1 billion in profit from its Disney stake.",
+            "url": "http://deadline.com/2024/04/disney-proxy-fight-nelson-peltz-stock-board-1235876025/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/02/GettyImages-480780652.jpg?w=1024",
+            "publishedAt": "2024-04-04T17:15:00Z",
+            "content": "Activist investor Nelson Peltz, reflecting on his losing proxy battle with Disney, says he will “watch and wait” to see if the company keeps its promises.\r\nIf it doesn’t, he told CNBC in an interview… [+2261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Levi Strauss, Lamb Weston, Ford, BlackBerry, Paramount, HubSpot, Block, Conagra, and More Movers - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/stock-market-movers-c8f926fa",
+            "urlToImage": null,
+            "publishedAt": "2024-04-04T17:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Exclusive: Google parent Alphabet weighs offer for HubSpot, sources say - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/deals/google-parent-alphabet-weighs-offer-hubspot-sources-say-2024-04-04/",
+            "urlToImage": null,
+            "publishedAt": "2024-04-04T16:37:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC Chicago"
+            },
+            "author": null,
+            "title": "3 Powerball tickets worth $50k each sold in Illinois - NBC Chicago",
+            "description": "They may not have hit the jackpot, but three Illinois lottery players scored big in Wednesday’s Powerball drawing.",
+            "url": "http://www.nbcchicago.com/news/local/3-powerball-tickets-worth-50k-each-sold-in-illinois/3401237/",
+            "urlToImage": "https://media.nbcchicago.com/2023/10/POWERBALL-1B.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2024-04-04T16:27:04Z",
+            "content": "Editor's Note: The video in this story is from a previous report. \r\nThey may not have hit the jackpot, but three Illinois lottery players scored big in Wednesday's Powerball drawing. \r\nAccording to t… [+896 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Mortgage rates rise as demand continues to slide - Fox Business",
+            "description": "The average rate for the 30-year fixed-rate mortgage rose to 6.82% this week as the housing market remains stalled due to elevated interest rates and home prices.",
+            "url": "https://www.foxbusiness.com/economy/mortgage-rates-rise-demand-continues-slide",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/REAL-ESTATE-MARKET-SIGN-GETTY.jpg?ve=1&tl=1",
+            "publishedAt": "2024-04-04T16:04:00Z",
+            "content": "Mortgage rates increased slightly this week as demand continues to wane amid the ongoing housing affordability crisis.\r\nFreddie Mac's latest Primary Mortgage Market Survey, released Thursday, showed … [+1932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Dan Mangan",
+            "title": "Trump Media is 'a scam' and people buying its stock are 'dopes,' Barry Diller says - CNBC",
+            "description": "Donald Trump, the presumptive Republican presidential nominee, is the biggest shareholder in Trump Media, the owner of the Truth Social app he often uses.",
+            "url": "https://www.cnbc.com/2024/04/04/trump-media-stock-is-a-scam-barry-diller-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106216487-1572545732717nup_187507_0387.jpg?v=1572546238&w=1920&h=1080",
+            "publishedAt": "2024-04-04T15:49:06Z",
+            "content": "Trump Media is \"a scam,\" and people buying its high-flying stock are \"dopes,\" IAC and Expedia Chairman Barry Diller said Thursday in a scathing takedown of the social media company whose majority sha… [+2333 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Julia Gomez",
+            "title": "2 injured as Southwest flight hits turbulence, forced to land in Tampa - USA TODAY",
+            "description": "A flight attendant and another person on board a Southwest flight from New Orleans to Tampa were injured after the flight encountered turbulence.",
+            "url": "https://www.usatoday.com/story/travel/news/2024/04/04/southwest-flight-attendant-injured-turbulence-tampa/73201233007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/26/USAT/71330028007-ap-23220538763355.jpg?crop=3837,2160,x0,y195&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-04T15:37:40Z",
+            "content": "A Southwest Airlines flight headed to Orlando from New Orleans made an emergency landing in Tampa Wednesday after it encountered turbulence, and two people, including a flight attendant, were injured… [+1027 chars]"
+        },
         {
             "source": {
                 "id": null,
                 "name": "Fox Business"
             },
             "author": "Daniella Genovese",
-            "title": "JetBlue increases bag fees again – this time, it depends on when you fly - Fox Business",
+            "title": "JetBlue increases bag fees again — this time, it depends on when you fly - Fox Business",
             "description": "JetBlue will increase the cost of checked bags, depending on the date of the flight. This comes after the carrier already increased the cost of checked bags this year.",
             "url": "https://www.foxbusiness.com/lifestyle/jetblue-increases-bag-fees-again-this-time-depends-when-you-fly",
             "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/jetblue-passengers-2.jpg?ve=1&tl=1",
             "publishedAt": "2024-04-04T15:31:00Z",
             "content": "JetBlue Airways is tacking on an extra fee for checked bags on peak travel days in an effort to improve profitability. \r\nThe New York-based carrier told FOX Business that it will charge an extra $5 f… [+3617 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maisie Linford, Anna Cooban",
+            "title": "McDonald’s buys all of its Israeli franchise restaurants amid damage from Middle East turmoil - CNN",
+            "description": "McDonald’s will buy 225 of its franchise restaurants in Israel, it announced Thursday, just weeks after saying that the Israel-Hamas war was hurting its business.",
+            "url": "https://www.cnn.com/2024/04/04/business/mcdonalds-buys-israeli-franchise/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1231967432.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-04T15:27:55Z",
+            "content": "McDonalds will buy every one of its 225 franchise restaurants in Israel, it announced Thursday, just weeks after saying that the Israel-Hamas war was hurting its business.\r\nThe fast food giant said i… [+2168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Savyata  Mishra",
+            "title": "Levi Strauss surges on profit forecast raise as direct customer sales, cost cuts pay off - Yahoo Finance",
+            "description": "Shares of Levi Strauss & Co jumped 20% to a more than two-year high on Thursday as the jeans maker raised its annual profit forecast, powered by new CEO's...",
+            "url": "https://finance.yahoo.com/news/levi-strauss-surges-profit-forecast-142139825.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/8f760c89e24e253c408a8f986b4eff38",
+            "publishedAt": "2024-04-04T15:24:09Z",
+            "content": "By Savyata Mishra\r\n(Reuters) - Shares of Levi Strauss &amp; Co jumped 20% to a more than two-year high on Thursday as the jeans maker raised its annual profit forecast, powered by new CEO's cost-cutt… [+1805 chars]"
         },
         {
             "source": {
@@ -30,42 +407,16 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "the-hill",
+                "name": "The Hill"
             },
-            "author": "Reuters",
-            "title": "Exclusive: Google parent Alphabet weighs offer for HubSpot, sources say - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/markets/deals/google-parent-alphabet-weighs-offer-hubspot-sources-say-2024-04-04/",
-            "urlToImage": null,
-            "publishedAt": "2024-04-04T15:00:26Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Alex Weprin",
-            "title": "Bob Iger On “Woke” Disney Criticism: “A Lot of People Don’t Even Understand Really What It Means” - Hollywood Reporter",
-            "description": "The CEO also talked about succession planning in a wide-ranging CNBC interview.",
-            "url": "http://www.hollywoodreporter.com/business/business-news/bob-iger-cnbc-nelson-peltz-response-1235866344/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/04/GettyImages-1998840774-copy.jpg?w=1024",
-            "publishedAt": "2024-04-04T14:32:52Z",
-            "content": "With the Nelson Peltz proxy fight in the rearview mirror, Disney CEO Bob Iger says that he is now free to focus on moving the company forward, with succession being a top priority.\r\nIn a wide-ranging… [+5146 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew J. Hawkins",
-            "title": "Ford is delaying its next-gen electric three-row SUV and truck - The Verge",
-            "description": "Ford is delaying work on its next-generation electric vehicles, including a three-row SUV and pickup truck. The company also said it would offer more hybrid models.",
-            "url": "https://www.theverge.com/2024/4/4/24120936/ford-electric-suv-truck-hyrbid-blue-oval-city-delay",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/YpsjBDi4sZmoc4DAImeHf_6GkBg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23988517/acastro_STK056_01.jpg",
-            "publishedAt": "2024-04-04T14:29:55Z",
-            "content": "Ford is delaying its next-gen electric three-row SUV and truck\r\nFord is delaying its next-gen electric three-row SUV and truck\r\n / The truck will have to wait until 2026, while the Expedition-like SU… [+3574 chars]"
+            "author": "Tobias Burns",
+            "title": "US trade gap tops $68 billion, widest in almost a year - The Hill",
+            "description": "The U.S. trade deficit widened to $68.9 billion in February, the largest disparity since last April, as import values exceeded exports by more than analysts were expecting. The trade gap on goods increased by $300 million to $91.4 billion, while the export su…",
+            "url": "https://thehill.com/business/4574316-us-trade-gap-tops-68-billion-widest-in-almost-a-year/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/GettyImages-1866694731-e1704481417724.jpg?w=1280",
+            "publishedAt": "2024-04-04T14:32:00Z",
+            "content": "Skip to content\r\nThe U.S. trade deficit widened to $68.9 billion in February, the largest disparity since last April, as import values exceeded exports by more than analysts were expecting.\r\nThe trad… [+1911 chars]"
         },
         {
             "source": {
@@ -83,15 +434,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Toyota.com"
+                "name": "Motor1 "
             },
-            "author": "Toyota USA Newsroom",
-            "title": "Fresh Air for Your Wild Side in the Next Generation 4Runner - Toyota USA Newsroom",
-            "description": null,
-            "url": "https://pressroom.toyota.com/fresh-air-for-your-wild-side-in-the-next-generation-4runner/",
-            "urlToImage": null,
-            "publishedAt": "2024-04-04T14:11:14Z",
-            "content": null
+            "author": "Chris Perkins",
+            "title": "The 2025 Toyota 4Runner Will Have a Roll-Down Rear Window, As It Should - Motor1 ",
+            "description": "The sixth-generation Toyota 4Runner SUV will debut next week. Toyota has teased its arrival with a roll-down rear window. It's a big deal.",
+            "url": "https://www.motor1.com/news/714963/2025-toyota-4runner-rear-window/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/zxVBp8/s1/2025-toyota-4runner-roll-down-rear-window.jpg",
+            "publishedAt": "2024-04-04T14:08:00Z",
+            "content": "Exactly a week after Toyota dropped the first teaser of the new 4Runner, the automaker is revealing a bit more of the upcoming truck. In an image and video released today, Toyota showed off the 4Runn… [+1547 chars]"
         },
         {
             "source": {
@@ -104,59 +455,33 @@
             "url": "https://www.foxbusiness.com/lifestyle/amazon-lays-off-several-hundred-workers-cloud-computing-unit",
             "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/12/0/0/AWS-Conference-GettyImages-1808363793.jpg?ve=1&tl=1",
             "publishedAt": "2024-04-04T14:07:00Z",
-            "content": "Amazon said on Wednesday that it is laying off several hundred workers in its cloud computing unit, AWS.\r\nAWS, a subsidiary of Amazon that provides on-demand cloud computing platforms, cut a few hund… [+2702 chars]"
+            "content": "Amazon on Wednesday said that it is laying off several hundred workers in its cloud computing unit, Amazon Web Services (AWS).\r\nAWS, a subsidiary of Amazon that provides on-demand cloud computing pla… [+2704 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Melissa Alonso, Chris Boyette",
+            "title": "‘Go around!’ FAA investigates a close call between a plane and LaGuardia’s air traffic control tower - CNN",
+            "description": "The Federal Aviation Administration is investigating why a Southwest Airlines plane veered off course and had a close call with an air traffic control tower during an attempted landing at New York’s LaGuardia Airport, the agency said Thursday.",
+            "url": "https://www.cnn.com/2024/04/04/travel/southwest-flight-laguardia-control-tower/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1088520134.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-04T14:02:00Z",
+            "content": "The Federal Aviation Administration is investigating why a Southwest Airlines plane veered off course and had a close call with an air traffic control tower during an attempted landing at New Yorks L… [+1866 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "wpde.com"
             },
-            "author": "Kristen Altus",
-            "title": "California minimum wage shocks fast food workers as restaurant closes: 'Only the beginning,' ex-manager warns - Fox Business",
-            "description": "The Fosters Freeze team in Lemoore, California, felt \"shock\" as they learned of the restaurant's last-minute closure on Monday, following the state's newly enacted $20 minimum wage law.",
-            "url": "https://www.foxbusiness.com/economy/california-minimum-wage-shocks-fast-food-workers-restaurant-closes-only-begining-ex-manager-warns",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/FOSTERS-FREEZE-BOTTOM-LINE.jpg?ve=1&tl=1",
-            "publishedAt": "2024-04-04T13:50:00Z",
-            "content": "Another California small business and its workers have seemingly suffered at the hands of the state’s newly enacted $20 minimum wage.\r\n\"It's a shock,\" Monica Navarro, former assistant general manager… [+2948 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Biden admin doles out $20 billion in \"green bank\" funding - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2024/04/04/biden-climate-green-bank",
-            "urlToImage": null,
-            "publishedAt": "2024-04-04T13:41:17Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Ines Ferré",
-            "title": "Stock market today: Tech leads market bounce as Powell soothes rate-cut nerves - Yahoo Finance",
-            "description": "Focus is turning to the looming monthly jobs report after Fed Chair Jerome Powell didn't change his tune on rates.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-tech-leads-market-bounce-as-powell-soothes-rate-cut-nerves-133121789.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lFd2P0ld_VWoblPgk_.brg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/cb9cbbd0-b9c0-11ee-bfeb-d94e641f3332",
-            "publishedAt": "2024-04-04T13:39:24Z",
-            "content": "Tech stocks led the markets higher on Thursday as investors hunting for interest-rate clues shifted focus to the coming US jobs report.\r\nThe Dow Jones Industrial Average (^DJI) rose roughly 0.4%, com… [+5851 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Brooke Steinberg",
-            "title": "National Burrito Day deals are here — how to eat for cheap or free at Chipotle, Taco Bell and more - New York Post ",
-            "description": "These deals are un-burrito-ble.",
-            "url": "https://nypost.com/2024/04/04/lifestyle/national-burrito-day-deals-chipotle-taco-bell/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-ozuvmeeln-1712237725178.jpg?quality=75&strip=all&1712223450&w=1024",
-            "publishedAt": "2024-04-04T13:38:00Z",
-            "content": "These deals are un-burrito-ble.\r\nNational Burrito Day is today, Thursday, April 4 and fast food restaurants are celebrating with offers for their customers.\r\nThe foodie holiday is a highlight of what… [+3534 chars]"
+            "author": "DYLAN HUBERMAN | WPEC",
+            "title": "Man accused of using AI to create child pornography from real photos - KOMO News",
+            "description": "The case is the first of its kind on the Treasure Coast.",
+            "url": "https://wpde.com/news/nation-world/stuart-florida-man-accused-of-using-ai-artificial-intelligence-to-create-child-pornography-from-real-photos-martin-county-sheriffs-office-victimizing-children-treasure-coast",
+            "urlToImage": "https://komonews.com/resources/media/4fc3d938-7375-403b-82df-d6e02e0d324b-large16x9_TeaserPhoto8.png",
+            "publishedAt": "2024-04-04T14:00:42Z",
+            "content": "STUART, Fla. (WPEC) In a disturbing case out of Florida, the Martin County Sheriffs Office (MCSO) arrested and charged a Jensen Beach man with taking a photo of a child who was fully clothed and then… [+2036 chars]"
         },
         {
             "source": {
@@ -173,42 +498,42 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "CoinDesk"
             },
-            "author": "Reuters",
-            "title": "Tesla begins making cars in Germany for export to India this year -sources - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/business/autos-transportation/tesla-begins-making-cars-germany-export-india-this-year-sources-2024-04-04/",
-            "urlToImage": null,
+            "author": "Sam Kessler",
+            "title": "Ripple, Developer Behind XRP Ledger, Enters Stablecoin Fray vs. Tether, USDC - CoinDesk",
+            "description": "The token will be \"100% backed by U.S. dollar deposits, short-term U.S. government Treasuries and other cash equivalents,\" according to the company.",
+            "url": "https://www.coindesk.com/tech/2024/04/04/ripple-developer-behind-xrp-ledger-enters-stablecoin-fray-vs-tether-usdc/",
+            "urlToImage": "https://www.coindesk.com/resizer/J0D5txL0I-sE7xyE6T2ed6efvy4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H3HCUZ7CA5EBBFHFIODGUCXXTQ.jpg",
             "publishedAt": "2024-04-04T13:00:00Z",
-            "content": null
+            "content": "Ripple, the enterprise-focused blockchain service and creator of the XRP Ledger, is introducing its own stablecoin pegged to the price of the U.S. dollar.\r\n\"The stablecoin market is over $150 billion… [+3877 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "MarketWatch"
             },
-            "author": "Rebecca Picciotto",
-            "title": "Biden says U.S. economy is world's best. Trump calls it a 'cesspool.' Data is clear. - CNBC",
-            "description": "U.S. GDP significantly outpaced countries like Japan and Canada last year, the International Monetary Fund estimated in January.",
-            "url": "https://www.cnbc.com/2024/04/04/biden-us-economy-worlds-best-trump-claims-cesspool-data-is-clear.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107267670-16886647622023-07-06t172645z_1336702179_rc2tx1a07hdq_rtrmadp_0_usa-biden.jpeg?v=1688664791&w=1920&h=1080",
-            "publishedAt": "2024-04-04T12:54:59Z",
-            "content": "U.S. President Joe Biden, delivers remarks on the U.S. economy and his administration's effort to revive American manufacturing, during his visit in Flex LTD, a factory that makes solar energy microi… [+5959 chars]"
+            "author": "Steve Gelsi",
+            "title": "Lamb Weston's stock drops on earnings miss, reduced outlook on system change - MarketWatch",
+            "description": "Potato processor says new software system impacted its quarterly results",
+            "url": "https://www.marketwatch.com/story/lamb-westons-stock-drops-sharply-on-earnings-miss-reduced-outlook-on-system-change-4e2ca9ec",
+            "urlToImage": "https://images.mktw.net/im-655241/social",
+            "publishedAt": "2024-04-04T12:58:00Z",
+            "content": "Lamb Weston Holdings Inc.s stock fell nearly 20% on Thursday, for its largest one-day loss on record, after the potato-processing company blamed a slower-than-expected switch to a new software system… [+1693 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "WDIV ClickOnDetroit"
             },
-            "author": "Reuters",
-            "title": "US weekly jobless claims increase more than expected - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/world/us/us-weekly-jobless-claims-increase-more-than-expected-2024-04-04/",
-            "urlToImage": null,
+            "author": "Ken Haddad",
+            "title": "You might be owed money if you shopped at Walmart in last 6 years - WDIV ClickOnDetroit",
+            "description": "If you’ve shopped at Walmart in the last six years, you could be due for payment as part of a class action lawsuit settlement.",
+            "url": "https://www.clickondetroit.com/consumer/help-me-hank/2024/04/04/you-might-be-owed-money-if-you-shopped-at-walmart-in-last-6-years/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PHKC2VZR6JDKZDHW4EMIX4SDFY.jpg?_a=ATAPphC0",
             "publishedAt": "2024-04-04T12:51:00Z",
-            "content": null
+            "content": "If youve shopped at Walmart in the last six years, you could be due for payment as part of a class action lawsuit settlement.\r\nEarlier this year, Walmart agreed to settle a class-action lawsuit filed… [+973 chars]"
         },
         {
             "source": {
@@ -222,19 +547,6 @@
             "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/microsoft-china.png?ve=1&tl=1",
             "publishedAt": "2024-04-04T12:36:00Z",
             "content": "The Cyber Safety Review Board (CSRB) has released a damning report on Tuesday that claimed serious errors by Microsoft allowed a Chinese hack that targeted the emails of top U.S. government officials… [+3618 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Christiaan Hetzner",
-            "title": "OpenAI wants Tesla staff, so Musk is poaching them first - Fortune",
-            "description": "Claiming his staff is tempted to leave for Sam Altman's company gives Musk all the justification he needs to reassign Tesla workers to his xAI startup.",
-            "url": "https://fortune.com/2024/04/04/elon-musk-tesla-openai-sam-altman-xai-grok-talent-war-salaries/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1946755108-e1712231126358.jpg?resize=1200,600",
-            "publishedAt": "2024-04-04T12:07:00Z",
-            "content": "Is Sam Altmans OpenAI, the world leader in generative artificial intelligence, trying to poach staff away from Teslas Autopilot team? Elon Musk certainly wants people to think so. After news emerged … [+4473 chars]"
         },
         {
             "source": {
@@ -252,28 +564,28 @@
         {
             "source": {
                 "id": null,
-                "name": "WKYC.com"
+                "name": "Spotify.com"
             },
-            "author": "Ryan Haidet",
-            "title": "Winning Powerball ticket worth $150,000 sold in Tallmadge, Ohio - WKYC.com",
-            "description": "The Tallmadge winner narrowly missed the monstrous $1.09 billion jackpot for failing to match just one of the five white balls in the Powerball drawing for April 3.",
-            "url": "https://www.wkyc.com/article/news/lottery/powerball-winner-tallmadge-ohio-winning-ticket-giant-eagle-april-3/95-7c6d3205-d0b5-4b00-b18d-67a48276f16d",
-            "urlToImage": "https://media.wkyc.com/assets/WKYC/images/e22cc20d-4b29-4978-a0d2-294eda87c0b1/e22cc20d-4b29-4978-a0d2-294eda87c0b1_1140x641.jpg",
-            "publishedAt": "2024-04-04T11:53:00Z",
-            "content": "TALLMADGE, Ohio Check your tickets!\r\nSomebody in Northeast Ohio is walking away with a big Powerball prize worth $150,000 after the Ohio Lottery says the lucky ticket for Wednesday night's drawing wa… [+2117 chars]"
+            "author": "Stacy.Goldrick@groupsjr.com",
+            "title": "Christian Luiga Named Spotify's Chief Financial Officer — Spotify - For the Record",
+            "description": "Spotify today announced the appointment of Christian Luiga as its new Chief Financial Officer. Christian joins Spotify from Saab AB, a European defense and security company, where he served as Deputy Chief Executive Officer and Chief Financial Officer. Prior …",
+            "url": "https://newsroom.spotify.com/2024-04-04/christian-luiga-named-spotifys-chief-financial-officer/",
+            "urlToImage": "https://storage.googleapis.com/pr-newsroom-wp/1/2024/01/Spotify_FTR_Header.png",
+            "publishedAt": "2024-04-04T11:39:00Z",
+            "content": "Spotify today announced the appointment of Christian Luiga as its new Chief Financial Officer. Christian joins Spotify from Saab AB, a European defense and security company, where he served as Deputy… [+634 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "techcrunch",
+                "name": "TechCrunch"
             },
-            "author": "Michele Luhn",
-            "title": "5 things to know before the stock market opens Thursday - CNBC",
-            "description": "Here are the most important news items that investors need to start their trading day.",
-            "url": "https://www.cnbc.com/2024/04/04/5-things-to-know-before-the-stock-market-opens-thursday-april-4.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107390328-17109621992024-03-20t191522z_330713988_rc2vp6a2gabp_rtrmadp_0_usa-economy-fed.jpeg?v=1710962296&w=1920&h=1080",
-            "publishedAt": "2024-04-04T11:10:46Z",
-            "content": "Here are the most important news items that investors need to start their trading day:\r\n1. Dow in the dumps\r\nThe Dow Jones Industrial Average dropped for the third day in a row Wednesday. The 30-stoc… [+3488 chars]"
+            "author": "Kyle Wiggers",
+            "title": "Big Tech companies form new consortium to allay fears of AI job takeovers - TechCrunch",
+            "description": "If the goal is to allay fears of a mass AI threatening of livelihoods, tech incumbents will need to deliver a lot more than vague promises and reports.",
+            "url": "https://techcrunch.com/2024/04/04/big-tech-companies-form-new-consortium-to-allay-fears-of-ai-job-takeovers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1173671080.jpg?resize=1200,1148",
+            "publishedAt": "2024-04-04T11:31:12Z",
+            "content": "AI might not be coming for all jobs, but it might be coming for some. \r\nUPS’s largest layoff in its 116-year history was the result of, in part, new technologies, including AI, CEO Carol Tomé said du… [+4780 chars]"
         },
         {
             "source": {
@@ -291,15 +603,15 @@
         {
             "source": {
                 "id": null,
-                "name": "GMA"
+                "name": "Fox Business"
             },
-            "author": "Kelly McCarthy",
-            "title": "Costco launches weight loss programs: What to know - Good Morning America",
-            "description": "Costco has expanded its partnership with health care company Sesame to include weight loss programs for members starting at $179 for three months.",
-            "url": "https://goodmorningamerica.com/food/story/costco-launches-weight-loss-programs-include-ozempic-wegovy-108786753",
-            "urlToImage": "https://s.abcnews.com/images/GMA/costco-ozempic-split-gty-ml-240403_1712142937698_hpMain_16x9_992.jpg",
-            "publishedAt": "2024-04-04T10:42:10Z",
-            "content": "Costco members love the big box retailer for its wide selection of goods but now the warehouse club is wading into specialized health care and expanding its partnership with Sesame to offer exclusive… [+2504 chars]"
+            "author": "Aislinn Murphy",
+            "title": "Jeff Bezos drops $90M on third South Florida property - Fox Business",
+            "description": "Amazon founder Jeff Bezos reportedly now owns three properties on the Florida island of Indian Creek. House No. 3 cost $90 million, according to Bloomberg.",
+            "url": "https://www.foxbusiness.com/lifestyle/jeff-bezos-drops-90m-third-south-florida-property",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/bezos-laughing.jpg?ve=1&tl=1",
+            "publishedAt": "2024-04-04T11:00:00Z",
+            "content": "Amazon founder Jeff Bezos became the owner of a third property located on the Florida island of Indian Creek.\r\nHe increased his holdings in the wealthy community to three pieces of real estate throug… [+2996 chars]"
         },
         {
             "source": {
@@ -320,12 +632,25 @@
                 "name": "Salon"
             },
             "author": null,
-            "title": "Evicted, arrested and being sued Trump: What MAGA loyalty buys you - Salon",
-            "description": "",
-            "url": "https://www.salon.com/2024/04/04/evicted-arrested-and-being-sued-by-the-boss-when-will-maga-learn-loyalty-to-ends-in-sorrow/",
-            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/04/mike_lindell_kari_lake_donald_trump_2041449957_1250775435_2133987130.jpg",
-            "publishedAt": "2024-04-04T10:00:00Z",
+            "title": "Rebooting digital equality: FCC to restore net neutrality, reversing Trump-era repeal - Salon",
+            "description": "On April 26, the Federal Communications Commission will vote to restore a policy destroyed by Trump Admin",
+            "url": "https://www.salon.com/2024/04/04/fcc-to-vote-net-neutrality-april-26/",
+            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/04/jessica_rosenworcel_1388801318.jpg",
+            "publishedAt": "2024-04-04T10:01:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Peter Robison",
+            "title": "Fixing Boeing's Broken Culture Starts With a New Plane - Bloomberg",
+            "description": "A narrow focus on cost-cutting led to compromises that plunged the company into crisis.",
+            "url": "https://www.bloomberg.com/news/articles/2024-04-04/fixing-boeing-s-broken-culture-starts-with-a-new-plane",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOxUMyBRW0kA/v0/1200x630.jpg",
+            "publishedAt": "2024-04-04T10:00:24Z",
+            "content": "Before he was Boeing Co.s latest humbled and contrite chief executive officer, Dave Calhoun was the co-author of a manual for aspiring business leaders. The 2010 book, How Companies Win, preached the… [+531 chars]"
         },
         {
             "source": {
@@ -333,12 +658,12 @@
                 "name": "Theblock.co"
             },
             "author": "James Hunt",
-            "title": "Spot Bitcoin ETF flows turn positive this week as Grayscale's GBTC outflows slow - The Block",
+            "title": "Spot Bitcoin ETF flows turn positive this week as Grayscale’s GBTC outflows slow - The Block",
             "description": "Fidelity’s FBTC led the inflows on Wednesday, attracting $116.7 million, while outflows from Grayscale’s GBTC fund slowed to $75.1 million.",
             "url": "https://www.theblock.co/post/286429/spot-bitcoin-etf-flows-turn-positive-for-the-week-grayscale-gbtc-outflows-slow",
             "urlToImage": "https://www.tbstat.com/wp/uploads/2021/02/20210219_Bitcoin_ETF_Generic-1200x675.jpg",
             "publishedAt": "2024-04-04T09:45:40Z",
-            "content": "This weeks flows into the combined U.S. spot Bitcoin BTC\r\n +2.55%\r\n exchange-traded funds turned positive on Wednesday, eclipsing the net outflows witnessed on Monday.\r\nWednesdays $113.5 million wort… [+4208 chars]"
+            "content": "This weeks flows into the combined U.S. spot Bitcoin BTC\r\n +2.52%\r\n exchange-traded funds turned positive on Wednesday, eclipsing the net outflows witnessed on Monday.\r\nWednesdays $113.5 million wort… [+4208 chars]"
         },
         {
             "source": {
@@ -355,172 +680,42 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "Whitehouse.gov"
             },
-            "author": "Kate Abnett, Riham Alkousaa",
-            "title": "Majority of recent CO2 emissions linked to just 57 producers, report says - Reuters",
-            "description": "The vast majority of planet-warming carbon dioxide emissions since 2016 can be traced to a group of 57 fossil fuel and cement producers, researchers said on Thursday.",
-            "url": "https://www.reuters.com/sustainability/climate-energy/majority-recent-co2-emissions-linked-just-57-producers-report-says-2024-04-04/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/JY4E3OT4BRPLBLSX2NB7KPQXSM.jpg?auth=4a89a177a5ab5cae7dbff282ff662ffde41a240a0ffec9eaa9a503a042015ae6&width=1920&height=1005&smart=true",
-            "publishedAt": "2024-04-04T07:33:00Z",
-            "content": null
+            "author": "The White House",
+            "title": "Biden-Harris Administration Announces Historic $20 Billion in Awards to Expand Access to Clean Energy and Climate Solutions and Lower Energy Costs for Communities Across the Nation - The White House",
+            "description": "Vice President Harris and Administrator Regan to visit Charlotte, North Carolina to announce selectees under the Inflation Reduction Act’s Greenhouse Gas Reduction Fund  First-of-its-kind national network to fund tens of thousands of climate and clean energy …",
+            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/04/biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nation/",
+            "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+            "publishedAt": "2024-04-04T09:00:00Z",
+            "content": "Vice President Harris and Administrator Regan to visit Charlotte, North Carolina to announce selectees under the Inflation Reduction Acts Greenhouse Gas Reduction Fund \r\nFirst-of-its-kind national ne… [+16081 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Danielle Abril",
+            "title": "‘Right to disconnect’ bill could ban employers from contacting workers after hours - The Washington Post",
+            "description": "A California lawmaker wants to give workers the “right to disconnect,” but his proposed bill faces opposition.",
+            "url": "https://www.washingtonpost.com/technology/2024/04/03/california-bill-right-disconnect/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZ5Y5BTVXGI6GTUKNFP2GDMXIM.jpg&w=1440",
+            "publishedAt": "2024-04-04T01:35:00Z",
+            "content": "Your boss shoots you an instant message at 9 p.m. on a weekday, well after your quitting time, about something that can wait until the next day. Worried that your supervisor will get upset if you don… [+5405 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "WIVB.com - News 4"
             },
-            "author": "Joshua Lynch",
-            "title": "Americans believe they need this much to retire, but actually have far less stashed away: study - New York Post ",
-            "description": "Americans certainly have a good idea of how much they’ll need to retire one day — they just don’t have the same savings in the bank yet.",
-            "url": "https://nypost.com/2024/04/04/lifestyle/americans-believe-they-need-this-much-to-retire-but-actually-have-far-less-stashed-away-study/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-eratmtfy9-1712213735105.jpg?quality=75&strip=all&1712199343&w=1024",
-            "publishedAt": "2024-04-04T07:19:00Z",
-            "content": "Americans certainly have a good idea of how much they’ll need to retire one day — they just don’t have the same savings in the bank yet.\r\nA recent study showed many Americans believe they should have… [+2440 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "FOX Weather",
-            "title": "Southwest flight attendant, passenger injured during severe turbulence as plane makes emergency landing - New York Post ",
-            "description": "Radar shows intense storms over the Gulf of Mexico about halfway through the flight from New Orleans.",
-            "url": "https://nypost.com/2024/04/04/us-news/southwest-flight-makes-emergency-landing-in-florida-due-to-turbulence/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/South-west-flight.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-04-04T06:47:00Z",
-            "content": "A Southwest flight made an emergency landing in Florida on Wednesday after encountering severe turbulence over the Gulf of Mexico, causing injuries to two people onboard.\r\nSouthwest Airlines told FOX… [+1775 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Sanofi to settle 4000 Zantac cancer lawsuits in US state courts - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/legal/sanofi-settle-4000-zantac-cancer-lawsuits-us-state-courts-2024-04-03/",
-            "urlToImage": null,
-            "publishedAt": "2024-04-04T06:35:53Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Kris Van Cleave",
-            "title": "FAA investigating possible close call between Southwest flight and air traffic control tower - CBS News",
-            "description": "The FAA is looking into a Southwest flight that veered off course while on approach to land at New York's LaGuardia Airport and may have buzzed the air traffic control tower.",
-            "url": "https://www.cbsnews.com/news/southwest-close-call-air-traffic-control-laguardia-new-york/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/04/cf045a94-8d55-44ac-801c-2704fc0f7ef6/thumbnail/1200x630/cba95febeafcf2422972d811c6f27d22/gettyimages-1913161045.jpg?v=28e996fb04f1867b9e0abe6d7ce5112f",
-            "publishedAt": "2024-04-04T02:53:00Z",
-            "content": "The Federal Aviation Administration is looking into a Southwest flight that veered off course while on approach to land at New York's LaGuardia Airport and may have buzzed the air traffic control tow… [+2081 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "",
-            "title": "Will Truth Social face the same fate as Trump’s casinos? - CNN",
-            "description": "CNN’s Brianna Keilar breaks down the parallels between the financial struggles former President Donald Trump faced with his casino empire and his present day troubles with Truth Social.",
-            "url": "https://www.cnn.com/videos/politics/2024/04/04/truth-social-trump-casinos-sot-src-vpx.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/190508194909-donald-trump-1990.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-04T02:25:48Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Todd Campbell",
-            "title": "Analyst who correctly predicted Tesla's stock drop revamps target - TheStreet",
-            "description": "Here's what could happen to Tesla shares next.",
-            "url": "https://www.thestreet.com/technology/analyst-who-correctly-predicted-teslas-stock-drop-revamps-target",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk5NjU5MzM1MzU2MjYyMDE2/ik_elonmusklead_07272023.jpg",
-            "publishedAt": "2024-04-04T01:03:00Z",
-            "content": "Few stocks boast as many ardent bulls and bears as Tesla. \r\nIts electric vehicles consistently get picked as best-in-class or panned for poor quality, and fans and foes of mercurial Chief Executive E… [+6272 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Rob Lenihan",
-            "title": "Analysts revamp stock price target for Ulta Beauty after shares drop - TheStreet",
-            "description": "This is what could happen next to Ulta Beauty shares.",
-            "url": "https://www.thestreet.com/investing/analysts-revamp-stock-price-target-for-ulta-beauty-after-shares-drop",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAzNjk2NDM0OTYzMjkzOTg0/kkw-beauty-launches-at-ulta-beauty.jpg",
-            "publishedAt": "2024-04-03T23:33:00Z",
-            "content": "It's been said that beauty is only skin-deep, but goes clean down to the bone.\r\nUlta Beauty  (ULTA)  got a hard lesson in ugly on Wednesday after the specialty beauty retailer's top executive warned … [+4808 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Rob Lenihan",
-            "title": "Analyst revamps Google parent Alphabet's stock price target after suit settled - TheStreet",
-            "description": "Here's what could happen next to Alphabet shares.",
-            "url": "https://www.thestreet.com/technology/analyst-revamps-google-parent-alphabets-stock-price-target-after-suit-settled",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA0Mzk0ODc1ODM0MDgyMzgx/press-event-partnership-between-dfb-and-google.jpg",
-            "publishedAt": "2024-04-03T23:03:00Z",
-            "content": "While the dictionary defines \"incognito\" as \"having one's true identity concealed,\" for Google parent Alphabet  (GOOG,)  it was more like a four-year headache.\r\nIn 2020, Google was hit with a class-a… [+5127 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "WhatsApp, Instagram and Facebook apps hit by outage - BBC.com",
-            "description": "Users on Meta platforms suffer access problems as thousands report outages on Wednesday evening.",
-            "url": "https://www.bbc.com/news/business-68727854",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10008/production/_132844556_gettyimages-1841474590.jpg",
-            "publishedAt": "2024-04-03T21:56:37Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Robb Report"
-            },
-            "author": "Abby Montanez",
-            "title": "Jeff Bezos Just Dropped $90 Million on a Third Indian Creek Island Property - Robb Report",
-            "description": "The Amazon founder has reportedly added a third Florida home to his growing property portfolio, a six-bedroom waterfront estate with a pool and dock.",
-            "url": "http://robbreport.com/shelter/celebrity-homes/jeff-bezos-buys-third-indian-creek-island-home-1235567870/",
-            "urlToImage": "https://robbreport.com/wp-content/uploads/2024/04/jeffbezosindiancreek.jpg?w=681&h=383&crop=1",
-            "publishedAt": "2024-04-03T21:32:44Z",
-            "content": "Jeff Bezos’s South Florida spending spree continues.\r\nThe Amazon founder has splashed out a whopping $90 million in an off-market deal for a third waterfront estate on the coveted Indian Creek Island… [+2284 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Greg Bartalos",
-            "title": "Gold Is at a Record High. Why It Is Set to Rise Even More. - Barron's",
-            "description": "Despite rising bond yields, gold is benefiting from strong buying in China, rising geopolitical tensions, and increasing concerns about the national debt.",
-            "url": "https://www.barrons.com/advisor/articles/gold-prices-record-high-outlook-inflation-economy-adbf2806",
-            "urlToImage": "https://images.barrons.com/im-08962460/social",
-            "publishedAt": "2024-04-03T20:54:00Z",
-            "content": "Is golds strength a flash in the pan or a golden opportunity? \r\nThe yellow metal just completed its best two-quarter stretch in eight years on its way to a record high of $2,319 per ounce today. \r\nTh… [+148 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "Investor's Business Daily",
-            "title": "Stocks Rise On Stock Market Today - Investor's Business Daily",
-            "description": null,
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stock-powell/",
-            "urlToImage": null,
-            "publishedAt": "2024-04-03T20:30:00Z",
-            "content": null
+            "author": "Sarah Minkewicz",
+            "title": "More tourists have stays at hotels for eclipse canceled - WIVB.com - News 4",
+            "description": "“Couldn’t tell you how many hotels I’ve ever stayed at, but I have never ever had this happen to me anywhere in the world except Buffalo,” Brady said.",
+            "url": "https://www.wivb.com/total-solar-eclipse-april-8-2024/more-tourists-have-stays-at-hotels-for-eclipse-canceled/",
+            "urlToImage": "https://www.wivb.com/wp-content/uploads/sites/97/2024/04/0A69853C97CF2581984DC9D0F19D5785.jpg?w=1280",
+            "publishedAt": "2024-04-03T22:30:27Z",
+            "content": "BUFFALO, N.Y. (WIVB) – The list of cancelations for travelers booking rooms at the Aloft Buffalo Airport continues to get longer. \r\nTerence Brady describes his experience booking with the hotel as “s… [+2814 chars]"
         },
         {
             "source": {
@@ -551,19 +746,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Georg Szalai",
-            "title": "Paramount Global Stock Price Soars as Skydance Media Deal Talks Progress - Hollywood Reporter",
-            "description": "The companies, led by Shari Redstone, Bob Bakish and David Ellison, reportedly set a 30-day window for deal negotiations.",
-            "url": "http://www.hollywoodreporter.com/business/business-news/paramount-global-national-amusements-skydance-media-deal-exclusive-1235865448/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/12/Shari-Redstone-Headshot-compressed-h2021.jpg?w=1024",
-            "publishedAt": "2024-04-03T20:13:16Z",
-            "content": "Paramount Global shares are soaring as talks of a deal with Skydance Media continue to heat up.\r\nThe stock price rose by 15 percent Wednesday, all in the minutes leading up to the market close, after… [+3459 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "WMTW Portland"
             },
             "author": "Kelley Kosuda",
@@ -586,32 +768,6 @@
             "urlToImage": "https://i.abcnewsfe.com/a/8040725f-34ed-444a-9aa5-789aa5dd04eb/powell-1-gty-er-240403_1712166892869_hpMain_16x9.jpg?w=1600",
             "publishedAt": "2024-04-03T19:16:07Z",
             "content": "The Federal Reserve will see if inflation moves beyond its current rough patch before imposing highly anticipated interest rate cuts, Fed Chair Jerome Powell said on Wednesday.\r\nAddressing a business… [+3347 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Daniella Genovese",
-            "title": "California bill would let employees ignore boss's after-hours calls, messages - Fox Business",
-            "description": "A bill that is being considered in the California Legislature could give employees in the state the legal right to ignore any messages from their boss during nonworking hours.",
-            "url": "https://www.foxbusiness.com/lifestyle/california-bill-would-let-employees-ignore-boss-after-hours-calls-messages",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/0/0/computer-man-iStock.jpg?ve=1&tl=1",
-            "publishedAt": "2024-04-03T19:08:00Z",
-            "content": "Workers in California may legally be allowed to disregard messages from their boss after the work day ends. \r\nThe pressure to respond to work messages after hours has rapidly increased in recent year… [+2472 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FDA.gov"
-            },
-            "author": "Office of the Commissioner",
-            "title": "FDA Approves New Antibiotic for Three Different Uses - FDA.gov",
-            "description": "FDA approved a new drug to treat S. aureus bloodstream infections; acute bacterial skin & skin structure infections; and community-acquired bacterial pneumonia.",
-            "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibiotic-three-different-uses",
-            "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-            "publishedAt": "2024-04-03T19:00:00Z",
-            "content": "For Immediate Release:\r\nApril 03, 2024\r\nToday, the U.S. Food and Drug Administration approved Zevtera (ceftobiprole medocaril sodium for injection) for the treatment of adults with Staphylococcus aur… [+5708 chars]"
         },
         {
             "source": {
@@ -642,54 +798,15 @@
         {
             "source": {
                 "id": null,
-                "name": "KARE11.com"
+                "name": "Barron's"
             },
-            "author": "Jeremiah Jacobsen",
-            "title": "Lyft letter suggests Minneapolis rideshare pay compromise - KARE11.com",
-            "description": "Lyft has suggested its willingness to support pay rates recommended in a recent state study.",
-            "url": "https://www.kare11.com/article/news/local/lyft-offers-compromise-to-minneapolis/89-51514db8-82ec-43b2-88a3-b5872f692a08",
-            "urlToImage": "https://media.kare11.com/assets/KARE/images/aa0a216a-30f9-4591-af15-ad620fdb9795/aa0a216a-30f9-4591-af15-ad620fdb9795_1140x641.jpg",
-            "publishedAt": "2024-04-03T17:47:00Z",
-            "content": "MINNEAPOLIS Rideshare giant Lyft has sent a letter to the Minneapolis city council suggesting a pay rate compromise for its drivers before the city's upcoming rideshare pay ordinance takes effect.\r\nL… [+4319 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Senate.gov"
-            },
-            "author": "",
-            "title": "Sen. Rick Scott Slams Biden's Medicare Cuts - Senator Rick Scott",
+            "author": "Barron's",
+            "title": "Gold Shows ‘Unprecedented Strength’ in Record Rally. Warning Signs Are Flashing. - Barron's",
             "description": null,
-            "url": "https://www.rickscott.senate.gov/2024/4/sen-rick-scott-slams-biden-s-medicare-cuts",
-            "urlToImage": "https://www.rickscott.senate.gov/themes/rickscott/assets/img/social/default.jpg",
-            "publishedAt": "2024-04-03T15:45:00Z",
-            "content": "WASHINGTON, D.C.— Today, following a decision by the Biden administration to cut Medicare Advantage benefits for the second year in a row, Senator Rick Scott released the following statement. Since b… [+2335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Lee Samaha, The Motley Fool",
-            "title": "Here's Why GE Aerospace (Formerly General Electric) Soared in March - Yahoo Finance",
-            "description": "Investors warmed to the breakup of General Electric into two separate companies.",
-            "url": "https://www.fool.com/investing/2024/04/03/heres-why-ge-aerospace-formerly-general-electric-s/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.vFxFeKRarEXiNukO3ElPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/4c72e5691f5f31ec68ba9a9d3f0cf315",
-            "publishedAt": "2024-04-03T15:34:37Z",
-            "content": "Shares in General Electric, now GE Aerospace(NYSE: GE), rose by 11.9% in March, according to data provided by S&amp;P Global Market Intelligence. The move occurred in the run-up to the successful spi… [+3349 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Nora Colomer",
-            "title": "Home insurance costs are highest in these states – Here's how to lower your premiums - Fox Business",
-            "description": "Home insurance premiums for a $300,000 property in the U.S. increased 12% in 2023, and Americans pay an average of $1,770 per year, according to a recent Insurify report.",
-            "url": "https://www.foxbusiness.com/personal-finance/home-insurance-costs-soar-save-money",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/Credible-Home-Insurace-iStock-1263248189.png?ve=1&tl=1",
-            "publishedAt": "2024-04-03T15:13:27Z",
-            "content": "Soaring home insurance costs could force Americans out of states with the highest price tags, according to a recent report.\r\nHome insurance premiums for a $300,000 property in the U.S. increased 12% … [+4940 chars]"
+            "url": "https://www.barrons.com/articles/gold-bullion-record-rally-warning-8a4208da",
+            "urlToImage": null,
+            "publishedAt": "2024-04-03T17:21:00Z",
+            "content": null
         },
         {
             "source": {
@@ -720,54 +837,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Inman"
             },
-            "author": "Josh Schafer",
-            "title": "Stock market today: US stocks drift lower as faith in rate cuts fades - Yahoo Finance",
-            "description": "Investors looked ahead to a speech by Federal Reserve Chair Jerome Powell amid worries that interest rates will stay higher for longer.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-stocks-cling-to-gains-as-powell-says-rate-cuts-likely-at-some-point-this-year-162051958.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ndjqWmaavg43y0soAQ2ACA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/f936c540-d545-11ee-bf33-8965842b6fe8",
-            "publishedAt": "2024-04-03T14:45:00Z",
-            "content": "Walt Disney Co. (DIS) activist investor Nelson Peltz has fought for a board shake-up at the company for months. Today, investors will find out whether he has won.\r\nThe results of a shareholder vote t… [+2410 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Oscar Gonzalez",
-            "title": "Spotify Is Raising Prices Again. Audiobooks to Blame, Report Says - Gizmodo",
-            "description": "Subscriptions will go up in other markets first and in the U.S. later this year.",
-            "url": "https://gizmodo.com/spotify-is-raising-prices-again-audiobooks-to-blame-r-1851383925",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9d46af76c2fb26aea4594da2f756cb6b.jpg",
-            "publishedAt": "2024-04-03T14:00:00Z",
-            "content": "Spotify is once again raising prices. This time around, the subscription bump is to pay for something that subscribers might not want in the first place. \r\nThe cost of Spotify will increase $1 to $2 … [+1519 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Angela Mae",
-            "title": "Today's 15- and 30-year mortgage rates hold steady | April 3, 2024 - Fox Business",
-            "description": "Mortgage rates fluctuate almost daily based on economic conditions. Here are today’s mortgage rates and what you need to know about getting the best rate.",
-            "url": "https://www.foxbusiness.com/personal-finance/todays-mortgage-rates-april-3-2024",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Credible-daily-mortgage-rate-thumbnail-1186618062.jpg?ve=1&tl=1",
-            "publishedAt": "2024-04-03T13:22:11Z",
-            "content": "The interest rate on a 30-year fixed-rate mortgage is 7.125% as of April 3, which is unchanged from yesterday. Additionally, the interest rate on a 15-year fixed-rate mortgage is 6.125%, which is als… [+13945 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PennLive"
-            },
-            "author": "Brian Linder | blinder@pennlive.com",
-            "title": "Meet Pa.’s billionaires: The state’s 20 richest people in 2024 and how they made their money - PennLive",
-            "description": "The Keystone State was well represented on the list of the world's billionaires.",
-            "url": "https://www.pennlive.com/news/2024/04/meet-pas-billionaires-the-states-20-richest-people-in-2024-and-how-they-made-their-money.html",
-            "urlToImage": "https://www.pennlive.com/resizer/v2/AWZIHNIQ4FFTDLCMADOVUAZFPM.jpg?auth=e49637b8f2d4eeb228afb90c60767a9b1e2953e9d72b711733c0da54a6e4afbc&width=1280&quality=90",
-            "publishedAt": "2024-04-03T09:00:00Z",
-            "content": "Forbes dropped its annual list of the worlds billionaires on Tuesday, and there are some interesting statistics when it comes to that.\r\nThe site reported, in fact, that it was a record-breaking year … [+7538 chars]"
+            "author": "https://www.facebook.com/andreavbrambila",
+            "title": "New commission lawsuit in New York may draw FTC attention - Inman",
+            "description": "The antitrust case from homebuyer and homeseller Hao Zhe Wang alleges MLS and broker services are illegally tied.",
+            "url": "https://www.inman.com/2024/04/03/new-commission-lawsuit-in-new-york-may-draw-ftc-attention/",
+            "urlToImage": "https://assets.inman.com/wp-content/uploads/2021/09/Knotted_Rope_-Federico_Burgalassi_Unsplash-1024x576.jpeg",
+            "publishedAt": "2024-04-03T09:02:57Z",
+            "content": "Join the movement at Inman Connect Las Vegas, July 30 Aug. 1! Seize the moment to take charge of the next era in real estate. Through immersive experiences, innovative formats and an unparalleled lin… [+13399 chars]"
         }
     ]
 }

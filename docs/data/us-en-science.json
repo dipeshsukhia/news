@@ -1,19 +1,201 @@
 {
     "status": "ok",
-    "totalResults": 61,
+    "totalResults": 66,
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Fossil discovery by 11-year-old is the largest known marine reptile, study says - CNN",
+            "description": "Fossil collectors contributed to finding the jawbone of a giant ichthyosaur new to science that’s likely the largest known marine reptile to swim Earth’s seas.",
+            "url": "https://www.cnn.com/2024/04/17/world/giant-ichthyosaur-fossil-species-discovery-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/a-gabriel-ugueto.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-18T00:27:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA massive jawbone found by a father-daughter fossil-co… [+7622 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "NDTV News"
+                "name": "Live Science"
+            },
+            "author": "Paul Sutter",
+            "title": "The universe may be dominated by particles that break causality and move faster than light, new paper suggests - Livescience.com",
+            "description": "With the nature of the universe's two most elusive components up for debate, physicists have proposed a radical idea: Invisible particles called tachyons, which break causality and move faster than light, may dominate the cosmos.",
+            "url": "https://www.livescience.com/physics-mathematics/dark-matter/the-universe-may-be-dominated-by-particles-that-break-causality-and-move-faster-than-light-new-paper-suggests",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4Y9KAjhhucdDRkWc8zd47Y-1200-80.jpg",
+            "publishedAt": "2024-04-17T19:56:19Z",
+            "content": "Could the cosmos be dominated by particles that move faster than the speed of light\r\n? This model of the universe agrees surprisingly well with observations, a pair of physicists has discovered.\r\nIn … [+3340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Ice age climate analysis reduces worst-case warming expected from rising CO₂ - Phys.org",
+            "description": "As carbon dioxide accumulates in the atmosphere, the Earth will get hotter. But exactly how much warming will result from a certain increase in CO2 is under study. The relationship between CO2 and warming, known as climate sensitivity, determines what future …",
+            "url": "https://phys.org/news/2024-04-ice-age-climate-analysis-worst.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/ice-age-climate-analys.jpg",
+            "publishedAt": "2024-04-17T18:00:01Z",
+            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+4575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "Humans Sheltered in This Lava Tube for Thousands of Years - Gizmodo",
+            "description": "A mile-long lava tube in Saudi Arabia was full of life, as new archaeological research shows.",
+            "url": "https://gizmodo.com/humans-sheltered-lava-tube-umm-jirsan-thousands-years-1851415061",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/89ff80ac7e0bdb5f1c374e05b4f5a00d.jpg",
+            "publishedAt": "2024-04-17T18:00:00Z",
+            "content": "Three needs are famously fundamental to survival: food, water, and shelter. According to new research, ancient humans had at least two of those three needs met by a nearly mile-long lava tube about 7… [+3102 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Emily Cooke",
+            "title": "Modern Japanese people arose from 3 ancestral groups, 1 of them unknown, DNA study suggests - Livescience.com",
+            "description": "Modern Japanese people largely originated from three ancestral groups and carry ancient DNA that may influence their risk of developing certain diseases, genetic analyses suggest.",
+            "url": "https://www.livescience.com/archaeology/modern-japanese-people-arose-from-3-ancestral-groups-1-of-them-unknown-dna-study-suggests",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/yZNVFKGjZ89E7p3Tpjg5Lk-1200-80.jpg",
+            "publishedAt": "2024-04-17T18:00:00Z",
+            "content": "Modern Japanese people largely descend from three ancestral groups, a new study suggests. The research also reveals genetic ties with our closest extinct relatives — the Neanderthals\r\n and Denisovans… [+3386 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jess Thomson",
+            "title": "Once-In-A-Lifetime 'Devil Comet' To Be Brightest This Weekend - Newsweek",
+            "description": "12P/Pons-Brooks will be at its closest point to the sun on April 21, and may even be visible to the naked eye.",
+            "url": "https://www.newsweek.com/devil-comet-pons-brooks-brightest-this-weekend-1891373",
+            "urlToImage": "https://d.newsweek.com/en/full/2379606/comet.jpg",
+            "publishedAt": "2024-04-17T17:34:49Z",
+            "content": "A huge mountain-sized space phenomenon known as the Devil Comet will be prime for spotting this weekend as it reaches its maximum brightness in a one-in-70-year event.\r\nOfficially known as Comet 12P/… [+3728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurism"
+            },
+            "author": "Victor Tangermann",
+            "title": "Plasma Physicist Warns That Elon Musk's Disposable Satellites May Be Damaging the Earth's Magnetic Field - Futurism",
+            "description": "Thousands of new satellites, like Elon Musk's Starlink constellation, could have harmful effects on our planet's magnetic field.",
+            "url": "https://futurism.com/the-byte/physicist-satellites-earth-magnetic-field",
+            "urlToImage": "https://wp-assets.futurism.com/2024/04/physicist-satellites-earth-magnetic-field.jpg",
+            "publishedAt": "2024-04-17T17:25:24Z",
+            "content": "\"The Earth is a ball magnet that were surrounding with fast-moving metal trash.\"\r\nLeft Field\r\nDead satellites and other debris are constantly burning up as they fall out of Earth's orbit.\r\nConvention… [+2224 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IFLScience"
+            },
+            "author": "James Felton",
+            "title": "The Great Pyramid's Latitude Is (Coincidentally) The Same As The Speed Of Light - IFLScience",
+            "description": "Coincidence? Yes.",
+            "url": "https://www.iflscience.com/the-great-pyramids-latitude-is-coincidentally-the-same-as-the-speed-of-light-73847",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/73847/aImg/75657/pyramids-meta.png",
+            "publishedAt": "2024-04-17T16:59:01Z",
+            "content": "Spend long enough on the Internet and you will likely be met with a post informing you that the speed of light is 299,792,458 meters per second, and the latitude of the Great Pyramid of Giza is 29.97… [+1538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Richard Pallardy",
+            "title": "Anglerfish entered the midnight zone 55 million years ago and thrived by becoming sexual parasites - Livescience.com",
+            "description": "Anglerfish first colonized the ocean's midnight zone 55 million years ago, during a period of extreme global warming, a new study finds. The bizarre fish adapted to thrive in the deep sea by becoming sexual parasites, the researchers said.",
+            "url": "https://www.livescience.com/animals/fish/anglerfish-entered-the-midnight-zone-55-million-years-ago-and-thrived-by-becoming-sexual-parasites",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SBGmYRmV4urEt5dwfVwBLW-1200-80.jpg",
+            "publishedAt": "2024-04-17T16:27:40Z",
+            "content": "Anglerfish first colonized the ocean's midnight zone 55 million years ago, during a period of extreme global warming, a new study finds. The bizarre fish adapted to thrive in the deep sea by becoming… [+4332 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Harry Baker",
+            "title": "NASA's downed Ingenuity helicopter has a 'last gift' for humanity — but we'll have to go to Mars to get it - Livescience.com",
+            "description": "NASA's stranded Ingenuity Mars Helicopter has beamed back its final signal to Earth from the Red Planet, which included a farewell message for mission scientists. It will continue collecting data on Mars until it dies but will not transmit this data to Earth.",
+            "url": "https://www.livescience.com/space/space-exploration/nasas-downed-ingenuity-helicopter-has-a-last-gift-for-humanity-but-well-have-to-go-to-mars-to-get-it",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Rz87kL4zwov28vKPFCViQ4-1200-80.jpg",
+            "publishedAt": "2024-04-17T16:23:25Z",
+            "content": "NASA's Ingenuity Mars Helicopter has beamed back its final message to Earth, which included a heart-warming goodbye to mission scientists. The record-breaking robot will now spend the rest of its day… [+3898 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Unilad.com"
             },
             "author": null,
-            "title": "\"A Long Goodbye\": NASA's Ingenuity Mars Chopper Sends Final Message To Earth - NDTV",
-            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
-            "url": "https://www.ndtv.com",
-            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
-            "publishedAt": "2024-04-17T16:52:29Z",
+            "title": "NASA shared timeline for when $10,000,000,000,000,000,000 asteroid will be brought to Earth - UNILAD",
+            "description": "The timeline revealed by NASA is set to run until 2029 as the $10,000,000,000,000,000,000 asteroid will eventually come to Earth.",
+            "url": "https://www.unilad.com/technology/nasa/nasa-timeline-16-psyche-asteroid-brought-earth-290941-20240417",
+            "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/blt949ea8e16e463049/blt8aeae5d27411aaa5/661fe6941523d57844b1e9e7/nasa-asteroid.webp",
+            "publishedAt": "2024-04-17T15:57:13Z",
+            "content": "NASA has shared the timeline for when the $10,000 quadrillion asteroid will be brought down to our planet.\r\nLast year, the space agency announced that it was going to set off for the faraway asteroid… [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "https://www.facebook.com/kslcom/",
+            "title": "Astronomers spot massive 'sleeping giant' black hole less than 2K light-years from Earth - KSL.com",
+            "description": "Astronomers have spotted the most massive known stellar black hole in the Milky Way galaxy after detecting an unusual wobble in space.",
+            "url": "https://www.ksl.com/article/50982759/astronomers-spot-massive-sleeping-giant-black-hole-less-than-2k-light-years-from-earth",
+            "urlToImage": "https://img.ksl.com/slc/2985/298504/29850449.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2024-04-17T15:40:47Z",
+            "content": "ATLANTA Astronomers have spotted the most massive known stellar black hole in the Milky Way galaxy after detecting an unusual wobble in space.\r\nThe so-called \"sleeping giant,\" named Gaia BH3, has a m… [+4725 chars]"
+        },
+        {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": "Zhengyang Wang",
+            "title": "Scientists just found an evolutionary holy grail - National Geographic",
+            "description": "A new report traces the extraordinary lineage of a common Amazonian butterfly—and estimates the hybridization of its two parental species happened around 180,000 years ago.",
+            "url": "https://www.nationalgeographic.com/science/article/oldest-hybrid-butterfly-species",
+            "urlToImage": "https://i.natgeofe.com/n/56f40b33-b084-4d2b-9911-11e1d669638b/27822660815_84737363f5_o_16x9.jpg?w=1200",
+            "publishedAt": "2024-04-17T15:05:03Z",
+            "content": "\"Our study shows that hybridization can drive the evolution of new species,\" says Rosser, the lead author of the study and National Geographic Explorer. Rossers team estimates that although the two p… [+1368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "AI and robotics demystify the workings of a fly's wing - nature video",
+            "description": "Machine learning and robotics have shed new light on one of the most sophisticated skeletal structures in the animal kingdom: the insect wing hinge. Unlike b...",
+            "url": "https://www.youtube.com/watch?v=J-guci0Exz8",
+            "urlToImage": "https://i.ytimg.com/vi/J-guci0Exz8/maxresdefault.jpg",
+            "publishedAt": "2024-04-17T15:04:57Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quanta Magazine"
+            },
+            "author": null,
+            "title": "Hopes of Big Bang Discoveries Ride on a Future Spacecraft - Quanta Magazine",
+            "description": "Physicists and cosmologists will have a new probe of primordial processes when Europe launches the Laser Interferometer Space Antenna (LISA) next decade.",
+            "url": "https://www.quantamagazine.org/hopes-of-big-bang-discoveries-ride-on-a-future-spacecraft-20240417/",
+            "urlToImage": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/04/LISA-byMerrillSherman-Social-1.webp",
+            "publishedAt": "2024-04-17T15:03:30Z",
+            "content": "The theory has its flaws. For instance, the mass of the Higgs boson the component of the Standard Model that determines the masses of other particles is frustratingly unnatural. It appears arbitrary,… [+7718 chars]"
         },
         {
             "source": {
@@ -30,29 +212,29 @@
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
+                "id": null,
+                "name": "WBOC TV 16"
             },
-            "author": "Stephen Clark",
-            "title": "A chunk of metal that tore through a Florida home definitely came from the ISS - Ars Technica",
-            "description": "\"I don't think I've seen or heard, after my own research, any of these events occurring.\"",
-            "url": "https://arstechnica.com/space/2024/04/florida-man-tells-ars-about-his-encounter-with-something-that-fell-from-space/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/debris1-620x380.jpg",
-            "publishedAt": "2024-04-17T14:09:46Z",
-            "content": "41\r\nNASA has confirmed that the object that fell into a Florida home last month was part of a battery pack released from the International Space Station.\r\nThis extraordinary incident opens a new fron… [+3810 chars]"
+            "author": "Sean Curtis",
+            "title": "UPDATE: Suspected Meteor Lights the Sky, Possibly Crashed on Delmarva - WBOC TV 16",
+            "description": "Continuing a week chock-full of fantastic phenomena, including an earthquake and a solar eclipse, Delmarva has now also experienced an apparent dazzling meteor streaking across our skies",
+            "url": "https://www.wboc.com/news/update-suspected-meteor-lights-the-sky-possibly-crashed-on-delmarva/article_eb84b0dc-f77e-11ee-a9fb-57d32f5388c4.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wboc.com/content/tncms/assets/v3/editorial/e/16/e16ed7f2-f77f-11ee-bed6-f7626350eae2/66170243341e1.image.jpg?crop=1280%2C672%2C0%2C144&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2024-04-17T14:45:00Z",
+            "content": "DELMARVA - Continuing a week chock-full of fantastic phenomena, including an earthquake and a solar eclipse, Delmarva has now also experienced an apparent dazzling meteor streaking across our skies. … [+1379 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Space.com"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Elizabeth Howell",
-            "title": "'I really like these suits.' Boeing's snazzy (and flexible) Starliner spacesuits have astronauts buzzing (exclusive) - Space.com",
-            "description": "\"This will just prove to the world that we're ready.\"",
-            "url": "https://www.space.com/boeing-starliner-astronaut-spacesuit-fashion-safety",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/NT6sczS2hkkDHzQ3fbrynU-1200-80.jpg",
-            "publishedAt": "2024-04-17T13:59:23Z",
-            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+            "author": "Jess Weatherbed",
+            "title": "NASA has greenlit plans to send a giant drone to Saturn's largest moon - The Verge",
+            "description": "NASA has been given the go-ahead to send a flying drone-like lander to explore Titan, the largest of Saturn’s 146 moons, in a mission that will launch in July 2028.",
+            "url": "https://www.theverge.com/2024/4/17/24132824/nasa-dragonfly-mission-drone-saturn-moon-titan-greenlit",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hc_thvIrDD7qztDovNgbO2fzUsw=/0x0:1920x1300/1200x628/filters:focal(960x650:961x651)/cdn.vox-cdn.com/uploads/chorus_asset/file/25404241/NASA_Dragonfly.jpg",
+            "publishedAt": "2024-04-17T13:35:11Z",
+            "content": "NASA has greenlit plans to send a giant drone to Saturns largest moon\r\nNASA has greenlit plans to send a giant drone to Saturns largest moon\r\n / The agency has set a July 2028 launch date for its Tit… [+1875 chars]"
         },
         {
             "source": {
@@ -96,41 +278,67 @@
         {
             "source": {
                 "id": null,
-                "name": "SpaceNews"
+                "name": "Forbes"
             },
-            "author": "Jeff Foust",
-            "title": "NASA open to significantly reduced return of Mars samples - SpaceNews",
-            "description": "NASA is willing to consider proposals for revamping its Mars Sample Return program that would return as few as 10 sample tubes.",
-            "url": "https://spacenews.com/nasa-open-to-significantly-reduced-return-of-mars-samples/",
-            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/04/MARS-SAMPLE-DEPOT.jpg",
-            "publishedAt": "2024-04-17T11:35:36Z",
-            "content": "WASHINGTON NASA is willing to consider proposals for revamping its Mars Sample Return program that would return as few as 10 sample tubes, a fraction of the number originally planned.\r\nNASA released … [+4202 chars]"
+            "author": "Amanda Kooser",
+            "title": "'Wild New Wonders' On Mars As NASA Investigates 'Dragon Scale' Rocks - Forbes",
+            "description": "What is that? The NASA Curiosity Mars rover team nicknamed the textured blocks \"Sawblade.\" Scientists are studying the rocks to figure out how they got their wild look.",
+            "url": "https://www.forbes.com/sites/amandakooser/2024/04/17/wild-new-wonders-on-mars-as-nasa-investigates-dragon-scale-rocks/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661ef15c52c81e2ba5f3cd05/0x0.jpg?format=jpg&crop=929,523,x95,y6,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-04-17T11:30:00Z",
+            "content": "\"Sawblade\" is the name given to the blocks with wavy textures in this image of Mars from NASA's ... [+] Curiosity rover.\r\nNASA/JPL-Caltech\r\nDragon scales. Wavy. Tire tracks. Those are terms NASA Curi… [+2977 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Leah Sarnoff",
+            "title": "NASA confirms International Space Station object crashed through home in Naples, Florida - ABC News",
+            "description": "The object was expected to \"fully burn up\" upon entering Earth's atmosphere.",
+            "url": "https://abcnews.go.com/US/nasa-confirms-international-space-station-object-crashed-naples/story?id=109317561",
+            "urlToImage": "https://i.abcnewsfe.com/a/051d8c87-1530-4c16-9b66-9679bdfa0f08/naples-space-object-house-ht-lv-240402_1712095698880_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-17T11:21:05Z",
+            "content": "A man in Naples, Florida, now has answers, over a month after a space object crashed through the roof of his home.\r\nNASA confirmed in a press release that the object was part of a cargo pallet contai… [+2785 chars]"
+        },
+        {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": "Adam Kovac",
+            "title": "Every 80 years, this star appears in the sky—see the once-in-a-lifetime phenomenon - National Geographic",
+            "description": "For a week between now and September, the rare recurrent nova T Coronae Borealis will flare bright enough to be a new star.",
+            "url": "https://www.nationalgeographic.com/science/article/t-coronae-borealis-rare-sky-phenomenon",
+            "urlToImage": "https://i.natgeofe.com/n/abe5d933-0fa5-41e0-a0aa-1fc4448cefcf/NovaCygni_ArtistConcept_watermarked_16x9.gif?w=1200",
+            "publishedAt": "2024-04-17T11:01:49Z",
+            "content": "(9 spectacular night sky events to see in 2024.)\r\nUnlike classical novas created when a star explodes at the end of its life, recurrent novas, as the name suggests, erupt much more frequently, but th… [+1333 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Florida Today"
+                "name": "Space.com"
             },
-            "author": "Rick Neale",
-            "title": "SpaceX rocket launch today from Cape: When, what launch pad and more - Florida Today",
-            "description": "Check back for live FLORIDA TODAY Space Team launch updates on this page, starting about 90 minutes before the 5:26 p.m. target liftoff time.",
-            "url": "https://www.floridatoday.com/story/tech/science/space/2024/04/17/spacex-launch-day-heres-information-on-todays-starlink-launch-from-cape-canaveral-florida/73328375007/",
-            "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2024/04/08/PBRE/73240074007-crb-040724-spacex-4.jpg?crop=5478,3082,x0,y547&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2024-04-17T09:26:40Z",
-            "content": null
+            "author": "Mike Wall",
+            "title": "SpaceX launching 23 Starlink satellites from Florida this evening - Space.com",
+            "description": "Liftoff occurred at 5:26 p.m. ET today (April 17).",
+            "url": "https://www.space.com/spacex-starlink-launch-group-6-51",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GZdTKamnkJaFtPQYvsMXrg-1200-80.jpg",
+            "publishedAt": "2024-04-17T10:00:48Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
         },
         {
             "source": {
                 "id": null,
                 "name": "Palm Beach Post"
             },
-            "author": "Palm Beach Post",
+            "author": "Kimberly Miller",
             "title": "UF scientists hope to stop lethal bronzing disease in Florida palms - Palm Beach Post",
-            "description": null,
+            "description": "Lethal bronzing disease was first recognized in Central Florida around 2006. It has since spread to more than half of Florida's 67 counties.",
             "url": "https://www.palmbeachpost.com/story/news/local/2024/04/17/uf-scientists-discovery-to-stop-lethal-bronzing-disease-killing-florida-palm-trees/72239904007/",
-            "urlToImage": null,
+            "urlToImage": "https://www.palmbeachpost.com/gcdn/authoring/authoring-images/2024/04/12/NPPP/73299421007-bahder-b-0004-collectingsamplesof-haplaxiuscrudus-768-x-512.jpg?crop=767,433,x0,y39&width=767&height=433&format=pjpg&auto=webp",
             "publishedAt": "2024-04-17T09:02:17Z",
-            "content": null
+            "content": "Its been nearly two decades since the discovery that a snot-colored planthopper was killing more than 20 species of Florida palm trees by spreading a terminal bacterial infection called lethal bronzi… [+4891 chars]"
         },
         {
             "source": {
@@ -177,19 +385,6 @@
                 "name": "ScienceAlert"
             },
             "author": "Michelle Starr",
-            "title": "Record-Breaking Stellar Black Hole Found Lurking Close to Earth - ScienceAlert",
-            "description": "You never really know what you might find hiding in your own backyard, especially if those things are particularly adept at escaping detection.",
-            "url": "https://www.sciencealert.com/record-breaking-stellar-black-hole-found-lurking-close-to-earth",
-            "urlToImage": "https://www.sciencealert.com/images/2024/04/black-hole-orbit.jpg",
-            "publishedAt": "2024-04-17T07:30:26Z",
-            "content": "You never really know what you might find hiding in your own backyard, especially if those things are particularly adept at escaping detection.\r\nJust 1,924 light-years from the Solar System, in the c… [+4637 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Michelle Starr",
             "title": "Scientists Discover How Tardigrades Survive Blasts of Radiation, And It's Weird - ScienceAlert",
             "description": "Tardigrades are possibly the most indestructible animal on Earth.",
             "url": "https://www.sciencealert.com/scientists-discover-how-tardigrades-survive-blasts-of-radiation-and-its-weird",
@@ -226,15 +421,15 @@
         {
             "source": {
                 "id": null,
-                "name": "IFLScience"
+                "name": "ScienceAlert"
             },
-            "author": "Tom Hale",
-            "title": "How Long Does It Take For A Great White Shark To Cross An Ocean? - IFLScience",
-            "description": "Fancy swimming from Africa to Australia in 99 days?",
-            "url": "https://www.iflscience.com/how-long-does-it-take-for-a-great-white-shark-to-cross-an-ocean-73839",
-            "urlToImage": "https://assets.iflscience.com/assets/articleNo/73839/aImg/75636/shark-meta.png",
-            "publishedAt": "2024-04-17T00:13:40Z",
-            "content": "Great white sharks are some of the worlds toughest travelers, regularly seen traversing extreme routes around the worlds oceans. They dont gently wander on their voyages either; the iconic species ca… [+2642 chars]"
+            "author": "Universe Today",
+            "title": "We Finally Know How Pluto Got Its Heart: an Ancient Cosmic 'Splat' - ScienceAlert",
+            "description": "The most recognizable feature on Pluto is its \"heart,\" a relatively bright valentine-shaped area known as Tombaugh Regio.",
+            "url": "https://www.sciencealert.com/we-finally-know-how-pluto-got-its-heart-an-ancient-cosmic-splat",
+            "urlToImage": "https://www.sciencealert.com/images/articles/processed/pluto-heart-sputnik-planitia-nasa-new-horizons_1024.jpg",
+            "publishedAt": "2024-04-17T02:47:50Z",
+            "content": "The most recognizable feature on Pluto is its \"heart,\" a relatively bright valentine-shaped area known as Tombaugh Regio.\r\nHow that heart got started is one of the dwarf planet's deepest mysteries bu… [+4455 chars]"
         },
         {
             "source": {
@@ -248,6 +443,19 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/Untitled-1-15-1.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-04-16T23:33:00Z",
             "content": "That’s so metal.\r\nAn active volcanic mountain in the frigid Antarctic is blowing a small fortune’s worth of gold into the atmosphere every day, IFL Science reported  now, all you have to do is get th… [+2272 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SpaceNews"
+            },
+            "author": "Jeff Foust",
+            "title": "Starliner arrives at the pad for crewed test flight - SpaceNews",
+            "description": "Boeing’s CST-100 Starliner is now installed on the Atlas 5 rocket that will launch the spacecraft on a crewed test flight to the space station next month.",
+            "url": "https://spacenews.com/starliner-arrives-at-the-pad-for-crewed-test-flight/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2024/04/starliner-cft-rollout.jpg",
+            "publishedAt": "2024-04-16T23:21:45Z",
+            "content": "WASHINGTON Boeings CST-100 Starliner is now installed on the Atlas 5 rocket that will launch the spacecraft on a crewed test flight to the International Space Station next month.\r\nThe spacecraft roll… [+2600 chars]"
         },
         {
             "source": {
@@ -317,19 +525,6 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Space.com"
             },
             "author": "Sharmila Kuthunur",
@@ -378,6 +573,19 @@
             "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2024/04/Screenshot-2024-04-16-153427-558x350.png",
             "publishedAt": "2024-04-16T19:12:08Z",
             "content": "19Later this year, a SpaceX Falcon Heavy rocket will launch from Launch Complex 39A at the Kennedy Space Center with one of the most highly-anticipated and monumental planetary science missions of th… [+10164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Upworthy"
+            },
+            "author": "Pheba Mathai",
+            "title": "NASA spacecraft suddenly starts transmitting mysterious 'gibberish' 15 billion miles from Earth - Upworthy",
+            "description": "",
+            "url": "https://scoop.upworthy.com",
+            "urlToImage": "https://d34zrgnx1tq8w.cloudfront.net/686523/uploads/c71c85f0-f63c-11ee-8333-5f76c4521733_1200_630.jpeg",
+            "publishedAt": "2024-04-16T19:10:46Z",
+            "content": "It is not usual for a spacecraft that is sent into space to send out gibberish messages. However, it is always a mystery for scientists to understand these strange sounds and messages. In a breakthro… [+3072 chars]"
         },
         {
             "source": {
@@ -472,19 +680,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Time Out"
-            },
-            "author": "Amy Houghton",
-            "title": "Nova 2024: How To See The 'Once-In-A-Lifetime' Exploding Star - Time Out UK",
-            "description": "A magnificent eruption could occur at any moment.",
-            "url": "https://www.timeout.com/uk/news/how-to-see-a-huge-once-in-a-lifetime-star-explosion-this-year-041624",
-            "urlToImage": "https://media.timeout.com/images/106121907/image.jpg",
-            "publishedAt": "2024-04-16T15:21:36Z",
-            "content": "The solar eclipse might have been and gone, but we highly recommend keeping your eyes on the skies — a massive star explosion, known as a nova, is about to happen in the Milky Way. Well, actually, it… [+2100 chars]"
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -508,6 +703,19 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/physicists-explain-and.jpg",
             "publishedAt": "2024-04-16T14:18:57Z",
             "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+4899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Travel+Leisure"
+            },
+            "author": "https://www.facebook.com/travelandleisure/",
+            "title": "Michigan Just Got Its First and Only Dark Sky Sanctuary - Travel + Leisure",
+            "description": "Michigan just got its first (and only) dark sky sanctuary.",
+            "url": "https://www.travelandleisure.com/michigan-first-dark-sky-sanctuary-beaver-island-state-wildlife-research-area-8633561",
+            "urlToImage": "https://www.travelandleisure.com/thmb/ZRg8nYJHRN9L0KWGxIIQ8FYcqpo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-beaver-island-retreat-michigan-MIDARKSKY0424-4a3add9cabd04308b37bc7eb72995bce.jpg",
+            "publishedAt": "2024-04-16T12:50:30Z",
+            "content": "Even when the skies are cloudy, it's clear that 2024 is the year of astro-tourism. From solar eclipse mania to Dark Sky-certified accommodations, travelers can't get enough of northern lights and sta… [+2396 chars]"
         },
         {
             "source": {
@@ -560,32 +768,6 @@
             "urlToImage": "https://assets.iflscience.com/assets/articleNo/73818/aImg/75613/atom-meta.png",
             "publishedAt": "2024-04-16T10:51:22Z",
             "content": "It's estimated that there are around 1082 atoms in the observable universe. With each element in the periodic table containing at least one electron, you can therefore safely assume there are at leas… [+3301 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "VVdailypress.com"
-            },
-            "author": "Rene Ray De La Cruz",
-            "title": "Veterinarians sound alarm over a potentially fatal disease striking dogs in the High Desert - VVdailypress.com",
-            "description": "Animal Care Hospital officials are sounding the alarm about a potentially fatal disease affecting dogs in Southern California and the High Desert.",
-            "url": "https://www.vvdailypress.com/story/news/2024/04/16/veterinarians-sound-alarm-over-a-potentially-fatal-disease-striking-dogs/73335463007/",
-            "urlToImage": "https://www.vvdailypress.com/gcdn/authoring/authoring-images/2024/01/20/NVIC/72292792007-hesperia-dog-park-jan-2024-30-x.JPG?crop=3999,2250,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2024-04-16T09:24:33Z",
-            "content": "Apple Valley-based Animal Care Hospital is sounding the alarm about a potentially fatal disease from fish that has affected dogs in Southern California and the High Desert. \r\nAnimal Care Hospital off… [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Stephanie Pappas",
-            "title": "Pluto's huge white 'heart' has a surprisingly violent origin, new study suggests - Livescience.com",
-            "description": "Tombaugh Regio — the large, pale heart that dominates Pluto's terrain — is made of nitrogen ice that accumulated after a huge, slow-motion impact, new research suggests.",
-            "url": "https://www.livescience.com/space/pluto/plutos-huge-white-heart-has-a-surprisingly-violent-origin-new-study-suggests",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wBveVPB68eB5aEcwNyWFuK-1200-80.jpg",
-            "publishedAt": "2024-04-16T09:00:00Z",
-            "content": "When NASA's New Horizons spacecraft flew by Pluto\r\n in 2015, it returned images with a sweet surprise: a heart-shaped formation dominating the surface of the dwarf planet.\r\nNow, researchers believe t… [+3563 chars]"
         },
         {
             "source": {
@@ -664,123 +846,6 @@
             "urlToImage": "https://www.sciencealert.com/images/2024/04/sierpinski-molecule.jpg",
             "publishedAt": "2024-04-16T04:39:07Z",
             "content": "From the spiral arms of galaxies to microscopic snow crystals, nature seems to fall into fractal-like patterns that repeat in increasingly smaller increments. No matter how small you go, parts of the… [+4114 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NASA"
-            },
-            "author": null,
-            "title": "How Deep Was Death Valley's Temporary Lake? - nasa.gov",
-            "description": "Researchers used satellite data to calculate the depth of water in this transient freshwater body.",
-            "url": "https://earthobservatory.nasa.gov/images/152645/how-deep-was-death-valleys-temporary-lake",
-            "urlToImage": "https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152645/deathvalleycomp_swot_20240304_th.jpg",
-            "publishedAt": "2024-04-15T21:56:15Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "Why European colonization drove the blue antelope to extinction - Phys.org",
-            "description": "The blue antelope (Hippotragus leucophaeus) was an African antelope with a bluish-gray pelt related to the sable and the roan antelope. The last blue antelope was shot around 1800, just 34 years after it was first described scientifically.",
-            "url": "https://phys.org/news/2024-04-european-colonization-drove-blue-antelope.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/why-european-colonizat.jpg",
-            "publishedAt": "2024-04-15T21:07:03Z",
-            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+2835 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Sharmila Kuthunur",
-            "title": "Venus is leaking carbon and oxygen, a fleeting visit by BepiColombo reveals - Space.com",
-            "description": "\"These are heavy ions that are usually slow moving, so we are still trying to understand the mechanisms that are at play.\"",
-            "url": "https://www.space.com/bepicolombo-carbon-oxygen-venus-space-mission",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QTyDciQ47KyZFSUhCK8TJU-1200-80.jpg",
-            "publishedAt": "2024-04-15T21:00:01Z",
-            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "José Tadeu Arantes",
-            "title": "Study uses thermodynamics to describe expansion of the universe - Phys.org",
-            "description": "The idea that the universe is expanding dates from almost a century ago. It was first put forward by Belgian cosmologist Georges Lemaître (1894–1966) in 1927 and confirmed observationally by American astronomer Edwin Hubble (1889-1953) two years later. Hubble…",
-            "url": "https://phys.org/news/2024-04-thermodynamics-expansion-universe.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/study-uses-thermodynam.jpg",
-            "publishedAt": "2024-04-15T19:20:05Z",
-            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+6750 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "Internet can achieve quantum speed with light saved as sound - Phys.org",
-            "description": "Researchers at the University of Copenhagen's Niels Bohr Institute have developed a new way to create quantum memory: A small drum can store data sent with light in its sonic vibrations, and then forward the data with new light sources when needed again. The …",
-            "url": "https://phys.org/news/2024-04-internet-quantum.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/internet-can-achieve-q.jpg",
-            "publishedAt": "2024-04-15T19:20:02Z",
-            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+6864 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Avon, CT Patch"
-            },
-            "author": "Rich Kirby",
-            "title": "NASA Confirms: CT, 9 More States, Witness Spectacular Meteor Sighting - Patch",
-            "description": "Moving at a crisp 38,000 mph, the meteor tore across the northeastern sky Saturday night, before flaming out over New Jersey.",
-            "url": "https://patch.com/connecticut/across-ct/nasa-confirms-ct-9-more-states-witness-spectacular-meteor-sighting",
-            "urlToImage": "https://patch.com/img/cdn20/shutterstock/22994611/20240415/022909/styles/patch_image/public/shutterstock-628974920___15142119361.jpg",
-            "publishedAt": "2024-04-15T18:29:10Z",
-            "content": "CONNECTICUT More than a hundred eyewitnesses across Connecticut and neighboring states reported seeing a fireball streak overhead Saturday night.\r\nThe meteor was reported at 9:08 p.m. by skywatchers … [+1014 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Elizabeth Howell",
-            "title": "NASA astronaut Loral O'Hara missed the total solar eclipse, but saw Earth 'moving' below her during spacewalk (photos) - Space.com",
-            "description": "\"Nothing compares to the feeling of stepping outside, of being in your own little spacesuit looking at Earth, just through your helmet bubble.\"",
-            "url": "https://www.space.com/nasa-astronaut-loral-o-hara-solar-eclipse-spacewalk",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mJQomC5kH8kteyyddxBfrM-1200-80.jpg",
-            "publishedAt": "2024-04-15T18:27:07Z",
-            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Robert Lea",
-            "title": "These 3 stars are losing weight fast — thanks to stellar winds way stronger than the sun's - Space.com",
-            "description": "\"Our estimated mass-loss rates can be used as a benchmark for stellar wind models and expand our limited observational evidence for the winds of sun-like stars.\"",
-            "url": "https://www.space.com/sun-like-stars-solar-wind-stellar-mass-loss",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pRpabGMEaYKCFLj3YePkj3-1200-80.png",
-            "publishedAt": "2024-04-15T18:00:01Z",
-            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
         },
         {
             "source": {

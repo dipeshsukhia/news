@@ -4,6 +4,45 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Victoria Beckham: Spice Girls reunite... at Posh's 50th birthday - BBC.com",
+            "description": "All five members of the group perform Stop at Victoria Beckham's 50th birthday party in London.",
+            "url": "https://www.bbc.com/news/entertainment-arts-68868289",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10E5A/production/_107101296_gettyimages-144618345.jpg",
+            "publishedAt": "2024-04-22T03:27:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alli Rosenbloom",
+            "title": "Kevin Bacon returns to ‘Footloose’ high school to mark film’s 40th anniversary - CNN",
+            "description": "Kevin Bacon has delivered on his promise to return to the Utah high school where his iconic 1984 film “Footloose” was filmed.",
+            "url": "https://www.cnn.com/2024/04/21/entertainment/kevin-bacon-footloose-payson-high-school/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20562833-63007-363-still.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-21T23:45:00Z",
+            "content": "Kevin Bacon has delivered on his promise to return to the Utah high school where his iconic 1984 film Footloose was filmed.\r\nBacon appeared at Payson High School on Saturday, months after the schools… [+1534 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YourTango"
+            },
+            "author": "Valeria Black",
+            "title": "5 Zodiac Signs With Excellent Horoscopes On April 22, 2024 - YourTango",
+            "description": "Leo, Cancer, Scorpio, Taurus, and Aries will experience excellent horoscopes on April 22, 2024.",
+            "url": "https://www.yourtango.com/2024373593/zodiac-signs-best-horoscopes-april-22-2024",
+            "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/zodiac-signs-best-horoscope-april-22-2024.png",
+            "publishedAt": "2024-04-21T23:03:27Z",
+            "content": "Rise and shine, and let your heart make all the decisions this Monday! The energy is sweet and supple for all those who remain receptive to the goodness of the world. While five zodiac signs  Leo, Ca… [+5094 chars]"
+        },
+        {
+            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
@@ -14,6 +53,19 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/olivia-munn-cancer.jpg",
             "publishedAt": "2024-04-21T21:56:00Z",
             "content": "Olivia Munn was diagnosed with breast cancer one year ago and underwent a double mastectomy. \r\nFollowing three surgeries and reconstruction, the 43-year-old actress told People magazine that she's le… [+3579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Corinne Heller",
+            "title": "TikToker Eva Evans, Creator of Club Rat Series, Dead at 29 - E! NEWS",
+            "description": "Eva Evans, a TikToker and creator of the web series Club Rat, passed away at age 29, her sister announced April 21.",
+            "url": "https://www.eonline.com/news/1399876/tiktoker-eva-evans-creator-of-club-rat-series-dead-at-29",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024321/rs_1200x1200-240421141556-1200-eva-evans-instagram-cjh-040124.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2024-04-21T21:45:00Z",
+            "content": "The TikTok community has lost a rising star.\r\nNew York influencer Eva Evans, who also created and starred in the web comedy series Club Rat, has died. She was 29. Her sister Lila announced the news o… [+848 chars]"
         },
         {
             "source": {
@@ -31,15 +83,15 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Deadline"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Armando Tinoco",
+            "title": "‘Deadpool & Wolverine’: Ryan Reynolds Shares New Teaser & Poster Ahead Of Full Trailer Release - Deadline",
+            "description": "Ryan Reynolds shared a new teaser and poster for the upcoming Deadpool and Wolverine movie.",
+            "url": "http://deadline.com/2024/04/deadpool-and-wolverine-ryan-reynolds-new-teaser-poster-full-trailer-release-1235891181/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/04/deadpool-wolverine.jpg?w=1024",
+            "publishedAt": "2024-04-21T21:35:00Z",
+            "content": "Ryan Reynolds shared a new teaser and poster for the upcoming Deadpool and Wolverine movie.\r\n“Look, eventually, you’re going to hang up the claws and it’s going to make a lot of people very sad,” Dea… [+1244 chars]"
         },
         {
             "source": {
@@ -57,67 +109,41 @@
         {
             "source": {
                 "id": null,
-                "name": "Suntimes.com"
-            },
-            "author": "Georgia Nicols",
-            "title": "Horoscope for Sunday, April 21, 2024 - Chicago Sun-Times",
-            "description": null,
-            "url": "https://chicago.suntimes.com/horoscopes/2024/04/21/horoscopes-today-sunday-april-21-2024",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/d8d7c8f/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2F10%2F14911e383ffed023527d9455495f%2Fgeorgia-nicols.jpg",
-            "publishedAt": "2024-04-21T20:28:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Corinne Heller",
-            "title": "Christina Hendricks Marries George Bianchini in New Orleans Wedding - E! NEWS",
-            "description": "Mad Men alum Christina Hendricks tied the knot with George Bianchini in New Orleans. Get more details and see photos from their star-studded wedding.",
-            "url": "https://www.eonline.com/news/1399874/christina-hendricks-marries-george-bianchini-in-new-orleans-wedding",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023210/rs_1200x1200-230310132311-1200-Christina-Hendricks-George-Bianchini-3.10.23.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2024-04-21T19:56:00Z",
-            "content": "Christina Hendricks is a married woman again.\r\nTheMad Men alum tied the knot with longtime partner George Bianchini at the historic Napoleon House in New Orleans April 20, People reported.\r\nGuests in… [+994 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Page Six"
             },
             "author": "Vanessa Serna",
-            "title": "Luke Bryan falls on stage after slipping on fan’s cell phone: ‘My lawyer will be calling’ - Page Six",
-            "description": "The “Country Girl” hitmaker brushed off the massive fall while jokingly warning the cell phone owner that his lawyers would be in touch.",
-            "url": "https://pagesix.com/2024/04/21/entertainment/luke-bryan-falls-on-stage-after-slipping-on-fans-cell-phone/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/04/80470784.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-04-21T19:43:36Z",
-            "content": "Luke Bryan took a major tumble while performing at the Coast City Country Festival in Vancouver over the weekend.\r\nIn a new video posted to YouTube, the Country Girl singer was seen hyping up the aud… [+2287 chars]"
+            "title": "Taylor Swift’s ex Matty Healy gushes over typewriters and ‘being in love’ with pop stars in resurfaced clip - Page Six",
+            "description": "The clip from 2018 resurfaced as the “Bad Blood” singer seemingly bashed the 1975 frontman and his love for typewriters on her latest album.",
+            "url": "https://pagesix.com/2024/04/21/entertainment/taylor-swifts-ex-matty-healy-gushes-over-typewriters-pop-stars-in-resurfaced-clip/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/04/80467790.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-04-21T19:07:00Z",
+            "content": "A resurfaced clip showed Taylor Swift’s ex-boyfriend Matty Healy gushing over his love of typewriters and “being in love” with pop stars amid the release of her new album, “The Tortured Poets Departm… [+4122 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "Deadline"
             },
-            "author": "Alli Rosenbloom, CNN",
-            "title": "Kevin Bacon returns to 'Footloose' high school to mark film's 40th anniversary - Yahoo Entertainment",
-            "description": "Kevin Bacon has delivered on his promise to return to the Utah high school where his iconic 1984 film “Footloose” was filmed.",
-            "url": "https://www.cnn.com/2024/04/21/entertainment/kevin-bacon-footloose-payson-high-school/index.html",
-            "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/b112d6af5b69189dc20d39e843ca66d8",
-            "publishedAt": "2024-04-21T18:58:19Z",
-            "content": "Kevin Bacon has delivered on his promise to return to the Utah high school where his iconic 1984 film Footloose was filmed.\r\nBacon appeared at Payson High School on Saturday, months after the schools… [+1662 chars]"
+            "author": "Nancy Tartaglione",
+            "title": "‘Godzilla X Kong’ Storming Towards $500M WW As ‘Dune: Part Two’ Closes In On $700M – International Box Office - Deadline",
+            "description": "Godzilla & Kongand Dune: Part Two are nearing big milestones at the global box office",
+            "url": "http://deadline.com/2024/04/godzilla-x-kong-dune-japan-china-global-international-box-office-1235891070/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/04/gxk-dune-two.jpg?w=1024",
+            "publishedAt": "2024-04-21T18:47:00Z",
+            "content": "Refresh for latest…: For the fourth weekend in a row, Warner Bros/Legendary Entertainment’s Godzilla x Kong: The New Empire was the top studio movie at the global and international box office. While … [+2166 chars]"
         },
         {
             "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
+                "id": null,
+                "name": "Hindustan Times"
             },
-            "author": "Morgan Murrell",
-            "title": "Kelly Clarkson, Henry Golding Accidental Sexual Remark Funny - BuzzFeed",
-            "description": "Eggs, toast, and morning meat.",
-            "url": "https://www.buzzfeed.com/morganmurrell/kelly-clarkson-nearly-henry-golding-sexual-innuendo",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-04/21/16/enhanced/f05038ce4828/original-16378-1713717898-2.jpg?crop=1243:651;0,0%26downsize=1250:*",
-            "publishedAt": "2024-04-21T18:57:56Z",
-            "content": null
+            "author": "Dr J.N Pandey",
+            "title": "Pisces Daily Horoscope Today, April 22, 2024 predicts Embracing opportunities - Hindustan Times",
+            "description": "Read Pisces daily horoscope for April 22, 2024, to know your astrological predictions. Today's cosmic energy might stir up some deep feelings in your love life. | Horoscope",
+            "url": "https://www.hindustantimes.com/astrology/horoscope/pisces-daily-horoscope-today-april-22-2024-predicts-embracing-opportunities-101713715551509.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/21/1600x900/pisces_image_1704389652433_1713720518331.jpeg",
+            "publishedAt": "2024-04-21T18:41:03Z",
+            "content": "Pisces (19th February to 20th March)\r\nDaily Horoscope Prediction says, Navigate Through Emotional Waters with Ease\r\nPisces Daily Horoscope Today, April 22, 2024. For singles, this is a great day for … [+3371 chars]"
         },
         {
             "source": {
@@ -138,38 +164,25 @@
                 "name": "Hindustan Times"
             },
             "author": "Dr J.N Pandey",
+            "title": "Capricorn Daily Horoscope Today, April 22, 2024 predicts gestures of love - Hindustan Times",
+            "description": "Read Capricorn daily horoscope for April 22, 2024, to know your astrological predictions. Today offers a mix of opportunity and caution, demanding wise choices. | Horoscope",
+            "url": "https://www.hindustantimes.com/astrology/horoscope/capricorn-daily-horoscope-today-april-22-2024-predicts-gestures-of-love-101713715536265.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/21/1600x900/capri_image_1712687239752_1713720416546.jpeg",
+            "publishedAt": "2024-04-21T18:39:02Z",
+            "content": "Capricorn (22nd December to 19th January)\r\nDaily Horoscope Prediction says, Unlock Potential and Navigate Challenges\r\nCapricorn Daily Horoscope Today, April 22, 2024. Embrace adaptability, as flexibi… [+3398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Dr J.N Pandey",
             "title": "Sagittarius Daily Horoscope Today, April 22, 2024 predicts self-discovery - Hindustan Times",
             "description": "Read Sagittarius daily horoscope for April 22, 2024, to know your astrological predictions. A journey of self-discovery and meaningful connections awaits you. | Horoscope",
             "url": "https://www.hindustantimes.com/astrology/horoscope/sagittarius-daily-horoscope-today-april-22-2024-predicts-selfdiscovery-101713715528975.html",
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/21/1600x900/WhatsApp_Image_2024-01-04_at_192559_1704390427672_1713720386616.jpeg",
             "publishedAt": "2024-04-21T18:38:02Z",
             "content": "Sagittarius (22nd November to 21st December)\r\nDaily Horoscope Prediction says, Energize Your Day, Sagittarius!\r\nSagittarius Daily Horoscope Today, April 22, 2024. The stars are encouraging you to ope… [+3397 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Alli Rosenbloom",
-            "title": "Victoria Beckham reunites with the Spice Girls for iconic singalong at 50th birthday party - CNN",
-            "description": "Victoria Beckham’s birthday party on Saturday got a little spicy while reuniting with her fellow Spice Girls for an impromptu singalong.",
-            "url": "https://www.cnn.com/2024/04/21/entertainment/victoria-beckham-spice-girls-reunion/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1281838342-copy.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-21T18:30:00Z",
-            "content": "Victoria Beckhams birthday party on Saturday got a little spicy.\r\nThe fashion designer, once known best as Posh Spice, celebrated her 50th birthday this weekend in London at a swanky affair, where sh… [+1424 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Taylor Swift Review Writer's Name Left Out Over Safety Concerns - TMZ",
-            "description": "Taylor Swift's fans jump to defend their girl T-Swizzle ... and, one magazine's so concerned they removed a reviewer's byline -- 'cause they worried the person might get threats.",
-            "url": "https://www.tmz.com/2024/04/21/taylor-swift-writer-name-removed-article-threats-violence-ttpd/",
-            "urlToImage": "https://imagez.tmz.com/image/e0/16by9/2024/04/21/e07166a5e11746debac22c5aed8c108d_xl.jpg",
-            "publishedAt": "2024-04-21T18:25:42Z",
-            "content": "Taylor Swift's fans jump to defend their girl T-Swizzle ... and, one magazine's so concerned they removed a reviewer's byline -- 'cause they worried the person might get threats.\r\nPaste, an entertain… [+1290 chars]"
         },
         {
             "source": {
@@ -183,6 +196,19 @@
             "urlToImage": "https://ew.com/thmb/CYBFN_RKhxZKLchSZ7y7fIZ3gHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chris-Pratt-Katherine-Schwarzenegger-042124-cf401c6582ff41c0a40ca5ab3936e501.jpg",
             "publishedAt": "2024-04-21T18:14:00Z",
             "content": "Chris Pratt and Katherine Schwarzenegger just want their house, in the middle of Maria Shriver's street. But their architectural ambitions have rubbed some the wrong way.\r\nThe couple recently demolis… [+1062 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YourTango"
+            },
+            "author": "Valeria Black",
+            "title": "5 Chinese Zodiac Signs Are Very Lucky From April 22 - 28, 2024 - YourTango",
+            "description": "Five Chinese zodiac signs are luckiest in the week of April 22 - 28, 2024. They are: Ox, Monkey, Rat, Snake, and Rooster.",
+            "url": "https://www.yourtango.com/2024373464/chinese-zodiac-signs-luckiest-april-22-28-2024",
+            "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/chinese-zodiac-sign-luckiest-day-april-22-28-2024.png",
+            "publishedAt": "2024-04-21T18:04:11Z",
+            "content": "There's one area of luck that five Chinese zodiac signs seem to experience starting April 22. If you could change one thing about your life today, what would it be? Close your eyes and make that wish… [+4565 chars]"
         },
         {
             "source": {
@@ -209,19 +235,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14730/production/_133206738_image-1.jpg",
             "publishedAt": "2024-04-21T17:46:34Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "InStyle"
-            },
-            "author": "https://www.facebook.com/InStyle",
-            "title": "Matty Healy's Reaction to Taylor Swift's 'TTPD' Album - InStyle",
-            "description": "Matty Healy's aunt Debbie Dedes shared her nephew's reaction to Taylor Swift's 'Tortured Poets Department' album.",
-            "url": "https://www.instyle.com/matty-healy-reaction-taylor-swift-ttpd-album-8636626",
-            "urlToImage": "https://www.instyle.com/thmb/HfCgTKSW84HwXI0DEj6p4-1ytnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Untitled-f8e3e4ba0f7644eba8cfb9d012e9f448.jpg",
-            "publishedAt": "2024-04-21T17:39:42Z",
-            "content": "When Taylor Swift announced that she was coming out with a new album The Tortured Poets Department this year, fans expected the record to reference her breakup with Joe Alwyn, as well as her new roma… [+1510 chars]"
         },
         {
             "source": {
@@ -329,6 +342,19 @@
         },
         {
             "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jane Pauley",
+            "title": "Julie Andrews on finding her voice again, as a children's book author - CBS News",
+            "description": "The singer and actress began a new career when she teamed with daughter Emma Walton Hamilton to write a hugely successful series of children's books. Their 35th, \"Waiting in the Wings,\" about a troupe of theatrical ducks, is based on a true story.",
+            "url": "https://www.cbsnews.com/news/julie-andrews-and-emma-walton-hamilton-on-childrens-book-waiting-in-the-wings/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/21/faef0235-f749-4db4-bd7a-c4e009cdf17e/thumbnail/1200x630g2/92cdf26ee9d4e5e020e8c66d09018c0f/andrews-and-hamilton-a-1280.jpg?v=55c0f85ebcd2b956528d9c6f5a7e8871",
+            "publishedAt": "2024-04-21T14:10:00Z",
+            "content": "\"Mary Poppins\" was Julie Andrews' first film. Her second film was \"The Sound of Music.\" If she had never made another movie, she might still be one of Hollywood's most endearing and beloved stars … a… [+6144 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -408,15 +434,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Inverse"
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "Netflix's Best Noir Thriller Ever Breaks a Pervasive TV Rule - Inverse",
-            "description": "Steven Zaillian's masterful Patricia Highsmith adaptation doesn't even need dialogue. Netflix's 'Ripley' is a visually stunning and cleverly written TV series, but its best trick is its use of silence.",
-            "url": "https://www.inverse.com/entertainment/ripley-no-dialogue-episode-spoilers",
-            "urlToImage": "https://imgix.bustle.com/uploads/image/2024/4/16/94c140fb-9d84-4714-b2e8-112397846b3b-ripley-1.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.6059&fp-y=0.2735",
-            "publishedAt": "2024-04-21T10:30:25Z",
-            "content": "Ripley isn't like anything else that's on TV right now. The Netflix series is, for starters, shot entirely in black and white by cinematographer Robert Elswit. That decision alone, which brings the n… [+4461 chars]"
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -447,28 +473,15 @@
         {
             "source": {
                 "id": null,
-                "name": "indy100"
+                "name": "Broadway World"
             },
-            "author": "Harriet Brewis",
-            "title": "What is 'Ozempic face'? The bleak side effect sweeping Hollywood - indy100",
-            "description": "There’s a new trend sweeping Hollywood which showcases the downsides to weight loss treatments.A side effect of a popular injectable, intended for Type 2 diabetes sufferers, is leaving celebrities with what is being branded “Ozempic Face”.Saggy skin, gaunt ch…",
-            "url": "https://www.indy100.com/celebrities/plastic-surgeons-ozempic-face",
-            "urlToImage": "https://www.indy100.com/media-library/plastic-surgeons-warn-of-ozempic-face-crisis-in-hollywood.jpg?id=52057234&width=1200&height=600&coordinates=0%2C266%2C0%2C234",
-            "publishedAt": "2024-04-21T07:29:34Z",
-            "content": "Theres a new trend sweeping Hollywood which showcases the downsides to weight loss treatments.\r\nA side effect of a popular injectable, intended for Type 2 diabetes sufferers, is leaving celebrities w… [+3105 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Carly Thomas",
-            "title": "Zendaya on What Serena Williams Told Her After Watching ‘Challengers’ Performance - Hollywood Reporter",
-            "description": "The actress plays tennis player-turned-coach Tashi Duncan in the romantic sports comedy, hitting theaters on April 26.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/zendaya-serena-williams-reaction-challengers-1235878421/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/04/Zendaya-Serena-Williams-getty-H-2024.jpg?w=1024",
-            "publishedAt": "2024-04-21T05:24:49Z",
-            "content": "Zendaya is revealing what tennis superstar Serena Williams thought of her latest performance in Challengers.\r\nThe actress, who plays tennis player-turned-coach Tashi Duncan in the Luca Guadagnino-dir… [+1411 chars]"
+            "author": "Nicole Rosky",
+            "title": "Review Roundup: HELL'S KITCHEN Opens on Broadway - BroadwayWorld",
+            "description": "Let's hear it for New York! The new Broadway musical HELL’S KITCHEN, conceived by 16-time Grammy Award winner Alicia Keys and directed by Tony Award nominee Michael Greif opens tonight at the Shubert Theatre. Check out what the critics are saying!",
+            "url": "https://www.broadwayworld.com/article/Review-Roundup-HELLS-KITCHEN-Opens-on-Broadway-20240420",
+            "urlToImage": "https://cloudimages.broadwayworld.com/columnpiccloud/Review-Roundup-HELL-S-KITCHEN-Opens-on-Broadway-1713647377.jpg",
+            "publishedAt": "2024-04-21T04:41:15Z",
+            "content": "Let's hear it for New York! The new Broadway musical HELLS KITCHEN, conceived by 16-time Grammy Award winner Alicia Keys and directed by Tony Award nominee Michael Greif opens tonight at the Shubert … [+11861 chars]"
         },
         {
             "source": {
@@ -482,19 +495,6 @@
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/17/1600x900/clock-2535061_1920_1668888213138_1713354416894.jpg",
             "publishedAt": "2024-04-21T03:30:00Z",
             "content": "Aries\r\nWeekly Horoscope: Check Astrological prediction from 22nd to 28th april 2024\r\nGanesha says this week, you will feel mentally strong and will also engage in deep conversations. Even if you are … [+13189 chars]"
-        },
-        {
-            "source": {
-                "id": "mashable",
-                "name": "Mashable"
-            },
-            "author": "Mashable Team",
-            "title": "NYT 'Connections' hints and answers for April 21: Tips to solve 'Connections' #315. - Mashable",
-            "description": "Everything you need to solve 'Connections' #315.",
-            "url": "https://mashable.com/article/nyt-connections-hint-answer-today-april-21-2024",
-            "urlToImage": "https://helios-i.mashable.com/imagery/articles/01KXoAhNf8zdWUhSMLZ879a/hero-image.fill.size_1200x675.v1713635787.jpg",
-            "publishedAt": "2024-04-21T01:19:09Z",
-            "content": null
         },
         {
             "source": {
@@ -512,15 +512,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "Ringside News"
             },
-            "author": "Aramide Tinubu",
-            "title": "‘Hell’s Kitchen’ Review: Alicia Keys Musical Brings a Vibrant Depiction of Teen Girlhood to Broadway - Variety",
-            "description": "Loosely inspired by Keys' life, this new musical and its powerhouse cast bring a vibrant depiction of teen girlhood to Broadway.",
-            "url": "https://variety.com/2024/legit/reviews/hells-kitchen-review-alicia-keys-musical-broadway-1235977362/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2024/04/4_Hells_Kitchen_Broadway_Production-Photos_2024_HR_Final_Credit_Marc_J_Franklin-1.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2024-04-21T01:00:00Z",
-            "content": "“Hell’s Kitchen” opened on Broadway on April 20, 2024. The following is Aramide Tinubu’s review of the show’s Off Broadway premiere published on Nov. 19, 2023. The credits and copy have been updated … [+4421 chars]"
+            "author": "Subhojeet Mukherjee",
+            "title": "WWE Talent Have Interesting Running Joke to Jinder Mahal’s Release - Ringside News",
+            "description": "Jinder Mahal's unexpected rise to prominence this year took many by surprise as he found himself in contention for the WWE World Heavyweight Title shot on",
+            "url": "https://www.ringsidenews.com/2024/04/20/wwe-talent-have-interesting-running-joke-to-jinder-mahals-release/",
+            "urlToImage": "https://www.ringsidenews.com/wp-content/uploads/2024/01/Jinder-Mahal-3.jpg",
+            "publishedAt": "2024-04-21T01:07:30Z",
+            "content": "Jinder Mahals unexpected rise to prominence this year took many by surprise as he found himself in contention for the WWE World Heavyweight Title shot on RAW, only to lose the match. However, his jou… [+1775 chars]"
         },
         {
             "source": {
@@ -564,15 +564,15 @@
         {
             "source": {
                 "id": null,
-                "name": "STYLECASTER"
+                "name": "Forbes"
             },
-            "author": "Jenzia Burgos",
-            "title": "Where Does Prince Harry Live With Meghan Markle? Nationality Explained - STYLECASTER",
-            "description": "What is Prince Harry's nationality today? Here's what to know about the Duke of Sussex's residency status in the UK and the US after his royal exit.",
-            "url": "https://stylecaster.com/entertainment/celebrity-news/1760452/where-prince-harry-live/",
-            "urlToImage": "https://stylecaster.com/wp-content/uploads/2024/04/prince-harry.jpeg?w=650",
-            "publishedAt": "2024-04-20T20:20:18Z",
-            "content": "All products and services featured are independently chosen by editors. However, StyleCaster may receive a commission on orders placed through its retail links, and the retailer may receive certain a… [+3173 chars]"
+            "author": "Kris Holt",
+            "title": "NYT 'Connections' Hints And Answers For Sunday, April 21 - Forbes",
+            "description": "Looking for some help with Sunday's NYT Connections words? Some hints and the answers are right here.",
+            "url": "https://www.forbes.com/sites/krisholt/2024/04/20/nyt-connections-hints-and-answers-for-sunday-april-21/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64de654d82fd643c3ad8ae1f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-04-20T21:30:56Z",
+            "content": "Find the links between the words to win today's game of Connections.\r\ngetty\r\nLooking for Saturdays Connections hints and answers? You can find them here:\r\nMORE FROM FORBESNYT 'Connections' Hints And … [+3636 chars]"
         },
         {
             "source": {
@@ -586,6 +586,32 @@
             "urlToImage": "https://soaps.sheknows.com/wp-content/uploads/2024/04/Deacon-Finn-BB-HW.jpg",
             "publishedAt": "2024-04-20T19:15:08Z",
             "content": "In Soaps.com’s latest Bold &amp; Beautiful spoilers for the week of Monday, April 22, through Friday, April 26, Deacon is sure he knows the truth… but can he figure out a way to prove that Sheila is … [+1454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "American Songwriter"
+            },
+            "author": "American Songwriter",
+            "title": "Phish Delivers a Killer First Performance at Sphere in Las Vegas - American Songwriter",
+            "description": null,
+            "url": "https://americansongwriter.com/phish-delivers-a-killer-first-performance-at-sphere-in-las-vegas/",
+            "urlToImage": null,
+            "publishedAt": "2024-04-20T19:05:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Dr J.N Pandey",
+            "title": "Weekly Horoscope Taurus, April 21-27, 2024 predicts surprises this week - Hindustan Times",
+            "description": "Read Taurus weekly horoscope for April 21-27, 2024 to know your astrological predictions. Financially, this is a week of potential surprises. | Horoscope",
+            "url": "https://www.hindustantimes.com/astrology/horoscope/weekly-horoscope-taurus-april-21-27-2024-predicts-surprises-this-week-101713627697771.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/20/1600x900/taurus5_1648802521516_1713627945576.jpeg",
+            "publishedAt": "2024-04-20T18:31:07Z",
+            "content": "Taurus (20th April to 20th May)\r\nWeekly Horoscope Prediction says, A Week of Surprising Shifts and Growth\r\nExpect surprises, personal growth, and important revelations in relationships, career, and h… [+3435 chars]"
         },
         {
             "source": {
@@ -616,19 +642,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Entertainment",
-            "title": "Candace Cameron Bure reveals she 'almost died' after participating in dangerous stunt on 'Fuller House' set - Yahoo Entertainment",
-            "description": null,
-            "url": "https://www.yahoo.com/entertainment/candace-cameron-bure-reveals-she-172805564.html",
-            "urlToImage": null,
-            "publishedAt": "2024-04-20T17:28:05Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "GMA"
             },
             "author": "Bethany Braun-Silva",
@@ -655,41 +668,28 @@
         {
             "source": {
                 "id": null,
-                "name": "InStyle"
+                "name": "Variety"
             },
-            "author": "https://www.facebook.com/InStyle",
-            "title": "Travis Kelce Kisses Taylor Swift in \"Fortnight\" Recap Video - InStyle",
-            "description": "Taylor Swift accepted her own \"Fortnight\" recap challenge with a video of Travis Kelce kissing her while she cooked dinner.",
-            "url": "https://www.instyle.com/travis-kelce-kisses-taylor-swift-fortnight-recap-video-8636530",
-            "urlToImage": "https://www.instyle.com/thmb/XrUHq5M3szne9oQV7x4iV4krJSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2008557096-b5c0a4aef1c04ab5984f07e035ca3cc5.jpg",
-            "publishedAt": "2024-04-20T16:08:43Z",
-            "content": "Taylor Swift just accepted her own #ForAFortnightChallenge, and in the process, she's making Swifties everywhere swoon. \r\n In case you haven't heard, a \"fortnight\" is a \"unit of time equal to 14 days… [+1461 chars]"
+            "author": "Lexi Carson",
+            "title": "The True Story Behind ‘Under the Bridge’: What Happened to Reena Virk? - Variety",
+            "description": "The true story of what really happened in Hulu's 'Under The Bridge,' about the murder of teenager Reena Virk.",
+            "url": "https://variety.com/2024/tv/news/under-the-bridge-true-story-reena-virk-murder-1235976672/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/04/underthebridge-1.jpg?w=1000&h=562&crop=1",
+            "publishedAt": "2024-04-20T15:33:00Z",
+            "content": "How does a fight between a group of teenagers result in murder?\r\nHulu‘s new true-crime series “Under the Bridge,” based on the late Rebecca Godfrey’s non-fiction book, portrays the before and after o… [+5711 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Variety"
             },
-            "author": null,
-            "title": "Full interview: Catching up with Phish ahead of four night residency at Las Vegas's Sphere - CBS News",
-            "description": "Phish is famous for their otherworldly performances. They're putting on 4 sold-out shows at Las Vegas' Sphere, where the show can become a fully immersive ex...",
-            "url": "https://www.youtube.com/watch?v=4vwO8cXDqVQ",
-            "urlToImage": "https://i.ytimg.com/vi/4vwO8cXDqVQ/maxresdefault.jpg",
-            "publishedAt": "2024-04-20T14:52:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Mike Snider",
-            "title": "Record Store Day 2024: Special vinyl record releases out April 20 - USA TODAY",
-            "description": "Saturday, April 20, is the 17th annual Record Store Day. Exclusive vinyl record releases come out from the Rolling Stones, the Beatles and more.",
-            "url": "https://www.usatoday.com/story/entertainment/music/2024/04/20/record-store-day-2024-vinyl-records/73390177007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/20/USAT/73391475007-screenshot-20240419-at-62726-pm.png?crop=1066,601,x1,y258&width=1066&height=601&format=pjpg&auto=webp",
-            "publishedAt": "2024-04-20T14:51:20Z",
-            "content": "Vinyl rules on Saturday. That's because it is Record Store Day.\r\nThis marks the 17th annual celebration of independent record stores with a slew of special, exclusive releases available first in stor… [+7897 chars]"
+            "author": "Chris Willman",
+            "title": "Record Store Day 2024's Most Wanted: Olivia Rodrigo & Noah Kahan, Talking Heads, Laufey, Pearl Jam, Ateez, David Bowie, Beatles, Wilco and More - Variety",
+            "description": "A look at covetable RSD releases as diverse as Ateez, the Beatles, Nas, Laufey, Pearl Jam, Sister Rosetta Tharpe, the Replacements and Chappell Roan.",
+            "url": "https://variety.com/lists/record-store-day-most-wanted-olivia-rodrigo-noah-kahan-pearl-jam-ateez/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/04/GettyImages-1882125795-e1713605926150.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-04-20T15:06:00Z",
+            "content": "There’s a certain type of vinyl geek that has all 387 exclusives coming out for Record Store Day 2024 committed to memory color variants, pressing quantities and prices included. The rest of us may n… [+910 chars]"
         },
         {
             "source": {
@@ -707,28 +707,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "The Ringer"
             },
-            "author": "Steven J. Horowitz",
-            "title": "Drake Uses AI Tupac and Snoop Dogg Vocals on ‘Taylor Made Freestyle,’ References Taylor Swift’s New Album ‘The Tortured Poets Department’ - Variety",
-            "description": "Drake has released a new song entitled 'Taylor Made Freestyle' featuring AI verses from Tupac Shakur and Snoop Dogg.",
-            "url": "https://variety.com/2024/music/news/drake-taylor-made-freestyle-tupac-shakur-taylor-swift-snoop-dogg-1235977178/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/07/IMG_0507-e1690305538455.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2024-04-20T05:10:00Z",
-            "content": "The beef between Drake and what continues to be a strong sect of the hip-hop community grows deeper. On Friday night (April 19), the rapper released a song on his social media entitled “Taylor Made F… [+2679 chars]"
+            "author": "Justin Charity",
+            "title": "Rick Ross Is the Wild Card in the Drake-Kendrick Beef - The Ringer",
+            "description": "Of all the belligerents involved in the Drake-Kendrick beef, Ricky Rozay might be the biggest menace",
+            "url": "https://www.theringer.com/rap/2024/4/19/24134505/rick-ross-drake-champagne-moments-kendrick-beef",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/atPg-3NzJKEJs718xcevjzMXCPA=/0x0:1200x628/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25407950/rapbeefross_getty_ringer.jpg",
+            "publishedAt": "2024-04-19T13:11:08Z",
+            "content": "Drake has a problem.\r\nIt isntat least not yetKendrick Lamar, who escalated a decade of tacit rivalry into open conflict with a diss verse on Like That, currently the no. 1 song in the country. (Kendr… [+6456 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "TMZ"
+                "name": "Variety"
             },
-            "author": "TMZ Staff",
-            "title": "Sydney Sweeney Fires Back on 'Not Pretty' Remark, Producer Regretful - TMZ",
-            "description": "Sydney Sweeney's camp hasn't wasted time clapping back at the attack on her looks and acting chops by a Hollywood producer ... even though the woman herself is walking it back.",
-            "url": "https://www.tmz.com/2024/04/17/sydney-sweeney-responds-not-pretty-comment-producer-carol-baum-regret/",
-            "urlToImage": "https://imagez.tmz.com/image/9c/16by9/2024/04/17/9ceb04f6665c4878878500b65c177c57_xl.jpg",
-            "publishedAt": "2024-04-17T18:12:24Z",
-            "content": "Sydney Sweeney's camp hasn't wasted time clapping back at the attack on her looks and acting chops by a Hollywood producer ... even though the woman herself is walking it back.\r\nA rep for the \"Euphor… [+1614 chars]"
+            "author": "Ethan Shanfeld",
+            "title": "Sydney Sweeney Fires Back at Producer Who Said She’s ‘Not Pretty’ and ‘Can’t Act’: ‘How Sad’ and ‘Shameful’ - Variety",
+            "description": "Sydney Sweeney fired back at producer Carol Baum, who said she's 'not pretty' and 'can't act,' with a statement calling Baum's comments 'shameful.'",
+            "url": "https://variety.com/2024/film/news/sydney-sweeney-slams-producer-carol-baum-not-pretty-shameful-1235974496/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/04/GettyImages-2085135619-e1713392854587.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-04-17T22:44:00Z",
+            "content": "Sydney Sweeney caught a stray last week when veteran Hollywood producer Carol Baum said at an event that Sweeney is “not pretty” and “can’t act” — and that her hit rom-com “Anyone but You” was “unwat… [+2166 chars]"
         }
     ]
 }

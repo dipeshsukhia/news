@@ -4,6 +4,97 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PsyPost"
+            },
+            "author": "Eric W. Dolan",
+            "title": "AI connects gut bacteria metabolites to Alzheimer's disease progression - PsyPost",
+            "description": "A new study has discovered that metabolites from gut bacteria interact with specific human receptors, potentially influencing Alzheimer's disease. These findings could lead to novel therapies targeting these interactions, offering hope for treating or even pr…",
+            "url": "https://www.psypost.org/ai-connects-gut-bacteria-metabolites-to-alzheimers-disease-progression/",
+            "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/01/Intestinal-bacteria-Gut-microbiome.jpg",
+            "publishedAt": "2024-04-23T00:18:57Z",
+            "content": "In a new study published in Cell Reports, researchers have developed a sophisticated systems biology approach that combines artificial intelligence (AI), genetics, and multi-omics analyses to explore… [+6086 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "Concern grows as bird flu spreads further in US cows: 32 herds in 8 states - Ars Technica",
+            "description": "Experts say the US is not sharing as much data on the outbreak as it should.",
+            "url": "https://arstechnica.com/science/2024/04/concern-grows-as-bird-flu-spreads-further-in-us-cows-32-herds-in-8-states/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1229694264-760x380.jpeg",
+            "publishedAt": "2024-04-22T22:24:46Z",
+            "content": "Enlarge/ Greylag geese sit on a field and rest while a cow passes by in the background. \r\n35\r\nResearchers around the world are growing more uneasy with the spread of highly pathogenic avian influenza… [+5150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scrippsnews.com"
+            },
+            "author": "Scripps News Staff",
+            "title": "Man dies after 613-day COVID-19 infection that underwent 50 mutations - Scripps News",
+            "description": "Through the 613 days of infection, the virus evolved into a \"novel immune-evasive variant\" that had mutated over 50 times.",
+            "url": "https://scrippsnews.com/stories/man-dies-after-613-day-covid-19-infection-that-underwent-50-mutations/",
+            "urlToImage": "https://cdn.scrippsnews.com/images/videos/m/1713818636_Mxv5fR.jpg",
+            "publishedAt": "2024-04-22T22:19:39Z",
+            "content": "A new report by Dutch scientists revealed a very peculiar case: On Feb. 2022, a 72-year-old man with a compromised immune system was admitted to Amsterdam University Medical Center with a COVID-19 in… [+1734 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Shiv Sudhakar",
+            "title": "With whooping cough cases on the rise, do you need a booster vaccine? - Fox News",
+            "description": "As whooping cough (pertussis) cases surge globally, experts offer their insights on symptoms, prevention and vaccination requirements. Here's what you need to know to stay safe.",
+            "url": "https://www.foxnews.com/health/whooping-cough-cases-rise-do-you-need-booster-vaccine",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/woman-coughing.jpg",
+            "publishedAt": "2024-04-22T22:04:00Z",
+            "content": "As whooping cough cases are surging globally, some may wonder if its necessary to get a booster.\r\nCases of the childhood respiratory disease\r\n also known as pertussis are surging internationally and … [+8067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WRAL.com"
+            },
+            "author": "Jodi Leese Glusco",
+            "title": "Finishing chemo at 25: Man hopes his cancer journey serves as warning to his peers - WRAL News",
+            "description": "Colton Reed was diagnosed with testicular cancer at just 22. He encourages others not to ignore health symptoms and ask for help.",
+            "url": "https://www.wral.com/story/finishing-chemo-at-25-man-hopes-his-cancer-journey-serves-as-warning-to-his-peers/21393711/",
+            "urlToImage": "https://images.wral.com/asset/lifestyles/healthteam/2024/04/22/21393717/cancer-DMID1-62p6s6d2t-640x480.jpg",
+            "publishedAt": "2024-04-22T21:38:16Z",
+            "content": "Most grad students are busy preparing for life beyond college, especially if that life entails a wedding just a few months after graduation.\r\nInstead, 25-year-old Colton Reed is battling testicular c… [+2450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Pupil Dilation Linked to Working Memory Capacity - Neuroscience News",
+            "description": null,
+            "url": "https://neurosciencenews.com/pupil-dilation-memory-25967/",
+            "urlToImage": null,
+            "publishedAt": "2024-04-22T21:17:58Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "medical-news-today",
                 "name": "Medical News Today"
             },
@@ -31,6 +122,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "COVID-19 Didn't Delay Development As Much As Believed - Neuroscience News",
+            "description": "A new study found only modest developmental delays in children aged 5 and under due to the COVID-19 pandemic.",
+            "url": "https://neurosciencenews.com/covid-19-neurodevelopment-25966/",
+            "urlToImage": "https://neurosciencenews.com/files/2024/04/covid-neurodevelopment-neuroscience.jpg",
+            "publishedAt": "2024-04-22T20:52:27Z",
+            "content": "Summary: A new study found only modest developmental delays in children aged 5 and under due to the COVID-19 pandemic. Analyzing data from over 50,000 children using the Ages and Stages Questionnaire… [+10519 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "[Removed]"
             },
             "author": null,
@@ -40,6 +144,19 @@
             "urlToImage": null,
             "publishedAt": "1970-01-01T00:00:00Z",
             "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Amy Eisinger",
+            "title": "I’m a doctor — patients won't stop asking about these 2 adaptogens - New York Post ",
+            "description": "These allegedly magical supplements come up again and again.",
+            "url": "https://nypost.com/2024/04/22/lifestyle/doc-reveals-what-adaptogens-can-and-cant-do-for-health/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/80517390.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-04-22T20:24:00Z",
+            "content": "Has the secret to stress-free living been here all along?\r\nIn the never-ending quest to fend off feelings of exhaustion, one craze thats taken the wellness world by storm has ancient roots literally.… [+5104 chars]"
         },
         {
             "source": {
@@ -70,28 +187,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
+                "name": "Scrippsnews.com"
             },
-            "author": "Neuroscience News",
-            "title": "AI Links Gut Microbiome to Alzheimer's - Neuroscience News",
-            "description": "Researchers are pioneering the use of artificial intelligence to explore how the gut microbiome influences Alzheimer’s disease.",
-            "url": "https://neurosciencenews.com/ai-microbiome-alzheimers-25962/",
-            "urlToImage": "https://neurosciencenews.com/files/2024/04/gut-bacteria-alzheimers-neuroscience.jpg",
-            "publishedAt": "2024-04-22T18:25:06Z",
-            "content": "Summary: Researchers are pioneering the use of artificial intelligence to explore how the gut microbiome influences Alzheimers disease. Their latest study employs AI to analyze how metabolites produc… [+8130 chars]"
+            "author": "Taylor O'Bier",
+            "title": "USDA releases genetic data of bird flu after criticism from scientists - AOL",
+            "description": "Concerns about the bird flu have grown in recent months as it has continued to decimate bird populations and spread to more mammals.",
+            "url": "https://scrippsnews.com/stories/usda-releases-genetic-data-of-bird-flu-after-criticism-from-scientists/",
+            "urlToImage": "https://media.zenfs.com/en/aol_newsy_441/484cb17e0bc562cba308ff5204d7037d",
+            "publishedAt": "2024-04-22T18:49:19Z",
+            "content": "Veterinarians vaccinating farm chickens against diseases like bird flu.\r\nThe U.S. Department of Agriculture published genetic data from avian flu virus samples after scientists criticized the governm… [+3574 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "PsyPost"
+                "name": "BBC News"
             },
-            "author": "Eric W. Dolan",
-            "title": "Loneliness and cravings: New study shows how perceived isolation can affect women's eating habits - PsyPost",
-            "description": "A new study suggests that loneliness can increase brain activity related to cravings in women, making them more likely to desire high-calorie foods. This heightened brain response is linked to poor eating habits and worsened mental health outcomes.",
-            "url": "https://www.psypost.org/loneliness-and-cravings-new-study-shows-how-perceived-isolation-can-affect-womens-eating-habits/",
-            "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/02/sad-lonely-woman-on-her-smartphone-in-bed-at-night.jpg",
-            "publishedAt": "2024-04-22T18:03:23Z",
-            "content": "A new study published in JAMA Network Open reveals that women who feel lonely exhibit increased brain activity in areas associated with cravings and the motivation to eat when they view images of hig… [+5957 chars]"
+            "author": null,
+            "title": "Deforestation pushes animals in Uganda forest to eat virus-laden bat poo - BBC.com",
+            "description": "The creatures shed light on how new viruses might spread from animals to humans, researchers say.",
+            "url": "https://www.bbc.com/news/world-africa-68875094",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1EDD/production/_133210970_gettyimages-1347358326.jpg",
+            "publishedAt": "2024-04-22T18:18:05Z",
+            "content": null
         },
         {
             "source": {
@@ -105,19 +222,6 @@
             "urlToImage": "https://neurosciencenews.com/files/2024/04/astrocytes-mental-health-neuroscience.jpg",
             "publishedAt": "2024-04-22T17:59:00Z",
             "content": "Summary: New research reveals the pivotal role of astrocytes in the basolateral amygdala (BLA) in modulating risk assessment behaviors, which are often disrupted in mental disorders. The study used a… [+5845 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
         },
         {
             "source": {
@@ -148,19 +252,6 @@
         {
             "source": {
                 "id": null,
-                "name": "WRAL.com"
-            },
-            "author": null,
-            "title": "Why does smoking pot give you the munchies? - WRAL News",
-            "description": "If you smoke or eat pot, you might have encountered the \"marijuana munchies,\" or the desire for salty, sweet or fatty carbohydrate-rich foods when using the drug.",
-            "url": "https://www.wral.com/story/why-does-smoking-pot-give-you-the-munchies/21390802/",
-            "urlToImage": "https://images.wral.com/asset/news/political/2024/04/19/21389651/6622ed59081cb-media_55b3bc73c3614664b04cce9476d69851-DMID1-62o0blkyt-640x480.jpg",
-            "publishedAt": "2024-04-22T17:18:33Z",
-            "content": "If you smoke or eat pot, you might have encountered the marijuana munchies, or the desire for salty, sweet or fatty carbohydrate-rich foods when using the drug.\r\nBut what exactly are those cannabis-r… [+7027 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "[Removed]"
             },
             "author": null,
@@ -186,16 +277,16 @@
         },
         {
             "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
+                "id": null,
+                "name": "Financial Times"
             },
-            "author": "Aadya+Jha",
-            "title": "1 - The Times of India",
-            "description": "​Early detection is key to successfully treating oral cancer. If you notice any of these signs or symptoms persisting for more than two weeks, consult a dentist or doctor for further evaluation. proactive monitoring of your oral health can save lives.",
-            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/web-stories/8-early-signs-of-oral-cancer-common-in-patients/photostory/109499460.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-109499508,imgsize-1605873,width-900,height-1200,resizemode-6/109499508.jpg",
-            "publishedAt": "2024-04-22T16:30:00Z",
-            "content": "Changes in your voice, such as hoarseness or raspiness, that persist for an extended period should not be ignored. While hoarseness can be caused by various factors, including vocal strain or respira… [+72 chars]"
+            "author": "Michael Peel",
+            "title": "Scientists develop simple test to boost cancer detection in poorer countries - Financial Times",
+            "description": "Technique highlights concerns shifting global disease burden as populations age",
+            "url": "https://www.ft.com/content/6bef73f5-ed50-4e51-81fa-b04e13b43118",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F7cb11fb3-5e27-4403-8a0d-589064d7f28a.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-04-22T16:31:08Z",
+            "content": "Scientists have developed a simple and affordable blood test to help spot cancer cases in low- and middle-income countries, marking the latest move to boost disease prevention among ageing population… [+3417 chars]"
         },
         {
             "source": {
@@ -209,6 +300,19 @@
             "urlToImage": "https://c.ndtvimg.com/2024-04/ag19snr_kitum-cave_625x300_22_April_24.jpeg?ver-20240422.08",
             "publishedAt": "2024-04-22T16:11:51Z",
             "content": "The cave turned out to be home to some of the deadliest viruses in human history.\r\nThe world's deadliest cave Kitum, located in Mount Elgon National Park in Kenya, could cause the next pandemic, as p… [+2407 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Toronto Star"
+            },
+            "author": "Kevin Jiang",
+            "title": "How microplastics can travel from food to vital organs — including the brain, new study finds - Toronto Star",
+            "description": "On Earth Day, here’s a look at how microplastics were able to migrate from food and drink into the organs of research mice — and the implications for humans.",
+            "url": "https://www.thestar.com/news/canada/how-microplastics-can-travel-from-food-to-vital-organs-including-the-brain-new-study-finds/article_cb3661b6-fc21-11ee-bcdc-3f3d12cdf114.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/2a/02a81e72-2698-5e4b-8ba7-f1b575acb42d/661fdd51a79f7.image.jpg?crop=1811%2C951%2C0%2C97&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2024-04-22T15:57:00Z",
+            "content": "We celebrate Earth Day on an increasingly plastic world.\r\nEvery year, we produce about 400 million tonnes of plastic waste  an exponential leap from the 1970s. If the trend continues, we’ll hit 1,100… [+3492 chars]"
         },
         {
             "source": {
@@ -235,6 +339,19 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/GettyImages-1255268220.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-04-22T14:58:00Z",
             "content": "A cheap drug used to treat diabetes may help you live a longer healthier life, scientists believe. \r\nMetformin, which helps people lower their blood sugar and treats type 2 diabetes, could also prote… [+2339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Artofmanliness.com"
+            },
+            "author": "Brett & Kate McKay",
+            "title": "Podcast #984: Why Your Memory Seems Bad (It's Not Just Age) - Art of Manliness",
+            "description": "Do you sometimes walk to another room in your house to get something, but then can’t remember what it was you wanted? Do you sometimes forget about an appointment or struggle to remember someone’s name? You may have chalked these lapses in memory up to gettin…",
+            "url": "https://www.artofmanliness.com/health-fitness/health/podcast-984-why-your-memory-seems-bad-its-not-just-age/",
+            "urlToImage": "https://content.artofmanliness.com/uploads/2024/04/memory-1.jpg",
+            "publishedAt": "2024-04-22T14:49:32Z",
+            "content": "Do you sometimes walk to another room in your house to get something, but then can’t remember what it was you wanted? Do you sometimes forget about an appointment or struggle to remember someone’s na… [+994 chars]"
         },
         {
             "source": {
@@ -290,6 +407,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Good News Network"
+            },
+            "author": "Andy Corbley",
+            "title": "Fungus Devastating Frogs on Nearly Every Continent May Have an Achilles Heel–and Scientists Think it Could Save the Amphibians - Good News Network",
+            "description": "A pandemic among frogs has been going on worldwide for years—the culprit: a fungal infection that has affected amphibians on nearly every continent. But now, the discovery of a virus that has evolved to replicate inside this fungus could be the key to saving …",
+            "url": "https://www.goodnewsnetwork.org/fungus-devastating-frogs-on-nearly-every-continent-may-have-an-achilles-heel-and-scientists-think-it-could-save-the-amphibians/",
+            "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/03/Atelopus-varius-harlequin-toad-frog-cc-Brain-Gratewick-wiki.jpg",
+            "publishedAt": "2024-04-22T13:01:04Z",
+            "content": "Brain Gratewick, CC 2.0 license\r\nA pandemic among frogs has been going on worldwide for yearsthe culprit: a fungal infection that has affected amphibians on nearly every continent.\r\nBut now, the disc… [+2072 chars]"
+        },
+        {
+            "source": {
                 "id": "medical-news-today",
                 "name": "Medical News Today"
             },
@@ -303,6 +433,32 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newsmax"
+            },
+            "author": "Dennis Thompson",
+            "title": "A-Fib Increases Risk for Heart Failure - Newsmax",
+            "description": "The dangerous heart rhythm disorder known as atrial fibrillation is mainly known for increasing people's risk of stroke. But people with A-Fib actually have a much higher risk of developing heart failure than suffering a stroke, a new study shows. In fact, th…",
+            "url": "https://www.newsmax.com/health/health-news/atrial-fibrillation-a-fib-stroke/2024/04/22/id/1161916/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=2bfed47d-b01e-48dc-94a3-00fd4edc50fa&SiteName=Newsmax",
+            "publishedAt": "2024-04-22T12:12:02Z",
+            "content": "The dangerous heart rhythm disorder known as atrial fibrillation is mainly known for increasing people’s risk of stroke.\r\nBut people with A-Fib actually have a much higher risk of developing heart fa… [+2899 chars]"
+        },
+        {
+            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -312,20 +468,7 @@
             "url": "https://www.businessinsider.com/woman-lost-105-pounds-walking-healthy-diet-wegovy-easier-2024-4",
             "urlToImage": "https://i.insider.com/662285f510c6b0cde5f12272?width=1200&format=jpeg",
             "publishedAt": "2024-04-22T11:31:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WLS-TV"
-            },
-            "author": null,
-            "title": "Weight loss injections Wegovy, and Zepbound could help keep the pounds off longer, avoid a plateau, according to new study - WLS-TV",
-            "description": "The studies show that the more weight a person loses, the stronger appetite becomes until it counteracts all the hard work they've done to lose it in the first place.",
-            "url": "https://abc7chicago.com/weight-loss-plateau-injections-calorie-deficit/14713639/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/14713621_042224-wls-weight-loss-plateau-55a-vid.jpg?w=1600",
-            "publishedAt": "2024-04-22T11:26:09Z",
-            "content": "Whether you're shedding pounds with the help of effective new medicines, slimming down after weight loss surgery or cutting calories and adding exercise, there will come a day when the numbers on the… [+8422 chars]"
+            "content": "Megan Tjelle was tired of missing out on life.\r\nAs her weight crept up over her 20s, she found herself declining social events because she felt self-conscious, and noticed her health suffering, too.\r… [+8485 chars]"
         },
         {
             "source": {
@@ -407,6 +550,19 @@
         },
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brenda Goodman, CNN",
+            "title": "Here's when your weight loss will plateau, according to science - AOL",
+            "description": "Whether you’re shedding pounds with the help of effective new medicines, slimming down after weight loss surgery or cutting calories and adding exercise...",
+            "url": "https://www.cnn.com/2024/04/22/health/weight-loss-plateau-study-wellness/index.html",
+            "urlToImage": "https://media.zenfs.com/en/aol_cnn_articles_945/b0e106b85840fadd063998cd8df040db",
+            "publishedAt": "2024-04-22T09:50:05Z",
+            "content": "Whether youre shedding pounds with the help of effective new medicines, slimming down after weight loss surgery or cutting calories and adding exercise, there will come a day when the numbers on the … [+8339 chars]"
+        },
+        {
+            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -417,6 +573,32 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5FV3DSXAWNE27FRLEGLMMVA3P4.jpg&w=1440",
             "publishedAt": "2024-04-22T09:33:38Z",
             "content": "More than 1 in 10 children in the United States about 11 percent of those ages 5 to 17 have been diagnosed with attention-deficit/hyperactivity disorder (ADHD), according to a report from the Nationa… [+1623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tampa Bay Times"
+            },
+            "author": "Michaela Mulligan",
+            "title": "Are pollen allergies in Florida worse this year? Is climate change to blame? - Tampa Bay Times",
+            "description": "Changes in the pollen season have larger implications for personal health and our delicate ecosystems.",
+            "url": "https://www.tampabay.com/news/environment/2024/04/22/pollen-allergy-symptoms-season-florida-climate-change/",
+            "urlToImage": "https://www.tampabay.com/resizer/2Jn6s1oO7ZGSpS_jNkoeQGutQ0k=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/4WQ32YG5WZHHJM265HAMYG3HQE.jpg",
+            "publishedAt": "2024-04-22T09:33:21Z",
+            "content": "Spring has more than sprung. It has erupted in Tampa Bay.\r\nOver the past few month, piles of pollen have accumulated in clumps of snot-inducing confetti. Cars have a sickly green tint to them. And wh… [+7871 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Daryl Austin",
+            "title": "How to lower blood sugar and prevent blood sugar crashes - USA TODAY",
+            "description": "Though a blood sugar crash isn't usually anything to be overly concerned about, it's a good reminder that what we eat affects how we feel.",
+            "url": "https://www.usatoday.com/story/life/health-wellness/2024/04/22/how-to-lower-blood-sugar/73112009007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/images/10BEST/2023/11/22/USAT/71674489007-10BEST-409475-GettyImages-1430305417.jpeg?crop=989,556,x0,y0&width=989&height=556&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-22T09:05:36Z",
+            "content": "If you've ever eaten dessert on an empty stomach, chances are you've experienced what's known as a blood sugar \"crash.\" The cells in your body don't get enough energy, so you often end up feeling tir… [+3800 chars]"
         },
         {
             "source": {
@@ -472,6 +654,19 @@
         },
         {
             "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": "Rachel Fairbank",
+            "title": "Can aspirin help protect against colorectal cancers? - National Geographic",
+            "description": "A new study details how a daily dose could prevent or delay the progression of the world’s third most common type of cancer.",
+            "url": "https://www.nationalgeographic.com/premium/article/aspirin-immune-system-detect-target-cancer-cells",
+            "urlToImage": "https://i.natgeofe.com/n/c2281d9a-6b76-466c-a57a-e3b4f5cacfbd/NationalGeographic_1136135_16x9.jpg?w=1200",
+            "publishedAt": "2024-04-22T07:17:23Z",
+            "content": "Aspirin is well known for its ability to ease pain from muscle aches and headaches; it reduces fevers; and low doses can thin blood, reducing the chance of clots that cause strokes and heart attacks.… [+1661 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -482,19 +677,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a75a/live/9ee81da0-fda4-11ee-97f7-e98b193ef1b8.png",
             "publishedAt": "2024-04-22T06:06:33Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "STAT"
-            },
-            "author": "Helen Branswell",
-            "title": "H5N1 bird flu genetic sequences released by USDA - STAT - STAT",
-            "description": "Under pressure from scientists to share more data on the H5N1 avian flu outbreaks in dairy cows, the USDA uploaded 239 genetic sequences of the virus.",
-            "url": "https://www.statnews.com/2024/04/21/usda-releases-h5n1-bird-flu-genetic-data-eagerly-awaited-by-scientists/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/04/1841-1024x576.jpg",
-            "publishedAt": "2024-04-22T06:00:00Z",
-            "content": "The U.S. Department of Agriculture, which has been under pressure from scientists both at home and abroad to share more data on the H5N1 bird flu outbreaks in dairy cows, uploaded a large number of g… [+2675 chars]"
         },
         {
             "source": {
@@ -538,6 +720,19 @@
         {
             "source": {
                 "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Groundbreaking AI Method Identifies New Parkinson's Treatments 10x Faster - SciTechDaily",
+            "description": "Researchers have leveraged artificial intelligence methods to significantly speed up the discovery of treatments for Parkinson’s disease. The researchers, from the University of Cambridge, designed and used an AI-based strategy to identify compounds that bloc…",
+            "url": "https://scitechdaily.com/groundbreaking-ai-method-identifies-new-parkinsons-treatments-10x-faster/",
+            "urlToImage": "https://scitechdaily.com/images/Brain-Technology-Artificial-Intelligence-Concept-Illustration.jpg",
+            "publishedAt": "2024-04-21T23:47:58Z",
+            "content": "Researchers at the University of Cambridge have employed artificial intelligence to expedite the discovery of treatments for Parkinson’s disease by screening millions of compounds, ultimately identif… [+5523 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Kstp.com"
             },
             "author": "Renee Cooper",
@@ -573,19 +768,6 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/health-weekend-read.jpg",
             "publishedAt": "2024-04-21T18:04:00Z",
             "content": "Fox News Digital publishes an array of health pieces all week long to keep you in the know on a range of wellness topics: health care access, innovative surgeries, cancer research, mental health tren… [+2917 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Villages-News"
-            },
-            "author": "Gabe Mirkin",
-            "title": "Lifestyle changes can help prevent dementia - Villages-News",
-            "description": "A new study found that a two-year program of personalized instruction on specific lifestyle changes helped to delay and prevent loss of memory.",
-            "url": "https://www.villages-news.com/2024/04/21/lifestyle-changes-can-help-prevent-dementia/",
-            "urlToImage": "https://www.villages-news.com/wp-content/uploads/2015/05/Pickleball-courts.jpg",
-            "publishedAt": "2024-04-21T17:00:28Z",
-            "content": "Dr. Gabe Mirkin\r\nA new study found that a two-year program of personalized instruction on specific lifestyle changes helped to delay and prevent loss of memory in a study group of 172 people who were… [+2810 chars]"
         },
         {
             "source": {
@@ -641,71 +823,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "PsyPost"
-            },
-            "author": "Vladimir Hedrih",
-            "title": "Nucleus accumbens seems to play key role in relationship between stress and depression - PsyPost",
-            "description": "Individuals with severe depressive symptoms and those experiencing stressful life events show significant alterations in the nucleus accumbens volume and other brain regions, highlighting a bidirectional relationship.",
-            "url": "https://www.psypost.org/nucleus-accumbens-seems-to-play-key-role-in-relationship-between-stress-and-depression/",
-            "urlToImage": "https://www.psypost.org/wp-content/uploads/2016/09/brain.jpg",
-            "publishedAt": "2024-04-21T12:09:35Z",
-            "content": "Individuals with stronger depressive symptoms and those who experienced stressful life events tend to show alterations in volume of the nucleus acumbens, according to new research. Additional changes… [+5268 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "LADbible"
-            },
-            "author": null,
-            "title": "NHS shares cancer signs to look out for as woman who ignored 'embarrassing symptom' gets sad diagnosis - LADbible",
-            "description": "The NHS has shared signs of cancer to be on the lookout for and they're not to be ignored.",
-            "url": "https://www.ladbible.com/news/health/nhs-cancer-warning-signs-ignored-907763-20240421",
-            "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt6b0660b2935447cd/6624f60e62a7d22c09b46161/bowel-cancer-symptoms.png",
-            "publishedAt": "2024-04-21T11:34:38Z",
-            "content": "A woman who was diagnosed with stage 3 cancer ended up sharing her story in the hopes that others wouldn't overlook symptoms as she did.\r\nJelena Tompkins noticed something was off in 2016, but dismis… [+2587 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Healthdigest.com"
-            },
-            "author": "Erin Marie",
-            "title": "Putting Banana Peels Under Your Eyes Has An Unforeseen Benefit - Health Digest",
-            "description": "It may sound a bit odd at first, but putting food on your face for skincare reasons isn&amp;#39;t a completely new concept. But why would one do that with banana peels?",
-            "url": "https://www.healthdigest.com/1562075/put-banana-peel-under-eyes-benefit-depuff/",
-            "urlToImage": "https://www.healthdigest.com/img/gallery/putting-banana-peels-under-your-eyes-has-an-unforeseen-benefit/l-intro-1713184644.jpg",
-            "publishedAt": "2024-04-21T11:30:37Z",
-            "content": "While beauty influencers may be onto something when it comes to DIY banana peel treatments under the eyes, no scientific research has been conducted on the subject yet. Therefore, like most social me… [+1072 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Best Life"
-            },
-            "author": "Zachary Mack",
-            "title": "5 Signs of Vitamin B12 Deficiency, Doctors Say — Best Life - Best Life",
-            "description": "From anemia to mouth soreness, these are the signs you're not getting enough vitamin B12, according to doctors and nutritionists.",
-            "url": "https://bestlifeonline.com/vitamin-b12-deficiency/",
-            "urlToImage": "https://bestlifeonline.com/wp-content/uploads/sites/3/2024/04/senior-man-taking-medicine-signs-not-getting-enough-vitamin-b.jpg?quality=82&strip=all",
-            "publishedAt": "2024-04-21T11:04:06Z",
-            "content": "Maintaining a balanced diet is crucial to your health, and not just for keeping cardiovascular disease and weight gain at bay. It also helps ensure you're getting all of the essential vitamins and mi… [+4170 chars]"
-        },
-        {
-            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -729,123 +846,6 @@
             "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/04/prn-button.jpg",
             "publishedAt": "2024-04-21T10:06:49Z",
             "content": "Recent research published in The Journal of Sex Research has uncovered intriguing findings about how different types of pornographic content are related to sexual satisfaction and function among youn… [+7446 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "Maisie Lillywhite & Nicky Price - BBC News, West of England",
-            "title": "Woman diagnosed with bowel cancer days after her mum - Yahoo! Voices",
-            "description": "Rhiannon Tudor and her mum Catherine got their diagnoses just days apart in 2022.",
-            "url": "https://www.bbc.com/news/uk-england-gloucestershire-68837097?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Jy9J_D3ROzbLKwHue75GzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bbc_us_articles_995/fe3db79c76ab2e707d092d7568fe0410",
-            "publishedAt": "2024-04-21T08:16:38Z",
-            "content": "A woman diagnosed with stage four bowel cancer just days after her mum's own diagnosis is putting her efforts into supporting cancer research.\r\nRhiannon Tudor's mum was diagnosed with stage three bow… [+2320 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ISRAEL21c"
-            },
-            "author": "John Jeffay",
-            "title": "Research uncovers hidden link between heart attacks and cancer - ISRAEL21c",
-            "description": "The discovery could lead to more advanced care in the field of post-cardiac arrest treatment.",
-            "url": "https://www.israel21c.org/research-uncovers-hidden-link-between-heart-attacks-and-cancer/",
-            "urlToImage": "https://static.israel21c.org/www/uploads/2024/04/shutterstock_2216324947_2216324947-1.jpg",
-            "publishedAt": "2024-04-21T07:29:28Z",
-            "content": "Researchers in Israel say they now understand why patients who have suffered a heart attack are more likely to develop cancer; their findings could result in improved treatments for cardiac patients,… [+3188 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Aditi Srivastava",
-            "title": "Disease X: Scientists warn next pandemic could be triggered by virus of ‘deadly infectious illness' - Hindustan Times",
-            "description": "Experts warn of Disease X as a potential cause of the next pandemic, with influenza identified as a major threat.",
-            "url": "https://www.hindustantimes.com/world-news/us-news/disease-x-scientists-warn-next-pandemic-could-be-triggered-by-virus-of-deadly-infectious-illness-101713678130877.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/21/1600x900/PTI04-19-2024-000485B-0_1713678453607_1713678482126.jpg",
-            "publishedAt": "2024-04-21T05:52:01Z",
-            "content": "Sounding the alarm for a potential future crisis, scientists warn that the next pandemic might be caused by Disease X. Influenza, a familiar foe associated with seasonal illness, has emerged as a pos… [+3009 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Guardian Nigeria"
-            },
-            "author": "Guardian Nigeria",
-            "title": "How new mosquito nets averted 13 million malaria cases - Guardian Nigeria",
-            "description": "Ahead of World Malaria Day (WMD) 2024, April 25, the Global Funds to Fight AIDS, TB and Malaria, has said compared to standard nets, the introduction of 56 million state-of-the-art mosquito nets in Nigeria, 16 other countries across sub-Saharan Africa averted…",
-            "url": "https://guardian.ng/sunday-magazine/newsfeature/how-new-mosquito-nets-averted-13-million-malaria-cases/",
-            "urlToImage": "https://guardian.ng/wp-content/uploads/2024/04/WE-1.jpg",
-            "publishedAt": "2024-04-21T03:18:00Z",
-            "content": ".24,600 deaths in Nigeria, 16 other African countries \r\nAhead of World Malaria Day (WMD) 2024, April 25, the Global Funds to Fight AIDS, TB and Malaria, has said compared to standard nets, the introd… [+11843 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Medicines Aren't Very Effective for IBS: Scientists Found What Works Better - SciTechDaily",
-            "description": "Dietary treatment is more effective than medications in irritable bowel syndrome (IBS). These are the findings of a study conducted at the University of Gothenburg. With dietary adjustments, more than seven out of ten patients had significantly reduced sympto…",
-            "url": "https://scitechdaily.com/medicines-arent-very-effective-for-ibs-scientists-found-what-works-better/",
-            "urlToImage": "https://scitechdaily.com/images/Stomach-Pain-Stomachache-IBS.jpg",
-            "publishedAt": "2024-04-21T02:51:14Z",
-            "content": "A recent study examined the effectiveness of three different treatments for IBS, revealing that dietary adjustments, particularly those low in FODMAPs and carbohydrates, are more effective in reducin… [+3946 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "The Conversation",
-            "title": "Scientists Identify a Link Between Sleep And Type 2 Diabetes Risk - ScienceAlert",
-            "description": "Not getting enough sleep is a common affliction in the modern age.",
-            "url": "https://www.sciencealert.com/scientists-identify-a-link-between-sleep-and-type-2-diabetes-risk",
-            "urlToImage": "https://www.sciencealert.com/images/2024/04/alwarm_clock_waking_diabetes.jpg",
-            "publishedAt": "2024-04-21T00:32:17Z",
-            "content": "Not getting enough sleep is a common affliction in the modern age. If you don't always get as many hours of shut-eye as you'd like, perhaps you were concerned by news of a recent study that found peo… [+5577 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Post Magazine"
-            },
-            "author": null,
-            "title": "Man had rare Covid infection that lasted 613 days, showed extensive mutations - South China Morning Post",
-            "description": "Cases like this increase the risk of more dangerous coronavirus variants emerging, researchers say.",
-            "url": "https://www.scmp.com/news/world/europe/article/3259776/man-had-rare-covid-infection-lasted-613-days-showed-extensive-mutations",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/04/21/124d9afe-5139-412c-a106-db0c98bff94c_2e19bcfb.jpg?itok=eacpEY0o&v=1713650484",
-            "publishedAt": "2024-04-20T22:01:31Z",
-            "content": "Researchers from the Netherlands have reported an extremely long Covid-19 infection in a man who died last year and warn of the emergence of more dangerous variants of the coronavirus.\r\nThe elderly m… [+2246 chars]"
         },
         {
             "source": {

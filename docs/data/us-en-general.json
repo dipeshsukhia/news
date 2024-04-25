@@ -1,19 +1,214 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Arizona Sports"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": ", Dan Bickley",
-            "title": "Bickley: Suns look ready for offseason with Game 2 loss to Wolves - Arizona Sports",
-            "description": "The best three players in the Suns' Game 2 loss were all Timberwolves. Phoenix seems ready for a long offseason more than a playoff run.",
-            "url": "https://arizonasports.com/story/3546602/bickley-suns-look-ready-offseason-game-2-loss-wolves/",
-            "urlToImage": "http://arizonasports.com/wp-content/uploads/2024/04/mike-conley-bradley-beal-game-2-suns-wolves-e1713928095138.jpg",
-            "publishedAt": "2024-04-24T03:11:00Z",
-            "content": "Pressure can turn cracks into canyons. It can turn mountains into rubble.\r\nThe Suns are almost in ruins.\r\nIt wasnt the lack of fight in a 105-93 loss to the Timberwolves in Game 2 of the Western Conf… [+2392 chars]"
+            "author": "Natasha Bertrand, Alex Marquardt",
+            "title": "New US military aid package to Ukraine expected to be worth around $1 billion - CNN",
+            "description": "The Biden administration is preparing a new aid package for Ukraine that is expected to be worth around $1 billion, multiple sources familiar with the matter told CNN.",
+            "url": "https://www.cnn.com/2024/04/23/politics/us-ukraine-military-aid-package/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230714170843-atacms-file-2021.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-24T10:16:00Z",
+            "content": "The Biden administration is preparing a new aid package for Ukraine that is expected to be worth around $1 billion, multiple sources familiar with the matter told CNN.\r\nThe Senate passed the legislat… [+3723 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "US Senate passes TikTok divestment-or-ban bill, Biden set to make it law - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/us/senators-hope-tiktok-will-remain-business-us-under-new-owner-2024-04-23/",
+            "urlToImage": null,
+            "publishedAt": "2024-04-24T10:06:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Tesla profits cut in half as demand falls - BBC.com",
+            "description": "The EV maker brings forward launch plans for new models as profits drop by more than half.",
+            "url": "https://www.bbc.com/news/articles/c72pvz18x4lo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6696/live/460a1f90-01bd-11ef-911a-89ede1ae3943.jpg",
+            "publishedAt": "2024-04-24T09:40:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annika Kim Constantino",
+            "title": "More than 3 million Medicare patients could be eligible for coverage of Wegovy to reduce heart disease risks, study says - CNBC",
+            "description": "For the first time, some Medicare beneficiaries will be able to access Novo Nordisk's Wegovy without having to shoulder the total monthly price tag.",
+            "url": "https://www.cnbc.com/2024/04/24/wegovy-3point6-million-medicare-patients-could-get-heart-health-coverage.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107388183-17105168322024-03-08t155804z_1586224836_rc2kh6a50cn0_rtrmadp_0_totw-obesity.jpeg?v=1710516917&w=1920&h=1080",
+            "publishedAt": "2024-04-24T09:00:01Z",
+            "content": "More than 3 million people with Medicare could be eligible for coverage of Wegovy now that the blockbuster weight loss drug is also approved in the U.S. for heart health, according to an analysis rel… [+3919 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "POLITICO",
+            "title": "How McConnell and Schumer beat hardline conservatives on Ukraine - POLITICO",
+            "description": null,
+            "url": "https://www.politico.com/news/2024/04/24/mitch-mcconnell-israel-ukraine-aid-00153990",
+            "urlToImage": null,
+            "publishedAt": "2024-04-24T09:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Columbia University: Pro-Palestinian protesters refuse to disband - BBC.com",
+            "description": "A deadline for pro-Palestinian protesters to disband from the university's main campus was set for midnight.",
+            "url": "https://www.bbc.com/news/world-us-canada-68883271",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58D5/production/_133214722_84b134acf0ace17ee408d1376b8c51b49688aca9.jpg",
+            "publishedAt": "2024-04-24T08:49:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2024 NFL Mock Draft: Brinson's Worst Mock Ever designed to anger every single NFL fan base - CBS Sports",
+            "description": "Will Brinson trolls his boat once again",
+            "url": "https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-brinsons-worst-mock-ever-designed-to-anger-every-single-nfl-fan-base/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/04/17/0e98acb0-a94b-49bd-94a4-e3053b13e4ad/thumbnail/1200x675/9a41c3a0c320997eed683d1378f0fb78/mccarthy.jpg",
+            "publishedAt": "2024-04-24T06:43:00Z",
+            "content": "Last year I finally did something I'd been meaning to do for years, putting together the WORST MOCK DRAFT EVER. The purpose? To troll every single NFL fan base (or at least as many as possible) with … [+1565 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Oliver Knight",
+            "title": "Tether Will Freeze Wallets Evading Venezuelan Sanctions - CoinDesk",
+            "description": "Use of Tether has increased in Venezuela after the U.S. reimposed sanctions on oil exports.",
+            "url": "https://www.coindesk.com/policy/2024/04/24/tether-will-freeze-wallets-evading-venezuelan-sanctions/",
+            "urlToImage": "https://www.coindesk.com/resizer/8cx1BDQoNSgSB2YIeTEuVe6fezU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IITCU4WJYVBGVFHB6CYNBEIK3I.JPG",
+            "publishedAt": "2024-04-24T06:31:00Z",
+            "content": "<ul><li>A tether spokesperson said that it will freeze addresses linked to evading sanctions.\r\n</li><li>Reuters reported earlier this week that Venezuelan oil company PDVSA was using USDT via interme… [+1961 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Colby Itkowitz, Dylan Wells",
+            "title": "Summer Lee wins Pennsylvania primary, despite criticism of Israel-Gaza war - The Washington Post",
+            "description": "The race in Pennsylvania’s 12th District was considered a first test for the “Squad” of left-wing, progressive Democrats in Congress.",
+            "url": "https://www.washingtonpost.com/politics/2024/04/23/pennsylvania-primary-election-summer-lee-win/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RH3LSHF7FJ3MOJ2EA7Y2H5COUM.JPG&w=1440",
+            "publishedAt": "2024-04-24T05:37:00Z",
+            "content": "Rep. Summer Lee, a far-left Democrat who has been critical of Israels military actions in Gaza, prevailed in Tuesdays Pennsylvania primary election, which served as a microcosm of the larger intrapar… [+5797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Luka Doncic (32 points) Highlights vs. LA Clippers | 4/23/24 - Dallas Mavericks",
+            "description": "Luka Doncic (32 points) Highlights vs. LA ClippersJoin Club Maverick!Check out the Mavs 2023-24 season tickets:https://www.mavs.com/tickets/DALLAS MAVERICKS ...",
+            "url": "https://www.youtube.com/watch?v=EPVnNWeTp78",
+            "urlToImage": "https://i.ytimg.com/vi/EPVnNWeTp78/maxresdefault.jpg",
+            "publishedAt": "2024-04-24T05:22:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox Business",
+            "title": "Oracle announces plans to move world headquarters to Nashville - New York Post ",
+            "description": "Back in 2022, Oracle acquired Cerner for $28 billion. The Kansas City, Missouri-based company provides software for managing electronic health records.",
+            "url": "https://nypost.com/2024/04/24/business/oracle-announces-plans-to-move-world-headquarters-to-nashville/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-8i2cj5x89-1713934139434.jpg?quality=75&strip=all&1713919768&w=1024",
+            "publishedAt": "2024-04-24T05:03:00Z",
+            "content": "Oracle founder Larry Ellison announced Tuesday that he plans to move the software giants corporate headquarters to Nashville, Tennessee, which he added is at the center of the healthcare industry.\r\nE… [+2267 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "POLITICO",
+            "title": "Tennessee lawmakers pass bill to allow teachers to be armed - POLITICO",
+            "description": null,
+            "url": "https://www.politico.com/news/2024/04/24/tennessee-lawmakers-pass-bill-to-allow-teachers-to-be-armed-00154042",
+            "urlToImage": null,
+            "publishedAt": "2024-04-24T04:28:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Stephen Collinson",
+            "title": "How a gag order showdown explains everything about Trump - CNN",
+            "description": "Prosecutor Christopher Conroy captured the quintessential Donald Trump in a single sentence at the ex-President’s hush money trial on Tuesday.",
+            "url": "https://www.cnn.com/2024/04/23/politics/donald-trump-gag-order-analysis/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2149316078.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-24T04:03:03Z",
+            "content": "Prosecutor Chris Conroy captured the quintessential Donald Trump in a single sentence at the ex-presidents hush money trial on Tuesday.\r\nHe knows what hes not allowed to do, and he does it anyway.\r\nC… [+8504 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Houston Texans uniform reveal: Franchise unveils historic new look - USA TODAY",
+            "description": "The Houston Texans unveiled a bold shift in their look on Tuesday with new uniforms, with their alternate and Color Rush looks getting big changes.",
+            "url": "https://www.usatoday.com/story/sports/nfl/texans/2024/04/23/houston-texans-uniform-photos-helmet-jersey-redesign/73424746007/",
+            "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2024/04/23/USAT/73425020007-2024-texans-rebrand-assets-external-media-0004.jpg?auto=webp&crop=5744,3231,x41,y230&format=pjpg&width=1200",
+            "publishedAt": "2024-04-24T03:45:00Z",
+            "content": "Since they first took an NFL field in 2002, the Houston Texans have pretty much looked the same.\r\nNo more and not simply because quarterback C.J. Stroud and a loaded roster could be headed to new hei… [+2409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FOX 35 Orlando"
+            },
+            "author": "FOX 35 Orlando",
+            "title": "SpaceX's Falcon 9 rocket launches more satellites into space - FOX 35 Orlando",
+            "description": "Nearly two dozen of SpaceX's Starlink satellites were launched into space Tuesday from Florida's Kennedy Space Center.",
+            "url": "https://www.fox35orlando.com/news/spacex-set-to-launch-falcon-9-rocket-carrying-starlink-satellites-from-florida-tuesday-evening",
+            "urlToImage": "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/04/1280/720/GettyImages-2021273237-1.jpg?ve=1&tl=1",
+            "publishedAt": "2024-04-24T03:24:24Z",
+            "content": "CAPE CANAVERAL, Fla. - Nearly two dozen of SpaceX's Starlink satellites were launched into space Tuesday from Florida's Kennedy Space Center.\r\nSpaceX's Falon 9 rocket lifted off from Space Launch Com… [+711 chars]"
         },
         {
             "source": {
@@ -30,54 +225,28 @@
         },
         {
             "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Devin Dwyer",
+            "title": "Supreme Court takes up Trump's claim of 'absolute immunity' from criminal prosecution - ABC News",
+            "description": "The fate of his federal criminal Jan. 6 trial hinges on the court's decision.",
+            "url": "https://abcnews.go.com/Politics/supreme-court-takes-trumps-claim-absolute-immunity-criminal/story?id=109251013",
+            "urlToImage": "https://i.abcnewsfe.com/a/8052b717-83e3-468d-b01f-55f5bee42e48/donald-trump-4-gty-gmh-240422_1713816390447_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-24T02:42:16Z",
+            "content": "Against the backdrop of a divisive 2024 presidential campaign, the U.S. Supreme Court on Thursday will take up the monumental question of whether a former president turned presumptive GOP nominee can… [+5754 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "NBCSports.com"
+                "name": "YouTube"
             },
-            "author": "Charean Williams",
-            "title": "Report: Broncos have done a lot of work on Oregon QB Bo Nix - NBC Sports",
-            "description": "Hall of Famer Peyton Manning said the Broncos are \"very interested\" in Michigan quarterback J.J.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-broncos-have-done-a-lot-of-work-on-oregon-qb-bo-nix",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/fab5785/2147483647/strip/true/crop/5616x3159+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2F22%2F7263b9b741e9bb400a331b293b77%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2049588940",
-            "publishedAt": "2024-04-24T02:07:43Z",
-            "content": "Hall of Famer Peyton Manning said the Broncos are very interested in Michigan quarterback J.J. McCarthy. But McCarthy apparently isnt the only top-rated quarterback prospect the Broncos have interest… [+614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Cristiano Lima-Strong",
-            "title": "Senate passes possible TikTok ban, sends to Biden who’s expected to sign it - The Washington Post",
-            "description": "Lawmakers sped a possible TikTok ban through Congress by tying it to a sprawling funding package offering aid to Israel, Ukraine and Taiwan.",
-            "url": "https://www.washingtonpost.com/technology/2024/04/23/tiktok-ban-senate-vote-sale-biden/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XB7VC5DDG5NAUTR56HXGXGOZAE_size-normalized.jpg&w=1440",
-            "publishedAt": "2024-04-24T01:55:07Z",
-            "content": "Congress late Tuesday passed legislation to ban or force a sale of TikTok, delivering a historic rebuke of the video-sharing platforms Chinese ownership after years of failed attempts to tackle the a… [+8270 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "MICHAEL R. SISAK, JENNIFER PELTZ, ERIC TUCKER, JAKE OFFENHARTZ",
-            "title": "Trump hush money trial: Tabloid publisher David Pecker testifies - The Associated Press",
-            "description": "A veteran tabloid publisher has testified that he pledged to be Donald Trump’s “eyes and ears” during his 2016 presidential campaign, recounting for a jury how he promised the then-candidate that he would help suppress harmful stories and had even arranged to…",
-            "url": "https://apnews.com/article/trump-trial-hush-money-national-enquirer-d44d4a7ce66cc08edb5981b3afb882ba",
-            "urlToImage": "https://dims.apnews.com/dims4/default/7b230cf/2147483647/strip/true/crop/7751x4360+0+404/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F76%2F9f%2Fb9739a63578946cc046802fdfdbd%2Fed77e8b4d0c04bac8774a6ecd1a9ce73",
-            "publishedAt": "2024-04-24T01:25:00Z",
-            "content": "NEW YORK (AP) A veteran tabloid publisher testified Tuesday that he pledged to be Donald Trump s eyes and ears during his 2016 presidential campaign, recounting how he promised the then-candidate tha… [+8299 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "The Hill",
-            "title": "UN calls for investigation into mass graves found at Gaza hospitals - The Hill",
-            "description": null,
-            "url": "https://thehill.com/policy/international/4616720-un-calls-for-investigation-into-mass-graves-found-at-gaza-hospitals/",
-            "urlToImage": null,
-            "publishedAt": "2024-04-24T01:12:00Z",
+            "author": null,
+            "title": "#6 SUNS at #3 TIMBERWOLVES | FULL GAME 2 HIGHLIGHTS | April 23, 2024 - NBA",
+            "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.Download now: https://link.n...",
+            "url": "https://www.youtube.com/watch?v=vzql7IiLmlA",
+            "urlToImage": "https://i.ytimg.com/vi/vzql7IiLmlA/maxresdefault.jpg",
+            "publishedAt": "2024-04-24T02:22:52Z",
             "content": null
         },
         {
@@ -86,38 +255,77 @@
                 "name": "The Hill"
             },
             "author": "Nick Robertson",
-            "title": "Bird flu virus detected in pasteurized milk: FDA - The Hill",
-            "description": "Particles of bird flu were detected in some samples of pasteurized milk, though the virus in that form is not a threat to humans, the Food and Drug Administration (FDA) announced Tuesday. As a bird flu epidemic spreads through avian and cattle livestock acros…",
-            "url": "https://thehill.com/policy/healthcare/4616539-bird-flu-virus-detected-in-pasteurized-milk-fda/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/12/cows_Cattle_istock_1206.webp?w=1280",
-            "publishedAt": "2024-04-24T01:00:00Z",
-            "content": "Skip to content\r\nParticles of bird flu were detected in some samples of pasteurized milk, though the virus in that form is not a threat to humans, the Food and Drug Administration (FDA) announced Tue… [+1135 chars]"
+            "title": "UN calls for investigation into mass graves found at Gaza hospitals - The Hill",
+            "description": "United Nations leaders demanded a “clear, transparent and credible” investigation Tuesday after mass graves containing the bodies of hundreds of men and women were discovered on the grounds of two major hospitals in Gaza that were previously under assault by …",
+            "url": "https://thehill.com/policy/international/4616720-un-calls-for-investigation-into-mass-graves-found-at-gaza-hospitals/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/04/GettyImages-2148009059-2.jpg?w=1280",
+            "publishedAt": "2024-04-24T01:12:00Z",
+            "content": "Skip to content\r\nUnited Nations leaders demanded a “clear, transparent and credible” investigation Tuesday after mass graves containing the bodies of hundreds of men and women were discovered on the … [+2674 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": null,
+                "name": "New York Post"
             },
-            "author": "John Bacon, Eduardo Cuevas, Anna Kaufman, Jorge L. Ortiz",
-            "title": "Israeli war fuels protests at Columbia, other colleges: Live updates - USA TODAY",
-            "description": "Columbia University, the epicenter of the demonstrations, said classes will provide a virtual learning option through the end of the semester.",
-            "url": "https://www.usatoday.com/story/news/nation/2024/04/23/israel-war-student-protests-live-updates/73421968007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/23/USAT/73428203007-20240423-t-180739-z-2075040463-rc-2-hc-7-ahzscp-rtrmadp-3-israelpalestiniansusaprotests.JPG?crop=3497,1967,x4,y212&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2024-04-24T00:22:30Z",
-            "content": "NEW YORK Protests resumed Tuesday at NYU, Columbia and elsewhere as colleges across the nation grappled with more unrest after days of demonstrations, campus closures and arrests swirling around U.S.… [+18526 chars]"
+            "author": "Katherine Donlevy",
+            "title": "Ex-school cop Elias Huizar shot himself in head while on run with 1-year-old son after allegedly gunning down ex-wife, teen girlfriend: police - New York Post ",
+            "description": "Oregon state troopers found Elias Huizar’s wounded body following a police chase near Eugene, Oregon, around 3 p.m. Tuesday.",
+            "url": "https://nypost.com/2024/04/23/us-news/ex-cop-elias-huizar-found-with-self-inflicted-gunshot-wound-after-police-chase/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/Huizar2.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-04-24T01:09:00Z",
+            "content": "The ex-Washington school cop who allegedly slaughtered his ex-wife and underage girlfriend before taking the teenager’s infant on the run has been found with a self-inflicted gunshot wound to the hea… [+2978 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": null,
+                "name": "Hollywood Reporter"
             },
-            "author": null,
-            "title": "Pennsylvania primary election results 2024 - CBS Philly",
-            "description": "Get live results of Pennsylvania's primary election.",
-            "url": "https://www.cbsnews.com/philadelphia/news/pennsylvania-primary-election-results-2024/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2012/11/02/1b4c3f7b-1470-4ae2-8105-fe3cbf77bb2b/thumbnail/1200x630g2/87f42048aeeb0b0396bff7630bfc9177/election-results.jpg?v=1da0267dcfd5e1d387d4678a648e733c",
-            "publishedAt": "2024-04-24T00:02:13Z",
-            "content": "PHILADELPHIA (CBS) — Polls across Pennsylvania are closed and results for the 2024 primary election are pouring in. See live results of Pennsylvania's attorney general race, U.S. House and other stat… [+3460 chars]"
+            "author": "Carly Thomas",
+            "title": "Glen Powell Credits Sydney Sweeney for Successful ‘Anyone But You’ Marketing Campaign - Hollywood Reporter",
+            "description": "“That’s people wanting what’s on the screen off the screen, and sometimes you just have to lean into it a bit — and it worked wonderfully,\" the actor says.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/glen-powell-sydney-sweeney-anyone-but-you-marketing-campaign-1235879925/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/12/MCDANBU_SP005-copy.jpg?w=1024",
+            "publishedAt": "2024-04-24T00:53:00Z",
+            "content": "Glen Powell is giving credit where credit is due regarding his Anyone But You co-star Sydney Sweeney.\r\nIn a recent interview with The New York Times, the actor praised the Euphoria star for the role … [+2335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Winston Cho",
+            "title": "A Ban on Noncompetes Could Raise Pay — And Complicate Contracts — In Hollywood - Hollywood Reporter",
+            "description": "The FTC on Tuesday voted to prohibit noncompete provisions in contracts, which could usher in a sea change to worker mobility and how companies structure contracts to protect proprietary information.",
+            "url": "http://www.hollywoodreporter.com/business/business-news/ban-noncompetes-could-raise-pay-complicate-contracts-hollywood-1235879986/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/04/Lina-Khan-Dealbook-Summit-GettyImages-1820955015-H-2024.jpg?w=1024",
+            "publishedAt": "2024-04-24T00:45:00Z",
+            "content": "Employers have been banned from adopting or enforcing clauses restricting workers’ ability to move to competitors, marking a pivotal change to the employment landscape that could improve working cond… [+8105 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Danielle Healy",
+            "title": "26 Products You Need If Spring Meets Allergies For You - BuzzFeed",
+            "description": "Happy sneeze season to all who celebrate against their will.",
+            "url": "https://www.buzzfeed.com/daniellehealy/products-you-need-if-spring-meets-allergies-for-you",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-04/19/17/enhanced/71d476200380/original-700-1713547651-11.jpg?crop=1581:830;0,0%26downsize=1250:*",
+            "publishedAt": "2024-04-24T00:31:02Z",
+            "content": "The purifier filters allergens, mold, pet dander, dust, smoke, and cooking odors and covers up to 219 square feet. Plus, there's a smart indicator to let you know when it's time to put in a new repla… [+732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Nicki Cox",
+            "title": "Kim Kardashian wants Taylor Swift to 'move on' from feud after 'thanK you aIMee' diss: report - Page Six",
+            "description": "Kardashian “doesn’t get why [Swift] keeps harping on” their feud, which began in 2016 while she was still married to Kanye West.",
+            "url": "https://pagesix.com/2024/04/23/entertainment/kim-kardashian-wants-taylor-swift-to-move-on-from-feud-report/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/04/80570096.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-04-24T00:13:00Z",
+            "content": "Kim Kardashian wants Taylor Swift to “move on” from their years-old feud after the singer dropped an apparent diss track about the Skims founder on her 11th studio album, “The Tortured Poets Departme… [+4149 chars]"
         },
         {
             "source": {
@@ -134,19 +342,6 @@
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Emily Mae Czachor",
-            "title": "Former cop accused of murder, abduction, found with self-inflicted gunshot wound after manhunt, officials say - CBS News",
-            "description": "The former officer, Elias Huizar, is suspected of killing two women and abducting a child in central Washington.",
-            "url": "https://www.cbsnews.com/news/elias-huizar-manhunt-two-women-dead-child-abduction-washington-state-police/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/23/f1c98e78-160d-4a2a-8708-6338ba4f0501/thumbnail/1200x630/5bac38d2fa6d644d73a3fe862209bad9/elias-huizar.jpg?v=1da0267dcfd5e1d387d4678a648e733c",
-            "publishedAt": "2024-04-23T23:39:04Z",
-            "content": "A man suspected of murdering two women this week in central Washington state and abducting a 1-year-old child died of a self-inflicted gunshot wound after a police chase in Oregon, authorities said. … [+3409 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "YouTube"
             },
@@ -160,133 +355,55 @@
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": null,
+                "name": "Space.com"
             },
-            "author": "Tim Bontemps",
-            "title": "Sixers' Tyrese Maxey edges Coby White as NBA's most improved - ESPN",
-            "description": "Sixers guard Tyrese Maxey, who upped his scoring average to 25.9 points per game and was a first-time All-Star this season, edged the Bulls' Coby White for the NBA's most improved player.",
-            "url": "https://www.espn.com/nba/story/_/id/40011550/sixers-tyrese-maxey-edges-coby-white-nba-most-improved",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0413%2Fr1318185_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-04-23T23:25:00Z",
-            "content": "Philadelphia 76ers guard Tyrese Maxey was named the NBA's most improved player Tuesday night, beating out Chicago Bulls guard Coby White and Houston Rockets center Alperen Sengun.\r\nMaxey, 23, had a b… [+4019 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Kirsten Korosec, Sean O'Kane and Rebecca Bellan",
-            "title": "Tesla profits drop 55%, company says EV sales ‘under pressure’ from hybrids - TechCrunch",
-            "description": "Tesla profits fell 55% in the first quarter as a protracted EV price-cutting strategy cut into the automaker’s bottom line.",
-            "url": "https://techcrunch.com/2024/04/23/tesla-profits-drop-55-company-says-ev-sales-under-pressure-from-hybrids/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1434797485.jpg?resize=1200,675",
-            "publishedAt": "2024-04-23T23:15:00Z",
-            "content": "Tesla profits fell 55% to $1.13 billion in the first quarter from the same year-ago period as a protracted EV price-cutting strategy and “severalunforeseenchallenges” cut into the automakers bottom l… [+6602 chars]"
+            "author": "Mike Wall",
+            "title": "Rocket Lab launches new NASA solar sail tech to orbit (video, photos) - Space.com",
+            "description": "It was the second liftoff in a 16-minute span today (April 23), after a SpaceX Starlink launch.",
+            "url": "https://www.space.com/rocket-lab-nasa-solar-sail-tech-launch-april-2024",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9rpf6pzjTJbZ4nnLqumMxY-1200-80.jpg",
+            "publishedAt": "2024-04-23T23:26:50Z",
+            "content": "Rocket Lab launched a South Korean Earth-observation satellite and new NASA solar-sailing tech to orbit this evening (April 23).\r\nThe agency's Advanced Composite Solar Sail System, or ACS3 for short,… [+3793 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "New York Post"
             },
-            "author": null,
-            "title": "Rwanda bill passage draws election dividing line - BBC.com",
-            "description": "Ministers believe the novel deportation scheme is worth a try, but Labour plans to get rid of it.",
-            "url": "https://www.bbc.com/news/uk-politics-68880167",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/172DD/production/_133214949_mediaitem133214948.jpg",
-            "publishedAt": "2024-04-23T22:41:54Z",
+            "author": "Alex Mead",
+            "title": "Sahara dust cloud transforms Athens into eerie Martian landscape: photos - New York Post ",
+            "description": "Southern Greece experienced orange skies as dust clouds from the Sahara Desert descended over Athens, on Tuesday, April 23rd 2024.",
+            "url": "https://nypost.com/2024/04/23/photos/sahara-dust-cloud-transforms-athens-into-eerie-martian-landscape-photos/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-yavhn4fiy-1713910957203.jpg?quality=90&strip=all&1713896836&w=1024",
+            "publishedAt": "2024-04-23T22:36:00Z",
+            "content": "Southern Greece experienced orange skies as dust clouds from the Sahara Desert, carried by strong southerly winds, covered Athens, including landmarks like the Acropolis. This phenomenon gave the Gre… [+98 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WGN TV Chicago"
+            },
+            "author": "The Associated Press",
+            "title": "Millions of salaried workers will be eligible for overtime pay under new Biden rule - WGN TV Chicago",
+            "description": "The Biden administration has finalized a new rule set to make millions of more salaried workers eligible for overtime pay in the U.S.",
+            "url": "https://wgntv.com/news/millions-of-salaried-workers-will-be-eligible-for-overtime-pay-under-new-biden-rule/",
+            "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2024/04/GettyImages-149616162-e1713910968425.jpg?w=1280",
+            "publishedAt": "2024-04-23T22:35:05Z",
+            "content": "NEW YORK (AP) The Biden administration has finalized a new rule set to make millions of more salaried workers eligible for overtime pay in the U.S.\r\nThe move marks the largest expansion in federal ov… [+3299 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Michelle Ehrhardt",
+            "title": "How To Generate AI Images in Photoshop - Lifehacker",
+            "description": "Photoshop is finally ready to generate AI art.",
+            "url": "https://lifehacker.com/tech/photoshop-new-ai-image-tools",
+            "urlToImage": "https://lifehacker.com/imagery/articles/01HW6768SDYVJJ07ZTY31RQWSA/hero-image.fill.size_1200x675.png",
+            "publishedAt": "2024-04-23T21:30:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Eileen Reslen",
-            "title": "Megan Thee Stallion slams 'salacious accusations' in bombshell lawsuit: 'No sexual harassment claim was filed' - Page Six",
-            "description": "Videographer Emilio Garcia sued the rap superstar Tuesday, claiming he was allegedly forced to witness Megan having sex during a tour stop in Spain.",
-            "url": "https://pagesix.com/2024/04/23/entertainment/megan-thee-stallion-slams-salacious-accusations-in-bombshell-lawsuit/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/04/80568341.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-04-23T22:18:00Z",
-            "content": "Megan Thee Stallion is denying the scathing allegations made about her in a new harassment lawsuit filed against her Tuesday.\r\nThis is an employment claim for money — with no sexual harassment claim … [+2822 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "C-span.org"
-            },
-            "author": null,
-            "title": "Senate Minority Leader McConnell Holds News Conference - C-SPAN ",
-            "description": "\"This is an important day for America and a very important day for freedom-loving countries around the world,\" said Senate Republican Leader Mitch McConnell (KY) as he briefed the press on the Ukraine-Israel-Taiwan foreign aid package that was set to pass the…",
-            "url": "https://www.c-span.org/video/?535130-1/senate-minority-leader-mcconnell-holds-news-conference",
-            "urlToImage": "https://ximage.c-spanvideo.org/eyJidWNrZXQiOiJwaWN0dXJlcy5jLXNwYW52aWRlby5vcmciLCJrZXkiOiJGaWxlc1wvZGQ5XC8wMDFcLzE3MTM4OTgwOTRfMDAxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsImhlaWdodCI6NjMwLCJ3aWR0aCI6MTIwMH19fQ==",
-            "publishedAt": "2024-04-23T21:49:55Z",
-            "content": "April 23, 20242024-04-23T17:49:55-04:00https://ximage.c-spanvideo.org/eyJidWNrZXQiOiJwaWN0dXJlcy5jLXNwYW52aWRlby5vcmciLCJrZXkiOiJGaWxlc1wvZGQ5XC8wMDFcLzE3MTM4OTgwOTRfMDAxLmpwZyIsImVkaXRzIjp7InJlc2l6Z… [+1484 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Alex Stedman",
-            "title": "Quentin Tarantino Was Reportedly Toying With a 'Goodbye Meta-Verse' Idea for Scrapped Film The Movie Critic - IGN",
-            "description": "According to a THR report today, one of the ideas Quentin Tarantino was toying with for scrapped film The Movie Critic had it serving as a \"Tarantino goodbye meta-verse,\" weaving in stars and characters from his previous works.",
-            "url": "https://www.ign.com/articles/quentin-tarantino-was-reportedly-toying-with-a-goodbye-meta-verse-idea-for-scrapped-film-the-movie-critic",
-            "urlToImage": "https://assets-prd.ignimgs.com/2024/04/23/tarantino-1713908202908.jpg?width=1280",
-            "publishedAt": "2024-04-23T21:40:55Z",
-            "content": "More details have emerged about what was billed as Quentin Tarantino's 10th and final film, The Movie Critic, in the wake of the writer/director's shocking reported abandonment of the project last we… [+3332 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Rashard Rose, Piper HudspethBlackburn",
-            "title": "Santos ends congressional bid for New York’s 1st District - CNN",
-            "description": "Former New York Rep. George Santos, who was expelled from the House and is facing federal charges, announced Tuesday that he is withdrawing his bid for Congress in New York’s 1st District.",
-            "url": "https://www.cnn.com/2024/04/23/politics/george-santos-ends-independent-bid-new-york-1/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1824805064.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-23T21:33:45Z",
-            "content": "Former New York Rep. George Santos, who was expelled from the House and is facing federal charges, announced Tuesday that he is withdrawing his bid for Congress in New Yorks 1st District.\r\nSantos, wh… [+2064 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Veronica Stracqualursi",
-            "title": "Kari Lake bemoans fact that Arizona’s 1864 abortion ban is not being enforced, in another apparent shift - CNN",
-            "description": "Republican Senate candidate Kari Lake expressed regret in a recent interview that Arizona’s century-old abortion ban was not being enforced by the state’s Democratic leadership, remarks that appear at odds with her recent public opposition to the law.",
-            "url": "https://www.cnn.com/2024/04/23/politics/kari-lake-abortion-arizona/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2056670673.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-23T21:27:00Z",
-            "content": "Republican Senate candidate Kari Lake expressed regret in a recent interview that Arizonas century-old abortion ban was not being enforced by the states Democratic leadership, remarks that appear at … [+3144 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Stephen Quillen, Urooba Jamal, Farah Najjar",
-            "title": "Israel's war on Gaza updates: UNRWA in 'unprecedented crisis', says chief - Al Jazeera English",
-            "description": "Philippe Lazzarini tells Al Jazeera that Israel’s campaign against UNRWA aims to strip Palestinians of refugee status.",
-            "url": "https://www.aljazeera.com/news/liveblog/2024/4/23/israels-war-on-gaza-live-palestinians-urge-donors-to-resume-unrwa-funding",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/AFP__20240423__34Q23JG__v1__HighRes__PalestinianIsraelConflict-1713891088.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-04-23T21:20:30Z",
-            "content": "At least 32 Palestinians killed in 24 hours as Gaza medics scour mass grave site inside Khan Youniss Nasser Hospital with 310 bodies discovered so far."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "2024 NFL Mock Draft: Vikings trade up, land quarterback for Justin Jefferson, Brock Bowers finds his fit, more - CBS Sports",
-            "description": "If the NFL Draft plays out like this, it will be extra exciting for Fantasy Football managers",
-            "url": "https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-vikings-trade-up-land-quarterback-for-justin-jefferson-brock-bowers-finds-his-fit-more/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/04/03/db790452-b8f9-4c15-8fa5-03f6909a847a/thumbnail/1200x675/adb3659612905ccaf9f185a1129237fd/brock-bowers.jpg",
-            "publishedAt": "2024-04-23T21:06:54Z",
-            "content": "The 2024 NFL Draft is now just hours away and I'm sure you've read your fair share of mock drafts at this point. If you're anything like me, that means you wake up and consume a mock with your mornin… [+1313 chars]"
         },
         {
             "source": {
@@ -304,93 +421,15 @@
         {
             "source": {
                 "id": null,
-                "name": "BGR"
+                "name": "9to5google.com"
             },
-            "author": "Joshua Hawkins, Joshua Hawkins",
-            "title": "Propellant-free thrusters: Company claims major breakthrough - BGR",
-            "description": "A company led by a former NASA engineer claims to have created propellant-free thrusters that could revolutionize space travel.",
-            "url": "https://bgr.com/science/former-nasa-engineer-claims-he-invented-a-ground-breaking-thruster-that-doesnt-need-fuel/",
-            "urlToImage": "https://bgr.com/wp-content/uploads/2023/03/AdobeStock_550445462.jpeg?quality=82&strip=all",
-            "publishedAt": "2024-04-23T20:22:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "LOLITA C. BALDOR, AAMER MADHANI",
-            "title": "Pentagon set to send $1 billion in new military aid to Ukraine once bill clears Senate and Biden - The Associated Press",
-            "description": "U.S. officials say the Pentagon is poised to send $1 billion in new military aid to Ukraine as the Senate begins debate on long-awaited legislation to fund the weapons Kyiv needs to stall gains made by Russia. The decision announced Tuesday comes after months…",
-            "url": "https://apnews.com/article/ukraine-russia-pentagon-weapons-congress-54045b0755b1711d0e22beaedf137cab",
-            "urlToImage": "https://dims.apnews.com/dims4/default/a3ca487/2147483647/strip/true/crop/6048x3402+0+311/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdf%2F8f%2Fe44b4b5dbf623819586735cfafe8%2F7bb7c1848db74b6db4bcc8a832021809",
-            "publishedAt": "2024-04-23T20:06:00Z",
-            "content": "WASHINGTON (AP) The Pentagon is poised to send $1 billion in new military aid to Ukraine, U.S. officials said Tuesday as the Senate moved ahead on long-awaited legislation to fund the weapons Kyiv de… [+4635 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theblock.co"
-            },
-            "author": "Sarah Wynn",
-            "title": "SEC asks for comments on BlackRock's amended spot Ethereum ETF proposal - The Block",
-            "description": "The SEC is asking for public comments on changes made to BlackRock's proposed spot Ethereum exchange-traded fund.",
-            "url": "https://www.theblock.co/post/290538/sec-asks-for-comments-on-blackrocks-amended-spot-ethereum-etf-proposal",
-            "urlToImage": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Blackrock-1200x675.jpg",
-            "publishedAt": "2024-04-23T20:02:09Z",
-            "content": "The U.S. Securities and Exchange Commission is asking for public comments on changes made to BlackRock's proposed spot Ethereum exchange-traded fund.\r\nThe world's largest asset manager is vying along… [+2680 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "David L. Chandler",
-            "title": "How light can vaporize water without the need for heat - Phys.org",
-            "description": "It's the most fundamental of processes—the evaporation of water from the surfaces of oceans and lakes, the burning off of fog in the morning sun, and the drying of briny ponds that leaves solid salt behind. Evaporation is all around us, and humans have been o…",
-            "url": "https://phys.org/news/2024-04-vaporize.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/how-light-can-vaporize.jpg",
-            "publishedAt": "2024-04-23T19:56:52Z",
-            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+10448 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Hamid Ganji",
-            "title": "Gemini set to address Google Assistant automation shortcomings with 'Live Prompts' - Android Police",
-            "description": "Gemini is all in to replace Google Assistant",
-            "url": "https://www.androidpolice.com/gemini-live-prompts-google-assistant-automation-features/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/02/google-gemini-google-assistant-lifestyle-2.jpg",
-            "publishedAt": "2024-04-23T17:46:00Z",
-            "content": "Summary\r\n<ul><li> Gemini, Google's rival to OpenAI's ChatGPT, is slowly becoming a more viable replacement for Google Assistant with advanced AI features and real-time responses. </li><li> The app is… [+3115 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Seattle Times"
-            },
-            "author": "Seattle Times staff",
-            "title": "What does recovery from mental illness look like? - The Seattle Times",
-            "description": "The sixth and final episode of “Lost Patients,” released Tuesday, follows three stories of people who have found a form of recovery from their illnesses.",
-            "url": "https://www.seattletimes.com/seattle-news/mental-health/lost-patients-podcast-episode-6-what-does-recovery-from-mental-illness-look-like/",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/04/04222024_TZR_Lost_Patients_Logo_tzr_174247.jpg?d=1200x630",
-            "publishedAt": "2024-04-23T15:48:42Z",
-            "content": "Theres no simple, quick answer for how our society can better help people with serious mental illnesses. \r\nBut maybe it starts with approaching the challenge from a new perspective, from a place of t… [+2742 chars]"
+            "author": "Ben Schoon",
+            "title": "Meta's Ray-Ban glasses now have AI, video calls, more - 9to5Google",
+            "description": "Meta has today announced that its smart glasses built with Ray-Ban will be getting AI features, video call support, and new styles.",
+            "url": "http://9to5google.com/2024/04/23/meta-ray-ban-glasses-ai-video-call-style/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/04/meta-ray-ban-skyler-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-04-23T19:51:00Z",
+            "content": "The dream of smart glasses has never died, but it’s also never truly succeeded. With its Ray-Ban smart glasses, though, Meta seems to have cracked the code, and it’s now bringing new AI features, vid… [+1891 chars]"
         },
         {
             "source": {
@@ -408,28 +447,15 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Space.com"
             },
-            "author": "Mike Wall",
-            "title": "Watch Rocket Lab launch new NASA solar sail tech to orbit today - Space.com",
-            "description": "Liftoff is scheduled for 6 p.m. ET tonight (April 23).",
-            "url": "https://www.space.com/rocket-lab-nasa-solar-sail-tech-launch-april-2024",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/C6abNS8umo7TTCRJ5DAEU4-1200-80.jpg",
-            "publishedAt": "2024-04-23T12:00:34Z",
-            "content": "New NASA solar-sailing technology will make its way to orbit this evening (April 23), if all goes according to plan, and you can watch the action live.\r\nThe agency's Advanced Composite Solar Sail Sys… [+3357 chars]"
+            "author": "Daisy Dobrijevic",
+            "title": "14 of the best total solar eclipse 2024 photos from our readers - Space.com",
+            "description": "Our readers are totality awesome! Check out these incredible eclipse photo.",
+            "url": "https://www.space.com/best-total-solar-eclipse-2024-photos",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fnWBpWF7af8bpuxmiaCZp-1200-80.jpg",
+            "publishedAt": "2024-04-23T13:51:28Z",
+            "content": "It's been two weeks since the total solar eclipse on April 8\r\n.\r\nWhether your experience was beyond anything\r\n you could have imagined or for some, unfortunately, a total bust\r\n, the celestial phenom… [+9702 chars]"
         }
     ]
 }

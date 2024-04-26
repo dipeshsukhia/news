@@ -4,16 +4,159 @@
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Little Dumbbell Nebula may be hiding evidence of stellar cannibalism in new Hubble image - CNN",
+            "description": "To mark 34 years of service, the Hubble Space Telescope captured an image of the Little Dumbbell Nebula, which may contain evidence of one star devouring another.",
+            "url": "https://www.cnn.com/2024/04/25/world/hubble-anniversary-little-dumbbell-nebula-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240424142537-little-dumbbell-nebula-34th-anniversary-hubble-space-telescope-launch.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-25T14:35:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe Hubble Space Telescope has captured a stunning new… [+3737 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "Jalopnik"
+            },
+            "author": "Owen Bellwood",
+            "title": "Japan's Moon Lander Just Won't Die - Jalopnik",
+            "description": "After landing nose-first on the Moon’s surface, Japan’s SLIM probe is still alive and broadcasting.",
+            "url": "https://jalopnik.com/japan-s-moon-lander-just-won-t-die-1851434929",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d638fb620c25cd48a284916b74b1f3cf.png",
+            "publishedAt": "2024-04-25T14:30:00Z",
+            "content": "Japan had its moment in the Moons glow earlier this year when scientists landed a lunar probe on the surface of our nearest celestial neighbor. The landing didnt quite go to plan, though, as the prob… [+1882 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurism"
+            },
+            "author": "Victor Tangermann",
+            "title": "Orbiter Spots \"Spiders\" on Surface of Mars - Futurism",
+            "description": "The European Space Agency's Mars Express orbiter has spotted mysterious \"spiders\" roaming the Red Planet's southern polar region.",
+            "url": "https://futurism.com/the-byte/orbiter-spots-spiders-surface-mars",
+            "urlToImage": "https://wp-assets.futurism.com/2024/04/orbiter-spots-spiders-surface-mars.jpg",
+            "publishedAt": "2024-04-25T14:27:45Z",
+            "content": "They're absolutely massive.\r\nMartian Creepy Crawlers\r\nThe European Space Agency's Mars Express orbiter has spotted \"spiders\" on the Red Planet's southern polar region.\r\nBut they're not the arachnids … [+1705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "How Scientists Are Preparing for Apophis's Unnervingly Close Brush With Earth - Gizmodo",
+            "description": "The potentially hazardous asteroid is on its way for an uncomfortably close flyby of Earth in 2029.",
+            "url": "https://gizmodo.com/how-scientists-preparing-asteroid-apophis-flyby-earth-1851433340",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/51e5fbd261f9421af9989a62869f0b84.jpg",
+            "publishedAt": "2024-04-25T13:30:00Z",
+            "content": "In about five years time, a potentially hazardous asteroid will swing by Earth at an eerily close distance of less than 20,000 miles (32,000 kilometers). During this rare encounter, Apophis will be t… [+4583 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "If Starship is real, we're going to need big cargo movers on the Moon and Mars - Ars Technica",
+            "description": "\"I left SpaceX knowing the width of the Starship door.\"",
+            "url": "https://arstechnica.com/space/2024/04/astrolab-tacks-toward-a-future-where-100s-of-tons-of-cargo-are-shipped-to-the-moon/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/IMG_7206-760x380.jpg",
+            "publishedAt": "2024-04-25T13:28:01Z",
+            "content": "Enlarge/ The author tries not to crash a lunar rover.\r\n35\r\nAs a SpaceX engineer working on the Starship program about five years ago, Jaret Matthews could see the future of spaceflight quite clearly … [+2895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jamie Carter",
+            "title": "Earth Is Suddenly Slowing And Days Now Last Longer, Say Scientists - Forbes",
+            "description": "For the first time in seven years, the average length of day became longer in 2023. New predictions suggest that March 2025 will include the longest day since March 2019.",
+            "url": "https://www.forbes.com/sites/jamiecartereurope/2024/04/25/earth-is-suddenly-slowing-and-days-now-last-longer-say-scientists/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662a548f5125eb72f483f0bc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-04-25T13:19:27Z",
+            "content": "Earth is slowing down after several years speeding up. \r\ngetty\r\nAfter a few years of speeding up, our planet now appears to be slowing down. For the first time in seven years, the average length of d… [+3372 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Tomasz Nowakowski",
+            "title": "Recently discovered black hole is part of a nearby disrupted star cluster, study finds - Phys.org",
+            "description": "European astronomers have investigated a recently detected black hole designated Gaia BH3. In their results, they found that the black hole is associated with a nearby disrupted star cluster known as ED-2. The finding is reported in a paper published April 17…",
+            "url": "https://phys.org/news/2024-04-black-hole-nearby-disrupted-star.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/recently-discovered-bl.jpg",
+            "publishedAt": "2024-04-25T12:40:01Z",
+            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WJCL News"
+            },
+            "author": "Graham Cawthon",
+            "title": "Jasper County: Overturned vehicle leads to Okatie Highway backup - WJCL News Savannah",
+            "description": "Deputies were seen diverting traffic around an overturned truck.",
+            "url": "https://www.wjcl.com/article/jasper-county-traffic-backup-crash-video/60602842",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/c6364623-b494-47b3-8b26-83f13a7d344c/thumb_480x270_00001_1714047674_36985.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+            "publishedAt": "2024-04-25T12:36:00Z",
+            "content": "JASPER COUNTY, S.C. —A crash resulted in traffic being backed up for several miles in both directions of S Okatie Highway, near Levy, Thursday morning.\r\nFire crews and law enforcement were seen at th… [+358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Washington Examiner"
+            },
+            "author": "Heather Hunter",
+            "title": "NASA administrator has ‘no idea’ why China is going to far side of moon that is ‘always in dark’ - Washington Examiner",
+            "description": "NASA Administrator Bill Nelson is being mocked for suggesting the far side of the moon is always \"dark\" and can't explain why China is interested in it.",
+            "url": "https://www.washingtonexaminer.com/policy/space/2978857/nasa-administrator-no-idea-why-china-going-far-side-moon-always-dark/",
+            "urlToImage": "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/04/AP21111539574554-scaled.jpg",
+            "publishedAt": "2024-04-25T12:23:52Z",
+            "content": "NASA Administrator Bill Nelson is being mocked for suggesting the far side of the moon is always “dark” and can’t explain why China is interested in exploring that part of the moon.\r\n“What do you thi… [+3876 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SpaceNews"
+            },
+            "author": "Jeff Foust",
+            "title": "NASA planning September launch of Mars smallsat mission on first New Glenn - SpaceNews",
+            "description": "A NASA Mars smallsat mission is slated to launch in late September on the first flight of Blue Origin’s New Glenn rocket, if the vehicle is ready in time.",
+            "url": "https://spacenews.com/nasa-planning-september-launch-of-mars-smallsat-mission-on-first-new-glenn/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2024/04/newglenn-pathfinder.jpg",
+            "publishedAt": "2024-04-25T11:34:58Z",
+            "content": "WASHINGTON A NASA Mars smallsat mission is slated to launch in late September on the first flight of Blue Origins New Glenn rocket, assuming the vehicle is ready in time.\r\nIn a presentation at a meet… [+2408 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "Hubble Celebrates 34th Anniversary With a Spectacular View of the Little Dumbbell Nebula - SciTechDaily",
-            "description": "Glowing Bipolar Bubble From Dying Star Expands Into Space In celebration of the 34th anniversary of the launch of NASA's legendary Hubble Space Telescope on April 24, 1990, astronomers took a snapshot of the Little Dumbbell Nebula. Also known as Messier 76, M…",
-            "url": "https://scitechdaily.com/hubble-celebrates-34th-anniversary-with-a-spectacular-view-of-the-little-dumbbell-nebula/",
-            "urlToImage": "https://scitechdaily.com/images/Little-Dumbbell-Nebula-M76-scaled.jpg",
-            "publishedAt": "2024-04-25T08:25:48Z",
-            "content": "Astronomers celebrated the 34th anniversary of the Hubble Space Telescope by capturing an image of the Little Dumbbell Nebula, 3400 light-years away. Hubble has conducted 1.6 million observations and… [+8868 chars]"
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Jonathan Gilbert",
+            "title": "Scientists find one of the oldest stars in the universe in a galaxy right next to ours - Livescience.com",
+            "description": "An ancient star discovered in the Large Magellanic Cloud has revealed the chemical fingerprint of the early universe. It hints that conditions were not the same everywhere when the first stars forged the elements for life.",
+            "url": "https://www.livescience.com/space/astronomy/scientists-find-one-of-the-oldest-stars-in-the-universe-in-a-galaxy-right-next-to-ours",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UVHy92GumzwSathks57AH7-1200-80.jpg",
+            "publishedAt": "2024-04-25T09:00:00Z",
+            "content": "Scientists have identified one of the oldest known stars outside the Milky Way. The discovery, reported in March in the journal Nature Astronomy\r\n, has uncovered a relic from the early days of the un… [+5532 chars]"
         },
         {
             "source": {
@@ -27,19 +170,6 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/NASA-voyager1.jpg",
             "publishedAt": "2024-04-25T01:50:00Z",
             "content": "NASA and Voyager 1 are communicating back and forth again, after the most distant human-made object in space stopped sending usable data back to the space agency nearly five months ago.\r\nNASAs Jet Pr… [+2524 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Universe Today",
-            "title": "Over 1000 New Additions to Our Solar System Were Hiding in Hubble's Archives - ScienceAlert",
-            "description": "The venerable Hubble Space Telescope is like a gift that keeps on giving.",
-            "url": "https://www.sciencealert.com/over-1000-new-additions-to-our-solar-system-were-hiding-in-hubbles-archives",
-            "urlToImage": "https://www.sciencealert.com/images/2024/04/asteroid_spotted_galaxy.jpg",
-            "publishedAt": "2024-04-25T00:29:21Z",
-            "content": "The venerable Hubble Space Telescope is like a gift that keeps on giving. Not only is it still making astronomical discoveries after more than thirty years in operation. It is also making discoveries… [+5065 chars]"
         },
         {
             "source": {
@@ -92,19 +222,6 @@
             "urlToImage": "https://img1-azrcdn.newser.com/image/1531150-12-20240424180331.jpeg",
             "publishedAt": "2024-04-24T22:45:00Z",
             "content": "It's a question that could appear on a law school exam: If a home is hit by debris falling from space, who is liable for the repairs? The question isn't theoretical for Naples, Florida, resident Alej… [+1786 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "allkpop"
-            },
-            "author": "Sophie-Ha",
-            "title": "South Korea launches first nanosatellite under the operation name \"BTS\" - allkpop",
-            "description": "South Korea has successfully launched its first homegrown nano-cluster satellite, marking a significant milestone in the country's space technology d…",
-            "url": "https://www.allkpop.com/buzz/2024/04/south-korea-launches-first-nanosatellite-under-the-operation-name-bts",
-            "urlToImage": "https://www.allkpop.com/upload/2024/04/content/241654/web_data/allkpop_1713992740_-b.png",
-            "publishedAt": "2024-04-24T22:19:00Z",
-            "content": "South Korea has successfully launched its first homegrown nano-cluster satellite, marking a significant milestone in the country's space technology development. \r\nThe rocket carrying the satellite ro… [+1709 chars]"
         },
         {
             "source": {
@@ -174,32 +291,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
-            },
-            "author": "Keith Cooper",
-            "title": "Ancient rocks hold proof of Earth's magnetic field. Here's why that's puzzling - Space.com",
-            "description": "These rocks offer evidence that Earth had a strong magnetic field 3.7 billion years ago, but scientists aren't sure where that field could've come from.",
-            "url": "https://www.space.com/earth-ancient-magnetic-field-puzzle-isua",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/r94YLQQrsY3bjgGDSVgn4Y-1200-80.jpg",
-            "publishedAt": "2024-04-24T20:00:01Z",
-            "content": "A 3.7-billion-year-old record of our planet's ancient magnetism has been unearthed, providing evidence that Earth's magnetic field\r\n already existed very early in history. This discovery, however, is… [+4548 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Nicoletta Lanese",
-            "title": "Chemo side effect caused man's eyelash growth to go haywire - Livescience.com",
-            "description": "Some medicines can inadvertently cause people's eyelashes to grow incredibly long.",
-            "url": "https://www.livescience.com/health/medicine-drugs/chemo-side-effect-caused-mans-eyelash-growth-to-go-haywire",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KnD8SFbQ8TfNXeHQP8j3kN-1200-80.jpg",
-            "publishedAt": "2024-04-24T19:58:10Z",
-            "content": "A man's eyelashes grew unusually long and developed a dramatic curl — and it turned out to be a side effect of his cancer treatment.\r\nIn a report of the man's case, published Wednesday (April 24) in … [+3095 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "WYFF4 Greenville"
             },
             "author": "Janice Limon",
@@ -209,6 +300,19 @@
             "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/big-raptor-college-of-charleston-66295ec7599d2.png?crop=1.00xw:0.989xh;0,0&resize=1200:*",
             "publishedAt": "2024-04-24T19:36:00Z",
             "content": "CHARLESTON, S.C. —Not all dinosaurs are known from bones. Some mysterious species are identified only from their footprints, a new report finds. \r\nMost carnivorous dinosaurs leave footprints that loo… [+3393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Teslarati"
+            },
+            "author": "Richard Angle",
+            "title": "Rocket Lab successfully launches the ‘Beginning of the Swarm’ mission - TESLARATI",
+            "description": "Rocket Lab successfully launched the 'Beginning of the Swarm' mission, its 47th overall yesterday.",
+            "url": "https://www.teslarati.com/rocket-lab-successfully-launches-the-beginning-of-the-swarm-mission/",
+            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/04/53674689931_8435daca6f_k.jpg",
+            "publishedAt": "2024-04-24T19:35:21Z",
+            "content": "Rocket Lab successfully launched the “Beginning of the Swarm” mission, its 47th overall yesterday.\r\nElectron took the skies at 10:32 am NZT from Launch Complex 1B on the Mahia Peninsula in New Zealan… [+2424 chars]"
         },
         {
             "source": {
@@ -228,19 +332,6 @@
                 "id": null,
                 "name": "Phys.Org"
             },
-            "author": "Science X",
-            "title": "Signs of 'spider' phenomenon on Mars - Phys.org",
-            "description": "ESA's Mars Express has snapped the telltale traces of \"spiders\" scattered across the southern polar region of Mars.",
-            "url": "https://phys.org/news/2024-04-spider-phenomenon-mars.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/signs-of-spider-phenom-1.jpg",
-            "publishedAt": "2024-04-24T19:11:48Z",
-            "content": "ESA's Mars Express has snapped the telltale traces of \"spiders\" scattered across the southern polar region of Mars.\r\nRather than being actual spiders, these small, dark features form when spring suns… [+4365 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
             "author": "Rebecca Owen",
             "title": "Mantle heat may have boosted Earth's crust 3 billion years ago - Phys.org",
             "description": "Little is known about the nature and evolution of Earth's continental crust before a few billion years ago because cratons, or stable swaths of the lithosphere more than 2–3 billion years old, are relatively rare.",
@@ -248,6 +339,19 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/mantle-heat-may-have-b.jpg",
             "publishedAt": "2024-04-24T19:06:02Z",
             "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+2797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WKMG News 6 & ClickOrlando"
+            },
+            "author": "Michelle Morgan",
+            "title": "Invasive snails popping up in Central Florida - WKMG News 6 & ClickOrlando",
+            "description": "Many visitors and residents often inquire about these cluster of eggs on plants or on concrete slabs near a body of water.",
+            "url": "https://www.clickorlando.com/weather/2024/04/24/invasive-snails-popping-up-in-central-florida/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LUHSQH6JONCS3LZQ5U6HWT2PDA.png?_a=ATAPphC0",
+            "publishedAt": "2024-04-24T19:00:17Z",
+            "content": "ORLANDO, Fla. What on earth are these?\r\nMany visitors and residents often inquire about these cluster of eggs on plants or on concrete slabs near a body of water. There are popping up everywhere in C… [+1443 chars]"
         },
         {
             "source": {
@@ -261,19 +365,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/9WVtwPDMnnkEVipPooKmb7-1200-80.jpg",
             "publishedAt": "2024-04-24T18:58:17Z",
             "content": "A rich microbial \"biosphere\" lies buried 13 feet (4 meters) beneath the scorched surface of Chile's Atacama Desert, new research has found. The hidden world of bacteria is one of the deepest found in… [+3941 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Defector.com"
-            },
-            "author": null,
-            "title": "Meet The Extremely Metal Spike-Toothed Salmon - Defector",
-            "description": "In 1964, paleontologists unearthed the skull of a giant ancestor of the sockeye salmon at a quarry near the town of Gateway, Oregon. Some estimate the salmon grew as long as nine feet, making it the largest known salmonid—a family of more than 200 species of …",
-            "url": "https://defector.com/meet-the-extremely-metal-spike-toothed-salmon",
-            "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2024/04/salmonsmall.jpg",
-            "publishedAt": "2024-04-24T18:34:00Z",
-            "content": "In 1964, paleontologists unearthed the skull of a giant ancestor of the sockeye salmon at a quarry near the town of Gateway, Oregon. Some estimate the salmon grew as long as nine feet, making it the … [+7837 chars]"
         },
         {
             "source": {
@@ -304,6 +395,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Live Science"
+            },
+            "author": "Caroline Tien",
+            "title": "Giant prehistoric salmon had tusk-like teeth, just like a warthog's - Livescience.com",
+            "description": "The largest salmon species ever discovered, Oncorhynchus rastrosus may have used its distinctive, tusk-like teeth to compete with rivals, defend against predators and dig nests.",
+            "url": "https://www.livescience.com/animals/extinct-species/giant-prehistoric-salmon-had-tusk-like-teeth-just-like-a-warthogs",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/j9YCjxFDevDPiTqaTE749D-1200-80.jpg",
+            "publishedAt": "2024-04-24T18:00:20Z",
+            "content": "A massive prehistoric salmon had tusk-like teeth that protruded from either side of its snout, a new study finds. \r\nCapable of reaching 8.8 feet (2.7 meters) in length by some estimations, Oncorhynch… [+4174 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Phys.Org"
             },
             "author": "Science X",
@@ -330,19 +434,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Ute Kehse",
-            "title": "How evolution has optimized the magnetic sensor in birds - Phys.org",
-            "description": "Migratory birds are able to navigate and orientate with astonishing accuracy using various mechanisms, including a magnetic compass. A team led by biologists Dr. Corinna Langebrake and Prof. Dr. Miriam Liedvogel from the University of Oldenburg and the Instit…",
-            "url": "https://phys.org/news/2024-04-evolution-optimized-magnetic-sensor-birds.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/how-evolution-has-opti.jpg",
-            "publishedAt": "2024-04-24T17:13:56Z",
-            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+5542 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Live Science"
             },
             "author": "Ben Turner",
@@ -352,6 +443,19 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/XojYDLeB8UWZutMFbqNpiF-1200-80.jpg",
             "publishedAt": "2024-04-24T16:44:44Z",
             "content": "In an unexpected discovery, scientists find climate change is yet to alter the ice cover on Yellowstone Lake. However, a tipping point may be coming for North America's largest high-altitude lake, re… [+2698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ancient Origins"
+            },
+            "author": "Sahir",
+            "title": "Dentist Finds Prehistoric Hominin Jawbone in Bathroom Tile! - Ancient Origins",
+            "description": "During a visit to his parents\\' recently renovated European home, a man made an unexpected discovery within one of the floor tiles",
+            "url": "https://www.ancient-origins.net/news-evolution-human-origins/prehistoric-jawbone-found-0020693",
+            "urlToImage": "https://www.ancient-origins.net/sites/default/files/field/image/prehistoric-jawbone-found.jpg",
+            "publishedAt": "2024-04-24T16:43:14Z",
+            "content": "During a visit to his parents' recently renovated European home, a man made an unexpected discovery within one of the floor tiles. Upon closer examination, he identified the object as part of a prehi… [+6277 chars]"
         },
         {
             "source": {
@@ -391,19 +495,6 @@
             "urlToImage": "https://scitechdaily.com/images/Cancers-of-Epigenetic-Origin-Without-DNA-Mutation.jpg",
             "publishedAt": "2024-04-24T15:00:27Z",
             "content": "Researchers have discovered that cancer can originate solely from epigenetic changes, not just genetic mutations. This revelation, demonstrated through experiments with Drosophila, shows that induced… [+3290 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Meredith Garofalo",
-            "title": "Private moon mission to carry NASA electric moon dust shield in 2024 - Space.com",
-            "description": "NASA is sending a technology demonstrator to the moon on the upcoming private Firefly Blue Ghost Mission 1 in order to test how to repel and remove lunar dust using electricity.",
-            "url": "https://www.space.com/nasa-moon-dust-guard-protect-astronauts-spacecraft",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uDq92pG5L7TykoHrJFXenb-1200-80.jpg",
-            "publishedAt": "2024-04-24T15:00:18Z",
-            "content": "Let's be honest — many of us hate dusting. \r\nBut at least even as thick the dust coating might be around the house, with one fell swoop of duster, the particles are wiped away and the surface is clea… [+3582 chars]"
         },
         {
             "source": {
@@ -450,6 +541,19 @@
                 "name": "Phys.Org"
             },
             "author": "Science X",
+            "title": "Black hole 'traffic jams' discovered in galactic centers by astronomers - Phys.org",
+            "description": "An international study, led by researchers from Monash University, has revealed crucial insights into black hole dynamics within massive disks at the centers of galaxies.",
+            "url": "https://phys.org/news/2024-04-black-hole-traffic-galactic-centers.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/black-hole-traffic-jam.jpg",
+            "publishedAt": "2024-04-24T14:31:15Z",
+            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+2551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
             "title": "Light stands still in a deformed crystal - Phys.org",
             "description": "AMOLF researchers, in collaboration with Delft University of Technology, have succeeded in bringing light waves to a halt by deforming the two-dimensional photonic crystal that contains them. The researchers show that even a subtle deformation can have a subs…",
             "url": "https://phys.org/news/2024-04-deformed-crystal.html",
@@ -460,28 +564,41 @@
         {
             "source": {
                 "id": null,
-                "name": "The Daily Caller"
+                "name": "Space.com"
             },
-            "author": "Kay Smythe",
-            "title": "Rare 'Super' Explosion From Our Sun Might Hit Earth - Daily Caller",
-            "description": "Our sun emitted four solar flares at almost the exact same time Tuesday and there's a strong chance they launched a solar storm heading for Earth.",
-            "url": "https://dailycaller.com/2024/04/24/rare-super-sympathetic-solar-flare-eruption-sun-threat-earth/",
-            "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/04/shutterstock_1945608442-e1713964555860.jpg",
-            "publishedAt": "2024-04-24T14:11:00Z",
-            "content": "Our sun emitted four solar flares at almost the exact same time Tuesday and there’s a strong chance they launched a solar storm heading for Earth.\r\nThe “exceptionally rare, ‘quadruple’ solar flare” b… [+1642 chars]"
+            "author": "Sharmila Kuthunur",
+            "title": "Citizen scientists spot more than 1000 new asteroids in old Hubble Telescope photos - Space.com",
+            "description": "\"We were surprised with seeing such a large number of candidate objects.\"",
+            "url": "https://www.space.com/citizen-scientists-discover-one-thousand-asteroids-hubble-telescope-photos",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/TTQ78vc6ssscGhgAKiCoKJ-1200-80.jpg",
+            "publishedAt": "2024-04-24T14:00:01Z",
+            "content": "The dotted white streak cutting across this photo of a faraway galaxy might seem like a nuisance for astronomers, but it's actually the mark of a previously undiscovered asteroid.\r\nThe image, snapped… [+2860 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "IFLScience"
             },
-            "author": "Robert Lea",
-            "title": "Earth got hammered by cosmic rays 41000 years ago due to a weak magnetic field - Space.com",
-            "description": "\"Understanding these extreme events is important for their occurrence in the future, space climate predictions and assessing the effects on the environment and on the Earth system.\"",
-            "url": "https://www.space.com/earth-hammered-cosmic-rays-weak-magnetic-field",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/d3KZKeEPNAF6XfYa3PJE4H-1200-80.png",
-            "publishedAt": "2024-04-24T12:00:50Z",
-            "content": "Earth is under constant bombardment by high-energy charged particles called cosmic rays. We're normally shielded from this barrage by Earth's magnetic bubble, the magnetosphere. But what happens when… [+3729 chars]"
+            "author": "James Felton",
+            "title": "Four Regions Of The Sun Seen Exploding Simultaneously - IFLScience",
+            "description": "At the moment it is unclear if the debris will hit Earth.",
+            "url": "https://www.iflscience.com/four-regions-of-the-sun-seen-exploding-simultaneously-73940",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/73940/aImg/75794/solar-flares-meta.png",
+            "publishedAt": "2024-04-24T13:44:58Z",
+            "content": "NASA's Solar Dynamics Observatory (SDO) captured a rare phenomenon on Tuesday, April 23: four enormous regions of the Sun exploding simultaneously.\r\nEruptions on the Sun are a common occurrence, espe… [+1628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -538,6 +655,19 @@
         {
             "source": {
                 "id": null,
+                "name": "LADbible"
+            },
+            "author": null,
+            "title": "James Webb Space Telescope finds 'real surprise' at beginning of the universe - LADbible",
+            "description": "An international team of astronomers did not expect to find that from NASA's James Webb Telescope",
+            "url": "https://www.ladbible.com/news/science/james-web-space-telescope-real-surprise-universe-583562-20240424",
+            "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/bltf4c36fd53b2246f2/6628cbe752b3bd64a7883a0d/James_Webb_Space_Telescope_finds_real_surprise_at_beginning_of_the_universe.png",
+            "publishedAt": "2024-04-24T09:50:57Z",
+            "content": "Some of the world's leading astronomers have been left 'really surprised' after discovering something new about the early days of the universe.\r\nUsing NASA's James Webb Space Telescope (JWST), which … [+3333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Salon"
             },
             "author": null,
@@ -560,19 +690,6 @@
             "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2024/04/Researchers-at-MIT-have-discovered-a-new-phenomenon-that-light-can-cause-evaporation-of-water-from-its-surface-without-the-need-for-heat.-Pictured-is-a-lab-device-designed-to-measure-the-photomol.jpg",
             "publishedAt": "2024-04-24T08:56:00Z",
             "content": "This research, published in the journal PNAS, sheds light on a previously unknown mechanism the photomolecular effect. The MIT team, led by Professor Gang Chen, demonstrated that light striking the w… [+934 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "MARI YAMAGUCHI",
-            "title": "Japan's moon lander wasn't built to survive a weekslong lunar night. It's still going after 3 - The Associated Press",
-            "description": "Japan’s first moon lander has survived a third freezing lunar night, Japan’s space agency said after receiving an image from the device three months after it landed on the moon. The Japan Aerospace Exploration Agency said Wednesday that the lunar probe had re…",
-            "url": "https://apnews.com/article/japan-jaxa-moon-probe-slim-78edbd90fd46837d272277700431ed95",
-            "urlToImage": "https://dims.apnews.com/dims4/default/0e5a49d/2147483647/strip/true/crop/2000x1125+0+438/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2Fb9%2Fc5e084324e27add3332907bb3910%2F4c42eabe06014fb1b4552fdc4d7ae16d",
-            "publishedAt": "2024-04-24T08:24:00Z",
-            "content": "TOKYO (AP) Japans first moon lander has survived a third freezing lunar night, Japans space agency said Wednesday after receiving an image from the device three months after it landed on the moon.\r\nT… [+1594 chars]"
         },
         {
             "source": {
@@ -616,28 +733,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
+                "name": "[Removed]"
             },
-            "author": "Science X",
-            "title": "Star bars show universe's early galaxies evolved much faster than previously thought - Phys.org",
-            "description": "The universe's early galaxies were less chaotic and developed much faster than previously thought, according to new research looking back more than ten billion years in time. An international team of astronomers led by Durham University, UK, has used the Jame…",
-            "url": "https://phys.org/news/2024-04-star-bars-universe-early-galaxies.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/star-bars-show-univers-2.jpg",
-            "publishedAt": "2024-04-23T23:10:01Z",
-            "content": "The universe's early galaxies were less chaotic and developed much faster than previously thought, according to new research looking back more than ten billion years in time. An international team of… [+4966 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Michelle Starr",
-            "title": "Stunning Remains of Great White Shark's Giant Ancestors Reveal a Surprising Diet - ScienceAlert",
-            "description": "The absolutely incredible discovery of several fully articulated shark fossils from the Late Cretaceous, 105 to 72 million years ago, is shedding some much-needed light on the mysterious shark family tree.",
-            "url": "https://www.sciencealert.com/stunning-remains-of-great-white-sharks-giant-ancestors-reveal-a-surprising-diet",
-            "urlToImage": "https://www.sciencealert.com/images/2024/04/PtychodusVallecillo.jpg",
-            "publishedAt": "2024-04-23T23:06:25Z",
-            "content": "The absolutely incredible discovery of several fully articulated shark fossils from the Late Cretaceous, 105 to 72 million years ago, is shedding some much-needed light on the mysterious shark family… [+5220 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -654,42 +758,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Futurism"
+                "id": "national-geographic",
+                "name": "National Geographic"
             },
-            "author": "Noor Al-Sibai",
-            "title": "Dentist Alarmed to Spot Human Jawbone in Parents' Tile Floor - Futurism",
-            "description": "A dentist was in for a huge shock when he looked down at his parents' new tile floor and saw what appeared to be the fossil of a human jaw.",
-            "url": "https://futurism.com/the-byte/dentist-finds-human-jawbone-fossil-tile",
-            "urlToImage": "https://wp-assets.futurism.com/2024/04/dentist-finds-human-jawbone-fossil-tile.jpg",
-            "publishedAt": "2024-04-23T22:30:23Z",
-            "content": "\"Could it be a hominid? Is it usual?\" \r\nTile Driver\r\nA dentist was in for a huge shock when he looked down at his parents' new tile floor and saw what appeared to be the fossil of a human mandible.\r\n… [+2787 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SpaceNews"
-            },
-            "author": "Jeff Foust",
-            "title": "Companies offer proposals for Apophis asteroid missions - SpaceNews",
-            "description": "Companies ranging from Blue Origin to a startup are proposing missions to visit an asteroid before it makes a very close flyby of Earth in five years.",
-            "url": "https://spacenews.com/companies-offer-proposals-for-apophis-asteroid-missions/",
-            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/10/bluering.jpg",
-            "publishedAt": "2024-04-23T20:52:56Z",
-            "content": "WASHINGTON Companies ranging from Blue Origin to a startup are proposing concepts for missions to visit an asteroid before it makes a very close flyby of Earth in five years.\r\nThe asteroid Apophis, a… [+5514 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medical Xpress"
-            },
-            "author": "Daniel Strain",
-            "title": "Why do we move slower the older we get? New study delivers answers - Medical Xpress",
-            "description": "It's one of the inescapable realities of aging: The older we get, the slower we tend to move—whether we're walking around the block or just reaching for the remote control.",
-            "url": "https://medicalxpress.com/news/2024-04-slower-older.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/why-do-we-move-slower.jpg",
-            "publishedAt": "2024-04-23T20:28:04Z",
-            "content": "This article has been reviewed according to Science X's \r\n editorial process\r\n and policies.\r\n Editors have highlighted\r\n the following attributes while ensuring the content's credibility:\r\nfact-chec… [+5175 chars]"
+            "author": "Ramin Skibba",
+            "title": "NASA has a plan to clean up space junk—but is going green enough? - National Geographic",
+            "description": "Astronomers laud NASA's plan to protect the space environment, but the agency needs to act fast to make a difference.",
+            "url": "https://www.nationalgeographic.com/science/article/nasa-sustainability-space-junk-environmentalism",
+            "urlToImage": "https://i.natgeofe.com/n/df6442e0-f5b6-4335-9bfa-43fc2d2b907a/C0033958-Space_Debris_16x9.jpg?w=1200",
+            "publishedAt": "2024-04-23T20:05:17Z",
+            "content": "Meanwhile, in 2026, the European Space Agency and a private company called Clearspace plan to launch a spacecraft that will use robotic arms to capture a 250-pound rocket part and safely tug it down … [+2013 chars]"
         },
         {
             "source": {
@@ -716,6 +794,19 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/sgNkHjCZ9hjMyFFZRg2ZcE-1200-80.jpg",
             "publishedAt": "2024-04-23T17:59:26Z",
             "content": "The first Starliner crew is in quarantine ahead of their scheduled May 6 launch.\r\nThe two NASA astronauts to fly aboard Boeing Starliner, Barry \"Butch\" Wilmore and pilot Suni Williams, entered standa… [+4961 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Anthony Wood",
+            "title": "A Once-in-a-Lifetime Stellar Explosion Could Be Visible to the Naked Eye Later in 2024 - IGN",
+            "description": "Astronomers have predicted that a nearby white dwarf star will erupt in a dramatic nova explosion later this year, which will be visible to the naked eye.",
+            "url": "https://www.ign.com/articles/a-once-in-a-lifetime-stellar-explosion-could-be-visible-to-the-naked-eye-later-in-2024",
+            "urlToImage": "https://assets-prd.ignimgs.com/2024/04/23/t-coronae-borealis-1713891640070.jpg?width=1280",
+            "publishedAt": "2024-04-23T17:51:30Z",
+            "content": "Astronomers have predicted that a nearby white dwarf star orbiting in the T Coronae Borealis system some 3,000 light years from Earth will erupt in a dramatic nova explosion later this year, which wi… [+2981 chars]"
         },
         {
             "source": {
@@ -794,97 +885,6 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/unc-chapel-hill-resear.jpg",
             "publishedAt": "2024-04-23T16:51:03Z",
             "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+504 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "IFLScience"
-            },
-            "author": "Stephen Luntz",
-            "title": "Watch The Sun Briefly Pull Off The Devil Comet's Tail - IFLScience",
-            "description": "Solar storms are powerful things, and comet tails can be fragile when they get too close.",
-            "url": "https://www.iflscience.com/watch-the-sun-briefly-pull-off-the-devil-comets-tail-73929",
-            "urlToImage": "https://assets.iflscience.com/assets/articleNo/73929/aImg/75779/comet-pons-brooks-disconnection-meta.png",
-            "publishedAt": "2024-04-23T16:25:06Z",
-            "content": "NASAs STEREO A spacecraft has spotted a powerful eruption on the Sun ripping the tail off comet Pons-Brooks, although it quickly regrew. This is far from the first time STEREO A has spotted the Sun t… [+3291 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "A first glimpse at our galaxy's magnetic field in 3D - Phys.org",
-            "description": "Thanks to new sophisticated techniques and state-of-the-art facilities, astronomy has entered a new era in which the depth of the sky can finally be accessed. The ingredients of our cosmic home, the Milky Way galaxy—stars, gas, magnetic fields—can at long las…",
-            "url": "https://phys.org/news/2024-04-glimpse-galaxy-magnetic-field-3d.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/a-first-glimpse-at-the.jpg",
-            "publishedAt": "2024-04-23T16:17:02Z",
-            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+4751 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Harry Baker",
-            "title": "Dying SpaceX rocket tears blood-red 'hole' in the sky over Texas — again - Livescience.com",
-            "description": "On April 10, a bright red atmospheric \"hole\" was spotted in the night sky above Texas shortly after SpaceX launched 23 Starlink satellites into space. It is the latest example of an increasingly common phenomenon caused by the company's dying rockets.",
-            "url": "https://www.livescience.com/space/space-exploration/dying-spacex-rocket-tears-blood-red-hole-in-the-sky-over-texas-again",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hN4Kdwpk38MPiEPCFpMu4F-1200-80.jpg",
-            "publishedAt": "2024-04-23T15:33:33Z",
-            "content": "An eerie, blood-red orb of light was recently photographed in the night sky above Texas after SpaceX launched a satellite-laden rocket into space. The increasingly common phenomenon, known as a \"Spac… [+4241 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Jamie Carter",
-            "title": "In Photos: Comet Seen During The Total Solar Eclipse Vaporizes Hours Later - Forbes",
-            "description": "Comet SOHO-5008 was discovered hours before April 8's total solar eclipse and imaged during the darkness of totality.",
-            "url": "https://www.forbes.com/sites/jamiecartereurope/2024/04/23/in-photos-comet-seen-during-the-total-solar-eclipse-vaporizes-hours-later/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6625342e96bb97c18638e22e/0x0.jpg?format=jpg&crop=657,369,x408,y294,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-04-23T15:00:00Z",
-            "content": "Petr Horálek, from the Institute of Physics in Opava, was in Mexico for the eclipse. The clouds ... [+] cleared and Petr could take this beautiful shot of the Suns awe-inspiring corona. Hidden within… [+3191 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quanta Magazine"
-            },
-            "author": null,
-            "title": "AI Starts to Sift Through String Theory’s Near-Endless Possibilities - Quanta Magazine",
-            "description": "Using machine learning, string theorists are finally showing how microscopic configurations of extra dimensions translate into sets of elementary particles — though not yet those of our universe.",
-            "url": "https://www.quantamagazine.org/ai-starts-to-sift-through-string-theorys-near-endless-possibilities-20240423/",
-            "urlToImage": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/04/AI-String-Theory-byKouzouSakai-Social.webp",
-            "publishedAt": "2024-04-23T14:13:24Z",
-            "content": "Ruehle and collaborators took up the old problem of approximating Calabi-Yau metrics. Anderson and others also revitalized their earlier attempts to overcome step 2. The physicists found that neural … [+8435 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Daisy Dobrijevic",
-            "title": "14 of the best total solar eclipse 2024 photos from our readers - Space.com",
-            "description": "Our readers are totality awesome! Check out these incredible eclipse photo.",
-            "url": "https://www.space.com/best-total-solar-eclipse-2024-photos",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fnWBpWF7af8bpuxmiaCZp-1200-80.jpg",
-            "publishedAt": "2024-04-23T13:51:28Z",
-            "content": "It's been two weeks since the total solar eclipse on April 8\r\n.\r\nWhether your experience was beyond anything\r\n you could have imagined or for some, unfortunately, a total bust\r\n, the celestial phenom… [+9702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Discovery Institute"
-            },
-            "author": "Evolution News",
-            "title": "New DI Press Book Praised by Nobel Laureates - Discovery Institute",
-            "description": "Many widely read scientific writers of our day mistakenly attribute the concepts of the expanding universe and the Big Bang to Edwin Hubble and Albert Einstein.",
-            "url": "https://evolutionnews.org/2024/04/new-book-from-di-press-the-big-bang-revolutionaries-praised-by-three-nobel-laureates/",
-            "urlToImage": "https://evolutionnews.org/wp-content/uploads/2024/04/Luminet-photo-headshot-mugshot.jpeg",
-            "publishedAt": "2024-04-23T13:36:06Z",
-            "content": "Photo: Jean-Pierre Luminet, courtesy of the author.\r\nMany widely read scientific writers of our day mistakenly attribute the concepts of the expanding universe and the Big Bang to Edwin Hubble and Al… [+8674 chars]"
         },
         {
             "source": {

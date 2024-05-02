@@ -4,6 +4,97 @@
     "articles": [
         {
             "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Anahad O’Connor",
+            "title": "Supplement and vitamin use remains popular. Here’s how to choose wisely. - The Washington Post",
+            "description": "Among some population groups, it’s not unusual to down a four or more vitamins or supplements every day, new research shows.",
+            "url": "https://www.washingtonpost.com/wellness/2024/05/01/vitamins-supplements-safety/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MYONHMOWY5PJKEYZ22M3YVU3Q.jpg&w=1440",
+            "publishedAt": "2024-05-01T11:02:40Z",
+            "content": "Americans spend billions of dollars every year on dietary supplements that claim to promote almost every aspect of our health. But how much do you know about the supplements youre taking?\r\nA recent g… [+371 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Madeline Holcombe",
+            "title": "Anger can harm your blood vessel function, study shows - CNN",
+            "description": "Stress and anger can have a negative impact on cardiovascular health, studies have shown. New research points to just how the mechanism may work.",
+            "url": "https://www.cnn.com/2024/05/01/health/anger-blood-vessels-study-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1391225954.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-05-01T09:00:00Z",
+            "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nDoes it ever feel as if your… [+4005 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Amy McGorry",
+            "title": "When a parent must care for a parent: How to avoid caregiving burnout, according to experts - Fox News",
+            "description": "Serving as a caregiver for a parent with dementia while also caring for kids can come with physical, mental and emotional challenges, several caregivers shared with Fox News Digital.",
+            "url": "https://www.foxnews.com/health/when-parent-must-care-parent-how-avoid-caregiving-burnout-according-experts",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/sandwich-generation.jpg",
+            "publishedAt": "2024-05-01T09:00:00Z",
+            "content": "For members of the so-called \"sandwich generation,\" doing double-duty caregiving can take a toll.\r\nServing as a caregiver for a parent with dementia while also caring for kids and maintaining social … [+6581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Carly Cassella",
+            "title": "Bird Flu in Raw Cow Milk Has Killed Farm Cats in a Concerning First - ScienceAlert",
+            "description": "In mid-March, a mysterious disease began to spread among cows at a north Texas dairy farm.",
+            "url": "https://www.sciencealert.com/bird-flu-in-raw-cow-milk-has-killed-farm-cats-in-a-concerning-first",
+            "urlToImage": "https://www.sciencealert.com/images/2024/05/FarmCatsMilk.jpg",
+            "publishedAt": "2024-05-01T06:05:35Z",
+            "content": "In mid-March, a mysterious disease began to spread among cows at a north Texas dairy farm. Just a few days later, cats on the farm started acting strange.\r\nTheir eyes and noses leaked copiously, they… [+3349 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Ministers accept three-month deadline for infected blood scheme - BBC.com",
+            "description": "A final compensation scheme could be running by the year's end after ministers agree to a Labour-led demand.",
+            "url": "https://www.bbc.com/news/health-68932564",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/776B/production/_131917503_0288fb1cc4fcd8622a549d37ffb498b3c29a5110.jpg",
+            "publishedAt": "2024-05-01T06:03:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Pandora Dewan",
+            "title": "Scientists Debunk 'Really Dangerous' Myths About Sun Protection - Newsweek",
+            "description": "\"We are seeing melanoma so much more often in really young people,\" doctors warn over spread of dangerous sunscreen trends.",
+            "url": "https://www.newsweek.com/scientists-debunk-dangerous-myths-sun-protection-1895685",
+            "urlToImage": "https://d.newsweek.com/en/full/2385886/sunscreen.jpg",
+            "publishedAt": "2024-05-01T04:01:01Z",
+            "content": "Doctors have issued a warning over \"dangerous\" sun protection trends on social media after a new study found 1 in 7 Americans under 35 think daily sunscreen use is more harmful than direct sun exposu… [+5142 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Pandora Dewan",
+            "title": "Popular High School Kids Sleep Differently, Scientists Say - Newsweek",
+            "description": "The findings were most stark among teenage girls, with potential implications for their mental and physical health.",
+            "url": "https://www.newsweek.com/popular-high-school-kids-sleep-differently-1895714",
+            "urlToImage": "https://d.newsweek.com/en/full/2385942/tired-teenager.jpg",
+            "publishedAt": "2024-05-01T04:00:01Z",
+            "content": "Scientists have found a downside to being popular, especially if you're a teenage girl.\r\nGetting enough sleep is essential for our mental and physical wellbeing. It helps us consolidate our memories … [+3286 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "ScienceAlert"
             },
@@ -30,16 +121,42 @@
         },
         {
             "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Brendan Pierson",
+            "title": "First trial over Zantac cancer claims set to begin in Chicago - Reuters",
+            "description": "The first trial over claims that blockbuster heartburn drug Zantac, once sold by GSK and other companies, causes cancer is set to begin this week in Chicago.",
+            "url": "https://www.reuters.com/legal/first-trial-over-zantac-cancer-claims-set-begin-chicago-2024-04-30/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/C4H2R7M4DVMBFLDKAPS5FJVOD4.jpg?auth=68d508ea30dc69b1d282cd1642e0e3282dad118742cc4ea265ee1e2167ec227b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-04-30T23:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kristen Rogers",
+            "title": "Perimenopause may raise risk of one mental health condition by 40%, study finds - CNN",
+            "description": "Women are more likely to experience depression in the perimenopause stage than those who aren’t experiencing any menopausal symptoms, a new study has found.",
+            "url": "https://www.cnn.com/2024/04/30/health/perimenopause-depression-risk-study-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1366505483.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-30T23:05:00Z",
+            "content": "In the years leading up to menopause, a person can experience a multitude of symptoms, including emotional shifts such as depression. Now, a new study has quantified the risk of depression during the… [+5541 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "BBC News"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "title": "Scientists work to make healthier white bread - BBC.com",
+            "description": "The research aimed at lovers of white bread has been funded by the government to improve the health benefits of UK food.",
+            "url": "https://www.bbc.com/news/articles/c87z06r175no",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b61c/live/b88fd190-0717-11ef-b9d8-4f52aebe147d.jpg",
+            "publishedAt": "2024-04-30T23:03:24Z",
+            "content": null
         },
         {
             "source": {
@@ -66,19 +183,6 @@
             "urlToImage": null,
             "publishedAt": "1970-01-01T00:00:00Z",
             "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Alexander Tin",
-            "title": "More than half of cats died after drinking raw milk from bird flu-infected cows - CBS News",
-            "description": "Cat deaths and neurological disease are \"widely reported\" around farms where the H5N1 bird flu virus was detected, health officials say.",
-            "url": "https://www.cbsnews.com/news/cats-died-after-drinking-milk-bird-flu-infected-cows/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/30/af580528-3ad7-463b-84e8-9695c9120155/thumbnail/1200x630/a59266cf88f78890d88812c2e546f65b/gettyimages-685038893.jpg?v=5b44a284b59f1e101ea6bf2f76b493fc",
-            "publishedAt": "2024-04-30T21:40:45Z",
-            "content": "More than half of cats around the first Texas dairy farm to test positive for bird flu this spring died after drinking raw milk from the infected cows, scientists reported this week, offering a windo… [+4503 chars]"
         },
         {
             "source": {
@@ -135,6 +239,19 @@
         {
             "source": {
                 "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alexandra Klausner",
+            "title": "Doing this could add 5 years to life regardless of genes: study - New York Post ",
+            "description": "Going running may offset diseases that run in the family.",
+            "url": "https://nypost.com/2024/04/30/lifestyle/healthy-lifestyle-could-add-5-years-to-life-regardless-of-genes-study/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/AdobeStock_357613659.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-04-30T19:46:00Z",
+            "content": "Going running may offset diseases that run in the family, according to the first study of its kind.\r\nA healthy lifestyle, which includes things like regular exercise, good sleep, not smoking and eati… [+1895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Slate Magazine"
             },
             "author": "Jessica Stoya",
@@ -144,6 +261,19 @@
             "urlToImage": "https://compote.slate.com/images/90f29d9a-23d9-44b6-99f5-4bc028ac5602.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
             "publishedAt": "2024-04-30T19:46:00Z",
             "content": "How to Do It is Slates sex advice column. Have a question? Send it to Jessica and Rich here. Its anonymous!\r\nDear How to Do It,\r\nMy partner and I are sexually compatible in every waywhen we have sex.… [+6749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newser"
+            },
+            "author": "Arden Dier",
+            "title": "In the Works: a Postpartum Depression Blood Test - Newser",
+            "description": "$250 test detects gene linked to increased risk",
+            "url": "https://www.newser.com/story/349724/in-the-works-a-postpartum-depression-blood-test.html",
+            "urlToImage": "https://img2-azrcdn.newser.com/image/1532243-12-20240430144017.jpeg",
+            "publishedAt": "2024-04-30T19:10:00Z",
+            "content": "The startup launching clinical trials aims to make the test available to women to use at any time, though medical providers are likely to administer it between the second and third trimesters of preg… [+1167 chars]"
         },
         {
             "source": {
@@ -174,19 +304,6 @@
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Lifestyle Choices Can Physically Alter Genes: Study | Vantage with Palki Sharma - Firstpost",
-            "description": "Lifestyle Choices Can Physically Alter Genes: Study | Vantage with Palki SharmaAccording to a recent study, healthy lifestyle can offset genetics by 62% and ...",
-            "url": "https://www.youtube.com/watch?v=XJuhM986uno",
-            "urlToImage": "https://i.ytimg.com/vi/XJuhM986uno/maxresdefault.jpg",
-            "publishedAt": "2024-04-30T18:10:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": null,
@@ -196,6 +313,19 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/7596a11f64986ce505707f21e8d08a24c70aac0a/hub/2024/04/29/d4e7f262-7ef4-4735-824b-4c2385513856/gettyimages-1869893310.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2024-04-30T18:00:00Z",
             "content": "For many of us, keeping our bodies healthy is a top priority. From eating for heart health to deciding which exercises to focus on or improving vision, most people know that maintaining many aspects … [+6166 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Omega-6 Fatty Acid Linked to Lower Bipolar Disorder Risk - Neuroscience News",
+            "description": "Researchers discovered a link between higher levels of arachidonic acid, an omega-6 fatty acid found in foods like eggs and seafood, and a reduced risk of bipolar disorder.",
+            "url": "https://neurosciencenews.com/omega-6-bipolar-disorder-26012/",
+            "urlToImage": "https://neurosciencenews.com/files/2024/04/omega-6-bipola-disorder-neuroscience.jpg",
+            "publishedAt": "2024-04-30T17:48:01Z",
+            "content": "Summary: Researchers discovered a link between higher levels of arachidonic acid, an omega-6 fatty acid found in foods like eggs and seafood, and a reduced risk of bipolar disorder. Utilizing Mendeli… [+7660 chars]"
         },
         {
             "source": {
@@ -239,6 +369,19 @@
         {
             "source": {
                 "id": null,
+                "name": "CNBC"
+            },
+            "author": "Renée Onque",
+            "title": "Can the workout supplement creatine really help you build muscle? What the experts say - CNBC",
+            "description": "\"You have to combine training with creatine\" to see results, says Jose Antonio, a professor of exercise science. Here's how he says the supplement can work.",
+            "url": "https://www.cnbc.com/2024/04/30/can-creatine-supplements-help-you-build-muscle-what-experts-say.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107407771-1714421030506-gettyimages-1284224751-pi-2087942.jpeg?v=1714421083&w=1920&h=1080",
+            "publishedAt": "2024-04-30T16:02:36Z",
+            "content": "There's no shortage of pills and powders that claim to help you maximize your workout. One of the most popular supplements is creatine.\r\nIts main benefit is that it \"helps you train harder\" while you… [+3257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "[Removed]"
             },
             "author": null,
@@ -248,32 +391,6 @@
             "urlToImage": null,
             "publishedAt": "1970-01-01T00:00:00Z",
             "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Caroline Baxendale",
-            "title": "Hear epidemiologist talk about how bird flu is affecting humans - CNN",
-            "description": "Dr. Sanjay Gupta discusses the H5N1 avian influenza virus that is infecting dairy cattle with epidemiologist Michael Osterholm.",
-            "url": "https://www.cnn.com/2024/04/30/health/video/bird-flu-virus-gupta-osterholm-digvid",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/63162317-93bf-4f87-b3d1-db259e6b4a5d.jpg?q=w_1600,h_900,x_0,y_83,c_crop/w_800",
-            "publishedAt": "2024-04-30T15:45:00Z",
-            "content": "Dr. Sanjay Gupta discusses the H5N1 avian influenza virus that is infecting dairy cattle with epidemiologist Michael Osterholm."
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Sandee LaMotte",
-            "title": "Imagine living in a 4-foot body that doesn’t develop chronic diseases - CNN",
-            "description": "A rare genetic condition that causes short stature may also provide protection from diabetes, heart disease and other illnesses, a new study says.",
-            "url": "https://www.cnn.com/2024/04/30/health/laron-syndrome-longevity-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/unknown-20240425194945539.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-30T15:34:00Z",
-            "content": "In the Los Angeles restaurant where Nathaly Paola Castro Torres works, customers never fail to comment on her short stature.\r\nPeople stare at me too much and make comments or jokes, Torres, 42, said.… [+8797 chars]"
         },
         {
             "source": {
@@ -304,6 +421,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Parmita Uniyal",
+            "title": "Best jobs for brain longevity: 6 mentally stimulating jobs to prevent Alzheimer's, dementia - Hindustan Times",
+            "description": "Being in a mentally-taxing job isn't that bad after all. A new research says, it could save you from cognitive decline and dementia. | Health",
+            "url": "https://www.hindustantimes.com/lifestyle/health/best-jobs-for-brain-longevity-6-mentally-stimulating-jobs-to-prevent-alzheimers-dementia-101714488702156.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/30/1600x900/mentally_stimulating_jobs_1714488784227_1714488806615.jpg",
+            "publishedAt": "2024-04-30T14:58:10Z",
+            "content": "Having a challenging and mentally-demanding job may seem taxing in short term but rewarding for your brain longevity in long run. Keeping your mind stimulated can pay rich dividends. According to a n… [+3867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "KSBW The Central Coast"
             },
             "author": null,
@@ -313,6 +456,19 @@
             "urlToImage": "https://kubrick.htvapps.com/vidthumb/eb3a499a-0dae-459b-a9d9-111f6b4ecdf0/5ee1de51-3b63-4667-a6e5-d2663d4e548e.jpg?crop=0.784xw:0.783xh;0.216xw,0&resize=1200:*",
             "publishedAt": "2024-04-30T14:33:00Z",
             "content": "Three women were diagnosed with HIV after getting vampire facial procedures at an unlicensed New Mexico medical spa, the Centers for Disease Control and Prevention said in a report last week, marking… [+4854 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -378,6 +534,19 @@
             "urlToImage": "https://assets.iflscience.com/assets/articleNo/74007/aImg/75905/covid-face-coverings-meta.jpg",
             "publishedAt": "2024-04-30T12:29:37Z",
             "content": "Theres a family of new COVID-19 variants in town, and at least one of them looks set to begin jostling for position at the top of the transmission stakes. Theyve been nicknamed the FLiRT variants, fo… [+3285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -447,19 +616,6 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Food Safety News"
             },
             "author": "Bill Marler",
@@ -472,29 +628,29 @@
         },
         {
             "source": {
-                "id": "fortune",
-                "name": "Fortune"
+                "id": null,
+                "name": "KABC-TV"
             },
-            "author": "Kells McPhillips",
-            "title": "Stair climbing workout to boost heart health and longevity - Fortune",
-            "description": "Climbing just five flights per day could reduce your risk of cardiovascular disease by 20%, study says.",
-            "url": "https://fortune.com/well/2024/04/29/stair-climbing-heart-health-live-longer-longevity/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2023/11/GettyImages-961838100-e1699666129318.jpg?resize=1200,600",
-            "publishedAt": "2024-04-30T00:30:00Z",
-            "content": "Choosing the stairs over the elevator has been considered sage fitness advice for years, but new research backs up this health tip. A meta-analysis presented at a European Society of Cardiology confe… [+5596 chars]"
+            "author": null,
+            "title": "Kidney stones in children are becoming more prevalent, research shows. Here's what doctors say about causes, symptoms, treatment - KABC-TV",
+            "description": "Kidney stones aren't common in children, but more kids are experiencing them. Here's what doctors say is behind the rise in cases, plus what you can do to fight the condition.",
+            "url": "https://abc7.com/kidney-stones-in-children-causes-symptoms-kids-health/14716622/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/14743362_042924-kidney.jpg?w=1600",
+            "publishedAt": "2024-04-30T00:31:45Z",
+            "content": "LOS ANGELES (KABC) -- Most people think kidney stones are something that happens mainly in adults. But that's changed dramatically over the last 20 years.\r\nThey may be less common in children, but th… [+2157 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Scrippsnews.com"
             },
-            "author": "Scripps News",
-            "title": "'Zombie deer disease' has now spread to 33 states in the US - AOL",
-            "description": "“Zombie deer disease,\" officially known as chronic wasting disease, has been detected in 33 states across the U.S., posing a potential risk to those who kill...",
+            "author": "Scripps News Staff",
+            "title": "'Zombie deer disease' has now spread to 33 states in the US - Scripps News",
+            "description": "So far, no one has gotten chronic wasting disease from animals, but there's worry that hunters who kill and eat infected animals might be at risk.",
             "url": "https://www.scrippsnews.com/health/zombie-deer-disease-has-now-spread-to-33-states-in-the-us",
-            "urlToImage": "https://media.zenfs.com/en/aol_newsy_441/a55c289fa7955037e4bbe455b64c7bcd",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/c999a8b/2147483647/strip/true/crop/1000x525+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F3a%2F71%2F472d4ea94623950f62140d8b606b%2Fshutterstock-1884830338.jpg",
             "publishedAt": "2024-04-29T23:24:32Z",
-            "content": "Zombie deer disease,\" officially known as chronic wasting disease, has been detected in 33 states across the United States.\r\nThe Indiana Department of Natural Resources announced that, for the first … [+1641 chars]"
+            "content": "Zombie deer disease,\" officially known as chronic wasting disease, has been detected in 33 states across the United States.\r\nThe Indiana Department of Natural Resources announced that, for the first … [+1629 chars]"
         },
         {
             "source": {
@@ -508,19 +664,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B6FC/production/_133244864_microarraypatchgiventochild2.jpg",
             "publishedAt": "2024-04-29T23:11:54Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
         },
         {
             "source": {
@@ -563,19 +706,6 @@
         },
         {
             "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Aristos Georgiou",
-            "title": "Archaeologists Discover 'Unique' Artificial Body Part in 18th Century Skull - Newsweek",
-            "description": "The \"unusual\" object was made with great craftsmanship and would likely have significantly improved the patient's quality of life.",
-            "url": "https://www.newsweek.com/archaeologists-discover-unique-artificial-body-part-18th-century-skull-1895347",
-            "urlToImage": "https://d.newsweek.com/en/full/2385411/skull-18th-century-medical-prosthesis.jpg",
-            "publishedAt": "2024-04-29T21:07:44Z",
-            "content": "Archaeologists have discovered a \"unique\" medical prosthetic implant lodged in the skull of an 18th-century skeleton.\r\nThe artificial body part, described in a study published this month in the Journ… [+4311 chars]"
-        },
-        {
-            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
@@ -585,20 +715,7 @@
             "url": "https://www.foxnews.com/health/cancer-immunity-gets-boost-one-common-nutrient-study-finds-intrigue-optimism",
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/9def55fe-vitamin-d-split-copy.jpg",
             "publishedAt": "2024-04-29T21:00:00Z",
-            "content": "Vitamin D could be a surprise weapon against cancer, new research suggests.\r\nA study of mice published in the journal Science last week found that eating a diet rich in vitamin D changed the gut micr… [+3770 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Reda Wigle",
-            "title": "How much you should sit, stand, walk and sleep in 24 hours - New York Post ",
-            "description": "A recent study reveals how to divide your day to maximize health and increase longevity.",
-            "url": "https://nypost.com/2024/04/29/lifestyle/how-to-spend-every-hour-of-your-day-according-to-science/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/80965537.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-04-29T20:28:00Z",
-            "content": "It’s time to get moving a lot more than you probably are. \r\nA recent study found that for optimal health, you’ll need to spend a whopping four hours every day engaged in some degree of physical activ… [+1721 chars]"
+            "content": "Vitamin D could be a surprise weapon against cancer, new research suggests.\r\nA study of mice published in the journal Science last week found that eating a diet rich in vitamin D changed the gut micr… [+3775 chars]"
         },
         {
             "source": {
@@ -629,28 +746,15 @@
         {
             "source": {
                 "id": null,
-                "name": "WRAL.com"
+                "name": "Deseret News"
             },
-            "author": "Grace Hayba, Ryan Bisesi",
-            "title": "Blood test detects signs of osteoarthritis 8 years before X-ray - WRAL News",
-            "description": "Researchers have created a new blood test that could lead to earlier intervention for those with osteoarthritis.",
-            "url": "https://www.wral.com/story/blood-test-detects-signs-of-osteoarthritis-8-years-before-x-ray/21405254/",
-            "urlToImage": "https://images.wral.com/asset/lifestyles/healthteam/2024/04/29/21405714/3250229-Woman_walking-DMID1-62rynnb6m-1017x572.jpg",
-            "publishedAt": "2024-04-29T18:34:00Z",
-            "content": "Friday, researchers announced the creation of a new blood test that could lead to earlier intervention for those with osteoarthritis (OA). The degenerative disease, sometimes called 'wear-and-tear ar… [+2236 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Umn.edu"
-            },
-            "author": null,
-            "title": "WHO COVID vaccine advisers recommend switch to JN.1 strain - University of Minnesota Twin Cities",
-            "description": null,
-            "url": "https://www.cidrap.umn.edu/covid-19/who-covid-vaccine-advisers-recommend-switch-jn1-strain",
-            "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/vax%20prep.jpg?itok=V06ifUjf",
-            "publishedAt": "2024-04-29T18:24:13Z",
-            "content": null
+            "author": "Lois M. Collins",
+            "title": "Why climbing stairs improves longevity, heart health – Deseret News - Deseret News",
+            "description": "Is stair climbing good exercise? How many flights of stairs to boost health? Is climbing stairs good for your heart? Read more",
+            "url": "https://www.deseret.com/lifestyle/2024/04/29/stair-climbing-boosts-longevity-cardiovascular-respiratory-health/",
+            "urlToImage": "https://www.deseret.com/resizer/v2/5RIO2YDTGJHU7B436TLETHNM5A.jpg?focal=0%2C0&auth=a20561113b8fcbc5fd794717e4fbce8dd090229fdd5aee084c2a10ac5299b777&width=1200&height=630",
+            "publishedAt": "2024-04-29T18:55:35Z",
+            "content": "The internet is full of ideas and products to boost longevity. But among the most effective, inexpensive and readily available tools are stairs.\r\nResearch just presented at the European Society of Ca… [+6078 chars]"
         },
         {
             "source": {
@@ -707,19 +811,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Parkinson's News Today"
-            },
-            "author": "Patricia Inácio, PhD",
-            "title": "Machine learning approaches found to benefit Parkinson's research - Parkinson's News Today",
-            "description": "Machine learning approaches can benefit Parkinson's research, a study found, after one method helped identify more potent therapy candidates.",
-            "url": "https://parkinsonsnewstoday.com/news/machine-learning-approaches-benefit-parkinsons-research-study/",
-            "urlToImage": "https://parkinsonsnewstoday.com/wp-content/uploads/2021/08/Drugs_Bionews_700x350.png",
-            "publishedAt": "2024-04-29T16:02:33Z",
-            "content": "Scientists exploring the potential of machine learning approaches in drug discovery for Parkinsons disease and other neurodegenerative disorders focusing on misfolded proteins that are the hallmark o… [+4261 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "New York Post"
             },
             "author": "Reda Wigle",
@@ -729,97 +820,6 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/AdobeStock_56647993.jpeg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-04-29T15:56:00Z",
             "content": "Did you get your steps in?\r\nYou’ve probably heard that taking 10,000 steps per day is the key to health and longevity. But, according to one expert, there’s another number you should be keeping in mi… [+3652 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Steep Ozempic, Wegovy prices face fresh scrutiny from officials - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2024/04/29/weight-loss-drugs-cost-glp-1",
-            "urlToImage": null,
-            "publishedAt": "2024-04-29T15:07:21Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "https://www.facebook.com/kslcom/",
-            "title": "Utah woman finds relief from depression with ketamine therapy - KSL.com",
-            "description": "Prior to starting ketamine, Lily tried other treatments including incorporating healthy habits into her routine, but nothing helped.",
-            "url": "https://www.ksl.com/article/50994624/utah-woman-finds-relief-from-depression-with-ketamine-therapy",
-            "urlToImage": "https://img.ksl.com/slc/2980/298092/29809201.jpeg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2024-04-29T14:04:57Z",
-            "content": "What if your depression could improve radically in a matter of weeks?\r\nMost people would do anything for relief. When the all-consuming cloud of depression hangs over your head for months and even ye… [+5451 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Alarming Findings: Atrial Fibrillation Is More Common and Dangerous Than Previously Thought - SciTechDaily",
-            "description": "Atrial fibrillation (Afib), a common type of arrhythmia that is on the rise in people under the age of 65, is more dangerous in this increasingly younger population than previously thought, according to a new study recently published in Circulation Arrhythmia…",
-            "url": "https://scitechdaily.com/alarming-findings-atrial-fibrillation-is-more-common-and-dangerous-than-previously-thought/",
-            "urlToImage": "https://scitechdaily.com/images/Young-Myocarditis-Heart-Concept.jpg",
-            "publishedAt": "2024-04-29T12:39:52Z",
-            "content": "Recent research from UPMC has shown that atrial fibrillation is more common and severe in people under 65 than previously believed, leading to higher rates of severe health complications and lower su… [+3380 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Tatum Hunter",
-            "title": "An AI genetic test aims to detect postpartum depression before symptoms - The Washington Post",
-            "description": "A new AI-powered blood test from Dionysus Health claims to be able to improve the diagnosis and treatment of postpartum depression.",
-            "url": "https://www.washingtonpost.com/technology/2024/04/29/ai-healthcare-postpartum-depression-screening/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2PEWQCMM6D4D5MYYZU64LZDUSY.jpg&w=1440",
-            "publishedAt": "2024-04-29T12:00:24Z",
-            "content": "Postpartum depression is a leading cause of maternal death, but its diagnosis and treatment is spotty at best, negligent at worst.\r\nNow San Diego-based start-up Dionysus Digital Health is pitching a … [+6950 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Kim Schewitz",
-            "title": "Want to cut down on UPFs? 3 questions to ask yourself from a dietitian - Business Insider",
-            "description": "Growing research is linking ultra-processed foods to poor health. A dietitian shared three questions to make cutting down on UFPs less overwhelming.",
-            "url": "https://www.businessinsider.com/want-to-cut-down-on-upfs-3-questions-to-ask-yourself-dietitian-2024-4",
-            "urlToImage": "https://i.insider.com/662a3ba210dfcda409632543?width=1200&format=jpeg",
-            "publishedAt": "2024-04-29T11:11:00Z",
-            "content": "Ultra-processed foods have become a buzzy topic as people worry how products that they rely on daily might be affecting their health.\r\nAround 73% of the US food supply is ultra-processed, according t… [+3743 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Turning point: COVID-era hospital reporting set to end - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2024/04/29/hospital-reporting-covid-flu-rsv",
-            "urlToImage": null,
-            "publishedAt": "2024-04-29T09:41:50Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medical Xpress"
-            },
-            "author": "Science X",
-            "title": "After 25 years, researchers uncover genetic cause of rare neurological disease - Medical Xpress",
-            "description": "Some families call it a trial of faith. Others just call it a curse. The progressive neurological disease known as spinocerebellar ataxia 4 (SCA4) is a rare condition, but its effects on patients and their families can be severe. For most people, the first si…",
-            "url": "https://medicalxpress.com/news/2024-04-years-uncover-genetic-rare-neurological.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/after-25-years-researc.jpg",
-            "publishedAt": "2024-04-29T09:00:01Z",
-            "content": "This article has been reviewed according to Science X's \r\n editorial process\r\n and policies.\r\n Editors have highlighted\r\n the following attributes while ensuring the content's credibility:\r\nfact-chec… [+4573 chars]"
         },
         {
             "source": {

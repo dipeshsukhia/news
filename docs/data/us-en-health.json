@@ -1,7 +1,20 @@
 {
     "status": "ok",
-    "totalResults": 63,
+    "totalResults": 61,
     "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "1 in 8 adults in the US has taken Ozempic or another GLP-1 drug, KFF survey finds - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xMC9oZWFsdGgvb3plbXBpYy1nbHAtMS1zdXJ2ZXkta2ZmL2luZGV4Lmh0bWzSAUJodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA1LzEwL2hlYWx0aC9vemVtcGljLWdscC0xLXN1cnZleS1rZmY?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-10T09:00:00Z",
+            "content": null
+        },
         {
             "source": {
                 "id": "cnn",
@@ -44,6 +57,19 @@
         {
             "source": {
                 "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Aidin Vaziri",
+            "title": "New FLiRT variants could spark summer COVID wave in California - San Francisco Chronicle",
+            "description": "The FLiRT coronavirus variants, KP.1.1 and KP.2, have recently overtaken JN.1 as the dominant omicron offshoot in the U.S. Here’s what you need to know.",
+            "url": "https://www.sfchronicle.com/health/article/flirt-variants-summer-covid-wave-19445209.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/37/35/45/25024868/3/rawImage.jpg",
+            "publishedAt": "2024-05-09T22:55:03Z",
+            "content": "The FLiRT coronavirus variants, known as KP.1.1 and KP.2, have recently overtaken JN.1 as the dominant omicron offshoot in the U.S.  \r\nJustin Sullivan/Getty Images\r\nThe emergence of a new set of coro… [+6050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Eatingwell.com"
             },
             "author": "https://www.facebook.com/EatingWell/",
@@ -70,41 +96,15 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Forbes"
             },
-            "author": null,
-            "title": "Lucy Owen: My mum ignored test and got cancer, says BBC presenter - BBC.com",
-            "description": "BBC Wales' Lucy Owen on her mum's regrets at taking no notice of bowel cancer test offers.",
-            "url": "https://www.bbc.com/news/articles/c72pygmme34o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dae9/live/edc50fd0-0e1d-11ef-b9eb-dbbc39eb6212.png",
-            "publishedAt": "2024-05-09T22:01:32Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rwjbh.org"
-            },
-            "author": null,
-            "title": "The Greatest Gift for Mom: Health and Wellness - RWJBarnabas Health",
-            "description": "National Women’s Health Month and Mother’s Day, both celebrated in May, are important reminders that women can take control of their health by making feasible lifestyle choices and focusing on preventative care and mental wellness.",
-            "url": "https://www.rwjbh.org/blog/2024/may/the-greatest-gift-for-mom-health-and-wellness/",
-            "urlToImage": "https://www.rwjbh.org/images/blog/Spernal-Suzanne-540.jpg",
-            "publishedAt": "2024-05-09T21:34:13Z",
-            "content": "May 9 2024 –National Women’s Health Month and Mother’s Day, both celebrated in May, are important reminders that women can take control of their health by making feasible lifestyle choices and focusi… [+4055 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Nathaniel Weixel",
-            "title": "New COVID ‘FLiRT’ variants show virus isn’t going away - The Hill",
-            "description": "The most recent dominant variants of SARS-CoV-2, the virus that causes COVID-19, are part of a group sometimes called “FLiRT” variants and serve as a reminder that the virus isn’t going away and some people continue to suffer.  While most of the country and t…",
-            "url": "https://thehill.com/policy/healthcare/4654808-new-covid-flirt-variants-coronavirus/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/11/covid-tests-AP.jpeg?w=1280",
-            "publishedAt": "2024-05-09T21:12:00Z",
-            "content": "The most recent dominant variants of SARS-CoV-2, the virus that causes COVID-19, are part of a group sometimes called FLiRT variants and serve as a reminder that the virus isnt going away and some pe… [+4094 chars]"
+            "author": "Arianna Johnson",
+            "title": "Bird Flu (H5N1) Explained: 70 People In Colorado Monitored For Illness, Local Officials Say - Forbes",
+            "description": "Bird flu typically spreads among birds, but there have been recent outbreaks among cattle in the U.S., and one Texas man contracted the virus from sick cows. Here’s why so many experts are worried about a possible new pandemic.",
+            "url": "https://www.forbes.com/sites/ariannajohnson/2024/05/09/bird-flu-h5n1-explained-70-people-in-colorado-monitored-for-illness-local-officials-says/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662a9d6a4635389a14a348ae/0x0.jpg?format=jpg&crop=2812,1581,x0,y128,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-05-09T22:05:55Z",
+            "content": "Heres the latest news about a global outbreak of H5N1 bird flu that started in 2020, and recently spread among cattle in U.S. states and marine mammals across the world, which has health officials cl… [+10161 chars]"
         },
         {
             "source": {
@@ -134,29 +134,42 @@
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": null,
+                "name": "WNYT"
             },
-            "author": "Victoria Bisset, Adela Suliman",
-            "title": "Deaf baby hears for the first time after 'groundbreaking' gene therapy trial - The Washington Post",
-            "description": "Opal Sandy, an 18-month-old from England, is the youngest child to come close to “normal hearing levels” in a gene therapy trial to aid her genetic deafness.",
-            "url": "https://www.washingtonpost.com/world/2024/05/09/opal-sandy-deaf-baby-gene-trial/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DOEKGSDD7VF5KQSZMSWGIDM7Y4_size-normalized.JPG&w=1440",
-            "publishedAt": "2024-05-09T20:22:00Z",
-            "content": "LONDON A baby girl born with profound genetic deafness can now hear unaided after receiving a groundbreaking gene therapy trial, Britains National Health Service said Thursday.\r\nOpal Sandy, an 18-mon… [+310 chars]"
+            "author": "Michael Goot",
+            "title": "Moms must take time for self-care - WNYT NewsChannel 13",
+            "description": "With Mother’s Day on Sunday, it is important for moms to also remember their health and well-being. When it comes to self-care for moms, it doesn’t have to be anything extravagant. Instead, it’s about making time for yourself and finding ways to relax. Some i…",
+            "url": "https://wnyt.com/top-stories/wnyt-health-report/moms-must-take-time-for-self-care/",
+            "urlToImage": "https://wnyt.com/wp-content/uploads/2024/05/Mom-Health.jpg",
+            "publishedAt": "2024-05-09T20:44:40Z",
+            "content": "With Mothers Day on Sunday, it is important for moms to also remember their health and well-being.\r\nWhen it comes to self-care for moms, it doesnt have to be anything extravagant. Instead, its about … [+652 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Neurosciencenews.com"
             },
-            "author": "PsyPost",
+            "author": "Neuroscience News",
+            "title": "Breakthrough in Immunotherapy for Brain Cancer - Neuroscience News",
+            "description": "Researchers unveiled a new combination immunotherapy that significantly boosts the immune response in patients with malignant gliomas.",
+            "url": "https://neurosciencenews.com/immunotherapy-glioma-brain-cancer-26075/",
+            "urlToImage": "https://neurosciencenews.com/files/2024/05/immunotherapy-glioma-cancer-neuroscience.jpg",
+            "publishedAt": "2024-05-09T20:10:19Z",
+            "content": "Summary: Researchers unveiled a new combination immunotherapy that significantly boosts the immune response in patients with malignant gliomas. By integrating a personalized dendritic cell vaccine wi… [+9601 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PsyPost"
+            },
+            "author": "Robin Kramer",
             "title": "Insights into prosopometamorphopsia: When faces warp into nightmares - PsyPost",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnBzeXBvc3Qub3JnL2luc2lnaHRzLWludG8tcHJvc29wb21ldGFtb3JwaG9wc2lhLXdoZW4tZmFjZXMtd2FycC1pbnRvLW5pZ2h0bWFyZXMv0gEA?oc=5",
-            "urlToImage": null,
+            "description": "Prosopometamorphopsia is a rare condition where faces appear distorted or demonic. Recent research on a unique case sheds light on its causes, recovery, and treatment options, providing insights into facial perception and potential use of color filters to all…",
+            "url": "https://www.psypost.org/insights-into-prosopometamorphopsia-when-faces-warp-into-nightmares/",
+            "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/05/Prosopometamorphopsia.jpg",
             "publishedAt": "2024-05-09T20:07:04Z",
-            "content": null
+            "content": "If youve seen portraits painted by Pablo Picasso or Francis Bacon, you might not be surprised to hear that both men may have suffered from a disorder that affects how faces are perceived.\r\nProsopomet… [+5104 chars]"
         },
         {
             "source": {
@@ -182,6 +195,19 @@
             "url": "https://www.bbc.com/news/articles/cyxe4zwngkjo",
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e076/live/fe5ab690-0e38-11ef-b79f-f3c75733accd.jpg",
             "publishedAt": "2024-05-09T19:46:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Stroke survivor says look for these warning signs - CBS New York",
+            "description": "Kyle McMorrow was just 36-years-old when he had a stroke. Now more than a year into his recovery, McMorrow and Dr. Philip Stieg, a member of his care team, a...",
+            "url": "https://www.youtube.com/watch?v=3oSlrSxXpsc",
+            "urlToImage": "https://i.ytimg.com/vi/3oSlrSxXpsc/maxresdefault.jpg",
+            "publishedAt": "2024-05-09T19:22:08Z",
             "content": null
         },
         {
@@ -213,6 +239,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Turn Back Time: How Our Cells' Noise Could Unlock Youth - Neuroscience News",
+            "description": "A new study uncovered that aging clocks, which assess biological age, do so by measuring stochastic changes in cellular processes, particularly in DNA methylation.",
+            "url": "https://neurosciencenews.com/dna-aging-clock-26071/",
+            "urlToImage": "https://neurosciencenews.com/files/2024/05/biological-clock-aging-neurosicence.jpg",
+            "publishedAt": "2024-05-09T18:58:16Z",
+            "content": "Summary: A new study uncovered that aging clocks, which assess biological age, do so by measuring stochastic changes in cellular processes, particularly in DNA methylation. These clocks indicate that… [+5793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Endpoints News"
+            },
+            "author": "Lei Lei Wu",
+            "title": "Across two clinical trials, gene therapy restores hearing in children deaf since birth: #ASGCT24 - Endpoints News",
+            "description": "BALTIMORE — Ten out of 11 children who were born deaf can now hear after receiving a gene therapy from a Shanghai biotech, according to new results shared Thursday. The children who recovered their hearing are also showing improvements in their ability to spe…",
+            "url": "https://endpts.com/across-two-clinical-trials-gene-therapy-restored-hearing-in-children-deaf-since-birth-asgct24/",
+            "urlToImage": "https://endpts.com/wp-content/uploads/2023/02/ear-shutterstock-social.jpg",
+            "publishedAt": "2024-05-09T18:48:00Z",
+            "content": "BAL­TI­MORE — Ten out of 11 chil­dren who were born deaf can now hear af­ter re­ceiv­ing a gene ther­a­py from a Shang­hai biotech, ac­cord­ing to new re­sults shared Thurs­day.\r\nThe chil­dren who re… [+496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "WTOP"
             },
             "author": "WTOP Staff",
@@ -226,19 +278,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Letsliveitup.com"
-            },
-            "author": "Jennifer Huizen",
-            "title": "Debunking 5 common supplement myths - AOL",
-            "description": "Live It Up consulted various reputable sources like Johns Hopkins Medicine, Penn Medicine, and more to get the low-down on five common supplement myths.",
-            "url": "https://letsliveitup.com/blogs/supergreens/debunking-supplement-myths",
-            "urlToImage": "https://media.zenfs.com/en/aol_stacker_articles_387/925b7b93759c469df1b3992e24489d97",
-            "publishedAt": "2024-05-09T18:30:00Z",
-            "content": "Sergii Sobolevskyi // Shutterstock\r\nAbout 3 in 4 (74%) American adults take supplements, according to topline data from the 2023 Consumer Survey on Dietary Supplements by Council for Responsible Nutr… [+10943 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "KHOU.com"
             },
             "author": "Pauline Smith (KHOU)",
@@ -248,6 +287,19 @@
             "urlToImage": "https://media.khou.com/assets/KHOU/images/a9635152-b2da-4815-8d5f-a030cb424ac7/20240509T172552/a9635152-b2da-4815-8d5f-a030cb424ac7_1140x641.jpg",
             "publishedAt": "2024-05-09T18:02:00Z",
             "content": "HOUSTON On social media, some women are reporting an unusual side effect of taking the new class of weight loss drugs that include Ozempic and Mounjaro babies.\r\nOften, these new mothers-to-be have su… [+1218 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "William A. Haseltine",
+            "title": "Healthy Lifestyle Can Offset “Unlucky” Genes, Study Finds - Forbes",
+            "description": "What makes us live long lives, nature or nurture? Research suggests both, but lifestyle choices may be able to cancel out the negative impact of unfavorable genes.",
+            "url": "https://www.forbes.com/sites/williamhaseltine/2024/05/09/healthy-lifestyle-can-offset-unlucky-genes-study-finds/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6639cf3a6bd1c585d3f43fdf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-05-09T18:00:00Z",
+            "content": "A healthy lifestyle may be able to cancel out roughly 60% of the impact of life-shortening genes, ... [+] potentially adding another five years to your life, according to a recent study.\r\ngetty\r\nSome… [+3737 chars]"
         },
         {
             "source": {
@@ -303,19 +355,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -326,45 +365,6 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OPAEC64ORZBY7O6KQZQTOI2BEM.jpg&w=1440",
             "publishedAt": "2024-05-09T14:06:01Z",
             "content": "Stephen Clark, an Atlanta-area physical therapist, sees many patients who suffer from muscle guarding after a traumatic surgery or injury. Muscle guarding, which emanates from the brain, is a physica… [+456 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Amy Eisinger",
-            "title": "Mediterranean diet essential could help stave off dementia - New York Post ",
-            "description": "Go ahead and add this condiment to your diet daily.",
-            "url": "https://nypost.com/2024/05/09/lifestyle/this-mediterranean-diet-go-to-could-help-stave-off-dementia/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/81421794.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-05-09T13:56:00Z",
-            "content": "Having just seven grams of olive oil a bit over half a tablespoon per day can help stave off dementia, according to a new study. \r\nRegularly consuming the salad dressing staple is associated with a 2… [+2578 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vox"
-            },
-            "author": "A.W. Ohlheiser",
-            "title": "Misleading TikTok Shop ads turned The Lost Book of Herbal Remedies into a bestseller - Vox.com",
-            "description": "The obscure, inaccurate book’s popularity on the TikTok Shop resulted in a spike in sales on Amazon.",
-            "url": "https://www.vox.com/24152358/tiktok-shop-ads-lost-book-of-herbal-remedies-bestseller",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Pg26qFfchO8_cqIy8W58sG9fKNg=/0x355:5000x2973/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25439470/1786821049.jpg",
-            "publishedAt": "2024-05-09T13:00:19Z",
-            "content": "If youve spent enough time scrolling through TikTok, you might have seen a video from an account like @tybuggyreviews, a handle with half a million followers that exclusively posts videos selling pro… [+10881 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Jennifer Zieba",
-            "title": "Researchers develop personalized cancer treatment using mRNA vaccine technology - Livescience.com",
-            "description": "COVID-19 vaccine development paves way to a new class of cancer immunotherapy.",
-            "url": "https://www.livescience.com/health/cancer/new-mrna-vaccine-treats-deadly-brain-cancer-and-it-triggers-a-strong-immune-response",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/65hZPG5gxLW4xVtCL823XM-1200-80.jpg",
-            "publishedAt": "2024-05-09T11:00:00Z",
-            "content": "For the first time, scientists have tested a messenger RNA (mRNA) vaccine in a patient with a deadly form of brain cancer — and it triggered a strong immune response.\r\nThe vaccine, which was describe… [+3675 chars]"
         },
         {
             "source": {
@@ -421,19 +421,6 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "AstraZeneca Covid vaccine death linked to GP surgery error - BBC.com",
-            "description": "Alex Reid was wrongly advised on early vaccination due to a clinical mistake 17 years earlier.",
-            "url": "https://www.bbc.com/news/uk-england-leeds-68935566",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D05A/production/_133283335_alex.png",
-            "publishedAt": "2024-05-09T08:25:06Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "[Removed]"
             },
             "author": null,
@@ -447,6 +434,45 @@
         {
             "source": {
                 "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "The Conversation",
+            "title": "Sweet Vapes, Deadly Risk? New Study Finds Dangers Lurk in Popular Flavors - ScienceAlert",
+            "description": "Vaping has become widely adopted as an alternative to traditional smoking.",
+            "url": "https://www.sciencealert.com/sweet-vapes-deadly-risk-new-study-finds-dangers-lurk-in-popular-flavors",
+            "urlToImage": "https://www.sciencealert.com/images/2024/05/HeadOfVapingHumanInCloud.jpg",
+            "publishedAt": "2024-05-09T07:04:47Z",
+            "content": "Vaping has become widely adopted as an alternative to traditional smoking. The latest figures show 4.5 million people in the UK regularly use e-cigarettes.\r\nHowever, there are many concerning unknown… [+4180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boredpanda.com"
+            },
+            "author": "Ieva Pečiulytė",
+            "title": "“My Wife Left Me After She Got In Shape And Now Wants To Get Back Together” - Bored Panda",
+            "description": "When the wife got in shape, she decided to leave her husband because she apparently settled for him, only to beg for his forgiveness a few weeks later.",
+            "url": "https://www.boredpanda.com/wife-gets-fit-leaves-husband-wants-second-chance/",
+            "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2024/05/wife-gets-fit-leaves-husband-wants-second-chance-fb6.png",
+            "publishedAt": "2024-05-09T06:28:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Microneedle Magic: New Alopecia Treatment Can Reverse Hair Loss - SciTechDaily",
+            "description": "A new microneedle patch effectively treats alopecia areata by rebalancing the immune response locally, promoting hair regrowth and reducing inflammation without systemic side effects. Researchers at MIT, Brigham and Women’s Hospital, and Harvard Medical Schoo…",
+            "url": "https://scitechdaily.com/microneedle-magic-new-alopecia-treatment-can-reverse-hair-loss/",
+            "urlToImage": "https://scitechdaily.com/images/Bald-Man-Looking-at-Mirror.jpg",
+            "publishedAt": "2024-05-09T06:13:23Z",
+            "content": "Innovative research has led to the development of a microneedle patch that targets alopecia areata directly at the scalp. This new approach avoids the broader side effects of systemic immune suppress… [+7732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "World Health Organization"
             },
             "author": null,
@@ -456,32 +482,6 @@
             "urlToImage": null,
             "publishedAt": "2024-05-09T04:44:20Z",
             "content": "Situation at a glance\r\nThe World Health Organization (WHO) was notified of three human cases, including one death, of Middle East respiratory syndrome coronavirus (MERS-CoV) between 10 and 17 April 2… [+12845 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Infected blood: Hundreds of victims living with undetected hepatitis C - BBC.com",
-            "description": "About 1,750 people are unaware they caught hepatitis C from infected blood, BBC analysis reveals.",
-            "url": "https://www.bbc.com/news/health-68978513",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/112E/production/_133289340_blood-index.jpg",
-            "publishedAt": "2024-05-09T04:21:25Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fitandwell.com"
-            },
-            "author": "Lois Mackenzie",
-            "title": "We should all be doing these three strength training exercises if we want longer, healthier lives, according to a trainer - Fit and Well",
-            "description": "Build strength and maintain your mobility with these moves",
-            "url": "https://www.fitandwell.com/features/we-should-all-be-doing-these-three-strength-training-exercises-if-we-want-to-live-longer-healthy-lives-according-to-a-trainer",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/f8wQixRWUfDeDnqRx8Srzf-1200-80.jpg",
-            "publishedAt": "2024-05-09T04:00:00Z",
-            "content": "It's no secret that exercise can boost your mood and give you a stronger, fitter body. But did you know it can also help you live a longer life? Research suggests it can increase your life expectancy… [+4049 chars]"
         },
         {
             "source": {
@@ -499,6 +499,19 @@
         {
             "source": {
                 "id": null,
+                "name": "12newsnow.com KBMT-KJAC"
+            },
+            "author": "Brett Strahan",
+            "title": "Flesh-eating bacteria hospitalizes Nederland man for over two weeks - 12newsnow.com KBMT-KJAC",
+            "description": "Wayne Speyrer's arm and leg were both infected by the bacteria, and he says he was exposed to it while visiting Sea Rim State Park.",
+            "url": "https://www.12newsnow.com/article/news/local/flesh-eating-bacteria-hospitalizes-nederland-man-over-two-weeks/502-f71d14cf-a768-4004-9a9d-4eb74b888a86",
+            "urlToImage": "https://media.12newsnow.com/assets/KBMT/images/16139863-cc81-4e38-9c61-3aed1655af1f/20240509T033508/16139863-cc81-4e38-9c61-3aed1655af1f_1140x641.jpg",
+            "publishedAt": "2024-05-09T03:38:00Z",
+            "content": "NEDERLAND, Texas After 16 days in the hospital battling a flesh-eating bacterium, a Nederland man is now recovering at home.\r\nWayne Speyrer's arm and leg were both infected by the bacteria, and he sa… [+1755 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "YouTube"
             },
             "author": null,
@@ -512,15 +525,15 @@
         {
             "source": {
                 "id": null,
-                "name": "WRAL.com"
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "Tuberculosis case reported at high school in North Carolina - WRAL News",
-            "description": "A positive case of tuberculosis (TB) has been identified at a school in Randolph County.",
-            "url": "https://www.wral.com/story/tuberculosis-case-reported-at-high-school-in-north-carolina/21421516/",
-            "urlToImage": "https://images.wral.com/asset/news/local/2014/01/08/13284105/13284105-1452441769-646x485.jpg",
-            "publishedAt": "2024-05-09T02:45:50Z",
-            "content": "A positive case of tuberculosis (TB) has been identified at a school in Randolph County.\r\nLeaders with the Randolph County Public Health system said the case was identified at Eastern Randolph High S… [+381 chars]"
+            "title": "Popular ADHD Medications Like Adderall May Increase Young Adults' Risk of Heart Damage - SciTechDaily",
+            "description": "As time progresses, the probability of developing cardiomyopathy increases, yet the overall risk is still minimal. A study presented at the American College of Cardiology’s Annual Scientific Session reveals that young adults prescribed stimulant medications f…",
+            "url": "https://scitechdaily.com/popular-adhd-medications-like-adderall-may-increase-young-adults-risk-of-heart-damage/",
+            "urlToImage": "https://scitechdaily.com/images/Human-Heart-Attack.jpg",
+            "publishedAt": "2024-05-09T02:05:14Z",
+            "content": "Research indicates that young adults on ADHD stimulants like Adderall and Ritalin have a higher, but still low, risk of developing cardiomyopathy over time, suggesting no immediate need for changes i… [+5109 chars]"
         },
         {
             "source": {
@@ -538,28 +551,15 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "KABC-TV"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Denver7.com"
-            },
-            "author": "Óscar Contreras",
-            "title": "No plans yet to modify Colorado livestock fairs, shows despite presence of bird flu in dairy cows - Denver 7 Colorado News",
-            "description": "Risk to the general public remains low; commercial food supply is safe, CDPHE says",
-            "url": "https://www.denver7.com/news/state-news/no-plans-yet-to-modify-colorado-livestock-fairs-shows-despite-presence-of-bird-flu-in-dairy-cows",
-            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/2df10f7/2147483647/strip/true/crop/1024x538+0+67/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fa4%2F2c%2F79e1ca2841c2af12191811f23ed0%2Fap24107677450143.jpg",
-            "publishedAt": "2024-05-09T01:17:31Z",
-            "content": "DENVER Plans to modify livestock fairs and shows in Colorado this summer have not been drafted despite many unknowns about how bird flu is spreading among dairy cattle, state officials said Wednesday… [+8021 chars]"
+            "title": "New Esoguard test can help with early detection of esophageal cancer - sometimes indicated by chronic heartburn - KABC-TV",
+            "description": "Chronic heartburn may be an early sign of esophageal cancer and a new test can help you know for sure.",
+            "url": "https://abc7.com/post/esoguard-test-helps-early-detection-of-esophageal-cancer/14785949/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/14785810_050824-kabc-4pm-esoguard-vid.jpg?w=1600",
+            "publishedAt": "2024-05-09T01:09:35Z",
+            "content": "LONG BEACH, Calif. (KABC) -- Many people experience occasional acid reflux.\r\nBut if you have it all the time, it could lead to a very serious condition and in some cases, cancer.\r\nNow, there's a new … [+1996 chars]"
         },
         {
             "source": {
@@ -577,15 +577,15 @@
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Rebecca Dyer",
-            "title": "Your Body's Cells Could Age Years in a Single Day, Challenging Past Research - ScienceAlert",
-            "description": "Most of our cells have a genetic code that, when deciphered, tells our body how to make the proteins we need for survival.",
-            "url": "https://www.sciencealert.com/your-bodys-cells-could-age-years-in-a-single-day-challenging-past-research",
-            "urlToImage": "https://www.sciencealert.com/images/2023/04/GettyImages-465083677-2.jpg",
-            "publishedAt": "2024-05-09T00:50:17Z",
-            "content": "Most of our cells have a genetic code that, when deciphered, tells our body how to make the proteins we need for survival. With the passing of time and experience of hardship, small modifications are… [+2568 chars]"
+            "author": "Samantha Cassetty, RD",
+            "title": "Does drinking olive oil have health benefits? Dietitian shares tips to add it your diet - Yahoo Life",
+            "description": "Olive oil has many health benefits, from skin and hair to cancer. Is drinking olive oil good for you? Learn about its nutrition and ways to add it to your...",
+            "url": "https://www.yahoo.com/lifestyle/does-drinking-olive-oil-health-003432158.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FW0Eg3zlX7OEurQXSfqf6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDU-/https://media.zenfs.com/en/nbc_today_217/f4ef1f9eb8b879e8d684f84012dd7cd3",
+            "publishedAt": "2024-05-09T00:34:00Z",
+            "content": "Olive oil is a key ingredient in the Mediterranean diet, which many nutrition experts consider to be the healthiest way to eat.\r\nSwapping olive oil for other fats is one of the easiest ways to boost … [+6939 chars]"
         },
         {
             "source": {
@@ -605,12 +605,25 @@
                 "id": null,
                 "name": "Sacramento Bee"
             },
-            "author": "Sacramento Bee",
-            "title": "This deadly disease that kills deer and elk has been detected in California for the first time - Sacramento Bee",
-            "description": null,
+            "author": "Chris Biderman",
+            "title": "Chronic wasting disease first cases found in California deer - Sacramento Bee",
+            "description": "Chronic wasting disease, deadly illness that can kill animals, was found for first time in California deer near Yosemite Lakes and Bishop.",
             "url": "https://www.sacbee.com/news/local/article288423157.html",
-            "urlToImage": null,
+            "urlToImage": "https://www.sacbee.com/latest-news/h63tb8/picture288425599/alternates/LANDSCAPE_1140/DK-DEER-FILE-DISEASE.jpg",
             "publishedAt": "2024-05-08T23:42:00Z",
+            "content": "Local\r\nA deadly disease that has ravaged deer in other parts of North America was found for the first time in California this week.\r\nAccording to the state Department of Fish and Wildlife, chronic wa… [+3933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "40 Percent of Mental Illnesses Linked to Childhood Maltreatment - Neuroscience News",
+            "description": null,
+            "url": "https://neurosciencenews.com/child-maltreatment-mental-health-26067/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-08T20:59:35Z",
             "content": null
         },
         {
@@ -642,6 +655,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Kristin Wong",
+            "title": "Money advice: I got my unemployed girlfriend pregnant. We'd only been dating for six months. - Slate",
+            "description": "Now I'm learning what she's really like.",
+            "url": "https://slate.com/advice/2024/05/unemployed-girlfriend-pregnancy-personal-finance-advice.html",
+            "urlToImage": "https://compote.slate.com/images/93909b95-a649-44af-97bc-64a18b82ac4f.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2024-05-08T18:52:00Z",
+            "content": "Pay Dirt is Slates money advice column. Have a question? Send it to Athena, Kristin, and Ilyce here. (Its anonymous!)\r\nDear Pay Dirt,\r\nMy girlfriend is currently unemployed, pregnant, and living with… [+13560 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Meghan Holohan",
+            "title": "EXCLUSIVE: 'Pretty healthy' mom, 39, felt like she had the flu. Then she went into cardiac arrest - Yahoo! Voices",
+            "description": "Mom struggled to breath, thought she had flu. It was viral myocarditis. She experienced cardiac arrest. Doctors worries about heart failure. A LVAD helped...",
+            "url": "https://www.yahoo.com/news/exclusive-pretty-healthy-mom-39-184841818.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YcqrkiJ2HITFEbXZPV7P3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjAw/https://media.zenfs.com/en/nbc_today_217/ff2a5247b59f2f966c083de424a157de",
+            "publishedAt": "2024-05-08T18:48:41Z",
+            "content": "After going on vacation in July 2022, Loree Benigni, then 39, returned home and felt like she had the flu. When her symptoms didn't improve, she visited an urgent care, where doctors ran tests and sa… [+7787 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Interesting Engineering"
             },
             "author": "Maria Mocerino",
@@ -655,15 +694,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Best Life"
             },
-            "author": "Linda Carroll",
-            "title": "'Surprisingly' high number of adults, even those as young as 20, at risk of heart syndrome - Yahoo! Voices",
-            "description": "Nearly 90% of adults over age 20 in the U.S. are at risk of developing heart disease, an alarming new study suggests.",
-            "url": "https://www.yahoo.com/news/surprisingly-high-number-adults-even-170000907.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fiDe_Oh8Ru0Ti1S1DyqgEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/e64551ed78ea12df82dbe51d7681efd6",
-            "publishedAt": "2024-05-08T17:00:00Z",
-            "content": "Nearly 90% of adults over age 20 in the United States are at risk of developing heart disease, an alarming new study suggests.\r\nWhile the unexpectedly high number doesn't mean that the majority of ad… [+5157 chars]"
+            "author": "Kali Coleman",
+            "title": "New Easier \"Anti-Diet\" Has People Losing 2 Inches of Waist in 18 Weeks - Best Life",
+            "description": "British epidemiologist and professor Tim Spector shares how people can lose two inches of waist in 18 weeks with his new \"anti-diet.\"",
+            "url": "https://bestlifeonline.com/anti-diet-weight-loss/",
+            "urlToImage": "https://bestlifeonline.com/wp-content/uploads/sites/3/2024/05/anti-diet-losing-weight.jpg?quality=82&strip=all",
+            "publishedAt": "2024-05-08T16:22:14Z",
+            "content": "When it comes to weight loss, there's endless discussion over what not to eat. Even popular weight-loss drugs like Ozempic work in large part by helping you limit what you consume. But what if you co… [+4140 chars]"
         },
         {
             "source": {
@@ -706,19 +745,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "ALS News Today"
-            },
-            "author": "Andrea Lobo, PhD",
-            "title": "University of Michigan neurologist wins Sheila Essey Award for ALS... - ALS News Today",
-            "description": "Researcher Eva Feldman, MD, PhD has studied how occupational exposures are linked to the development and progression of ALS.",
-            "url": "https://alsnewstoday.com/news/university-michigan-neurologist-wins-sheila-essey-award-als-research/",
-            "urlToImage": "https://alsnewstoday.com/wp-content/uploads/2024/05/NewintheNews.png",
-            "publishedAt": "2024-05-08T13:25:18Z",
-            "content": "University of Michigan neurologist Eva Feldman was recently recognized with the 2024 Sheila Essey Award for her groundbreaking research on the biological processes that drive the onset of amyotrophic… [+3318 chars]"
-        },
-        {
-            "source": {
                 "id": "national-geographic",
                 "name": "National Geographic"
             },
@@ -729,19 +755,6 @@
             "urlToImage": "https://i.natgeofe.com/n/7fb0dbbc-8430-4db4-89ed-41fa005a41b7/C0529575-Bunions_X-ray-Edit_16x9.jpg?w=1200",
             "publishedAt": "2024-05-08T13:22:56Z",
             "content": "Over 8,000 years ago, humans walked barefoot along what is now the coast of northwest England, leaving their indelible footprints behind. We may not have much in common with these prehistoric hunter-… [+1994 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Chinedu Okafor",
-            "title": "Namibia becomes the first African country to significantly crack HIV - Business Insider Africa",
-            "description": "Namibia has achieved a significant milestone in combating the spread of HIV.",
-            "url": "https://africa.businessinsider.com/local/lifestyle/namibia-becomes-the-first-african-country-to-significantly-crack-hiv/td86k0l#article",
-            "urlToImage": "https://ocdn.eu/pulscms-transforms/1/m0NktkpTURBXy9kZjFhMGYxZDNkNDM1NzdhMGY3ZWNmYjVhNmNkYTg3Mi5qcGeSlQMAAM0FoM0DKpMFzQSwzQJ2",
-            "publishedAt": "2024-05-08T12:55:40Z",
-            "content": "Namibia's success is the result of an integrated effort to avert the spread of syphilis, HIV, and hepatitis B. The Triple Elimination Initiative by WHO seeks to protect women's and children's health … [+2748 chars]"
         },
         {
             "source": {
@@ -759,15 +772,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Adirondackexplorer.org"
+                "name": "The Conversation Africa"
             },
-            "author": "Lauren Yates",
-            "title": "Toddler's survival against all odds raises awareness of tick-borne illnesses - Adirondack Explorer",
-            "description": "An Adirondack family's ordeal with tick-borne illness Powassan, and how they're spreading awareness in their community.",
-            "url": "https://www.adirondackexplorer.org/stories/family-raises-awareness-about-tick-disease",
-            "urlToImage": "https://www.adirondackexplorer.org/wp-content/uploads/2024/05/cali_hike.jpg",
-            "publishedAt": "2024-05-08T10:31:30Z",
-            "content": "Saranac toddler grapples with ongoing issues from Powassan virus\r\nBy Lauren Yates\r\nA tick could never take away Cali Neris infamous dimples at least not for long.\r\nIts been more than 18 months since … [+4898 chars]"
+            "author": "Cara Wall-Scheffler",
+            "title": "Everyday life and its variability influenced human evolution at least as much as rare activities like big-game hunting - The Conversation",
+            "description": "Some anthropologists question how much rare activities like big-game hunting could have affected how our species evolved. Instead they’re looking at daily activities like carrying water or firewood.",
+            "url": "https://theconversation.com/everyday-life-and-its-variability-influenced-human-evolution-at-least-as-much-as-rare-activities-like-big-game-hunting-216886",
+            "urlToImage": "https://images.theconversation.com/files/592397/original/file-20240506-16-hqytwf.jpg?ixlib=rb-4.1.0&rect=0%2C1785%2C3354%2C1674&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2024-05-08T12:35:48Z",
+            "content": "Think about taking a walk: where you need to go, how fast you need to move to get there, and whether you need to bring something along to carry the results of your errand.\r\nAre you going on this walk… [+6861 chars]"
         },
         {
             "source": {
@@ -781,45 +794,6 @@
             "urlToImage": "",
             "publishedAt": "2024-05-08T10:25:09Z",
             "content": "Most scientists believe that consciousness came after life, as a product of evolution. But observations of extraterrestrial organic material, along with Roger Penrose and Stuart Hameroffs quantum the… [+21555 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Best Life"
-            },
-            "author": "Lauren Gray",
-            "title": "5 Surprising Turmeric Benefits, According to Experts - Best Life",
-            "description": "Turmeric supplements provide a range of health benefits. Here's what turmeric and curcumin can—and cannot—do for you.",
-            "url": "https://bestlifeonline.com/turmeric-benefits/",
-            "urlToImage": "https://bestlifeonline.com/wp-content/uploads/sites/3/2024/05/Womans-hands-holding-turmeric-pills.jpg?quality=82&strip=all",
-            "publishedAt": "2024-05-08T10:13:49Z",
-            "content": "If you've started seeing turmeric supplements in every health food store and pharmacy, that's because their popularity has skyrocketed over the last several years. Though turmeric benefits are hardly… [+10991 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Betsy McKay",
-            "title": "The Quest for Treatments to Keep Weight Off After Ozempic - The Wall Street Journal",
-            "description": "Obesity researchers and companies turn toward helping people maintain losses",
-            "url": "https://www.wsj.com/health/pharma/maintaining-weight-loss-1fd1e321",
-            "urlToImage": "https://images.wsj.net/im-951947/social",
-            "publishedAt": "2024-05-08T09:30:00Z",
-            "content": "Aida Diaz sat down at a long table laden with fried chicken, french fries, salad and more. \r\nPick what you want for dinner, researchers at Columbia University instructed the 27-year-old New Yorker. D… [+187 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
         }
     ]
 }

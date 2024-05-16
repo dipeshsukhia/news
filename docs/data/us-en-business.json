@@ -1,19 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 27,
+    "totalResults": 24,
     "articles": [
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "4029tv",
+            "title": "Walmart to lay off hundreds, move workers to Bentonville - 4029tv",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LjQwMjl0di5jb20vYXJ0aWNsZS93YWxtYXJ0LWxheW9mZnMtMjAyNC82MDc5MDQxNtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-15T03:55:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "MDH and Everest: Indian spices face heat over global safety concerns - BBC.com",
-            "description": "India is a global powerhouse of spices. But recent quality concerns have cast a cloud on its position.",
-            "url": "https://www.bbc.com/news/world-asia-india-68989964",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3A70/production/_133306941_gettyimages-1178111197.jpg",
-            "publishedAt": "2024-05-15T00:01:55Z",
-            "content": null
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Ilya Sutskever, OpenAI co-founder and longtime chief scientist, departs - TechCrunch",
+            "description": "OpenAI co-founder and chief scientist Ilya Sutskever has left the company.",
+            "url": "https://techcrunch.com/2024/05/14/ilya-sutskever-openai-co-founder-and-longtime-chief-scientist-departs/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/ilyausutskever-GettyImages.jpg?resize=1200,800",
+            "publishedAt": "2024-05-15T00:07:00Z",
+            "content": "Ilya Sutskever, OpenAI’s longtime chief scientist and one of its co-founders, has left the company.\r\nOpenAI CEO Sam Altman announced the news in a post on X on Tuesday evening.\r\n“This is very sad to … [+4557 chars]"
         },
         {
             "source": {
@@ -21,7 +47,7 @@
                 "name": "The Hill"
             },
             "author": "Tara Suter",
-            "title": "Buttigieg 'speechless' as airlines sue over new fee rules - The Hill",
+            "title": "Buttigieg ‘speechless’ as airlines sue over new fee rules - The Hill",
             "description": "Transportation Secretary Pete Buttigieg heavily criticized a recent lawsuit by major airlines over a new rule that requires airline companies to reveal extra fees on purchases. “We just issued a rule requiring airlines to inform you, before you buy a ticket, …",
             "url": "https://thehill.com/policy/transportation/4664215-buttigieg-speechless-as-airlines-sue-over-new-fee-rules/",
             "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/buttigiegpete_042023gn06_w.jpg?w=1280",
@@ -33,91 +59,91 @@
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Hayden Field, Jordan Novet",
-            "title": "OpenAI co-founder Ilya Sutskever says he will leave the startup - CNBC",
-            "description": "OpenAI co-founder Ilya Sutskever said Tuesday that he's leaving the Microsoft-backed startup.",
-            "url": "https://www.cnbc.com/2024/05/14/openai-co-founder-ilya-sutskever-says-he-will-leave-the-startup.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107337930-1700665715409-gettyimages-1258459514-AFP_33GZ4VK.jpeg?v=1715728442&w=1920&h=1080",
-            "publishedAt": "2024-05-14T23:13:54Z",
-            "content": "OpenAI co-founder Ilya Sutskever said Tuesday that he's leaving the Microsoft-backed startup.\r\n\"I am excited for what comes next a project that is very personally meaningful to me about which I will … [+3774 chars]"
+            "author": "Samantha Subin",
+            "title": "Stock futures are little changed as Wall Street readies for key inflation report: Live updates - CNBC",
+            "description": "The Nasdaq Composite notched a fresh closing high on Tuesday.",
+            "url": "https://www.cnbc.com/2024/05/14/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107407561-1714400220429-gettyimages-2150694510-_s1_5249_beo2hfdz.jpeg?v=1715720079&w=1920&h=1080",
+            "publishedAt": "2024-05-14T23:06:00Z",
+            "content": "Stock futures were little changed as Wall Street braced for April's consumer price index.\r\nFutures tied to the Dow Jones Industrial Average added 17 points, while S&amp;P 500 futures and Nasdaq 100 f… [+1885 chars]"
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": null,
+                "name": "TheStreet"
             },
-            "author": "The Hill",
-            "title": "Nearly 100 Red Lobsters marked ‘closed’ on restaurant site: See the full list - The Hill",
+            "author": "Dan Weil",
+            "title": "Veteran fund managers weigh in on GameStop stock surge - TheStreet",
+            "description": "GameStop shares doubled in the past two days. AMC's stock also skyrocketed.",
+            "url": "https://www.thestreet.com/investing/stocks/fund-managers-gamestop-stock-surge",
+            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAwOTgzNjAxMDEyMDkwMjU3/keith-gill-known-on-reddit-under-the-pseudonym.jpg",
+            "publishedAt": "2024-05-14T23:03:00Z",
+            "content": "Meme-stock investing is back.\r\nThose stocks are ones that develop huge followings through social media. The phenomenon began in late 2020, and the most prominent examples were two beleaguered compani… [+4140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Helene Braun",
+            "title": "Vanguard, Avowedly Anti-Crypto, Names Bitcoin-Friendly Ex-BlackRock Exec as CEO - CoinDesk",
+            "description": "Samil Ramji, who led BlackRock’s ETF business including the launch of the firm’s spot bitcoin product, departed the firm in January.",
+            "url": "https://www.coindesk.com/business/2024/05/14/vanguard-said-set-to-name-ex-blackrock-etf-exec-as-ceo-wsj/",
+            "urlToImage": "https://www.coindesk.com/resizer/H9_sJkJpjVJThAkqD7dlqSyDCzw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YCI6VPY3XJB3RBTMFIKM25KCBI.jpg",
+            "publishedAt": "2024-05-14T22:35:00Z",
+            "content": "Vanguard named the BlackRock executive who oversaw the firm's launch of its bitcoin exchange-traded fund as its new CEO on Tuesday evening.\r\nSalim Ramji left BlackRock in January to seek a new leader… [+2197 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Lobosco",
+            "title": "Federal student loan interest rate will rise to highest level in 12 years - CNN",
+            "description": "Borrowing to pay for college is about to get more expensive: The interest rate on new federal student loans for undergraduates during the upcoming 2024-25 academic year will be the highest in 12 years.",
+            "url": "https://www.cnn.com/2024/05/14/politics/new-federal-student-loan-interest-rate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1833757340-restrictd.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-05-14T21:57:00Z",
+            "content": "Borrowing to pay for college is about to get more expensive:The interest rate on new federal student loans for undergraduates during the upcoming 2024-25 academic year will be the highest in 12 years… [+2900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SFGate"
+            },
+            "author": "SFGATE",
+            "title": "Amid 'annoying' San Francisco mishaps, feds launch Waymo probe - SFGATE",
             "description": null,
-            "url": "https://thehill.com/homenews/4661653-nearly-100-red-lobsters-marked-closed-on-restaurant-site-see-the-full-list/",
+            "url": "https://www.sfgate.com/tech/article/waymo-annoying-mishaps-feds-investigation-19457467.php",
             "urlToImage": null,
-            "publishedAt": "2024-05-14T23:10:00Z",
+            "publishedAt": "2024-05-14T21:53:20Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "[Removed]"
             },
-            "author": "Julie Coleman",
-            "title": "Cramer warns against 'meme stock mania,' says to sell GameStop and AMC - CNBC",
-            "description": "AMC and GameStop soared after \"Roaring Kitty,\" the man who helped bring on 2021's enormous short squeeze, posted online for the first time in about three years.",
-            "url": "https://www.cnbc.com/2024/05/14/cramer-warns-against-meme-stock-mania-says-to-sell-gamestop-and-amc.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106850109-1614971556103-gettyimages-1231535869-AFP_94D4PJ.jpeg?v=1715712669&w=1920&h=1080",
-            "publishedAt": "2024-05-14T23:00:25Z",
-            "content": "CNBC's Jim Cramer said investors should get out of stocks like GameStop and AMC, both of which saw huge rallies this week triggered by social media.\r\n\"When I see meme stock mania taking over again, l… [+1782 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "JOSH BOAK, FATIMA HUSSEIN, PAUL WISEMAN, DIDI TANG",
-            "title": "Biden raises tariffs on Chinese EVs, chips and other goods - The Associated Press",
-            "description": "President Joe Biden says in defending his new tariffs on Chinese products that China's government subsidies ensure its companies don’t have to turn a profit, giving them an unfair advantage in global trade. The Democratic president on Tuesday slapped tariffs …",
-            "url": "https://apnews.com/article/biden-china-tariffs-electric-vehicles-evs-solar-2024ba735c47e04a50898a88425c5e2c",
-            "urlToImage": "https://dims.apnews.com/dims4/default/b28bd29/2147483647/strip/true/crop/5030x2829+0+262/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F02%2F9c%2Fc74057ee7fa3c589d281f578a969%2F49c494a58b47481f8ee4f717a9d38ccb",
-            "publishedAt": "2024-05-14T21:45:00Z",
-            "content": "WASHINGTON (AP) President Joe Biden slapped major new tariffs on Chinese electric vehicles, advanced batteries, solar cells, steel, aluminum and medical equipment on Tuesday, taking potshots at Donal… [+8667 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Josh Schafer",
-            "title": "Stock market today: Nasdaq closes at record high, meme stocks surge again ahead of inflation data - Yahoo Finance",
-            "description": "Meme stocks soared again as US equities more broadly stayed muted in the countdown to fresh inflation data and a Jerome Powell speech.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-closes-at-record-high-meme-stocks-surge-again-ahead-of-inflation-data-200420429.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6tj.LPFa_M30SubhyRl0Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/da90e240-e4f6-11ee-bfff-4c51209e7252",
-            "publishedAt": "2024-05-14T21:31:23Z",
-            "content": "President Biden spoke Tuesday about the administration's decision to announce a new wave of tariffs across an array of Chinese goods.\r\n\"American workers can outwork and outcompete anyone as long as t… [+1944 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": "Joshua Franklin",
-            "title": "'This is Bill. Bill Hwang': US jury hears founder's call to Archegos lenders - Financial Times",
-            "description": "Recording comes in trial over whether investor and other executives duped Wall Street banks that lost billions",
-            "url": "https://www.ft.com/content/c20356d8-5545-47d3-9759-b1f183b7087f",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F87fd9975-d425-49bf-9f71-3fd4ca59b916.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2024-05-14T21:12:37Z",
-            "content": "Bill Hwang told panicked Wall Street investment banks that his family office Archegos needed up to three weeks to make everyone whole shortly before the fund collapsed in 2021, which ended up costing… [+2578 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Bumble apologizes for its anti-celibacy ad fumble - The Verge",
-            "description": "Dating app Bumble has issued an apology for running billboard ads that seemingly shamed women for not being sexually active and mocked celibacy.",
-            "url": "https://www.theverge.com/2024/5/14/24156746/bumble-dating-app-anti-celibacy-billboard-ad-apology",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/JbupAozXpYbUZA1aT9p22D60Jbo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24349708/STK144_Bumble.jpg",
-            "publishedAt": "2024-05-14T20:45:24Z",
-            "content": "Bumble apologizes for its anti-celibacy ad fumble\r\nBumble apologizes for its anti-celibacy ad fumble\r\n / Bumble says itll pull the offending billboards and donate the ad space to organizations that s… [+2323 chars]"
+            "author": "Julie Hyman",
+            "title": "Amazon Web Services CEO to resign, effective June 3 - Yahoo Finance",
+            "description": "Amazon's (AMZN) cloud computing arm, Amazon Web Services (AWS), is undergoing a leadership transition. Adam Selipsky, the CEO of AWS, has announced his...",
+            "url": "https://finance.yahoo.com/video/amazon-services-ceo-resign-effective-204351036.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QY9dTUqvuK8Kzbnm9n1R5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/2067a140-122f-11ef-be4f-2e595b25f269",
+            "publishedAt": "2024-05-14T20:43:51Z",
+            "content": "Amazon's (AMZN) cloud computing arm, Amazon Web Services (AWS), is undergoing a leadership transition. Adam Selipsky, the CEO of AWS, has announced his resignation after an 18-year tenure. Effective … [+2403 chars]"
         },
         {
             "source": {
@@ -135,6 +161,19 @@
         {
             "source": {
                 "id": null,
+                "name": "TVLine"
+            },
+            "author": "Dave Nemetz",
+            "title": "Comcast to Offer Netflix, Apple TV+ and Peacock Streaming Bundle to Its Customers 'at a Vastly Reduced Price' - TVLine",
+            "description": "Comcast will debut a streaming bundle for its customers that combines Netflix, Apple TV+ and Peacock 'at a vastly reduced price' — get the details.",
+            "url": "https://tvline.com/news/comcast-streaming-bundle-netflix-apple-tv-plus-peacock-price-1235239312/",
+            "urlToImage": "https://tvline.com/wp-content/uploads/2024/05/comcast-streaming-bundle-netflix-apple-tv-plus-peacock.png?w=650",
+            "publishedAt": "2024-05-14T20:21:16Z",
+            "content": "Comcast customers looking to save a few bucks on their streaming services are in luck. \r\nThe company will be introducing a streaming bundle later this month that combines three of the major streamers… [+1054 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Investor's Business Daily"
             },
             "author": "Investor's Business Daily",
@@ -144,19 +183,6 @@
             "urlToImage": null,
             "publishedAt": "2024-05-14T20:17:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Jaclyn Peiser, Taylor Telford",
-            "title": "Walmart will lay off hundreds of employees, relocate most remote jobs - The Washington Post",
-            "description": "The country’s largest retailer and employer mandated the majority of workers in Dallas, Atlanta and Toronto move to its headquarters in Bentonville, Ark.",
-            "url": "https://www.washingtonpost.com/business/2024/05/14/walmart-layoffs-relocate-remote-jobs/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/25G7IRGIQQ6RYDBXOHAXNPP3IE.jpg&w=1440",
-            "publishedAt": "2024-05-14T19:58:14Z",
-            "content": "Walmart will lay off hundreds of corporate staff and require the majority of employees working remotely or at a handful of off-site offices to relocate, the company announced Tuesday.\r\nWalmart is the… [+277 chars]"
         },
         {
             "source": {
@@ -174,6 +200,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alex Tanzi and Jonnelle Marte",
+            "title": "Overdue Bills Are Rising With US Debt Delinquencies, Fed Survey Shows - Yahoo Finance",
+            "description": "(Bloomberg) -- US household debt has reached a record and more borrowers are struggling to keep up. Most Read from BloombergTrump Vows ‘Day One’ Executive...",
+            "url": "https://finance.yahoo.com/news/overdue-bills-rising-us-debt-150000559.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iqgT0miVqLUb2FU1kZ67zQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/8ae61d80-733d-11ee-b6ff-d34a9823839f",
+            "publishedAt": "2024-05-14T19:47:42Z",
+            "content": "(Bloomberg) US household debt has reached a record and more borrowers are struggling to keep up.\r\nMost Read from Bloomberg\r\nOverall US household debt rose to $17.7 trillion, according to the Federal … [+5248 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Krispy Kreme Dolly Parton doughnuts launch at Walmart, Publix, Kroger - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/05/14/krispy-kreme-dolly-parton-donuts",
+            "urlToImage": null,
+            "publishedAt": "2024-05-14T19:38:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "CNBC"
             },
             "author": "Sarah Whitten",
@@ -183,19 +235,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/107378546-1708980012285-gettyimages-1477867661-amcsharesjumpedafterareportamazonwaslookingtobuythechain010.jpeg?v=1715717170&w=1920&h=1080",
             "publishedAt": "2024-05-14T19:37:11Z",
             "content": "Can AMC Entertainment capitalize on a second meme craze?\r\nThe stock, alongside GameStop, surged this week after \"Roaring Kitty,\" the man who inspired the massive short squeeze of 2021, posted online … [+2886 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Aislinn Murphy",
-            "title": "Dolly Parton releases Krispy Kreme doughnut collection - Fox Business",
-            "description": "Dolly Parton and Krispy Kreme revealed they have collaborated on a \"Dolly Southern Sweets Doughnut Collection\" with four \"all-new\" doughnuts.",
-            "url": "https://www.foxbusiness.com/lifestyle/dolly-parton-releases-krispy-kreme-doughnut-collection",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/edited-dolly-four-donuts.jpg?ve=1&tl=1",
-            "publishedAt": "2024-05-14T19:23:00Z",
-            "content": "Dolly Parton is getting into the doughnut game through a partnership with Krispy Kreme.\r\nThe country music star and the doughnut chain revealed they have collaborated on a \"Dolly Southern Sweets Doug… [+2343 chars]"
         },
         {
             "source": {
@@ -226,67 +265,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "Tipranks.com"
             },
-            "author": "Megan Henney",
-            "title": "Fed's Powell says confidence that inflation will slow is 'not as high' as before - Fox Business",
-            "description": "Federal Reserve Chair Jerome Powell on Tuesday stressed that central bankers need to be \"patient\" before cutting interest rates amid still-high inflation.",
-            "url": "https://www.foxbusiness.com/economy/feds-powell-says-confidence-that-inflation-will-slow-is-not-high-before",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/powell-13.jpg?ve=1&tl=1",
-            "publishedAt": "2024-05-14T18:28:00Z",
-            "content": "Federal Reserve Chair Jerome Powell reiterated Tuesday that the central bank will be patient and wait for evidence that inflation is slowing before it cuts interest rates. \r\nSpeaking during a panel d… [+3039 chars]"
+            "author": "Shrilekha Pethe",
+            "title": "Plug Power (NASDAQ:PLUG) Soars Following Conditional DoE Funding - TipRanks.com - TipRanks",
+            "description": "Plug Power (NASDAQ:PLUG) surged in trading on Tuesday after announcing a conditional commitment of up to $1.66 billion in loan guarantees from the Department of Ene...",
+            "url": "https://www.tipranks.com/news/plug-power-nasdaqplug-soars-following-conditional-doe-funding",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/05/shutterstock_2122781999-6-750x406.jpg",
+            "publishedAt": "2024-05-14T18:32:25Z",
+            "content": "Plug Power (NASDAQ:PLUG) surged in trading on Tuesday after announcing a conditional commitment of up to $1.66 billion in loan guarantees from the Department of Energys (DOE) Loan Programs Office (LP… [+1572 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Matt Novak",
-            "title": "Comcast to Launch Discount Streaming Bundle With Peacock, Netflix, and Apple TV+ - Gizmodo",
-            "description": "The re-bundling of cable TV for the streaming era continues apace.",
-            "url": "https://gizmodo.com/comcast-streamsaver-discount-peacock-netflix-apple-tv-1851476533",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/db84efdc1bcaf29bf3831a3d8482e231.jpg",
-            "publishedAt": "2024-05-14T18:25:00Z",
-            "content": "Comcast plans to launch a streaming bundle later this month that will include Peacock, Netflix, and Apple TV+, according to a new report from Variety. Reportedly called StreamSaver, the bundle will b… [+1495 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Greg Norman",
-            "title": "Delta plane catches fire in Seattle in dramatic new video - Fox Business",
-            "description": "A new video has emerged showing the moment the front of a Delta Air Lines plane caught fire after landing at Seattle-Tacoma International Airport.",
-            "url": "https://www.foxbusiness.com/lifestyle/delta-plane-catches-fire-seattle-dramatic-new-video",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/Delta-Plane-fire-1.png?ve=1&tl=1",
-            "publishedAt": "2024-05-14T18:16:36Z",
-            "content": "A new video has captured the moment the front of a Delta plane burst into flames after landing at Seattle-Tacoma International Airport last week. \r\nThe Airbus A321neo had just arrived Monday from Can… [+2438 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Annie Nova",
-            "title": "Education Dept. announces highest federal student loan interest rate in more than a decade - CNBC",
-            "description": "The U.S. Department of Education announced Tuesday the interest rates on federal student loans for the 2024-2025 academic year.",
-            "url": "https://www.cnbc.com/2024/05/14/education-dept-announces-2024-25-interest-rates-on-student-loans.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107409445-1714657742393-gettyimages-1998633217-20240209-124633.jpeg?v=1715707994&w=1920&h=1080",
-            "publishedAt": "2024-05-14T17:49:34Z",
-            "content": "The U.S. Department of Education announced Tuesday the interest rates on federal student loans for the 2024-2025 academic year.\r\nThe interest rate on federal direct undergraduate loans will be 6.53%.… [+1336 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Breck Dumas",
-            "title": "Legendary Hollywood studio installs planters on sidewalks to deter homeless encampments - Fox Business",
-            "description": "The iconic Sunset Sound recording studio has paid to install large planters along the sidewalk outside its building on Sunset Boulevard to deter homeless encampments.",
-            "url": "https://www.foxbusiness.com/lifestyle/legendary-hollywood-studio-installs-planters-deter-homeless",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/LA-Homeless-Street-GettyImages-1603197074.jpg?ve=1&tl=1",
-            "publishedAt": "2024-05-14T16:52:00Z",
-            "content": "The iconic Sunset Sound recording studio in Hollywood has paid for the installation of large planters outside its building on Sunset Boulevard in an effort to deter the homeless encampments that line… [+2434 chars]"
+            "author": "Paul Davidson",
+            "title": "Fed likely to keep rates higher longer, rate hike unlikely. Powell says - USA TODAY",
+            "description": "Fed Chair Jerome Powell said it \"may take longer than expected\" for high interest rates to bring down inflation. He repeated a rate hike is unlikely.",
+            "url": "https://www.usatoday.com/story/money/2024/05/14/powell-interest-rates-higher-longer/73683558007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/31/USAT/72429364007-0-g-9-a-8178.jpg?crop=5261,2961,x0,y273&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2024-05-14T15:56:39Z",
+            "content": "<ul><li>Federal Reserve Chair Jerome Powell said Tuesday that it may take longer than expected for high interest rates to lower inflation.</li><li>He also reiterated, however, that a rate hike is unl… [+3500 chars]"
         },
         {
             "source": {
@@ -303,55 +303,16 @@
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Alexandre Tanzi, Jonnelle Marte",
-            "title": "Overdue Bills Are Rising With US Debt Delinquencies, Fed Survey Shows - Bloomberg",
-            "description": "US household debt has reached a record and more borrowers are struggling to keep up.",
-            "url": "https://www.bloomberg.com/news/articles/2024-05-14/overdue-bills-are-rising-with-us-debt-delinquencies-fed-survey",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igomRpct3FUs/v2/1200x800.jpg",
-            "publishedAt": "2024-05-14T15:00:00Z",
-            "content": "US household debt has reached a record and more borrowers are struggling to keep up. \r\nOverall US household debt rose to $17.7 trillion, according to the Federal Reserve Bank of New Yorks Quarterly R… [+120 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Aboutamazon.com"
+                "name": "Treasury.gov"
             },
-            "author": "Amazon Staff",
-            "title": "AWS leadership update: AWS CEO Adam Selipsky steps down - About Amazon",
-            "description": "This morning, Amazon CEO Andy Jassy, AWS CEO Adam Selipsky, and AWS SVP Matt Garman shared the following messages with our teams.",
-            "url": "https://www.aboutamazon.com/news/company-news/leadership-update-aws-adam-selipsky-matt-garman",
-            "urlToImage": "https://assets.aboutamazon.com/dims4/default/1e1a3d7/2147483647/strip/true/crop/1921x961+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ffe%2F9f%2Fc133fc6a4c4783d534be3f5fd064%2Faws-header-copy-8-v4.png",
-            "publishedAt": "2024-05-14T13:30:04Z",
-            "content": "This morning, Andy Jassy, Adam Selipsky, and Matt Garman shared the following messages with our teams.\r\nA little over three years ago when Jeff announced my new role, one of my first jobs was to iden… [+6568 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Allie Kelly",
-            "title": "Government Assistance Like Food Stamps Doesn't Help Low-Income DINKs - Business Insider",
-            "description": "Half of Americans living in deep poverty are childfree adults because it's harder to access certain tax and government assistance without kids.",
-            "url": "https://www.businessinsider.com/government-assistance-food-stamps-snap-doesnt-help-low-income-dinks-2024-5",
-            "urlToImage": "https://i.insider.com/66427b0cb4abc992e8c91e16?width=1200&format=jpeg",
-            "publishedAt": "2024-05-14T13:19:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Michelle Fox",
-            "title": "Stocks making the biggest premarket moves: GameStop, AMC, Alibaba, Sony and more - CNBC",
-            "description": "These are the stocks posting the largest moves in the premarket.",
-            "url": "https://www.cnbc.com/2024/05/14/stocks-making-the-biggest-premarket-moves-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106991178-16397757362021-12-17t211026z_318324781_rc2igr9qwfkz_rtrmadp_0_usa-business.jpeg?v=1639775802&w=1920&h=1080",
-            "publishedAt": "2024-05-14T12:39:16Z",
-            "content": null
+            "author": null,
+            "title": "U.S. Exposes Attempted Sanctions Evasion Scheme Connected to Russian Oligarch - Treasury",
+            "description": "WASHINGTON — Today, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) designated one Russian individual and three Russia-based companies involved in an attempted sanctions evasion scheme in which an opaque and complex supposed dive…",
+            "url": "https://home.treasury.gov/news/press-releases/jy2337",
+            "urlToImage": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+            "publishedAt": "2024-05-14T14:30:00Z",
+            "content": "WASHINGTON Today, the U.S. Department of the Treasurys Office of Foreign Assets Control (OFAC) designated one Russian individual and three Russia-based companies involved in an attempted sanctions ev… [+4831 chars]"
         }
     ]
 }

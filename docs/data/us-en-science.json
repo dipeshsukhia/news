@@ -1,7 +1,59 @@
 {
     "status": "ok",
-    "totalResults": 67,
+    "totalResults": 65,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Leah Asmelash",
+            "title": "Unusual giant planet as fluffy as cotton candy spotted by astronomers - CNN",
+            "description": "Astronomers say they have uncovered an unusual planet that’s about 50% bigger than Jupiter and somehow still the second lightest planet ever found.",
+            "url": "https://www.cnn.com/2024/05/16/world/cotton-candy-exoplanet-discovery-wasp-193b-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/mit-puffplanet-01-press.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-05-17T00:07:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nWhat is big, with a fluffy, cotton candy-like composit… [+3402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Keith Cooper",
+            "title": "NASA's Juno probe captures fascinating high-resolution images of Jupiter's icy moon Europa - Space.com",
+            "description": "The Jovian moon, famous for its underground global ocean, may be more active than we realized.",
+            "url": "https://www.space.com/juno-europa-jupiter-moon-plumes-image",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HxA2DH5kdUyWPudQP3Eatm-1200-80.jpg",
+            "publishedAt": "2024-05-17T00:02:37Z",
+            "content": "When NASA's Juno\r\n spacecraft performed its closest approach to Jupiter\r\n's moon Europa\r\n in September 2022, it captured evidence not only for pockets of briny water connected to the world's deep sub… [+4923 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASASpaceflight.com"
+            },
+            "author": "Ryan Weber",
+            "title": "Starship Flight 4 begins Wet Dress Rehearsal campaign - NASASpaceFlight.com - NASASpaceflight.com",
+            "description": "SpaceX is gearing up for Flight 4. The start of full stack testing on Thursday…",
+            "url": "https://www.nasaspaceflight.com/2024/05/flight-4-wdr-campaign/",
+            "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2024/05/Ship-29-Stacked-on-Booster-11-525x350.jpg",
+            "publishedAt": "2024-05-16T21:21:34Z",
+            "content": "5SpaceX is gearing up for Flight 4. The start of full stack testing on Thursday resulted in a partial load of propellants, which will be followed by a full Wet Dress Rerhasal in the coming days. In t… [+9934 chars]"
+        },
         {
             "source": {
                 "id": "ars-technica",
@@ -30,6 +82,19 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emilia David",
+            "title": "Quantum networks are closer to reality - The Verge",
+            "description": "Amazon’s AWS partnered with Harvard to test how far a quantum entangled photon could travel. It traveled 35 kilometers under the Boston area.",
+            "url": "https://www.theverge.com/2024/5/16/24158365/quantum-computing-network-aws-amazon-harvard",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/YsSwJjeePniOk01QDHeAsuHaotg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg",
+            "publishedAt": "2024-05-16T19:34:06Z",
+            "content": "A quantum-entangled photon traveled 35 kilometers under the streets of Boston\r\nA quantum-entangled photon traveled 35 kilometers under the streets of Boston\r\n / AWS and Harvard sent a qubit from one … [+3401 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Neurosciencenews.com"
             },
@@ -40,19 +105,6 @@
             "urlToImage": "https://neurosciencenews.com/files/2024/05/color-perception-vision-neuroscience.jpg",
             "publishedAt": "2024-05-16T19:09:03Z",
             "content": "Summary: Researchers have identified the specific brain circuits in fruit flies responsible for color perception. These neurons within the optic lobe respond selectively to various hues, including th… [+6844 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Teslarati"
-            },
-            "author": "Richard Angle",
-            "title": "SpaceX stacks Starship for testing ahead of the fourth flight - TESLARATI",
-            "description": "SpaceX has stacked Starship 29 on top of Super Heavy Booster 11 ahead of the fourth Integrated Flight test, which could happen within the next three to five weeks.",
-            "url": "https://www.teslarati.com/spacex-stacks-starship-testing-fourth-flight/",
-            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/05/GNqZaAbagAAbrJP.jpg",
-            "publishedAt": "2024-05-16T19:06:26Z",
-            "content": "SpaceX has stacked Starship 29 on top of Super Heavy Booster 11 ahead of the fourth Integrated Flight test, which could happen within the next three to five weeks.\r\nOver the next few days, SpaceX wil… [+2606 chars]"
         },
         {
             "source": {
@@ -83,28 +135,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Live Science"
+                "name": "Www.geo.tv"
             },
-            "author": "Harry Baker",
-            "title": "Some of the oldest stars in the universe found hiding near the Milky Way's edge — and they may not be alone - Livescience.com",
-            "description": "Astronomers reanalyzed the chemical composition of three stars in the Milky Way's halo and found that they are between 12 and 13 billion years old. They may have also been stolen from other galaxies.",
-            "url": "https://www.livescience.com/space/astronomy/some-of-the-oldest-stars-in-the-universe-found-hiding-near-the-milky-ways-edge-and-they-may-not-be-alone",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hpqrrCsYJjfmXvs54gttJF-1200-80.jpg",
-            "publishedAt": "2024-05-16T16:49:54Z",
-            "content": "Three alien stars circling the Milky Way could be some of the oldest ever found in the universe\r\n, a new study reveals. The ancient celestial objects may have been among the first to form after the B… [+3546 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Passant Rabie",
-            "title": "Europa's Icy Crust Is 'Free-Floating' Across the Moon's Hidden Ocean, New Juno Images Suggest - Gizmodo",
-            "description": "Europa's outer ice shell is not where it used to be, but instead may be free floating across the moon.",
-            "url": "https://gizmodo.com/europa-icy-crust-free-floating-juno-images-nasa-1851481413",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9443216fe5ae9886b90414d6ea26c065.png",
-            "publishedAt": "2024-05-16T16:45:00Z",
-            "content": "On September 29, 2022, NASAs Juno spacecraft made its closest flyby of Europa, coming to within 220 miles (355 kilometers) of the Jovian moons frozen surface. The closeup view of Europa revealed incr… [+4064 chars]"
+            "author": "Web Desk",
+            "title": "Orcas shock scientists with strange new behaviours - Geo News",
+            "description": "Marine researchers in their new study revealed crucial insights into the hunting habits, behaviours, and socialisation of orcas also known as killer whales which are large and powerful apex predators found in oceans all around the...",
+            "url": "https://www.geo.tv/latest/544414-new-insights-into-orca-activities-amaze-scientists",
+            "urlToImage": "https://www.geo.tv/assets/uploads/updates/2024-05-16/l_544414_094419_updates.jpg",
+            "publishedAt": "2024-05-16T16:36:46Z",
+            "content": "Marine researchers in their new study revealed crucial insights into the hunting habits, behaviours, and socialisation of orcas also known as killer whales which are large and powerful apex predators… [+1601 chars]"
         },
         {
             "source": {
@@ -161,15 +200,28 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Big Think"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Dirk Schulze-Makuch",
+            "title": "The \"Goldilocks\" zone of habitable planets is likely outdated. Here's why. - Big Think",
+            "description": "The number of planets that could support life may be far greater than previously thought, a recent discovery suggests.",
+            "url": "https://bigthink.com/hard-science/the-goldilocks-zone-of-habitable-planets-is-likely-outdated-heres-why/",
+            "urlToImage": "https://bigthink.com/wp-content/uploads/2024/05/AdobeStock_50786528.jpg?resize=1200,630",
+            "publishedAt": "2024-05-16T14:39:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Adam Zewe",
+            "title": "Scientists use generative AI to answer complex questions in physics - Phys.org",
+            "description": "When water freezes, it transitions from a liquid phase to a solid phase, resulting in a drastic change in properties like density and volume. Phase transitions in water are so common most of us probably don't even think about them, but phase transitions in no…",
+            "url": "https://phys.org/news/2024-05-scientists-generative-ai-complex-physics.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/physics.jpg",
+            "publishedAt": "2024-05-16T14:16:06Z",
+            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+7248 chars]"
         },
         {
             "source": {
@@ -186,16 +238,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": null,
-            "title": "Scientists solve mystery of ancient 'tree of life' - BBC.com",
-            "description": "The iconic trees evolved on Madagascar 21 million years ago and later spread to other countries.",
-            "url": "https://www.bbc.com/news/science-environment-69012221",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CDE7/production/_133311725_gettyimages-1635447669.jpg",
-            "publishedAt": "2024-05-16T13:28:13Z",
+            "author": "Li Cohen",
+            "title": "Mysterious origin of the \"tree of life\" revealed as some of the species is just decades from extinction - CBS News",
+            "description": "The trees have been called both \"grotesque\" and \"one of the most charismatic species on our planet\" – and now we know where they came from.",
+            "url": "https://www.cbsnews.com/news/baobab-tree-of-life-origin/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/05/16/3a2da227-a9b3-450a-8a1b-a655235e72ae/thumbnail/1200x630/b21bc61319285d604c58c7e4de45d4f2/gettyimages-2140827498.jpg?v=dac66bdad19d0be8e87f46552b582682",
+            "publishedAt": "2024-05-16T13:59:47Z",
+            "content": "The \"grotesque\" baobab tree has long been known as the \"tree of life\" for its ability to create and maintain its own ecosystem in arid regions. Since the time of the ancient Egyptians, people have ma… [+4361 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Lifestyle Desk",
+            "title": "The Earth's poles are flipping and it is concerning - The Times of India",
+            "description": "The Earth's magnetic poles are showing signs of shifting, a natural process that occurs over thousands of years. While not an immediate concern, a potential pole reversal could impact technology and disrupt animal migration patterns. Scientists monitor these …",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/the-earths-poles-are-flipping-and-it-is-concerning/articleshow/110183045.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-110183207,width-1070,height-580,imgsize-33872,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-05-16T13:30:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Robert Lea",
+            "title": "In the Milky Way, 3 intruder stars are 'on the run' — in the wrong direction - Space.com",
+            "description": "\"They're all quite fast — hundreds of kilometers per second, going the wrong way.\"",
+            "url": "https://www.space.com/stars-on-the-run-sass-mit-study-milky-way",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/oix2mmnzBrZjYyWbwkUxaH-1200-80.png",
+            "publishedAt": "2024-05-16T13:00:07Z",
+            "content": "Astronomers have discovered three ancient stars \"on the run\" in the outskirts of the Milky Way galaxy, racing the wrong way at hundreds of thousands of miles per hour. \r\nDespite being spritely for th… [+6771 chars]"
         },
         {
             "source": {
@@ -209,6 +287,19 @@
             "urlToImage": null,
             "publishedAt": "1970-01-01T00:00:00Z",
             "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IFLScience"
+            },
+            "author": "Dr. Alfredo Carpineti",
+            "title": "Earth-Sized World Found Around Star That Will Live 100 Billion Years - IFLScience",
+            "description": "This discovery could lead to the first ever geological exploration of a world beyond the solar system.",
+            "url": "https://www.iflscience.com/earth-sized-world-found-around-star-that-will-live-100-billion-years-74239",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/74239/aImg/76238/speculoos-meta.jpg",
+            "publishedAt": "2024-05-16T11:18:58Z",
+            "content": "Astronomers are reporting the discovery of SPECULOOS-3b, an Earth-sized planet that orbits an ultracool dwarf, a star not much bigger than Jupiter. This is the only second known system such as this. … [+2635 chars]"
         },
         {
             "source": {
@@ -252,15 +343,15 @@
         {
             "source": {
                 "id": null,
-                "name": "IFLScience"
+                "name": "Florida Today"
             },
-            "author": "Maddy Chapman",
-            "title": "Anendophasia: How Not Having An Inner Monologue Could Affect Verbal Memory - IFLScience",
-            "description": "It was once assumed that having an inner voice was a universal human experience – but that’s not the case.",
-            "url": "https://www.iflscience.com/anendophasia-how-not-having-an-inner-monologue-could-affect-verbal-memory-74227",
-            "urlToImage": "https://assets.iflscience.com/assets/articleNo/74227/aImg/76223/inner-monologue-meta.jpg",
-            "publishedAt": "2024-05-16T09:24:22Z",
-            "content": "Not everyone has an inner monologue it turns out that between 5 and 10 percent of the population dont experience near-constant internal dialogue with themselves. According to new research, this group… [+3111 chars]"
+            "author": "Brooke Edwards",
+            "title": "SpaceX Falcon 9 will light up the sky late Friday over Space Coast - Florida Today",
+            "description": "SpaceX is targeting an early Friday night launch of Starlink 6-59. Here's what to know.",
+            "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2024/05/16/spacex-falcon-9-starlink-spacex-friday-cape-canaveral-rocket-launch-space-force-coast/73703679007/",
+            "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2024/05/13/PBRE/73667504007-crb-051224-spacex-5.jpg?crop=1231,693,x0,y582&width=1231&height=693&format=pjpg&auto=webp",
+            "publishedAt": "2024-05-16T09:34:17Z",
+            "content": "SpaceX is targeting Friday evening for the launch of another batch of Starlink satellites, according to Geospatial and FAA navigational warnings.\r\nSpaceX has confirmed they are targeting a liftoff ti… [+2317 chars]"
         },
         {
             "source": {
@@ -330,19 +421,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "How Gossip Shapes Cooperation - Neuroscience News",
-            "description": "Researchers found that gossip helps maintain social order by spreading information about reputations, which encourages cooperative behavior.",
-            "url": "https://neurosciencenews.com/gossiping-cooperation-psychology-261217/",
-            "urlToImage": "https://neurosciencenews.com/files/2024/05/gossip-cooperation-neurosicence.jpg",
-            "publishedAt": "2024-05-15T22:13:52Z",
-            "content": "Summary: A new study explores how gossip influences cooperation and behavior. Researchers found that gossip helps maintain social order by spreading information about reputations, which encourages co… [+8165 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "YouTube"
             },
             "author": null,
@@ -404,19 +482,6 @@
             "urlToImage": "https://wp-assets.futurism.com/2024/05/piece-space-junk-farm-canadian-hockey-rink.jpg",
             "publishedAt": "2024-05-15T20:30:44Z",
             "content": "\"I had no idea. I don't build spaceships for a living. I farm.\"\r\nSpace Junk Fundraiser\r\nA gigantic piece of a rocket crashed down on a rural farm in Saskatchewan and the story only gets more Canadian… [+2026 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheInertia.com"
-            },
-            "author": "Alexander Haro",
-            "title": "Orca Attacks Great White Shark Like a Lighting-Fast Torpedo - The Inertia",
-            "description": "",
-            "url": "https://www.theinertia.com/video/orca-attacks-great-white-shark/",
-            "urlToImage": "http://www.theinertia.com/wp-content/uploads/2024/05/great-white.jpg",
-            "publishedAt": "2024-05-15T20:24:58Z",
-            "content": "The orca is not an animal to mess with. Sure, they’ve never killed a human in the wild they’ve only killed people when they’ve been cooped up for years but if you’re under them on the food chain… wat… [+1083 chars]"
         },
         {
             "source": {
@@ -577,19 +642,6 @@
         {
             "source": {
                 "id": null,
-                "name": "The-sun.com"
-            },
-            "author": "Nick Pisa",
-            "title": "Woman ‘catches Covid after finding used tissue in new jacket from Pretty Little Thing’... - The US Sun",
-            "description": "A HOME worker who found a used tissue and packet of chewing gum in a new jacket she bought online has tested positive for coronavirus. The woman grabbed the tissue when she put her hand inside the …",
-            "url": "https://www.the-sun.com/news/1592403/woman-covid-used-tissue-plt-coat/",
-            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2024/05/Imagejpg-JS612705981.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-            "publishedAt": "2024-05-15T17:56:22Z",
-            "content": "A HOME worker who found a used tissue and packet of chewing gum in a new jacket she bought online has tested positive for coronavirus.\r\nThe woman grabbed the tissue when she put her hand inside the p… [+1729 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "[Removed]"
             },
             "author": null,
@@ -629,58 +681,6 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NASA"
-            },
-            "author": null,
-            "title": "Discovery Alert: An Earth-sized World and Its Ultra-cool Star - Science@NASA",
-            "description": "Our galaxy is a jewel box of red stars. More than 70% of the stars in the Milky Way are M dwarfs, also known as red dwarfs. These stars are cool and dim compared with our Sun, but they often blast orbiting exoplanets with high-energy radiation, especially ear…",
-            "url": "https://science.nasa.gov/universe/exoplanets/discovery-alert-an-earth-sized-world-and-its-ultra-cool-star/",
-            "urlToImage": "https://science.nasa.gov/wp-content/uploads/2024/05/speculoos-1280.jpg?w=640",
-            "publishedAt": "2024-05-15T16:37:22Z",
-            "content": "The exoplanet SPECULOOS-3 b is about 55 light-years from Earth (really close when you consider the cosmic scale!) and nearly the same size. A year there, one orbit around the star, takes about 17 hou… [+233 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TechSpot"
-            },
-            "author": "Shawn Knight",
-            "title": "Astronomers discover \"super fluffy\" exoplanet with cotton candy-like density - TechSpot",
-            "description": "WASP-193b is roughly 50 percent bigger than nearby gas giant Jupiter, but its mass is calculated to be just 0.14 that of Jupiter. What's more, the planet's...",
-            "url": "https://www.techspot.com/news/103002-astronomers-discover-super-fluffy-exoplanet-cotton-candy-like.html",
-            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/05/2024-05-15-image-10.jpg",
-            "publishedAt": "2024-05-15T15:22:43Z",
-            "content": "Sweet: Astronomers led by a team at MIT have discovered a gas giant in our own galaxy that's unlike anything observed to date. The new planet, named WASP-193b (WASP being short for the Wide Angle Sea… [+1874 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Maui Now"
-            },
-            "author": null,
-            "title": "Aurora Borealis witnessed on Big Island - Maui Now",
-            "description": "\"It was a beautiful purple and greenish tinge visible to the naked eye for about 5 minutes,\" Brenda Trowbridge shared on social media.  The Nā‘ālehu resident captured the images with a 3-second exposure on her iPhone between 4:26 and 4:31 a.m. on May 11, befo…",
-            "url": "https://mauinow.com",
-            "urlToImage": "https://media.mauinow.com/file/mauinow/2024/05/171578535148784.jpg",
-            "publishedAt": "2024-05-15T15:11:00Z",
-            "content": "Brenda Trowbridge felt a pang of sadness Friday after her husband told her about a show the Aurora Borealis, or Northern Lights, would be putting on for various parts of the continental United States… [+2724 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Space.com"
             },
             "author": "Robert Lea",
@@ -690,19 +690,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/FNeUiEYqS3hz9RYTZrfVa3-1200-80.png",
             "publishedAt": "2024-05-15T15:00:13Z",
             "content": "The outer halo of the Milky Way is filled with magnetic fields that take the shape of vast donuts with diameters ranging from 12,000 to 100,000 light-years, with the heart of our galaxy at their cent… [+3622 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "Physicists demonstrate first metro-area quantum computer network in Boston - Phys.org",
-            "description": "It's one thing to dream up a quantum internet that could send hacker-proof information around the world via photons superimposed in different quantum states. It's quite another to physically show it's possible.",
-            "url": "https://phys.org/news/2024-05-physicists-metro-area-quantum-network.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/a-simple-internet-with.jpg",
-            "publishedAt": "2024-05-15T15:00:01Z",
-            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+4414 chars]"
         },
         {
             "source": {
@@ -733,6 +720,32 @@
         {
             "source": {
                 "id": null,
+                "name": "BroBible"
+            },
+            "author": "Douglas Charles",
+            "title": "Simulation Says Supercontinent Will Cause Mass Extinction Event - BroBible",
+            "description": "Earth, it is believed, used to be covered with several supercontinents. Pangaea, made up of Gondwana and Laurasia, at one time was made up of the",
+            "url": "https://brobible.com/sports/article/simulation-creation-supercontinent-mass-extinction-event/",
+            "urlToImage": "https://brobible.com/wp-content/uploads/2024/05/supercontinent.jpg",
+            "publishedAt": "2024-05-15T14:03:21Z",
+            "content": "iStockphoto\r\nEarth, it is believed, used to be covered with several supercontinents. Pangaea, made up of Gondwana and Laurasia, at one time was made up of the continents we all know today.\r\nThen, abo… [+2063 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Sharmila Kuthunur",
+            "title": "Supernova-filled galaxy dazzles in new Hubble Telescope image - Space.com",
+            "description": "There's a galaxy out there overflowing with star explosions.",
+            "url": "https://www.space.com/supernova-galaxy-hubble-telescope-image",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2gX232soW9GkCYEk2T3LEm-1200-80.jpg",
+            "publishedAt": "2024-05-15T14:00:00Z",
+            "content": "After an awe-filled weekend of the strongest northern lights\r\n in 20 years, our aurora fever is slowly dying down — but, if you are searching for an excuse to admire some cosmic marvels once again, t… [+2601 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Live Science"
             },
             "author": "Ben Turner",
@@ -755,19 +768,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/ipKcWFaLMsJ8FeXAVZ6BrR-1200-80.jpg",
             "publishedAt": "2024-05-15T12:49:24Z",
             "content": "NASA's Ingenuity Mars helicopter notched many milestones during its 72 Red Planet flights.\r\nAs a technology demonstrator, Ingenuity\r\n was tasked with making up to five flights over the course of 30 E… [+7519 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Gaurav Khanna, University of Rhode Island",
-            "title": "Black holes are mysterious, yet also deceptively simple − a new space mission may help physicists answer hairy questions about these astronomical objects - Yahoo! Voices",
-            "description": "Studying theoretical, fast-spinning black holes is helping physicists understand more about the elusive black holes out in the universe.",
-            "url": "https://www.yahoo.com/news/black-holes-mysterious-yet-deceptively-121618015.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Mngfgq4crkWG9SHz3QSZtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODE-/https://media.zenfs.com/en/the_conversation_us_articles_815/9dd8e8636d35e3d5e441c7c55de0b2eb",
-            "publishedAt": "2024-05-15T12:16:18Z",
-            "content": "Physicists consider black holes one of the most mysterious objects that exist. Ironically, theyre also considered one of the simplest. For years, physicists like me have been looking to prove that bl… [+5770 chars]"
         },
         {
             "source": {
@@ -797,42 +797,16 @@
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Kurt Knutsson, CyberGuy Report",
-            "title": "Suit up for the stars: SpaceX's new era of space fashion - Fox News",
-            "description": "SpaceX's suits for astronauts embarking on the upcoming Polaris Dawn mission are sleek with advanced functionality, propulsion and life-support systems.",
-            "url": "https://www.foxnews.com/tech/suit-up-for-stars-spacexs-new-era-space-fashion",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/1-Suit-up-for-the-stars_-SpaceXs-new-era-of-space-fashion.jpg",
-            "publishedAt": "2024-05-15T10:00:00Z",
-            "content": "SpaceX is not just launching rockets but a new era of space exploration with its cutting-edge extravehicular activity (EVA) suits. \r\nAs we stand on the cusp of the first-ever private space walk in 20… [+3756 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "Phys.Org"
             },
-            "author": null,
-            "title": "“Unprecedented” – CO2 Rising 10 Times Faster Than Any Time in Recorded History - SciTechDaily",
-            "description": "Researchers conducting a detailed chemical analysis of ancient Antarctic ice have discovered that the current rate of increase in atmospheric carbon dioxide is 10 times faster than at any point in the last 50,000 years. The findings, just published in the Pro…",
-            "url": "https://scitechdaily.com/unprecedented-co2-rising-10-times-faster-than-any-time-in-recorded-history/",
-            "urlToImage": "https://scitechdaily.com/images/Carbon-Dioxide-Smokestack-Capture.jpg",
-            "publishedAt": "2024-05-15T09:19:11Z",
-            "content": "Recent research indicates that the current rate of atmospheric CO2 increase is unprecedented, being ten times faster than any period in the last 50,000 years, highlighting significant implications fo… [+5400 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rochester Democrat and Chronicle"
-            },
-            "author": "Justin Murphy",
-            "title": "Ranga Dias, University of Rochester physicist, discovery questioned - Democrat & Chronicle",
-            "description": "Other leading physicists believe his approach could theoretically prove correct — but they want to see the data that proves it. That's the friction.",
-            "url": "https://www.democratandchronicle.com/story/news/local/2024/05/15/ranga-dias-university-of-rochester-physicist-discovery-questioned/73202822007/",
-            "urlToImage": "https://www.democratandchronicle.com/gcdn/authoring/authoring-images/2024/04/02/PROC/73180592007-3-h-9-a-3245.jpg?crop=7150,4022,x0,y214&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2024-05-15T07:23:31Z",
-            "content": "No friction. That's what Ranga Dias is after.\r\nThe University of Rochester physicist spends most of his days in a private lab on Blossom Road, tirelessly chasing after a feat he says he's already acc… [+10131 chars]"
+            "author": "Tomasz Nowakowski",
+            "title": "Astronomers discover merging twin quasars - Phys.org",
+            "description": "Using the Subaru Telescope in Hawaii, astronomers have detected a pair of merging quasars at a high redshift, as part of the Hyper SuprimeCam (HSC) Subaru Strategic Program (SPP) survey. The serendipitous discovery is reported in the latest issue of the Astro…",
+            "url": "https://phys.org/news/2024-05-astronomers-merging-twin-quasars.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/astronomers-discover-m-1.jpg",
+            "publishedAt": "2024-05-15T11:00:01Z",
+            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+371 chars]"
         },
         {
             "source": {
@@ -850,28 +824,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
+                "name": "SciTechDaily"
             },
-            "author": "Kevin Holden Platt",
-            "title": "SpaceX, Blue Origin Vie To Expand Mars-Earth Interplanetary Internet - Forbes",
-            "description": "Elon Musk’s SpaceX and its nemesis Blue Origin, already poised to compete over rocketing astronauts to the Moon, are extending their face-off to another sphere: Mars.",
-            "url": "https://www.forbes.com/sites/kevinholdenplatt/2024/05/14/spacex-blue-origin-vie-to-expand-mars-earth-interplanetary-internet/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/664405fc1c6e2078a8147e04/0x0.jpg?format=jpg&crop=2400,1600,x0,y405,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-05-15T03:23:08Z",
-            "content": "The Interplanetary Internet, powered by interlinked satellites and relay stations that speed ... [+] messages planet-to-planet via next-generation lasers, will spread across the solar system.\r\nCopyri… [+10479 chars]"
+            "author": null,
+            "title": "Super-Earth Surprise: Webb Finds Atmosphere on Rocky Exoplanet For the First Time - SciTechDaily",
+            "description": "Gas bubbling up from a lava-covered surface on 55 Cancri e may feed an atmosphere rich in carbon dioxide or carbon monoxide. These days, detecting a planetary atmosphere tens or even hundreds of light-years from Earth might not sound like such a big deal. Sci…",
+            "url": "https://scitechdaily.com/super-earth-surprise-webb-finds-atmosphere-on-rocky-exoplanet-for-the-first-time/",
+            "urlToImage": "https://scitechdaily.com/images/Rocky-Exoplanet-Concept.jpg",
+            "publishedAt": "2024-05-12T03:21:01Z",
+            "content": "Using NASA’s James Webb Space Telescope, scientists may have identified atmospheric gases on 55 Cancri e, a super-hot, rocky exoplanet. This discovery could represent the most definitive evidence of … [+11595 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
+                "name": "SciTechDaily"
             },
-            "author": "Science X",
-            "title": "Tiger beetles fight off bat attacks with ultrasonic mimicry - Phys.org",
-            "description": "Bats, as the main predator of night-flying insects, create a selective pressure that has led many of their prey to evolve an early warning system of sorts: ears uniquely tuned to high-frequency bat echolocation. To date, scientists have found at least six ord…",
-            "url": "https://phys.org/news/2024-05-tiger-beetles-ultrasonic-mimicry.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/tiger-beetles-fight-of.jpg",
-            "publishedAt": "2024-05-14T23:10:01Z",
-            "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+7026 chars]"
+            "author": null,
+            "title": "The Craton Enigma: Scientists Propose a New Continental Formation Theory - SciTechDaily",
+            "description": "Ancient, vast stretches of continental crust known as cratons have stabilized Earth's continents for billions of years through shifts in landmasses, mountain formation, and ocean development. Scientists from Penn State have suggested a new mechanism that coul…",
+            "url": "https://scitechdaily.com/the-craton-enigma-scientists-propose-a-new-continental-formation-theory/",
+            "urlToImage": "https://scitechdaily.com/images/Planet-Earth-Fault-Lines-Tectonic-Plates.jpg",
+            "publishedAt": "2024-05-11T22:06:42Z",
+            "content": "A new study by Penn State researchers suggests that cratons, ancient structures stabilizing Earth’s continents, formed around 3 billion years ago through processes initiated by the atmospheric weathe… [+6148 chars]"
         }
     ]
 }

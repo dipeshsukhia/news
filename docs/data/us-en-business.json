@@ -4,16 +4,68 @@
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nathaniel Meyersohn",
+            "title": "How a global seafood giant broke Red Lobster - CNN",
+            "description": "Thai Union’s damaging decisions drove Red Lobster’s fall, former executives say.",
+            "url": "https://www.cnn.com/2024/05/25/business/red-lobster-bankruptcy-thai-union/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2153889266.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-05-25T09:00:00Z",
+            "content": "When seafood conglomerate Thai Union Group became Red Lobsters leading shareholder in 2020, gaining 49% control of the chain, Red Lobster employees were assured Thai Union would not interfere in key … [+12579 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Fox Business"
             },
-            "author": "Brie Stimson",
-            "title": "BARK Air completes its first cross-country dog flight with tickets costing $6,000 for pet and owner - Fox Business",
-            "description": "BARK Air, the first airline \"built 100% for dogs\" finished its first flight from New York City to Los Angeles on Thursday. Tickets for a dog and its owner cost $6,000.",
-            "url": "https://www.foxbusiness.com/lifestyle/bark-air-completes-first-cross-country-dog-flight-tickets-costing-6000-pet-owner",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/bark-air-ticket.jpg?ve=1&tl=1",
-            "publishedAt": "2024-05-25T01:35:00Z",
-            "content": "Air travel has gone to the dogs. Literally. \r\nBARK, the company that makes BarkBoxes, completed its first-ever BARK Air \"white paw experience\" flight from Westchester County Airport outside of New Yo… [+4066 chars]"
+            "author": "Olivianna Calmes",
+            "title": "Many Americans staying home this summer, new Fox poll finds - Fox Business",
+            "description": "A new Fox poll finds many Americans are staying home this summer, and say higher prices are a factor. Others say they are not planning to vacation at all this summer.",
+            "url": "https://www.foxbusiness.com/fox-news-travel/many-americans-staying-home-summer-new-fox-poll-finds",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/Screenshot-2024-05-24-at-12.38.10-PM.png?ve=1&tl=1",
+            "publishedAt": "2024-05-25T07:41:00Z",
+            "content": "Anew Fox poll\r\n shows more than half of Americans are staying home this summer or tweaking their travel plans to be more affordable, starting with this Memorial Day Weekend, which is the unofficial k… [+1974 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Finances a 'dark cloud' hanging over election campaign, says IFS - BBC.com",
+            "description": "A leading think tank warns more tax rises or cuts to public services could lie ahead.",
+            "url": "https://www.bbc.com/news/articles/c100n7djyr6o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a083/live/0c448530-19ef-11ef-88f3-ff134a9c98ae.jpg",
+            "publishedAt": "2024-05-25T05:46:17Z",
+            "content": "A leading think tank has issued a stark warning about the financial challenges awaiting the next government.\r\nThe Institute for Fiscal Studies (IFS) says the state of public finances hangs over the e… [+3226 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC Southern California"
+            },
+            "author": "Jonathan Lloyd",
+            "title": "Founder of beloved Southern California institution Porto's Bakery & Cafe dies at 92 - NBC Los Angeles",
+            "description": "The founder of the family-owned Porto’s Bakery & Cafe has died at age 92, the company announced Friday.",
+            "url": "http://www.nbclosangeles.com/news/business/portos-bakery-founder/3420844/",
+            "urlToImage": "https://media.nbclosangeles.com/2024/05/GettyImages-569118011.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2024-05-25T02:46:34Z",
+            "content": "The founder of the family-owned Porto's Bakery &amp; Cafe, which started in Southern California with a store in Echo Park and expanded to locations throughout the region, has died at age 92, the comp… [+1901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More - CNET",
+            "description": "Memorial Day weekend is here, so let's kick things off with some of the best deals around and save you some money.",
+            "url": "https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/4839930c18924d338470092d7d72250fb612d990/hub/2024/05/16/7980e93d-778f-4b08-a816-0f22b93848f1/hero-promo-2.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-05-25T02:04:00Z",
+            "content": "The big Memorial Day weekend is officially here, and the deals and discounts are everywhere. Right now, all of the biggest retailers in town are offering deep discounts and special deals across a wid… [+5361 chars]"
         },
         {
             "source": {
@@ -31,41 +83,54 @@
         {
             "source": {
                 "id": null,
-                "name": "WLWT Cincinnati"
+                "name": "Windows Central"
             },
-            "author": "Matthew Dietz",
-            "title": "Some Cincinnati-area Kroger stores could ask you for receipt checks. Here's why - WLWT Cincinnati",
-            "description": "The company recently announced that new safety measures have been added at six Kroger stores around the region, including periodic receipt checks.",
-            "url": "https://www.wlwt.com/article/cincinnati-kroger-recript-checks-theft-safety-measures/60901008",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap164fbb93e13e50.jpg?crop=1.00xw:0.913xh;0,0.0871xh&resize=1200:*",
-            "publishedAt": "2024-05-24T23:22:00Z",
-            "content": "CINCINNATI —Some Kroger stores around the Cincinnati region may soon ask you for a receipt check upon leaving the store.\r\nThe company recently announced that new safety measures have been added at si… [+1124 chars]"
+            "author": "Kevin Okemwa",
+            "title": "Elon Musk predicts AI will claim all our jobs in the future - Windows Central",
+            "description": "Elon Musk says AI will be able to provide services and goods to everyone sufficiently in the future, claiming all jobs.",
+            "url": "https://www.windowscentral.com/software-apps/elon-musk-predicts-ai-will-claim-everyones-job-and-turn-work-into-an-optional-hobby-but-questions-emotional-fulfillment",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RwLLWLQrBFFjLYg2SB3kL7-1200-80.jpg",
+            "publishedAt": "2024-05-25T00:07:39Z",
+            "content": "What you need to know\r\n<ul><li>Elon Musk predicts a job-free future with the prevalence of AI.</li><li>Musk says jobs will turn into optional hobbies.</li><li>The billionaire says the government will… [+3868 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KABC-TV"
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "Raul Porto Sr, founder of beloved Porto's Bakery & Cafe, dies at 92 - KABC-TV",
-            "description": "Raul Porto Sr., the founder of the beloved Porto's Bakery & Cafe with locations across Southern California, has died. He was 92.",
-            "url": "https://abc7.com/post/raul-porto-sr-founder-portos-bakery-cafe-dies/14866408/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/14866407_052424-portos.jpg?w=1600",
-            "publishedAt": "2024-05-24T23:20:25Z",
-            "content": "LOS ANGELES (KABC) -- Raul Porto Sr., the founder of the beloved Porto's Bakery &amp; Cafe with locations across Southern California, has died. He was 92.\r\nRaul Sr. died peacefully Wednesday \"surroun… [+2286 chars]"
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "HuffPost"
+                "name": "Yahoo Entertainment"
             },
-            "author": "AP",
-            "title": "American Airlines Dumps Law Firm That Blamed Girl For Not Seeing Camera On Toilet - HuffPost",
-            "description": "The change came after a controversial filing in a lawsuit brought by the family of a 9-year-old girl who was recorded using an airplane lavatory.",
-            "url": "https://www.huffpost.com/entry/bc-us-airplane-bathroom-camera_n_66511482e4b0bc91bbed0e52",
-            "urlToImage": "https://img.huffingtonpost.com/asset/664e1a902500001e001048f1.jpg?cache=RWs6NGJVrX&ops=1200_630",
-            "publishedAt": "2024-05-24T22:38:13Z",
-            "content": "As Americans head to the polls in 2024, the very future of our country is at stake. At HuffPost, we believe that a free press is critical to creating well-informed voters. That's why our journalism i… [+3727 chars]"
+            "author": "Brett LoGiurato",
+            "title": "Stock market today: Tech stocks lead S&P 500, Nasdaq higher to end volatile week - Yahoo Finance",
+            "description": "Renewed concerns over the path of interest rates had prompted the Dow's worst day since March 2023.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-tech-stocks-lead-sp-500-nasdaq-higher-to-end-volatile-week-133125526.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3fvvdsHImGyxLthFOT9fQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/25609a00-1674-11ef-b797-9d304ae33dfc",
+            "publishedAt": "2024-05-24T22:22:43Z",
+            "content": "Paramount (PARA) reached a new multi-year distribution deal with Charter Communications (CHTR) on Thursday, a significant win for the company as it weighs its strategic options and a possible buyout … [+2425 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kevin Breuninger",
+            "title": "Truth Social struggles to grow its U.S. user base, new data on Trump Media app shows - CNBC",
+            "description": "Trump Media, which trades under DJT on the Nasdaq, relies on ad sales and acknowledges that a decline in user engagement could hurt its business.",
+            "url": "https://www.cnbc.com/2024/05/24/truth-social-traffic-trump-media-djt-data.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107018305-16455380512022-02-21t195729z_1545873726_rc2hos99d12z_rtrmadp_0_usa-trump-social-media.jpeg?v=1700160649&w=1920&h=1080",
+            "publishedAt": "2024-05-24T21:41:44Z",
+            "content": "Nearly two-and-a-half years after its launch, Truth Social is struggling to hang onto its small U.S. user base, according to new data on the microblogging platform launched by former President Donald… [+6678 chars]"
         },
         {
             "source": {
@@ -108,6 +173,19 @@
         },
         {
             "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sasha Rogelberg",
+            "title": "Passengers are pretending to be disabled to get fast-tracked through airports amid 'rampant abuse' of airport wheelchair services, Frontier CEO says - Fortune",
+            "description": "The discount airline is calling for a “wheelchair registration” system and legislation cracking down on those “abusing” the accessibility tool.",
+            "url": "https://fortune.com/2024/05/24/frontier-airlines-ceo-barry-biffle-wheelchair-service-abuse/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-1205332144-e1716584201277.jpg?resize=1200,600",
+            "publishedAt": "2024-05-24T21:18:00Z",
+            "content": "Frontier CEO Barry Biffle identified a new problem plaguing his discount airline: too many passengers exploiting accessibility services, costing it precious time and money.There is massive, rampant a… [+3943 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Jalopnik"
             },
@@ -147,16 +225,16 @@
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": null,
+                "name": "Investor's Business Daily"
             },
-            "author": "Denitsa Tsekova, Isabelle Lee",
-            "title": "Week in Review: Investors Betting Against US Stock Rally Get Burnt - Bloomberg",
-            "description": "With each passing week, the bear case for Wall Street proves too tempting to pass up for a handful of gutsy traders.",
-            "url": "https://www.bloomberg.com/news/articles/2024-05-24/bearish-trades-crater-fast-in-wall-street-s-high-momentum-rally",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCwx_Cre5I1Q/v1/1200x800.jpg",
-            "publishedAt": "2024-05-24T20:28:31Z",
-            "content": "With each passing week, the bear case for Wall Street proves too tempting to pass up for a handful of gutsy traders.\r\nRisky assets with lavish valuations march on against expectations, the group of s… [+84 chars]"
+            "author": "Investor's Business Daily",
+            "title": "Ethereum ETFs Promise Fresh Wave Of Crypto Momentum, Analysts Say - Investor's Business Daily",
+            "description": "The SEC paved the way for ethereum ETFs to launch this year.",
+            "url": "https://www.investors.com/news/ethereum-etf-sec-approved-cryptocurrency/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/05/Stock-Ethereum-02-shutt.jpg",
+            "publishedAt": "2024-05-24T20:35:00Z",
+            "content": "The Securities and Exchange Commission late Thursday approved a rule change that would allow spot ether ETFs to trade in the U.S. Ethereum price and bitcoin rebounded slightly Friday. Cryptocurrency … [+5277 chars]"
         },
         {
             "source": {
@@ -173,42 +251,55 @@
         },
         {
             "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Eric Martin",
+            "title": "US-China Tariffs: Biden Extends Exemptions on Some Imports From China - Bloomberg",
+            "description": "President Joe Biden will reimpose tariffs on hundreds of goods imported from China, the office of the US Trade Representative announced, as part of a broader plan to increase duties in strategic sectors and protect American manufacturing.",
+            "url": "https://www.bloomberg.com/news/articles/2024-05-24/biden-extends-tariff-exemptions-on-some-imports-from-china",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQjUOkX.2d8g/v0/1200x800.jpg",
+            "publishedAt": "2024-05-24T20:23:11Z",
+            "content": "President Joe Biden will reimpose tariffs on hundreds of goods imported from China, the office of the US Trade Representative announced, as part of a broader plan to increase duties in strategic sect… [+406 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "Stock Market Today: Indexes End the Week Mixed After Inflation Scare - Markets Insider",
+            "description": "A strong earnings report from Nvidia helped boost AI-related tech stocks and drove the Nasdaq 100 to a record close on Friday.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-indexes-end-week-mixed-after-inflation-scare-2024-5",
+            "urlToImage": "https://i.insider.com/6650f430239fda2da6cbae89?width=1200&format=jpeg",
+            "publishedAt": "2024-05-24T20:10:00Z",
+            "content": "US stocks traded higher on Friday, but finished the week mixed after an inflation scare following strong economic data and the release of Nvidia's solid first-quarter earnings report.\r\nFor the week, … [+1921 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "New York Post"
             },
-            "author": "Rachel Roszmann",
-            "title": "The best Memorial Day deals over 50% off — save hundreds at Target, Wayfair, Macy's and more - Yahoo Life",
-            "description": "Adidas, All-Clad, Coach, Staub: Get deep discounts on sneakers, kitchen gear, luggage, patio furniture and tech from all your favorite retailers.",
-            "url": "https://www.yahoo.com/lifestyle/the-best-memorial-day-deals-over-50-off--save-hundreds-at-target-wayfair-macys-and-more-200645165.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2024-05/25ab8800-19dd-11ef-973a-d5a741df3f10",
-            "publishedAt": "2024-05-24T20:09:20Z",
-            "content": "It's time to shake out your hair, grab a tropical drink and pull up a lounge chair the long weekend to launch us into summer is finally here! Don't have a favorite chaise? No worries; we're here to h… [+716 chars]"
+            "author": "Olivia Land",
+            "title": "Family of dancer who died from eating mislabeled Stew Leonard's cookie sues store - New York Post ",
+            "description": "Órla Baxendale, 25, was rehearsing at a dance studio in Connecticut on Jan. 11 when she went into anaphylactic shock from a severe allergic reaction to a Vanilla Florentine cookie sold by the chain…",
+            "url": "https://nypost.com/2024/05/24/us-news/family-of-dancer-who-died-from-eating-mislabeled-stew-leonards-cookie-sues-store/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/82610347-1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-05-24T20:02:00Z",
+            "content": "The family of the professional dancer who died after eating a mislabeled Stew Leonards cookie is suing the popular grocery chain, the cookie manufacturer and employees for wrongful death.\r\nÓrla Baxen… [+3504 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": null,
+                "name": "Quartz India"
             },
-            "author": "Aimee Picchi",
-            "title": "Cracker Barrel CEO says brand isn't relevant and needs a new plan. Here are 3 changes coming soon. - CBS News",
-            "description": "Cracker Barrel's CEO said restaurant chain has \"lost some of its shine.\" Here are key changes she's planning this year.",
-            "url": "https://www.cbsnews.com/news/cracker-barrel-ceo-relevant-here-are-its-new-menu-items/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/18/d3d35b7d-d5b6-47db-8cb1-7abd8f51ab6e/thumbnail/1200x630/ebbb0225c97375bc4007093cb9dc7ee8/gettyimages-1183891408.jpg?v=83093a0dd27502f0a52cd68b1c5b8b6e",
-            "publishedAt": "2024-05-24T19:48:55Z",
-            "content": "Cracker Barrel has long been known for its combination of rustic charm and country dishes like biscuits and gravy. But its new CEO said that the old approach isn't working any longer — and she's plan… [+3866 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "DAVID KOENIG",
-            "title": "Memorial Day 2024: Travelers see flight delays and higher prices - The Associated Press",
-            "description": "Travelers are contenting with big crowds and flight delays on what is expected to be the busiest day of the Memorial Day weekend. More than 4,000 U.S. flights were delayed by midafternoon Friday on the East Coast, continuing a trend that has tested the patien…",
-            "url": "https://apnews.com/article/memorial-day-weekend-travel-traffic-forecast-6d05ba4de79f1ae1ca7fd2c822b532f9",
-            "urlToImage": "https://dims.apnews.com/dims4/default/6b2603b/2147483647/strip/true/crop/3036x1708+0+159/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F88%2F2f%2Fdc399f61646d1f5866d829e320e8%2F5d07dce445ed4e57ba3bca9ed9f14b1c",
-            "publishedAt": "2024-05-24T19:45:00Z",
-            "content": "Travelers contended with big crowds and flight delays Friday, which was expected to be the busiest day of the Memorial Day weekend.\r\nMore than 4,000 U.S. flights were delayed by midafternoon on the E… [+4727 chars]"
+            "author": "Britney Nguyen",
+            "title": "Nvidia has the best business brand reputation in America - Quartz",
+            "description": "The chipmaker had the top score for categories including trajectory, vision, and growth, according to the 2024 Axios Harris Poll 100",
+            "url": "https://qz.com/nvidia-best-reputation-americas-most-visible-brands-1851500134",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1b11437a6ae9245cfe96c92088353f87.jpg",
+            "publishedAt": "2024-05-24T19:59:00Z",
+            "content": "Nvidia is known for being the worlds most valuable chip company and its reputation now tops the list of Americas most visible brands, according to a new survey.\r\nThe chipmaker was ranked number one o… [+1646 chars]"
         },
         {
             "source": {
@@ -238,19 +329,6 @@
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Meredith Deliso",
-            "title": "Wrongful death lawsuit filed over mislabeled Stew Leonard's cookie - ABC News",
-            "description": "Órla Baxendale, 25, died from complications of anaphylaxis, the lawsuit stated.",
-            "url": "https://abcnews.go.com/US/stew-leonards-cookie-death-lawsuit/story?id=110539841",
-            "urlToImage": "https://i.abcnewsfe.com/a/ef740e1b-6393-4c9f-8c47-b1610a86f00e/orla-baxendale-ht-gmh-240524_1716572137036_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-05-24T19:35:51Z",
-            "content": "A wrongful death lawsuit alleges a 25-year-old woman died as a result of \"gross negligence and reckless indifference\" after eating a cookie sold by the grocery chain Stew Leonard's that was not prope… [+4086 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Costar.com"
             },
@@ -264,16 +342,16 @@
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "fortune",
+                "name": "Fortune"
             },
-            "author": "Mary Kekatos, Dr. Sejal Parekh",
-            "title": "What to know about the blood test to detect colon cancer recommended by an FDA panel - ABC News",
-            "description": "The test's maker said the FDA will likely decide on approval later this year.",
-            "url": "https://abcnews.go.com/Health/blood-test-detect-colon-cancer-recommended-fda-panel/story?id=110531552",
-            "urlToImage": "https://i.abcnewsfe.com/a/a9a3ea9d-4ba9-4441-ad15-950ceeaa0c27/guardant_1716565731630_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-05-24T19:17:38Z",
-            "content": "A blood test to screen for colorectal cancer is one step closer to receiving approval from the U.S. Food and Drug Administration.\r\nAn FDA advisory panel -- the Medical Devices Advisory Committee -- r… [+5333 chars]"
+            "author": "Bloomberg",
+            "title": "TurboTax lost 1 million customers just when the IRS introduced its own free tax filing option and its stock is plummeting - Fortune",
+            "description": "Intuit Inc. shares fell the most in a year and a half on concerns that demand for its software is weakening.",
+            "url": "https://fortune.com/2024/05/24/turbotax-free-customers-intuit-stock/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-1440703929-e1716577875884.jpg?resize=1200,600",
+            "publishedAt": "2024-05-24T19:12:00Z",
+            "content": "Intuit Inc. shares fell the most in more than 18 months after the company reported losing 1 million customers who use its TurboTax service for free, stoking concerns about demand for the software. Te… [+3782 chars]"
         },
         {
             "source": {
@@ -316,42 +394,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "MONEY"
-            },
-            "author": null,
-            "title": "Number of 401(k) Millionaires Surges Thanks to Booming Stock Market - Nasdaq",
-            "description": "Fidelity reports that 485,000 accounts have seven-figure balances, up from 340,000 a year ago.",
-            "url": "https://money.com/401k-millionaires-increase-stock-market/?xid=nasdaq&utm_source=nasdaq&utm_medium=rss_synd",
-            "urlToImage": "/sites/acquia.prod/files/money_com/News-401K-Might-Be-Millionare.jpg",
-            "publishedAt": "2024-05-24T18:41:00Z",
-            "content": "Stock market growth has boosted 401(k) balances and led to a record number of accounts over the $1 million mark.\r\nAt the end of the first quarter, Fidelity reports that 485,000 accounts had seven-fig… [+2958 chars]"
-        },
-        {
-            "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters",
+            "author": "Isla Binnie",
             "title": "U.S. Republican states support Exxon in shareholder activism dispute - Reuters",
-            "description": null,
+            "description": "Officials from 19 Republican U.S. states urged major money managers on Thursday not to vote against ExxonMobil's directors at a meeting next week where some shareholders plan to voice their opposition to a lawsuit launched by the oil company against climate a…",
             "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-republican-states-support-exxon-shareholder-activism-row-2024-05-24/",
-            "urlToImage": null,
+            "urlToImage": "https://www.reuters.com/resizer/v2/6WHJCOSA6RLCTFTD7HNFWBALPA.jpg?auth=e83d3a2d65c17170cc9342bccf4a7676a4b32955596e397084d295cd55d2189f&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2024-05-24T18:16:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Megan Cerullo",
-            "title": "Frontier CEO claims passengers are abusing wheelchair services to skip lines - CBS News",
-            "description": "The airline wants passengers who try to cheat the system to be held accountable.",
-            "url": "https://www.cbsnews.com/news/frontier-ceo-says-passengers-are-abusing-wheelchair-services/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/05/24/1ce22064-9f36-42ef-b7e9-c5cbe64cb4fb/thumbnail/1200x630/e558e658f7c43562de438ff62bf178f7/gettyimages-2142009469.jpg?v=83093a0dd27502f0a52cd68b1c5b8b6e",
-            "publishedAt": "2024-05-24T18:07:20Z",
-            "content": "Frontier Airlines is taking a stand against passengers whom it claims are feigning disability to request wheelchair services and skip ahead of other customers in airport security and aircraft boardin… [+3668 chars]"
         },
         {
             "source": {
@@ -365,32 +417,6 @@
             "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2021/12/28/7be643d4-97ba-4f29-b774-5fa1657cf928/thumbnail/1200x630/b8c012031434595acbfe26848e3fa66e/GettyImages-1212846664.jpg?v=83093a0dd27502f0a52cd68b1c5b8b6e",
             "publishedAt": "2024-05-24T17:55:00Z",
             "content": "Burger King is planning to offer a $5 value meal promotion in an attempt to ramp up sales, reported Bloomberg Thursday. News of the offer comes amid a surge in fast-food prices that has scared off bu… [+2684 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Breck Dumas",
-            "title": "Elon Musk expects AI will replace all human jobs, lead to 'universal high income' - Fox Business",
-            "description": "Tech billionaire Elon Musk shared his vision for the future as artificial intelligence continues to advance, saying he expects humans will have not need for job.",
-            "url": "https://www.foxbusiness.com/technology/elon-musk-expects-ai-replace-all-human-jobs-universal-high-income",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/elon-musk-2.jpg?ve=1&tl=1",
-            "publishedAt": "2024-05-24T17:34:00Z",
-            "content": "Billionaire entrepreneur Elon Musk reiterated his stance this week that artificial intelligence will eventually eliminate the need for humans to work, giving his vision for how the future will look a… [+2506 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Will Daniel",
-            "title": "Nvidia's 10-for-1 stock split confirms 'big tech is going bite-sized' to lure retail investors, BofA says - Fortune",
-            "description": "\"Historically, stocks have notched 25% total returns in the 12 months after a split is announced, compared to 12% for the broad index,\" according to BofA.",
-            "url": "https://fortune.com/2024/05/24/nvidia-stock-split-10-for-1-nvda-share-outlook-beating-sp500/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-2153342973-e1716561168583.jpg?resize=1200,600",
-            "publishedAt": "2024-05-24T17:18:00Z",
-            "content": "Nvidia shares surged 9% to a record high above $1,000 on Thursday after another blowout earnings report, but the stock is about to get a lot cheaper as the AI chip leader announced a 10-for-1 split t… [+3302 chars]"
         },
         {
             "source": {
@@ -446,16 +472,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Ashton Jackson",
-            "title": "Nvidia has the best reputation of any U.S. company—Costco and Trader Joe's just missed the top 10 - CNBC",
-            "description": "Computer chip maker Nvidia has the best reputation of any company in America, according to a new Axios Harris poll. Here's why, and the rest of the top 10.",
-            "url": "https://www.cnbc.com/2024/05/24/nvidia-has-best-reputation-of-us-companies-2024-axios-harris-poll.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107340685-1701274414880-gettyimages-1820547400-_s1_9485_u4ng7eq7.jpeg?v=1716545990&w=1920&h=1080",
-            "publishedAt": "2024-05-24T16:14:30Z",
-            "content": "America has a new favorite brand: Nvidia, the computer chip company that's helping power an artificial intelligence revolution.\r\nThat's according to the newly released 2024 Axios Harris Poll 100 repu… [+4089 chars]"
+            "author": "Kate Gibson",
+            "title": "Virginia tech company admonished for \"Whites only\" job posting - CBS News",
+            "description": "Arthur Grand Technologies blamed a disgruntled worker for posting a discriminatory job listing.",
+            "url": "https://www.cbsnews.com/news/whites-only-job-posting-arthur-grand-technologies/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/29/34908973-784f-4acb-bbbc-9b9d362901e5/thumbnail/1200x630/a3a5a820be3df4f938c34063a491e5c6/gettyimages-1419934098.jpg?v=83093a0dd27502f0a52cd68b1c5b8b6e",
+            "publishedAt": "2024-05-24T16:21:36Z",
+            "content": "A Virginia company's job listing inviting only White people and the U.S.-born to apply for a position didn't just raise eyebrows online — it also caught the attention of the U.S. government.\r\nArthur … [+1629 chars]"
         },
         {
             "source": {
@@ -485,42 +511,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "newsweek",
+                "name": "Newsweek"
             },
-            "author": "Reuters",
-            "title": "Walmart, Capital One end consumer credit card agreement - CNBC",
-            "description": "Walmart and Capital One announced Friday that they've ended their consumer credit card agreement, which began in 2018.",
-            "url": "https://www.cnbc.com/2024/05/24/walmart-capital-one-end-consumer-credit-card-agreement.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107418509-1716390421778-gettyimages-2151531413-porzycki-floridae240506_np4Pb.jpeg?v=1716390491&w=1920&h=1080",
-            "publishedAt": "2024-05-24T15:47:07Z",
-            "content": "Walmart has ended its agreement with Capital One, which was the exclusive issuer of Walmart consumer credit cards, the companies said on Friday.\r\nThe world's largest retailer had previously accused C… [+1084 chars]"
+            "author": "Joe Edwards",
+            "title": "Half Of Americans Say Student Loans Aren't Worth It - Newsweek",
+            "description": "Less than half of Americans say a college education is worth taking on student debt",
+            "url": "https://www.newsweek.com/half-americans-student-loans-not-worth-it-1904490",
+            "urlToImage": "https://d.newsweek.com/en/full/2398815/student-debt.jpg",
+            "publishedAt": "2024-05-24T15:59:24Z",
+            "content": "Less than half of U.S. adults believe college is worth taking on student loans for, according to research by Pew.\r\nForty-seven percent of respondents said attending college was worth it but only with… [+3541 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CoinDesk"
             },
-            "author": "Oliver Knight",
-            "title": "Ether ETF Listing Approval Sees Billions Poured Into Restaking Protocol Ether.Fi - CoinDesk",
-            "description": "The protocol now has $5.4 billion in total value locked (TVL).",
-            "url": "https://www.coindesk.com/business/2024/05/24/ether-etf-listing-approval-sees-billions-poured-into-restaking-protocol-etherfi/",
-            "urlToImage": "https://www.coindesk.com/resizer/jxC2-fv_Rn5a4ZSmXKYDK9n6OjQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BFKRRMXODNCNJHC3ZYIEPHPGSU.jpg",
-            "publishedAt": "2024-05-24T15:46:00Z",
-            "content": "<ul><li>Almost $1 billion worth of ether (ETH) has been deposited to Ether.fi over the past ten days.\r\n</li><li>The protocol's native token has been up 41% in the past week.\r\n</li><li>Ether.fi's CEO … [+2279 chars]"
+            "author": "Jesse Hamilton",
+            "title": "Coinbase Slugs It Out With U.S. SEC in Effort to Get Key Crypto Question Answered - CoinDesk",
+            "description": "The exchange filed another response in court in its ongoing request to appeal a single legal point at the heart of the industry's dispute with the Securities and Exchange Commission.",
+            "url": "https://www.coindesk.com/policy/2024/05/24/coinbase-slugs-it-out-with-us-sec-in-effort-to-get-key-crypto-question-answered/",
+            "urlToImage": "https://www.coindesk.com/resizer/Y_GqDc2-iagGrXeyyJyf50g3pVA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/433HLA64C5FXPLRD6PMDNFCPUU.jpg",
+            "publishedAt": "2024-05-24T15:55:00Z",
+            "content": "<ul><li>Coinbase is trying to get a higher court to take a look at a question at the heart of its legal dispute with the Securities and Exchange Commission. \r\n</li><li>The courts must accept the requ… [+2289 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": "Parija Kavilanz",
-            "title": "Amazon is slashing prices on 4,000 grocery items, joining Target and Walmart - CNN",
-            "description": "Amazon Fresh has joined the growing ranks of retailers that are cutting prices. It is discounting thousands of grocery items in a bid to entice price-conscious shoppers to add a little bit more to their shopping carts.",
-            "url": "https://www.cnn.com/2024/05/24/business/amazon-fresh-price-cuts-groceries/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150579138-copy.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-05-24T15:39:00Z",
-            "content": "Amazon Fresh has joined the growing ranks of retailers that are cutting prices. It is discounting thousands of grocery items in a bid to entice price-conscious shoppers to add a little bit more to th… [+2916 chars]"
+            "author": "Ryan Vlastelica",
+            "title": "Nvidia’s Split Could Be Followed By Others in Tech, BofA Says - Bloomberg",
+            "description": "Nvidia Corp. delighted investors when it announced a 10-for-1 stock split earlier this week. The move may be the start of a trend, as several prominent tech companies trade at prices high enough to tip the scales toward similar splits, according to a note fro…",
+            "url": "https://www.bloomberg.com/news/articles/2024-05-24/nvidia-s-split-could-be-followed-by-others-in-tech-bofa-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEnKXsodjO.c/v1/1200x800.jpg",
+            "publishedAt": "2024-05-24T15:08:11Z",
+            "content": "Nvidia Corp. delighted investors when it announced a 10-for-1 stock split earlier this week. The move may be the start of a trend, as several prominent tech companies trade at prices high enough to t… [+309 chars]"
         },
         {
             "source": {
@@ -550,6 +576,19 @@
         },
         {
             "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Flying with a dog? Bark Air offers luxury, pet-friendly flights - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/05/24/bark-air-dogs-airline-charter-jet-pet",
+            "urlToImage": null,
+            "publishedAt": "2024-05-24T14:39:35Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "WDRB"
             },
@@ -563,16 +602,16 @@
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": null,
+                "name": "ForexLive"
             },
-            "author": "Vince Golle",
-            "title": "US Consumers Tempered Inflation Expectations in Late May - Bloomberg",
-            "description": "US consumers tempered their inflation expectations in the second half of May compared with earlier in the month, though high prices continued to weigh on sentiment.",
-            "url": "https://www.bloomberg.com/news/articles/2024-05-24/us-consumers-tempered-inflation-expectations-in-late-may",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiBtla95l_Io/v1/1200x800.jpg",
+            "author": "Greg Michalowski",
+            "title": "University of Michigan consumer sentiment versus 69.1 estimate. Preliminary 67.4 - ForexLive",
+            "description": "The University of Michigan consumer sentiment final for May is showing: . Consumer sentiment 69.1 vs 67.5 estimate and 67.4 preliminary.",
+            "url": "https://www.forexlive.com/news/university-of-michigan-consumer-sentiment-versus-691-estimate-preliminary-674-20240524/",
+            "urlToImage": "https://images.forexlive.com/fl-static/fl-thumbnail.jpg",
             "publishedAt": "2024-05-24T14:00:00Z",
-            "content": "US consumers tempered their inflation expectations in the second half of May compared with earlier in the month, though high prices continued to weigh on sentiment.\r\nConsumers expect prices will clim… [+205 chars]"
+            "content": "High risk warning:\r\nForeign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade fo… [+2129 chars]"
         },
         {
             "source": {
@@ -586,6 +625,32 @@
             "urlToImage": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98",
             "publishedAt": "2024-05-24T13:35:05Z",
             "content": "Largest investment in active pharmaceutical ingredient manufacturing of synthetic medicines in U.S.\r\n history\r\nSince 2020, the company has committed more than $18 billion\r\n to build, upgrade and acqu… [+21513 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPLG Local 10"
+            },
+            "author": "Veronica Crespo",
+            "title": "iPhone users could receive up to $349 in settlement. Find out if you're eligible: - WPLG Local 10",
+            "description": "Apple product users may be entitled to up to $349.",
+            "url": "https://www.local10.com/news/national/2024/05/24/iphone-users-could-receive-up-to-349-in-settlement-find-out-if-youre-eligible/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/BAA35KDPYFCG5PSTMSJQDQBKMI.jpg?_a=ATAPphC0",
+            "publishedAt": "2024-05-24T13:23:25Z",
+            "content": "Apple product users may be entitled to up to $349.\r\nIts all because of a $350 million settlement in a lawsuit filed against the technology giant in 2019.\r\nThe lawsuit was filed for audio issues that … [+611 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alex  Leeds Matthews",
+            "title": "Maybe you should stay home? 4 charts break down a busy Memorial Day weekend travel outlook - CNN",
+            "description": "Memorial Day weekend travel has returned to pre-pandemic levels, according to data from the FAA and travel agency AAA.",
+            "url": "https://www.cnn.com/2024/05/24/business/memorial-day-travel-dg/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240523-gas-map-mdw-exlargetease.png?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-05-24T13:08:00Z",
+            "content": "The nations highways and airports are expected to be crowded with people marking the unofficial start of summer this Memorial Day weekend. Travel volumes are expected to surpass pre-pandemic levels, … [+1519 chars]"
         },
         {
             "source": {
@@ -605,13 +670,13 @@
                 "id": null,
                 "name": "MarketWatch"
             },
-            "author": "Greg Robb",
+            "author": "MarketWatch",
             "title": "U.S. durable goods see third straight month of gains - MarketWatch",
-            "description": "Orders were well above forecast 0.5% decline",
+            "description": null,
             "url": "https://www.marketwatch.com/story/u-s-durable-goods-rise-for-third-straight-month-in-april-12f44bfb",
-            "urlToImage": "https://images.mktw.net/im-38294105/social",
+            "urlToImage": null,
             "publishedAt": "2024-05-24T12:34:00Z",
-            "content": "The numbers: Orders for durable goods rose 0.7% in April, marking the third straight monthly gain, the Commerce Department said Friday.Economists surveyed by the Wall Street Journal had forecast a 0.… [+1840 chars]"
+            "content": null
         },
         {
             "source": {
@@ -642,19 +707,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Food & Wine"
-            },
-            "author": "https://www.facebook.com/foodandwine",
-            "title": "Target Dropped Tons of Camping Gear Deals for Memorial Day — and Prices Start at $10 - Food & Wine",
-            "description": "Target dropped deals on camping gear for Memorial Day, including portable grills, insulated coolers, canopies, chairs, and more for up to 45% off. Shop outdoor cooking essentials, tents, and more while prices start at just $10.",
-            "url": "https://www.foodandwine.com/target-camping-gear-memorial-day-sale-8653363",
-            "urlToImage": "https://www.foodandwine.com/thmb/HjI2rlTeyIt2xZmtQDKRsT7gdrg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mdw-target-camping-essentials-tout-1-1f7eab0a952f411d96c580207dcb70ee.jpg",
-            "publishedAt": "2024-05-24T10:00:00Z",
-            "content": "Memorial Day marks the start to summer, and that includes all of the seasons top activities, like camping. Whether youre heading to the mountains, camping out on the beach, or want to spend time in y… [+3049 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNBC"
             },
             "author": "Arjun Kharpal",
@@ -667,16 +719,29 @@
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": null,
+                "name": "Motley Fool"
             },
-            "author": "Sagarika Jaisinghani",
-            "title": "BofA's Hartnett Says Stock Rally Is Moving Closer to Sell Signal - Bloomberg",
-            "description": "The rally in global equity markets is at risk of overheating, according to Bank of America Corp. strategist Michael Hartnett.",
-            "url": "https://www.bloomberg.com/news/articles/2024-05-24/bofa-s-hartnett-says-stock-rally-is-moving-closer-to-sell-signal",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSaT5ka8pDCs/v1/1200x800.jpg",
-            "publishedAt": "2024-05-24T08:42:00Z",
-            "content": "The rally in global equity markets is at risk of overheating, according to Bank of America Corp. strategist Michael Hartnett.\r\nThe banks so-called global breadth rule shows that about 71% of equity i… [+288 chars]"
+            "author": "Danny Vena",
+            "title": "Generative AI Software Sales Could Soar by 6,260% by 2032: 1 Unstoppable Artificial Intelligence Stock to Buy Before They Do (Hint: It's Not Nvidia) - The Motley Fool",
+            "description": "The godfather of AI is poised to profit as the adoption of generative AI-infused software accelerates.",
+            "url": "https://www.fool.com/investing/2024/05/24/generative-ai-software-sales-could-soar-6260-by-20/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/778029/investor-taking-notes-while-looking-at-stock-charts.jpg",
+            "publishedAt": "2024-05-24T09:15:00Z",
+            "content": "The godfather of AI is poised to profit as the adoption of generative AI-infused software accelerates.Artificial intelligence (AI) has gone viral since early last year, and it's easy to see why. This… [+4414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Joe McKendrick",
+            "title": "Generative AI may be creating more work than it saves - ZDNet",
+            "description": "Addressing a problem or opportunity with generative AI might be overkill.",
+            "url": "https://www.zdnet.com/article/generative-ai-may-be-creating-more-work-than-it-saves/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/c43f75920565c0b2ccd99aed3f921d99df3fd475/2024/05/23/da94b811-35b2-4722-8e6b-535b6836a802/gettyimages-1828490321.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-05-24T08:24:00Z",
+            "content": "Andriy Onufriyenko/Getty Images\r\nThere's common agreement that generative artificial intelligence (AI) tools can help people save time and boost productivity. Yet while these technologies make it eas… [+6535 chars]"
         },
         {
             "source": {
@@ -706,32 +771,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Siddharth Philip",
-            "title": "Boeing Shares Decline After CFO Walks Back 2024 Cash-Flow Target - Yahoo Finance",
-            "description": "(Bloomberg) -- Just months after ending a five-year hiatus, Boeing Co. has again stopped delivering airplanes to customers in China, a fresh roadblock in the...",
-            "url": "https://finance.yahoo.com/news/boeing-shares-drop-cfo-says-153844815.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/nUr1g1AxSKIC_x8Qnkpm8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/0e9dd7f418431c25407bfda7ebbf6fb3",
-            "publishedAt": "2024-05-24T00:03:00Z",
-            "content": "(Bloomberg) -- Just months after ending a five-year hiatus, Boeing Co. has again stopped delivering airplanes to customers in China, a fresh roadblock in the companys push to restore its battered rep… [+4252 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Finance",
-            "title": "Target earnings: What you need to know - Yahoo Finance",
-            "description": "Target (TGT) continues to slip, while Walmart (WMT) continues to strengthen. This Wednesday, May 22nd, Target debuted a less-than-stellar first quarter...",
-            "url": "https://finance.yahoo.com/video/target-earnings-know-231737380.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XGE_TY0TuSLfKD5PvCrslA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/25da28a0-195a-11ef-ade9-3fec845e2651",
-            "publishedAt": "2024-05-23T23:17:37Z",
-            "content": "Target (TGT) continues to slip, while Walmart (WMT) continues to strengthen. This Wednesday, May 22nd, Target debuted a less-than-stellar first quarter earnings report, Yahoo Finance's Brooke DiPalma… [+4274 chars]"
-        },
-        {
-            "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
@@ -742,19 +781,6 @@
             "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/05/23/74e7bca4-66f5-4d7d-9ede-a19f3853b7be/thumbnail/1200x630/dc9b131c26e5ad9b9d2824b9953d6074/fan-530am-vo-amtrak-del-wcbsaasj-hi-res-still.jpg?v=83093a0dd27502f0a52cd68b1c5b8b6e",
             "publishedAt": "2024-05-23T22:42:49Z",
             "content": "NEW JERSEY -- New Jersey Gov. Phil Murphy called the power outage that brought Amtrak and NJ Transit to a halt for hours \"an unmitigated disaster\" in a harsh letter to the railroad's chairman Thursda… [+2975 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Dupont joins list of iconic American companies breaking up - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2024/05/23/dupont-split-johnson-johnson-kellogg-ge",
-            "urlToImage": null,
-            "publishedAt": "2024-05-23T22:26:59Z",
-            "content": null
         },
         {
             "source": {
@@ -785,28 +811,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "CoinDesk"
             },
-            "author": "Elizabeth Elkind",
-            "title": "House votes to block Federal Reserve from creating own digital currency - Fox Business",
-            "description": "The House of Representatives voted to pass a bill blocking the Federal Reserve from creating a central bank digital currency.",
-            "url": "https://www.foxbusiness.com/politics/house-votes-block-federal-reserve-from-creating-own-digital-currency",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/emmer-crypto-bill.jpg?ve=1&tl=1",
-            "publishedAt": "2024-05-23T18:56:00Z",
-            "content": "The House of Representatives on Thursday voted along bipartisan lines to advance legislation blocking the Federal Reserve from creating its own central bank digital currency (CBDC).\r\nThree Democrats … [+3081 chars]"
+            "author": "Nikhilesh De",
+            "title": "U.S. House Passes Bill Banning Federal Reserve From Issuing a CBDC - CoinDesk",
+            "description": "The bill's prospects in the Senate are unclear, however.",
+            "url": "https://www.coindesk.com/policy/2024/05/23/us-house-passes-bill-banning-federal-reserve-from-issuing-a-cbdc/",
+            "urlToImage": "https://www.coindesk.com/resizer/8rwA01IRpYva1r_C-0q7rxAIUCE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/X3SFXWVVARADXLNB2IEPGHVCLA.jpg",
+            "publishedAt": "2024-05-23T18:37:00Z",
+            "content": "The U.S. House of Representatives voted largely along party lines to preventthe Federal Reserve from issuing a central bank digital currency.\r\nThe CBDC Anti-Surveillance State Act, introduced by Majo… [+1766 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Mishtalk.com"
+                "name": "Benzinga"
             },
-            "author": null,
-            "title": "New Home Sales Sink 4.7 Percent on Top of Huge Negative Revisions - Mish Talk",
-            "description": "New Home Sales plunged. And the Census Department completely revised away last month’s fictional 8.8 percent rise.",
-            "url": "https://mishtalk.com/economics/new-home-sales-sink-4-7-percent-on-top-of-huge-negative-revisions/",
-            "urlToImage": "https://mishtalk.com/wp-content/uploads/2024/05/New-Home-Sales-Seasonally-Adjusted-2024-04.png",
-            "publishedAt": "2024-05-23T17:50:09Z",
-            "content": "New Home Sales plunged. And the Census Department completely revised away last month’s fictional 8.8 percent rise.New Home Sales by Census Department, Chart by Mish\r\nNew Residential Construction\r\nThe… [+3059 chars]"
+            "author": "Vaishali Prayag",
+            "title": "Boeing Stock Falls As CFO Forecasts Negative Cash Flow, Delivery Delays Amid Regulatory Scrutiny - Boeing - Benzinga",
+            "description": "Boeing Company (NYSE: BA) shares are down more than 6% on Thursday following CFO Brian West's announcement that the company will burn cash in 2024 rather than generate it.",
+            "url": "https://www.benzinga.com/news/24/05/38992323/boeing-stock-falls-as-cfo-forecasts-negative-cash-flow-delivery-delays-amid-regulatory-scrutiny",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/05/23/Approved-737-10-In-Flight2.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-05-23T18:11:30Z",
+            "content": "Boeing Company BA shares are down more than 6% on Thursday following CFO Brian Wests announcement that the company will burn cash in 2024 rather than generate it. \r\nWhats Going On: Speaking at the Wo… [+2086 chars]"
         },
         {
             "source": {
@@ -824,15 +850,15 @@
         {
             "source": {
                 "id": null,
-                "name": "WKBN.com"
+                "name": "CNBC"
             },
-            "author": "Erin Yudt, Dave Sess",
-            "title": "‘A game changer’: $310 million settlement with Norfolk Southern - WKBN.com",
-            "description": "On Thursday, the U.S. Justice Department and Environmental Protection Agency (EPA) announced a settlement of over $310 million with Norfolk Southern Railway Company for damages caused by the February 3, 2023 train derailment in East Palestine, Ohio.",
-            "url": "https://www.wkbn.com/news/local-news/east-palestine-train-derailment/us-reaches-over-310-million-settlement-with-norfolk-southern-over-train-derailment/",
-            "urlToImage": "https://www.wkbn.com/wp-content/uploads/sites/48/2023/02/east-palestine-trail-explosion-3-1.jpg?w=1280",
-            "publishedAt": "2024-05-23T16:08:07Z",
-            "content": "EAST PALESTINE, Ohio (WKBN) — Norfolk Southern won’t face criminal charges, but it is still paying for cleanup in East Palestine.\r\nOn Thursday, the U.S. Justice Department and Environmental Protectio… [+6641 chars]"
+            "author": "Jacqueline Corba, Christina Wilkie",
+            "title": "Macron: French AI boom could help EU close tech innovation gap with U.S. and China - CNBC",
+            "description": "\"It's insane to have a world where the big giants just come from China and the U.S,\" French President Emmanuel Macron told CNBC's Andrew Ross Sorkin.",
+            "url": "https://www.cnbc.com/2024/05/23/macron-france-ai-us-china-tech-innovation.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107419141-1716468793399-SG-Macron-04.jpg?v=1716468800&w=1920&h=1080",
+            "publishedAt": "2024-05-23T16:37:07Z",
+            "content": "PARIS, France Europe is pursuing AI innovation, tech regulation and competition with China in very different ways than the United States, French President Emmanuel Macron said this week, as the conti… [+3517 chars]"
         },
         {
             "source": {
@@ -849,42 +875,16 @@
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Max Zahn",
-            "title": "Target, McDonald's and Wendy's announce discounts. Has a price war broken out? - ABC News",
-            "description": "The series of customer-friendly announcements isn’t a coincidence, experts said.",
-            "url": "https://abcnews.go.com/Business/target-mcdonalds-wendys-announce-discounts-price-war-broken/story?id=110461915",
-            "urlToImage": "https://i.abcnewsfe.com/a/dc7c33ef-a670-43c2-8168-5e7ed124bcb0/mcdonalds-ap-jef-240523_1716471216688_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-05-23T14:08:52Z",
-            "content": "For more than three years, rapid inflation has frustrated shoppers scanning store shelves for deals. But a host of prominent companies are finally delivering relief.\r\nTarget, Ikea, Aldi, McDonalds an… [+4266 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Gabe Hauari, Chris Sims, Jim Sergent",
-            "title": "Red Lobster locations are closing after bankruptcy filing: Map - USA TODAY",
-            "description": "Red Lobster filed for Chapter 11 bankruptcy in Florida on Sunday. Here's a list of the company's restaurant locations that are closed.",
-            "url": "https://www.usatoday.com/story/graphics/2024/05/22/which-red-lobster-locations-closing-bankruptcy-map/73800723007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/05/22/USAT/73802724007-lobsterclosingstopper.png?crop=5334,3000,x291,y152&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2024-05-22T19:55:03Z",
-            "content": "From sea to shining sea, Red Lobster closed dozens of its seafood restaurants ahead of an announcement Sunday night that Red Lobster filed for Chapter 11 bankruptcy in Florida.\r\nRed Lobster's website… [+6492 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Marissa Miller, Staff",
-            "title": "Don’t sleep on the 34 best Memorial Day mattress sales of 2024 - CNN Underscored",
-            "description": "Mattresses from top brands including Casper, Saatva and Avocado are all on sale for Memorial Day, and CNN Underscored editors found the best deals.",
-            "url": "https://www.cnn.com/cnn-underscored/deals/memorial-day-mattress-sales-2024-05-24",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/memorial-day-mattress-lead-cnnu.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-05-20T15:59:00Z",
-            "content": "Want more deals? Visit CNN Underscoreds Guide to Memorial Day for wall-to-wall coverage of the best discounts to be found during the holiday weekend.\r\nIf youre waking up with achy joints or overheati… [+7113 chars]"
+            "author": "JOSH FUNK",
+            "title": "Judge signs off on $600 million Ohio train derailment settlement but residents still have questions - The Associated Press",
+            "description": "A federal judge has signed off on the $600 million class action settlement over last year's disastrous Norfolk Southern derailment in eastern Ohio, but many people who live near East Palestine are still wondering how much they will end up with out of the deal…",
+            "url": "https://apnews.com/article/east-palestine-ohio-train-derailment-settlement-464c1312b19dc075ea159ae0e7ee0b0a",
+            "urlToImage": "https://dims.apnews.com/dims4/default/e21fe7e/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd3%2Fe9%2F3519f28bf27d77b09f3f0854a19f%2F3983c8cd709f4e849c5f72565f3e7590",
+            "publishedAt": "2024-05-22T21:46:00Z",
+            "content": "A federal judge has signed off on the $600 million class action settlement over last years disastrous Norfolk Southern derailment in eastern Ohio, but many people who live near East Palestine are sti… [+4789 chars]"
         }
     ]
 }

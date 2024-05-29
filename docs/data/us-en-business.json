@@ -1,71 +1,461 @@
 {
     "status": "ok",
-    "totalResults": 60,
+    "totalResults": 63,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Ella Nilsen",
-            "title": "White House to announce actions to modernize America’s electrical grid, paving the way for clean energy and fewer outages - CNN",
-            "description": "The White House is gearing up to announce steps to modernize a major roadblock to the clean energy transformation: America’s aging electrical infrastructure.",
-            "url": "https://www.cnn.com/2024/05/28/climate/energy-grid-modernization-biden/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2153309254.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-05-28T12:19:00Z",
-            "content": "The White House on Tuesday will announce steps to modernize a major roadblock to the clean energy transformation: Americas aging electrical infrastructure.\r\nThe new initiative between the feds and 21… [+4259 chars]"
+            "author": "Fox Business",
+            "title": "Major grocery chain won't allow large bags at DC stores to combat theft - Fox Business",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9tYWpvci1ncm9jZXJ5LWNoYWluLXdvbnQtYWxsb3ctbGFyZ2UtYmFncy1kYy1zdG9yZXMtY29tYmF0LXRoZWZ00gFmaHR0cHM6Ly93d3cuZm94YnVzaW5lc3MuY29tL21lZGlhL21ham9yLWdyb2NlcnktY2hhaW4td29udC1hbGxvdy1sYXJnZS1iYWdzLWRjLXN0b3Jlcy1jb21iYXQtdGhlZnQuYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-28T16:57:00Z",
+            "content": null
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "Dave Alsup",
-            "title": "United flight aborts takeoff at Chicago’s O’Hare airport after reported engine fire, prompting officials to delay arrivals - CNN",
-            "description": "Arrivals at Chicago O’Hare International were temporarily halted Monday afternoon after a United Airlines flight aborted takeoff due to a reported engine fire, according to a statement from the FAA.",
-            "url": "https://www.cnn.com/2024/05/27/us/united-aborted-takeoff-ohare/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1955550132.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-05-28T11:49:00Z",
-            "content": "No one was injured Monday when a United Airlines flight aborted takeoff at Chicago OHare International Airport due to what the Federal Aviation Administration said was a reported engine fire.\r\nUnited… [+1735 chars]"
+            "author": "Maxwell Zeff",
+            "title": "Elon Musk Is Fighting With Meta's Chief AI Scientist - Gizmodo",
+            "description": "Yann LeCun and Elon Musk got into it on X this weekend, exposing key disagreements on AI risks dividing the tech world.",
+            "url": "https://gizmodo.com/elon-musk-x-fights-meta-chief-ai-scientist-1851503853",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d338078627abe2ab78ba2f990fe77384.png",
+            "publishedAt": "2024-05-28T16:10:00Z",
+            "content": "Say what you will about X, but its still the best place to watch powerful people slam each other on social media. Elon Musk walked into an unsuspecting Twitter beef this holiday weekend with none oth… [+2410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Megan Henney",
+            "title": "Fed's Kashkari wants to see 'many more months' of good inflation data before cutting rates - Fox Business",
+            "description": "Minneapolis Federal Reserve President Neel Kashkari said the U.S. central bank should wait for more progress on inflation before reducing interest rates.",
+            "url": "https://www.foxbusiness.com/economy/feds-kashkari-wants-see-many-more-months-good-inflation-data-before-cutting-rates",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/Neel-Kashkari-Minneapolis-Fed-GettyImages-1180475712.jpg?ve=1&tl=1",
+            "publishedAt": "2024-05-28T15:55:00Z",
+            "content": "Minneapolis Federal Reserve President Neel Kashkari said Tuesday that central bank policymakers should wait for significant progress on inflation before they start to cut interest rates. \r\nAsked duri… [+2633 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Bette Nash, who was named the world's longest-serving flight attendant, dies at 88 - The Associated Press",
+            "description": "Bette Nash, who was once named the world’s longest-serving flight attendant, has died. She was 88. American Airlines, Nash’s employer, announced her passing on social media Saturday. The carrier noted that Nash spent nearly 70 years warmly caring for customer…",
+            "url": "https://apnews.com/article/bette-nash-flight-attendant-dies-guinness-record-9d1b17bc4c869209defe8b6b6b630ecb",
+            "urlToImage": "https://dims.apnews.com/dims4/default/4ca46d3/2147483647/strip/true/crop/5473x3079+0+269/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6e%2F9c%2F4d73399e6fdefa3039f459ba7266%2Fe11c11c5f7a4447583c1420d9e02d6cb",
+            "publishedAt": "2024-05-28T15:53:00Z",
+            "content": "NEW YORK (AP) Bette Nash, who was once named the worlds longest-serving flight attendant, has died. She was 88.\r\nAmerican Airlines, Nashs employer, announced her passing on social media Saturday. The… [+1630 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "The Hill",
+            "title": "United jet engine catches fire on runway - The Hill",
+            "description": null,
+            "url": "https://thehill.com/policy/transportation/4689194-united-jet-engine-catches-fire-on-runway/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-28T15:39:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Jill Goldsmith",
+            "title": "New BuzzFeed Investor Vivek Ramaswamy Asks For Big Changes & Apology - Deadline",
+            "description": "Former would-be GOP presidential candidate Vivek Ramaswamy and BuzzFeed investor wants big changes at  and an apology from the site.",
+            "url": "http://deadline.com/2024/05/buzzfeed-investor-vivek-ramaswamy-pressuring-site-fboard-seats-apology-1235942431/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/05/Vivek-Ramaswamy-Jonah-Peretti.jpg?w=1000",
+            "publishedAt": "2024-05-28T15:34:00Z",
+            "content": "Vivek Ramaswamy, who disclosed a big stake in BuzzFeed last week, sent a letter to the online publisher’s board of directors asking for major changes from staffing and focus to the board makeup as we… [+3823 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "DraftKings and FanDuel Stocks Drop on New Illinois Tax Hike for Sports Betting - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/draftkings-fanduel-tax-sports-betting-cf37b8bf",
+            "urlToImage": null,
+            "publishedAt": "2024-05-28T15:32:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Todd Haselton, Sean Conlon",
-            "title": "T-Mobile to acquire most of U.S. Cellular in $4.4 billion deal - CNBC",
-            "description": "T-Mobile said Tuesday it will acquire U.S. Cellular in a deal worth $4.4 billion. It plans to use the wireless company to improve coverage in rural areas.",
-            "url": "https://www.cnbc.com/2024/05/28/t-mobile-to-acquire-most-of-us-cellular-in-4point4-billion-deal.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107377191-1708640859028-gettyimages-2023784640-porzycki-american240222_npgx8.jpeg?v=1716901468&w=1920&h=1080",
-            "publishedAt": "2024-05-28T11:37:46Z",
-            "content": "T-Mobileannounced Tuesday that it plans to acquire most of U.S. Cellular, including stores, some of the wireless operator's spectrum and its customers, in a deal worth $4.4 billion. The deal includes… [+1708 chars]"
+            "author": "Kate Rogers",
+            "title": "Starbucks is set to resume union negotiations as it confronts issues at its stores - CNBC",
+            "description": "Workers United is pushing Starbucks for better pay and benefits as well as improved staffing and scheduling.",
+            "url": "https://www.cnbc.com/2024/05/28/starbucks-union-negotiations-resume.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107406992-1714144606290-gettyimages-1796914480-starbucks31634_zhzpj0nl.jpeg?v=1716912477&w=1920&h=1080",
+            "publishedAt": "2024-05-28T15:28:22Z",
+            "content": "People picket outside of a Starbucks store in New York's East Village on Nov. 16, 2023.\r\nWhen Starbucks and its baristas union resume contract bargaining this week, workers may have renewed momentum … [+6730 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "GameStop's on the rise again. What's causing that? - Fortune",
+            "description": "Roaring Kitty isn't driving this rally.",
+            "url": "https://fortune.com/2024/05/28/gamestop-surge-stock-sale/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-1248856989_f713dd-e1716905748251.jpg?resize=1200,600",
+            "publishedAt": "2024-05-28T15:25:00Z",
+            "content": "Shares of the video game retailer surged more than 25% in the pre-market Monday before losing some of those gains. As of 11:00 a.m. ET, the stock was still up more than 17%.\r\nThe surge follows the co… [+1854 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amanda Jackson, Elizabeth Wolfe",
+            "title": "Spirit Airlines passenger says cabin prepared for a possible water landing after flight suffered an apparent mechanical issue - CNN",
+            "description": "The cabin of a Spirit Airlines flight from Jamaica to Florida became a scene of panic and confusion Sunday when passengers were told to prepare for a possible water landing after the aircraft was turned around due to an apparent mechanical problem, a passenge…",
+            "url": "https://www.cnn.com/2024/05/28/us/spirit-airlines-jamaica-flight-mechanical-issue/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20661555-32645-832-still-copy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-05-28T15:09:00Z",
+            "content": "The cabin of a Spirit Airlines flight from Jamaica to Florida became a scene of panic and confusion Sunday when passengers were told to prepare for a possible water landing after the aircraft was tur… [+3547 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Megan Henney",
+            "title": "Housing prices soar to a new all-time high in March - Fox Business",
+            "description": "U.S. home prices continued to soar higher March, according to data published Tuesday, as would-be homebuyers compete for a scarce number of homes for sale.",
+            "url": "https://www.foxbusiness.com/economy/housing-prices-soar-new-all-time-high-march",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/housing-23.jpg?ve=1&tl=1",
+            "publishedAt": "2024-05-28T14:27:00Z",
+            "content": "Home prices reached a new record in March amid an ongoing housing shortage\r\n, even as high mortgage rates pushed affordability out of reach for more Americans.\r\nPrices increased 6.5% nationally in Ma… [+2813 chars]"
         },
         {
             "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "CNN",
-            "title": "Spirit Airlines passenger says cabin prepared for a possible water landing after flight suffered an apparent mechanical issue - CNN",
+            "author": "New York Post ",
+            "title": "Flight attendant on how to shoot your shot on flights - New York Post ",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8yOC91cy9zcGlyaXQtYWlybGluZXMtamFtYWljYS1mbGlnaHQtbWVjaGFuaWNhbC1pc3N1ZS9pbmRleC5odG1s0gFVaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNS8yOC91cy9zcGlyaXQtYWlybGluZXMtamFtYWljYS1mbGlnaHQtbWVjaGFuaWNhbC1pc3N1ZQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzI4L2xpZmVzdHlsZS9mbGlnaHQtYXR0ZW5kYW50LW9uLWhvdy10by1zaG9vdC15b3VyLXNob3Qtb24tZmxpZ2h0cy_SAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-05-28T11:14:00Z",
+            "publishedAt": "2024-05-28T14:25:51Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Endpoints News"
+            },
+            "author": "Kyle LaHucik",
+            "title": "J&J makes another I&I acquisition with $1.25B deal for Numab's Yellow Jersey - Endpoints News",
+            "description": "Johnson & Johnson is spending $1.25 billion in cash to buy Yellow Jersey Therapeutics, marking its second acquisition in the burgeoning I&I field in as many weeks. J&J's deal to buy Yellow Jersey, a wholly owned subsidiary of Swiss biotech Numab Therapeutics,…",
+            "url": "https://endpts.com/jj-makes-another-ii-acquisition-with-1-25b-deal-for-numabs-yellow-jersey/",
+            "urlToImage": "https://endpts.com/wp-content/uploads/2024/05/David-Urech-Numab-Therapeutics-CEO.jpg",
+            "publishedAt": "2024-05-28T14:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Stephen Sorace",
+            "title": "OpenAI starts training ‘next frontier’ artificial intelligence model, forms safety committee - Fox Business",
+            "description": "Microsoft-backed OpenAI said it has begun training a new AI model that will succeed its GPT-4 system behind the popular ChatGPT chatbot.",
+            "url": "https://www.foxbusiness.com/technology/openai-starts-training-next-frontier-artificial-intelligence-model-forms-safety-committee",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/openAI.jpg?ve=1&tl=1",
+            "publishedAt": "2024-05-28T14:14:00Z",
+            "content": "OpenAI said on Tuesday that it has begun training an advanced artificial intelligence model that will succeed the San Francisco start-up’s own GPT-4 system that currently serves its ChatGPT chatbot.\r… [+2496 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Google, Amazon, Apple lobby group opposes India's EU-like antitrust proposal - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/technology/google-amazon-apple-lobby-group-opposes-indias-eu-like-antitrust-proposal-2024-05-28/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-28T14:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Peter Johnson",
+            "title": "Toyota, Japanese rivals promise more efficient next-gen ICE engines amid the shift to EVs - Electrek",
+            "description": "Despite the market moving toward EVs, Toyota, Subaru, and Mazda are committed to developing next-generation ICE engines. The new engines...",
+            "url": "http://electrek.co/2024/05/28/toyota-japanese-rivals-promise-efficient-ice-engines-amid-ev-shift/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/05/Toyota-ICE-engines.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-05-28T13:59:00Z",
+            "content": "Despite the market moving toward EVs, Toyota, Subaru, and Mazda are committed to developing next-generation ICE engines. The new engines are tailored to electrification with integrated EV components.… [+2978 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Cheyanne M. Daniels",
+            "title": "After ‘whites only’ job posting, tech staffing firm settles with DOJ - The Hill",
+            "description": "A Virginia-based tech company will pay thousands of dollars in fines for a job posting that requested “whites only” to apply. The Justice and Labor departments have fined minority-owned federal contractor Arthur Grand Technologies Inc. a civil penalty of $7,5…",
+            "url": "https://thehill.com/business/4688856-whites-only-job-posting-tech-staffing-firm-settles-doj/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/650d468ecfb830.73733268-e1716904594656.jpeg?w=1280",
+            "publishedAt": "2024-05-28T13:58:00Z",
+            "content": "A Virginia-based tech company will pay thousands of dollars in fines for a job posting that requested whites only to apply.\r\nThe Justice and Labor departments have fined minority-owned federal contra… [+2156 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fox Business",
+            "title": "First-time homeowners are starting to ask parents for help to make buying property a reality: report - Fox Business",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9maXJzdC10aW1lLWhvbWVvd25lcnMtc3RhcnRpbmctYXNrLXBhcmVudHMtaGVscC1idXlpbmctcHJvcGVydHktcmVhbGl0eS1yZXBvcnTSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-28T13:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Nvidia Stock Eyes These Milestones After AI Leader Surges Above 1000 - Investor's Business Daily",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy9udmlkaWEtc3RvY2stbWlsZXN0b24tYWktbGVhZGVyL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-28T13:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Justice.gov"
+            },
+            "author": null,
+            "title": "Former FTX Executive Ryan Salame Sentenced To 90 Months In Prison - Department of Justice",
+            "description": "Damian Williams, the United States Attorney for the Southern District of New York, announced that RYAN SALAME was sentenced today to 90 months in prison.",
+            "url": "https://www.justice.gov/usao-sdny/pr/former-ftx-executive-ryan-salame-sentenced-90-months-prison",
+            "urlToImage": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
+            "publishedAt": "2024-05-28T13:46:59Z",
+            "content": "Damian Williams, the United States Attorney for the Southern District of New York, announced that RYAN SALAME was sentenced today to 90 months in prison.  SALAME previously pled guilty to conspiracy … [+3048 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Reuters",
-            "title": "GameStop shares jump after meme darling raises $933 million in share sales - Yahoo Finance",
-            "description": "The struggling videogame retailer's shares climbed after it said it had raised over $900 million from selling its shares during the market rally earlier in...",
-            "url": "https://finance.yahoo.com/news/meme-stock-gamestop-jumps-raising-105623353.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/03820d88f88312c14824f41d676c8580",
-            "publishedAt": "2024-05-28T11:10:57Z",
-            "content": "(Reuters) - Meme stock GameStop soared nearly 25% in pre-market trading on Tuesday after the struggling videogame retailer said it had raised over $900 million from selling its shares during the mark… [+1229 chars]"
+            "author": "John Lauerman",
+            "title": "Insmed Shares Rocket After Drug Eases Lung Disease Symptoms - Yahoo Finance",
+            "description": "(Bloomberg) -- Insmed Inc. shares more than doubled after the company’s experimental drug reduced episodes of worsening symptoms in a final-stage study of...",
+            "url": "https://finance.yahoo.com/news/insmed-shares-surge-drug-eases-113619432.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Efy7PUwAPTrfksGpzsj7pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/9f463f8138bc9fa3398b03c52d0e68fe",
+            "publishedAt": "2024-05-28T13:36:31Z",
+            "content": "(Bloomberg) -- Insmed Inc. shares more than doubled after the companys experimental drug reduced episodes of worsening symptoms in a final-stage study of patients with a rare lung condition.\r\nMost Re… [+1341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "FIRST LOOK: Hybrid Porsche 911 GTS – 534bhp, Bigger Engine, Trick Turbo, E-Boost! - Top Gear",
+            "description": "The newly facelifted Porsche 911 is now available as a hybrid. But wait, before you spit fire and brimstone in Porsche’s direction, this isn’t some hulking P...",
+            "url": "https://www.youtube.com/watch?v=it8xrIIC1cI",
+            "urlToImage": "https://i.ytimg.com/vi/it8xrIIC1cI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEggWShlMA8=&rs=AOn4CLAXi5O0P9G2tiAjzl1Kr38oMXvtLQ",
+            "publishedAt": "2024-05-28T13:31:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jesse Pound",
+            "title": "Stock trade settlement moves to single day as GameStop mania underscores need for faster transactions - CNBC",
+            "description": "Wall Street is now required to settle stock trades faster after a new rule from the Securities and Exchange Commission takes effect Tuesday.",
+            "url": "https://www.cnbc.com/2024/05/28/wall-street-stock-trade-settlement-moves-to-just-1-day-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107217823-1680189191302-gettyimages-1249879533-US_STOCKS.jpeg?v=1716900952&w=1920&h=1080",
+            "publishedAt": "2024-05-28T13:26:33Z",
+            "content": "Years of work on Wall Street to pick up the pace of trading will be put to the test this week. If all goes well, most people won't notice the difference.\r\nStarting Tuesday, trades of stocks and sever… [+2322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Elon Musk's AI start-up raises $6 billion: What it means for Tesla investors - CNBC Television",
+            "description": "Tim Higgins, Wall Street Journal business columnist, joins 'Squawk Box' to discuss Elon Musk's artificial intelligence startup, xAI, raising $6 billion, Musk...",
+            "url": "https://www.youtube.com/watch?v=oy5WzNpEOqA",
+            "urlToImage": "https://i.ytimg.com/vi/oy5WzNpEOqA/maxresdefault.jpg",
+            "publishedAt": "2024-05-28T13:11:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "David Faber",
+            "title": "Activist Elliott takes $2.5 billion stake in Texas Instruments, urges company to improve free cash flow - CNBC",
+            "description": "Elliott, the $65 billion hedge fund best known for its shareholder activism, has made a $2.5 billion investment in Texas Instruments.",
+            "url": "https://www.cnbc.com/2024/05/28/activist-elliott-takes-2point5-billion-stake-in-texas-instruments.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107273935-1689804833777-TI_sign_flowers.jpg?v=1693409291&w=1920&h=1080",
+            "publishedAt": "2024-05-28T13:05:38Z",
+            "content": "Elliott, the $65 billion hedge fund best known for its shareholder activism, has made a $2.5 billion investment in Texas Instruments and is urging the company to improve its free cash flow by adoptin… [+3269 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ambcrypto.com"
+            },
+            "author": "Akashnath S",
+            "title": "Bitcoin price prediction: Is $79K the next target of BTC bulls? - AMBCrypto News",
+            "description": "It seems the liquidity at $67.8k might be enough to propel Bitcoin back above the $71.2k resistance zone.",
+            "url": "https://ambcrypto.com/bitcoin-price-prediction-is-79k-the-next-target-of-btc-bulls/",
+            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/05/Bitcoin-Featured-Image-7-1000x600.webp",
+            "publishedAt": "2024-05-28T13:01:54Z",
+            "content": "<ul><li>Bitcoin has a bullish market structure on the daily timeframe.</li><li>The significant capital inflow and strong momentum favored an upward move on the daily chart.</li></ul>Bitcoin [BTC] saw… [+1918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "McDonald's might never expand CosMc's. But the spinoff could still pay dividends - CNBC",
+            "description": "McDonald's has opened four CosMc's locations since announcing the restaurant spinoff, and is rolling out a loyalty program.",
+            "url": "https://www.cnbc.com/2024/05/28/mcdonalds-cosmcs-chain-expansion.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107345547-1702230358646-gettyimages-1836055237-AFP_347E9DN.jpeg?v=1702230562&w=1920&h=1080",
+            "publishedAt": "2024-05-28T13:00:01Z",
+            "content": "Nearly six months since McDonald's opened its first CosMc's location, the hours-long drive-thru lines have died down, but the chain is just getting started.\r\nThe burger giant created the spinoff usin… [+7785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whitehouse.gov"
+            },
+            "author": "The White House",
+            "title": "FACT SHEET: Biden-Harris Administration Launches Federal-State Initiative to Bolster America’s Power Grid - The White House",
+            "description": "Since Day One, President Biden has positioned America as a leader in the global race for a clean energy future, including by taking ambitious action to deliver a clean, reliable electric grid, which will help ensure that communities don’t lose power during ex…",
+            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/28/fact-sheet-biden-harris-administration-launches-federal-state-initiative-to-bolster-americas-power-grid/",
+            "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+            "publishedAt": "2024-05-28T13:00:00Z",
+            "content": "Since Day One, President Biden has positioned America as a leader in the global race for a clean energy future, including by taking ambitious action to deliver a clean, reliable electric grid, which … [+8704 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Bloom",
+            "title": "Tuesday's biggest stocks to watch like Nvidia - CNBC",
+            "description": "Here are Tuesday's biggest calls on Wall Street.",
+            "url": "https://www.cnbc.com/2024/05/28/tuesdays-biggest-stocks-to-watch-like-nvidia.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107270624-16891860642023-07-12t181656z_1498558957_rc2t12aywftd_rtrmadp_0_netflix-results.jpeg?v=1702909153&w=1920&h=1080",
+            "publishedAt": "2024-05-28T12:25:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Paypal-corp.com"
+            },
+            "author": null,
+            "title": "PayPal Announces New Leaders to Build New Advertising Platform and Accelerate Consumer Product Innovation - PayPal Newsroom",
+            "description": "Mark Grether will join PayPal as SVP, GM, PayPal Ads, and John Anderson has joined as SVP, GM, Consumer Group.",
+            "url": "https://newsroom.paypal-corp.com/2024-05-28-PayPal-Announces-New-Leaders-to-Build-New-Advertising-Platform-and-Accelerate-Consumer-Product-Innovation",
+            "urlToImage": null,
+            "publishedAt": "2024-05-28T12:14:55Z",
+            "content": "SAN JOSE, Calif., May 28, 2024 /PRNewswire/ -- PayPal Holdings, Inc. (NASDAQ: PYPL) today announced new leadership appointments that will drive the creation of a new advertising platform and strength… [+3626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Wire"
+            },
+            "author": null,
+            "title": "Energy Transfer to Acquire WTG Midstream in a $3.25 Billion Transaction - Business Wire",
+            "description": "Energy Transfer LP (NYSE: ET) and WTG Midstream, LLC (WTG) announced today that the parties have entered into a definitive agreement pursuant to which",
+            "url": "https://www.businesswire.com/news/home/20240527953986/en/Energy-Transfer-to-Acquire-WTG-Midstream-in-a-3.25-Billion-Transaction",
+            "urlToImage": "https://mms.businesswire.com/media/20240527953986/en/2142517/23/1Permian_Gas_System_Map_w_WTG_pr.jpg",
+            "publishedAt": "2024-05-28T12:10:00Z",
+            "content": "DALLAS &amp; MIDLAND, Texas--(BUSINESS WIRE)--Energy Transfer LP (NYSE: ET) and WTG Midstream, LLC (WTG) announced today that the parties have entered into a definitive agreement pursuant to which En… [+6090 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WSB Atlanta"
+            },
+            "author": "Debbie Lord, Cox Media Group National Content Desk",
+            "title": "National Hamburger Day 2024: Free burgers, deals at Burger King, Wendy’s, others - WSB Atlanta",
+            "description": "The hamburger is a staple across America and has been for quite a while. An 1896 Chicago Tribune article refers to the growing popularity amongst rail commuters of the “hamburger sandwich,” according to Nationaltoday.com.",
+            "url": "https://www.wsbtv.com/news/trending/national-hamburger-day-2024-free-burgers-deals-burger-king-wendys-others/BEEQIWURGFDX3BBAQRDFIKGES4/",
+            "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/gwjPS4_DkPu0d7o6Blbo8jWdnIE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/JJD22UPDMNCSTLMWZ2QOHY66XU.jpg",
+            "publishedAt": "2024-05-28T12:08:03Z",
+            "content": "National Hamburger Day falls on Tuesday, and if you are a burger fan, there is a deal to be had.\r\n&gt;&gt; Read more trending news\r\nThe hamburger is a staple across America and has been for quite a w… [+3643 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Yahoo Finance",
+            "title": "Tempted to try a no-buy year? Here are tips from people doing it - Yahoo Finance",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90ZW1wdGVkLXRyeS1uby1idXktdGlwcy0xMTM4MTE4ODAuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-28T11:38:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investorplace.com"
+            },
+            "author": "William White",
+            "title": "Today's Biggest Pre-Market Stock Movers: 10 Top Gainers and Losers on Tuesday - InvestorPlace",
+            "description": "Pre-market stock movers are a hot topic as investors return to trading on Tuesday following the long holiday weekend!",
+            "url": "https://investorplace.com/2024/05/todays-biggest-pre-market-stock-movers-10-top-gainers-and-losers-on-tuesday-may-28th/",
+            "urlToImage": "https://investorplace.com/wp-content/uploads/2021/04/wall-street-stock-market.jpg",
+            "publishedAt": "2024-05-28T11:33:02Z",
+            "content": "Pre-market stock movers are a hot topic as investors return to trading on Tuesday following the long holiday weekend!\r\nMoving stocks this morning are new agreements, clinical trial data, an upcoming … [+2320 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Shanthi Rexaline",
+            "title": "Nasdaq And S&P 500 Futures Rise, Dow Futures Fall: What's Going On Premarket? - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY) - Benzinga",
+            "description": "Index futures point to a slightly higher opening for the market on Tuesday after the long Memorial Day weekend.",
+            "url": "https://www.benzinga.com/news/earnings/24/05/39035564/wall-street-eyes-mixed-start-after-memorial-day-break-tech-and-meme-stocks-gain-analyst-says-sustai",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/05/28/nyse-shutter.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-05-28T11:27:20Z",
+            "content": "Index futures point to a slightly higher opening for the market on Tuesday after the long Memorial Day weekend. This week marks a significant change, as the settlement cycle transitions from T+2 to T… [+4234 chars]"
         },
         {
             "source": {
@@ -78,33 +468,33 @@
             "url": "https://nypost.com/2024/05/28/us-news/passenger-dead-after-jumping-off-worlds-largest-cruise-ship/",
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/male-passenger-royal-caribbean-s-82802878.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-05-28T11:09:00Z",
-            "content": "A passenger has died after jumping from the world’s largest cruise ship on the first night of his week-long voyage, officials said.\r\nThe unidentified man jumped from Royal Caribbean’s new 1,200-foot-… [+2249 chars]"
+            "content": "A passenger has died after jumping from the world’s largest cruise ship on the first night of his week-long voyage, officials said.\r\nThe unidentified man jumped from Royal Caribbean’s new 1,200-foot-… [+2196 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "YURI KAGEYAMA",
-            "title": "Japan's Toyota announces 'an engine born' with biofuel despite global push for battery electric cars - Yahoo! Voices",
-            "description": "During a three-hour presentation at a Tokyo hall Tuesday, the car manufacturer giant announced it would offer lean compact engines that also run on so-called...",
-            "url": "https://www.yahoo.com/tech/japans-toyota-announces-engine-born-103753954.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/K3LJb48kqziekyK.7rfEYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/799485103f73b246616eaf07b6a9b49d",
-            "publishedAt": "2024-05-28T10:37:53Z",
-            "content": "TOKYO (AP) An engine reborn.\r\nThat's how Japanese automaker Toyota introduced plans to cast a futuristic spin on the traditional internal combustion engine.\r\nDuring a three-hour presentation at a Tok… [+3123 chars]"
+            "author": "Christy Bieber",
+            "title": "The Biden admin just finalized a controversial new retirement rule — here are 5 things you need to know now - Yahoo Finance",
+            "description": "Important information for anyone seeking retirement planning advice.",
+            "url": "https://finance.yahoo.com/news/biden-admin-just-finalized-controversial-110200136.html",
+            "urlToImage": "https://media.zenfs.com/en/moneywise_327/8cffba2835b581c9c5015346a7970a2c",
+            "publishedAt": "2024-05-28T11:02:00Z",
+            "content": "The Biden admin just finalized a controversial new retirement rule here are 5 things you need to know now\r\nFiguring out how to save for retirement is challenging. Unfortunately, if you want to turn t… [+5421 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Fox Business"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Bradford Betz",
-            "title": "Vivek Ramaswamy pushes for BuzzFeed board seats, says company has lost its way - Fox Business",
-            "description": "Vivek Ramaswamy has issued a seven-page letter to BuzzFeed, urging the media company to add three more board seats and adapt its business model to survive amid a decimated market value.",
-            "url": "https://www.foxbusiness.com/markets/vivek-ramaswamy-pushes-buzzfeed-board-seats-says-company-has-lost-its-way",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/buzfeed.jpg?ve=1&tl=1",
-            "publishedAt": "2024-05-28T10:09:00Z",
-            "content": "Former 2024 GOP presidential candidate Vivek Ramaswamy has issued a seven-page letter to BuzzFeed's board of directors, reviewed by FOX Business, urging the troubled media company to add three more d… [+5115 chars]"
+            "author": "Business Insider",
+            "title": "Family kicked off Turkey flight in dispute over peanut allergy - Business Insider",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZmFtaWx5LWtpY2tlZC1vZmYtZmxpZ2h0LW92ZXItZGF1Z2h0ZXItcGVhbnV0LWFsbGVyZ3ktZGlzcHV0ZS0yMDI0LTXSAWhodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL2ZhbWlseS1raWNrZWQtb2ZmLWZsaWdodC1vdmVyLWRhdWdodGVyLXBlYW51dC1hbGxlcmd5LWRpc3B1dGUtMjAyNC01P2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-28T10:52:00Z",
+            "content": null
         },
         {
             "source": {
@@ -121,29 +511,68 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Decrypt"
             },
-            "author": "The Motley Fool",
-            "title": "Time to Pounce: 2 Ultra-High-Yield Dividend Stocks With 25-Year Payout Increase Streaks That Are Screaming Buys Right Now - The Motley Fool",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmZvb2wuY29tL2ludmVzdGluZy8yMDI0LzA1LzI4L3RpbWUtdG8tcG91bmNlLTItdWx0cmEtaGlnaC15aWVsZC1kaXZpZGVuZC1zdG9ja3Mv0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-05-28T09:21:00Z",
-            "content": null
+            "author": "Stacy Elliott",
+            "title": "Bitcoin Falls After Mt. Gox Wallets Move $9 Billion Worth of BTC - Decrypt",
+            "description": "As of Tuesday morning, the wallet that Mt. Gox sent the funds to is still holding $9.6 billion worth of Bitcoin.",
+            "url": "https://decrypt.co/232642/bitcoin-falls-after-mt-gox-wallet-moves-9-billion-worth-of-btc",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/05/bitcoin-btc-mtgox-mt-gox-gID_7.jpeg",
+            "publishedAt": "2024-05-28T09:45:00Z",
+            "content": "Bitcoin is still reeling after a wallet belonging to defunct Bitcoin exchange Mt. Gox moved more than $9 billion worth of BTC to an unknown wallet yesterdaypotentially to pay back creditors.\r\nAt the … [+2355 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Kate King",
+            "title": "Bankruptcies Have Left More Stores Vacant, but the Space Doesn't Sit Empty for Long - The Wall Street Journal",
+            "description": "Available retail locations are near record lows, making it easy for landlords to replace departing tenants",
+            "url": "https://www.wsj.com/real-estate/commercial/bankruptcies-have-left-more-stores-vacant-but-the-space-doesnt-sit-empty-for-long-729ae976",
+            "urlToImage": "https://images.wsj.net/im-962936/social",
+            "publishedAt": "2024-05-28T09:30:00Z",
+            "content": "Red Lobster became the latest national chain \r\nto enter bankruptcy when the seafood-restaurant company filed for chapter 11 this month, saying it would break leases at 108 of its 550 locations. Kimco… [+454 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Motley Fool"
             },
-            "author": "Adria Cimino, The Motley Fool",
-            "title": "1 Favorable Trend Explains the 1,600% Rise in Nvidia's Stock Price - Yahoo Finance",
-            "description": "Could Nvidia extend its enormous gain?",
-            "url": "https://www.fool.com/investing/2024/05/28/1-favorable-trend-explains-the-1600-rise-in-nvidia/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xantCbQXNFuQy43FVPBzMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/87555b070156b9cf73e51fa2af77a86e",
-            "publishedAt": "2024-05-28T08:50:00Z",
-            "content": "Nvidia's (NASDAQ: NVDA) shares are on fire -- but this isn't a short-term phenomenon. The chip designer's stock has been on the rise for a few years. It took off in 2020, and since that time, it's so… [+3116 chars]"
+            "author": "Trevor Jennewine, The Motley Fool",
+            "title": "Warren Buffett Recommends This Index Fund. It Could Turn $350 Per Month Into $903,800, With Help From AI Stocks. - Yahoo Finance",
+            "description": "This index fund provides exposure to artificial intelligence stocks like Microsoft, Apple, Nvidia, Alphabet, and Amazon.",
+            "url": "https://www.fool.com/investing/2024/05/28/warren-buffett-index-fund-can-turn-350-into-903800/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rl2Y6lcdh_MmjQ0qJ6dxIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTE-/https://media.zenfs.com/en/motleyfool.com/7cf469f8001528e6d519ff53d4082582",
+            "publishedAt": "2024-05-28T09:30:00Z",
+            "content": "Warren Buffett turned Berkshire Hathaway into one of the largest companies in the world through a litany of shrewd investments. In fact, its stock price has skyrocketed more than 4,300,000% since he … [+6736 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whitehouse.gov"
+            },
+            "author": "The White House",
+            "title": "FACT SHEET: Biden-Harris Administration Announces New Principles for High-Integrity Voluntary Carbon Markets - The White House",
+            "description": "Since Day One, President Biden has led and delivered on the most ambitious climate agenda in history, including by securing the Inflation Reduction Act, the largest-ever climate investment, and taking executive action to cut greenhouse gas emissions across ev…",
+            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/28/fact-sheet-biden-harris-administration-announces-new-principles-for-high-integrity-voluntary-carbon-markets/",
+            "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+            "publishedAt": "2024-05-28T09:00:00Z",
+            "content": "Since Day One, President Biden has led and delivered on the most ambitious climate agenda in history, including by securing the Inflation Reduction Act, the largest-ever climate investment, and takin… [+18419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Harring, Jenni Reid",
+            "title": "Treasury yields rise following weak auction and ahead of key inflation report - CNBC",
+            "description": "U.S. Treasury yields were slightly lower at the start of a shortened trading week, as investors await data releases on inflation.",
+            "url": "https://www.cnbc.com/2024/05/28/treasury-yields-dip-ahead-of-consumer-confidence-and-inflation-data.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107416608-1715960766151-gettyimages-2152821471-AFP_34RZ9ZW.jpeg?v=1716884035&w=1920&h=1080",
+            "publishedAt": "2024-05-28T08:40:04Z",
+            "content": "Treasury yields moved higher Tuesday following a poor auction on the five-year note and as investors await fresh data releases on inflation.\r\nThe benchmark 10-year note yield rose more than 5 basis p… [+1315 chars]"
         },
         {
             "source": {
@@ -160,133 +589,29 @@
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": "ROD MCGUIRK Associated Press",
-            "title": "Australian police arrest a man accused of running naked through an airliner - ABC News",
-            "description": "A man accused of running naked down the aisle of an Australian domestic flight, knocking down a flight attendant and forcing the plane to turn back, has been arrested by police at the airport",
-            "url": "https://abcnews.go.com/International/wireStory/australian-police-arrest-man-accused-running-naked-airliner-110601326",
-            "urlToImage": "https://i.abcnewsfe.com/a/d614fc83-bddc-471d-ba5c-41414b5a6d97/wirestory_76c7639db617ccf561617f8c17a42de8_16x9.jpg?w=1600",
-            "publishedAt": "2024-05-28T08:09:56Z",
-            "content": "MELBOURNE, Australia -- A man accused of running naked down the aisle of an Australian domestic flight, knocking down a flight attendant and forcing the plane to turn back, was arrested by police at … [+1162 chars]"
+            "author": "Yuan Gao",
+            "title": "Apple (APPL) iPhone Shipments in China Jump 52%, Sharp Rebound From Early 2024 - Bloomberg",
+            "description": "Apple Inc.’s iPhone staged a rebound in China last month with shipments rising 52% amid a flurry of discounts from retail partners.",
+            "url": "https://www.bloomberg.com/news/articles/2024-05-28/apple-s-china-iphone-shipments-jump-52-as-rebound-gains-steam",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXD0rnnvIoUM/v0/1200x800.jpg",
+            "publishedAt": "2024-05-28T08:06:51Z",
+            "content": "Apple Inc.s iPhone staged a rebound in China last month with shipments rising 52% amid a flurry of discounts from retail partners.\r\nThe latest figures from the China Academy of Information and Commun… [+351 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Motley Fool"
+                "name": "OilPrice.com"
             },
-            "author": "Jose Najarro",
-            "title": "xAI, Elon Musk's Artificial Intelligence (AI) Company, Has Spectacular News for Nvidia Stock Investors - The Motley Fool",
-            "description": "xAI is reportedly building a supercomputer using 100,000 of Nvidia's H100 AI chips.",
-            "url": "https://www.fool.com/investing/2024/05/28/xai-elon-musks-artificial-intelligence-ai-company/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/778715/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
-            "publishedAt": "2024-05-28T08:00:00Z",
-            "content": "xAI is reportedly building a supercomputer using 100,000 of Nvidia's H100 AI chips.In today's video, I discuss recent updates impacting Nvidia (NVDA 2.57%). Check out the short video to learn more, c… [+166 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Karen Gilchrist",
-            "title": "Fed's Kashkari wants to see 'many more months' of positive inflation data before a rate cut - CNBC",
-            "description": "The Federal Reserve should wait for significant progress on inflation before cutting rates, Minneapolis Federal Reserve President Neel Kashkari said Tuesday.",
-            "url": "https://www.cnbc.com/2024/05/28/feds-kashkari-wants-to-see-many-more-months-of-positive-inflation-data-before-a-rate-cut.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107244966-16847935762023-05-22t212314z_1510236066_rc2w31ayaot1_rtrmadp_0_usa-fed-kashkari.jpeg?v=1695820658&w=1920&h=1080",
-            "publishedAt": "2024-05-28T07:55:12Z",
-            "content": "LONDON The Federal Reserve should wait for significant progress on inflation before cutting interest rates, Minneapolis Federal Reserve President Neel Kashkari told CNBC on Tuesday.\r\nAsked what condi… [+1611 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Daniel Wu",
-            "title": "Va. firm fined for discriminatory hiring ad that only sought White citizens - The Washington Post",
-            "description": "Arthur Grand Technologies, an IT firm based in Ashburn, Va., will pay more than $38,000 in penalties for a job ad that sought only White U.S. citizens.",
-            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/27/employment-discrimination-arthur-grand/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BHOOSAEHZMJRN25SMM2TSRL3YQ_size-normalized.jpg&w=1440",
-            "publishedAt": "2024-05-28T04:17:00Z",
-            "content": "A Virginia-based technology company will pay more than $38,000 in penaltiesfor posting a discriminatory job advertisement that only sought to hire White U.S. citizens, the Justice Department announce… [+478 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Mike Snider",
-            "title": "Burger deals: Free or cheap burgers on National Hamburger Day Tuesday - USA TODAY",
-            "description": "National Hamburger Day is Tuesday, May 28, and many burger spots like Wendy's, Burger King, BurgerFi, Jack in the Box and Smashburger have specials.",
-            "url": "https://www.usatoday.com/story/money/food/2024/05/27/burger-deals-national-hamburger-day-tuesday/73818490007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/05/24/USAT/73844488007-usatsi-21546997.jpg?crop=1786,1004,x1,y118&width=1786&height=1004&format=pjpg&auto=webp",
-            "publishedAt": "2024-05-28T03:49:43Z",
-            "content": "The hamburger is already perhaps the most celebrated main dish in the United States. But even with all the love, the burger still deserves its own day.\r\nThis year, National Hamburger Day falls on Tue… [+7487 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WGHP FOX 8 Greensboro"
-            },
-            "author": "Rebecca Teutsch, Logan Sparkman",
-            "title": "Overtime pay rules to change soon: What to know - WGHP FOX8 Greensboro",
-            "description": "Some workers may be eligible for overtime pay for the first time this summer.",
-            "url": "https://myfox8.com/news/overtime-pay-rules-to-change-soon-what-to-know/",
-            "urlToImage": "https://myfox8.com/wp-content/uploads/sites/17/2024/05/GettyImages-985842598-1-2-e1701195873997.jpg?w=1280",
-            "publishedAt": "2024-05-28T02:35:07Z",
-            "content": "(WHNT) The U.S. Department of Labor will set in motion new overtime rules starting this summer to allow millions of workers to be eligible for overtime pay.\r\nUnder the current regulations of the Fair… [+1633 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newsnationnow.com"
-            },
-            "author": "Anna Ashcraft",
-            "title": "Carnival cruise ship responds to distress call, rescues 25 stranded people - NewsNation Now",
-            "description": "A Carnival cruise ship responded to calls for help and detoured from its normal vacation route on Saturday to help two dozen people stranded at sea off the coast of Mexico.",
-            "url": "https://www.newsnationnow.com/travel/carnival-cruise-ship-responds-to-distress-call-rescues-25-stranded-people/",
-            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/05/CarnivalRadianceteamrescues25peoplewhowerestrandedaboardasmallboat-e1716835635485.jpg?w=1280",
-            "publishedAt": "2024-05-28T01:46:18Z",
-            "content": "SAN DIEGO (KSWB/KUSI) — A Carnival cruise ship responded to calls for help and detoured from its normal vacation route on Saturday to help two dozen people stranded at sea off the coast of Mexico. \r\n… [+1039 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Astrid Taran",
-            "title": "Hoka Memorial Day Sale 2024 - Forbes",
-            "description": "This weekend's Hoka Memorial Day sale includes discounts of up to 50% off some of the brand's most popular styles.",
-            "url": "https://www.forbes.com/sites/forbes-personal-shopper/2024/05/27/hoka-memorial-day-sale/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6655129d1356788c7acd1e1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-05-28T01:39:53Z",
-            "content": "The Hoka Memorial Day sale is your golden ticket to scoring comfortable, supportive footwear for less. Weve spotted significant savings over the long weekend, including 20% off the best-selling Clift… [+6343 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lee Ying Shan",
-            "title": "Gold, silver, copper rally has just taken a breather — new highs not far off - CNBC",
-            "description": "UBS strategists in a note last week raised their forecasts for gold to $2,500 per ounce by the end of September, and $2,600 by year-end.",
-            "url": "https://www.cnbc.com/2024/05/28/gold-silver-copper-rally-has-just-taken-a-breather-new-highs-not-far-off-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107266556-1688527585867-gettyimages-1248428636-20090101230317-99-987885.jpeg?v=1708968349&w=1920&h=1080",
-            "publishedAt": "2024-05-28T00:04:00Z",
-            "content": "Gold and silver bars of various sizes lie in a safe on a table at the precious metals dealer Pro Aurum.\r\nGold prices have been rallying to record highs, with spot gold notching a new top of $2,449.89… [+5146 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": null,
-            "title": "Memorial Day Mattress Sales 2024: Score Big on Sleep Sales - CNET",
-            "description": "Sleep better by upgrading your sleep with new mattresses and sleep bundles backed by experts this Memorial Day.",
-            "url": "https://www.cnet.com/deals/best-memorial-day-mattress-sales-2024-05-27/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/4adb000568ee2c4eb80eeac219469df07ded9ae5/hub/2024/05/24/f41e2eeb-0e72-4a7d-ad01-98de8debb10c/nolah-natural-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-05-28T00:03:00Z",
-            "content": "Nolah/CNET\r\nIt's a chaotic time right now. If you're struggling to get a good night's sleep, your mattress might be to blame. Whether you're dealing with aches and pains or restless nights, it might … [+4143 chars]"
+            "author": "Irina Slav",
+            "title": "Oil Prices Climb on Stronger-Than-Expected Fuel Demand in the U.S. - OilPrice.com",
+            "description": "Oil prices continued to climb early on Tuesday morning, driven higher by stronger-than-expected fuel  demand in the United States",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-on-Stronger-Than-Expected-Fuel-Demand-in-the-US.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2024-05-28_c9oa8kniir.jpg",
+            "publishedAt": "2024-05-28T06:24:52Z",
+            "content": "While data centers have been…\r\nA recent Reuters report quoted market analysts…\r\nBy Irina Slav - May 28, 2024, 1:24 AM CDTCrude oil prices extended the gains made on Monday earlier today, amid expecta… [+2034 chars]"
         },
         {
             "source": {
@@ -294,64 +619,64 @@
                 "name": "BBC News"
             },
             "author": null,
-            "title": "BBC presenter kicked off Turkey flight over daughter's allergy - BBC.com",
-            "description": "Georgie Palmer claims her family were ejected for asking people not to eat peanuts.",
-            "url": "https://www.bbc.com/news/articles/c0kkzzy8eqjo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/986c/live/3e82cbc0-1c2d-11ef-80aa-699d54c46324.jpg",
-            "publishedAt": "2024-05-28T00:02:58Z",
-            "content": "Vincent McAviney,BBC London\r\nSunExpress defended the decision by the captain, saying it could not guarantee a nut-free environment on its flight to Dalaman\r\nA freelance BBC weather presenter says she… [+4490 chars]"
+            "title": "Beckham: Ex-England captain in deal with Euros sponsor AliExpress - BBC.com",
+            "description": "The announcement comes as the Euros football tournament is due to kick off in Germany next month.",
+            "url": "https://www.bbc.com/news/articles/cn0091d3l0xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5a1b/live/bd6be0c0-1ca5-11ef-81db-676ee6a0b817.jpg",
+            "publishedAt": "2024-05-28T04:06:42Z",
+            "content": "Zarina McDonald,Business reporter\r\nDavid Beckham has signed a deal to be a global ambassador for AliExpress, an online retail platform owned by Chinese technology giant Alibaba.\r\nThe announcement com… [+1462 chars]"
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": null,
+                "name": "Digital Trends"
             },
-            "author": "Greg Ritchie",
-            "title": "Wall Street Returns to T+1 Stock Trading, Speeding up Trading, After Century - Bloomberg",
-            "description": "The US stock market is finally as fast as it was about a hundred years ago.",
-            "url": "https://www.bloomberg.com/news/articles/2024-05-28/wall-street-returns-to-t-1-stock-trading-after-a-century",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ir9CWroJ3WMo/v0/1200x800.jpg",
-            "publishedAt": "2024-05-28T00:00:00Z",
-            "content": "The US stock market is finally as fast as it was about a hundred years ago.\r\nThat was the last time share trades in New York settled in a single day, as they will from Tuesday under new Securities an… [+166 chars]"
+            "author": "Trevor Mogg",
+            "title": "Hacker group says it carried out Christie’s cyberattack - Digital Trends",
+            "description": "A hacker group has claimed responsibility for a cyberattack that targeted auction house Christie’s earlier this month.",
+            "url": "https://www.digitaltrends.com/computing/hacker-group-says-it-carried-out-christies-cyberattack/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2020/07/image_treatment_hacker_laptop-v3_200717.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-05-28T02:35:30Z",
+            "content": "A hacker group has claimed responsibility for a cyberattack that targeted auction house Christie’s earlier this month, the New York Times reported on Monday.\r\nThe attack, which disrupted the auction … [+2445 chars]"
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": null,
+                "name": "Cointelegraph"
             },
-            "author": null,
-            "title": "China’s Falling Emissions Signal Peak Carbon Half a Decade Before Deadline - Bloomberg",
-            "description": "China is spewing less carbon into the atmosphere for the first time since the pandemic ended, signaling that the world’s biggest polluter may have peaked emissions more than half a decade before its own deadline, according to new research from Carbon Brief.",
-            "url": "https://www.bloomberg.com/news/articles/2024-05-27/china-s-falling-emissions-signal-peak-carbon-may-already-be-here",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiWprDLdrncg/v0/1200x800.jpg",
-            "publishedAt": "2024-05-27T23:50:16Z",
-            "content": "China is spewing less carbon into the atmosphere for the first time since the pandemic ended, signaling that the worlds biggest polluter may have peaked emissions more than half a decade before its o… [+256 chars]"
+            "author": "Cointelegraph",
+            "title": "Grayscale's Ethereum ETF could bleed $110M daily in first month: Kaiko - Cointelegraph",
+            "description": null,
+            "url": "https://cointelegraph.com/news/grayscale-ethereum-etf-millions-daily-outflow-kaiko",
+            "urlToImage": null,
+            "publishedAt": "2024-05-28T02:00:59Z",
+            "content": null
         },
         {
             "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "Reuters.com",
-            "title": "Japan net external assets hit record high in 2023, remains world's top creditor - Reuters.com",
+            "author": "CNBC",
+            "title": "Gold, silver and copper rally has just taken a breather — new highs are not that far off, experts say - CNBC",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvamFwYW4tbmV0LWV4dGVybmFsLWFzc2V0cy1oaXQtcmVjb3JkLWhpZ2gtMjAyMy1yZW1haW5zLXdvcmxkcy10b3AtY3JlZGl0b3ItMjAyNC0wNS0yNy_SAQA?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjgvZ29sZC1zaWx2ZXItY29wcGVyLXJhbGx5LWhhcy1qdXN0LXRha2VuLWEtYnJlYXRoZXItbmV3LWhpZ2hzLW5vdC1mYXItb2ZmLS5odG1s0gFyaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDUvMjgvZ29sZC1zaWx2ZXItY29wcGVyLXJhbGx5LWhhcy1qdXN0LXRha2VuLWEtYnJlYXRoZXItbmV3LWhpZ2hzLW5vdC1mYXItb2ZmLS5odG1s?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-05-27T23:49:00Z",
+            "publishedAt": "2024-05-28T00:04:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Bitcoin.com"
             },
-            "author": "Pia Singh",
-            "title": "Stock futures rise to kick off shortened trading week: Live updates - CNBC",
-            "description": "Stocks are on track to end May on a strong note, after softer inflation data and better-than-expected quarterly earnings reports lifted sentiment.",
-            "url": "https://www.cnbc.com/2024/05/27/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107416540-1715956038789-gettyimages-2153396543-ms2_6572_uugfcuxd.jpeg?v=1716846117&w=1920&h=1080",
-            "publishedAt": "2024-05-27T23:04:00Z",
-            "content": "Stock futures advanced Monday night as investors await inflation data due at the end of the shortened trading week for a better picture of the market's outlook.\r\nFutures tied to the Dow Jones Industr… [+1124 chars]"
+            "author": "Kevin Helms",
+            "title": "Donald Trump's Crypto Holdings Top $10 Million, Arkham Says – Featured Bitcoin News - Bitcoin.com News",
+            "description": "Donald Trump's cryptocurrency holdings reached $10 million on Monday morning, according to Arkham Intelligence's onchain tool.",
+            "url": "https://news.bitcoin.com/donald-trumps-crypto-holdings-top-10-million-arkham-says/",
+            "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2024/05/trump-crypto-wealth.jpg",
+            "publishedAt": "2024-05-27T23:16:26Z",
+            "content": null
         },
         {
             "source": {
@@ -365,32 +690,6 @@
             "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F12dda697-27ed-4b7d-9b88-19bff0c523e1.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
             "publishedAt": "2024-05-27T23:01:47Z",
             "content": "Chinese electric cars were once largely synonymous with small, inexpensive vehicles. But in the past year, local EV makers have started repositioning themselves for the premium market. \r\nThe timing o… [+4278 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The New York Times",
-            "title": "Tornadoes and Storms Leave 23 Dead as East Coast Faces Severe Weather - The New York Times",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMjcvdXMvbWVtb3JpYWwtZGF5LXdlZWtlbmQtc3Rvcm1zLmh0bWzSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-05-27T22:24:58Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
         },
         {
             "source": {
@@ -408,6 +707,19 @@
         {
             "source": {
                 "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox Business",
+            "title": "JFK grounds flights on one of year's busiest travel weekends due to thunderstorms - New York Post ",
+            "description": "The ground stop period is expected to last from 6:30 p.m. to 7:45 p.m. on Monday evening.",
+            "url": "https://nypost.com/2024/05/27/us-news/jfk-grounds-flights-on-one-of-years-busiest-travel-weekends-due-to-thunderstorms/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/air-traffic-control-tower-terminal-80556096.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-05-27T21:10:00Z",
+            "content": "One of the busiest airports in the US has been issued a ground stop amid a hectic Memorial Day travel weekend.\r\nOn Monday afternoon, John F. Kennedy International Airport in Queens, New York, was iss… [+730 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "WPIX 11 New York"
             },
             "author": "Jonathan Rizk",
@@ -421,106 +733,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Andrea Vacchiano",
-            "title": "'Ground stop' at one of America's busiest airports on one of year's busiest travel weekends - Fox Business",
-            "description": "The FAA's Air Traffic Control System Command Center announced that JFK Airport in New York City has been issued a ground stop. Thunderstorms were blamed for the Memorial Day delays.",
-            "url": "https://www.foxbusiness.com/lifestyle/ground-stop-one-americas-busiest-airports-one-years-busiest-travel-weekends",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/0/0/jfkairport.jpg?ve=1&tl=1",
-            "publishedAt": "2024-05-27T19:45:00Z",
-            "content": "One of the busiest airports in the U.S. has been issued a ground stop amid a hectic Memorial Day travel weekend.\r\nOn Monday afternoon, John F. Kennedy International Airport in Queens, New York, was i… [+978 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Forbes",
-            "title": "The Shocking Price Of U.S. Homes Explained — You Won't Like It - Forbes",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2ltb25jb25zdGFibGUvMjAyNC8wNS8yNy90aGUtc2hvY2tpbmctcHJpY2Utb2YtdXMtaG9tZXMtZXhwbGFpbmVkLS0teW91LXdvbnQtbGlrZS1pdC_SAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-05-27T18:23:44Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WFLA"
-            },
-            "author": "Nathaniel Rodriguez",
-            "title": "Over 100 flights delayed, 7 canceled at Tampa International Airport on Memorial Day - WFLA",
-            "description": "Flights at Tampa International Airport experienced numerous delays and several cancelations on Memorial Day, according to its website.",
-            "url": "https://www.wfla.com/news/hillsborough-county/over-100-flights-delayed-7-canceled-at-tampa-international-airport-on-memorial-day/",
-            "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2023/12/TPA-DELAYS.png?w=1280",
-            "publishedAt": "2024-05-27T18:23:24Z",
-            "content": "The video above is from a previous report on Memorial Day travelers.\r\nTAMPA, Fla. (WFLA) Flights at Tampa International Airport experienced numerous delays and several cancelations on Memorial Day, a… [+1063 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "BleepingComputer"
             },
             "author": "Sergiu Gatlan",
             "title": "Hackers target Check Point VPNs to breach enterprise networks - BleepingComputer",
-            "description": "Threat actors are targeting Check Point Remote Access VPN devices in an ongoing campaign to breach enterprise networks, the company warned in a Monday advisory.",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-target-check-point-vpns-to-breach-enterprise-networks/",
-            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/10/02/Hacker_headpic.jpg",
+            "description": "BleepingComputer is a premier destination for cybersecurity news for over 20 years, delivering breaking stories on the latest hacks, malware threats, and how to protect your devices.",
+            "url": "https://www.bleepingcomputer.com/",
+            "urlToImage": "https://www.bleepstatic.com/logo/bleepingcomputer-logo.png",
             "publishedAt": "2024-05-27T18:19:21Z",
-            "content": "Threat actors are targeting Check Point Remote Access VPN devices in an ongoing campaign to breach enterprise networks, the company warned in a Monday advisory.\r\nRemote Access is integrated into all … [+3328 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Kris Van Cleave, Kelsie Hoffman",
-            "title": "How facial recognition technology is transforming travel efficiency and security - CBS News",
-            "description": "Advocates say the technology, including facial recognition, will lead to improved security and efficiency, but some remain concerned about privacy.",
-            "url": "https://www.cbsnews.com/news/biometrics-facial-recognition-technology-travel-efficiency-security/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/05/27/1a4faf91-745a-463c-aac3-0464fc6ad4c8/thumbnail/1200x630/d2ba79c63ac5ff2c5e2913ef0ff8007d/1716820255938.png?v=83093a0dd27502f0a52cd68b1c5b8b6e",
-            "publishedAt": "2024-05-27T16:58:53Z",
-            "content": "Technology is transforming how travelers pass through airports as biometrics, including facial recognition, are becoming more common. Advocates say it will lead to improved security and faster proces… [+3461 chars]"
+            "content": "Keeping your data in the cloud is convenient, and helps protect you from malware and other attacks. Koofr gives you 1TB of storage in the cloud for $129.97, $680 off the $810 MSRP with code KOOFR at … [+45 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "WBAL TV Baltimore"
             },
-            "author": "Kerry Hannon",
-            "title": "'Stick to the plan': Readers weigh in on the idea of early retirement - Yahoo Finance",
-            "description": "A surprising share of Americans say they plan to retire by 62. Yahoo Finance's readers spoke out. (And we responded.)",
-            "url": "https://finance.yahoo.com/news/stick-to-the-plan-readers-weigh-in-on-the-idea-of-early-retirement-164705964.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/idQZUGIFZ3DnZ3wo59.QXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/c5f1ea80-19dc-11ef-bdb5-906755ac34dc",
-            "publishedAt": "2024-05-27T16:48:57Z",
-            "content": "For many people, retiring early is the best decision they ever made.\r\nFor many others, continuing to work is the engine that keeps them going and gives them purpose.\r\nMy recent column on the big shif… [+9854 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Bette Nash: World's longest-serving flight attendant dies at 88 - BBC.com",
-            "description": "Bette Nash began working with the forerunner of American Airlines in 1957 and never retired from the job.",
-            "url": "https://www.bbc.com/news/articles/c0vvgqvw533o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34f3/live/5fbbfbc0-1c3e-11ef-ac61-e7bb0ab72f9c.jpg",
-            "publishedAt": "2024-05-27T16:26:01Z",
-            "content": "Bette Nash, the world's longest-serving flight attendant, has died aged 88 after nearly 70 years of airborne service.\r\nThe news was broken by her employer, American Airlines, which mourned her death … [+1195 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "USA TODAY",
-            "title": "Want to work from home? A hefty paycheck may be out of reach as high-wage remote jobs fade - USA TODAY",
-            "description": null,
-            "url": "https://www.usatoday.com/story/money/personalfinance/2024/05/27/less-high-paying-work-from-home-jobs/73838325007/",
-            "urlToImage": null,
-            "publishedAt": "2024-05-27T15:38:37Z",
-            "content": null
+            "author": "Greg Ng",
+            "title": "Cruisers happy for Carnival, Royal Caribbean's Baltimore return - WBAL TV Baltimore",
+            "description": "Cruise travelers who waited months for their vacations were excited for the return of ships to Baltimore over Memorial Day weekend.",
+            "url": "https://www.wbaltv.com/article/carnival-royal-caribbean-cruises-back-in-baltimore/60908885",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/carnival-pride-in-baltimore-664789ebbedfe.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2024-05-27T15:36:00Z",
+            "content": "BALTIMORE —Cruise travelers who waited months for their vacations were excited for the return of ships to Baltimore over Memorial Day weekend.\r\nThe embarkations are the first cruise ships to depart B… [+2897 chars]"
         },
         {
             "source": {
@@ -537,45 +771,6 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Sydney Bishop, Colin McCullough",
-            "title": "Cruise ships set sail out of Baltimore for the first time since bridge collapse - CNN",
-            "description": "Two cruise ships set sail for the sea from Baltimore this weekend for the first time since the Francis Scott Key Bridge collapsed.",
-            "url": "https://www.cnn.com/2024/05/27/travel/baltimore-cruise-ships-bridge-collapse/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2154103080.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-05-27T14:21:00Z",
-            "content": "Two cruise ships set sail for the sea from Baltimore this weekend for the first time since the Francis Scott Key Bridge collapsed.\r\nRoyal Caribbeans Vision of the Sea left Baltimore on Saturday for a… [+1444 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Benzinga"
-            },
-            "author": "Benzinga Neuro",
-            "title": "Alibaba Signs David Beckham As Global Brand Ambassador For E-Commerce Platform - Alibaba Gr Hldgs (NYSE:B - Benzinga",
-            "description": "AliExpress has not disclosed the financial terms of Beckham's endorsement deal.",
-            "url": "https://www.benzinga.com/news/24/05/39028061/alibaba-signs-david-beckham-as-global-brand-ambassador-for-e-commerce-platform",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/05/27/David-Beckham-During-Inter-Miami-Cf-Vs--.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2024-05-27T14:06:44Z",
-            "content": "AlibabaBABA has enlisted soccer legend David Beckham as the international brand ambassador for its e-commerce platform, AliExpress.\r\nWhat Happened: The partnership aims to boost AliExpresss global pr… [+1589 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KTVU San Francisco"
-            },
-            "author": "Allie Rasmus",
-            "title": "Safeway removes self-checkout kiosks from some Bay Area stores - KTVU FOX 2 San Francisco",
-            "description": "Shoppers at some Bay Area Safeway stores will no longer have the option to use self-checkout kiosks.",
-            "url": "https://www.ktvu.com/news/safeway-removes-self-checkout-kiosks-from-some-bay-area-stores",
-            "urlToImage": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/05/1280/720/self-checkout.jpg?ve=1&tl=1",
-            "publishedAt": "2024-05-27T14:00:03Z",
-            "content": "OAKLAND, Calif. - Shoppers at some Bay Area Safeway stores will no longer have the option to use self-checkout kiosks.\r\nThe grocery chain confirmed to KTVU that it's getting rid of the self-checkout … [+2651 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "MarketWatch"
             },
@@ -589,29 +784,16 @@
         },
         {
             "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
-            },
-            "author": "Danielle Healy",
-            "title": "31 Products That'll Make Your Backyard More Enjoyable - BuzzFeed",
-            "description": "It's time to bring that big, homebody energy to your outdoor space, too.",
-            "url": "https://www.buzzfeed.com/daniellehealy/products-make-your-backyard-place-enjoy-hanging-out",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-05/16/16/enhanced/7233c2e90ca5/original-958-1715875227-3.jpg?crop=1581:830;0,0%26downsize=1250:*",
-            "publishedAt": "2024-05-27T13:31:02Z",
-            "content": "Grampa's Weeder is a family-owned small business that's home to a standing weeder design that's been around since 1913. \r\nMade with a bamboo handle and powder-coated steel, it uses a simple lever sys… [+597 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "MarketWatch"
             },
-            "author": "MarketWatch",
+            "author": "Barbara Kollmeyer",
             "title": "China semiconductor stocks rally on reports of $48 billion chip fund - MarketWatch",
-            "description": null,
+            "description": "The third phase of the China Integrated Circuit Industry Investment Fund has reportedly doubled what was raised in 2014 and 2019,",
             "url": "https://www.marketwatch.com/story/china-semiconductor-stocks-rally-on-reports-of-48-billion-chip-fund-bea929f5",
-            "urlToImage": null,
+            "urlToImage": "https://images.mktw.net/im-93351592/social",
             "publishedAt": "2024-05-27T13:27:00Z",
-            "content": null
+            "content": "Chinese semiconductor stocks were in rally mode on Monday after reports that the government has set up its biggest ever fund worth nearly $48 billion to support the industry.\r\nShares of chip making g… [+1105 chars]"
         },
         {
             "source": {
@@ -628,159 +810,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Visual Capitalist"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Visual Capitalist",
-            "title": "Nvidia is Worth More Than All of These Companies Combined - Visual Capitalist",
+            "author": "CNN",
+            "title": "Brace yourselves. These are the hurdles for air travelers this busy summer - CNN",
             "description": null,
-            "url": "https://www.visualcapitalist.com/nvidia-is-worth-more-than-all-of-these-companies-combined/",
+            "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNubi5jb20vdHJhdmVsL3N1bW1lci0yMDI0LWFpci10cmF2ZWwtaHVyZGxlcy9pbmRleC5odG1s0gE9aHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vdHJhdmVsL3N1bW1lci0yMDI0LWFpci10cmF2ZWwtaHVyZGxlcw?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-05-27T11:44:51Z",
+            "publishedAt": "2024-05-24T16:17:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Arya Vaishnavi",
-            "title": "What's open on Memorial Day 2024? Hours for Starbucks, McDonald's, IKEA, Walmart and more - Hindustan Times",
-            "description": "Keep reading to know what stores and restaurants are open on Memorial Day 2024",
-            "url": "https://www.hindustantimes.com/world-news/us-news/whats-open-on-memorial-day-2024-hours-for-starbucks-mcdonalds-ikea-walmart-and-more-101716802721994.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/27/1600x900/US-MEMORIAL-DAY-19_1716807658438_1716807721311.jpg",
-            "publishedAt": "2024-05-27T11:06:39Z",
-            "content": "Memorial Day is an annual federal holiday observed in honour of the fallen American soldiers. While banks and post offices will be closed on Monday, May 27, most retail stores, including Walmart and … [+2093 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Travel+Leisure"
-            },
-            "author": "https://www.facebook.com/travelandleisure/",
-            "title": "Best Amazon Travel Pants Memorial Day Sales 2024 - Travel + Leisure",
-            "description": "Amazon has the best travel pants deals under $50 in its Memorial Day sale. From hiking pants to sporty joggers for women and chinos for men that can go from day to night and more, these packable pants are ready for all your summer travels and start at just $9.",
-            "url": "https://www.travelandleisure.com/amazon-memorial-day-sale-2024-best-travel-pant-deals-8652407",
-            "urlToImage": "https://www.travelandleisure.com/thmb/lN5pFvD1OjfG-XRDXvnFP-bQXs0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/roundup-perfect-amazon-travel-pants-on-sale-under-50-tout-ff114c15f7b645e4a1e3d79d8736db95.jpg",
-            "publishedAt": "2024-05-27T11:00:00Z",
-            "content": "The warm weather is finally here. It has us planning vacations that call for dresses, tanks, bikinis, and other clothes that bear more skin. Shorts are the obvious bottom option but dont forget to gr… [+9979 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Giulia Carbonaro",
-            "title": "Social Security Early Payment to Go Out This Week - Newsweek",
-            "description": "Supplemental Security Income (SSI) recipients will have received two payments in May.",
-            "url": "https://www.newsweek.com/social-security-early-payment-go-week-1904873",
-            "urlToImage": "https://d.newsweek.com/en/full/2399342/wallet-payment-dollars.jpg",
-            "publishedAt": "2024-05-27T10:38:18Z",
-            "content": "Some Social Security recipients across the country will receive a double payment this month, as the Supplemental Security Income (SSI) payment for June has been brought forward to this week.\r\nWhile n… [+3337 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Jacob Zinkula",
-            "title": "Overemployed worker made $300,000 one year, but remote jobs declining - Business Insider",
-            "description": "A millennial says secretly working two remote jobs has helped him buy a car and pay off debt. But remote jobs have gotten harder to come by.",
-            "url": "https://www.businessinsider.com/overemployed-worker-remote-jobs-declining-side-gig-extra-income-2024-5",
-            "urlToImage": "https://i.insider.com/664f87d8a961b37edf396596?width=1200&format=jpeg",
-            "publishedAt": "2024-05-27T09:17:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "China Slams G-7 for 'Hyping' Overcapacity as Trade Tensions Soar - Bloomberg",
-            "description": "China hit back at the Group of Seven nations over their criticism of Beijing’s global trade practices, accusing members of exaggerating the threat of overcapacity posed by the world’s second-largest economy.",
-            "url": "https://www.bloomberg.com/news/articles/2024-05-27/china-slams-g-7-for-hyping-overcapacity-as-trade-tensions-soar",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijAnKV.Dh.o4/v0/1200x899.jpg",
-            "publishedAt": "2024-05-27T08:41:05Z",
-            "content": "China hit back at the Group of Seven nations over their criticism of Beijings global trade practices, accusing members of exaggerating the threat of overcapacity posed by the worlds second-largest ec… [+308 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": "Jennifer Hughes, Eri Sugiura, Antoine Gara",
-            "title": "Low prices, revenge travel and a blockbuster IPO keep cruise industry shipshape - Financial Times",
-            "description": "Groups are placing orders for new vessels amid surging demand",
-            "url": "https://www.ft.com/content/8ae44ff2-5e65-4fd9-b557-e8f6df4fa147",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F1aa498d4-6f52-4d0e-b90f-7aa69b06c2ef.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2024-05-27T04:01:01Z",
-            "content": "Ive been waiting to catch this ice show, wrote Jim on X this month, as the Wisconsin-based cruise fan excitedly posted a video of the worlds largest ice rink at sea. \r\nThe arena, which he described a… [+7799 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Pete Buttigieg: Climate change effects affecting transportation - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2024/05/26/pete-buttigieg-climate-change-effects-affecting-transportation",
-            "urlToImage": null,
-            "publishedAt": "2024-05-26T23:30:28Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bitcoin.com"
-            },
-            "author": "Kevin Helms",
-            "title": "Deadline Looms for Biden to Veto Congressional Overturn of SEC's Crypto Rules – Regulation Bitcoin News - Bitcoin.com News",
-            "description": "The deadline for President Joe Biden to decide whether to veto a resolution overturning the SEC's controversial crypto rules is approaching.",
-            "url": "https://news.bitcoin.com/deadline-looms-for-biden-to-veto-congressional-overturn-of-secs-crypto-rules/",
-            "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2024/05/biden-veto-congress.jpg",
-            "publishedAt": "2024-05-26T21:20:47Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WGRZ.com"
-            },
-            "author": "Business First /Bizjournals.com",
-            "title": "Red Lobster owes money to more than 40 WNY businesses, but will they ever get paid? - WGRZ.com",
-            "description": "Monaco Enterprises is among more than 100,000 creditors listed in the Chapter 11 bankruptcy filed May 19 by Red Lobster.",
-            "url": "https://www.wgrz.com/article/money/business/business-first/buffalo-business-first-red-lobster-owes-businesses-money-wny-closing-bankruptcy/71-2ea36358-e4b2-4614-b380-2d291c5c2194",
-            "urlToImage": "https://media.wgrz.com/assets/WGRZ/images/406d6ebf-972a-4b90-9cc6-310965776597/20240513T202015/406d6ebf-972a-4b90-9cc6-310965776597_1140x641.jpg",
-            "publishedAt": "2024-05-26T20:03:00Z",
-            "content": "BUFFALO, N.Y. When Red Lobster abruptly shut down May 13, Kevin Monaco held out hope that a 25-year relationship with the company would give him a chance at seeing the $15,000-plus owed to his compan… [+805 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OregonLive"
-            },
-            "author": "The Associated Press",
-            "title": "American Airlines retreats after blaming 9-year-old for not seeing hidden camera in lavatory - OregonLive",
-            "description": "A former flight attendant has pleaded not guilty to luring young girls to use the lavatory where he taped an iPhone to the toilet.",
-            "url": "https://www.oregonlive.com/nation/2024/05/american-airlines-retreats-after-blaming-9-year-old-for-not-seeing-hidden-camera-in-lavatory.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/v2/S76DTFXGDBABFP7APOIQR4B6DU.jpg?auth=1696d183657962a2171481556d135b7986dff17e09abab72c68f34f7a62e03f6&width=1280&quality=90",
-            "publishedAt": "2024-05-26T16:39:00Z",
-            "content": "American Airlines has distanced itself from a court filing in which the carrier said a 9-year-old girl should have noticed there was a camera taped to the seat of an airplane lavatory.\r\nA former flig… [+1900 chars]"
         }
     ]
 }

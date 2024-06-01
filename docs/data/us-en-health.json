@@ -1,7 +1,85 @@
 {
     "status": "ok",
-    "totalResults": 64,
+    "totalResults": 63,
     "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC News",
+            "title": "Thousands of cancer patients to trial personalised vaccines in England | BBC News - BBC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CCAiCzFQWWVXcjZzSlZFmAEB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-31T15:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sara Moniuszko",
+            "title": "Mediterranean diet associated with 23% reduction in mortality, study finds - CBS News",
+            "description": "The Mediterranean diet has long been regarded as a heart-healthy option, but a new study has found the diet may help reduce risk of death.",
+            "url": "https://www.cbsnews.com/news/mediterranean-diet-reduces-mortality-study/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/05/30/ea8957c4-e0ae-4b26-a5e3-466ba192ad7d/thumbnail/1200x630/21d73f66d1a4e277df6288954d684d7c/gettyimages-1301412050.jpg?v=d7bbca61a2ddd34e0cfc8fb46aec1df3",
+            "publishedAt": "2024-05-31T15:15:00Z",
+            "content": "The Mediterranean diet has long been regarded as a heart-healthy option, but a new study has found the diet may help lower the risk of death.\r\nFor the study, published in JAMA Network Open Friday, re… [+2149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Dreaming the Future: Neurons Predict Events in Sleep - Neuroscience News",
+            "description": "Researchers discovered that certain neurons not only replay past experiences but also anticipate future events during sleep.",
+            "url": "https://neurosciencenews.com/dream-neuron-sleep-events-2608/",
+            "urlToImage": "https://neurosciencenews.com/files/2024/05/neurons-sleep-events-neurosicence.jpg",
+            "publishedAt": "2024-05-31T13:57:39Z",
+            "content": "Summary: Researchers discovered that certain neurons not only replay past experiences but also anticipate future events during sleep.\r\nBy studying rats’ hippocampal activity, they found that neurons … [+9524 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kyra Colah",
+            "title": "Tattoos may increase risk of developing lymphoma, alarming new study finds - Fox News",
+            "description": "A new Swedish study has found that tattooed individuals have a 21% increased risk for lymphoma, a type of blood cancer. Here's a deeper dive into a potentially growing health issue.",
+            "url": "https://www.foxnews.com/lifestyle/tattoos-may-increase-risk-developing-lymphoma-new-study-finds",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/iStock-1184219605.jpg",
+            "publishedAt": "2024-05-31T12:20:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+4706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PsyPost"
+            },
+            "author": "Vladimir Hedrih",
+            "title": "Camouflaging might not be unique to autistic individuals - PsyPost",
+            "description": "A recent study found that both autistic individuals and those with ADHD use camouflaging strategies, though autistic individuals use them more frequently.",
+            "url": "https://www.psypost.org/camouflaging-might-not-be-unique-to-autistic-individuals/",
+            "urlToImage": "https://www.psypost.org/wp-content/uploads/2023/03/stressed-sad-man.jpg",
+            "publishedAt": "2024-05-31T12:13:29Z",
+            "content": "A study in the Netherlands investigated differences in camouflaging between individuals with autism and those with attention-deficit/hyperactivity disorder (ADHD). The results showed that while autis… [+4386 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brenda Goodman",
+            "title": "Third person in US tests positive for bird flu in connection to outbreak in dairy cattle - CNN",
+            "description": "A third person in the US has tested positive for H5 bird flu in connection to an ongoing outbreak in dairy cattle, the Michigan Department of Health and Human Services said Thursday. This is the second human case reported in the state and the fourth ever in t…",
+            "url": "https://www.cnn.com/2024/05/30/health/bird-flu-michigan-third-human-case/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24143659716467.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-05-31T12:13:00Z",
+            "content": "A third person in the US has tested positive for H5 bird flu in connection to an ongoing outbreak in dairy cattle, the Michigan Department of Health and Human Services said Thursday. This is the seco… [+6152 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -17,16 +95,81 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Brenda Goodman",
-            "title": "Third person in US tests positive for bird flu in connection to outbreak in dairy cattle - CNN",
-            "description": "A third person in the US has tested positive for H5 bird flu in connection to an ongoing outbreak in dairy cattle, the Michigan Department of Health and Human Services said Thursday. This is the second human case reported in the state and the fourth ever in t…",
-            "url": "https://www.cnn.com/2024/05/30/health/bird-flu-michigan-third-human-case/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24143659716467.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-05-31T02:26:00Z",
-            "content": "A third person in the US has tested positive for H5 bird flu in connection to an ongoing outbreak in dairy cattle, the Michigan Department of Health and Human Services said Thursday. This is the seco… [+6151 chars]"
+            "author": "Dr. Sarah Danziger",
+            "title": "LGBTQ+ people at higher risk of some cancers possibly, due to fear of discrimination - ABC News",
+            "description": "The comprehensive analysis was released Thursday by the American Cancer Society.",
+            "url": "https://abcnews.go.com/Health/lgbtq-people-higher-risk-cancers-possibly-due-fear/story?id=110704665",
+            "urlToImage": "https://i.abcnewsfe.com/a/cf1ea36f-f483-4db3-9d3e-9d03927466a3/surgery-rf-gty-ml-230905_1693912487549_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-05-31T11:05:21Z",
+            "content": "Ahead of Pride Month, a new report has highlighted increased cancer risk for those who identify as LGBTQ+ as researchers say that LBGTQ+ people may be more likely to smoke, drink alcohol or be living… [+1932 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fort Worth Star-Telegram",
+            "title": "Texas kills deer herd, after battling rancher for years - Fort Worth Star-Telegram",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnN0YXItdGVsZWdyYW0uY29tL25ld3Mvc3RhdGUvdGV4YXMvYXJ0aWNsZTI4ODQ3OTgxNS5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-31T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Shiv Sudhakar",
+            "title": "Bear meat for dinner? Follow these steps to prevent parasitic infection, CDC says - Fox News",
+            "description": "Eating undercooked meat from wild game animals can cause a rare illness known as trichinellosis, health officials have warned. Experts share symptoms and prevention tips.",
+            "url": "https://www.foxnews.com/food-drink/bear-meat-dinner-follow-steps-prevent-parasitic-infection-cdc-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/bear-and-worm-split.jpg",
+            "publishedAt": "2024-05-31T10:00:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+6804 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Lifestyle Desk",
+            "title": "5 supplements that secretly do more harm than good - The Times of India",
+            "description": "While supplements can play a role in maintaining health, it's crucial to approach them with caution. Always consult with a healthcare provider before starting any new supplement regimen. The best way to ensure you're getting the nutrients you need is through …",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/5-supplements-that-secretly-do-more-harm-than-good/photostory/110397911.cms",
+            "urlToImage": "https://static.toiimg.com/photo/110397949.cms",
+            "publishedAt": "2024-05-31T04:20:00Z",
+            "content": "Supplements can be beneficial, but they aren't always necessary for everyone. Ideally, a well-balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats provides most of … [+514 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": "Tanner Todd | The Oregonian/OregonLive",
+            "title": "Oregon whooping cough cases rise sharply - OregonLive",
+            "description": "The Oregon Health Authority reported a nearly eightfold increase in whooping cough cases compared with this time last year.",
+            "url": "https://www.oregonlive.com/news/2024/05/oregon-whooping-cough-cases-rise-sharply.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/v2/ANFAS4Z4FBFW5HI2C7KXNSIJME.jpg?auth=71998f3aa2ed97c17c15b4812db353d3c6bc1e895711c0ab9d904cf7ad42324b&width=1280&quality=90",
+            "publishedAt": "2024-05-31T01:44:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "World Health Organization"
+            },
+            "author": null,
+            "title": "Dengue - Global situation - World Health Organization (WHO)",
+            "description": "As of 30 April 2024, over 7.6 million dengue cases have been reported to WHO in 2024, including 3.4 million confirmed cases, over 16 000 severe cases, and over 3000 deaths. While a substantial increase in dengue cases has been reported globally in the last fi…",
+            "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON518",
+            "urlToImage": null,
+            "publishedAt": "2024-05-31T01:07:30Z",
+            "content": "As of 30 April 2024, over 7.6 million dengue cases have been reported to WHO in 2024, including 3.4 million confirmed cases, over 16 000 severe cases, and over 3000 deaths. While a substantial increa… [+40215 chars]"
         },
         {
             "source": {
@@ -44,15 +187,15 @@
         {
             "source": {
                 "id": null,
-                "name": "WVTM13"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Ayron Lewallen",
-            "title": "'I thought I could die': Birmingham woman remembers battling dengue fever - WVTM13 Birmingham",
-            "description": "Erika Van Meir caught the virus in November when she and her family went to Mexico to celebrate Thanksgiving, but it took her months to recover.",
-            "url": "https://www.wvtm13.com/article/birmingham-alabama-florida-dengue-fever-virus-mosquitos-summer-travel/60944231",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/26be7726-7a2f-4122-b4c9-18dec1ef3748/519f9e16-71ac-4cef-b93e-7695f019e370.jpg?crop=0.798xw:0.798xh;0.111xw,0&resize=1200:*",
-            "publishedAt": "2024-05-30T23:05:00Z",
-            "content": "BIRMINGHAM, Ala. —A confirmed case of dengue virus has been found in Jefferson County. The World Health Organization said the virus specifically spreads by mosquitoes, and one woman told WVTM 13 she … [+1419 chars]"
+            "author": "Jeremiah Budin",
+            "title": "Ingenious 'Guardian Toad' device helps control populations of disease-carrying mosquitoes — here's how it works - Yahoo! Voices",
+            "description": "This type of creative approach is more needed than ever.",
+            "url": "https://www.yahoo.com/news/ingenious-guardian-toad-device-helps-001500572.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r5xYXSsW3ZQaOwDkme1kDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/c494c4d87d00100ceec699b74b87a689",
+            "publishedAt": "2024-05-31T00:15:00Z",
+            "content": "Vector borne diseases including diseases spread by insects are on the rise in many parts of the world amid rising global temperatures. In Peru, several factors have combined to create an especially s… [+2175 chars]"
         },
         {
             "source": {
@@ -69,6 +212,19 @@
         },
         {
             "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Libby Smith",
+            "title": "Preventative drug providing hope for potential Type 1 diabetes patients in Colorado - CBS Colardo",
+            "description": "The Barbara Davis Center is offering an infusion treatment that has shown to delay the onset of Type1 diabetes.",
+            "url": "https://www.cbsnews.com/colorado/news/preventative-drug-type-1-diabetes-patients-tzield-barbara-davis-center-childrens-diabetes-foundation/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/05/30/109b0ddf-8c82-4294-a883-eff0841c9100/thumbnail/1200x630/e0d155288060755b3986dfee222f8820/diabetes-prevention-raw-bm01concatenated143200-frame-0.jpg?v=d7bbca61a2ddd34e0cfc8fb46aec1df3",
+            "publishedAt": "2024-05-30T22:15:00Z",
+            "content": "Doctors at the Barbara Davis Center for Diabetes are encouraged by a relatively new treatment that is delaying the development of Type 1 diabetes in some patients. The Barbara Davis Center is a world… [+3257 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Vinnews.com"
             },
@@ -82,16 +238,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "New York Post"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Tracy Swartz",
+            "author": "New York Post ",
             "title": "Flavonoid-rich foods, drinks linked to lower diabetes risk - New York Post ",
-            "description": "Flavonoids — chemical compounds found in fruits, vegetables, and other plants — have been praised for their anticancer, antiviral, antibacterial, antioxidant, and anti-inflammatory properties.",
-            "url": "https://nypost.com/2024/05/30/lifestyle/flavonoid-rich-foods-drinks-linked-to-lower-diabetes-risk/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/miami-beach-florida-veterans-day-82942275.jpg?quality=75&strip=all&w=1024",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzMwL2xpZmVzdHlsZS9mbGF2b25vaWQtcmljaC1mb29kcy1kcmlua3MtbGlua2VkLXRvLWxvd2VyLWRpYWJldGVzLXJpc2sv0gEA?oc=5",
+            "urlToImage": null,
             "publishedAt": "2024-05-30T21:15:00Z",
-            "content": "This news may make your day matcha better.\r\nConsuming a lot of flavonoid-rich foods and drinks such as green tea, berries and apples can lower the risk of Type 2 diabetes, a new UK study finds.\r\n113,… [+2643 chars]"
+            "content": null
         },
         {
             "source": {
@@ -105,19 +261,6 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/woman-taking-white-pill-statin-82942094.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-05-30T20:37:00Z",
             "content": "A cheap and common drug used to lower cholesterol could also lower the risk of developing cancer, according to a new study. \r\nCholesterol-lowering drugs called statins, could block a pathway involved… [+2463 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Angelica Stabile",
-            "title": "Women experience more dental health issues than men, experts say. Here's what to do about it - Fox News",
-            "description": "Dr. Ellie Phillips went viral on TikTok for revealing the difference in men's and women's oral environments. She and Dr. Brian Mack weigh in on how both genders can balance acidity in the mouth.",
-            "url": "https://www.foxnews.com/health/women-experience-dental-health-issues-men-experts-say-heres-what-do-about",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/iStock-819818190.jpg",
-            "publishedAt": "2024-05-30T20:20:00Z",
-            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+7601 chars]"
         },
         {
             "source": {
@@ -135,15 +278,41 @@
         {
             "source": {
                 "id": null,
-                "name": "Slate Magazine"
+                "name": "Investor's Business Daily"
             },
-            "author": "Nicole Chung",
-            "title": "Parenting advice: My stepdaughter just made an unexpected request, and now I'm wracked with guilt. - Slate",
-            "description": "I’m not sure how to handle this.",
-            "url": "https://slate.com/advice/2024/05/unexpected-request-care-and-feeding.html",
-            "urlToImage": "https://compote.slate.com/images/47440262-6171-48bc-8e06-97ee002364f9.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-            "publishedAt": "2024-05-30T19:45:00Z",
-            "content": "Slate Plus members get more Care and Feeding every week. Have a question about kids, parenting, or family life? Submit it here!\r\nDear Care and Feeding,\r\nI recently became a full-time stepmom to a sha… [+3552 chars]"
+            "author": "Investor's Business Daily",
+            "title": "Moderna Stock Seesaws After Confirming U.S. Could Bankroll Its Bird Flu Vaccine - Investor's Business Daily",
+            "description": "The company expects to have data soon from its Phase 1 and Phase 2 study of a bird flu vaccine.",
+            "url": "https://www.investors.com/news/technology/moderna-stock-bird-flu-vaccine/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/12/Stock-moderna-12-adobe.jpg",
+            "publishedAt": "2024-05-30T20:03:00Z",
+            "content": "Moderna (MRNA) stock seesawed Thursday after confirming the U.S. government is nearing a deal to fund its messenger-RNA-based pandemic bird flu vaccine.\r\nXThe news comes amid growing concerns about t… [+2651 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "WOODTV.com",
+            "title": "‘Too many people out there dying’: Fentanyl-laced drugs behind overdose deaths - WOODTV.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lndvb2R0di5jb20vbmV3cy9ncmFuZC1yYXBpZHMvdG9vLW1hbnktcGVvcGxlLW91dC10aGVyZS1keWluZy1mZW50YW55bC1sYWNlZC1kcnVncy1iZWhpbmQtb3ZlcmRvc2UtZGVhdGhzL9IBeWh0dHBzOi8vd3d3Lndvb2R0di5jb20vbmV3cy9ncmFuZC1yYXBpZHMvdG9vLW1hbnktcGVvcGxlLW91dC10aGVyZS1keWluZy1mZW50YW55bC1sYWNlZC1kcnVncy1iZWhpbmQtb3ZlcmRvc2UtZGVhdGhzL2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-30T19:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Umn.edu"
+            },
+            "author": null,
+            "title": "Study reveals persistent risk of death, symptoms in COVID survivors at 3 years - University of Minnesota Twin Cities",
+            "description": null,
+            "url": "https://www.cidrap.umn.edu/covid-19/study-reveals-persistent-risk-death-symptoms-covid-survivors-3-years",
+            "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/Headache.png?itok=5rO5M_c1",
+            "publishedAt": "2024-05-30T19:17:05Z",
+            "content": null
         },
         {
             "source": {
@@ -200,15 +369,15 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Phys.Org"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Science X",
+            "title": "New modified CRISPR protein can fit inside virus used for gene therapy - Phys.org",
+            "description": "Researchers have developed a novel version of a key CRISPR gene-editing protein that shows efficient editing activity and is small enough to be packaged within a non-pathogenic virus that can deliver it to target cells. Hongjian Wang and colleagues at Wuhan U…",
+            "url": "https://phys.org/news/2024-05-crispr-protein-virus-gene-therapy.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-modified-crispr-pr.jpg",
+            "publishedAt": "2024-05-30T18:00:01Z",
+            "content": "Researchers have developed a novel version of a key CRISPR gene-editing protein that shows efficient editing activity and is small enough to be packaged within a non-pathogenic virus that can deliver… [+3227 chars]"
         },
         {
             "source": {
@@ -226,6 +395,32 @@
         {
             "source": {
                 "id": null,
+                "name": "The Daily Caller"
+            },
+            "author": "Benjamin Szwediuk",
+            "title": "'It's Literally Older Than Moses': Doctor Makes 4000-Year-Old Heart Disease Discovery In Mummies - Daily Caller",
+            "description": "A new study into mummies' deaths has produced findings which suggest heart disease is far from the disease of modernity we often think it to be today.",
+            "url": "https://dailycaller.com/2024/05/30/doctor-makes-3000-year-old-discovery-mummy/",
+            "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/05/Egyptian_mummies_in_Agyptisches_Museum_Berlin-2-scaled-e1717080004883.jpg",
+            "publishedAt": "2024-05-30T16:51:00Z",
+            "content": "A new study into the deaths of hundreds of preserved mummies from around the globe has produced findings which suggest heart disease is far from the disease of modernity we often think it to be today… [+2558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KFSN-TV"
+            },
+            "author": null,
+            "title": "Tulare County health officials confirm measles case from international traveler - KFSN-TV",
+            "description": "The Tulare County Public Health Department has confirmed its first case of measles in 2024.",
+            "url": "https://abc30.com/post/tulare-county-health-officials-confirm-measles-case-international/14891339/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/14534254_031624-kfsn-8p-measles-vid.jpg?w=1600",
+            "publishedAt": "2024-05-30T16:38:29Z",
+            "content": "TULARE COUNTY, Calif. (KFSN) -- The Tulare County Public Health Department has confirmed its first case of measles in 2024.\r\nOfficials say the case is the traveler who flew to Fresno while having the… [+558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "WTAE Pittsburgh"
             },
             "author": "Ava Rash",
@@ -235,6 +430,19 @@
             "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/monkeypox-virus-1656522027.jpg?crop=1.00xw:0.846xh;0,0.0636xh&resize=1200:*",
             "publishedAt": "2024-05-30T16:25:00Z",
             "content": "ALLEGHENY COUNTY, Pa. —According to Allegheny County's website, there has been an increase in Mpoxs, formerly known as monkeypox. \r\nThe disease causes a painful rash, enlarged lymph nodes and fever.\r… [+1736 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Newser",
+            "title": "When Humans First Treated Cancer Just Got a Big Update - Newser",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3Nlci5jb20vc3RvcnkvMzUxMDIyL2FuY2llbnQtZWd5cHRpYW4tc2t1bGwtbWF5LXNob3ctZmlyc3QtY2FuY2VyLXRyZWF0bWVudC5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-30T16:14:00Z",
+            "content": null
         },
         {
             "source": {
@@ -265,41 +473,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "Minneapolis Star Tribune"
             },
-            "author": "Ed Cara",
-            "title": "The Medieval Disease That Killed Thousands of People and Then Vanished From History - Gizmodo",
-            "description": "Known for killing people within a day of symptoms starting, the true origins of the \"sweats\" that plagued the 1500s remain unknown to this day.",
-            "url": "https://gizmodo.com/sweating-sickness-contagious-killer-mystery-disease-1851507417",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/43b8476fdc2682c35f70abadd40adf84.png",
-            "publishedAt": "2024-05-30T15:10:00Z",
-            "content": "Death and illness have never been strangers to humanity. But for a brief time around the 1500s, there was one particular ailment that was both brutal in its devastation and completely undecipherable … [+4483 chars]"
+            "author": "Tim Harlow, Star Tribune",
+            "title": "Minnetonka schools warn parents of whooping cough cases - Star Tribune",
+            "description": "Students at Minnetonka High School and Minnetonka Middle School West have been diagnosed with the bacterial illness also known as pertussis. A few isolated cases have also been reported at Excelsior Elementary and Clear Springs Elementary schools, a letter se…",
+            "url": "https://www.startribune.com/cases-of-whooping-cough-reported-in-minnetonka-schools/600369719/",
+            "urlToImage": "https://arc.stimg.co/startribunemedia/VLSLNRDCSNEGTCCBXTPAW23ZPA.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces",
+            "publishedAt": "2024-05-30T15:07:52Z",
+            "content": "Minnetonka schools are warning parents about cases of whooping cough that have popped up across the district.\r\nStudents at Minnetonka High School and Minnetonka Middle School West have been diagnosed… [+1074 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Financial Times"
+                "name": "Live Science"
             },
-            "author": null,
-            "title": "As bird flu spreads in cows, US close to funding Moderna's mRNA H5 vaccine - Ars Technica",
-            "description": "Funding would help to bolster stockpile as CDC reports third dairy worker infected",
-            "url": "https://www.ft.com/content/fad59eb1-2f34-47eb-b938-49ed12f12c45",
-            "urlToImage": null,
-            "publishedAt": "2024-05-30T14:28:41Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jen Christensen",
-            "title": "New study points to possible link between tattoos and lymphoma, but experts say much more research is needed - CNN International",
-            "description": "A Swedish study has found a potential link between tattoos and a type of cancer called malignant lymphoma, but it ultimately calls for more research on the topic, and cancer experts say the possible link is overblown.",
-            "url": "https://www.cnn.com/2024/05/30/health/tattoo-lymphoma-cancer-study/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1320388570-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-05-30T13:21:00Z",
-            "content": "A Swedish study has found a potential link between tattoos and atype of cancer called malignant lymphoma, but itultimately calls for more research on the topic, andcancer experts say the possible lin… [+5690 chars]"
+            "author": "Emily Cooke",
+            "title": "Did pandemic lockdowns stunt kids' immune systems long-term? - Livescience.com",
+            "description": "Common illnesses spiked in kids as COVID-related social distancing policies were lifted. But experts say this doesn't reflect a long-term change in children's immune systems.",
+            "url": "https://www.livescience.com/health/viruses-infections-disease/did-pandemic-lockdowns-stunt-kids-immune-systems-long-term",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hTUYUQPcLGje8NWrGHWhZD-1200-80.jpg",
+            "publishedAt": "2024-05-30T13:47:03Z",
+            "content": "The COVID-19\r\npandemic drastically reduced people's in-person interactions with others as events were canceled and people limited their excursions, and many also practiced social distancing and maske… [+5182 chars]"
         },
         {
             "source": {
@@ -317,19 +512,6 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Vancouver Sun"
             },
             "author": null,
@@ -342,29 +524,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Tom's Guide"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Frances Daniels",
-            "title": "Sleep expert reveals 3 types of people should drink coffee before bed — here's who - Tom's Guide",
-            "description": "Sleep expert Max Kirsten tells us which people can actually fall asleep faster with coffee",
-            "url": "https://www.tomsguide.com/wellness/sleep/drinking-coffee-before-bed-can-help-sleep",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RVr8MbkQU5GEczYXMGK7xB-1200-80.jpg",
-            "publishedAt": "2024-05-30T12:53:17Z",
-            "content": "Drinking coffee before bed isn't typically considered a sleep remedy. After all, coffee is usually drank as a morning pick-me-up to start the day, not as a bedtime beverage to end the day. However, M… [+4447 chars]"
+            "author": "CNN",
+            "title": "Kids are starting menstruation earlier, study shows. Here is what that means for their health - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8zMC9oZWFsdGgvbWVuc3RydWF0aW9uLWVhcmx5LXdlbGxuZXNzL2luZGV4Lmh0bWzSAUVodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA1LzMwL2hlYWx0aC9tZW5zdHJ1YXRpb24tZWFybHktd2VsbG5lc3M?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-30T13:03:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Seattle Times"
+            },
+            "author": "Taylor Blatchford",
+            "title": "We can all help combat loneliness, surgeon general says in Seattle - The Seattle Times",
+            "description": "U.S. Surgeon General Dr. Vivek Murthy declared loneliness and isolation a national epidemic in May 2023. He spoke about the importance of social connection Wednesday in Seattle.",
+            "url": "https://www.seattletimes.com/seattle-news/mental-health/we-can-all-help-combat-loneliness-surgeon-general-says-in-seattle/",
+            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/05/05292024_tzr_tzr_183138.jpg?d=1200x630",
+            "publishedAt": "2024-05-30T13:00:00Z",
+            "content": "Loneliness isnt just a feeling. Its a public health concern, U.S. Surgeon General Vivek Murthy said Wednesday in Seattle. \r\nMurthy declared loneliness and isolation a national epidemic in May 2023, i… [+5559 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Newsmax"
             },
-            "author": "Newsmax",
+            "author": "Lynn C. Allison",
             "title": "Study: Fathers Have Worse Heart Health - Newsmax",
-            "description": null,
+            "description": "Heart disease is the leading cause of death among men, and being a father may put men at an even greater risk of poor heart health later in life. A groundbreaking new study reveals that men who have children have worse cardiovascular health than their peers w…",
             "url": "https://www.newsmax.com/health/health-news/men-fathers-nonfathers/2024/05/30/id/1166753/",
-            "urlToImage": null,
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=61f75664-9dbb-44ef-b20c-f169d810b0e8&SiteName=Newsmax",
             "publishedAt": "2024-05-30T11:54:59Z",
-            "content": null
+            "content": "Heart disease is the leading cause of death among men, and being a father may put men at an even greater risk of poor heart health later in life. A groundbreaking new study reveals that men who have … [+2903 chars]"
         },
         {
             "source": {
@@ -382,6 +577,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Karla Renic",
+            "title": "What are the best exercises for seniors? 5 simple workouts from chair exercises, balance training, stretching and more to lead a healthy life - Yahoo Canada Shine On",
+            "description": "Learn how exercise combats aging: tips for seniors on improving muscle, brain health and well-being.",
+            "url": "https://ca.style.yahoo.com/best-exercises-for-seniors-113029818.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Qx_jD_gW5cqoqTk9.EZNZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/8f6bf360-1dd9-11ef-9bfc-c3d7c7982789",
+            "publishedAt": "2024-05-30T11:30:29Z",
+            "content": "This article is for informational purposes only and is not a substitute for professional medical advice, diagnosis or treatment. Contact a qualified medical professional before engaging in any exerci… [+7230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "[Removed]"
             },
             "author": null,
@@ -394,16 +602,29 @@
         },
         {
             "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
+                "id": null,
+                "name": "National Institutes of Health"
             },
-            "author": "Pandora Dewan",
-            "title": "Daily Omega-3 Supplements May Change Your Behavior, Scientists Reveal - Newsweek",
-            "description": "Roughly one in 13 American adults takes these supplements—could they be improving our behavior as a society?",
-            "url": "https://www.newsweek.com/daily-omega-3-fish-oil-change-behavior-scientists-supplements-1906195",
-            "urlToImage": "https://d.newsweek.com/en/full/2401130/fish-oil-supplement.jpg",
-            "publishedAt": "2024-05-30T11:20:30Z",
-            "content": "Your daily supplements could be changing your behavior, specifically those containing omega-3.\r\nRoughly one in 13 American adults takes omega-3-rich fish oil supplements on a semiregular basis, accor… [+3132 chars]"
+            "author": null,
+            "title": "Novel vaccine concept generates immune responses that could produce multiple types of HIV broadly neutralizing antibodies - National Institutes of Health (NIH) (.gov)",
+            "description": "NIH-funded animal model results will inform vaccine development in humans.",
+            "url": "https://www.nih.gov/news-events/news-releases/novel-vaccine-concept-generates-immune-responses-could-produce-multiple-types-hiv-broadly-neutralizing-antibodies",
+            "urlToImage": "https://www.nih.gov/sites/default/files/news-events/news-releases/2024/20240530-hiv.jpg",
+            "publishedAt": "2024-05-30T10:51:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Brooks Johnson, Star Tribune",
+            "title": "Minnesota egg operation loses 1.3M chickens to bird flu, a record for a single site - Star Tribune",
+            "description": "The egg-laying hens in Meeker County join millions of other infected birds in Iowa in recent weeks, accounting for 14% of Hopkins-based Michael Foods' supply.",
+            "url": "https://www.startribune.com/millions-hens-eggs-bird-flu-minnesota-iowa-meeker-county-record-loss/600369647/",
+            "urlToImage": "https://arc.stimg.co/startribunemedia/NS5R5NFTVVAZVN4QJJOFFTFCRI.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces",
+            "publishedAt": "2024-05-30T10:33:58Z",
+            "content": "Nearly 6 million egg-laying hens were lost to bird flu outbreaks in Iowa and Minnesota in recent weeks, including 1.3 million chickens culled at a Meeker County egg operation.\r\nThat's the largest tol… [+2010 chars]"
         },
         {
             "source": {
@@ -433,42 +654,16 @@
         },
         {
             "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Carolyn Barber",
-            "title": "COVID can cause new health problems even 3 years after infection, study finds. 'We don't know what's going to happen at 10 years' - Fortune",
-            "description": "A new report reinforces that the virus is not going away.",
-            "url": "https://fortune.com/well/article/covid-cause-new-health-problems-years-after-infection/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-1791906589-e1717040650762.jpg?resize=1200,600",
-            "publishedAt": "2024-05-30T09:01:00Z",
-            "content": "Even as national institutions struggle to coordinate meaningful trials for possible long COVID treatments, researchers continue to tally the damage. New findings suggest that the diseases reach isnt … [+6310 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "KATU"
+                "name": "[Removed]"
             },
-            "author": "KATU Staff",
-            "title": "Whooping cough, highly dangerous to babies, spikes 770% in Oregon, OHA warns - KATU",
-            "description": "Oregon health officials are concerned about a sharp increase in cases of whooping cough across 9 counties, and are urifjng people to get vaccinated against the",
-            "url": "https://katu.com/news/local/whooping-cough-highly-dangerous-to-babies-spikes-770-in-oregon",
-            "urlToImage": "https://katu.com/resources/media/56a20991-815a-4cdd-8dfd-ea85ecf9945b-large16x9_120613_whooping_cough_vaccine_2.jpg",
-            "publishedAt": "2024-05-30T08:59:22Z",
-            "content": "SALEM, Ore. Oregon health officials are concerned about a sharp increase in cases of whooping cough across 9 counties, and are urging people to get vaccinated against the disease - which can be fatal… [+1948 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "TOI Lifestyle Desk",
-            "title": "5 supplements that secretly do more harm than good - The Times of India",
-            "description": "While supplements can play a role in maintaining health, it's crucial to approach them with caution. Always consult with a healthcare provider before starting any new supplement regimen. The best way to ensure you're getting the nutrients you need is through …",
-            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/5-supplements-that-secretly-do-more-harm-than-good/photostory/110397911.cms",
-            "urlToImage": "https://static.toiimg.com/photo/110397949.cms",
-            "publishedAt": "2024-05-30T04:07:00Z",
-            "content": "Supplements can be beneficial, but they aren't always necessary for everyone. Ideally, a well-balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats provides most of … [+514 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -498,32 +693,6 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "San Francisco Chronicle",
-            "title": "Thousands possibly exposed to measles by sick traveler in California - San Francisco Chronicle",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9oZWFsdGgvYXJ0aWNsZS90aG91c2FuZHMtcG9zc2libHktZXhwb3NlZC1tZWFzbGVzLXNpY2stdHJhdmVsZXItMTk0ODUwMDAucGhw0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-05-29T23:54:44Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KETV Omaha"
-            },
-            "author": "Eddie Messel",
-            "title": "Iowa signs disaster proclamation after bird flu detected in large flock - KETV Omaha",
-            "description": "More than 4 million chickens to be killed after bird flu detected in farm in Sioux County",
-            "url": "https://www.ketv.com/article/iowa-governor-signs-disaster-proclamation-after-bird-flu-detected-in-large-flock/60942555",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/f3461f53-d275-4b7b-9f79-0bd3de71d120/774f1bf8-f40c-4b8b-8b69-39b301737ba4.jpg?crop=0.786xw:0.784xh;0.157xw,0&resize=1200:*",
-            "publishedAt": "2024-05-29T23:37:00Z",
-            "content": "COUNCIL BLUFFS, Iowa —Iowa Gov. Kim Reynolds just signed a disaster proclamation that will be in effect through June 27. It comes after the spread of bird flu in Sioux County, Iowa, causing the state… [+2486 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "San Francisco Chronicle"
             },
@@ -537,29 +706,16 @@
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": null,
+                "name": "Healthline"
             },
-            "author": "Ben Brasch",
-            "title": "Egyptian skull may hold cancer solutions from 4,500 years ago: study - The Washington Post",
-            "description": "“If we understand how cancer evolves, we may understand about ourselves,” archaeologist Edgard Camarós said.",
-            "url": "https://www.washingtonpost.com/science/2024/05/29/egypt-skull-cancer-study/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JPAX44UHER67P75YZQKF57Y3JM.JPG&w=1440",
-            "publishedAt": "2024-05-29T21:59:00Z",
-            "content": "Edgard Camarós and his team were looking at a screen connected to a powerful camera aimed at an Egyptian skull from about 4,500 years ago. What they saw changed the previously understood timeline of … [+3045 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "WXII12 Winston-Salem",
-            "title": "Guilford Co. Animal Services pauses cat intake after virus outbreak - WXII12 Winston-Salem",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lnd4aWkxMi5jb20vYXJ0aWNsZS9ndWlsZm9yZC1jb3VudHktYW5pbWFsLXNlcnZpY2VzLXBhdXNlcy1jYXQtaW50YWtlLWJlY2F1c2Utb2YtdmlydXMtb3V0YnJlYWsvNjA5NDExMjHSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-05-29T21:48:00Z",
-            "content": null
+            "author": "Finn Cohen",
+            "title": "Wegovy: Most People Don't Take GLP-1 Drugs Long Enough to See Effects - Healthline",
+            "description": "A study from a major American insurance company found that over a nearly 10-year period, more than half of 170,000 people prescribed Saxenda or Wegovy stopped taking the medications early.",
+            "url": "https://www.healthline.com/health-news/most-people-on-popular-glp-1-drugs-dont-use-them-long-enough-to-see-weight-loss-effects",
+            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/2024/05/overweight-female-walking-dog-732x549-thumbnail.jpg",
+            "publishedAt": "2024-05-29T22:16:28Z",
+            "content": "<ul><li>A new study finds most people may not stay on GLP-1 drugs long enough to see their effects. </li><li>Research from Blue Cross Blue Shield finds 58% of people taking liraglutide or semaglutide… [+6353 chars]"
         },
         {
             "source": {
@@ -615,29 +771,16 @@
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Fox News Staff",
-            "title": "Early stroke symptoms, plus allergy prevention and foods that promote sleep - Fox News",
-            "description": "The Fox News Health Newsletter brings you trending and important stories about health warnings, drug shortages, mental health issues and more in this weekly recap.",
-            "url": "https://www.foxnews.com/health/early-stroke-symptoms-allergy-prevention-foods-promote-sleep",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/health-nl-5-29-1.jpg",
-            "publishedAt": "2024-05-29T20:38:15Z",
-            "content": "EVERY SECOND COUNTS Jenna Gibson was just 39 when a stroke nearly killed her. Here, she shares her story to help raise awareness among young women. Continue reading\r\nPUBLIC HEALTH CONCERN ADHD now af… [+1613 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Newsmax"
+                "name": "GMA"
             },
-            "author": null,
-            "title": "Dr. Crandall: Heart Attack Symptoms Differ for Women - Newsmax",
-            "description": "Signs of a heart attack are different for women and men. While the most common heart attack symptom in both men and women is chest pain or discomfort, according to the American Heart Association, women may experience symptoms that are not typically linked to …",
-            "url": "https://www.newsmax.com/health/health-news/heart-disease-attack/2024/05/24/id/1166093/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=c961bf62-474e-4a39-acd5-f6cf7d4e82bb&SiteName=Newsmax",
-            "publishedAt": "2024-05-29T20:29:00Z",
-            "content": "Signs of a heart attack are different for women and men. While the most common heart attack symptom in both men and women is chest pain or discomfort, according to the American Heart Association, wom… [+2275 chars]"
+            "author": "Kelly McCarthy",
+            "title": "Dietitian explains why nutrient dense food is pivotal for people on weight loss drugs - Good Morning America",
+            "description": "Registered Dietitian Maya Feller explains the changes to ones diet when taking GLP-1 weight loss medications and how to stay healthy.",
+            "url": "https://goodmorningamerica.com/food/story/understanding-diet-nutritional-weight-loss-drugs-110611646",
+            "urlToImage": "https://s.abcnews.com/images/GMA/Weight-loss-foods-1-as-jm-240529_1716998197743_hpMain_16x9_992.jpg",
+            "publishedAt": "2024-05-29T20:18:18Z",
+            "content": "Popular weight loss drugs like Wegovy and Ozempic have changed the way many Americans are eating and as people taking these medications reassess their relationship with food, diet experts are offerin… [+3541 chars]"
         },
         {
             "source": {
@@ -651,19 +794,6 @@
             "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/05/senior-woman-chipped-wall-1200-628-facebook.jpg",
             "publishedAt": "2024-05-29T20:17:37Z",
             "content": "<ul><li>A recent study found that cognitively healthy people who self-reported memory problems had early signs of Alzheimers in their brains.</li><li>The results may help experts detect Alzheimers so… [+7130 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GMA"
-            },
-            "author": "Kelly McCarthy",
-            "title": "Dietitian explains why nutrient dense food is pivotal for people on weight loss drugs - Good Morning America",
-            "description": "Registered Dietitian Maya Feller explains the changes to ones diet when taking GLP-1 weight loss medications and how to stay healthy.",
-            "url": "https://goodmorningamerica.com/food/story/understanding-diet-nutritional-weight-loss-drugs-110611646",
-            "urlToImage": "https://s.abcnews.com/images/GMA/Weight-loss-foods-1-as-jm-240529_1716998197743_hpMain_16x9_992.jpg",
-            "publishedAt": "2024-05-29T20:17:31Z",
-            "content": "Popular weight loss drugs like Wegovy and Ozempic have changed the way many Americans are eating and as people taking these medications reassess their relationship with food, diet experts are offerin… [+3541 chars]"
         },
         {
             "source": {
@@ -690,149 +820,6 @@
             "urlToImage": "https://www.wtaj.com/wp-content/uploads/sites/69/2024/04/deerGettyImages-519948952-e1713983226221.jpg?w=1280",
             "publishedAt": "2024-05-29T19:48:55Z",
             "content": "HARRISBURG, Pa. (WTAJ) — The 2023-24 deer seasons ended months ago, as did the busiest time for Chronic Wasting Disease (CWD). The Pennsylvania Game Commission has provided updates on CWD research an… [+2274 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FiercePharma"
-            },
-            "author": "FiercePharma",
-            "title": "FDA approves Tris Pharma's daily nighttime ADHD therapy - FiercePharma",
-            "description": null,
-            "url": "https://www.fiercepharma.com/pharma/tris-pharma-captures-fda-nod-non-stimulant-adhd-treatment",
-            "urlToImage": null,
-            "publishedAt": "2024-05-29T19:30:02Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KARE11.com"
-            },
-            "author": "Dana Thiede",
-            "title": "Parents warned of whooping cough in Minnetonka Schools - KARE11.com",
-            "description": "A message sent to district families and staff said students at Minnetonka H.S., West Middle School and two elementary schools have been diagnosed with pertussis.",
-            "url": "https://www.kare11.com/article/news/local/parents-warned-of-whooping-cough-cases-in-minnetonka-schools-pertussis/89-07fa2893-a7fa-4874-860e-ef213ab612d6",
-            "urlToImage": "https://media.kare11.com/assets/KARE/images/cd36b629-d272-4b24-953e-8ec7e98aa06e/cd36b629-d272-4b24-953e-8ec7e98aa06e_1140x641.jpg",
-            "publishedAt": "2024-05-29T18:49:00Z",
-            "content": "MINNETONKA, Minn The Minnetonka Public Schools are warning parents about cases of pertussis - also known as whooping cough - diagnosed in multiple buildings across the district. \r\nIn a letter to fami… [+2897 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KCTV Kansas City"
-            },
-            "author": "Joe Hennessy",
-            "title": "‘It’s literally older than Moses’: St. Luke’s doctor finds heart disease in mummies - KCTV 5",
-            "description": "“It’s literally older than Moses and we find that it’s almost certainly just part of the human condition.\"",
-            "url": "https://www.kctv5.com/2024/05/29/its-literally-older-than-moses-st-lukes-doctor-finds-heart-disease-mummies/",
-            "urlToImage": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/v2/ZRU5TSXTWNGC5OAIAPX2CEVAWE.png?auth=fd7f00fc662556715088e7507c4d6824ce312b761e32975817ade1e1cf3ed204&width=1200&height=600&smart=true",
-            "publishedAt": "2024-05-29T17:52:00Z",
-            "content": "KANSAS CITY, Mo. (KCTV) - After more than a decades long process of CT scans and data tracking, cardiologists from across the world have found heart disease to be found in humans more than 4,000 year… [+2327 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Pandora Dewan",
-            "title": "Alzheimer's Breakthrough Could Halt Progression - Newsweek",
-            "description": "\"Our findings offer a promising path for developing new treatments,\" the researchers said.",
-            "url": "https://www.newsweek.com/alzheimers-breakthrough-halt-disease-progression-1905966",
-            "urlToImage": "https://d.newsweek.com/en/full/2400850/alzheimers-brain.jpg",
-            "publishedAt": "2024-05-29T17:30:09Z",
-            "content": "Scientists have made a major breakthrough in our understanding of Alzheimer's disease, opening up new avenues toward future treatments.\r\nAlzheimer's disease affects roughly 5.8 million Americans, acc… [+3541 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Futurism"
-            },
-            "author": "Noor Al-Sibai",
-            "title": "So, So Many Kids Are Taking So, So Much Ozempic - Futurism",
-            "description": "More and more kids are using Ozempic and Wegovy than ever before, and that might not necessarily be a good thing.",
-            "url": "https://futurism.com/neoscope/kids-taking-ozempic-wegovy",
-            "urlToImage": "https://wp-assets.futurism.com/2024/05/kids-taking-ozempic-wegovy.jpg",
-            "publishedAt": "2024-05-29T16:03:10Z",
-            "content": "Image byJaap Arriens / NurPhoto via Getty / Futurism\r\nMore and more adolescents are using Ozempic and Wegovy than ever before and that might not necessarily be a good thing.\r\nA new study published in… [+2464 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "STAT"
-            },
-            "author": "Annalisa Merelli",
-            "title": "Average age of first period drops to 11.9 years, study shows - STAT",
-            "description": "A new study shows that U.S. girls have been getting their first period earlier and earlier over the last 55 years — and it has taken longer for their periods to become regular.",
-            "url": "https://www.statnews.com/2024/05/29/early-menarche-jama-study-average-age-first-period/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2018/08/AdobeStock_190082654-1024x576.jpeg",
-            "publishedAt": "2024-05-29T15:34:57Z",
-            "content": "Menstruation is a critical indicator of health. Whether and when someone with a uterus gets their period for the first time, and throughout their life can reflect not only their reproductive health, … [+6404 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Kristen Rogers",
-            "title": "Placebos can ease certain mental disorders, study finds - CNN",
-            "description": "Placebo treatment significantly improved symptoms of nine mental health disorders, according to a large new study.",
-            "url": "https://www.cnn.com/2024/05/29/health/placebos-improve-mental-health-conditions-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1758855902.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-05-29T15:01:00Z",
-            "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nWhen youre trying to address… [+6096 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Glamour UK"
-            },
-            "author": "Marie Bladt",
-            "title": "5 anti-inflammatory foods we should all be eating regularly, according to a nutritionist - GLAMOUR UK",
-            "description": "A handful of scientifically proven benefits will make you hungry for these anti-inflammatory foods, according to nutritionist Sophie Janvier.",
-            "url": "https://www.glamourmagazine.co.uk/article/anti-inflammatory-foods-eat-regularly",
-            "urlToImage": "https://media.glamourmagazine.co.uk/photos/66573fe8903a34080fed3612/16:9/w_1280,c_limit/ANTI-INFLAMMATORY-290524-GettyImages-1320232393.jpg",
-            "publishedAt": "2024-05-29T13:35:40Z",
-            "content": "What anti-inflammatory foods should you add to your plate for better health?\r\nDietician-nutritionist and health columnist Sophie Janvier wants everybody to know about the anti-inflammatory diet. Amon… [+3140 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WPVI-TV"
-            },
-            "author": null,
-            "title": "Can you eat bear meat? Black bear kebabs make family sick with parasitic worms - 6abc Philadelphia - WPVI-TV",
-            "description": "The meat had been frozen for 45 days before it was thawed, and the family grilled it with some vegetables and served it as kebabs.",
-            "url": "https://6abc.com/post/eat-bear-meat-black-bear-kebabs-make-family/14886370/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/14886373_052924-wpvi-cnnw-bear-meat-parasite-post.JPG?w=1600",
-            "publishedAt": "2024-05-29T11:53:58Z",
-            "content": "MINNEAPOLIS -- It was supposed to be a celebration, but one family's unique meal of black bear meat sent several members to the hospital instead.\r\nThe celebration happened in summer 2022, according t… [+4375 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "mayoclinic.org"
-            },
-            "author": "Deb Balzer",
-            "title": "Mayo Clinic Minute: Common types of skin cancer - Mayo Clinic",
-            "description": "Learn about nonmelanoma skin cancers, which include basal cell carcinoma and squamous cell carcinoma from Mayo Clinic.",
-            "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-common-types-of-skin-cancer/",
-            "urlToImage": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/06/shutterstock_685947193_Fotor-16x9-1024x576.jpg",
-            "publishedAt": "2024-05-28T15:11:08Z",
-            "content": "Skin cancer is the most common cancer in the U.S., affecting millions worldwide. This cancer comes in two main types: melanoma, which is less common but more deadly, and nonmelanoma skin cancers, whi… [+1914 chars]"
         }
     ]
 }

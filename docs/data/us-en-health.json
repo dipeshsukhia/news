@@ -4,6 +4,19 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
@@ -14,19 +27,6 @@
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24143659716467.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2024-05-31T02:26:00Z",
             "content": "A third person in the US has tested positive for H5 bird flu in connection to an ongoing outbreak in dairy cattle, the Michigan Department of Health and Human Services said Thursday. This is the seco… [+6151 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Thousands to trial personalised cancer vaccines - BBC.com",
-            "description": "Thousands of people in England are set to get access to a new type of treatment to fight their disease.",
-            "url": "https://www.bbc.com/news/articles/cl77qvd2krgo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c6a3/live/914b9fe0-1e89-11ef-a9df-a543718ba7f7.jpg",
-            "publishedAt": "2024-05-31T00:43:28Z",
-            "content": "Fergus Walsh,Medical editor\r\nElliot Pfebve is taking part in the trial\r\nThousands of NHS cancer patients in England are expected to get access to trials of a new type of treatment using vaccines to f… [+4741 chars]"
         },
         {
             "source": {
@@ -85,6 +85,19 @@
                 "id": null,
                 "name": "New York Post"
             },
+            "author": "Tracy Swartz",
+            "title": "Flavonoid-rich foods, drinks linked to lower diabetes risk - New York Post ",
+            "description": "Flavonoids — chemical compounds found in fruits, vegetables, and other plants — have been praised for their anticancer, antiviral, antibacterial, antioxidant, and anti-inflammatory properties.",
+            "url": "https://nypost.com/2024/05/30/lifestyle/flavonoid-rich-foods-drinks-linked-to-lower-diabetes-risk/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/miami-beach-florida-veterans-day-82942275.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-05-30T21:15:00Z",
+            "content": "This news may make your day matcha better.\r\nConsuming a lot of flavonoid-rich foods and drinks such as green tea, berries and apples can lower the risk of Type 2 diabetes, a new UK study finds.\r\n113,… [+2643 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
             "author": "Alexandra Klausner",
             "title": "Cheap cholesterol drug could reduce cancer risk: study - New York Post ",
             "description": "Chronic inflammation is a major cause of cancer worldwide — and this could reduce the risk.",
@@ -92,19 +105,6 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/woman-taking-white-pill-statin-82942094.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-05-30T20:37:00Z",
             "content": "A cheap and common drug used to lower cholesterol could also lower the risk of developing cancer, according to a new study. \r\nCholesterol-lowering drugs called statins, could block a pathway involved… [+2463 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
         },
         {
             "source": {
@@ -199,6 +199,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
@@ -209,19 +222,6 @@
             "urlToImage": "https://i.abcnewsfe.com/a/83f6ef2b-b519-4b28-8e02-676a6c10a847/chicken-pox-rf-gty-ml-240530_1717084305562_hpMain_16x9.jpg?w=1600",
             "publishedAt": "2024-05-30T17:48:45Z",
             "content": "Nearly all the patients affected by an ongoing chickenpox outbreak in New York City are unvaccinated, according to a report published Thursday.\r\nThe outbreak was first identified by city health offic… [+2917 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Astrocyte Receptors Impact Memory Differently in Men and Women - Neuroscience News",
-            "description": "Researchers discovered that astrocyte receptors impact cognitive function differently in male and female preclinical models.",
-            "url": "https://neurosciencenews.com/astrocytes-memory-sex-difference-26198/",
-            "urlToImage": "https://neurosciencenews.com/files/2024/05/astrocyte-receptors-sex-differences-neuroscience.jpg",
-            "publishedAt": "2024-05-30T17:31:20Z",
-            "content": "Summary: Researchers discovered that astrocyte receptors impact cognitive function differently in male and female preclinical models. The study reveals that astrocytic signaling cannot be assumed to … [+5767 chars]"
         },
         {
             "source": {
@@ -238,29 +238,16 @@
         },
         {
             "source": {
-                "id": "medical-news-today",
-                "name": "Medical News Today"
-            },
-            "author": "Paul Ian Cross, PhD",
-            "title": "Type 2 diabetes: Flavonoid-rich diets may help lower risk - Medical News Today",
-            "description": "New research suggests that following a diet rich in flavonoid-heavy foods is linked to an up to 28% lower risk of type 2 diabetes.",
-            "url": "https://www.medicalnewstoday.com/articles/flavonoid-rich-foods-and-drinks-tied-to-an-up-to-28-lower-risk-of-type-2-diabetes",
-            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/05/Flavonoid-rich-diet-GettyImages-1299772618-Facebook.jpg",
-            "publishedAt": "2024-05-30T16:24:12Z",
-            "content": "<ul><li>New research has revealed that increasing the consumption of flavonoid-rich foods can significantly reduce the risk of developing type 2 diabetes.</li><li>This form of diabetes is a growing p… [+8523 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "KTRK-TV"
+                "name": "Newsnationnow.com"
             },
-            "author": null,
-            "title": "Harris County dengue case: Health officials announce human case of disease spread by mosquitoes - KTRK-TV",
-            "description": "Harris County Public Health officials confirmed one case of the disease spread by mosquitos after a person recently traveled.",
-            "url": "https://abc13.com/post/harris-county-dengue-case-health-officials-announce-human/14890905/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/14891020_053024-ktrk-ewn-6am-dengue-case-harris-co-JEH-mg-vid.jpg?w=1600",
-            "publishedAt": "2024-05-30T15:25:41Z",
-            "content": "HARRIS COUNTY, Texas (KTRK) -- If you've spent time outside over the last couple of months, you know that mosquitos are out, too. Most of the time, they're just a nuisance, but it's important to reme… [+1190 chars]"
+            "author": "Natasha Zouves, Urja Sinha",
+            "title": "New ‘zombie drug’ causing overdoses across US - NewsNation Now",
+            "description": "Medetomidine has consistently been found in street drug “products” alongside fentanyl, heroin and xylazine.",
+            "url": "https://www.newsnationnow.com/health/animal-tranquilizer-overdoses-medetomidine/",
+            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/05/GettyImages-1517821477_6c3e4e.jpg?w=1280",
+            "publishedAt": "2024-05-30T15:28:03Z",
+            "content": "(NewsNation) Officials are sounding the alarm over a new so-called “zombie drug,” 100 times more potent than xylazine, causing overdose deaths in nine states across the country. \r\nMedetomidine, a syn… [+2032 chars]"
         },
         {
             "source": {
@@ -291,67 +278,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Newsmax"
-            },
-            "author": "Lynn C. Allison",
-            "title": "Smart Bandages Monitor Wounds and Deliver Treatment - Newsmax",
-            "description": "A new generation of bandages not only promote healing, but also deliver treatment and allow remote monitoring of a wound. Researchers are working on smart bandages that allow healthcare providers to observe the progress of the injury and accelerating healing …",
-            "url": "https://www.newsmax.com/health/health-news/bandages-smart-high-tech/2024/05/30/id/1166795/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=82254d0d-a8dc-46eb-b8d3-5d6f652e6655&SiteName=Newsmax",
-            "publishedAt": "2024-05-30T14:40:52Z",
-            "content": "A new generation of bandages not only promote healing, but also deliver treatment and allow remote monitoring of a wound. Researchers are working on smart bandages that allow healthcare providers to … [+2324 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medscape"
-            },
-            "author": "Interviewer: Tricia Ward; Interviewee: Matthew Budoff, MD",
-            "title": "Calcium and CV Risk: Are Supplements and Vitamin D to Blame? - Medscape",
-            "description": "Tricia Ward and Matthew Budoff discuss the impact of dietary intake of calcium and calcium supplementation on cardiovascular risk.",
-            "url": "https://www.medscape.com/viewarticle/calcium-and-cv-risk-are-supplements-and-vitamin-d-blame-2024a10009av",
-            "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt_240508_calcium_pill_800x450.jpg",
-            "publishedAt": "2024-05-30T14:36:54Z",
-            "content": "This transcript has been edited for clarity. \r\nTricia Ward: Hi. I'm Tricia Ward, from theheart.org | Medscape Cardiology. I'm joined today by Dr Matthew Budoff. He is professor of medicine at UCLA an… [+6299 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "National Institutes of Health"
+                "name": "Financial Times"
             },
             "author": null,
-            "title": "Existing drug shows promise as treatment for rare genetic disorder - National Institutes of Health (NIH) (.gov)",
-            "description": "NIH researchers find new pathways towards treatment for autoimmune polyendocrine syndrome type 1.",
-            "url": "https://www.nih.gov/news-events/news-releases/existing-drug-shows-promise-treatment-rare-genetic-disorder",
-            "urlToImage": "https://www.nih.gov/sites/default/files/news-events/news-releases/2024/20240530-ruxolitinib.jpg",
-            "publishedAt": "2024-05-30T14:09:12Z",
+            "title": "As bird flu spreads in cows, US close to funding Moderna's mRNA H5 vaccine - Ars Technica",
+            "description": "Funding would help to bolster stockpile as CDC reports third dairy worker infected",
+            "url": "https://www.ft.com/content/fad59eb1-2f34-47eb-b938-49ed12f12c45",
+            "urlToImage": null,
+            "publishedAt": "2024-05-30T14:28:41Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Live Science"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Emily Cooke",
-            "title": "Did pandemic lockdowns stunt kids' immune systems long-term? - Livescience.com",
-            "description": "Common illnesses spiked in kids as COVID-related social distancing policies were lifted. But experts say this doesn't reflect a long-term change in children's immune systems.",
-            "url": "https://www.livescience.com/health/viruses-infections-disease/did-pandemic-lockdowns-stunt-kids-immune-systems-long-term",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hTUYUQPcLGje8NWrGHWhZD-1200-80.jpg",
-            "publishedAt": "2024-05-30T13:47:03Z",
-            "content": "The COVID-19\r\npandemic drastically reduced people's in-person interactions with others as events were canceled and people limited their excursions, and many also practiced social distancing and maske… [+5182 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "US nears deal to fund Moderna's bird flu vaccine trial, FT reports - Reuters",
-            "description": "The U.S. government is nearing an agreement to fund a late-stage trial of Moderna's mRNA bird flu vaccine, the Financial Times reported on Thursday, as the outbreak spreads in dairy cows.",
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-nears-deal-fund-modernas-bird-flu-vaccine-trial-ft-reports-2024-05-30/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/KNZOZKNQUJIHVCLCA3NDXJEO7Q.jpg?auth=e75a3c2ba572d1bc456623b5e1c3111472c62f6243e4587b58b1cd0e6b645121&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-05-30T13:26:00Z",
-            "content": null
+            "author": "Jen Christensen",
+            "title": "New study points to possible link between tattoos and lymphoma, but experts say much more research is needed - CNN International",
+            "description": "A Swedish study has found a potential link between tattoos and a type of cancer called malignant lymphoma, but it ultimately calls for more research on the topic, and cancer experts say the possible link is overblown.",
+            "url": "https://www.cnn.com/2024/05/30/health/tattoo-lymphoma-cancer-study/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1320388570-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-05-30T13:21:00Z",
+            "content": "A Swedish study has found a potential link between tattoos and atype of cancer called malignant lymphoma, but itultimately calls for more research on the topic, andcancer experts say the possible lin… [+5690 chars]"
         },
         {
             "source": {
@@ -369,6 +317,19 @@
         {
             "source": {
                 "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Vancouver Sun"
             },
             "author": null,
@@ -382,41 +343,41 @@
         {
             "source": {
                 "id": null,
-                "name": "The Conversation Africa"
+                "name": "Tom's Guide"
             },
-            "author": "Benjamin Botsford",
-            "title": "Eye exercises to improve sight – is there any science behind them? An ophthalmologist explains why you shouldn't buy the hype - The Conversation",
-            "description": "Some of the ads promise that you can throw away your glasses. But what does the evidence say?",
-            "url": "https://theconversation.com/eye-exercises-to-improve-sight-is-there-any-science-behind-them-an-ophthalmologist-explains-why-you-shouldnt-buy-the-hype-217655",
-            "urlToImage": "https://images.theconversation.com/files/567794/original/file-20240104-21-o1yrxh.jpg?ixlib=rb-4.1.0&rect=0%2C88%2C5364%2C2678&q=45&auto=format&w=1356&h=668&fit=crop",
-            "publishedAt": "2024-05-30T12:15:19Z",
-            "content": "You may have seen advertisements claiming to eliminate the need for eyeglasses through vision therapy or vision training basically, eye exercises. \r\nThese exercises include putting pressure on or pal… [+5268 chars]"
+            "author": "Frances Daniels",
+            "title": "Sleep expert reveals 3 types of people should drink coffee before bed — here's who - Tom's Guide",
+            "description": "Sleep expert Max Kirsten tells us which people can actually fall asleep faster with coffee",
+            "url": "https://www.tomsguide.com/wellness/sleep/drinking-coffee-before-bed-can-help-sleep",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RVr8MbkQU5GEczYXMGK7xB-1200-80.jpg",
+            "publishedAt": "2024-05-30T12:53:17Z",
+            "content": "Drinking coffee before bed isn't typically considered a sleep remedy. After all, coffee is usually drank as a morning pick-me-up to start the day, not as a bedtime beverage to end the day. However, M… [+4447 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "AOL"
+                "name": "Newsmax"
             },
-            "author": "Tom Polansek",
-            "title": "US allows bulk milk testing for bird flu before cattle transport - AOL",
-            "description": "CHICAGO (Reuters) -U.S. farmers will be able to test bulk supplies of milk from their dairy cows for bird flu rather than milk from individual cows before...",
-            "url": "https://www.aol.com/news/exclusive-us-proposes-bulk-milk-114236004.html",
-            "urlToImage": "https://media.zenfs.com/en/aol_reuters_29/4e1085ca2d6618bf1763e0acf65fa4e5",
-            "publishedAt": "2024-05-30T11:51:24Z",
-            "content": "By Tom Polansek\r\nCHICAGO (Reuters) -U.S. farmers will be able to test bulk supplies of milk from their dairy cows for bird flu rather than milk from individual cows before gaining approval to ship th… [+4202 chars]"
+            "author": "Newsmax",
+            "title": "Study: Fathers Have Worse Heart Health - Newsmax",
+            "description": null,
+            "url": "https://www.newsmax.com/health/health-news/men-fathers-nonfathers/2024/05/30/id/1166753/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-30T11:54:59Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Minneapolis Star Tribune"
             },
-            "author": "Karla Renic",
-            "title": "What are the best exercises for seniors? 5 simple workouts from chair exercises, balance training, stretching and more to lead a healthy life - Yahoo Canada Shine On",
-            "description": "Learn how exercise combats aging: tips for seniors on improving muscle, brain health and well-being.",
-            "url": "https://ca.style.yahoo.com/best-exercises-for-seniors-113029818.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Qx_jD_gW5cqoqTk9.EZNZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/8f6bf360-1dd9-11ef-9bfc-c3d7c7982789",
-            "publishedAt": "2024-05-30T11:30:29Z",
-            "content": "This article is for informational purposes only and is not a substitute for professional medical advice, diagnosis or treatment. Contact a qualified medical professional before engaging in any exerci… [+7230 chars]"
+            "author": "Laura Yuen, Star Tribune",
+            "title": "Yuen: Why singing is good for Alzheimer's patients — and their caregivers, too - Star Tribune",
+            "description": "Five Twin Cities choruses operated by Giving Voice, which started a decade ago in Minnesota for people with dementia and their caregivers, will perform at Orchestra Hall on June 9.",
+            "url": "https://www.startribune.com/singing-music-dementia-alzheimers-caregivers-giving-voice-chorus-laura-yuen/600369658/",
+            "urlToImage": "https://arc.stimg.co/startribunemedia/Z74TRG22UZCELFPVIFZYFB4NF4.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+            "publishedAt": "2024-05-30T11:39:07Z",
+            "content": "Marv Lofquist leans on his wife, Elaine, to help put on his shoes in the morning or remind him which way the bathroom is in their Golden Valley apartment. But when they sing together, it's often Marv… [+5791 chars]"
         },
         {
             "source": {
@@ -446,32 +407,6 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jen Christensen",
-            "title": "New study points to possible link between tattoos and lymphoma, but experts say much more research is needed - CNN",
-            "description": "A Swedish study has found a potential link between tattoos and a type of cancer called malignant lymphoma, but it ultimately calls for more research on the topic, and cancer experts say the possible link is overblown.",
-            "url": "https://www.cnn.com/2024/05/30/health/tattoo-lymphoma-cancer-study/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1320388570-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-05-30T11:04:00Z",
-            "content": "A Swedish study has found a potential link between tattoos and atype of cancer called malignant lymphoma, but itultimately calls for more research on the topic, andcancer experts say the possible lin… [+5690 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "National Institutes of Health"
-            },
-            "author": null,
-            "title": "Novel vaccine concept generates immune responses that could produce multiple types of HIV broadly neutralizing antibodies - National Institutes of Health (NIH) (.gov)",
-            "description": "NIH-funded animal model results will inform vaccine development in humans.",
-            "url": "https://www.nih.gov/news-events/news-releases/novel-vaccine-concept-generates-immune-responses-could-produce-multiple-types-hiv-broadly-neutralizing-antibodies",
-            "urlToImage": "https://www.nih.gov/sites/default/files/news-events/news-releases/2024/20240530-hiv.jpg",
-            "publishedAt": "2024-05-30T10:51:00Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Honolulu Star-Advertiser"
             },
@@ -482,6 +417,19 @@
             "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2024/05/web1_20240530_A8_MUGkemble.jpg",
             "publishedAt": "2024-05-30T10:06:52Z",
             "content": "An uptick in COVID-19 cases has begun, indicating the possibility of an upcoming wave this summer in \r\nHawaii.\r\nThe Hawaii Department of Health has tracked consecutive increases in COVID-19 positivit… [+4075 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Paul Ian Cross, PhD",
+            "title": "Autoimmune conditions: Could nightmares, hallucinations be a sign? - Medical News Today",
+            "description": "Recent research from the United Kingdom suggests that the onset of graphic nightmares and hallucinations, or 'daymares,' could be a sign of autoimmune conditions developing or flaring up.",
+            "url": "https://www.medicalnewstoday.com/articles/nightmares-daymares-could-be-tell-tale-signs-of-autoimmune-disease",
+            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/05/Hallucinations-autoimmune-GettyImages-169792782-Facebook.jpg",
+            "publishedAt": "2024-05-30T09:31:15Z",
+            "content": "<ul><li>Researchers from the University of Cambridge and Kings College London have found that an increase in nightmares and hallucinations, sometimes termed daymares, may signal the early stages of a… [+8502 chars]"
         },
         {
             "source": {
@@ -511,6 +459,32 @@
         },
         {
             "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Lifestyle Desk",
+            "title": "5 supplements that secretly do more harm than good - The Times of India",
+            "description": "While supplements can play a role in maintaining health, it's crucial to approach them with caution. Always consult with a healthcare provider before starting any new supplement regimen. The best way to ensure you're getting the nutrients you need is through …",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/5-supplements-that-secretly-do-more-harm-than-good/photostory/110397911.cms",
+            "urlToImage": "https://static.toiimg.com/photo/110397949.cms",
+            "publishedAt": "2024-05-30T04:07:00Z",
+            "content": "Supplements can be beneficial, but they aren't always necessary for everyone. Ideally, a well-balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats provides most of … [+514 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Deseret News"
             },
@@ -524,16 +498,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "San Francisco Chronicle"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Aidin Vaziri",
+            "author": "San Francisco Chronicle",
             "title": "Thousands possibly exposed to measles by sick traveler in California - San Francisco Chronicle",
-            "description": "A traveler with measles flew from Munich to Los Angeles and then to the Yosemite area, potentially exposing thousands of people along the way to the virus.",
-            "url": "https://www.sfchronicle.com/health/article/thousands-possibly-exposed-measles-sick-traveler-19485000.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/37/65/57/25123792/3/rawImage.jpg",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9oZWFsdGgvYXJ0aWNsZS90aG91c2FuZHMtcG9zc2libHktZXhwb3NlZC1tZWFzbGVzLXNpY2stdHJhdmVsZXItMTk0ODUwMDAucGhw0gEA?oc=5",
+            "urlToImage": null,
             "publishedAt": "2024-05-29T23:54:44Z",
-            "content": "A traveler with measles flew from Munich to Los Angeles and then to the Yosemite area, potentially exposing thousands of people along the way to the highly infectious disease, according to health off… [+3153 chars]"
+            "content": null
         },
         {
             "source": {
@@ -576,29 +550,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "WXII12 Winston-Salem"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Kelly Kendall",
+            "author": "WXII12 Winston-Salem",
             "title": "Guilford Co. Animal Services pauses cat intake after virus outbreak - WXII12 Winston-Salem",
-            "description": "Shelter leaders say nearly 30 cats are being quarantined after finding a potentially deadly virus in two kittens.",
-            "url": "https://www.wxii12.com/article/guilford-county-animal-services-pauses-cat-intake-because-of-virus-outbreak/60941121",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/img-2588-665790c20c38d.jpg?crop=1.00xw:0.750xh;0,0.100xh&resize=1200:*",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lnd4aWkxMi5jb20vYXJ0aWNsZS9ndWlsZm9yZC1jb3VudHktYW5pbWFsLXNlcnZpY2VzLXBhdXNlcy1jYXQtaW50YWtlLWJlY2F1c2Utb2YtdmlydXMtb3V0YnJlYWsvNjA5NDExMjHSAQA?oc=5",
+            "urlToImage": null,
             "publishedAt": "2024-05-29T21:48:00Z",
-            "content": "GUILFORD COUNTY, N.C. —Guilford County Animal Services announced Wednesday it is pausing cat intake due to a virus seen in kittens.\r\nShelter leaders say they recently received two kittens showing sym… [+3594 chars]"
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Forbes"
+            },
+            "author": "Jordan Thomas",
+            "title": "Best Walking Pad Deals June 2024 - Forbes",
+            "description": "You can save up to 63% on a walking pad this week. Here are the best offers.",
+            "url": "https://www.forbes.com/sites/forbes-personal-shopper/2024/05/29/walking-pad-deals/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6657121264ccbce2307a34d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-05-29T21:37:00Z",
+            "content": "If youre looking to add more movement into your daily life, a walking pada.k.a. an under-desk treadmillis an easy way to get some extra steps in while you work (or watch TV). Plus, theyre much more a… [+7202 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
             },
             "author": "Erica Lamberg",
-            "title": "Ask a doctor: 'Why am I hearing my heartbeat in my ears?' - Yahoo! Voices",
-            "description": "It can be startling to hear the “whooshing\" sound of your own heartbeat in your ears. Two doctors shared details and insights about what causes this and...",
-            "url": "https://www.yahoo.com/news/ask-doctor-why-am-hearing-211550763.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MQPGpu1b6UuZXME361WhbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fox_news_text_979/7d22eea53e9615e61a3827f446fa8dff",
-            "publishedAt": "2024-05-29T21:15:50Z",
-            "content": "Youve likely felt your heart beating in your chest after strenuous activity or have taken your pulse by placing your fingers on your wrist or neck.\r\nA less common and sometimes startling sensation is… [+3914 chars]"
+            "title": "Ask a doctor: ‘Why am I hearing my heartbeat in my ears?’ - Fox News",
+            "description": "It can be startling to hear the “whooshing\" sound of your own heartbeat in your ears. Two doctors shared details and insights about what causes this and whether it’s reason for concern.",
+            "url": "https://www.foxnews.com/health/ask-doctor-why-hearing-heartbeat-ears",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/woman-holding-ears.jpg",
+            "publishedAt": "2024-05-29T21:15:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+3761 chars]"
         },
         {
             "source": {
@@ -694,15 +681,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Newsmax"
+                "name": "Wtaj.com"
             },
-            "author": "Lynn C. Allison",
-            "title": "Eating Sugar Does Not Make Kids Hyperactive - Newsmax",
-            "description": "A leading neuroscientist says that while eating highly processed junk food negatively affects the brains of children, current scientific evidence does not support the myth that sugar makes kids hyperactive. According to Study Finds, Amy Reichelt, a nutritiona…",
-            "url": "https://www.newsmax.com/health/health-news/sugar-hyperactive-adhd/2024/05/29/id/1166676/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=c80b53ca-ca26-4a1d-b246-8279073ead56&SiteName=Newsmax",
-            "publishedAt": "2024-05-29T19:34:49Z",
-            "content": "A leading neuroscientist says that while eating highly processed junk food negatively affects the brains of children, current scientific evidence does not support the myth that sugar makes kids hyper… [+2464 chars]"
+            "author": "Hayden Thompson",
+            "title": "Pennsylvania Game Commission provides update on chronic wasting disease - WTAJ - www.wtaj.com",
+            "description": "HARRISBURG, Pa. (WTAJ) — The 2023-24 deer seasons ended months ago, as did the busiest time for Chronic Wasting Disease (CWD). The Pennsylvania Game Commission has provided updates on CWD research and surveillance collected since July 2023. CWD is a fatal neu…",
+            "url": "https://www.wtaj.com/news/pa-outdoors/pennsylvania-game-commission-provides-update-on-chronic-wasting-disease/",
+            "urlToImage": "https://www.wtaj.com/wp-content/uploads/sites/69/2024/04/deerGettyImages-519948952-e1713983226221.jpg?w=1280",
+            "publishedAt": "2024-05-29T19:48:55Z",
+            "content": "HARRISBURG, Pa. (WTAJ) — The 2023-24 deer seasons ended months ago, as did the busiest time for Chronic Wasting Disease (CWD). The Pennsylvania Game Commission has provided updates on CWD research an… [+2274 chars]"
         },
         {
             "source": {
@@ -716,19 +703,6 @@
             "urlToImage": null,
             "publishedAt": "2024-05-29T19:30:02Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Alexandra Klausner",
-            "title": "7 cheap canned foods can help you manage your blood sugar - New York Post ",
-            "description": "Can it!",
-            "url": "https://nypost.com/2024/05/29/lifestyle/7-cheap-canned-foods-can-help-you-manage-your-blood-sugar/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/COMP-iStock-1348369752.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-05-29T18:56:00Z",
-            "content": "Can it! \r\nDieticians shared their seven favorite canned food items to help you manage your blood sugar with EatingWell. \r\nListen up if you want to see the health benefits of having lower blood sugar … [+3272 chars]"
         },
         {
             "source": {
@@ -755,19 +729,6 @@
             "urlToImage": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/v2/ZRU5TSXTWNGC5OAIAPX2CEVAWE.png?auth=fd7f00fc662556715088e7507c4d6824ce312b761e32975817ade1e1cf3ed204&width=1200&height=600&smart=true",
             "publishedAt": "2024-05-29T17:52:00Z",
             "content": "KANSAS CITY, Mo. (KCTV) - After more than a decades long process of CT scans and data tracking, cardiologists from across the world have found heart disease to be found in humans more than 4,000 year… [+2327 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Alexandra Klausner",
-            "title": "Being a father might be bad for your heart: study - New York Post ",
-            "description": "Your kids may pull on your heartstrings in more ways than one.",
-            "url": "https://nypost.com/2024/05/29/lifestyle/being-a-father-might-be-bad-for-your-heart-study/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/AdobeStock_258535593.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-05-29T17:39:00Z",
-            "content": "Kids may pull on your heartstrings in more ways than one.\r\nFathers have worse cardiovascular health than men without kids, according to a new study.\r\nResearchers from Northwestern University and Ann … [+4802 chars]"
         },
         {
             "source": {
@@ -798,6 +759,45 @@
         {
             "source": {
                 "id": null,
+                "name": "STAT"
+            },
+            "author": "Annalisa Merelli",
+            "title": "Average age of first period drops to 11.9 years, study shows - STAT",
+            "description": "A new study shows that U.S. girls have been getting their first period earlier and earlier over the last 55 years — and it has taken longer for their periods to become regular.",
+            "url": "https://www.statnews.com/2024/05/29/early-menarche-jama-study-average-age-first-period/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2018/08/AdobeStock_190082654-1024x576.jpeg",
+            "publishedAt": "2024-05-29T15:34:57Z",
+            "content": "Menstruation is a critical indicator of health. Whether and when someone with a uterus gets their period for the first time, and throughout their life can reflect not only their reproductive health, … [+6404 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kristen Rogers",
+            "title": "Placebos can ease certain mental disorders, study finds - CNN",
+            "description": "Placebo treatment significantly improved symptoms of nine mental health disorders, according to a large new study.",
+            "url": "https://www.cnn.com/2024/05/29/health/placebos-improve-mental-health-conditions-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1758855902.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-05-29T15:01:00Z",
+            "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nWhen youre trying to address… [+6096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Glamour UK"
             },
             "author": "Marie Bladt",
@@ -811,28 +811,28 @@
         {
             "source": {
                 "id": null,
-                "name": "KABC-TV"
+                "name": "WPVI-TV"
             },
             "author": null,
-            "title": "Can you eat bear meat? Black bear kebabs make family sick with parasitic worms - KABC-TV",
+            "title": "Can you eat bear meat? Black bear kebabs make family sick with parasitic worms - 6abc Philadelphia - WPVI-TV",
             "description": "The meat had been frozen for 45 days before it was thawed, and the family grilled it with some vegetables and served it as kebabs.",
-            "url": "https://abc7.com/post/eat-bear-meat-black-bear-kebabs-make-family/14886370/",
+            "url": "https://6abc.com/post/eat-bear-meat-black-bear-kebabs-make-family/14886370/",
             "urlToImage": "https://cdn.abcotvs.com/dip/images/14886373_052924-wpvi-cnnw-bear-meat-parasite-post.JPG?w=1600",
-            "publishedAt": "2024-05-29T11:53:56Z",
+            "publishedAt": "2024-05-29T11:53:58Z",
             "content": "MINNEAPOLIS -- It was supposed to be a celebration, but one family's unique meal of black bear meat sent several members to the hospital instead.\r\nThe celebration happened in summer 2022, according t… [+4375 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "mayoclinic.org"
             },
-            "author": "David Nield",
-            "title": "Changes in Gut Bacteria Could Help Explain Success of Protein Pacing Diets - ScienceAlert",
-            "description": "Intermittent fasting and protein pacing are two approaches to weight loss that have become increasingly popular in recent years, and new research suggests they could also contribute to a more diverse gut microbiome.",
-            "url": "https://www.sciencealert.com/changes-in-gut-bacteria-could-help-explain-success-of-protein-pacing-diets",
-            "urlToImage": "https://www.sciencealert.com/images/2024/05/gut_bacteria_ecoli.jpg",
-            "publishedAt": "2024-05-29T07:15:50Z",
-            "content": "Intermittent fasting and protein pacing are two approaches to weight loss that have become increasingly popular in recent years, and new research suggests they could also contribute to a more diverse… [+3372 chars]"
+            "author": "Deb Balzer",
+            "title": "Mayo Clinic Minute: Common types of skin cancer - Mayo Clinic",
+            "description": "Learn about nonmelanoma skin cancers, which include basal cell carcinoma and squamous cell carcinoma from Mayo Clinic.",
+            "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-common-types-of-skin-cancer/",
+            "urlToImage": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/06/shutterstock_685947193_Fotor-16x9-1024x576.jpg",
+            "publishedAt": "2024-05-28T15:11:08Z",
+            "content": "Skin cancer is the most common cancer in the U.S., affecting millions worldwide. This cancer comes in two main types: melanoma, which is less common but more deadly, and nonmelanoma skin cancers, whi… [+1914 chars]"
         }
     ]
 }

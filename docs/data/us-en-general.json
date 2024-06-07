@@ -1,31 +1,83 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 33,
     "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Joshua Berlinger, Antoinette Radford, Shania Shelton and Kyle Feldscher, CNN",
+            "title": "Live updates: D-Day 80th anniversary in Normandy, Biden, Macron, Zelensky, Prince William attend - CNN",
+            "description": "World leaders visited the beaches of Normandy on Thursday to mark the 80th anniversary of D-Day.",
+            "url": "https://www.cnn.com/europe/live-news/d-day-80-anniversary-06-06-24-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240605095827-01-dday-commemorations-060424-super-tease.jpg",
+            "publishedAt": "2024-06-06T18:21:00Z",
+            "content": "Robert Persichitti, a 102-year-old World War II US Navy veteran, died last week while on his way to France to commemorate the 80th anniversary of D-Day, according to Honor Flight Rochester, a veteran… [+1476 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mary Kekatos, Gina Sunseri",
+            "title": "Boeing's Starliner successfully docks at ISS after helium leaks, thruster issue - ABC News",
+            "description": "NASA said two of the helium valves have been closed.",
+            "url": "https://abcnews.go.com/US/helium-leaks-discovered-onboard-boeings-starliner-track-reach/story?id=110893167",
+            "urlToImage": "https://i.abcnewsfe.com/a/1b4d3602-8fca-4534-857e-d18bb98a1a48/Starliner-gty-ml-240606_1717678593904_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-06-06T18:00:00Z",
+            "content": "Boeing's Starliner successfully docked at the International Space Station (ISS) Thursday afternoon, marking another milestone in the first astronaut-crewed test flight of the spacecraft.\r\nNASA and Bo… [+2091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Katie Campione, Dominic Patten",
+            "title": "No Deal, Yet: Tensions Rise As IATSE & Studios Fail To Seal Basic Agreement Pact, More Talks Planned - Deadline",
+            "description": "The union & the AMPTP are going back to the bargaining table with the parties far apart on money",
+            "url": "http://deadline.com/2024/06/iatse-contact-talks-no-deal-yet-1235960690/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/06/IATSE-Hollywood.jpg?w=1000",
+            "publishedAt": "2024-06-06T17:30:00Z",
+            "content": "Hollywood may be experiencing some labor déjà vu today as IATSE talks with the studios look certain to go down to the wire with just under two months before the union’s contracts expire.\r\nThe union a… [+3928 chars]"
+        },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Watch SpaceX launch its fourth Starship flight test - The Verge",
-            "description": "The Starship lifted off from SpaceX’s launch site at 8:50AM ET, before the Super Heavy booster rocket separated and performed a “soft landing” in the Gulf of Mexico.",
-            "url": "https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZGLdM0DqlLvu9Tqn7a5EkPjX8tI=/0x0:4096x2442/1200x628/filters:focal(2048x1534:2049x1535)/cdn.vox-cdn.com/uploads/chorus_asset/file/25479985/GPALfTQa0AE0yTL.jpeg",
-            "publishedAt": "2024-06-06T12:35:59Z",
-            "content": "Watch SpaceXs fourth Starship flight test\r\nWatch SpaceXs fourth Starship flight test\r\n / The Starship vehicle and Super Heavy rocket booster lifted off at 8:50AM ET.\r\nByJess Weatherbed, a news writer… [+171 chars]"
+            "author": "Emma Roth",
+            "title": "Suicide Squad left a $200 million hole in WBD's video game division - The Verge",
+            "description": "Warner Bros. Discovery lost $200 million following the release of the ill-received Suicide Squad: Kill the Justice League, and a report from Bloomberg details what went wrong.",
+            "url": "https://www.theverge.com/2024/6/6/24172905/suicide-squad-kill-justice-league-200-million-loss-wbd-rocksteady",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/a9I9QXoudyt86YZnUk_9120CPZU=/0x0:1920x817/1200x628/filters:focal(960x409:961x410)/cdn.vox-cdn.com/uploads/chorus_asset/file/25480428/suicide_squad_kill_justice_league.jpg",
+            "publishedAt": "2024-06-06T17:23:12Z",
+            "content": "Suicide Squad left a $200 million hole in WBDs video game division\r\nSuicide Squad left a $200 million hole in WBDs video game division\r\n / A new report from Bloomberg details the major struggles that… [+2355 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "CNBC",
-            "title": "European Central Bank cuts interest rates for the first time since 2019: Live updates - CNBC",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMDYvZXVyb3BlYW4tY2VudHJhbC1iYW5rLWhlYWRzLWZvci1maXJzdC1yYXRlLWN1dC1zaW5jZS0yMDE5LWxpdmUtdXBkYXRlcy5odG1s0gFvaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDYvMDYvZXVyb3BlYW4tY2VudHJhbC1iYW5rLWhlYWRzLWZvci1maXJzdC1yYXRlLWN1dC1zaW5jZS0yMDE5LWxpdmUtdXBkYXRlcy5odG1s?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T12:25:00Z",
+            "author": "Ed Cara",
+            "title": "A Bird Flu Virus Has Killed Its First Human - Gizmodo",
+            "description": "Mexico and WHO health officials have reported the first known human case and death tied to H5N2 avian influenza. No further cases have been detected yet.",
+            "url": "https://gizmodo.com/h5n2-bird-flu-virus-kills-first-human-1851523770",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8f8b683a02e93f29ad1c124d06a95166.jpg",
+            "publishedAt": "2024-06-06T16:55:00Z",
+            "content": "A particular type of bird flu has now killed its first human. On Wednesday, Mexican health officials and the World Health Organization announced a confirmed case of H5N2 avian influenza in a 59-year-… [+3248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCRA Sacramento"
+            },
+            "author": "Jonathan Ayestas",
+            "title": "Northern California forecast: Delta breeze will bring slight relief from above-average temperatures - KCRA Sacramento",
+            "description": "Above-average temperatures don't appear to be going anywhere soon for Northern California, but some overnight relief might be present in the form of a cool Delta breeze.",
+            "url": "https://www.kcra.com/article/northern-california-forecast-june-6-2024/61015445",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/666f036b-8f50-44ee-acee-73d91b95d839/391082bb-99b0-4c3d-bc21-7dddd665682c.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2024-06-06T16:52:00Z",
             "content": null
         },
         {
@@ -33,13 +85,39 @@
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "BBC.com",
-            "title": "European elections: Centre left struggles to hold back surge from right - BBC.com",
+            "author": "ESPN",
+            "title": "Sources - Chiefs' Thompson stable in hospital after cardiac arrest - ESPN",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdzQ0MzN5ejczdm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3c0NDMzeXo3M3ZvLmFtcA?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwMjkxNzA4L3NvdXJjZS1jaGllZnMtYmotdGhvbXBzb24tc2VudC1ob3NwaXRhbC1zdGFibGUtY29uZGl0aW9u0gEA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-06-06T11:37:48Z",
+            "publishedAt": "2024-06-06T16:49:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Aly J. Yale",
+            "title": "When will mortgage rates go down? A look at 2024 and 2025. - Yahoo Finance",
+            "description": "Mortgage rates are not going down right now, but expert rate predictions say they will end 2024 between 6.5% and 7%. Learn when mortgage rates will go down.",
+            "url": "https://finance.yahoo.com/personal-finance/when-will-mortgage-rates-go-down-164144910.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Arbgos5H7HKvOFUKT7jpmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-03/8dc0b030-9e3a-11ec-bded-61a6b9a2738c",
+            "publishedAt": "2024-06-06T16:41:45Z",
+            "content": "Since late 2022, mortgage rates have jumped between 6% and 7% and in fall 2023, they nearly eclipsed 8%, marking the highest 30-year mortgage rate seen in over two decades.\r\nCombined with rising home… [+7332 chars]"
         },
         {
             "source": {
@@ -47,90 +125,233 @@
                 "name": "Associated Press"
             },
             "author": "HILLEL ITALIE",
-            "title": "Suzanne Collins is releasing a new 'Hunger Games' novel, 'Sunrise on the Reaping,' next year - The Associated Press",
+            "title": "A new 'Hunger Games' book — and movie — is coming - The Associated Press",
             "description": "Inspired by an 18th century Scottish philosopher and the modern scourge of misinformation, Suzanne Collins is returning to the ravaged, post-apocalyptic land of Panem for a new “The Hunger Games” novel. Scholastic announced Thursday that “Sunrise on the Reapi…",
             "url": "https://apnews.com/article/hunger-games-suzanne-collins-sunrise-reaping-b30163b4707f4db55eb68513f197affc",
             "urlToImage": "https://dims.apnews.com/dims4/default/7126858/2147483647/strip/true/crop/2631x1480+0+137/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2Fe7%2Fca7684a94749f46189c6b00423c4%2F8efbf47aefa049cba6f64ee15f3f05ba",
-            "publishedAt": "2024-06-06T11:31:00Z",
-            "content": "NEW YORK (AP) Inspired by an 18th century Scottish philosopher and the modern scourge of misinformation, Suzanne Collins is returning to the ravaged, post-apocalyptic land of Panem for a new The Hung… [+1873 chars]"
+            "publishedAt": "2024-06-06T16:29:00Z",
+            "content": "NEW YORK (AP) Inspired by an 18th century Scottish philosopher and the modern scourge of misinformation, Suzanne Collins is returning to the ravaged, post-apocalyptic land of Panem for a new The Hung… [+2522 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "JOHN LEICESTER",
-            "title": "As the world marks 80th anniversary of D-Day landings, renewed war in Europe is on minds of many - The Associated Press",
-            "description": "As young soldiers they waded ashore in Normandy through gunfire to fight the Nazis. A dwindling number of World War II veterans were joined by a new generation of leaders on Thursday to honor the dead and living in moving commemorations on and around those sa…",
-            "url": "https://apnews.com/article/d-day-france-russia-ukraine-wwii-7b6896a9d891fb2d2f75b29e1cfd67ad",
-            "urlToImage": "https://dims.apnews.com/dims4/default/a0ff53b/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F75%2Fe0%2F86cb939548514be20dac6d29793d%2F11891c82348f4456b51ff183c5076ace",
-            "publishedAt": "2024-06-06T11:26:00Z",
-            "content": "UTAH BEACH, France (AP) As young soldiers, they waded ashore in Normandy through gunfire to fight the Nazis. On Thursday, a dwindling number of World War II veterans were joined by a new generation o… [+6096 chars]"
+            "author": "USA TODAY",
+            "title": "Gilgo Beach serial killer suspect charged with more murders - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/news/nation/2024/06/06/gilgo-beach-rex-heuermann-additional-murder-charges/73354319007/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-06T16:27:30Z",
+            "content": null
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "PHILIP MARCELO",
-            "title": "Gilgo Beach killings suspect due in court as prosecutors tout 'significant development' in case - The Associated Press",
-            "description": "Prosecutors are planning a major announcement in the Gilgo Beach serial killings as the prime suspect in the case is set to appear in criminal court on Long Island. Architect Rex Heuermann returns to court Thursday, just days after police resumed searching hi…",
-            "url": "https://apnews.com/article/gilgo-beach-long-island-serial-killer-cd010da500bedf2aabded35d1b939629",
-            "urlToImage": "https://dims.apnews.com/dims4/default/7796c8d/2147483647/strip/true/crop/3844x2162+0+164/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2F6c%2Fbea4919b2c8cbcd25714e41f7284%2F937509b9676e41648e567b06ffe55529",
-            "publishedAt": "2024-06-06T11:22:00Z",
-            "content": "Prosecutors plan to announce a significant development Thursday in the case of a New York architect accused of killing four women and leaving their corpses scattered in the scrub along a coastal high… [+2987 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Kate Plummer",
-            "title": "Alina Habba Mocks Fani Willis After Trump Case Falters - Newsweek",
-            "description": "Alina Habba has criticized Fani Willis' \"arrogance\" after the Georgia election interference case against Donald Trump was halted.",
-            "url": "https://www.newsweek.com/alina-habba-mocks-fani-willis-after-donald-trump-case-collapses-1908939",
-            "urlToImage": "https://d.newsweek.com/en/full/2404924/willis-habba.jpg",
-            "publishedAt": "2024-06-06T11:14:07Z",
-            "content": "Donald Trump's lawyer Alina Habba has mocked Fulton County District Attorney Fani Willis after the Georgia election interference case against the former president was halted.\r\nSpeaking to Newsmax's C… [+868 chars]"
+            "author": null,
+            "title": "Apple WWDC 2024 preview: All in on AI | Engadget Podcast - Engadget",
+            "description": "We're gearing up to cover Apple's Worldwide Developers Conference (WWDC) next week! In this episode, Cherlynn and Devindra dive into everything they expect a...",
+            "url": "https://www.youtube.com/watch?v=AogWbUmC4ww",
+            "urlToImage": "https://i.ytimg.com/vi/AogWbUmC4ww/maxresdefault.jpg",
+            "publishedAt": "2024-06-06T16:23:51Z",
+            "content": null
         },
         {
             "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "Tom's Guide",
-            "title": "iPhone 16 and iPhone 16 Pro design — 5 biggest rumors for the new iPhones - Tom's Guide",
+            "author": "Variety",
+            "title": "Pat Sajak Sets First Gig After ‘Wheel of Fortune’ Exit: A Community Theater ‘Columbo’ Play in Hawaii (EXCLUSIVE) - Variety",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRvbXNndWlkZS5jb20vcGhvbmVzL2lwaG9uZXMvaXBob25lLTE2LWFuZC1pcGhvbmUtMTYtcHJvLWRlc2lnbi1ydW1vcnPSAQA?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3BhdC1zYWphay1maXJzdC1wb3N0LXdoZWVsLW9mLWZvcnR1bmUtZ2lnLXN0YWdlLWNvbHVtYm8tcGxheS1wcmVzY3JpcHRpb24tbXVyZGVyLTEyMzYwMjY4NzAv0gGBAWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3BhdC1zYWphay1maXJzdC1wb3N0LXdoZWVsLW9mLWZvcnR1bmUtZ2lnLXN0YWdlLWNvbHVtYm8tcGxheS1wcmVzY3JpcHRpb24tbXVyZGVyLTEyMzYwMjY4NzAvYW1wLw?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-06-06T11:14:07Z",
+            "publishedAt": "2024-06-06T16:15:00Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "HuffPost"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "AP",
-            "title": "Man In Mexico Died Of Bird Flu Strain That Hadn't Been Found In A Human, WHO Says - HuffPost",
-            "description": "Health authorities say a man in Mexico died from a type of bird flu called H5N2 that has never before been found in a human.",
-            "url": "https://www.huffpost.com/entry/bird-flu-mexico_n_6661988ee4b0f507c4396b28",
-            "urlToImage": "https://img.huffingtonpost.com/asset/666198902400003400eddf96.jpeg?ops=1200_630",
-            "publishedAt": "2024-06-06T11:11:51Z",
-            "content": "WASHINGTON (AP) A mans death in Mexico was caused by a strain of bird flu called H5N2 that has never before been found in a human, the World Health Organization said Wednesday.\r\nThe WHO said it wasnt… [+2170 chars]"
+            "author": "Mark Johnson, Sabrina Malhi",
+            "title": "Whooping cough cases double in the U.S., a potential legacy of the pandemic - The Washington Post",
+            "description": "Whooping cough cases have more than doubled so far in 2024, raising concerns for infants and older adults, the two groups at highest risk.",
+            "url": "https://www.washingtonpost.com/health/2024/06/06/whooping-cough-cases-rising/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALHZ52B2AGXBDCS5FYMHOZLA5I_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-06-06T16:11:23Z",
+            "content": "Whooping cough, a bacterial illness that poses an especially significant threat to infants, is surging in the United States another potential legacy of the coronavirus pandemic.\r\nFederal disease trac… [+6823 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "NFL faces multi-billion dollar antitrust suit over its Sunday Ticket package - CNN",
+            "description": "A class action case challenging the legality of the NFL’s Sunday Ticket package, whose opening arguments are scheduled for Thursday, could shake up television rights deals in professional sports and the way teams make money.",
+            "url": "https://www.cnn.com/2024/06/06/business/nfl-sunday-ticket-antitrust-suit/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1753036539.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-06T16:10:00Z",
+            "content": "A class action case challenging the legality of the NFLs Sunday Ticket package, whose opening arguments are scheduled for Thursday, could shake up television rights deals in professional sports and t… [+2198 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Dorgan",
+            "title": "Rare, sexually transmitted ringworm reported in NYC - Fox News",
+            "description": "A new form of ringworm which looks like eczema and spread through sex was detected in a man in his 30s who slept with multiple other men on trips.",
+            "url": "https://www.foxnews.com/health/rare-sexually-transmitted-ringworm-reported-nyc",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/eczema.gif",
+            "publishedAt": "2024-06-06T16:03:00Z",
+            "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu… [+4065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "How Walmart Turned Bentonville, Arkansas Into A Boomtown - CNBC",
+            "description": "Walmart’s hometown of Bentonville, Arkansas has become a surprising boomtown with many amenities you might expect to find in New York, Austin or San Francisc...",
+            "url": "https://www.youtube.com/watch?v=MsCGme9epBQ",
+            "urlToImage": "https://i.ytimg.com/vi/MsCGme9epBQ/maxresdefault.jpg",
+            "publishedAt": "2024-06-06T16:00:19Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Melissa Repko",
-            "title": "Craft cocktails, mountain bikes and art: Walmart's hometown is booming, and getting more expensive - CNBC",
-            "description": "As Walmart gets into new businesses like advertising and tries to lure workers, its hometown of Bentonville, Arkansas, and its corporate offices are changing.",
-            "url": "https://www.cnbc.com/2024/06/06/walmart-hometown-bentonville-arkansas-gets-more-expensive.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107424192-1717620174328-107424192-1717539589475-IMG_1896_1.jpg?v=1717620190&w=1920&h=1080",
-            "publishedAt": "2024-06-06T11:00:01Z",
-            "content": "BENTONVILLE, Ark. When Gil Curren's family moved into a run-down farmhouse in Walmart's hometown of Bentonville, Arkansas, in 1971, the now-retail giant wasn't yet a decade old. Sometimes, the nearby… [+12791 chars]"
+            "author": "Michael Wayland",
+            "title": "Rivian redesigns all-electric R1 pickup and SUV, adds Nvidia chips and improves performance - CNBC",
+            "description": "Rivian said it has changed more than half the hardware components for the second-generation products ahead of anticipated R2 models.",
+            "url": "https://www.cnbc.com/2024/06/06/rivian-r1-pickup-suv-redesigned.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107425058-1717696855382-107425058-1717676972596-Exterior14.jpg?v=1717696871&w=1920&h=1080",
+            "publishedAt": "2024-06-06T16:00:01Z",
+            "content": "Rivian Automotive has redesigned its all-electric R1 pickup and SUV models to improve range, performance and computing power with the help of Nvidia chips, the company said Thursday.\r\nWhile the 2025 … [+3353 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "ESPN insiders",
+            "title": "How hiring UConn's Dan Hurley could impact the Los Angeles Lakers, LeBron James and Bronny - ESPN",
+            "description": "Here's what we know -- and what it could mean for the future of LeBron, Bronny and the Lakers franchise.",
+            "url": "https://www.espn.com/nba/story/_/id/40290745/how-hiring-uconn-dan-hurley-impact-los-angeles-lakers-lebron-james-bronny",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0606%2Fr1342470_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-06-06T15:55:00Z",
+            "content": "One month after firing Darvin Ham, the Lakers are zeroing in on their next head coach. Sources told ESPN's Adrian Wojnarowski that Los Angeles is preparing a massive, long-term contract offer to pry … [+7696 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Simon Speakman Cordall, Urooba Jamal",
+            "title": "‘Standing Together’ against far-right Israeli hate in Jerusalem - Al Jazeera English",
+            "description": "A group of Jewish Israelis and Palestinians are taking on settlers and the orthodoxy of Israel’s far-right.",
+            "url": "https://www.aljazeera.com/news/2024/6/6/jewish-israelis-and-palestinians-push-back-against-hatred",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-06-05T130124Z_1172009956_RC2058ARCM8R_RTRMADP_3_ISRAEL-PALESTINIANS-JERUSALEM-DAY-MARCH-1717598092.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-06-06T15:45:00Z",
+            "content": "Tens of thousands of mostly young, right-wing Israelis marched through occupied East Jerusalems Old City on Wednesday, brandishing Israeli flags and anti-Palestinian slogans at the people living in t… [+8015 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Biden officials warn Israel \"limited war\" with Lebanon may draw Iran to intervene - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/06/06/biden-israel-lebanon-war-iran-intervention",
+            "urlToImage": null,
+            "publishedAt": "2024-06-06T15:29:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Tim Meko, Laris Karklis, Jason Samenow",
+            "title": "Mapping the tornadoes in Maryland - The Washington Post",
+            "description": "Tornadoes ripped through Maryland on Wednesday evening. See where they were reported.",
+            "url": "https://www.washingtonpost.com/weather/2024/06/06/maryland-tornado-map/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CTBPVWEDB5DWZJEYIZBQLCC3WY.jpg&w=1440",
+            "publishedAt": "2024-06-06T15:28:50Z",
+            "content": "More than 25 tornado warnings were issued in Maryland on Wednesday evening as supercells sped across the region.\r\nA storm that developed in Loudoun County may have first produced a tornado north of L… [+246 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": null,
+            "title": "Celtics vs. Mavericks odds, score prediction, time: 2024 NBA Finals picks, Game 1 bets by proven model - CBS Sports",
+            "description": "SportsLine's model simulated Game 1 of Dallas Mavericks vs. Boston Celtics in the NBA Finals 2024 on Thursday",
+            "url": "https://www.cbssports.com/nba/news/celtics-vs-mavericks-odds-score-prediction-time-2024-nba-finals-picks-game-1-bets-by-proven-model/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/06/06/ff1b8020-4565-423d-9bb4-4a28731712de/thumbnail/1200x675/bd84cc437a8d80b9a82371e641ecb10b/jayson-tatum-celtics-usatsi.jpg",
+            "publishedAt": "2024-06-06T13:55:22Z",
+            "content": "The Dallas Mavericks travel to TD Garden as they square off against the Boston Celtics for Game 1 of the 2024 NBA Finals on Thursday evening. Dallas has been effective on the road this postseason, go… [+3885 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MICHAEL KUNZELMAN, RANDALL CHASE, COLLEEN LONG, MIKE CATALINI",
+            "title": "Jurors in Hunter Biden trial hear more from the clerk who sold him the gun at the center of the case - The Associated Press",
+            "description": "The widow of Hunter Biden's brother is testifying at his federal gun trial. Hallie Biden said she found his crack at her Wilmington, Delaware, house, and saw him using the illicit drug. She said he got drugs from various dealers. Federal prosecutors have argu…",
+            "url": "https://apnews.com/article/hunter-biden-trial-clerk-testimony-gun-charges-62de446479ddcdb040c6a5418c6d28fd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/1e4efc6/2147483647/strip/true/crop/6883x3872+0+358/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2F2f%2F4d30d2717b7ad7652692ec0f67d2%2F34d935a7144b41cbb12f0f8a5a2fd437",
+            "publishedAt": "2024-06-06T13:11:00Z",
+            "content": "WILMINGTON, Del. (AP) The widow of Hunter Bidens brother, Beau, testified Thursday in his federal gun trial that she found his crack at her Wilmington, Delaware, house, saw him use the illicit drug a… [+7766 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "iOS 18 Mail app AI features may include smart replies, tone change - 9to5Mac",
+            "description": "A new report suggests Apple may announce a number of iOS 18 Mail app AI features during WWDC. These include...",
+            "url": "https://9to5mac.com/2024/06/06/ios-18-mail-app-ai-features/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/iOS-18-Mail-app-AI-features.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-06-06T13:10:00Z",
+            "content": "A new report suggests Apple may announce a number of iOS 18Mail app AI features during WWDC.\r\nThese include the option to automatically create Smart Replies to emails, as well as the ability to draft… [+1791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Weather Channel"
+            },
+            "author": "The Weather Channel",
+            "title": "Tornado Hits Livonia, Michigan, Without Warning | Weather.com - The Weather Channel",
+            "description": "Here's a closer look at the weather ingredients that allowed a deadly tornado to strike Michigan without warning.",
+            "url": "https://weather.com/science/weather-explainers/news/2024-06-06-livonia-michigan-tornado-no-warning",
+            "urlToImage": "https://s.w-x.co/447957903_853883846777266_5387305761481511935_n.jpg",
+            "publishedAt": "2024-06-06T13:00:00Z",
+            "content": "Sign up for the Morning Brief email newsletter to get weekday updates from The Weather Channel and our meteorologists.\r\nA tornado warning was not issued for a twister that struck Livonia, Michigan, W… [+3469 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Trump VP short list: Doc requests reveal top contenders - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/06/06/trump-vp-short-list-top-contenders",
+            "urlToImage": null,
+            "publishedAt": "2024-06-06T11:54:18Z",
+            "content": null
         },
         {
             "source": {
@@ -147,315 +368,68 @@
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": null,
+                "name": "SpaceNews"
             },
-            "author": "Adrian Wojnarowski",
-            "title": "Sources - Lakers preparing massive offer to UConn's Dan Hurley - ESPN",
-            "description": "The Los Angeles Lakers are targeting UConn's Dan Hurley as the franchise's next coach and are preparing a massive, long-term contract offer to bring the back-to-back NCAA national champion to the NBA, sources told ESPN.",
-            "url": "https://www.espn.com/nba/story/_/id/40289529/sources-lakers-preparing-massive-offer-uconn-dan-hurley",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0606%2Fr1342271_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-06-06T10:50:00Z",
-            "content": "The Los Angeles Lakers are targeting UConn men's basketball coach Dan Hurley as the franchise's next coach and are preparing a massive, long-term contract offer to bring the back-to-back NCAA nationa… [+4920 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The New York Times",
-            "title": "Tim Scott Makes New Push to Woo Black and Hispanic Republicans - The New York Times",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMDYvdXMvcG9saXRpY3MvdGltLXNjb3R0LW1ha2VzLW5ldy1wdXNoLXRvLXdvby1ibGFjay1hbmQtaGlzcGFuaWMtcmVwdWJsaWNhbnMuaHRtbNIBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T10:00:33Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Fox Business",
-            "title": "Nvidia topples Apple with $3 trillion market cap; 10-for-1 stock split ahead - Fox Business",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tYXJrZXRzL252aWRpYS1hcHBsZS0zLXRyaWxsaW9uLW1hcmtldC1jYXAtMTAtZm9yLTEtc3RvY2stc3BsaXQtYWhlYWTSAWVodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vbWFya2V0cy9udmlkaWEtYXBwbGUtMy10cmlsbGlvbi1tYXJrZXQtY2FwLTEwLWZvci0xLXN0b2NrLXNwbGl0LWFoZWFkLmFtcA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T10:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Ariana Eunjung Cha",
-            "title": "'Unusual' cancers emerged after the pandemic. Doctors ask if covid is to blame. - The Washington Post",
-            "description": "It’s not a new idea that viruses can cause or accelerate cancer. But it will probably be years before answers emerge about covid and cancer.",
-            "url": "https://www.washingtonpost.com/health/2024/06/06/covid-cancer-increase-link/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BQCI2AC6QJU7QROSUMPPPKAHRU_size-normalized.jpg&w=1440",
-            "publishedAt": "2024-06-06T09:28:55Z",
-            "content": "ROCK HILL, S.C. Kashyap Patel looked forward to his teams Friday lunches. All the doctors from his oncology practice would gather in the open-air courtyard under the shadow of a tall magnolia tree an… [+12616 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Al Jazeera English",
-            "title": "Slovak PM blames opposition for attempt on his life - Al Jazeera English",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vcHJvZ3JhbS9uZXdzZmVlZC8yMDI0LzYvNi9zbG92YWstcG0tYmxhbWVzLW9wcG9zaXRpb24taW4tZmlyc3QtdmlkZW8tYWZ0ZXItYXNzYXNzaW5hdGlvbi1hdHRlbXB00gF-aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvcHJvZ3JhbS9uZXdzZmVlZC8yMDI0LzYvNi9zbG92YWstcG0tYmxhbWVzLW9wcG9zaXRpb24taW4tZmlyc3QtdmlkZW8tYWZ0ZXItYXNzYXNzaW5hdGlvbi1hdHRlbXB0?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T09:16:28Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "USA TODAY",
-            "title": "Is Google listening? Here's how to stop it - USA TODAY",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS90ZWNoL2NvbHVtbmlzdC9rb21hbmRvLzIwMjQvMDYvMDYvaG93LXRvLXN0b3AtZ29vZ2xlLWxpc3RlbmluZy83MzkxMTUyMTAwNy_SAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T09:02:09Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Fox News",
-            "title": "Hunter Biden trial enters day 4 after wild testimony from exes on rampant drug use, trashed hotel rooms - Fox News",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9odW50ZXItYmlkZW4tdHJpYWwtZW50ZXJzLWRheS00LWFmdGVyLXdpbGQtdGVzdGltb255LWZyb20tZXhlcy1yYW1wYW50LWRydWctdXNlLXRyYXNoZWQtaG90ZWwtcm9vbXPSAYgBaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvaHVudGVyLWJpZGVuLXRyaWFsLWVudGVycy1kYXktNC1hZnRlci13aWxkLXRlc3RpbW9ueS1mcm9tLWV4ZXMtcmFtcGFudC1kcnVnLXVzZS10cmFzaGVkLWhvdGVsLXJvb21zLmFtcA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T08:00:00Z",
-            "content": null
+            "author": "Andrew Jones",
+            "title": "Chang'e-6 spacecraft dock in lunar orbit ahead of journey back to Earth - SpaceNews",
+            "description": "Chang’e-6 spacecraft dock in lunar orbit ahead of journey back to Earth An ascent vehicle docked with the Chang’e-6 service module Thursday, in a critical step towards bringing the first lunar far side samples to Earth.",
+            "url": "https://spacenews.com/change-6-spacecraft-dock-in-lunar-orbit-ahead-of-journey-back-to-earth/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2024/06/CE-6-orbiter-ascender-docked-simulation-CNSA-june2024-1.jpg",
+            "publishedAt": "2024-06-06T10:25:03Z",
+            "content": "HELSINKI An ascent vehicle docked with the Change-6 service module Thursday, in a critical step towards bringing the first lunar far side samples to Earth.\r\nThe lunar orbit rendezvous and docking was… [+4639 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Videocardz.com"
+                "name": "The Conversation Africa"
             },
-            "author": "VideoCardz.com",
-            "title": "ASUS unveils ROG Mjolnir, a power bank enabling up to 1 hour of RTX 4080 gaming - VideoCardz.com",
-            "description": null,
-            "url": "https://videocardz.com/newz/asus-unveils-rog-mjolnir-a-power-bank-enabling-up-to-1-hour-of-rtx-4080-gaming",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T07:29:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "BBC.com",
-            "title": "Putin warns Russia could provide weapons for others to strike West - BBC.com",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbjQ0cjl6am5wam_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY240NHI5empucGpvLmFtcA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T07:03:11Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
-            },
-            "author": "Ellen Durney",
-            "title": "Kim Kardashian Opens Up on Single Parenting After Divorce - BuzzFeed",
-            "description": "“I was literally hiding in a bathroom with the door locked… I’m open to anything at this point because I can’t live like this.”",
-            "url": "https://www.buzzfeed.com/ellendurney/kim-kardashian-on-raising-kids-as-a-single-mom-after-divorce",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-06/5/13/enhanced/10adacbb55fc/original-5437-1717592787-4.jpg?crop=1246:652;3,4%26downsize=1250:*",
-            "publishedAt": "2024-06-06T06:56:22Z",
-            "content": null
+            "author": "Belinda Medlyn, David S Ellsworth, Kristine Crous",
+            "title": "A fierce battle is being fought in the soil beneath our feet – and the implications for global warming are huge - The Conversation",
+            "description": "Trees are supposed to grow faster as a result of increased CO₂ in the atmosphere - but this research suggests there are many exceptions to the rule.",
+            "url": "https://theconversation.com/a-fierce-battle-is-being-fought-in-the-soil-beneath-our-feet-and-the-implications-for-global-warming-are-huge-231802",
+            "urlToImage": "https://images.theconversation.com/files/598916/original/file-20240606-19-466lu8.jpg?ixlib=rb-4.1.0&rect=0%2C67%2C1000%2C499&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2024-06-06T04:26:59Z",
+            "content": "As humanity continues to burn fossil fuels, the delicate balance of life on Earth is changing. Thats true of trees, many of which are growing faster as a result of increased carbon dioxide (CO) conce… [+4102 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Ny.gov"
             },
             "author": null,
-            "title": "Antidepressant withdrawal affects one in six people - BBC.com",
-            "description": "One in six people have symptoms stopping antidepressants - fewer than previously thought, a review suggests.",
-            "url": "https://www.bbc.com/news/articles/c3ggv7zvzw3o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12bf/live/247cd290-23ce-11ef-85e1-b5cf8721ba30.jpg",
-            "publishedAt": "2024-06-06T06:53:31Z",
-            "content": "Philippa Roxby,Health reporter, BBC News\r\nOne out of every six people have symptoms when they stop taking antidepressants - fewer than previously thought, a review of previous studies suggests.\r\nThe … [+3147 chars]"
+            "title": "What They Are Saying: Governor Hochul Announces Pause on Congestion Pricing to Address the Rising Cost of Living in New York - ny.gov",
+            "description": "Governor Hochul addressed New Yorkers on affordability and the cost of living and directed the MTA to indefinitely pause congestion pricing to avoid added burdens to working- and middle-class families.",
+            "url": "https://www.governor.ny.gov/news/what-they-are-saying-governor-hochul-announces-pause-congestion-pricing-address-rising-cost",
+            "urlToImage": "https://www.governor.ny.gov/sites/default/files/styles/cover_image_660x400_/public/2021-08/Seal_GovernorKathyHochul_branding_1280x512.jpg?h=b5f6a62e&itok=t_ULeGxy",
+            "publishedAt": "2024-06-06T00:20:56Z",
+            "content": "Governor Kathy Hochul today addressed New Yorkers on affordability and the cost of living and directed the MTA to indefinitely pause congestion pricing to avoid added burdens to working- and middle-c… [+16131 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Graham Kates",
+            "title": "Trump's conviction in New York extends losing streak with jurors to 0-42 in recent cases - CBS News",
+            "description": "Former President Donald Trump and his company have been unable to win over a single juror, out of 42 total, in recent criminal and civil trials.",
+            "url": "https://www.cbsnews.com/news/trump-conviction-new-york-jurors/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/05/9a421681-3b53-4f22-a1c5-23fd576ed5d0/thumbnail/1200x630g2/b092babd554f27fabcee146a4bba88ff/gettyimages-2154810608.jpg?v=94cbb61397dbf7eca3740fa55510ba88",
+            "publishedAt": "2024-06-05T19:12:01Z",
+            "content": "When 12 Manhattan jurors returned after a day and a half of deliberations on May 30 and convicted Donald Trump of 34 felonies, they added to an astonishing losing streak for the former president.\r\nTr… [+6437 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Oklahoman.com"
+                "name": "YouTube"
             },
-            "author": "Oklahoman.com",
-            "title": "OU softball beats Texas in Game 1 of WCWS finals on Kelly Maxwell gem - Oklahoman.com",
-            "description": null,
-            "url": "https://www.oklahoman.com/story/sports/college/sooners/2024/06/05/oklahoma-texas-score-wcws-ncaa-softball-tournament-womens-college-world-series/73993011007/",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T05:48:45Z",
+            "author": null,
+            "title": "Anti-Glare vs. Glossy OLED? Samsung S95D \"Glare-Free\" Treatment Tested - Digital Trends",
+            "description": "Since the Samsung S95D OLED was first announced, there's been an uproar over the brand's decision to include a new anti-glare, anti-reflection treatment into...",
+            "url": "https://www.youtube.com/watch?v=n1BR-mdnmi8",
+            "urlToImage": "https://i.ytimg.com/vi/n1BR-mdnmi8/maxresdefault.jpg",
+            "publishedAt": "2024-06-05T14:45:02Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Kristin Fisher, Ashley Strickland",
-            "title": "Boeing Starliner team detects new helium leaks en route to space station - CNN",
-            "description": "After a successful launch Wednesday with two astronauts on board, NASA and Boeing have discovered additional helium leaks on the spacecraft.",
-            "url": "https://www.cnn.com/2024/06/06/science/boeing-starliner-new-helium-leaks-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24157543820294.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-06-06T05:33:00Z",
-            "content": "After a successful launch that was a decade in the making, Boeings Starliner mission is navigating new issues en route to the International Space Station, according to NASA.\r\nThe space agency said la… [+5377 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KTLA Los Angeles"
-            },
-            "author": "Josh DuBose",
-            "title": "Retail company in California using body-worn cameras to deter shoplifters - KTLA Los Angeles",
-            "description": "A surge in flash mob robberies and shoplifting at retail stores across Southern California has some companies getting creative with security, and now customers may notice some employees at shops sporting body-worn cameras.   Retail security employees at cloth…",
-            "url": "https://ktla.com/news/california/retail-company-in-california-using-body-worn-cameras-to-deter-shoplifters/",
-            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/06/Retail-store-security-3.png?w=1280",
-            "publishedAt": "2024-06-06T05:28:09Z",
-            "content": "A surge in flash mob robberies and shoplifting at retail stores across Southern California has some companies getting creative with security, and now customers may notice some employees at shops spor… [+1886 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "BBC.com",
-            "title": "India election results 2024: Allies back Modi for third term after setback - BBC.com",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNG5uajU2djAydm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzRubmo1NnYwMnZvLmFtcA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T05:16:48Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Chennedy Carter, Chicago Sky players harassed outside of team hotel in Washington, D.C. - CBS Sports",
-            "description": "Carter was the target in the incident, which came days after her hard foul on Caitlin Clark",
-            "url": "https://www.cbssports.com/wnba/news/chennedy-carter-chicago-sky-players-harassed-outside-of-team-hotel-in-washington-d-c/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/06/06/7f9ee354-08f5-4b84-959d-8d4f095f8d13/thumbnail/1200x675/cb23e42547faeb7fa62c3caa98821868/untitled-design-2024-06-05t204640-621.png",
-            "publishedAt": "2024-06-06T04:26:44Z",
-            "content": "Chicago Sky players were confronted by a man outside of their hotel in Washington, D.C., on Wednesday, the day before their game against the Mystics. The incident happened just four days after Chenne… [+1601 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "SpaceNews",
-            "title": "First Ariane 6 launch set for July 9 - SpaceNews",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vc3BhY2VuZXdzLmNvbS9maXJzdC1hcmlhbmUtNi1sYXVuY2gtc2V0LWZvci1qdWx5LTkv0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T03:44:11Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The Washington Post",
-            "title": "Border agents begin turning back migrants under new Biden restrictions - The Washington Post",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbW1pZ3JhdGlvbi8yMDI0LzA2LzA1L2JvcmRlci1iaWRlbi1taWdyYW50cy1hc3lsdW0v0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-06T02:23:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "John Fritze",
-            "title": "Alito’s former neighbor says justice is ‘at best mistaken’ in flap over upside-down US flag - CNN",
-            "description": "A former neighbor of Supreme Court Justice Samuel Alito on Wednesday disputed his account of a neighborhood spat that led to the hoisting of an upside-down US flag on his property in Virginia, saying that his timeline of what happened is wrong.",
-            "url": "https://www.cnn.com/2024/06/05/politics/alito-former-neighbor-flags-cnntv/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/emily-baden.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-06-06T00:54:00Z",
-            "content": "A former neighbor of Supreme Court Justice Samuel Alito on Wednesday disputed his account of a neighborhood spat that led to the hoisting of an upside-down US flag on his property in Virginia, saying… [+3352 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Bruce Haring",
-            "title": "Caitlin Clark Is Being “Targeted,” Says Veteran UConn Women’s Basketball Coach - Deadline",
-            "description": "Hall of Fame coach Geno Auriemma spoke out about what he sees with Clark's treatment.",
-            "url": "http://deadline.com/2024/06/caitlin-clark-targeted-says-veteran-uconn-womens-basketball-coach-1235960221/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/06/GettyImages-2155871271.jpg?w=1024",
-            "publishedAt": "2024-06-06T00:44:00Z",
-            "content": "Geno Auriemma, a Basketball Hall of Famer and veteran coach of the University of Connecticut women’s team, said he thinks Indiana Fever player and No. 1 draft choice Caitlin Clark has been “targeted”… [+1234 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Brian Davids",
-            "title": "Amandla Stenberg and Leslye Headland Thought the ‘Star Wars: The Acolyte’ Twist Would Leak Much Sooner - Hollywood Reporter",
-            "description": "The first episode revealed a surprise co-lead of the show, someone the star and the creator believed would leak long before the series premiere.",
-            "url": "http://www.hollywoodreporter.com/tv/tv-features/star-wars-the-acolyte-twist-amandla-stenberg-1235915878/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/06/PDX-016359_R-copy.jpg?w=1024",
-            "publishedAt": "2024-06-05T19:32:49Z",
-            "content": "[This story contains spoilers for the first two episodes of Star Wars: The Acolyte.]\r\nIf you study enough trailers and promotional spots, you’ll start to notice the very deep game that trailer editor… [+7277 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Selena Kuznikov",
-            "title": "Adam Levine, Kelsea Ballerini Join ‘The Voice’ as Season 27 Coaches - Variety",
-            "description": "Adam Levine will rejoin as a coach for \"The Voice\" season 27 with new coach Kelsea Ballerini and returning coaches Michael Bublé and John Legend.",
-            "url": "https://variety.com/2024/tv/news/adam-levine-kelsea-ballerini-the-voice-season-27-1236026222/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2024/06/MixCollage-05-Jun-2024-01-48-PM-4704-e1717609784352.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2024-06-05T19:00:00Z",
-            "content": "“The Voice” will return for its 27th season next spring, with new additions to its coaching team. Original coach Adam Levine will reclaim his red chair, alongside new coach Kelsea Ballerini and retur… [+1604 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Ben Schoon",
-            "title": "Samsung confirms 'Galaxy Watch FE' name in website slip-up as launch approaches - 9to5Google",
-            "description": "Samsung just officially confirmed that its budget-focused smartwatch will be called the \"Galaxy Watch FE,\" and it may be coming soon.",
-            "url": "http://9to5google.com/2024/06/05/samsung-galaxy-watch-fe-website-slip/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/06/samsung-galaxy-watch-fe-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-06-05T18:11:00Z",
-            "content": "Following several other leaks, Samsung has now confirmed the name of its upcoming budget smartwatch as the “Galaxy Watch FE.”\r\nWord of a Watch FE first hit the scene earlier this year back in Februar… [+1448 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Futurism"
-            },
-            "author": "Victor Tangermann",
-            "title": "NASA Slaps Down Billionaire's Plan to Fly Up and Fix Hubble Space Telescope - Futurism",
-            "description": "Billionaire space tourist Jared Isaacman offered to fix NASA's Hubble telescope. Officials are still unsure the benefits outweigh the risks.",
-            "url": "https://futurism.com/the-byte/nasa-reject-billionaire-plan-fix-hubble",
-            "urlToImage": "https://wp-assets.futurism.com/2024/06/nasa-reject-billionaire-plan-fix-hubble.jpg",
-            "publishedAt": "2024-06-05T17:34:31Z",
-            "content": "NASA is worried it's far too risky.\r\nOffer Declined\r\nNASA's groundbreaking Hubble Space Telescope is on its last legs.\r\nOngoing issues with the aging spacecraft's remaining gyroscopes, which help poi… [+2902 chars]"
         }
     ]
 }

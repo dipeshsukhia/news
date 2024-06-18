@@ -1,97 +1,357 @@
 {
     "status": "ok",
-    "totalResults": 30,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "CNN",
-            "title": "Israel's war cabinet disbanded by Netanyahu: Live updates - CNN",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNubi5jb20vbWlkZGxlZWFzdC9saXZlLW5ld3MvaXNyYWVsLWhhbWFzLXdhci1nYXphLW5ld3MtMDYtMTctMjQvaW5kZXguaHRtbNIBUGh0dHBzOi8vYW1wLmNubi5jb20vY25uL21pZGRsZWVhc3QvbGl2ZS1uZXdzL2lzcmFlbC1oYW1hcy13YXItZ2F6YS1uZXdzLTA2LTE3LTI0?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-17T12:14:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The Washington Post",
-            "title": "Russia’s Putin visits North Korea for talks with Kim Jong Un - The Washington Post",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA2LzE3L3J1c3NpYS1wdXRpbi1ub3J0aC1rb3JlYS12aXNpdC1raW0v0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-17T11:43:05Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The Associated Press",
-            "title": "175,000 pardons are set to be issued for marijuana convictions in Maryland - The Associated Press",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21hcmlqdWFuYS1wYXJkb25zLWdvdi13ZXMtbW9vcmUtMDAzYTExZDI0MzVlYWJhYTA2MGQyZDI2ZGE2M2NlNDLSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-17T11:20:00Z",
-            "content": null
+            "author": "Janet Lee",
+            "title": "Cutting back on sodium and alcohol can help lower blood pressure - The Washington Post",
+            "description": "Adding potassium and cutting back on alcohol can help reduce the need for meds if you have hypertension, or even prevent it in the first place.",
+            "url": "https://www.washingtonpost.com/wellness/2024/06/17/blood-pressure-diet-salt-alcohol/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4BPL3YI2HHS2HINFGACETTUZI.jpg&w=1440",
+            "publishedAt": "2024-06-17T18:02:16Z",
+            "content": "Consumer Reports has no financial relationship with any advertisers on this site.\r\nAdvanced age is a risk factor for high blood pressure more than half of older adults have it. But there is plenty yo… [+6056 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Heat.com"
+                "name": "Barron's"
             },
-            "author": "Shaun Powell",
-            "title": "NBA Finals: 4 things to look for in Game 5 of Celtics-Mavericks - NBA.com",
-            "description": "Facing elimination, the Mavericks' star duo of Kyrie Irving and Luka Doncic must set the tone in Game 5 of the NBA Finals presented by YouTube TV.",
-            "url": "https://www.nba.com/news/4-things-to-look-for-game-5-2024-nba-finals",
+            "author": "Barron's",
+            "title": "GameStop's Annual Meeting Set for Monday After Strong Demand Crashed LiveStream - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/gamestop-amc-stock-roaring-kitty-meme-c61e9cfa",
             "urlToImage": null,
-            "publishedAt": "2024-06-17T11:19:14Z",
-            "content": "After Dallas staves off elimination in Game 4, the series returns to Boston. Can the Mavs force another flight?\r\n Download the NBA App\r\nBOSTON — Two explanations being pushed ahead of Game 5 of the N… [+6617 chars]"
+            "publishedAt": "2024-06-17T17:55:00Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "BRIAN WITTE",
+            "title": "Maryland to issue over 175,000 pardons for marijuana convictions - The Associated Press",
+            "description": "Maryland Gov. Wes Moore has signed an executive order to issue more than 175,000 pardons for misdemeanor marijuana convictions. The governor described the pardons Monday as the “most sweeping state-level pardon in any state in American history.” The pardons w…",
+            "url": "https://apnews.com/article/marijuana-pardons-gov-wes-moore-003a11d2435eabaa060d2d26da63ce42",
+            "urlToImage": "https://dims.apnews.com/dims4/default/4bd5c39/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2F0a%2F66a7b9c6b02999ee70bea271da64%2Fcbf1fbafeec64fe68e94b8abb7a354b0",
+            "publishedAt": "2024-06-17T17:49:00Z",
+            "content": "ANNAPOLIS, Md. (AP) Maryland Gov. Wes Moore ordered more than 175,000 pardons for marijuana convictions on Monday, saying the most sweeping state-level pardon in any state will help reverse harms fro… [+4472 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
+            "title": "Mayor-elect pulled off bus and assassinated near resort city of Acapulco - CBS News",
+            "description": "Salvador Villalba Flores had decided to run for mayor after his friend, a candidate, was murdered in 2023, local media reported.",
+            "url": "https://www.cbsnews.com/news/mayor-elect-assassinated-mexico-salvador-villalba-flores-killed-near-acapulco/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/05/24/d61e9b66-e7c5-4367-b8be-0747933f51cf/thumbnail/1200x630/12e35c81f4aa6bd384d26667540f2e0f/gettyimages-2153735438.jpg?v=5842509bb796a146f9b20d3e8b03dac6",
+            "publishedAt": "2024-06-17T17:47:26Z",
+            "content": "The mayor-elect of a small municipality near the crime-plagued Mexican resort city of Acapulco was assassinated early Monday, local prosecutors said — the latest in a series of attacks targeting poli… [+2241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Kevin Dolak",
+            "title": "Armie Hammer Says He’s Now “Grateful” for Career-Upending Cannibalism, Sexual Misconduct Scandal - Hollywood Reporter",
+            "description": "The beleaguered actor, who was also accused of rape in 2021 in a case that eventually brought no charges, spoke candidly in a new interview on the 'Painful Lessons' podcast.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/armie-hammer-cannibalism-sexual-misconduct-scandal-1235924603/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/06/Armie-Hammer-Peoples-Choice-Backstage-GettyImages-1285876263-H-2024.jpg?w=1024",
+            "publishedAt": "2024-06-17T17:15:23Z",
+            "content": "Armie Hammer is speaking out about the allegations of cannibalism, sexual misconduct and an accusation of rape that upended his career three years ago, saying this weekend that he is “grateful” for t… [+5039 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "'Hard Knocks: In Season' to feature AFC North teams - NFL.com",
+            "description": "For the first time ever, HBO and NFL Films will follow all four teams in the AFC North -- Baltimore Ravens, Cincinnati Bengals, Cleveland Browns and Pittsburgh Steelers -- for their annual Hard Knocks: In Season.",
+            "url": "https://www.nfl.com/news/afc-north-to-be-featured-on-hard-knocks-in-season-2024",
+            "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/mg7ndaomh81a5a80ztof",
+            "publishedAt": "2024-06-17T17:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KXAN.com"
+            },
+            "author": "Jaclyn Ramkissoon, Christopher Adams",
+            "title": "Round Rock police identify victims killed in Old Settlers Park shooting - KXAN.com",
+            "description": "Round Rock police on Monday released the names of the two victims who were killed in a shooting Saturday night at Old Settlers Park.",
+            "url": "https://www.kxan.com/news/local/round-rock/round-rock-police-identify-victims-killed-in-old-settlers-park-shooting/",
+            "urlToImage": "https://www.kxan.com/wp-content/uploads/sites/40/2024/06/IMG_1117.jpg?w=1280",
+            "publishedAt": "2024-06-17T16:58:51Z",
+            "content": "ROUND ROCK, Texas (KXAN) Round Rock police on Monday released the names of the two people who were killed in a shooting Saturday night at Old Settlers Park. \r\nThe victims were identified as 33-year-o… [+2569 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY",
+            "title": "Taylor Swift foe Scooter Braun is no longer a music manager - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/entertainment/music/2024/06/17/scooter-braun-retire-music-manager-taylor-swift/74124350007/",
             "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "publishedAt": "2024-06-17T16:52:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Doyle Rice",
+            "title": "Tropical storm brewing as hurricane season begins - USA TODAY",
+            "description": "Two separate tropical systems are forecast to strengthen this week in what's expected to be a doozy of an Atlantic hurricane season.",
+            "url": "https://www.usatoday.com/story/news/weather/2024/06/17/tropical-weather-systems-storm-hurricane-season-alberto/74123144007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/06/17/USAT/74123428007-june-17.png?crop=898,506,x0,y0&width=898&height=506&format=pjpg&auto=webp",
+            "publishedAt": "2024-06-17T16:51:50Z",
+            "content": "The 2024 Atlantic hurricane season is heating up.\r\nTwo separate tropical systems one in the Gulf of Mexico, the other in the Atlantic Ocean are forecast to strengthen this week and each could have an… [+3150 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WDIV ClickOnDetroit"
+                "name": "Variety"
             },
-            "author": "Kayla Clarke",
-            "title": "Mass shooting at Rochester Hills splash pad: What we know about victims, shooter - WDIV ClickOnDetroit",
-            "description": "Nine people were injured when a gunman opened fire at a splash pad in Oakland County over the weekend. Here’s everything we know.",
-            "url": "https://www.clickondetroit.com/news/local/2024/06/17/mass-shooting-at-rochester-hills-splash-pad-what-we-know-about-victims-shooter/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/slnKJZABSFmAF-3RizIZ/1718621195705_1920x1080_thumbnail.jpg?_a=ATAPphC0",
-            "publishedAt": "2024-06-17T10:58:47Z",
-            "content": "ROCHESTER HILLS, Mich. Nine people were injured, including two children, when a gunman opened fire at a splash pad in Oakland County over the weekend. Heres everything we know as of Monday morning.\r\n… [+5611 chars]"
+            "author": "Rebecca Rubin",
+            "title": "Inside the Tony Awards: From Jay-Z’s Lobby Act, an Accidental F-Bomb to Overzealous Ushers, Here’s What You Didn’t See on TV - Variety",
+            "description": "Here's everything you didn't see on TV at the Tony Awards.",
+            "url": "https://variety.com/2024/legit/news/tony-awards-jay-z-f-bomb-what-you-didnt-see-on-tv-1236039864/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/06/alicia-keys.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-06-17T16:30:00Z",
+            "content": "Angelina Jolie may get the award for most enthusiastic audience member. The A-list star was seated in the front row at the Tony Awards on Sunday and jumped to her feet at every win for “The Outsiders… [+5606 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Terry Eliasen, Exec. Weather Producer",
+            "title": "Massachusetts braces for heat wave, record-setting temperatures possible in Boston - CBS Boston",
+            "description": "A heat wave is set to arrive in Massachusetts, and there is potential for this to be one of the hottest weeks in years and for several records to be shattered.",
+            "url": "https://www.cbsnews.com/boston/news/massachusetts-heat-wave-boston-weather/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/17/53d838cc-461c-469c-9207-5618a89fe89d/thumbnail/1200x630/f302181b29b1e6df27b40a875e0ac80e/wx.jpg?v=5842509bb796a146f9b20d3e8b03dac6",
+            "publishedAt": "2024-06-17T16:26:57Z",
+            "content": "BOSTON – A heat wave is set to arrive in Massachusetts, and the WBZ Weather Team has issued a NEXT Weather Alert for the entire week ahead.\r\nThere is potential for this to be one of the hottest weeks… [+3494 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "COLLIN BINKLEY, ANNIE MA",
+            "title": "Michigan, CUNY didn't suitably assess if Israel-Hamas war protests made environment hostile, US says - The Associated Press",
+            "description": "The University of Michigan and the City University of New York didn't adequately investigate complaints about antisemitic or anti-Palestinian harassment linked to campus protests over the Israel-Hamas war and other incidents. That's according to results of U.…",
+            "url": "https://apnews.com/article/campus-protests-antisemitism-islamophobia-israel-5d76f2e61ddc06d75cea680ff8939ea4",
+            "urlToImage": "https://dims.apnews.com/dims4/default/1f02b1d/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3c%2F40%2Fb6388bcd7f69bf8b18aa9fa2779c%2F24a16d8270d142bea9666a66689bc44c",
+            "publishedAt": "2024-06-17T16:23:00Z",
+            "content": "WASHINGTON (AP) The University of Michigan and the City University of New York did not adequately investigate complaints about antisemitic or anti-Palestinian harassment linked to campus protests ove… [+6872 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters.com",
+            "title": "Netanyahu disbands war cabinet as pressure grows on Israel's northern border - Reuters.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L25ldGFueWFodS1kaXNiYW5kcy1oaXMtaW5uZXItd2FyLWNhYmluZXQtaXNyYWVsaS1vZmZpY2lhbC1zYXlzLTIwMjQtMDYtMTcv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T16:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Mays won't attend Negro League tribute game - ESPN",
+            "description": "Willie Mays will not be in attendance when the San Francisco Giants face the St. Louis Cardinals at Rickwood Field on Thursday in a game honoring him and the Negro Leagues.",
+            "url": "https://www.espn.com/mlb/story/_/id/40370294/willie-mays-attend-negro-league-tribute-game-rickwood-field",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0807%2Fr1207478_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-06-17T16:06:00Z",
+            "content": "Jun 17, 2024, 12:06 PM ET\r\nBIRMINGHAM, Ala. -- Willie Mays will not be in attendance when the San Francisco Giants face the St. Louis Cardinals at Rickwood Field on Thursday in a game honoring him an… [+1458 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
+                "name": "Electrek"
             },
-            "author": "Jamie Chisholm",
-            "title": "Wall Street’s new top S&P target is 6,000. Here’s why. - MarketWatch",
-            "description": "Critical information for the U.S. trading day",
-            "url": "https://www.marketwatch.com/story/wall-streets-new-top-s-p-target-is-6-000-heres-why-1c9fb03c",
-            "urlToImage": "https://images.mktw.net/im-508862/social",
-            "publishedAt": "2024-06-17T10:33:00Z",
-            "content": "The new week starts with the S&amp;P 500 \r\n SPX\r\n looking to register its 30th record closing high of the year. And the optimistic market calls keep on coming.Standing out is Julian Emanuel, strategi… [+7710 chars]"
+            "author": "Fred Lambert",
+            "title": "Tesla asks parties in Musk compensation case to interpret shareholders' ratification - Electrek.co",
+            "description": "Tesla is asking the parties involved in Elon Musk’s CEO compensation case to interpret shareholders’ ratification last week. Following Tesla...",
+            "url": "http://electrek.co/2024/06/17/tesla-parties-musk-compensation-case-interpret-shareholders-ratification/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/06/Elon-musk-Tesla-vote.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-06-17T16:04:00Z",
+            "content": "Tesla is asking the parties involved in Elon Musk’s CEO compensation case to interpret shareholders’ ratification last week.\r\nFollowing Tesla shareholders voting again for Musk’s 2018 CEO compensatio… [+1749 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Bantock",
+            "title": "US Open: Bryson DeChambeau wins second major after Rory McIlroy’s horror late collapse - CNN",
+            "description": "American Bryson DeChambeau won his second US Open title on Sunday, edging Rory McIlroy in a nerve-shredding finale at Pinehurst No. 2 in Pinehurst, North Carolina.",
+            "url": "https://www.cnn.com/2024/06/16/sport/bryson-dechambeau-us-open-win-2024-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2157878132.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-17T15:24:00Z",
+            "content": "American Bryson DeChambeau won his second US Open title on Sunday, edging Rory McIlroy in a nerve-shredding finale at Pinehurst No. 2 in Pinehurst, North Carolina.\r\nLIV Golf star DeChambeau carded a … [+7218 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Kruzel",
+            "title": "US Supreme Court to hear Nvidia bid to scuttle shareholder lawsuit - Reuters",
+            "description": "The U.S. Supreme Court agreed on Monday to hear a bid by Nvidia to scuttle a securities fraud lawsuit accusing the artificial intelligence chipmaker of misleading investors about how much of its sales went to the volatile cryptocurrency industry.",
+            "url": "https://www.reuters.com/legal/us-supreme-court-hear-nvidia-bid-scuttle-shareholder-lawsuit-2024-06-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/WG3LJPCNVVPRPNV7OV4GSMOTCM.jpg?auth=76ef01ca018236b1c5db367bf2511bde285fb6a3e13a6230fa9ab2b928d6a01f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-06-17T14:51:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Carl Franzen",
+            "title": "Runway unveils new hyper realistic AI video model Gen-3 Alpha, capable of 10-second-long clips - VentureBeat",
+            "description": "Gen-3 Alpha allows users to generate high-quality, detailed, highly realistic video clips of 10 seconds in length.",
+            "url": "https://venturebeat.com/ai/runway-unveils-new-hyper-realistic-ai-video-model-gen-3-alpha-capable-of-10-second-long-clips/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/06/runway-gen-3-monster.png?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-06-17T14:15:45Z",
+            "content": "It's time to celebrate the incredible women leading the way in AI! Nominate your inspiring leaders for VentureBeats Women in AI Awards today before June 18. Learn More\r\nNew York City-based Runway ML,… [+1437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Tony Kurzweil, Annie Rose Ramos",
+            "title": "Gusty winds to drive 14625 acre Post Fire burning in Gorman Monday - KTLA Los Angeles",
+            "description": "Strong winds and hot temperatures on Monday are expected to hinder efforts to contain a brush fire that has burned more than 15,000 acres in Los Angeles and Ventura counties. The wildfire, dubbed the “Post Fire,” erupted near Gorman, just south of Lebec, shor…",
+            "url": "https://ktla.com/news/local-news/gusty-winds-to-drive-14625-acre-post-fire-burning-in-gorman-monday/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/06/fire_b027c4.jpg?w=1280",
+            "publishedAt": "2024-06-17T13:25:07Z",
+            "content": "Strong winds and hot temperatures on Monday are expected to hinder efforts to contain a brush fire that has burned more than 15,000 acres in Los Angeles and Ventura counties.\r\nThe wildfire, dubbed th… [+1495 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Don't Miss the Strawberry Moon in June's Night Sky! - SciTechDaily",
+            "description": "The Next Full Moon is the Strawberry Moon; the Flower, Hot, Hoe, or Planting Moon; the Mead or Honey Moon; the Rose Moon; Vat Purnima; Poson Poya; and the LRO Moon. On June 21, 2024, the full \"Strawberry Moon\" will be visible, marked by various cultural celeb…",
+            "url": "https://scitechdaily.com/dont-miss-the-strawberry-moon-in-junes-night-sky/",
+            "urlToImage": "https://scitechdaily.com/images/Full-Strawberry-Moon-Illustration.jpg",
+            "publishedAt": "2024-06-17T13:23:50Z",
+            "content": "The name “Strawberry Moon” isn’t from the color of the Moon, despite what you see in this artist’s illustration. It comes from the Algonquin tribes of North America, marking the time of year when wil… [+20694 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Roger Simmons, Orlando Sentinel",
+            "title": "NASA again delays Boeing Starliner's return home - Phys.org",
+            "description": "NASA said June 14 that the Boeing Starliner and its crew will now return to Earth from the International Space Station no earlier than Saturday, June 22.",
+            "url": "https://phys.org/news/2024-06-nasa-delays-boeing-starliner-home.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/international-space-st.jpg",
+            "publishedAt": "2024-06-17T13:23:47Z",
+            "content": "NASA said June 14 that the Boeing Starliner and its crew will now return to Earth from the International Space Station no earlier than Saturday, June 22.\r\n\"The extra time allows the team to finalize … [+2460 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "POLITICO",
+            "title": "Who's on Trump's VP list? How each pick could help — or hurt his campaign - POLITICO - POLITICO",
+            "description": null,
+            "url": "https://www.politico.com/news/2024/06/17/trump-vp-pick-list-pros-cons-00162820",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T13:03:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Adidas Probes Allegations of Corruption in China - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/business/retail/adidas-investigates-allegations-of-bribery-in-china-b14f6649",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T12:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JON GAMBRELL",
+            "title": "US aircraft carrier counters false Houthi claims with 'Taco Tuesdays' as deployment stretches on - The Associated Press",
+            "description": "The USS Dwight D. Eisenhower may be one of the oldest aircraft carriers in the U.S. Navy, but it’s still fighting — despite repeated false claims by Yemen’s Houthi rebels. The Houthis and online accounts supporting them repeatedly have alleged they hit or eve…",
+            "url": "https://apnews.com/article/uss-eisenhower-yemen-houthis-red-sea-5dc09566c116913ed316eff87f3eff82",
+            "urlToImage": "https://dims.apnews.com/dims4/default/10c5119/2147483647/strip/true/crop/7263x4085+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F12%2F5c%2F503fdb94bfb0a14e3da3c4aa4167%2Fd2d595dc698741949dac8ec4ed491d1e",
+            "publishedAt": "2024-06-17T12:03:00Z",
+            "content": "ABOARD THE USS DWIGHT D. EISENHOWER IN THE RED SEA (AP) The USS Dwight D. Eisenhower may be one of the oldest aircraft carriers in the U.S. Navy, but its still fighting despite repeated false claims … [+5582 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "Apple Touts AI Intelligence, Inks ChatGPT Deal While Elon Musk Pouts - CNET",
+            "description": "Get up to speed on the rapidly evolving world of AI with our roundup of the week's developments.",
+            "url": "https://www.cnet.com/tech/computing/apple-touts-ai-intelligence-inks-chatgpt-deal-while-elon-musk-pouts/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/23d7ec73897ac924d431862a381b524beb6c0013/hub/2024/06/14/ec70ed7b-b54c-4ad9-8ecd-0da7cd87a626/gettyimages-1423892490.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-06-17T12:00:00Z",
+            "content": "After months of speculation, Apple did what we all thought it was going to do at its annual developers' conference last week, when it announced a sweeping set of generative AI tools and functionality… [+16779 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Fred Schwaller",
+            "title": "How to see the 2024 nova explosion without a telescope – DW – 06/17/2024 - DW (English)",
+            "description": "Gearing up to witness the nova explosion of T Coronae Borealis this September? It promises to be a once-in-a-lifetime astronomical event.",
+            "url": "https://www.dw.com/en/how-to-see-the-2024-nova-explosion-without-a-telescope/a-69386255",
+            "urlToImage": "https://static.dw.com/image/69386336_6.jpg",
+            "publishedAt": "2024-06-17T11:38:15Z",
+            "content": "It's not often that a dark spot in space illuminates our planet, but that is exactly what professional and amateur astronomers expect to happen in September when a once-in-a-lifetime nova explosion 3… [+4103 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Ryan Dinsdale",
+            "title": "FromSoftware Asks Elden Ring Players Not to Spoil Shadow of the Erdtree as DLC Details Leak Online - IGN",
+            "description": "Elden Ring developer FromSoftware has asked fans to be mindful of Shadow of the Erdtree spoilers after details of the expansion leaked online.",
+            "url": "https://www.ign.com/articles/fromsoftware-asks-elden-ring-players-not-to-spoil-shadow-of-the-erdtree-as-dlc-details-leak-online",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/03/02/eldenringtwitch-1646228417694.jpg?width=1280",
+            "publishedAt": "2024-06-17T10:35:27Z",
+            "content": "Elden Ring developer FromSoftware has asked fans to be mindful of Shadow of the Erdtree spoilers after details of the expansion leaked online.\r\nIn a post on X/Twitter, FromSoftware asked fans not to … [+2081 chars]"
         },
         {
             "source": {
@@ -122,80 +382,28 @@
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "Forbes"
             },
-            "author": null,
-            "title": "Stanford Identifies 6 Types of Depression: Could a Brain Scan Reveal the Best Treatment for You? - SciTechDaily",
-            "description": "A Stanford Medicine study reveals six subtypes of depression, identified through brain imaging and machine learning. These subtypes exhibit unique brain activity patterns, helping predict which patients will benefit from specific antidepressants or behavioral…",
-            "url": "https://scitechdaily.com/stanford-identifies-6-types-of-depression-could-a-brain-scan-reveal-the-best-treatment-for-you/",
-            "urlToImage": "https://scitechdaily.com/images/Types-of-Depression-Art-Concept.jpg",
-            "publishedAt": "2024-06-17T09:00:47Z",
-            "content": "Researchers at Stanford Medicine have identified six biological subtypes of depression using brain imaging and machine learning, paving the way for precision psychiatry. Results indicate that certain… [+8873 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "CBS News",
-            "title": "Jetliner diverts, lands in New Zealand after fire shuts down engine - CBS News",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvamV0bGluZXItZW5naW5lLWZpcmUtbmV3LXplYWxhbmQtdmlyZ2luLWF1c3RyYWxpYS1ib2VpbmctNzM3L9IBXmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2pldGxpbmVyLWVuZ2luZS1maXJlLW5ldy16ZWFsYW5kLXZpcmdpbi1hdXN0cmFsaWEtYm9laW5nLTczNy8?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-17T08:49:40Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Shares stable, euro downtrodden as political turmoil saps market mood - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-06-17/",
-            "urlToImage": null,
-            "publishedAt": "2024-06-17T08:43:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Forbes",
+            "author": "Siladitya Ray",
             "title": "China's Nuclear Weapon Stockpile Grew Rapidly Last Year, Report Says - Forbes",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3NpbGFkaXR5YXJheS8yMDI0LzA2LzE3L2NoaW5hcy1udWNsZWFyLXdlYXBvbi1zdG9ja3BpbGUtaXMtZ3Jvd2luZy1mYXN0ZXItdGhhbi1hbnktb3RoZXItY291bnRyeS1yZXBvcnQtc2F5cy_SAQA?oc=5",
-            "urlToImage": null,
+            "description": "China may be capable of fielding the same number of long-range nuclear-tipped ballistic missiles as Russia and the U.S. by the end of the decade.",
+            "url": "https://www.forbes.com/sites/siladityaray/2024/06/17/chinas-nuclear-weapon-stockpile-is-growing-faster-than-any-other-country-report-says/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666fe579a721ee7af1b4b67e/0x0.jpg?format=jpg&crop=3000,1688,x0,y68,safe&height=900&width=1600&fit=bounds",
             "publishedAt": "2024-06-17T08:35:42Z",
-            "content": null
+            "content": "Chinas nuclear arsenal grew significantly in 2023 and the country may be able to deploy the same number of intercontinental ballistic missiles as the U.S. and Russia by the end of the decade, accordi… [+2150 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
+                "name": "Daily Beast"
             },
-            "author": "Tim Hardwick",
-            "title": "Kuo: Apple Watch Series 10 to Get Larger Screen and Thinner Design - MacRumors",
-            "description": "This year's Apple Watch Series 10 will be thinner and come in larger screen sizes than previous models, according to Apple analyst Ming-Chi Kuo. ...",
-            "url": "https://www.macrumors.com/2024/06/17/kuo-apple-watch-series-10-larger-screen-thinner/",
-            "urlToImage": "https://images.macrumors.com/t/pVBvl-VPaeZH8xg2tqA-k2Lsl-w=/1960x/article-new/2023/08/apple-watch-series-9-display.jpeg",
-            "publishedAt": "2024-06-17T08:20:07Z",
-            "content": "This year's Apple Watch Series 10 will be thinner and come in larger screen sizes than previous models, according to Apple analyst Ming-Chi Kuo.\r\nIn his latest industry note shared on Medium, Kuo sai… [+1081 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "NINIEK KARMINI",
-            "title": "Muslims in Asia celebrate Eid al-Adha with sacrifice festival and traditional feast - The Associated Press",
-            "description": "Muslims in Asia are celebrating Eid al-Adha, or the Feast of Sacrifice, one of the biggest holidays in the Islamic calendar. The occasion commemorates Prophet Ibrahim’s test of faith through slaughtering livestock and animals and distributing the meat to the …",
-            "url": "https://apnews.com/article/asia-indonesia-eid-al-adha-celebration-sacrifice-3c357a46b0329e794bbefe51fe83242c",
-            "urlToImage": "https://dims.apnews.com/dims4/default/8111350/2147483647/strip/true/crop/8312x4676+0+433/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb3%2F17%2F9df26498705a6da5c55701a9ec21%2Fc9d27348afe0403faa87650fd149f81f",
-            "publishedAt": "2024-06-17T07:26:00Z",
-            "content": "JAKARTA, Indonesia (AP) Muslims in Asia on Monday celebrated Eid al-Adha, or the Feast of Sacrifice, with food and prayers for people in Gaza suffering from the Israel-Hamas war.\r\nOne of the biggest … [+5532 chars]"
+            "author": "Laura Bradley",
+            "title": "'House of the Dragon' Kicks Off Season 2 with a Gruesome Kill - The Daily Beast",
+            "description": "The families are feuding, dragons are tearing through the sky, and heirs are dropping like flies. We are so back, baby!",
+            "url": "https://www.thedailybeast.com/obsessed/house-of-the-dragon-kicks-off-season-2-with-a-gruesome-kill",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1718576052/240616-house-dragons-ep1-tease_kjgk8o",
+            "publishedAt": "2024-06-17T07:34:58Z",
+            "content": "Warning: This post contains spoilers for the House of the DragonSeason 2 premiere.\r\nIts been nearly two years since House of the Dragon flew onto HBO and introduced us to dozens of blond characters w… [+3323 chars]"
         },
         {
             "source": {
@@ -213,184 +421,28 @@
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "[Removed]"
             },
-            "author": "Carly Cassella",
-            "title": "Voyager 1 Is Back! Legendary Probe Makes Contact From Interstellar Space - ScienceAlert",
-            "description": "A friendly voice we've been longing to hear is drifting back to us from interstellar space, 24 billion kilometers away (15 billion miles).",
-            "url": "https://www.sciencealert.com/voyager-1-is-back-legendary-probe-makes-contact-from-interstellar-space",
-            "urlToImage": "https://www.sciencealert.com/images/2024/06/VoyagerProbeInterstellar.jpg",
-            "publishedAt": "2024-06-17T07:03:16Z",
-            "content": "A friendly voice we've been longing to hear is drifting back to us from interstellar space, 24 billion kilometers away (15 billion miles).\r\nVoyager 1 the most distant human-made object to Earth is, o… [+4133 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "USA TODAY",
-            "title": "Tony Awards 2024: Alicia Keys brings out Jay-Z, Stereophonic wins big - USA TODAY",
-            "description": null,
-            "url": "https://www.usatoday.com/story/entertainment/music/2024/06/17/tony-awards-2024-highlights/74046073007/",
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2024-06-17T06:00:00Z",
-            "content": null
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": null,
-            "title": "Ukraine summit: A path to peace? - BBC.com",
-            "description": "Ukraine aimed to seize the initiative through diplomacy - with some success, says the BBC's Sarah Rainsford.",
-            "url": "https://www.bbc.com/news/articles/c1wwy6g9qgjo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8b21/live/c4cfe950-2c5f-11ef-a7c2-a5d0956ae6dc.jpg",
-            "publishedAt": "2024-06-17T05:52:27Z",
-            "content": "By Sarah Rainsford, Eastern Europe correspondent\r\nFor two days the whir of propellers broke the peace of a Swiss mountainside, all in the cause of peace in Ukraine.\r\nThe helicopters were carrying wor… [+4613 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Mary Gilbert, Elizabeth Wolfe",
-            "title": "Oppressive heat wave will broil huge swaths of the East with record-breaking temperatures this week - CNN",
-            "description": "A long-lasting and expansive heat wave is set to grip the Midwest and Northeast with record-breaking high temperatures this week, ushering in the start of summer with this year’s most significant heat event yet.",
-            "url": "https://www.cnn.com/2024/06/17/weather/heat-wave-east-us-climate-monday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24164857882182.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-06-17T05:00:00Z",
-            "content": "A long-lasting and expansive heat wave is set to grip the Midwest and Northeast with record-breaking high temperatures through next week, ushering in the start of summer with this years most signific… [+3180 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Disney and Pixar's Inside Out 2 makes record opening weekend - BBC.com",
-            "description": "It marks a big win for cinemas, which have seen lacklustre takings for some major new movies this year.",
-            "url": "https://www.bbc.com/news/articles/cd114gg38xpo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1ca8/live/6d54c370-2c42-11ef-8aae-7d5a09fbb416.jpg",
-            "publishedAt": "2024-06-17T03:43:39Z",
-            "content": "By João da Silva, Business reporter\r\nPixar's Inside Out 2 has broken box office records over the weekend as it brought in an estimated $295m (£232.6m) around the world.\r\nThat makes it the strongest g… [+1635 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Christian Arnold",
-            "title": "Islanders co-owner Jon Ledecky nearly hit with ball after Angel Reese's flagrant on Caitlin Clark - New York Post ",
-            "description": "You can put this in the category of, you couldn’t make this up if you tried.",
-            "url": "https://nypost.com/2024/06/16/sports/islanders-jon-ledecky-nearly-hit-with-ball-after-angel-reeses-caitlin-clark-foul/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/newspress-collage-z0dmmobqz-1718589492464.jpg?quality=75&strip=all&1718575161&w=1024",
-            "publishedAt": "2024-06-17T02:40:00Z",
-            "content": "You can put this in the category of, you couldnt make this up if you tried. \r\nWhen Caitlin Clark went up for a layup and was fouled by Angel Reese on Sunday during a game between the Fever and Sky, t… [+2245 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Post Magazine"
-            },
-            "author": null,
-            "title": "China's property fall overshadows spending rebound in May, challenging Beijing's economic targets - South China Morning Post",
-            "description": "The worrisome property-investment decline reached double-digits in May, but consumers in China opened their wallets a bit more, year on year.",
-            "url": "https://www.scmp.com/economy/economic-indicators/article/3266847/chinas-property-fall-outshines-spending-rebound-may-challenging-beijing-economic-targets",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/06/17/20bd9913-638b-4bb3-a25a-98739b730fce_7ab02b47.jpg?itok=X9TGNjtt&v=1718589605",
-            "publishedAt": "2024-06-17T02:00:09Z",
-            "content": "Property investment fell by 10.1 per cent, year on year, in the first five months of 2024, worsening from a 9.8 per cent drop from January through April and a 9.5 per cent drop in the first quarter.\r… [+4569 chars]"
-        },
-        {
-            "source": {
-                "id": "entertainment-weekly",
-                "name": "Entertainment Weekly"
-            },
-            "author": "https://www.facebook.com/entertainmentweekly",
-            "title": "Inside House of the Dragon's Blood and Cheese scene (exclusive) - Entertainment Weekly News",
-            "description": "The actors behind Blood and Cheese on 'House of the Dragon' season 2 exclusively break their silence on their secret roles and the hard-to-watch scene they shot for the premiere.",
-            "url": "https://ew.com/blood-cheese-house-of-the-dragon-season-2-book-changes-explained-exclusive-8663564",
-            "urlToImage": "https://ew.com/thmb/HUeT6-BKaSSlhvFbTV-3SEWbnyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/house-of-the-dragon-season-2-061424-2-5462256f63e04417adf784cdc99f2b2a.jpg",
-            "publishedAt": "2024-06-17T02:00:00Z",
-            "content": "Warning: This article contains major spoilers from the House of the Dragon season 2 premiere, \"A Son for a Son.\"\r\n For more than a year, actors Sam C. Wilson and Mark Stobbart couldn't tell anyone th… [+8691 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wink News"
-            },
-            "author": "Matias Abril",
-            "title": "Rare tropical system could form off Florida's Atlantic coast - Wink News",
-            "description": "According to the National Hurricane Center, there is a low chance of development of a tropical system near the Bahamas.",
-            "url": "http://winknews.com/2024/06/16/rare-tropical-system-could-form-off-floridas-atlantic-coast/",
-            "urlToImage": "https://winknews.com/wp-content/uploads/2024/06/Tropical-Weather-Outlook-KML.png",
-            "publishedAt": "2024-06-17T01:00:56Z",
-            "content": "Tropical activity this hurricane season is forecast to be well above average, and we’ve already experienced plenty of tropical moisture \r\nBut it’s unusual for a June storm to develop in the Atlantic … [+1158 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "pymnts.com"
-            },
-            "author": "PYMNTS",
-            "title": "Apple's AI Rollout Will Likely Stretch Into Next Year - PYMNTS.com",
-            "description": "Apple’s AI rollout will reportedly be a long, slow one. Apple Intelligence won’t become available for developers until late in the summer.",
-            "url": "https://www.pymnts.com/artificial-intelligence-2/2024/apples-ai-rollout-will-likely-stretch-into-next-year/",
-            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/06/Apple-Intelligence-1-1.jpg",
-            "publishedAt": "2024-06-17T00:54:36Z",
-            "content": "Apples artificial intelligence (AI) rollout will reportedly be a long, slow one.\r\nAs Bloomberg News reported Sunday (June 16), Apple Intelligence, which the tech giant announced last week, wont becom… [+2412 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "San Francisco Chronicle"
-            },
-            "author": "David Hernandez, Warren Pederson",
-            "title": "Hundreds of Stanford graduates walk out of commencement to join pro-Palestinian ceremony - San Francisco Chronicle",
-            "description": "About 500 graduates walked out of the ceremony to join a “People’s Commencement” in support of Palestinians affected by the Israel-Hamas war.",
-            "url": "https://www.sfchronicle.com/bayarea/article/stanford-graduation-19513365.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/40/15/12/25219723/3/rawImage.jpg",
-            "publishedAt": "2024-06-16T21:01:18Z",
-            "content": "A pro-Palestinian student enters Stanford Stadium for the schools annual commencement Sunday.\r\nThien-An Truong/Special to the Chronicle\r\nGraduating students enter Stanford Stadium in a Wacky Walk bef… [+8945 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "USA TODAY",
-            "title": "US to get blistering heat, snow and unseasonably cold weather - USA TODAY",
-            "description": null,
-            "url": "https://www.usatoday.com/story/news/nation/2024/06/16/weather-extremes-heat-snow/74116920007/",
-            "urlToImage": null,
-            "publishedAt": "2024-06-16T17:29:41Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Earth.com"
-            },
-            "author": null,
-            "title": "Nova explosion of nearby star will soon light up Earth's skies - Earth.com",
-            "description": "T Coronae Borealis is expected to explode as early as September 2024, offering a spectacular sight for stargazers worldwide.",
-            "url": "https://www.earth.com/news/t-coronae-borealis-nova-explosion-nearby-star-light-up-earths-skies/",
-            "urlToImage": "https://cff2.earth.com/uploads/2024/06/15183551/nova-explosion_T-Coronae-Borealis_light-up-earth-skies_1m.jpg",
-            "publishedAt": "2024-06-16T00:49:55Z",
-            "content": "The vast expanse of the night sky, a canvas dotted with countless stars, is about to unveil a rare and spectacular phenomenon. Brace yourself for a stellar light show as T Coronae Borealis, a seeming… [+4831 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Starliner's Return Delayed Again: What's Next for the Spacecraft? - SciTechDaily",
-            "description": "NASA and Boeing have postponed the return of the Starliner crew from the ISS to June 22, allowing more time for departure preparations. Meanwhile, extensive testing on Starliner's capabilities continues, including a 'hot fire test' of its thrusters. NASA and …",
-            "url": "https://scitechdaily.com/starliners-return-delayed-again-whats-next-for-the-spacecraft/",
-            "urlToImage": "https://scitechdaily.com/images/Boeings-CST-100-Starliner-Crew-Ship-Approaches-International-Space-Station-scaled.jpg",
-            "publishedAt": "2024-06-15T17:57:35Z",
-            "content": "Boeing’s CST-100 Starliner crew ship approaches the International Space Station on May 20, 2022, on the company’s Orbital Flight Test-2 mission before automatically docking to the Harmony module’s fo… [+4038 chars]"
+            "author": "Angelica Stabile",
+            "title": "Does sunscreen cause skin cancer? Doctors debunk claims gone wild on social media - Fox News",
+            "description": "Claims on social media have spread the misconception that sunscreen could cause skin cancer. Experts debunk the myths and share the healthiest way to protect your skin.",
+            "url": "https://www.foxnews.com/health/does-sunscreen-cause-skin-cancer-doctors-debunk-claims-social-media",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/iStock-1311504201.jpg",
+            "publishedAt": "2024-06-13T22:27:00Z",
+            "content": "Some claims on social media about sun safety have grown into a major misconception that sunscreen could cause skin cancer.\r\nHundreds of creators, many on TikTok, have posted videos arguing that the s… [+5643 chars]"
         }
     ]
 }

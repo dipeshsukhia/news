@@ -1,84 +1,253 @@
 {
     "status": "ok",
-    "totalResults": 66,
+    "totalResults": 62,
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Barron's",
-            "title": "Musk Updated xAI Supercomputer Details. Super Micro, These Stocks Are Jumping. - Barron's",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL2RlbGwtc3VwZXJtaWNyby1udmlkaWEtZWxvbi1tdXNrLXhhaS1zdG9ja3MtNmU4MDg0MjbSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-20T15:38:00Z",
-            "content": null
+            "author": "Emily Shapiro, Ivan Pereira",
+            "title": "Amtrak service suspended between Philadelphia and Connecticut - ABC News",
+            "description": "Significant delays are still expected into the evening, Amtrak said.",
+            "url": "https://abcnews.go.com/US/amtrak-service-suspended-philadelphia-connecticut/story?id=111290091",
+            "urlToImage": "https://i.abcnewsfe.com/a/a272fedd-59e6-471b-9fbf-555a91f1c33e/amtrak-train-gty-jef-240620_1718913311593_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-06-20T20:15:00Z",
+            "content": "Amtrak service between Philadelphia and New Haven, Connecticut, resumed on Thursday evening after train service was suspended for over two hours as crews worked to restore power in the New York area,… [+1316 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "Kate Gibson",
-            "title": "Walmart is shifting to digital price tags across the chain's 2,300 stores. Here's why. - CBS News",
-            "description": "The nation's biggest retailer says it's replacing price stickers with electronic labels to increase productivity.",
-            "url": "https://www.cbsnews.com/news/walmart-digital-price-tags-stores/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/20/ba728969-682c-473d-9a75-c5679b24c37f/thumbnail/1200x630/e0717905b9aad07818f97008f0104b59/digital-shelf-label-rollback.jpg?v=5842509bb796a146f9b20d3e8b03dac6",
-            "publishedAt": "2024-06-20T15:37:32Z",
-            "content": "Walmart shoppers will soon be checking prices on electronic shelf labels, with the nation's largest retailer saying it will shift to digital price tag technology from its current paper stickers throu… [+1567 chars]"
+            "author": "Eric Geller",
+            "title": "US Bans Kaspersky Software - WIRED",
+            "description": "Using a Trump-era authority, the US Commerce Department has banned the sale of Kaspersky’s antivirus tools to new customers in the US, citing alleged threats to national security.",
+            "url": "https://www.wired.com/story/us-bans-kaspersky-software/",
+            "urlToImage": "https://media.wired.com/photos/667465d2b3e085616c83f904/191:100/w_1280,c_limit/GettyImages-1152546859.jpg",
+            "publishedAt": "2024-06-20T20:15:00Z",
+            "content": "The Russian cybersecurity software firm Kasperskys days of operating in the United States are now officially numbered.\r\nThe Biden administration on Thursday said its banning the company from selling … [+3337 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Emma Roth",
-            "title": "Amazon is getting rid of plastic air pillows in North America - The Verge",
-            "description": "Amazon plans to fully replace plastic air pillows in delivery packaging with recyclable paper filler in North America by the end of 2024.",
-            "url": "https://www.theverge.com/2024/6/20/24182372/amazon-replace-plastic-air-pillows-paper-filler-north-america",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/tsenJrzdtDPmCs_e10Jb96b3Jxc=/0x0:1280x720/1200x628/filters:focal(640x360:641x361)/cdn.vox-cdn.com/uploads/chorus_asset/file/25499116/amazon_paper_packaging.jpg",
-            "publishedAt": "2024-06-20T15:26:57Z",
-            "content": "Amazon is getting rid of plastic air pillows in North America\r\nAmazon is getting rid of plastic air pillows in North America\r\n / The e-commerce giant says it has already replaced 95 percent of plasti… [+1953 chars]"
+            "author": "Peter Valdes-Dapena",
+            "title": "Bugatti’s new car is a $4 million, 1,800 horsepower hybrid - CNN",
+            "description": "Bugatti has unveiled its new model, the Bugatti Tourbillon, a massively powerful hybrid with an equally impressive price tag. The car will replace the $3.3 million, 1,500 horsepower Bugatti Chiron.",
+            "url": "https://www.cnn.com/2024/06/20/cars/bugatti-horsepower-hybrid/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/embargo-bugatti-world-premiere-presskit-images-27.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-20T20:15:00Z",
+            "content": "Bugatti has unveiled its new model, the Bugatti Tourbillon, a massively powerful hybrid with an equally impressive price tag. The car will replace the $3.3 million, 1,500 horsepower Bugatti Chiron.\r\n… [+3138 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
-            "author": "CNBC",
-            "title": "Fast-food customers are shifting to casual-dining chains, Darden Restaurants CEO says - CNBC",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMjAvaW5mbGF0aW9uLWZhc3QtZm9vZC1kaW5lcnMtc3dpdGNoLXRvLWNhc3VhbC1jaGFpbnMtZGFyZGVuLWNlby1zYXlzLmh0bWzSAWtodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wNi8yMC9pbmZsYXRpb24tZmFzdC1mb29kLWRpbmVycy1zd2l0Y2gtdG8tY2FzdWFsLWNoYWlucy1kYXJkZW4tY2VvLXNheXMuaHRtbA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-20T15:03:33Z",
-            "content": null
+            "author": "Brett LoGiurato",
+            "title": "Stock market today: S&P 500, Nasdaq slip from records as Nvidia dips - Yahoo Finance",
+            "description": "Nvidia's record-breaking surge, which catapulted it to the title of world's most valuable public company, was set to continue.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slip-from-records-as-nvidia-dips-200047375.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6aW2RbYoBpp1_BMjFxii9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/b0d7c640-2dbb-11ef-bfed-e12f60b640db",
+            "publishedAt": "2024-06-20T20:09:24Z",
+            "content": "Two of the major stock indexes declined on Thursday after touching record highs earlier in the session. Nvidia's (NVDA) record-breaking surge which catapulted it to the title of world's most valuable… [+9027 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "Investor's Business Daily"
             },
-            "author": "The Wall Street Journal",
-            "title": "Essay | The Bar-Code Revolution in Retail - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/business/retail/the-bar-code-revolution-in-retail-2ad4969a",
-            "urlToImage": null,
-            "publishedAt": "2024-06-20T15:00:00Z",
-            "content": null
+            "author": "Investor's Business Daily",
+            "title": "Nvidia, AI-Focused Semiconductor Stocks Retreat From Record Highs - Investor's Business Daily",
+            "description": "Investors showed signs of altitude sickness on Thursday as they sold off highflying Nvidia stock and other AI semiconductor stocks.",
+            "url": "https://www.investors.com/news/technology/nvidia-stock-ai-chip-stocks-retreat-from-record-highs/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/02/Stock-Nvidia-devbox-02-company.jpg",
+            "publishedAt": "2024-06-20T18:52:00Z",
+            "content": "Investors showed signs of altitude sickness on Thursday as they sold off highflying Nvidia (NVDA) stock and other semiconductor stocks with exposure to the artificial intelligence trend.\r\nXData cente… [+2891 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Sheetz",
+            "title": "SpaceX unveils backpack-sized 'Starlink Mini' satellite internet antenna for $599 - CNBC",
+            "description": "SpaceX is rolling out a compact version of its satellite internet antennas called \"Starlink Mini.\"",
+            "url": "https://www.cnbc.com/2024/06/20/spacex-unveils-starlink-mini-satellite-internet-antenna-for-599.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107431337-1718905969844-starlink_mini_email_1.JPG?v=1718906132&w=1920&h=1080",
+            "publishedAt": "2024-06-20T18:38:12Z",
+            "content": "SpaceX is rolling out a compact version of its Starlink antennas, which the company is advertising as a mobile option for its satellite internet customers.\r\n\"Starlink Mini is a compact, portable kit … [+2436 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Fox Business"
             },
-            "author": "Aislinn Murphy",
-            "title": "Auto dealers face software outage after provider hit by cyber incidents - Fox Business",
-            "description": "The incident marks the second time that CDK Global has disclosed an issue this week. The first, reported Wednesday, also prompted the company to temporarily take systems offline.",
-            "url": "https://www.foxbusiness.com/markets/auto-dealers-face-software-outage-after-provider-hit-cyber-incidents",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/Rental-cars-iStock.jpg?ve=1&tl=1",
-            "publishedAt": "2024-06-20T14:59:00Z",
-            "content": "CDK Global, a company that provides software to auto dealerships, fell victim to a second cyber incident in as many days, leading to outages nationwide.\r\nThe company informed dealers that it is \"once… [+1615 chars]"
+            "author": "Ashley DiMella",
+            "title": "Limited Too, early 2000s mall favorite of preteens, teases a comeback - Fox Business",
+            "description": "Limited Too, the early 2000s retailer, is teasing former preteen fans with a relaunch slated for July, according a post on the brand's new Instagram account.",
+            "url": "https://www.foxbusiness.com/lifestyle/limited-too-early-2000s-mall-favorite-preteens-teases-comeback",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/limited-too.png?ve=1&tl=1",
+            "publishedAt": "2024-06-20T18:38:00Z",
+            "content": "Limited Too, a tween clothing retailer known for its bright, funky style, has reemerged on social media with an announcement of a comeback.\r\nIn a series of Instagram posts tied to the brand, photos o… [+3022 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Mary Schlangenstein, Allyson Versprille",
+            "title": "United Airlines Plane Turns Back After Engine Piece Falls Off - Bloomberg",
+            "description": "A United Airlines Holdings Inc. plane returned to a Connecticut airport after losing part of a liner from inside the engine’s cover, another incident for a carrier already under scrutiny over a series of flight mishaps this year.",
+            "url": "https://www.bloomberg.com/news/articles/2024-06-20/united-airlines-plane-turns-back-after-engine-piece-falls-off",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikj50GI8SM4M/v1/1200x790.jpg",
+            "publishedAt": "2024-06-20T17:02:09Z",
+            "content": "A United Airlines Holdings Inc. plane returned to a Connecticut airport after losing part of a liner from inside the engines cover, another incident for a carrier already under scrutiny over a series… [+255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Ty Roush",
+            "title": "Trump's Net Worth Drops About $475 Million As Media Shares Fall - Forbes",
+            "description": "The former president’s stake has lost over $2 billion in value so far this month.",
+            "url": "https://www.forbes.com/sites/tylerroush/2024/06/20/donald-trumps-net-worth-falls-further-over-2-billion-this-month-as-shares-decline/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65d8ed76ee4a7b197862f586/0x0.jpg?format=jpg&crop=2357,1325,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-06-20T16:56:50Z",
+            "content": "Former President Donald Trumps net worth dropped about $475 million on Thursday as shares of Trump Media continue to slide, which has decreased the value of his stake in the social media company by m… [+2068 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Elissa Robinson",
+            "title": "The most popular AC thermostat setting in Michigan? 72 degrees. - Detroit Free Press",
+            "description": "A new poll of Detroit Free Press readers reveals a mixed bag of responses when it comes to what the ideal thermostat temperature is in the summer.",
+            "url": "https://www.freep.com/story/news/local/michigan/2024/06/20/ac-air-conditioning-thermostat-temperature-michigan/74147818007/",
+            "urlToImage": "https://www.freep.com/gcdn/authoring/2016/01/08/NPPP/ghows-LK-2073fc70-270e-4225-86f6-610499c5cade-0651d53b.jpeg?crop=746,421,x0,y0&width=746&height=421&format=pjpg&auto=webp",
+            "publishedAt": "2024-06-20T16:42:37Z",
+            "content": "We're officially in the trenches of summer, and as Michigan grapples with near-record temperatures and brutal humidity, we're all looking for ways to beat the heat.\r\nThe most obvious solution, of cou… [+2779 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Turn to 10"
+            },
+            "author": "NBC 10 NEWS",
+            "title": "Lifespan changes name to Brown University Health as it strengthens bond with university - Turn to 10",
+            "description": "Lifespan and Brown University are expected to make a major healthcare announcement on Thursday.",
+            "url": "https://turnto10.com/news/local/lifespan-and-brown-university-to-make-major-announcement-patient-care-and-research-in-rhode-island-june-20-2024",
+            "urlToImage": "https://turnto10.com/resources/media/6acef87d-20e7-4b12-9b51-d7a1891ae607-large16x9_RIHNURSECRITICALCONDITION.transfer_frame_8.jpeg",
+            "publishedAt": "2024-06-20T16:41:15Z",
+            "content": "(WJAR) Lifespan and Brown University will make a major healthcare announcement on Thursday.\r\nThe two organizations will discuss their plans at a morning briefing.\r\nIn a joint release, the organizatio… [+271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "DAVID KOENIG",
+            "title": "American Airlines CEO says the removal of several Black passengers from a flight was 'unacceptable' - Yahoo! Voices",
+            "description": "American Airlines put an unspecified number of employees on leave for their involvement in an incident in which several Black passengers were removed from a ...",
+            "url": "https://www.yahoo.com/news/american-airlines-ceo-says-removal-162504120.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZZIp_fOd6C9tJSZthDt9LQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/140b3d989c2610428cec0e04982b0ab4",
+            "publishedAt": "2024-06-20T16:25:04Z",
+            "content": "DALLAS (AP) American Airlines put an unspecified number of employees on leave for their involvement in an incident in which several Black passengers were removed from a flight in Phoenix, allegedly o… [+2272 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Nitish Pahwa",
+            "title": "Adobe lawsuit: The FTC sues Adobe for making it hard to cancel subscriptions. - Slate",
+            "description": "The software company has drawn the ire of the FTC—and their own employees—due to their dubious business practices.",
+            "url": "https://slate.com/technology/2024/06/adobe-ftc-lawsuit-hard-cancel-subscriptions-ai.html",
+            "urlToImage": "https://compote.slate.com/images/fad0b604-7566-4ee5-af82-e20f376e1cd0.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2024-06-20T16:14:00Z",
+            "content": "If you tilted your ears in a certain direction on Monday, you could make out a resounding cheer from the creative class across social media platforms and various Discord servers. Thats because the Fe… [+7610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Mortgage rates decline for third straight week - Fox Business",
+            "description": "Mortgage rates have fallen for the third consecutive week according to the latest Freddie Mac data, which showed rates for the 30-year fixed-rate note remain in the high six-percent range.",
+            "url": "https://www.foxbusiness.com/economy/mortgage-rates-june-20-2024",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/home-sale-6.jpg?ve=1&tl=1",
+            "publishedAt": "2024-06-20T16:06:00Z",
+            "content": "Mortgage rates are down for the third straight week, remaining in the high-6% territory.\r\nFreddie Mac's latest Primary Mortgage Market Survey, released Thursday, showed that the average rate on the b… [+460 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Global alert issued over fake-Ozempic drugs - BBC.com",
+            "description": "The World Health Organization says fake drugs, used for type-2 diabetes and weight loss, are a danger to health.",
+            "url": "https://www.bbc.com/news/articles/cn00dkw9479o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b3f2/live/cc448d60-2f18-11ef-98bb-392ea8e92275.jpg",
+            "publishedAt": "2024-06-20T16:04:41Z",
+            "content": "A global alert about fake Ozempic - which has become popular as a way of losing weight - has been issued by the World Health Organization (WHO).\r\nThe drug is sometimes known as a \"skinny jab\" despite… [+2103 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "McDonald's is releasing its new meal deal June 25 with four items for $5 - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/06/20/mcdonalds-5-meal-deal-june-25-release",
+            "urlToImage": null,
+            "publishedAt": "2024-06-20T16:02:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Colin Laidley",
+            "title": "Nvidia's Gains Have Made It Bigger Than Europe's Largest Stock Markets - Investopedia",
+            "description": "Nvidia shares continued to rise on Thursday, extending the AI chipmaker's lead on Microsoft, which it overtook as the world’s most valuable company on Tuesday. Its surging stock price has made it more valuable than every European stock market.",
+            "url": "https://www.investopedia.com/nvidia-gains-have-made-it-bigger-than-europe-largest-stock-markets-8666472",
+            "urlToImage": "https://www.investopedia.com/thmb/mgJd7naEvV3eJpG7AtYV4WXxV3s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-21551277141-78eeb2850fc74cc88257a6e04b9cefc5.jpg",
+            "publishedAt": "2024-06-20T15:58:27Z",
+            "content": "<ul><li>Nvidia shares continued to rise on Thursday, extending the AI chipmaker's lead on Microsoft, which it overtook as the worlds most valuable company on Tuesday.</li><li>Nvidia's soaring market … [+1976 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Hamza Shaban",
+            "title": "Dell, Super Micro stocks rise after Musk says companies will supply hardware for xAI - Yahoo Finance",
+            "description": "The companies are helping to build a supercomputer project at Musk's AI startup, riding the momentum of the Nvidia and AI rally.",
+            "url": "https://finance.yahoo.com/news/dell-super-micro-stocks-rise-after-musk-says-companies-will-supply-hardware-for-xai-153607641.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r59TqgYGEshFjjsYOvsTFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/7f9b6f60-1681-11ef-b7ca-eb202b7b1a9e",
+            "publishedAt": "2024-06-20T15:36:07Z",
+            "content": "Shares of Dell (DELL) and Super Micro Computer (SMCI) popped Thursday after xAI founder Elon Musk said the companies are providing hardware for the supercomputer his AI startup is building.\r\nThe move… [+3042 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jordan Fitzgerald and Julia Fanzeres",
+            "title": "Oil Rises Amid Equity Market Rally, US Crude Stockpile Decline - Yahoo Finance",
+            "description": "(Bloomberg) -- Oil rose as a drawdown in US crude inventories extended a rally that has been supported by a hot streak for equity markets.Most Read from...",
+            "url": "https://finance.yahoo.com/news/oil-steadies-brent-volatility-subsides-232945239.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Qaw07tML6vN9niMJYhcCdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/002d84c7c23ddfcdea0c066af25678f6",
+            "publishedAt": "2024-06-20T15:22:37Z",
+            "content": "(Bloomberg) -- Oil rose as a drawdown in US crude inventories extended a rally that has been supported by a hot streak for equity markets.\r\nMost Read from Bloomberg\r\nWest Texas Intermediates more-act… [+1042 chars]"
         },
         {
             "source": {
@@ -92,6 +261,32 @@
             "urlToImage": "https://www.gilead.com/-/media/gilead-corporate/images/og/gilead_logo.jpg",
             "publishedAt": "2024-06-20T14:48:45Z",
             "content": "– First Phase 3 HIV Prevention Trial Ever to Show Zero Infections –\r\n– Independent Data Monitoring Committee Recommended That Gilead Stop the Blinded Phase of the PURPOSE 1 Trial at Interim Analysis … [+17497 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "Nvidia’s stock furthers gains, and an analyst says not to fight the ‘AI train’ - MarketWatch",
+            "description": null,
+            "url": "https://www.marketwatch.com/story/nvidias-stock-furthers-gains-and-an-analyst-says-not-to-fight-the-ai-train-9b03e580",
+            "urlToImage": null,
+            "publishedAt": "2024-06-20T14:40:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Aaron McDade",
+            "title": "Accenture Stock Jumps as AI-Related Bookings Soar - Yahoo Finance",
+            "description": "Accenture shares rose Thursday as its third-quarter profit beat estimates and AI-related bookings surged.",
+            "url": "https://www.investopedia.com/accenture-stock-jumps-as-ai-related-bookings-soar-8666168",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3A1YNkIcgWWoDeiUNlnkNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/9d828ff0ec054003301d733340b8c65c",
+            "publishedAt": "2024-06-20T14:25:00Z",
+            "content": "Telmo Pinto / NurPhoto / Getty Images\r\nKey Takeaways\r\n<ul><li>Accenture shares jumped Thursday following the release of third-quarter results that saw revenue miss analysts' estimates but net income … [+2757 chars]"
         },
         {
             "source": {
@@ -147,16 +342,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "David Pierce",
-            "title": "Claude 3.5 Sonnet: Anthropic’s AI model is competing with GPT-4o and Gemini 1.5. - The Verge",
-            "description": "Anthropic says its new faster, smarter AI model, named Claude 3.5 Sonnet, is useful for things like code translation, text transcription, and writing better emails.",
-            "url": "https://www.theverge.com/2024/6/20/24181961/anthropic-claude-35-sonnet-model-ai-launch",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/it330Q4_IVO1RMpa5K-YlXFShLA=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25498067/Claude_3_5_Model_Selector.png",
+            "author": "Maxwell Zeff",
+            "title": "Anthropic Says New Claude 3.5 AI Model Outperforms GPT-4 Omni - Gizmodo",
+            "description": "It can even make your own 8-bit video game for you.",
+            "url": "https://gizmodo.com/anthropic-claude-ai-outperforms-openai-gpt-omni-1851550441",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0e232639f7b14a06425f26b4f28f4bde.png",
             "publishedAt": "2024-06-20T14:00:00Z",
-            "content": "Anthropic has a fast new AI model and a clever new way to interact with chatbots\r\nAnthropic has a fast new AI model and a clever new way to interact with chatbots\r\n / Claude 3.5 Sonnet is apparently … [+3595 chars]"
+            "content": "Anthropic launched Claude 3.5 Sonnet on Thursday, which the AI startup says outperforms its previous AI models and OpenAIs recently launched GPT-4 Omni on several metrics. The company also released A… [+2320 chars]"
         },
         {
             "source": {
@@ -174,40 +369,53 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "WDIV ClickOnDetroit"
             },
-            "author": "Michael Sasso",
-            "title": "New US Home Construction Plunges to Slowest Pace Since June 2020 - Yahoo Finance",
-            "description": "(Bloomberg) -- New home construction in the US slumped in May to the slowest pace in four years, as higher-for-longer interest rates sap the housing...",
-            "url": "https://finance.yahoo.com/news/us-home-construction-plunges-slowest-131024877.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9tU882U_m14oA5Pg65whWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/117f6271005fcabfc1fa045d4e623231",
-            "publishedAt": "2024-06-20T13:41:21Z",
-            "content": "(Bloomberg) -- New home construction in the US slumped in May to the slowest pace in four years, as higher-for-longer interest rates sap the housing industrys momentum from earlier this year.\r\nMost R… [+2878 chars]"
+            "author": "Ken Haddad",
+            "title": "12 more Michigan Rite Aid stores to close: Here’s the list - WDIV ClickOnDetroit",
+            "description": "A dozen more Rite Aid stores are slated to close in Michigan as part of ongoing closures announced back in 2021.",
+            "url": "https://www.clickondetroit.com/news/michigan/2024/06/20/12-more-michigan-rite-aid-stores-to-close-heres-the-list/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4DGUJFEJ4NGXXEXUGRCQNMSLUU.jpg?_a=ATAPphC0",
+            "publishedAt": "2024-06-20T13:16:57Z",
+            "content": "A dozen more Rite Aid stores are slated to close in Michigan as part of ongoing closures announced back in 2021.\r\nAs part of Rite Aids Chapter 11 bankruptcy process, the chain will close 27 stores in… [+1527 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Fox Business"
             },
-            "author": "Kevin Breuninger",
-            "title": "Trump Media shares sink 12% as DJT slide accelerates - CNBC",
-            "description": "Trump Media has been in a slump since a New York jury convicted the presumptive Republican presidential nominee on 34 counts of falsifying business records.",
-            "url": "https://www.cnbc.com/2024/06/20/djt-trump-media-stock-price-today.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107391509-1711118771227-gettyimages-1238669779-AFP_323M3Y4.jpeg?v=1716236439&w=1920&h=1080",
-            "publishedAt": "2024-06-20T13:14:32Z",
-            "content": "A sell-off of Trump Media picked up speed Thursday, with shares of former President Donald Trump's company falling as much as 15% shortly after the opening bell.\r\nThe company behind the conservative … [+1424 chars]"
+            "author": "Kristen Altus",
+            "title": "Homebuilder warns real estate market is becoming victim to its 'No. 1 killer' - Fox Business",
+            "description": "Expensive mortgages are the \"No. 1 killer of the marketplace right now,\" says National Association of Home Builders CEO Jim Tobin, who signals home builders, buyers and sellers are \"pulling back.\"",
+            "url": "https://www.foxbusiness.com/media/homebuilder-warns-real-estate-market-becoming-victim-its-no-1-killer",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/HOME-BUILD-MARKET-DOWN.jpg?ve=1&tl=1",
+            "publishedAt": "2024-06-20T13:06:00Z",
+            "content": "As a large, gray cloud looms over American real estate, the CEO of one of the largest trade associations is revealing what may make it pour on the market.\r\n\"We had a better regulatory environment thr… [+2704 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Cpsc.gov"
             },
-            "author": "Fox Business",
-            "title": "Homebuilder warns real estate market is becoming victim to its 'No. 1 killer' - Fox Business",
+            "author": null,
+            "title": "Vitamix Reannounces and Expands Recall of Ascent Series and Venturist Series 8-ounce and 20-ounce Blending Containers and Blade Bases Due to Laceration Hazard; Offers New Repair Kit Due to Additional Injuries - Consumer Product Safety Commission",
+            "description": "ALL consumers, including consumers who participated in the 2018 recall, should immediately stop using the recalled 8-ounce and 20-ounce blending containers and blade bases, and contact Vitamix for a repair kit consisting of a protective plastic shroud to atta…",
+            "url": "https://www.cpsc.gov/Recalls/2024/Vitamix-Reannounces-and-Expands-Recall-of-Ascent-Series-and-Venturist-Series-8-ounce-and-20-ounce-Blending-Containers-and-Blade-Bases-Due-to-Laceration-Hazard-Offers-New-Repair-Kit-Due-to-Additional-Injuries",
+            "urlToImage": "https://www.cpsc.gov/s3fs-public/1vitamix.jpg?VersionId=tsaLdO4UJHjUJxXCdmYQY3P5BtmmUOvW",
+            "publishedAt": "2024-06-20T13:00:38Z",
+            "content": "This recall involves all Ascent and Venturist Series 8-ounce blending containers, 20-ounce blending containers, and blade bases, including those that were repaired as part of a previous recall in Aug… [+349 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "Housing starts fall to a four-year low - MarketWatch",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9ob21lYnVpbGRlci13YXJucy1yZWFsLWVzdGF0ZS1tYXJrZXQtYmVjb21pbmctdmljdGltLWl0cy1uby0xLWtpbGxlctIBamh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tZWRpYS9ob21lYnVpbGRlci13YXJucy1yZWFsLWVzdGF0ZS1tYXJrZXQtYmVjb21pbmctdmljdGltLWl0cy1uby0xLWtpbGxlci5hbXA?oc=5",
+            "url": "https://www.marketwatch.com/story/housing-starts-fall-to-a-four-year-low-691db7e8",
             "urlToImage": null,
-            "publishedAt": "2024-06-20T13:06:00Z",
+            "publishedAt": "2024-06-20T12:41:00Z",
             "content": null
         },
         {
@@ -238,6 +446,19 @@
         },
         {
             "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Apple is winning in financial services - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/06/20/apple-winning-finance-bnpl",
+            "urlToImage": null,
+            "publishedAt": "2024-06-20T12:17:33Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Investopedia"
             },
@@ -248,19 +469,6 @@
             "urlToImage": "https://www.investopedia.com/thmb/cOpsHGpGal5imyfpe9jh-yaPfWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2155127651-13b899b95e4f445098651ba42eb8e54e.jpg",
             "publishedAt": "2024-06-20T12:00:06Z",
             "content": "Nvidia (NVDA) and artificial intelligence (AI)-related stocks are driving Thursday's buoyant markets mood as the chipmaker looks set to cement its crown as world's most valuable company with gains in… [+3927 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Reuters",
-            "title": "China says EU mandated its EV firms turn over 'unprecedented' amounts of data - Reuters",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9hdXRvcy10cmFuc3BvcnRhdGlvbi9jaGluYS1zYXlzLWluZm9ybWF0aW9uLXJlcXVlc3RlZC1ieS1ldS1lbGVjdHJpYy12ZWhpY2xlLXByb2JlLXVucHJlY2VkZW50ZWQtMjAyNC0wNi0yMC_SAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-20T11:42:00Z",
-            "content": null
         },
         {
             "source": {
@@ -293,117 +501,26 @@
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "The Wall Street Journal",
+            "author": "Lauren Thomas",
             "title": "Honeywell Strikes $2 Billion Deal for Defense Business - The Wall Street Journal",
-            "description": null,
+            "description": "Acquisition of CAES Systems comes as military spending ramps up",
             "url": "https://www.wsj.com/business/deals/honeywell-strikes-2-billion-deal-for-defense-business-1b8bf087",
-            "urlToImage": null,
+            "urlToImage": "https://images.wsj.net/im-971669/social",
             "publishedAt": "2024-06-20T11:16:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "CNBC",
-            "title": "Bank of England holds rates in 'finely balanced' decision; traders up bets on August cut - CNBC",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMjAvYmFuay1vZi1lbmdsYW5kLWludGVyZXN0LXJhdGUtZGVjaXNpb24tanVuZS0yMDI0Lmh0bWzSAVlodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wNi8yMC9iYW5rLW9mLWVuZ2xhbmQtaW50ZXJlc3QtcmF0ZS1kZWNpc2lvbi1qdW5lLTIwMjQuaHRtbA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-20T11:05:24Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "MarketWatch",
-            "title": "AI focus is creating opportunities elsewhere. Three stocks to consider. - MarketWatch",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vc3RvcnkvYWktbWFuaWEtaXMtY3JlYXRpbmctb3Bwb3J0dW5pdGllcy1lbHNld2hlcmUtc2F5cy1tb25leS1tYW5hZ2VyLXdoby1oYXMtdGhyZWUtc3RvY2tzLXRvLWNvbnNpZGVyLWMwZjEyMWVj0gGPAWh0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9hbXAvc3RvcnkvYWktbWFuaWEtaXMtY3JlYXRpbmctb3Bwb3J0dW5pdGllcy1lbHNld2hlcmUtc2F5cy1tb25leS1tYW5hZ2VyLXdoby1oYXMtdGhyZWUtc3RvY2tzLXRvLWNvbnNpZGVyLWMwZjEyMWVj?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-20T10:49:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Akash Sriram",
-            "title": "Accenture forecasts upbeat 2024 revenue growth on AI boost - Yahoo Finance",
-            "description": "(Reuters) -IT services provider Accenture projected annual revenue growth largely above estimates on Thursday, as growing adoption of artificial intelligence...",
-            "url": "https://uk.finance.yahoo.com/news/accenture-forecasts-2024-revenue-growth-104442513.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/2466bfa5875c459d743c4c0a2c3d5fb7",
-            "publishedAt": "2024-06-20T10:44:42Z",
-            "content": "By Akash Sriram\r\n(Reuters) -IT services provider Accenture projected annual revenue growth largely above estimates on Thursday, as growing adoption of artificial intelligence offsets sluggish growth … [+1897 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Arjun Kharpal",
-            "title": "A marathon, not a sprint: Apple's AI push faces big challenges in China - CNBC",
-            "description": "Apple Intelligence is Apple's big play that aims to bring artificial intelligence across its devices but there was little talk on how it will bring this to China.",
-            "url": "https://www.cnbc.com/2024/06/20/apple-ai-push-faces-big-challenges-in-china.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107430974-1718871219427-gettyimages-2156596189-raa-applesir240611_npFks.jpeg?v=1718871261&w=1920&h=1080",
-            "publishedAt": "2024-06-20T10:38:51Z",
-            "content": "The Apple Siri AI icon is being displayed on a smartphone, with Apple Intelligence in the background. \r\nApple's big artificial intelligence push faces some big challenges in China one of the iPhone m… [+6682 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Sony Salzman",
-            "title": "Eli Lilly warns about dangers of fake and counterfeit Mounjaro, Zepbound - ABC News",
-            "description": "Eli Lilly also filed lawsuits against compounding pharmacies and medical spas.",
-            "url": "https://abcnews.go.com/US/eli-lilly-warns-dangers-fake-counterfeit-mounjaro-zepbound/story?id=111265953",
-            "urlToImage": "https://i.abcnewsfe.com/a/d02e5dc5-1edf-42b6-8a28-66f3482fdc77/eli-lilly-main_1718861084766_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-06-20T10:34:26Z",
-            "content": "Pharmaceutical company Eli Lilly warning in an open letter on Thursday about the dangers of fake and compounded versions of its diabetes and weight loss medications Mounjaro and Zepbound.\r\nThe compan… [+1838 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Forbes"
             },
-            "author": "Iain Martin",
-            "title": "Electronic Warfare Is Screwing Up Food Delivery Apps And 'Find My' Location Tracking In The Middle East - Forbes",
-            "description": "The signal jammers Middle Eastern nations are using to thwart drones and missile attacks have an unintended side effect – disrupting GPS systems for phones and other devices in neighboring Cyprus.",
-            "url": "https://www.forbes.com/sites/iainmartin/2024/06/20/electronic-warfare-is-screwing-up-food-delivery-apps-and-find-my-location-tracking-in-the-middle-east/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/667223bb9a817750f50c94b7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-06-20T10:30:19Z",
-            "content": "On a Sunday evening in June, Paris Thomas plan to order takeout Thai for dinner took a frustrating turn. His local Thai spot Red Dragon was only a few blocks away in Limassol, Cyprus, but the food ap… [+6391 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Jon Quast",
-            "title": "Nvidia Just Passed Microsoft to Become the World's Most Valuable Stock. Here's What History Says Happens Next. - The Motley Fool",
-            "description": "If you think Nvidia stock has already peaked, then you'll want to look at this.",
-            "url": "https://www.fool.com/investing/2024/06/20/nvidia-pass-microsoft-most-valuable-stock/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/781005/young-man-sitting-pensively-at-his-computer-looking-thoughtfully-at-the-screen-in-front-of-him.jpg",
-            "publishedAt": "2024-06-20T10:30:00Z",
-            "content": "If you think Nvidia stock has already peaked, then you'll want to look at this.On Tuesday, June 18, Nvidia(NVDA -1.20%) passed Microsoft(MSFT -0.21%) to become the world's most valuable publicly trad… [+4833 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Forbes",
+            "author": "Seth Matlins",
             "title": "The 2024 Forbes World's Most Influential CMOs List - Forbes",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2V0aG1hdGxpbnMvMjAyNC8wNi8yMC90aGUtMjAyNC1mb3JiZXMtd29ybGRzLW1vc3QtaW5mbHVlbnRpYWwtY21vcy1saXN0L9IBAA?oc=5",
-            "urlToImage": null,
+            "description": "Forbes has released the 2024 Forbes World's Most Influential CMOs list, recognizing 50 chief marketers from around the world whose influence stands apart.",
+            "url": "https://www.forbes.com/sites/sethmatlins/2024/06/20/the-2024-forbes-worlds-most-influential-cmos-list/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666cb59d678ce8c3a5d8c0e4/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds",
             "publishedAt": "2024-06-20T10:30:00Z",
-            "content": null
+            "content": "The 12th annual Forbes World's Most Influential CMOs list recognizes 50 chief marketers whose influence on brands and business around the world is outsized.\r\nBy Seth Matlins, Managing Director, Forbe… [+70413 chars]"
         },
         {
             "source": {
@@ -433,6 +550,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Aisha S Gani",
+            "title": "Citi Sees AI Displacing More Bank Jobs Than Any Other Sector - Yahoo Finance",
+            "description": "(Bloomberg) -- Citigroup Inc. said artificial intelligence is likely to displace more jobs across the banking industry than in any other sector as the...",
+            "url": "https://finance.yahoo.com/news/citi-sees-ai-displacing-more-170557299.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oJzyAvJBvUPmfrzPb6PDPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDE-/https://media.zenfs.com/en/bloomberg_technology_68/7688ef98a1ff1a207082250723348d64",
+            "publishedAt": "2024-06-20T09:59:02Z",
+            "content": "(Bloomberg) -- Citigroup Inc. said artificial intelligence is likely to displace more jobs across the banking industry than in any other sector as the technology is poised to upend consumer finance a… [+3987 chars]"
+        },
+        {
+            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -446,68 +576,42 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "CoinDesk"
             },
-            "author": "CoinDesk",
+            "author": "Amitoj Singh",
             "title": "VanEck's Spot Bitcoin ETF Goes Live on Australia's Biggest Stock Exchange - CoinDesk",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmNvaW5kZXNrLmNvbS9idXNpbmVzcy8yMDI0LzA2LzIwL3ZhbmVja3Mtc3BvdC1iaXRjb2luLWV0Zi1nb2VzLWxpdmUtb24tYXVzdHJhbGlhcy1iaWdnZXN0LXN0b2NrLWV4Y2hhbmdlL9IBeWh0dHBzOi8vd3d3LmNvaW5kZXNrLmNvbS9idXNpbmVzcy8yMDI0LzA2LzIwL3ZhbmVja3Mtc3BvdC1iaXRjb2luLWV0Zi1nb2VzLWxpdmUtb24tYXVzdHJhbGlhcy1iaWdnZXN0LXN0b2NrLWV4Y2hhbmdlL2FtcC8?oc=5",
-            "urlToImage": null,
+            "description": "The VanEck Bitcoin ETF rose 1% on its debut after trading 99,791 shares.",
+            "url": "https://www.coindesk.com/business/2024/06/20/vanecks-spot-bitcoin-etf-goes-live-on-australias-biggest-stock-exchange/",
+            "urlToImage": "https://www.coindesk.com/resizer/fCKyFUVA1cNqSrUOOiD4ZuGfV8M=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZMU3Z3EX75DUXP7F5Y5RJ4262A.jpg",
             "publishedAt": "2024-06-20T09:30:00Z",
+            "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nCoinDesk is anaward-winningmedia outlet that covers the cryptocurrency industry. Its … [+593 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY",
+            "title": "Comparing Trump's and Biden's economic plans, from immigration to taxes - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/money/2024/06/20/biden-vs-trump-economy/74077301007/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-20T09:09:52Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Motley Fool"
+                "name": "Cnevpost.com"
             },
-            "author": "Harsh Chauhan",
-            "title": "Forget Nvidia: 2 Tech Stocks to Buy Instead - The Motley Fool",
-            "description": "These two attractively valued tech stocks could turn out to be smart long-term investments.",
-            "url": "https://www.fool.com/investing/2024/06/20/forget-nvidia-2-tech-stocks-to-buy-instead/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/780826/person-with-a-tablet-in-a-data-center.jpg",
-            "publishedAt": "2024-06-20T09:25:00Z",
-            "content": "These two attractively valued tech stocks could turn out to be smart long-term investments.Technology stocks have been in impressive form on the market in the past year, recording gains of 33% as of … [+6403 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yongchang Chin and Alex Longley",
-            "title": "Oil Holds Above $85 as Traders Await Fresh US Stockpile Data - Yahoo Finance",
-            "description": "(Bloomberg) -- Oil steadied ahead of the release of weekly inventory data from the US that may show another rise in nationwide crude inventories.Most Read...",
-            "url": "https://finance.yahoo.com/news/oil-steadies-brent-volatility-subsides-232945239.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Qaw07tML6vN9niMJYhcCdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/002d84c7c23ddfcdea0c066af25678f6",
-            "publishedAt": "2024-06-20T09:17:26Z",
-            "content": "(Bloomberg) -- Oil steadied ahead of the release of weekly inventory data from the US that may show another rise in nationwide crude inventories.\r\nMost Read from Bloomberg\r\nBrent was little changed n… [+1194 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "UK interest rates expected to be held at 5.25% - BBC.com",
-            "description": "The Bank of England keeps borrowing costs unchanged, but hints it could cut rates later in the summer.",
-            "url": "https://www.bbc.com/news/articles/cd11jld7d36o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f65b/live/37bd4c80-2ef6-11ef-8e6e-c9a4a69e592f.jpg",
-            "publishedAt": "2024-06-20T08:36:14Z",
-            "content": "By Dearbail Jordan and Faisal Islam, Business reporter and Economics editor\r\nThe Bank of England has opened the door to cutting interest rates in August in what would be the first drop in borrowing c… [+4062 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Sunny Tsai",
-            "title": "Construction booming across Arizona, causing employment rates in the industry to soar - Fox Business",
-            "description": "The construction industry is growing rapidly across America, the Bureau of Labor Statistics reported, and some areas of the country, like Arizona, are really benefitting from the burst.",
-            "url": "https://www.foxbusiness.com/industrials/construction-booming-arizona-employment-rates-industry-soar",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/Screenshot-2024-06-15-at-6.52.27-PM.png?ve=1&tl=1",
-            "publishedAt": "2024-06-20T07:58:00Z",
-            "content": "Employment in the construction industry is booming across the country, increasing by more than 250,000 workers since last year, according to the Bureau of Labor Statistics (BLS).\r\nArizona is one of t… [+3086 chars]"
+            "author": "Phate Zhang",
+            "title": "Nio's Firefly models will still be competitive in Europe even with extra tariffs, says William Li - CnEVPost",
+            "description": "In the long term, if local sales reach a certain level, say 100,000 units, local production should take place, Nio CEO William Li said.",
+            "url": "https://cnevpost.com/2024/06/20/nio-firefly-still-be-competitive-in-europe-with-extra-tariffs/",
+            "urlToImage": "https://img.cnevpost.com/2024/06/20165320/2024062008532048.jpg",
+            "publishedAt": "2024-06-20T08:57:00Z",
+            "content": null
         },
         {
             "source": {
@@ -521,45 +625,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/104709370-GettyImages-143099410.jpg?v=1718881758&w=1920&h=1080",
             "publishedAt": "2024-06-20T07:37:56Z",
             "content": "A view of the headquarters of the Swiss National Bank (SNB), before a press conference in Zurich, Switzerland, March 21, 2024. \r\nThe Swiss National Bank on Thursday trimmed its key interest rate by 2… [+4016 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Yahoo Finance",
-            "title": "Former Hedge Fund Trader Builds $185 Million Burrito Fortune - Yahoo Finance",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9mb3JtZXItaGVkZ2UtZnVuZC10cmFkZXItYnVpbGRzLTIyMDIxMzYxMC5odG1s0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-20T07:23:07Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Sabrina Mao, Sarah Zheng and Jane Zhang",
-            "title": "China's Ecommerce Giants Splash Out to Jolt Wary Shoppers - Yahoo Finance",
-            "description": "(Bloomberg) -- China’s shoppers are getting wooed this week like never before. Most Read from BloombergCar Dealerships Across US Halt Services After...",
-            "url": "https://finance.yahoo.com/news/china-ecommerce-giants-splash-jolt-071027722.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/i38OB5MTV6ZfX9Zmycpnmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzI-/https://media.zenfs.com/en/bloomberg_markets_842/01f967a331f5614c0c498757da5829b1",
-            "publishedAt": "2024-06-20T07:10:27Z",
-            "content": "(Bloomberg) -- Chinas shoppers are getting wooed this week like never before.\r\nMost Read from Bloomberg\r\nThe countrys biggest internet firms are pulling out all the stops during the annual 618 shoppi… [+7195 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Fox Business",
-            "title": "Rite Aid to close over two dozen stores amid bankruptcy proceedings - New York Post ",
-            "description": "Rite Aid said the proceedings would involve continued store footprint optimization.",
-            "url": "https://nypost.com/2024/06/20/business/rite-aid-to-close-over-two-dozen-stores-amid-bankruptcy-proceedings/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/newspress-collage-9z90b72x8-1718860595305.jpg?quality=75&strip=all&1718846229&w=1024",
-            "publishedAt": "2024-06-20T05:25:00Z",
-            "content": "Rite Aid is looking to close over two dozen more stores in two states.\r\nThe drugstore chain on Monday filed a “notice of additional closing stores” with the US Bankruptcy Court of the District of New… [+1533 chars]"
         },
         {
             "source": {
@@ -589,19 +654,6 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Joint Center for Housing Studies",
-            "title": "The State of the Nation's Housing 2024 - Joint Center for Housing Studies",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmpjaHMuaGFydmFyZC5lZHUvc3RhdGUtbmF0aW9ucy1ob3VzaW5nLTIwMjTSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-20T01:15:08Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "AZFamily"
             },
@@ -615,16 +667,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "ForexLive"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Eamonn Sheridan",
-            "title": "The PBOC USD/CNY fixing is coming up soon - looks like the Bank is lightening up - ForexLive",
-            "description": "I posted earlier in the week a useful piece from analysts at HSBC tipping the People's Bank of China would allow the USD/CNY reference rate to rise: .",
-            "url": "https://www.forexlive.com/centralbank/the-pboc-usdcny-fixing-is-coming-up-soon-looks-like-the-bank-is-lightening-up-20240620/",
-            "urlToImage": "https://images.forexlive.com/images/usdcny%20pboc%20reference%20rate%20damping%2020%20June%202024_id_d87c423a-f683-4069-89f7-b611139f0800_size975.jpg",
-            "publishedAt": "2024-06-20T00:15:00Z",
-            "content": "High risk warning:\r\nForeign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade fo… [+2129 chars]"
+            "author": "The Wall Street Journal",
+            "title": "This Judge Made Houston the Top Bankruptcy Court. Then He Helped His Girlfriend Cash In. - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/finance/bankruptcy-court-houston-jones-freeman-dbba77e9",
+            "urlToImage": null,
+            "publishedAt": "2024-06-20T01:00:00Z",
+            "content": null
         },
         {
             "source": {
@@ -641,29 +693,16 @@
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Rita Nazareth",
-            "title": "Asian Equities to Slip as Markets Search for Cues: Markets Wrap - Bloomberg",
-            "description": "Stocks lost traction after a rally to multiple all-time highs spurred calls for a near-term pullback amid signs of buyer exhaustion.",
-            "url": "https://www.bloomberg.com/news/articles/2024-06-19/stock-market-today-dow-s-p-live-updates",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRYczj4Et9DQ/v0/1200x675.png",
-            "publishedAt": "2024-06-19T22:41:47Z",
-            "content": "Stocks lost traction after a rally to multiple all-time highs spurred calls for a near-term pullback amid signs of buyer exhaustion.\r\nThe S&amp;P 500 fell after briefly topping 5,500 while still rema… [+214 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Fox Business"
             },
-            "author": "Brian Evans",
-            "title": "S&P 500 futures are little changed as Wall Street looks for Nvidia to keep leading market - CNBC",
-            "description": "Stocks are coming off of a winning session on Tuesday and are on pace to end the shortened trading weak higher.",
-            "url": "https://www.cnbc.com/2024/06/19/sp-500-futures-were-little-changed-as-wall-street-looks-for-nvidia-to-keep-leading-market.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107239800-1683820077637-Traders-OB-Photo-MW-20230511-0075-PRESS-7.jpg?v=1692309855&w=1920&h=1080",
-            "publishedAt": "2024-06-19T22:36:00Z",
-            "content": "S&amp;P 500 futures climbed on Thursday morning as investors look for the benchmark to add to its latest record high.\r\nFutures tied to the broad market index added 0.4%, while Nasdaq 100 futures adva… [+2017 chars]"
+            "author": "Eric Revell",
+            "title": "Ferrari's first EV to cost over $500K: report - Fox Business",
+            "description": "Italian luxury automaker Ferrari is planning to make its first electric vehicle, which will come with a price tag that's more than $500,000, according to a report by Reuters.",
+            "url": "https://www.foxbusiness.com/lifestyle/ferraris-first-ev-cost-over-500k-report",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/Ferrari.jpg?ve=1&tl=1",
+            "publishedAt": "2024-06-19T22:28:00Z",
+            "content": "Italian luxury automaker Ferrari is planning to produce its first electric vehicle — which will reportedly cost over $500,000.\r\nReuters reported Wednesday citing a source familiar with the matter tha… [+3130 chars]"
         },
         {
             "source": {
@@ -684,12 +723,25 @@
                 "name": "OilPrice.com"
             },
             "author": "Irina Slav",
-            "title": "Big Oil and Big Corn Form Alliance to Challenge Pro-EV Policies | OilPrice.com - OilPrice.com",
+            "title": "Big Oil and Big Corn Form Alliance to Challenge Pro-EV Policies - OilPrice.com",
             "description": "The API and its former foes turned friends from the National Corn Growers Association and the American Farm Bureau Federation believe the purpose of the doubling of fuel efficiency is to force carmakers to sell more EVs, which would hurt their business",
             "url": "https://oilprice.com/Alternative-Energy/Biofuels/Big-Oil-and-Big-Corn-Form-Alliance-to-Challenge-Pro-EV-Policies.html",
             "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-06-19_mfw8yimy2z.jpg",
             "publishedAt": "2024-06-19T22:00:00Z",
-            "content": "Washington State University researchers have…\r\nBig Oil is joining forces…\r\nA scientific paper suggests bamboo…\r\nBy Irina Slav - Jun 19, 2024, 5:00 PM CDT\r\nThe oil industry has not historically been a… [+4882 chars]"
+            "content": "Scientists are always busy to…\r\nChalmers University researchers introduce an…\r\nA scientific paper suggests bamboo…\r\nBy Irina Slav - Jun 19, 2024, 5:00 PM CDT\r\nThe oil industry has not historically be… [+4886 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Nishant Kumar, Liza Tetley",
+            "title": "Top Hedge Funds Citadel, Point 72 Race to Create Next Star Trader - Bloomberg",
+            "description": "Amid a brutal hiring war, Steve Cohen’s Point72, Ken Griffin’s Citadel and other giant hedge funds are going in a radical new direction: Training schemes for in-house superstars.",
+            "url": "https://www.bloomberg.com/news/articles/2024-06-19/giant-hedge-funds-citadel-and-point72-are-trying-to-create-the-perfect-trader",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDv3Bs6WMUgs/v0/1200x802.jpg",
+            "publishedAt": "2024-06-19T21:00:03Z",
+            "content": "More than a decade ago, hedge fund titan Steve Cohen and his portfolio manager Harry Schwefel sat huddled on SAC Capitals busy trading floor. Schwefel was musing on how a run of lucky breaks had powe… [+536 chars]"
         },
         {
             "source": {
@@ -703,6 +755,19 @@
             "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/06/19/USAT/74151453007-20240530-t-173007-z-596771782-rc-2418-aati-36-rtrmadp-3-westjetlabor.JPG?crop=3195,1797,x3,y21&width=3195&height=1797&format=pjpg&auto=webp",
             "publishedAt": "2024-06-19T20:54:51Z",
             "content": "WestJet said on Wednesday it has started canceling and consolidating flights as it prepares for a strike by its aircraft maintenance engineers and other technical operations employees.\r\nIn preparatio… [+1097 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Press Herald"
+            },
+            "author": "Stephen Singer",
+            "title": "Heat wave trips up power plants, prompting New England grid operator to issue warning - Press Herald",
+            "description": "ISO-New England declared a 'Power Caution' for more than 4 hours Tuesday as air conditioners cranked up at the start of what's expected to be a 3-day heat wave.",
+            "url": "https://www.pressherald.com/2024/06/19/heat-wave-trips-up-power-plants-prompting-new-england-grid-operator-to-issue-warning/",
+            "urlToImage": "https://w2pcms.com/wp-content/uploads/sites/10/2021/04/23707311_SJ.CITpowerlinesP.041521-1.jpg?w=1024",
+            "publishedAt": "2024-06-19T20:17:52Z",
+            "content": "https://www.pressherald.com/2024/06/19/heat-wave-trips-up-power-plants-prompting-new-england-grid-operator-to-issue-warning\r\nHeat wave trips up power plants, prompting New England grid operator to is… [+4668 chars]"
         },
         {
             "source": {
@@ -733,132 +798,15 @@
         {
             "source": {
                 "id": null,
-                "name": "9to5Mac"
+                "name": "Jalopnik"
             },
-            "author": "Ben Lovejoy",
-            "title": "Apple Pay Later withdrawal likely because of a law passed in 1968 - 9to5Mac",
-            "description": "We speculated at the time that the decision to withdraw Apple Pay Later was probably driven by a desire to...",
-            "url": "https://9to5mac.com/2024/06/19/apple-pay-later-withdrawal-reason/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/Apple-Pay-Later-withdrawal.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-06-19T13:16:00Z",
-            "content": "We speculated at the time that the decision to withdraw Apple Pay Later was probably driven by a desire to get ahead of upcoming legislation, and a piece today suggests that it’s actually a new inter… [+2508 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Benzinga"
-            },
-            "author": "Surbhi Jain",
-            "title": "Is The Market Open On Juneteenth? - Benzinga",
-            "description": "Juneteenth, a federal holiday since 2021, commemorates the end of enslavement in the U.S. Major stock exchanges like NYSE and NASDAQ are closed on this day.",
-            "url": "https://www.benzinga.com/news/24/06/39397814/is-the-market-open-on-juneteenth",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/06/19/Juneteenth.png?width=1200&height=800&fit=crop",
-            "publishedAt": "2024-06-19T12:40:00Z",
-            "content": "Juneteenth, short for June Nineteenth, is a day of historical significance for the U.S. that is on June 19.\r\nThe event commemorates June 19, 1865, just after the Civil War ended when Union General Go… [+1723 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AZFamily"
-            },
-            "author": "Amanda  Alvarado",
-            "title": "Southwest celebrates 53rd birthday with $53 tickets - Arizona's Family",
-            "description": "Southwest is celebrating its birthday with a sale.",
-            "url": "https://www.azfamily.com/2024/06/19/southwest-celebrates-53rd-birthday-with-53-tickets/",
-            "urlToImage": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/v2/ST3XKOHCMZGQXAH3AIFCPYIK6M.jpg?auth=428d81e5579d4106bf4433c1744b3265f900dceb6f593e2b3970136965d88d15&width=1200&height=600&smart=true",
-            "publishedAt": "2024-06-19T12:36:00Z",
-            "content": "(Gray News) - Southwest Airlines is celebrating its 53rd birthday with one-way flights starting at $53.\r\nCustomers have until Thursday to book the flights, but flights include Hawaii, Puerto Rico and… [+605 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Vince Golle",
-            "title": "US Mortgage Rates Drop Below 7% for First Time Since March - Bloomberg",
-            "description": "US mortgage rates declined below 7% last week for the first time since March, spurring back-to-back increases in financing applications for home purchases.",
-            "url": "https://www.bloomberg.com/news/articles/2024-06-19/us-mortgage-rates-drop-below-7-for-first-time-since-march",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS26TlaOyGcU/v0/1200x799.jpg",
-            "publishedAt": "2024-06-19T11:42:13Z",
-            "content": "US mortgage rates declined below 7% last week for the first time since March, spurring back-to-back increases in financing applications for home purchases.\r\nThe contract rate on a 30-year fixed mortg… [+242 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "MarketWatch",
-            "title": "This stock market bubble we’re in will pop with a whimper, not a bang - MarketWatch",
-            "description": null,
-            "url": "https://www.marketwatch.com/story/stocks-down-40-would-pop-this-market-bubble-but-slow-deflation-is-more-likely-than-a-quick-crash-f74f9583",
-            "urlToImage": null,
-            "publishedAt": "2024-06-19T11:15:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Martin Baccardax",
-            "title": "Consumers tapping out amid sticky inflation and slowing job market - TheStreet",
-            "description": "The U.S. economy relies on a healthy consumer for the bulk of its growth, but spending is starting to slow into the summer months.",
-            "url": "https://www.thestreet.com/investing/stocks/consumers-tapping-out-amid-sticky-inflation-and-slowing-job-market",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAxNzI1OTMwODExNDM0Nzcy/federal-reserve-chair-powell-holds-a-news-conference-following-the-federal-open-market-committee-meeting.jpg",
-            "publishedAt": "2024-06-19T11:07:00Z",
-            "content": "The U.S. economy is starting to see weakness in its most important growth driver, the American consumer, just as the job market displays the first signs of softness heading into the year's second hal… [+5649 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Evelyn Cheng",
-            "title": "Fitch pushes back China rate cut expectations to next year as Fed holds interest rates steady - CNBC",
-            "description": "Fitch now forecasts China will keep its one-year medium-term lending facility (MLF) unchanged this year at 2.5%, and cut it to 2.25% next year.",
-            "url": "https://www.cnbc.com/2024/06/19/fitch-pushes-back-china-rate-cut-as-fed-holds-interest-rates-steady.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105480592-1538400870551rts2374p.jpg?v=1692587153&w=1920&h=1080",
-            "publishedAt": "2024-06-19T10:11:53Z",
-            "content": "BEIJING Ratings agency Fitch no longer expects China to cut its policy rate this year, and has pushed back its expectations for a reduction to next year as the U.S. Federal Reserve keeps its interest… [+2343 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Ines Ferré",
-            "title": "Big Tech's massive AI power demand is driving up this energy stock - Yahoo Finance",
-            "description": "Nuclear plant operator Constellation Energy's stock is up more than 80% this year on AI-related bets.",
-            "url": "https://finance.yahoo.com/news/big-techs-massive-ai-power-demand-is-driving-up-this-energy-stock-100040854.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VYwRe7pHSPi69GnUBV48dQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-01/b96eb910-1b6c-11e9-b13f-a5711491b927",
-            "publishedAt": "2024-06-19T10:00:40Z",
-            "content": "Big Techs energy demand is insatiable in the artificial intelligence era. That's sent Constellation Energy stock (CEG) soaring.\r\nShares of Constellation, the largest nuclear plant operator in the US,… [+5012 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NorthJersey.com"
-            },
-            "author": "Colleen Wilson",
-            "title": "Summer delays for riders? NJ Transit, Amtrak plan repairs - NorthJersey.com",
-            "description": "NJ Transit and Amtrak riders face planned outages as the aging assets on a key stretch of rail to New York Penn Station slowly get replaced",
-            "url": "https://www.northjersey.com/story/news/transportation/2024/06/19/summer-delays-for-riders-nj-transit-amtrak-plan-repairs-northeast-corridor/74072161007/",
-            "urlToImage": "https://www.northjersey.com/gcdn/authoring/authoring-images/2024/04/11/PNJM/73286529007-041124-clifton-njt-tz-17613.JPG?crop=3749,2109,x0,y195&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2024-06-19T08:33:55Z",
-            "content": "Michelle D. was one of the thousands of NJ Transit commuters who had an hours-long, hellish journey home recently after wires fell on the tracks a few miles from New York Penn Station, halting trains… [+14049 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Subhadip Sircar, Ronojoy Mazumdar",
-            "title": "Global Investors Jump Into Indian Bonds as JPMorgan Index Inclusion Nears - Bloomberg",
-            "description": "Foreign interest is surging as global index providers plan to include the country’s sovereign debt.",
-            "url": "https://www.bloomberg.com/news/articles/2024-06-18/global-investors-jump-into-indian-bonds-as-jpmorgan-index-inclusion-nears",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN_12_u7RM.k/v0/1200x630.jpg",
-            "publishedAt": "2024-06-18T23:00:02Z",
-            "content": "For decades, the titans of global finance viewed India as just another emerging marketa place with the potential for substantial gains, but risky enough to be kept at the periphery of a portfolio. Th… [+1246 chars]"
+            "author": "Lawrence Hodge",
+            "title": "McDonald's Ends Experiment With Hilariously Bad AI Drive-Thrus - Jalopnik",
+            "description": "The fast food giant tested AI drive thru tech at 100 restaurants since 2021",
+            "url": "https://jalopnik.com/mcdonald-s-ends-experiment-with-hilariously-bad-ai-driv-1851547128",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d1ee3f52268db13b23a8dcd14eadd9e9.jpg",
+            "publishedAt": "2024-06-19T13:00:00Z",
+            "content": "McDonalds will ditch AI drive thrus completely next month after the artificial intelligence experience left a lot to be desired for both customers and company. \r\nThe burger giant will axe the program… [+1584 chars]"
         }
     ]
 }

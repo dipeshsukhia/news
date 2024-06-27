@@ -4,29 +4,315 @@
     "articles": [
         {
             "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "Some European launch officials still have their heads stuck in the sand - Ars Technica",
+            "description": "\"Starship will not eradicate Ariane 6 at all.\"",
+            "url": "https://arstechnica.com/space/2024/06/some-european-launch-officials-still-have-their-heads-stuck-in-the-sand/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2107843610-760x380.jpg",
+            "publishedAt": "2024-06-26T17:18:00Z",
+            "content": "Enlarge/ The first stage of Ariane 6 rocket Europe's Spaceport in Kourou in the French overseas department of Guiana, on March 26, 2024.\r\n98\r\nThere was a panel discussion at a space conference in Sin… [+5480 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Figma announces big redesign with AI - The Verge",
+            "description": "Figma is adding new generative AI tools to help people more easily make projects in the popular design app. It’s also adding a slides feature and introducing a redesign.",
+            "url": "https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/-AMjR821g7hTj4QiNrpgB4PF5BY=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25501876/_External__Figma_AI.png",
+            "publishedAt": "2024-06-26T16:15:00Z",
+            "content": "Figma announces big redesign with AI\r\nFigma announces big redesign with AI\r\n / Figma is launching a presentation feature, too.\r\nByJay Peters, a news editor who writes about technology, video games, a… [+5635 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Victoria Kennedy",
+            "title": "Borderlands 3 headlines PlayStation Plus games for July - Eurogamer",
+            "description": "Sony has announced next month's PlayStation Plus games.",
+            "url": "https://www.eurogamer.net/borderlands-3-headlines-playstation-plus-games-for-july",
+            "urlToImage": "https://assetsio.gnwcdn.com/borderlands_3_2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2024-06-26T16:06:34Z",
+            "content": "Sony has announced next month's PlayStation Plus games, and headlining July's PS Plus lineup is shooter-looter Borderlands 3.\r\n\"The humour is even more annoying, the guns even more amazing and Gearbo… [+1558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Droid Life"
+            },
+            "author": "Tim",
+            "title": "Good Day: RCS Enabled, Now Working on iOS 18 - Droid Life",
+            "description": "Android owners with iPhone friends who are running the iOS 18 beta, you’ll want to hear this news: RCS has been enabled and appears to be working between iOS and Android devices. We’ve been doing a bit of testing with it this morning, and while there still se…",
+            "url": "https://www.droid-life.com/2024/06/26/good-day-rcs-enabled-now-working-on-ios-18/",
+            "urlToImage": "https://www.droid-life.com/wp-content/uploads/2024/06/iOS-18-RCS-to-Android-2-600x315-cropped.jpg",
+            "publishedAt": "2024-06-26T15:49:13Z",
+            "content": "Android owners with iPhone friends who are running the iOS 18 beta, you’ll want to hear this news: RCS has been enabled and appears to be working between iOS and Android devices. We’ve been doing a b… [+954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Guide"
+            },
+            "author": "Millie Davis-Williams",
+            "title": "Massive Amazon Prime Day preview sale — 17 deals I'd buy on Blink, Ring, Fire TVs and more from $22 - Tom's Guide",
+            "description": "Score Amazon hardware from $22",
+            "url": "https://www.tomsguide.com/sales-events/massive-amazon-prime-day-preview-sale-15-deals-id-buy-on-blink-ring-fire-tvs-and-more-from-dollar22",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MRBbJnPNZ4uwx7qUpDW9xA-1200-80.jpg",
+            "publishedAt": "2024-06-26T15:34:24Z",
+            "content": "Prime Day is getting close, but if you just can't wait, don't worry. Amazon just released some excellent sales on their devices, with everything from Blink security to Ring video doorbells being slas… [+882 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Toys 'R' Us Showcases Everything You Hate About AI Made Junk - Kotaku",
+            "description": "The zombie toy store captures everything wrong with algorithm-driven 'fun'",
+            "url": "https://kotaku.com/toys-r-us-ai-n64-macys-walmart-target-amazon-1851561403",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0dcda40a4d6fe38c0722368b857924ef.gif",
+            "publishedAt": "2024-06-26T15:30:00Z",
+            "content": "Private equity vultures made Toys R Us go bankrupt in 2017. All its U.S. stores closed in 2021. But the zombie brand is still around thanks to a licensing deal with Macys. Now its using generative AI… [+4286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Dead Rising Deluxe Remaster - Official Teaser Trailer - IGN",
+            "description": "Frank West makes a return. Check out the Dead Rising Deluxe Remaster trailer revealing an updated release of the survival horror game is coming to the newest...",
+            "url": "https://www.youtube.com/watch?v=WgdRaicE0nw",
+            "urlToImage": "https://i.ytimg.com/vi/WgdRaicE0nw/maxresdefault.jpg",
+            "publishedAt": "2024-06-26T15:15:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple Says iPhones Will Better Support Third-Party Displays and Batteries Later This Year - MacRumors",
+            "description": "Apple today published a lengthy whitepaper that highlights the company's approach to device repairability and longevity. In the document, Apple...",
+            "url": "https://www.macrumors.com/2024/06/26/iphone-third-party-display-battery-support/",
+            "urlToImage": "https://images.macrumors.com/t/tAzSFlFjvauEiOvAXdkSj3V-8WY=/1920x/article-new/2023/09/iPhone-15-General-Feature-Black.jpg",
+            "publishedAt": "2024-06-26T14:55:27Z",
+            "content": "Apple today published a lengthy whitepaper that highlights the company's approach to device repairability and longevity. In the document, Apple revealed that iPhones will better support third-party d… [+1832 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Windows on Arm finally has legs - The Verge",
+            "description": "Windows on Arm is finally a thing. Microsoft and Qualcomm have done a good job of convincing developers to create ARM64 apps.",
+            "url": "https://www.theverge.com/2024/6/26/24186432/microsoft-windows-on-arm-qualcomm-copilot-plus-pcs-prism-emulator",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qKOxzzZmcuia28ojfojiL9gg4Zg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25503643/DSCF7817_Enhanced_NR_2.jpg",
+            "publishedAt": "2024-06-26T14:48:31Z",
+            "content": "Microsoft and Qualcomm have convinced software developers to lean into their latest Arm push.\r\nByTom Warren, a senior editor and author of Notepad, who has been covering all things Microsoft, PC, and… [+9338 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Paul Tassi",
+            "title": "As Destiny 2's Echoes Act 1 Abruptly Ends, Episodes Seem To Be Worse Than Seasons - Forbes",
+            "description": "Destiny 2 players logged in for a new story mission in its “Echoes” episode yesterday, and then were promptly informed that…the first Act was over.",
+            "url": "https://www.forbes.com/sites/paultassi/2024/06/26/as-destiny-2s-echoes-act-1-abruptly-ends-episodes-seem-to-be-worse-than-seasons/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/667c230a7918a3d91416dba2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-06-26T14:21:38Z",
+            "content": "Destiny 2\r\nBungie\r\nDestiny 2 players logged in for a new story mission in its Echoes episode yesterday, and then were promptly informed thatthe first Act was over. This was a surprise to many (myself… [+2949 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gematsu"
+            },
+            "author": "Sal Romano",
+            "title": "Medieval first-person action adventure RPG Alkahest announced for consoles, PC - Gematsu",
+            "description": "Push On, a Cyprus-based studio of 40-plus veteran developers who have previously worked on AAA and independent games, has announced Alkahest, a medieval first-person action adventure RPG with simul…",
+            "url": "https://www.gematsu.com/2024/06/medieval-first-person-action-adventure-rpg-alkahest-announced-for-consoles-pc",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/06/Alkahest_2024_06-26-24_012.jpg",
+            "publishedAt": "2024-06-26T13:55:21Z",
+            "content": "Push On, a Cyprus-based studio of 40-plus veteran developers who have previously worked on AAA and independent games, has announced Alkahest, a medieval first-person action adventure RPG with simulat… [+3708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Disneydreamlightvalley.com"
+            },
+            "author": null,
+            "title": "The Lucky Dragon Update - Disney Dreamlight Valley",
+            "description": "Live magically alongside Disney and Pixar friends in Disney Dreamlight Valley, a new life-sim adventure game coming soon on PC, Mac and Consoles.",
+            "url": "https://disneydreamlightvalley.com/news/TheLuckyDragonUpdate",
+            "urlToImage": "https://ddv.assets.gameloft.com/assets/DDV_24224_S_UPD_11_Blog_Assets_A_02_OFF_01_FB_LS_473x271_EN_e3bcbce6bf.png",
+            "publishedAt": "2024-06-26T13:01:50Z",
+            "content": "Hey Valley Villagers!\r\nA new Realm door opens today in Disney Dreamlight Valleys The Lucky Dragon update now LIVE on all platforms! Gather your Dreamlight, eat a hearty helping of Mushus Congee, and … [+4956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurism"
+            },
+            "author": "Jon Christian",
+            "title": "Scientists Attached Living, Lab-Grown Skin to a Robot's Face and It Looks Like It Craves the Sweet Release of Death - Futurism",
+            "description": "Scientists have grown living skin in a lab and attached it to a robotic face, so that it can create rudimentary facial expressions.",
+            "url": "https://futurism.com/the-byte/living-skin-robot-face",
+            "urlToImage": "https://wp-assets.futurism.com/2024/06/living-skin-robot-face-1.png",
+            "publishedAt": "2024-06-26T13:01:12Z",
+            "content": "Please no.\r\nFace/Off\r\nRemember that one movie where a killer robot is disguised as a human using \"living tissue\" over its \"metal endoskeleton\"?\r\nLest you interpreted that as a cautionary tale, scient… [+2621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Nintendo World Championships: NES Edition Might Be Switch's Next Party Game Classic - IGN",
+            "description": "IGN's Rebekah Valentine and Ryan McCaffrey share their opinions after playing Nintendo World Championships: NES Edition, the upcoming Nintendo Switch party-g...",
+            "url": "https://www.youtube.com/watch?v=B5uKkalHUlM",
+            "urlToImage": "https://i.ytimg.com/vi/B5uKkalHUlM/maxresdefault.jpg",
+            "publishedAt": "2024-06-26T13:00:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Paul Tassi",
+            "title": "'Elden Ring: Shadow Of The Erdtree' Patch Buffs Players After Difficulty Complaints - Forbes",
+            "description": "Since Elden Ring’s Shadow of the Erdtree launches, many players have complained that it’s too difficult, even for a FromSoft game. Now, that's changing.",
+            "url": "https://www.forbes.com/sites/paultassi/2024/06/26/elden-ring-shadow-of-the-erdtree-patch-buffs-players-after-difficulty-complaints/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/667c0dfddc89157b544256b6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-06-26T12:52:39Z",
+            "content": "Elden Ring\r\nNemPlays\r\nSince Elden Rings Shadow of the Erdtree launches, many players have complained that its too difficult, even for a FromSoft game, and no matter how strong their characters may ha… [+2731 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "MacRumors"
             },
             "author": "Tim Hardwick",
-            "title": "Alleged First Look at Apple Watch X / Series 10 With 2-Inch Display - MacRumors",
-            "description": "Apple is rumored to be planning a revamp of the Apple Watch for the device's tenth anniversary, and 91mobiles claims to have sourced CAD renders...",
-            "url": "https://www.macrumors.com/2024/06/26/alleged-first-look-at-apple-watch-x-series-10/",
-            "urlToImage": "https://images.macrumors.com/t/4HUertkiVBWeC47UHWnFJQ_6mPg=/1920x/article-new/2023/08/Apple-Watch-X-Feature.jpg",
-            "publishedAt": "2024-06-26T09:44:22Z",
-            "content": "Apple is rumored to be planning a revamp of the Apple Watch for the device's tenth anniversary, and 91mobiles claims to have sourced CAD renders of what could be the \"Apple Watch X\" or Apple Watch Se… [+1876 chars]"
+            "title": "Google Scraps Continuous Scrolling in Search Results - MacRumors",
+            "description": "Google is reportedly scrapping continuous scrolling of search results on desktop and mobile, with the company returning to the old method of dividing...",
+            "url": "https://www.macrumors.com/2024/06/26/google-scraps-continuous-scrolling-search-results/",
+            "urlToImage": "https://images.macrumors.com/t/F4F4I3mtoYMc4_O_LbW1_JUfGPc=/2500x/article-new/2022/02/Google-Logo-Feature-Slack.jpg",
+            "publishedAt": "2024-06-26T12:49:06Z",
+            "content": "Google is reportedly scrapping continuous scrolling of search results on desktop and mobile, with the company returning to the old method of dividing results into several pages (via The Verge).\r\nGoog… [+1072 chars]"
         },
         {
             "source": {
-                "id": "ign",
-                "name": "IGN"
+                "id": null,
+                "name": "SamMobile"
             },
-            "author": "Ryan Dinsdale",
-            "title": "Elden Ring: Shadow of the Erdtree Gets First Patch in Update 1.12.2 - IGN",
-            "description": "Elden Ring developer FromSoftware has released its first patch for the game following the release of Shadow of the Erdtree, bringing it up to Update 1.12.2.",
-            "url": "https://www.ign.com/articles/elden-ring-shadow-of-the-erdtree-gets-first-patch-in-update-1122",
-            "urlToImage": "https://assets-prd.ignimgs.com/2024/02/26/elden-ring-dlc-sale-ign-2-1708957363507.png?width=1280",
-            "publishedAt": "2024-06-26T09:23:33Z",
-            "content": "Elden Ring developer FromSoftware has released its first patch for the game following the release of Shadow of the Erdtree, bringing it up to Update 1.12.2.\r\nA blog post from Bandai Namco outlined th… [+2910 chars]"
+            "author": "SamMobile, Mihai Matei",
+            "title": "Galaxy S25 could use a MediaTek chip, wild rumor says - SamMobile - Samsung news",
+            "description": "There's been a lot of back and forth in the media about Samsung's possible choice of chipset(s) for the upcoming ...",
+            "url": "https://www.sammobile.com/news/galaxy-s25-could-use-mediatek-chip-wild-rumor-says/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/04/Galaxy-S24-14-720x404.jpg",
+            "publishedAt": "2024-06-26T12:20:00Z",
+            "content": "There's been a lot of back and forth in the media about Samsung's possible choice of chipset(s) for the upcoming Galaxy S25 series. Some rumors said the lineup will be powered exclusively by the Exyn… [+2281 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SpaceNews"
+            },
+            "author": "Jeff Foust",
+            "title": "Collins Aerospace pulls back from NASA spacesuit contract - SpaceNews",
+            "description": "As NASA grapples with more spacesuit problems on the space station, the company it selected to develop new suits says it is pulling back from that effort.",
+            "url": "https://spacenews.com/collins-aerospace-pulls-back-from-nasa-spacesuit-contract/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2024/02/collins-0gtest-1.jpg",
+            "publishedAt": "2024-06-26T11:26:10Z",
+            "content": "WASHINGTON As NASA grapples with more spacesuit problems on the International Space Station, the company it selected to develop replacement suits says it is pulling back from that effort.\r\nIn a state… [+4439 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Kate Knibbs",
+            "title": "I Wore Meta Ray-Bans in Montreal to Test Their AI Translation Skills. It Did Not Go Well - WIRED",
+            "description": "WIRED took Meta’s Ray-Ban Smart Glasses to French-speaking Canada to trial its AI smarts. Quelle catastrophe!",
+            "url": "https://www.wired.com/story/meta-ray-ban-ai-translation-skills-do-not-work-well/",
+            "urlToImage": "https://media.wired.com/photos/667be567ae94e9a93ecc6489/191:100/w_1280,c_limit/RAYBANMETA.jpg",
+            "publishedAt": "2024-06-26T10:00:00Z",
+            "content": "Imagine youve just arrived in another country, you dont speak the language, and you stumble upon a construction zone. The air is thick with dust. Youre tired. You still stink like airplane. You try t… [+3070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Benjamin Mayo",
+            "title": "Alleged Apple Watch Series 10 schematics show larger 2-inch display, unchanged band attachment system - 9to5Mac",
+            "description": "Via schematics published by 91mobiles, we may have our first look at the upcoming Apple Watch Series 10. It is...",
+            "url": "https://9to5mac.com/2024/06/26/apple-watch-series-10-bigger-screen/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-watch-series-10-cad.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-06-26T09:32:00Z",
+            "content": "Via schematics published by 91mobiles, we may have our first look at the upcoming Apple Watch Series 10. It is perhaps not the drastic ‘Apple Watch X’ redesign that has been rumored over the last yea… [+1700 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Why You Shouldn't Buy an iPhone This Summer. All the Reasons, From A to I. - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/tech/personal-tech/why-you-shouldnt-buy-an-iphone-this-summer-all-the-reasons-from-a-to-i-de879f87",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T09:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gematsu"
+            },
+            "author": "Sal Romano",
+            "title": "Original Resident Evil now available via GOG, Resident Evil 2 and Resident Evil 3: Nemesis coming soon - Gematsu",
+            "description": "The original 1996 PC release of Resident Evil is now available for PC via GOG, and the original PC releases of Resident Evil 2 and Resident Evil 3: Nemesis are coming soon, GOG and Capcom announced…",
+            "url": "https://www.gematsu.com/2024/06/original-resident-evil-now-available-via-gog-resident-evil-2-and-resident-evil-3-nemesis-coming-soon",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/06/Resi-Evil-PC_06-26-24.jpg",
+            "publishedAt": "2024-06-26T08:00:43Z",
+            "content": "The original 1996 PC release of Resident Evil is now available for PC via GOG, and the original PC releases of Resident Evil 2 and Resident Evil 3: Nemesis are coming soon, GOG and Capcom announced. … [+1526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "https://www.facebook.com/thehackernews",
+            "title": "New Medusa Android Trojan Targets Banking Users Across 7 Countries - The Hacker News",
+            "description": "Discover how the updated Medusa Android banking trojan targets users in 7 countries, featuring new stealth capabilities and expanded reach.",
+            "url": "https://thehackernews.com/2024/06/new-medusa-android-trojan-targets.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMeIQJNCXLWs5yMYJaBRbsp7Rcw6qBTwW29CbA3NQoW_HYkVT7Rvbbgc5daJaUjjLfa-3MrZiOhfEh502Y9dfVcSTD87oOUWJQcUEpI-J1D3-YxiLtlz3ML5-7h-WOprwLy4giEy64gyWdSvWXGHF6sAxurQ5UDsJhznVJZe_TGhU8pksbZ5Jm9JlTwfGj/s728-rw-e365/android-1.png",
+            "publishedAt": "2024-06-26T07:38:00Z",
+            "content": "Cybersecurity researchers have discovered an updated version of an Android banking trojan called Medusa that has been used to target users in Canada, France, Italy, Spain, Turkey, the U.K., and the U… [+3664 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chris Welch",
+            "title": "Ultimate Ears announces new Everboom speaker, Boom 4 with USB-C, and more - The Verge",
+            "description": "The new UE Everboom speaker is a scaled down, smaller version of the company’s Epicboom. The company is also refreshing the rest of its popular Boom lineup.",
+            "url": "https://www.theverge.com/2024/6/26/24185957/ue-everboom-boom-4-wonderboom-megaboom-features",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Q-WjlfkZVskLIKcNw_GBkzgBkxI=/0x0:2040x1406/1200x628/filters:focal(1020x703:1021x704)/cdn.vox-cdn.com/uploads/chorus_asset/file/25506379/everboom.jpg",
+            "publishedAt": "2024-06-26T07:01:00Z",
+            "content": "Ultimate Ears announces new Everboom speaker, Boom 4 with USB-C, and more\r\nUltimate Ears announces new Everboom speaker, Boom 4 with USB-C, and more\r\n / UEs speakers come in new colors and now contai… [+2455 chars]"
         },
         {
             "source": {
@@ -43,6 +329,19 @@
         },
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Creative Bloq",
+            "title": "Nobody understands what Pepsi's 'Smart Can' is for - Creative Bloq",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmNyZWF0aXZlYmxvcS5jb20vZGVzaWduL2JyYW5kaW5nL3BlcHNpcy1wdXQtYS1zY3JlZW4tb24tYS1jYW4tanVzdC1iZWNhdXNlLWl0LWNhbtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T06:00:46Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Android Police"
             },
@@ -56,55 +355,42 @@
         },
         {
             "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gerrit De Vynck",
+            "title": "OpenAI delays ChatGPT voice mode citing safety tests - The Washington Post",
+            "description": "The artificial intelligence company had planned to release new voice features for ChatGPT this month but said a broad release would instead come in the fall.",
+            "url": "https://www.washingtonpost.com/technology/2024/06/25/openai-delay-chatgpt-gpt-4o-voice-mode-safety/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7VBQ56ZNK6T334K6OAJEZO2DBM.JPG&w=1440",
+            "publishedAt": "2024-06-26T03:19:00Z",
+            "content": "SAN FRANCISCO OpenAI said Tuesday that it would delay the launch of voice and emotion-reading features for its ChatGPT chatbot because more time was needed for safety testing.\r\nThe company first show… [+2710 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "Eurogamer.net"
+                "name": "Android Police"
             },
-            "author": "Matt Wales",
-            "title": "Atari 50 getting 39 new games in DLC detailing Intellivision \"console war\" - Eurogamer",
-            "description": "Atari 50: The Anniversary Celebration - the acclaimed Atari-themed interactive museum from developer Digital Eclipse - …",
-            "url": "https://www.eurogamer.net/atari-50-getting-39-new-games-in-dlc-detailing-intellivision-console-war",
-            "urlToImage": "https://assetsio.gnwcdn.com/atari-50-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2024-06-26T00:24:24Z",
-            "content": "Atari 50: The Anniversary Celebration - the acclaimed Atari-themed interactive museum from developer Digital Eclipse - is adding 39 new games later this year in an expansion detailing further events … [+1931 chars]"
+            "author": "Timi Cantisano",
+            "title": "Google Gemini running in Chrome is so fast it's hard to believe - Android Police",
+            "description": "Built into the browser and runs offline",
+            "url": "https://www.androidpolice.com/google-gemini-chrome-ridiculously-fast/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/google-chrome-orange-ap-hero.jpg",
+            "publishedAt": "2024-06-26T02:09:00Z",
+            "content": "Summary\r\n<ul><li> Google is integrating Gemini Nano into Chrome. </li><li> It is not yet part of the public version, but modifications in Canary can allow for experimentation. </li><li> The feature l… [+1983 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Sean Hollister",
-            "title": "The owner of Toys 'R' Us just used OpenAI's Sora to animate the zombie brand - The Verge",
-            "description": "The owner of Toys “R” Us has just debuted the first “brand film” primarily created with OpenAI’s Sora photorealistic generative AI video making tool.",
-            "url": "https://www.theverge.com/2024/6/25/24186051/toys-r-us-openai-sora-brand-film",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/n8UXLVCwIGJCfTq6plPfM_39hZA=/0x0:1920x1080/1200x628/filters:focal(761x539:762x540)/cdn.vox-cdn.com/uploads/chorus_asset/file/25506323/vlcsnap_2024_06_25_16h06m34s808.png",
-            "publishedAt": "2024-06-25T23:30:16Z",
-            "content": "The owner of Toys R Us just used OpenAIs Sora to animate the zombie brand\r\nThe owner of Toys R Us just used OpenAIs Sora to animate the zombie brand\r\n / Toys R Us might be making a larger comeback, t… [+2704 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "RTX's Collins in talks to drop ISS spacesuit contract with NASA, sources say - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/technology/space/rtxs-collins-talks-drop-iss-spacesuit-contract-with-nasa-sources-say-2024-06-25/",
-            "urlToImage": null,
+            "author": "Shira Ovide",
+            "title": "It’s time to get real about what AI can and can’t do - The Washington Post",
+            "description": "It’s time to get real about what AI can and can’t do.",
+            "url": "https://www.washingtonpost.com/technology/2024/06/25/ai-dumber-than-you-think/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RE4VFEJGPJHDTLX4SWWBA6P77Y.jpg&w=1440",
             "publishedAt": "2024-06-25T23:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Roger Montti",
-            "title": "Google Ends Continuous Scroll SERPS: What It Really Means - Search Engine Journal",
-            "description": "Google ends continuous scroll in search results, giving an explanation that raises more questions than answers",
-            "url": "https://www.searchenginejournal.com/google-ends-continuous-scroll-serps-what-it-really-means/520768/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/06/google-continuous-scrolling-957.jpg",
-            "publishedAt": "2024-06-25T23:13:13Z",
-            "content": "Google announced that they are ending continuous scrolling in the search results (SERPs) as a way to speed up the serving of search results. Many in the search marketing community question that reaso… [+4908 chars]"
+            "content": "It feels delightful when technology helps you do something useful or cool.\r\nIts fantastic to point your phone camera at an unfamiliar tree and see that its an eastern redbud. Maybe you remember the f… [+4311 chars]"
         },
         {
             "source": {
@@ -134,45 +420,6 @@
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Benj Edwards",
-            "title": "Researchers upend AI status quo by eliminating matrix multiplication in LLMs - Ars Technica",
-            "description": "Running AI models without floating point matrix math could mean far less power consumption.",
-            "url": "https://arstechnica.com/information-technology/2024/06/researchers-upend-ai-status-quo-by-eliminating-matrix-multiplication-in-llms/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/AI_lightbulb-760x380.jpg",
-            "publishedAt": "2024-06-25T22:27:51Z",
-            "content": "129\r\nResearchers claim to have developed a new way to run AI language models more efficiently by eliminating matrix multiplication from the process. This fundamentally redesigns neural network operat… [+3179 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wccftech"
-            },
-            "author": "Omar Sohail",
-            "title": "Huawei Has Reportedly Invested Billions In An R&D Facility That Will Allow It To Develop Advanced Chipmaking Machinery Similar To ASML & Others - Wccftech",
-            "description": "A report claims that Huawei will match the advanced chipmaking tools of ASML and others through its own R&D facility",
-            "url": "https://wccftech.com/huawei-invested-billions-in-rd-facility-to-develop-advanced-chipmaking-machinery/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/06/Huawei-2.jpg",
-            "publishedAt": "2024-06-25T22:20:00Z",
-            "content": "SMIC and Huawei might have successfully developed the 5nm process for future chipsets, but there is a technological ceiling that the Chinese firm cannot phase through if it continues to rely on exist… [+1927 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "My Nintendo News"
-            },
-            "author": "ssf1991",
-            "title": "Dataminer discovers next Mortal Kombat 1 DLC characters - My Nintendo News",
-            "description": "It has now been almost nearly a year since Mortal Kombat 1 officially released on multiple platforms, including the Nintendo Switch. Since then, the game has now entered its post-launch phase…",
-            "url": "https://mynintendonews.com/2024/06/25/dataminer-discovers-next-mortal-kombat-1-dlc-characters/",
-            "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2023/05/mortal_kombat_1.jpeg?fit=2342%2C1268&ssl=1",
-            "publishedAt": "2024-06-25T22:17:15Z",
-            "content": "It has now been almost nearly a year since Mortal Kombat 1 officially released on multiple platforms, including the Nintendo Switch. Since then, the game has now entered its post-launch phase, where … [+445 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Motor1 "
             },
@@ -187,19 +434,6 @@
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "iOS 18 RCS Support Rolling Out to Beta Users - MacRumors",
-            "description": "With the second beta of iOS 18 that came out yesterday, Apple added an RCS toggle, but RCS messaging was not working at that time. RCS support...",
-            "url": "https://www.macrumors.com/2024/06/25/ios-18-rcs-support/",
-            "urlToImage": "https://images.macrumors.com/t/gkI0Trcgax4Vaq-LM4aZklZENjg=/2174x/article-new/2024/06/ios-18-beta-2-rcs-toggle.jpg",
-            "publishedAt": "2024-06-25T21:59:10Z",
-            "content": "With the second beta of iOS 18 that came out yesterday, Apple added an RCS toggle, but RCS messaging was not working at that time. ‌RCS‌ support appears to now be rolling out, based on reports from ‌… [+1666 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "YouTube"
             },
             "author": null,
@@ -209,19 +443,6 @@
             "urlToImage": "https://i.ytimg.com/vi/-vMKm44ypFY/maxresdefault.jpg",
             "publishedAt": "2024-06-25T21:48:18Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Samuel Axon",
-            "title": "OpenAI's ChatGPT for Mac is now available to all users - Ars Technica",
-            "description": "It supports pretty much everything but API calls.",
-            "url": "https://arstechnica.com/gadgets/2024/06/openais-chatgpt-for-mac-is-now-available-to-all-users/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Screenshot-2024-06-25-at-4.18.56 PM-760x380.png",
-            "publishedAt": "2024-06-25T21:37:32Z",
-            "content": "Enlarge/ The app lets you invoke ChatGPT from anywhere in the system with a keyboard shortcut, Spotlight-style.\r\n29\r\nOpenAI's official ChatGPT app for macOS is now available to all users for the firs… [+2200 chars]"
         },
         {
             "source": {
@@ -252,80 +473,67 @@
         {
             "source": {
                 "id": null,
-                "name": "GameSpot"
+                "name": "Android Authority"
             },
-            "author": "Phil Owen",
-            "title": "Fortnite Reload Is An Apology To Sweaty Streamers -- And It's Amazing - GameSpot",
-            "description": "Fortnite finally has an OG-style version of its battle royale that's worth keeping around.",
-            "url": "https://www.gamespot.com/articles/fortnite-reload-is-an-apology-to-sweaty-streamers-and-its-amazing/1100-6524502/",
-            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1757/17577455/4324791-fortnitereload.jpg",
-            "publishedAt": "2024-06-25T20:27:34Z",
-            "content": "Fortnite Reload--a new version of battle royale in the vein of Call of Duty: Warzone's Resurgence mode--came out of nowhere this past weekend, a surprising shot in the arm to a game that's needed one… [+5643 chars]"
+            "author": null,
+            "title": "Moto Tag is Motorola's new Android alternative to the Apple AirTag - Android Authority",
+            "description": "The new Moto Tag is esentially the Android version of the AirTag, complete with compatiblity for many of the AirTag's accessories.",
+            "url": "https://www.androidauthority.com/moto-tag-airtag-alternative-3454558/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/06/moto-tag-official-pic-scaled.jpg",
+            "publishedAt": "2024-06-25T20:27:04Z",
+            "content": "<ul><li>Moto Tags work similarly to Air Tags, just for Android users. Moto Tags cost $29 and work with the new Google Find My Device network.</li><li>The new Tags have UWB for precision tracking and … [+2441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "OpenAI's ChatGPT for Mac app is now available to everyone - 9to5Mac",
+            "description": "Over the last month, OpenAI has gradually been rolling out its first-ever ChatGPT app for Mac with Plus subscribers. Starting...",
+            "url": "https://9to5mac.com/2024/06/25/openais-chatgpt-for-mac-app-is-now-available-to-everyone/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/macchatgpt1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-06-25T20:09:00Z",
+            "content": "Over the last month, OpenAI has gradually been rolling out its first-ever ChatGPT app for Mac with Plus subscribers. Starting today, however, OpenAI says that the ChatGPT app for macOS is now availab… [+1754 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Android Central"
             },
-            "author": "Vishnu Sarangapurkar",
-            "title": "Samsung's upcoming Galaxy Watch 7 lands on Amazon ahead of launch - Android Central",
-            "description": "The Amazon listing confirms some of the device specs, launch date, and availability of the upcoming smartwatch.",
-            "url": "https://www.androidcentral.com/wearables/galaxy-watch-7-amazon-listing-leak",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dm53ejRRMV2tH8XHJTzA5g-1200-80.jpg",
-            "publishedAt": "2024-06-25T20:19:01Z",
-            "content": "What you need to know\r\n<ul><li>The Samsung Galaxy Watch 7 40mm smartwatch comes in cream and was spotted in an Amazon listing.</li><li>Alongside the price and availability, the listing also confirms … [+2305 chars]"
+            "author": "Jay Bonggolto",
+            "title": "Google Gemini is now in Gmail to write summaries and craft replies on the fly - Android Central",
+            "description": "Got a monster email on your device? Gmail's AI sidekick, Gemini, is here to save the day.",
+            "url": "https://www.androidcentral.com/apps-software/google-gemini-is-now-in-gmail-to-write-summaries-and-craft-replies-on-the-fly",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tX2oBaZPRugXdmgGbvUuJ7-1200-80.jpg",
+            "publishedAt": "2024-06-25T19:44:13Z",
+            "content": "What you need to know\r\n<ul><li>Google's Gemini AI is now integrated into Gmail on both web and mobile platforms, offering AI-powered email assistance.</li><li>In the web version of Gmail, Gemini appe… [+3001 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Kotaku"
+                "name": "CNET"
             },
-            "author": "Alyssa Mercante",
-            "title": "Shadow Of The Erdtree's Abyssal Woods Sucks - Kotaku",
-            "description": "This one area is the weakest part of Elden Ring's otherwise excellent DLC",
-            "url": "https://kotaku.com/elden-ring-shadow-of-the-erdtree-abyssal-woods-torrent-1851560149",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f2efe2450e3bc722aa1ecf1a6aaafc9f.jpg",
-            "publishedAt": "2024-06-25T20:00:00Z",
-            "content": "The sheer scale of Shadow of the Erdtree, Elden Rings excellent (and punishing) new DLC, is enough to amaze you. The large map stacks on top of itself, offering myriad nooks and crannies to explore, … [+3300 chars]"
+            "author": null,
+            "title": "This 65-Inch Insignia 4K Fire TV Is at a New Low of Only $300 - CNET",
+            "description": "Take advantage of early Prime Day deals, like 33% off this 4K 65-inch Insignia TV, bringing it to an all-time low price.",
+            "url": "https://www.cnet.com/deals/this-65-inch-insignia-4k-fire-tv-is-at-a-new-low-of-only-300/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f88af75d21d0920c7d9a95a9649fe05b012ede77/hub/2023/06/20/39a61e3c-de7b-4972-ae91-1fff346112df/03-bg-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-06-25T18:42:00Z",
+            "content": "If you're looking for a simple yet solid 4K TV, this Insignia option might be a great fit. It comes with 4K resolution and can stream all of your favorite movies and shows. It's hard to beat the affo… [+1214 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "PetaPixel"
+                "name": "MacRumors"
             },
-            "author": "Matt Growcoot",
-            "title": "This is What Makes Instagram Flag Your Photo as 'Made With AI' - PetaPixel",
-            "description": "That we know about.",
-            "url": "https://petapixel.com/2024/06/25/this-is-what-makes-instagram-flag-your-photo-as-made-with-ai/",
-            "urlToImage": "https://petapixel.com/assets/uploads/2024/06/made-with-ai-featured-image.jpg",
-            "publishedAt": "2024-06-25T19:22:27Z",
-            "content": "Instagram flagged my image as ‘Made With AI.’ It’s not.\r\nRecently, Instagram has been rolling out its “Made with AI” tag which ostensibly flags AI-generated images on the platform but it has been enr… [+8541 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Christopher Cruz",
-            "title": "'Supervive' Aims to Reinvent 'League of Legends' for a New Generation - Rolling Stone",
-            "description": "Inspired by every multiplayer game you love, the indie MOBA-like brawler is absolutely insane (but it works)",
-            "url": "http://www.rollingstone.com/culture/rs-gaming/supervive-gameplay-league-of-legends-1235046219/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/06/sv-ft.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2024-06-25T18:57:07Z",
-            "content": "If you’ve been playing video games on a PC at all over the last 20 years, you’re likely to be at least somewhat familiar with MOBAs. Short for “Multiplayer Online Battle Arena”, the subgenre of strat… [+8973 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Kevin Purdy",
-            "title": "The math on unplayed Steam “shame” is way off—and no cause for guilt - Ars Technica",
-            "description": "It's fun to speculate, but sales and library quirks make it impossible to know.",
-            "url": "https://arstechnica.com/gaming/2024/06/is-the-total-value-of-unplayed-steam-games-really-19-billion-probably-not/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1243266495-760x380.jpg",
-            "publishedAt": "2024-06-25T18:06:44Z",
-            "content": "Enlarge/ Blast away all the guilt you want in PowerWash Simulator, but there's no need to feel dirty in the real world about your backlog.\r\n107\r\nGaming news site PCGamesN has a web tool, SteamIDFinde… [+5383 chars]"
+            "author": "Mitchel Broussard",
+            "title": "Apple Watch SE and Apple Watch Ultra 2 Available for Low Prices on Amazon - MacRumors",
+            "description": "Amazon this week has a collection of discounts on the Apple Watch SE and Apple Watch Ultra 2, providing near all-time low prices on both of these...",
+            "url": "https://www.macrumors.com/2024/06/25/apple-watch-se-ultra-2-amazon/",
+            "urlToImage": "https://images.macrumors.com/t/AtVTIwOXVQvqTdzRP2RnitWb71U=/2500x/article-new/2024/03/apple-watch-ultra-2-purple.jpg",
+            "publishedAt": "2024-06-25T18:37:39Z",
+            "content": "Amazon this week has a collection of discounts on the Apple Watch SE and Apple Watch Ultra 2, providing near all-time low prices on both of these wearables.\r\nApple Watch SE\r\nNote: MacRumors is an aff… [+1488 chars]"
         },
         {
             "source": {
@@ -333,25 +541,12 @@
                 "name": "Business Insider"
             },
             "author": "Peter Kafka",
-            "title": "That Apple-Meta AI Deal Isn't Happening Anytime Soon - Business Insider",
+            "title": "That Apple-Meta AI deal isn't happening anytime soon - Business Insider",
             "description": "Apple and Meta probably aren't doing anything together on AI — or anything else — anytime soon.",
             "url": "https://www.businessinsider.com/apple-meta-ai-deal-not-happening-bloomberg-wall-street-journal-2024-6",
             "urlToImage": "https://i.insider.com/667b01d9d1c84a0eaca7b5c2?width=1200&format=jpeg",
             "publishedAt": "2024-06-25T18:03:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Faces made of living skin make robots smile - BBC.com",
-            "description": "Scientists find a way to attach living skin to robot faces for more realistic smiles and expressions.",
-            "url": "https://www.bbc.com/news/articles/cedd3208veyo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5611/live/a9bd78f0-32de-11ef-9af2-d71cdccb00ef.png",
-            "publishedAt": "2024-06-25T17:41:32Z",
-            "content": "By Michelle Roberts, Digital health editor, BBC News\r\nTaking inspiration from human skin ligaments, the prototype face can be made to smile\r\nJapanese scientists have found a way to attach living skin… [+1978 chars]"
         },
         {
             "source": {
@@ -368,32 +563,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BleepingComputer"
-            },
-            "author": "Bill Toulas",
-            "title": "New Medusa malware variants target Android users in seven countries - BleepingComputer",
-            "description": "BleepingComputer is a premier destination for cybersecurity news for over 20 years, delivering breaking stories on the latest hacks, malware threats, and how to protect your devices.",
-            "url": "https://www.bleepingcomputer.com/",
-            "urlToImage": "https://www.bleepstatic.com/logo/bleepingcomputer-logo.png",
-            "publishedAt": "2024-06-25T17:02:24Z",
-            "content": "The Medusa banking trojan for Android has re-emerged after almost a year of keeping a lower profile in campaigns targeting France, Italy, the United States, Canada, Spain, the United Kingdom, and Tur… [+3 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Beyond Good & Evil - 20th Anniversary Edition – Launch Trailer – Nintendo Switch - Nintendo of America",
-            "description": "Beyond Good & Evil - 20th Anniversary Edition is available now on Nintendo Switch!  Rediscover the cult classic in a special edition celebrating Beyond Good ...",
-            "url": "https://www.youtube.com/watch?v=Lz34PhVGV9Q",
-            "urlToImage": "https://i.ytimg.com/vi/Lz34PhVGV9Q/maxresdefault.jpg",
-            "publishedAt": "2024-06-25T17:00:13Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": "ign",
                 "name": "IGN"
             },
@@ -404,32 +573,6 @@
             "urlToImage": "https://assets-prd.ignimgs.com/2024/06/25/disrespect-1719333844489.gif?width=1280",
             "publishedAt": "2024-06-25T16:55:39Z",
             "content": "Update 6/25/2024 1:01 PM PT: In addition to our outreach to Turtle Beach and FanDuel, IGN also approached Skybound Entertainment to ask about the status of its 2019 deal with Guy Beahm for a televisi… [+5340 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pinkbike.com"
-            },
-            "author": "Seb Stott",
-            "title": "First Look: Garbaruk's Aluminum Enduro Crankset - Pinkbike.com",
-            "description": "This CNC-machined crank is respectably light and comes in 512 colour combinations",
-            "url": "https://www.pinkbike.com/news/first-look-garbaruk-enduro-crankset.html",
-            "urlToImage": "https://ep1.pinkbike.org/p4pb26865330/p4pb26865330.jpg",
-            "publishedAt": "2024-06-25T16:37:53Z",
-            "content": "Garbaruk Enduro Crank DetailsIntended use: trail, enduro, DH, e-bikeMaterial: Machined 7075 Aluminum AlloyCrank arm lengths: 165, 170, 175mm30 mm or 29 mm (SRAM DUB) spindle, 136.5 mm long, 52 or 55 … [+186 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Anthony Wood",
-            "title": "Elden Ring Dataminers are Revealing All Sorts of Cool Shadow of the Erdtree NPC Secrets - IGN",
-            "description": "Shadow of the Erdtree has been out for less than a week, yet Elden Ring dataminers are already hard at work unravelling the DLC's secrets and revealing what lies beneath the armor of the NPC characters and bosses that inhabit the land of shadow.",
-            "url": "https://www.ign.com/articles/elden-ring-dataminers-are-revealing-all-sorts-of-cool-shadow-of-the-erdtree-npc-secrets",
-            "urlToImage": "https://assets-prd.ignimgs.com/2024/06/21/liondancers-1718962033767.jpg?width=1280",
-            "publishedAt": "2024-06-25T16:37:42Z",
-            "content": "Shadow of the Erdtree has been out for less than a week, yet dataminers are already hard at work unravelling the DLC's secrets and revealing what lies beneath the armor of the NPC characters and boss… [+3358 chars]"
         },
         {
             "source": {
@@ -472,19 +615,6 @@
         },
         {
             "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "Mackenzie Frazier",
-            "title": "Don't wait for Prime Day: the stunning LG C3 OLED TV just crashed to its lowest price ever - TechRadar",
-            "description": "Save $1,000 right now on one of the best OLED TVs on the market",
-            "url": "https://www.techradar.com/televisions/dont-wait-for-prime-day-the-stunning-lg-c3-oled-tv-just-crashed-to-its-lowest-price-ever",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SR9RUbVwr4SpcaDx2RKa3-1200-80.jpg",
-            "publishedAt": "2024-06-25T15:24:20Z",
-            "content": "While Amazon's official Prime Day dates for July 16 and 17 have just been announced, the retailer has an incredible deal right now on one of the best OLED TVs on the market. Amazon just dropped LG's … [+1280 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "MacRumors"
             },
@@ -495,19 +625,6 @@
             "urlToImage": "https://images.macrumors.com/t/oc5s_o-hrYqaDUOlUAQVx-GOFZ4=/2500x/article-new/2024/06/iPhone-13-Pro-vs-16-Pro-Feature.jpg",
             "publishedAt": "2024-06-25T15:18:58Z",
             "content": "The iPhone 16 Pro is set to succeed 2023's iPhone 15 Pro, introducing over 25 new features and improvements to Apple's high-end smartphones. With many users adopting three-year upgrade cycles, plenty… [+10477 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "IGN",
-            "title": "PlayStation 5 Exclusive Stellar Blade Sells 1 Million Copies - IGN",
-            "description": null,
-            "url": "https://www.ign.com/articles/playstation-5-exclusive-stellar-blade-sells-1-million-copies",
-            "urlToImage": null,
-            "publishedAt": "2024-06-25T15:07:40Z",
-            "content": null
         },
         {
             "source": {
@@ -525,131 +642,27 @@
         {
             "source": {
                 "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Rockstargames.com"
             },
             "author": "Rockstar Games",
-            "title": "Get More in GTA Online: Bottom Dollar Bounties With GTA+ Membership - Rockstar Games",
-            "description": "The arrival of the new Bottom Dollar Bounties update in GTA Online also brings with it an assortment of new benefits for GTA+ — the premium Membership for GTA Online Players on PS5 and Xbox Series X|S.",
-            "url": "https://www.rockstargames.com/newswire/article/511ko1133811a1/get-more-in-gta-online-bottom-dollar-bounties-with-gta-membership",
-            "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/511ko1133811a1/3004508855c3c08275d2ad353f40a19e2aae3a17.jpg",
-            "publishedAt": "2024-06-25T15:02:24Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Aisha Malik",
-            "title": "Google brings its Gemini AI to Gmail to help you write and summarize emails - TechCrunch",
-            "description": "Google is rolling a new Gemini side panel in Gmail that can help you write emails and summarize email threads.",
-            "url": "https://techcrunch.com/2024/06/25/google-brings-its-gemini-ai-to-gmail-via-a-sidebar-that-can-help-you-write-and-summarize-emails/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
-            "publishedAt": "2024-06-25T14:44:34Z",
-            "content": "Google is rolling out a new Gemini AI side panel in Gmail that can help you write emails and summarize email threads. The company is also adding the Gemini side panel to Docs, Sheets, Slides and Driv… [+2419 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lifehacker.com"
-            },
-            "author": "Joshua Hawkins",
-            "title": "You Should Probably ‘Downgrade’ to Spotify’s New Basic Plan - Lifehacker",
-            "description": "Are you one of the three-quarters of users who aren't listening to audiobooks on Spotify? Don't pay for them.",
-            "url": "https://lifehacker.com/tech/you-should-downgrade-to-spotifys-new-basic-plan",
-            "urlToImage": "https://lifehacker.com/imagery/articles/01J17QJ9BEEEFA1JXZZ5PF045G/hero-image.fill.size_1200x675.jpg",
-            "publishedAt": "2024-06-25T14:30:42Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Chris Welch",
-            "title": "The Beats Pill speaker is back — now with 24-hour battery life and USB-C audio - The Verge",
-            "description": "The new $149.99 Beats Pill speaker offers upgrades including IP67 durability, line-in audio support, and native features across both Android and iOS.",
-            "url": "https://www.theverge.com/2024/6/25/24185530/beats-pill-2024-features-price",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/vKESEq2qtkZzfB2opNi657HrDj8=/0x0:2040x1361/1200x628/filters:focal(1020x681:1021x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/25505228/pill1.jpg",
-            "publishedAt": "2024-06-25T14:00:00Z",
-            "content": "The Beats Pill speaker is back now with 24-hour battery life and USB-C audio\r\nThe Beats Pill speaker is back now with 24-hour battery life and USB-C audio\r\n / The $149.99 speaker is available to preo… [+1549 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "Reviewing the Boox Palma, the Surface Pro, and the Surface Laptop - The Verge",
-            "description": "How E Ink and the Play Store make the Boox Palma a great device and how Qualcomm’s chips and Microsoft’s AI features affect our Surface Pro and Surface Laptop reviews.",
-            "url": "https://www.theverge.com/2024/6/25/24185527/boox-palma-surface-pro-laptop-qualcomm-ai-vergecast",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/8bq8YbJNs3pUMPcx-bCG3cHUtKg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25505204/VST_0625_Site.jpg",
-            "publishedAt": "2024-06-25T13:15:10Z",
-            "content": "New chips, new screens, new gadgets\r\nNew chips, new screens, new gadgets\r\n / On The Vergecast: how an E Ink screen changes a smartphone and how Qualcomm chips and AI might change the PC world.\r\nByDav… [+2030 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rock Paper Shotgun"
-            },
-            "author": "Edwin Evans-Thirlwell",
-            "title": "Riven's remake is out today and makes me feel weird – there's still a demo, if you're quick - Rock Paper Shotgun",
-            "description": "Cyan Worlds' remake of their 1997-released Myst sequel Riven launches today on Steam. Word on the reviewvine is that it…",
-            "url": "https://www.rockpapershotgun.com/rivens-remake-is-out-today-and-makes-me-feel-weird-theres-still-a-demo-if-youre-quick",
-            "urlToImage": "https://assetsio.gnwcdn.com/3_130attF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2024-06-25T13:08:54Z",
-            "content": "Cyan Worlds' remake of their 1997-released Myst sequel Riven launches today on Steam. Word on the reviewvine is that it's jolly decent, offering free movement around a real-time 3D reinvention of the… [+3090 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "The Nintendo Switch isn't going out quietly - The Verge",
-            "description": "With games like Luigi’s Mansion 2 HD and The Legend of Zelda: Echoes of Wisdom, Nintendo is ensuring the end of the Switch’s lifespan is still filled with great releases.",
-            "url": "https://www.theverge.com/24185022/nintendo-switch-2024-game-lineup-zelda-echoes-of-wisdom",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/tB7BCvJUEhGJ-K-hutuVV-HOqlM=/0x0:1843x1037/1200x628/filters:focal(502x528:503x529)/cdn.vox-cdn.com/uploads/chorus_asset/file/25504158/Switch_LuigisMansion2HD_scrn_08.png",
-            "publishedAt": "2024-06-25T13:00:00Z",
-            "content": "The Nintendo Switch isnt going out quietly\r\nThe Nintendo Switch isnt going out quietly\r\n / The company has remained remarkably consistent since 2017, and the end of the Switch hasnt seemed to change … [+3914 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Tim Hardwick",
-            "title": "Apple Supplier Unveils 'Industry First' Tandem OLED Laptop Panel - MacRumors",
-            "description": "OLED iPad Pro panel maker LG Display has begun mass producing the industry's first 13-inch tandem OLED panel designed for laptops, the Korean...",
-            "url": "https://www.macrumors.com/2024/06/25/lg-display-making-tandem-oled-laptop-panels/",
-            "urlToImage": "https://images.macrumors.com/t/m9RJLxedtQErY7v6molq4t4fT7Y=/2500x/article-new/2023/04/Oled-MackBook-Pros-23.jpg",
-            "publishedAt": "2024-06-25T12:31:15Z",
-            "content": "OLED iPad Pro panel maker LG Display has begun mass producing the industry's first 13-inch tandem OLED panel designed for laptops, the Korean company announced this week.\r\nLG Display supplies the maj… [+2147 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Apple says no to PC emulators on iOS - The Verge",
-            "description": "Apple rejected submissions of PC emulators iDOS 3 and UTM SE for the App Store. In both instances, Apple said the new releases violate its App Store rules.",
-            "url": "https://www.theverge.com/2024/6/24/24185066/apple-pc-dos-emulators-ios-rejection",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/55tJEnalEYRrWue3H3_BBhkMNpo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931976/236794_iPhone_15_pro_pro_Max_VPavic_0020.jpg",
-            "publishedAt": "2024-06-24T20:58:03Z",
-            "content": "Apple says no to PC emulators on iOS\r\nApple says no to PC emulators on iOS\r\n / Although Apple allows for retro video game emulators, the company has rejected two apps for being PC emulators.\r\nByJay P… [+2754 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Gamers Nexus",
-            "title": "The Most Annoying Computer Noise | Noctua Engineering Deep-Dive on Case Fans - Gamers Nexus",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CCAiC0Y3aWFfRlpjdGhRmAEB?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-24T18:58:38Z",
+            "title": "GTA Online: Bottom Dollar Bounties Out Now - Rockstar Games",
+            "description": "After a dedicated career tracking down the state’s most wanted, notorious bounty hunter Maude Eccles is hanging up her cuffs and offering a golden opportunity to those with a burning passion for justice in GTA Online: Bottom Dollar Bounties, now...",
+            "url": "https://www.rockstargames.com/newswire/article/51195a98k31273/gta-online-bottom-dollar-bounties-out-now",
+            "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/51195a98k31273/b09b6eed5fca782157217a73a0047752bb41766f.jpg",
+            "publishedAt": "2024-06-25T13:57:24Z",
             "content": null
         },
         {
@@ -657,39 +670,26 @@
                 "id": null,
                 "name": "Forbes"
             },
-            "author": "Erik Kain",
-            "title": "There's One Glaring Problem With The New 'Zelda: Echoes Of Wisdom' Nintendo Game Where You Play As Zelda - Forbes",
-            "description": "The Legend Of Zelda: Echoes Of Wisdom is missing one of the things that makes 'Zelda' games great.",
-            "url": "https://www.forbes.com/sites/erikkain/2024/06/24/theres-one-glaring-problem-with-the-new-zelda-echoes-of-wisdom-nintendo-game-where-you-play-as-zelda/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6679a279851cbb73362e5bcb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-06-24T17:06:34Z",
-            "content": "The Legend Of Zelda: Echoes Of Wisdom\r\nCredit: Nintendo\r\nIm excited that after all these yearsnearly four decades, actuallywere finally getting a Legend Of Zelda game where you play as the princess Z… [+2936 chars]"
+            "author": "Paul Tassi",
+            "title": "The Shadow Of The Erdtree Secret Gesture And Statue You Need To Access 20% Of The Map - Forbes",
+            "description": "This is how to access the Hinterlands and beyond in Elden Ring's Shadow of the Erdtree using a secret gesture and statue combination.",
+            "url": "https://www.forbes.com/sites/paultassi/2024/06/25/the-shadow-of-the-erdtree-secret-gesture-and-statue-you-need-to-access-20-of-the-map/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/667ac8b414016313b55db0a8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-06-25T13:46:17Z",
+            "content": "Hinterlands\r\nElden Ring\r\nYes, much of the challenge in Elden Rings Shadow of the Erdtree is beating its tough bosses, but its also justfiguring out how to get places.\r\nOne of those places is a giant … [+2023 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Forbes"
+                "id": "fortune",
+                "name": "Fortune"
             },
-            "author": "Janhoi McGregor",
-            "title": "Samsung Teases New Galaxy Z Fold 6 With Early Email - Forbes",
-            "description": "Samsung's Galaxy Fold 6 and Flip 6 are around the corner.",
-            "url": "https://www.forbes.com/sites/jaymcgregor/2024/06/24/samsung-galaxy-z-fold-6-z-flip-6-pre-order-registration-release-date/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/657f0e7888e798230898bf5c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-06-24T15:13:32Z",
-            "content": "A triple camera module on the rear of a Samsung Electronics Co. Galaxy Z Fold 5 smartphone ahead of ... [+] the company's Unpacked event in Seoul, South Korea, on Friday, July 21, 2023. Samsung Elect… [+2813 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "https://www.facebook.com/thehackernews",
-            "title": "Google Introduces Project Naptime for AI-Powered Vulnerability Research - The Hacker News",
-            "description": "Google's Project Naptime empowers AI to autonomously uncover vulnerabilities, revolutionizing automated security assessments.",
-            "url": "https://thehackernews.com/2024/06/google-introduces-project-naptime-for.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxU5ZnL_uPFbF497QWyQYuVSCEnsAkCsChd2y0778LJP8oe0wWkMrjK48SJgbfyWP9loHUfAa7ps5-gMs-T0h8M-uLRcio_y84WGx6pnEcHKMknGfW7_o8iS4zhBzE6kgIr9AiQeceDJWBTxuOUTOSjg2R3ufDFMFDUCvfeMtfisD3CiM2Zfuv_4Dq1O-/s728-rw-e365/google.png",
-            "publishedAt": "2024-06-24T15:03:00Z",
-            "content": "Google has developed a new framework called Project Naptime that it says enables a large language model (LLM) to carry out vulnerability research with an aim to improve automated discovery approaches… [+2009 chars]"
+            "author": "Sharon Goldman",
+            "title": "Meta AI Mafia strikes again: EvolutionaryScale secures $142 million seed investment round - Fortune",
+            "description": "EvolutionaryScale also annouced the creation of ESM3, which it says is the largest LLM-based generative AI model for biology",
+            "url": "https://fortune.com/2024/06/25/meta-ai-mafia-evolutionaryscale-llm-biology-seed-round-142-million/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/alex_rives_photo.jpg?resize=1200,600",
+            "publishedAt": "2024-06-25T10:00:00Z",
+            "content": "In August 2023, as part of Mark Zuckerbergs year of efficiency that led to over 20,000 layoffs, Meta disbanded a research team of a dozen scientists that had trained an AI large language model for bi… [+5188 chars]"
         }
     ]
 }

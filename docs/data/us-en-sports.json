@@ -1,149 +1,435 @@
 {
     "status": "ok",
-    "totalResults": 67,
+    "totalResults": 51,
     "articles": [
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "espn",
+                "name": "ESPN"
             },
-            "author": "USA TODAY",
-            "title": "How Joey Chestnut fared compared to Nathan's Hot Dog Contest winner - USA TODAY",
+            "author": "Adrian Wojnarowski",
+            "title": "Sources: Nuggets agree to 2-year deal with Saric - ESPN",
+            "description": "Dario Saric and the Denver Nuggets agreed on a two-year, $10.6 million deal with a player option.",
+            "url": "https://www.espn.com/nba/story/_/id/40509759/sources-nuggets-agree-2-year-106m-deal-dario-saric",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1225%2Fr1270603_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-06T23:18:00Z",
+            "content": "Free agent forward Dario Saric has agreed on a two-year, $10.6 million deal -- including a player option -- with the Denver Nuggets, sources told ESPN on Saturday.\r\nSaric comes to the Nuggets with th… [+544 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Dave McMenamin",
+            "title": "Bronny James has 4 points in summer league debut for Lakers - ESPN",
+            "description": "Wearing jersey No. 9, Bronny James took his place in the Lakers' starting lineup and finished 2-of-9 for four points in his NBA summer league debut Saturday.",
+            "url": "https://www.espn.com/nba/story/_/id/40509590/bronny-james-4-points-summer-league-debut-lakers",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0706%2Fr1355481_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-06T23:00:00Z",
+            "content": "SAN FRANCISCO -- Bronny James made his NBA summer league debut Saturday and was surprised by the warm reception in the city where his father played some of his fiercest NBA Finals battles.\r\n\"The atmo… [+4888 chars]"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+            "author": null,
+            "title": "RELEASE: Blackhawks Sign Artyom Levshunov to Entry-Level Deal | Chicago Blackhawks - NHL.com",
+            "description": "Chicago signs No. 2 overall pick to three-year contract with $975,000 salary cap hit",
+            "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-artyom-levshunov-to-entry-level-deal",
+            "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/l9ox1f0awjyuvkkw9ttm.png",
+            "publishedAt": "2024-07-06T22:45:24Z",
+            "content": "Levshunov, 18, recorded 35 points (9G, 26A) in 38 games with Michigan State University (NCAA) during the 2023-24 campaign, helping the Spartans to both Big Ten Regular Season and Tournament Champions… [+1008 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Tom Jackman, Michael Errigo",
+            "title": "Minnesota Vikings cornerback Khyree Jackson dies in Maryland car crash - The Washington Post",
+            "description": "Jackson, a cornerback for the Minnesota Vikings, died in a crash in Upper Marlboro Saturday, along with two of his Wise High School teammates Anthony Lytton Jr. and Isaiah Hazel.",
+            "url": "https://www.washingtonpost.com/dc-md-va/2024/07/06/khyree-jackson-minnesota-vikings-dead/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AFUJVHGA6ZCG6W7AVN5TUB7Q2U.jpg&w=1440",
+            "publishedAt": "2024-07-06T22:37:27Z",
+            "content": "Three former high school state champion football players from Prince Georges County including one just drafted into the NFL were killed early Saturday when a speeding and possibly alcohol-impaired dr… [+6053 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Mark W. Sanchez",
+            "title": "Ben Rice’s historic three-homer game snaps Yankees out of funk in rout of Red Sox - New York Post ",
+            "description": "In a lineup that includes Juan Soto and Aaron Judge and on an afternoon that Gerrit Cole was on the mound, it was new leadoff hitter Ben Rice who would not let his team lose a fifth straight game.",
+            "url": "https://nypost.com/2024/07/06/sports/ben-rices-historic-game-snaps-yankees-out-of-funk-in-rout-of-red-sox/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-jn05p1u44-1720297534598.jpg?quality=75&strip=all&1720283161&w=1024",
+            "publishedAt": "2024-07-06T22:18:45Z",
+            "content": "At what they hope was rock bottom, the Yankees looked to the top of the order. \r\nIn a lineup that includes Juan Soto and Aaron Judge and on an afternoon that Gerrit Cole was on the mound, it was new … [+5262 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Twins' Jose Miranda gets a hit in 12th consecutive at-bat, tying MLB record - The Associated Press",
+            "description": "Jose Miranda of the Minnesota Twins singled in the fourth inning for his 12th straight hit in an at-bat. MLB says that ties the longest streak in major league history. Miranda entered the game Saturday against the Houston Astros with 10 consecutive hits. He w…",
+            "url": "https://apnews.com/article/jose-miranda-twins-561d46652a22e8daf003c852136ee68c",
+            "urlToImage": "https://dims.apnews.com/dims4/default/bbfefa0/2147483647/strip/true/crop/5565x3130+0+290/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd3%2Fee%2Fe9ea7398cd2b05e1a477564b320d%2Fafad790828754c6b8901c5c043633651",
+            "publishedAt": "2024-07-06T22:02:00Z",
+            "content": "MINNEAPOLIS (AP) Jose Miranda of the Minnesota Twins singled in the fourth inning on Saturday for his 12th straight hit in an at-bat, tying the longest streak in MLB history.\r\nThe fans at Target Fiel… [+1695 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Seattle Times"
+            },
+            "author": "The Seattle Times",
+            "title": "Mariners' Julio Rodriguez pulled from game with quad injury, will undergo MRI - The Seattle Times",
             "description": null,
-            "url": "https://www.usatoday.com/story/sports/2024/07/04/joey-chestnut-nearly-outeats-nathans-winner-army-base/74297687007/",
+            "url": "https://www.seattletimes.com/sports/mariners/mariners-julio-rodriguez-pulled-from-game-with-injury-scare/",
             "urlToImage": null,
-            "publishedAt": "2024-07-06T17:32:44Z",
+            "publishedAt": "2024-07-06T21:31:49Z",
             "content": null
         },
         {
             "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Giannis Antetokounmpo, Greece eliminate Luka Doncic, Slovenia in Olympic qualifying semifinals - CBS Sports",
+            "description": "Greece is one win away from making the 2024 Paris Olympics, while Slovenia's run has ended",
+            "url": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-greece-eliminate-luka-doncic-slovenia-in-olympic-qualifying-semifinals/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/06/5afbcb16-f9eb-493c-8536-50f1fe6fa215/thumbnail/1200x675/e4d75a46f4656530846d45fee37d094f/giannis-luka-getty.png",
+            "publishedAt": "2024-07-06T21:07:00Z",
+            "content": "Giannis Antetokounmpo is one win away from clinching his first Olympic appearance. On Saturday, at home in Piraeus, Antetokounmpo and Greece eliminated Luka Doncic and Slovenia in the Olympic Qualify… [+1704 chars]"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+            "author": null,
+            "title": "Sharks sign 2024 first-overall selection Macklin Celebrini | San Jose Sharks - NHL.com",
+            "description": "San Jose Sharks (@SanJoseSharks) General Manager Mike Grier announced today that the club has signed center Macklin Celebrini (@MackCelebrini), the Sharks first-overall selection in the 2024 NHL Draft, to a standard, entry-level contract.\n“Macklin is not only…",
+            "url": "https://www.nhl.com/sharks/news/sharks-sign-2024-first-overall-selection-macklin-celebrini",
+            "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/edfdmdvxkto4azjvbz5m.jpg",
+            "publishedAt": "2024-07-06T21:05:16Z",
+            "content": "San Jose Sharks (@SanJoseSharks) General Manager Mike Grier announced today that the club has signed center Macklin Celebrini (@MackCelebrini), the Sharks first-overall selection in the 2024 NHL Draf… [+3489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rivals.com"
+            },
+            "author": "Parker Thune",
+            "title": "OU Scores Another Elite Secondary Piece In Four-star DB Omarion Robinson - Rivals.com - Oklahoma",
+            "description": "The Natural State's top player is headed to Oklahoma, as he picks the Sooners over Oregon and Arkansas",
+            "url": "https://oklahoma.rivals.com/news/ou-scores-another-elite-secondary-piece-in-four-star-db-omarion-robinson",
+            "urlToImage": "https://images.rivals.com/image/upload/f_auto,q_auto,t_headline_primary/mkatqo72fn5uwfwnxhle",
+            "publishedAt": "2024-07-06T21:05:02Z",
+            "content": "The Sooners had long held a pledge from the state of Oklahoma's top prospect, four-star wideout Elijah Thomas. And last week, they picked up a verbal from the top player in the state of Utah, four-st… [+2940 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RACER"
+            },
+            "author": "Marshall Pruett",
+            "title": "Palou masters IndyCar's hybrid system en route to Mid-Ohio pole - RACER",
+            "description": "The first pole in IndyCar’s hybrid era belongs to Chip Ganassi Racing and Alex Palou, who secured his second consecutive pole with the No. 10 Honda and the Spaniard’s third of the season. Palou’s f…",
+            "url": "https://racer.com/2024/07/06/palou-masters-indycars-hybrid-system-en-route-to-mid-ohio-pole/",
+            "urlToImage": "https://racer.com/wp-content/uploads/sites/85/2024/07/abbott-MIDOH-070724-8846.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2024-07-06T21:01:57Z",
+            "content": "The first pole in IndyCars hybrid era belongs to Chip Ganassi Racing and Alex Palou, who secured his second consecutive pole with the No. 10 Honda and the Spaniards third of the season.\r\nPalous final… [+3578 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motorsport.com"
+            },
+            "author": "Charles Bradley",
+            "title": "F1 British GP qualifying results: George Russell takes pole in Mercedes 1-2 - Motorsport.com",
+            "description": "George Russell took pole position for the British Grand Prix, the 12th round of the 2024 Formula 1 World Championship, at Silverstone for a Mercedes 1-2",
+            "url": "https://www.motorsport.com/f1/news/f1-british-gp-qualifying-results-russell-pole-mercedes/10632206/",
+            "urlToImage": "https://cdn-4.motorsport.com/images/amp/2wBeyKV0/s6/george-russell-mercedes-f1-w15-3.jpg",
+            "publishedAt": "2024-07-06T20:42:04Z",
+            "content": "Russell will start ahead of team-mate Lewis Hamilton and McLarens Lando Norris after the one-hour qualifying session, which is split into three segments with five cars each being knocked out in Q1 an… [+7585 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ava Wallace",
+            "title": "Women's No. 1 seed Iga Swiatek out of Wimbledon after third-round loss - The Washington Post",
+            "description": "Swiatek, the world’s top-ranked player, lost to Yulia Putintseva of Kazakhstan, continuing her career-long struggles at the All England Club.",
+            "url": "https://www.washingtonpost.com/sports/2024/07/06/iga-swiatek-wimbledon-third-round-loss/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WECYEJPLFS2RMQIOUUQXYBSCVQ_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-07-06T20:41:17Z",
+            "content": "An alert to this story incorrectly stated that match winner Yulia Putintseva is ranked No. 27 in the world. Putintseva is ranked No. 35.\r\nWIMBLEDON, England At prim and proper Wimbledon, the crowds o… [+5388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nbcsportsbayarea.com"
+            },
+            "author": "Monte Poole",
+            "title": "Why Hield-Klay comparison isn't as laughable as before - NBC Sports Bay Area",
+            "description": "A Buddy Hield-Klay Thompson comparison might have been laughable a few years ago, but Monte Poole explains why that no longer is the case.",
+            "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/klay-thompson-buddy-hield-comparison/1752644/",
+            "urlToImage": "https://media.nbcsportsbayarea.com/2024/07/buddy-hield-klay-thompson-GETTY.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2024-07-06T20:32:20Z",
+            "content": "Hell be a great scorer. He works so hard. Hell be a tenacious defender. Hes physically gifted. Hes going to help somebody. Hes going to make a big impact.\r\n Klay Thompson on NBA draft prospect Buddy … [+4125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Josh Wilson",
+            "title": "Kevin Durant Leaves Heartfelt Comment on Klay Thompson's Warriors Farewell Message - Sports Illustrated",
+            "description": "After 13 years, Klay Thompson will suit up for an NBA team other than the Golden State Warriors. It will be an obscure sight for the NBA community as Thompson t",
+            "url": "https://www.si.com/nba/kevin-durant-leaves-heartfelt-comment-klay-thompson-warriors-farewell-message",
+            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3399,h_1911,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01j240jn0ya9660rde2p.jpg",
+            "publishedAt": "2024-07-06T20:31:18Z",
+            "content": "After 13 years, Klay Thompson will suit up for an NBA team other than the Golden State Warriors, which is sure to be an obscure sight for the NBA community after becoming a legend with the Dubs. \r\nTh… [+1511 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paulina Dedaj",
+            "title": "Norwegian cyclist Andre Drege dead at 25 after 'serious crash' in Tour of Austria - Fox News",
+            "description": "Norwegian cyclist Andre Drege died Saturday after sustaining \"serious injuries\" in a crash during the Tour of Austria, race organizers said. He was 25.",
+            "url": "https://www.foxnews.com/sports/norwegian-cyclist-andre-drege-dead-25-after-serious-crash-tour-austria",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Andre-Drege.jpg",
+            "publishedAt": "2024-07-06T20:31:00Z",
+            "content": "The cycling community is mourning the death of Norwegian cyclist Andre Drege,\r\n who died Saturday after a crash during the Tour of Austria. He was 25. \r\nTeam Coop-Repsol confirmed the news in a post … [+1485 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Adrian Wojnarowski",
+            "title": "Sources: Bridges back to Hornets on $75M deal - ESPN",
+            "description": "Free agent forward Miles Bridges is returning to the Charlotte Hornets on a three-year, $75 million deal, sources told ESPN.",
+            "url": "https://www.espn.com/nba/story/_/id/40508292/sources-miles-bridges-hornets-agree-3-year-75m-deal",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0130%2Fr1284268_1024x576_16%2D9.jpg",
+            "publishedAt": "2024-07-06T19:02:00Z",
+            "content": "Free agent forward Miles Bridges has agreed on a three-year, $75 million contract to return to the Charlotte Hornets, sources told ESPN on Saturday.\r\nBridges' agent Rich Paul of Klutch Sports, reache… [+1194 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Michael Voepel",
+            "title": "Caitlin Clark notches triple-double, first by WNBA rookie - ESPN",
+            "description": "Caitlin Clark pulled down her 10th rebound at the 7:07 mark of the fourth quarter to give her the first triple-double by a rookie in WNBA history.",
+            "url": "https://www.espn.com/wnba/story/_/id/40508281/caitlin-clark-notches-triple-double-first-wnba-rookie",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0706%2Fr1355295_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-06T18:59:00Z",
+            "content": "Fever guard Caitlin Clark recorded the first triple-double by a rookie in WNBA history on Saturday in Indiana's 83-78 victory over the first-place New York Liberty in Indianapolis.\r\nClark pulled down… [+3451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Basketnews.com"
+            },
+            "author": "Mindaugas Bertys",
+            "title": "Davis Bertans reacts to being waived by Hornets, talks OQT final - BasketNews.com",
+            "description": "With minutes remaining in the FIBA Olympic Qualifying Tournament game between Latvia and Cameroon, news came out about Latvia's Davis Bertans getting waived by ...",
+            "url": "https://basketnews.com/news-208804-davis-bertans-reacts-to-being-waived-by-hornets-talks-oqt-final.html",
+            "urlToImage": "https://basketnews.com/image-417442-any1200x1200.jpg",
+            "publishedAt": "2024-07-06T18:41:00Z",
+            "content": "Bertans said he wasn't worried about getting waived but claimed he was happy that Latvia's national team jersey is the only only he's wearing at the moment.With minutes remaining in the FIBA Olympic … [+2340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Danica Creahan",
+            "title": "Copa America 2024: How to watch the Brazil vs. Uruguay game tonight - Yahoo Sports",
+            "description": "The Copa America 2024 soccer — or football — tournament continues tonight with Brazil vs. Uruguay.",
+            "url": "https://sports.yahoo.com/copa-america-2024-how-to-watch-the-brazil-vs-uruguay-game-tonight-172511699.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gaakhFhs48frLa6DOui9gQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/92fcdbb0-3bbc-11ef-bbfd-a5a262c19382",
+            "publishedAt": "2024-07-06T18:35:35Z",
+            "content": "Vinicius Junior and Brazil will face Uruguay in the Copa America quarterfinals tonight. (Mark Leech/Offside/Offside via Getty Images)\r\nThe Copa America 2024 soccer or football tournament continues to… [+1161 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paulina Dedaj",
+            "title": "Astros’ Joey Loperfido stuns with incredible barehanded catch in win over Twins - Fox News",
+            "description": "Houston Astros rookie outfielder Joey Loperfido is going viral after his impressive barehanded, juggling catch in the eighth inning of Friday's win over the Minnesota Twins.",
+            "url": "https://www.foxnews.com/sports/astros-joey-loperfido-stuns-incredible-barehanded-catch-win-over-twins",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Joey-Loperfido-3.jpg",
+            "publishedAt": "2024-07-06T18:20:00Z",
+            "content": "Houston Astros\r\n rookie outfielder Joey Loperfido made an indisputable case for catch of the year in Friday nights win over the Minnesota Twins. \r\nThe Astros were holding on to a comfortable 10-5 lea… [+1700 chars]"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+            "author": null,
+            "title": "Crosby celebrates with Canadian men’s soccer team after Copa America victory - NHL.com",
+            "description": "Nova Scotia native supports hometown soccer team",
+            "url": "https://www.nhl.com/news/sidney-crosby-celebrates-with-canadian-soccer-team-copa-america",
+            "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/r6snpocaluusprjbw84c.jpg",
+            "publishedAt": "2024-07-06T18:11:15Z",
+            "content": "The Canadians took a 1-0 lead in the 13th minute before Venezuela tied the game late. The game eventually went to penalty kicks where Canadians took the win to advance to the semi-finals. Then Crosby… [+293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pounding The Rock "
+            },
+            "author": "Marilyn Dubinski",
+            "title": "The Spurs are trading Devonte' Graham and a second round pick to the Hornets - Pounding The Rock ",
+            "description": "They will then waive him, making him a free agent.",
+            "url": "https://www.poundingtherock.com/2024/7/6/24193226/the-spurs-are-trading-devonte-graham-and-a-second-round-pick-to-the-hornets",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/kX-jNHrVjLe1gl9kSCOnxsaVZ54=/0x0:3290x1723/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25519875/usa_today_22986298.jpg",
+            "publishedAt": "2024-07-06T18:05:47Z",
+            "content": "Since the Spurs announced the signing of Chris Paul back at the start of the free agency negotiating period, things have been unusually quiet on that front for the better part of a week, outside of t… [+1604 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sun Sentinel"
+            },
+            "author": "Ira Winderman",
+            "title": "Heat lose Caleb Martin to 76ers in NBA free agency, await Haywood Highsmith decision - South Florida Sun Sentinel",
+            "description": "The anticipated has turned into reality for the Miami Heat with the free-agency of lockdown defensive specialist Caleb Martin, with the versatile forward moving on to the Philadelphia 76ers in NBA …",
+            "url": "http://www.sun-sentinel.com/2024/07/06/heat-lose-caleb-martin-to-76ers-in-nba-free-agency-await-highsmith-decision/",
+            "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2024/06/tfl-l-heat-bulls-0419-17.jpg?w=1024&h=683",
+            "publishedAt": "2024-07-06T18:00:00Z",
+            "content": "MIAMI – The anticipated has turned into reality for the Miami Heat with the free-agency of lockdown defensive specialist Caleb Martin, with the versatile forward moving on to the Philadelphia 76ers.\r… [+3626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB Trade Rumors"
+            },
+            "author": "Mark Polishuk",
+            "title": "Mariners Designate Seby Zavala For Assignment - MLB Trade Rumors",
+            "description": "The Mariners announced that catcher Seby Zavala has been designated for assignment.  In the corresponding move, right-hander Emerson Hancock has &hellip;",
+            "url": "https://www.mlbtraderumors.com/2024/07/mariners-designate-seby-zavala-for-assignment-2.html",
+            "urlToImage": "https://cdn.mlbtraderumors.com/files/2024/06/seby-zavala-mariners-1024x683.jpg",
+            "publishedAt": "2024-07-06T17:48:45Z",
+            "content": "The Mariners announced that catcher Seby Zavala has been designated for assignment.  In the corresponding move, right-hander Emerson Hancock has been called back up from Triple-A to start today’s gam… [+2157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB Trade Rumors"
+            },
+            "author": "Mark Polishuk",
+            "title": "AL Central Notes: Meadows, Moncada, Kirilloff, Twins - MLB Trade Rumors",
+            "description": "The Tigers called Parker Meadows back up from Triple-A yesterday, optioning Akil Baddoo to Toledo in the corresponding move.  Meadows &hellip;",
+            "url": "https://www.mlbtraderumors.com/2024/07/al-central-notes-meadows-moncada-kirilloff-twins.html",
+            "urlToImage": "https://cdn.mlbtraderumors.com/files/2024/05/USATSI_23067173-1024x683.jpg",
+            "publishedAt": "2024-07-06T17:22:36Z",
+            "content": "Lets count the ways Moncada is a joke:-While he has always had a ton of potential, Moncada has never been a guy that could be relied on. Every time it seems like he is getting to be the player many t… [+1084 chars]"
+        },
+        {
+            "source": {
                 "id": "espn",
                 "name": "ESPN"
             },
             "author": null,
-            "title": "Greece eliminates Slovenia, Luka Doncic from Olympic contention - ESPN",
-            "description": "Giannis Antetokounmpo and Greece moved one victory from the Paris Games, eliminating Luka Doncic and Slovenia 96-68 from the semifinals of the Olympic qualifying tournament.",
-            "url": "https://www.espn.com/olympics/story/_/id/40507417/greece-eliminates-slovenia-luka-doncic-olympic-contention",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0706%2Fr1355279_1296x729_16%2D9.jpg",
+            "title": "Alexander Zverev overcomes knee issue to win at Wimbledon - ESPN",
+            "description": "Alexander Zverev overcame a knee problem to advance at Wimbledon in straight sets. American Ben Shelton also won his third round match that had been suspended Friday due to rain.",
+            "url": "https://www.espn.com/tennis/story/_/id/40507602/alexander-zverev-overcomes-knee-issue-win-wimbledon",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0706%2Fr1355290_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-06T17:20:00Z",
+            "content": "Alexander Zverev overcame a knee problem, a marathon tiebreaker and nerves from seeing one of his sporting idols in the Royal Box in order to book a spot in Wimbledon's fourth round.\r\nZverev beat Cam… [+3845 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Issy Ronald",
+            "title": "French cyclist Julien Bernard fined after stopping to kiss his wife at the Tour de France - CNN",
+            "description": "French cyclist Julien Bernard offered a playful apology after he was fined for stopping to kiss his wife on Friday during a stage of the Tour de France.",
+            "url": "https://www.cnn.com/2024/07/06/sport/julien-bernard-fined-tour-de-france-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2160016284-copy.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2024-07-06T16:48:00Z",
-            "content": "An Olympics berth has eluded Giannis Antetokounmpo so far during his basketball career. He is one victory away from changing that.\r\nThomas Walkup had 19 points, Antetokounmpo added 13 points in 21 mi… [+3336 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Ashima Grover",
-            "title": "As Philadelphia 76ers land ex-Miami Heat star Caleb Martin, Paul Reed's uncertain future breaks Internet's heart - Hindustan Times",
-            "description": "Ex-Miami Heat Caleb Martin boards the Philadelphia 76ers after ditching a 5-year deal for $65 million. Paul Reed is out from the Sixers' free agent class.",
-            "url": "https://www.hindustantimes.com/world-news/us-news/as-philadelphia-76ers-land-ex-miami-heat-star-caleb-martin-paul-reeds-uncertain-future-breaks-internets-heart-101720280667033.html",
-            "urlToImage": "https://images.hindustantimes.com/img/2024/07/06/1600x900/BKN-SPO-BOSTON-CELTICS-V-MIAMI-HEAT-GAME-THREE-5_1720283677614_1720283695974.jpg",
-            "publishedAt": "2024-07-06T16:40:12Z",
-            "content": "The Philadephia 76ers are giving it all to make their offseason plans take off with flying colours. In the latest behind-the-scenes shakeup going on in the NBA before the players hit the court, the S… [+4505 chars]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Mike  Chiari",
-            "title": "DeMar DeRozan Trade Rumors: Kings Pushing to Land Bulls Star in Possible 3-Team Deal - Bleacher Report",
-            "description": "The Sacramento Kings are reportedly a strong suitor for veteran wing DeMar DeRozan in a potential three-team trade. According to NBA insider Marc Stein, the…",
-            "url": "https://bleacherreport.com/articles/10127330-demar-derozan-trade-rumors-kings-pushing-to-land-bulls-star-in-possible-3-team-deal",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/x_0,y_30,w_1752,h_1161,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1720280357/bmw6bjhzujqfcfuj6waf.jpg",
-            "publishedAt": "2024-07-06T16:30:00Z",
-            "content": "Elsa/Getty Images\r\nThe Sacramento Kings are reportedly a strong suitor for veteran wing DeMar DeRozan in a potential three-team trade.\r\nAccording to NBA insider Marc Stein, the Kings are attempting t… [+2340 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Silver Screen and Roll "
-            },
-            "author": "Edwin Garcia",
-            "title": "Meet the Summer League Lakers - Silver Screen and Roll ",
-            "description": "The Lakers are playing Summer League basketball in San Francisco and Las Vegas and this is your preview of every player’s potential and possible role with the team.",
-            "url": "https://www.silverscreenandroll.com/2024/7/6/24192910/lakers-nba-summer-league-preview-bronny-james-dalton-knecht-dane-johnson-california-classic",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/3Z-Gl6ODeXoi2jBKGkHg-anSEBM=/0x0:3744x1960/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25519309/2160316551.jpg",
-            "publishedAt": "2024-07-06T16:09:09Z",
-            "content": "If you're excited about Summer League basketball, you've come to the right place. We are ready to analyze every game the Lakers play in San Francisco during the California Classic and every matchup a… [+6991 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pitcherlist.com"
-            },
-            "author": "Nick Pollack",
-            "title": "Fantasy Baseball SP Roundup: Steele, My Sunshine - Pitcher List",
-            "description": "Nick Pollack reviews every starting pitcher performance from Friday.",
-            "url": "https://pitcherlist.com/sp-roundup-7-5-24/",
-            "urlToImage": "https://pitcherlist.com/wp-content/uploads/2024/07/2024.07.05_-_SP_Roundup_-_Justin_Steele.jpg",
-            "publishedAt": "2024-07-06T16:06:23Z",
-            "content": "Welcome to the SP Roundup, my daily fantasy baseball article reviewing every starting pitcher’s performance from every Friday game. I apologize for the jokes written in my delirium in advance. Have q… [+13225 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Cyclist Julien Bernard fined for kissing wife during Tour de France - BBC.com",
-            "description": "Cycling's governing body says the fine is for \"unseemly or inappropriate behaviour\".",
-            "url": "https://www.bbc.com/news/articles/c3g9vwvy430o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ee77/live/d9a9e150-3ba0-11ef-bdc5-41d7421c2adf.png",
-            "publishedAt": "2024-07-06T15:57:49Z",
-            "content": "French cyclist Julien Bernard has given a light-hearted apology after being fined for kissing his wife during a Tour de France time trial. \r\nThe Lidl-Trek rider was made to pay 200 Swiss francs ($223… [+1676 chars]"
+            "content": "French cyclist Julien Bernard has offered a playful apology after he was fined for stopping to kiss his wife on Friday during a stage of the Tour de France.\r\nIm sorry for having damaged the image of … [+2096 chars]"
         },
         {
             "source": {
                 "id": "espn",
                 "name": "ESPN"
             },
-            "author": null,
-            "title": "Vikings rookie CB Khyree Jackson among 3 killed in crash - ESPN",
-            "description": "Vikings rookie cornerback Khyree Jackson and two former college football players -- Isaiah Hazel and Anthony Lytton Jr. -- were killed in a car crash overnight, according to police.",
-            "url": "https://www.espn.com/nfl/story/_/id/40507027/vikings-rookie-cb-khyree-jackson-dies-car-crash-24",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0706%2Fr1355246_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-07-06T15:49:00Z",
-            "content": "Minnesota Vikings rookie cornerback Khyree Jackson and two former college football players were killed in a car crash overnight, according to Maryland State Police. Jackson was 24.\r\nJackson died afte… [+4613 chars]"
+            "author": "Eli Lederman",
+            "title": "Ohio State adds OLB Pettijohn to top-ranked class - ESPN",
+            "description": "Four-star outside linebacker Riley Pettijohn committed to Ohio State on Saturday, adding to the Buckeyes' top-ranked 2025 class.",
+            "url": "https://www.espn.com/college-football/story/_/id/40507402/ohio-state-adds-4-star-olb-riley-pettijohn-top-ranked-class",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0710%2Fr1035034_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-06T16:36:00Z",
+            "content": "After missing out on a pair of top-100 prospects this week, Ohio State landed another high-profile defenders for its top-ranked 2025 class with a commitment from four-star outside linebacker Riley Pe… [+2113 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Cyclingnews.com"
+                "name": "MMA Fighting"
             },
-            "author": "Kirsten Frattini",
-            "title": "André Drege dies age 25 following crash at Tour of Austria - Cyclingnews",
-            "description": "'Our entire team is devastated by this tragic accident, and our thoughts and prayers are with André's family and loved ones' say event organisers as cycling community pays touching tribute",
-            "url": "https://www.cyclingnews.com/news/andre-drege-dies-age-25-following-crash-at-tour-of-austria/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Yt5ogwxJWVAboXodY3izT4-1200-80.jpeg",
-            "publishedAt": "2024-07-06T15:48:06Z",
-            "content": "André Drege, a professional cyclist racing for Team Coop-Repsol, died at the age of 25 due to injuries sustained in a crash at the Tour of Austria on Saturday.\r\nThe organisers of the Tour of Austria … [+4843 chars]"
+            "author": "Jed Meshew",
+            "title": "Nate Diaz vs. Jorge Masvidal salaries revealed: Diaz set to earn more than Masvidal - MMA Fighting",
+            "description": "Nate Diaz is set to make substantially more than Jorge Masvidal for their boxing match on Saturday night in Anaheim, Calif.",
+            "url": "https://www.mmafighting.com/2024/7/6/24193089/nate-diaz-vs-jorge-masvidal-salaries-revealed-diaz-set-to-earn-more-than-masvidal",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/0aDXz_LRvUBxjLreF1sNLlyakhQ=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25519651/2160805008.jpg",
+            "publishedAt": "2024-07-06T16:30:00Z",
+            "content": "Nate Diaz is set to make more money than Jorge Masvidal for Saturdays fight.\r\nDiaz and Masvidal face off July 6 in a 10-round light heavyweight boxing match at the Honda Center in Anaheim, Calif. The… [+2189 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Formula 1"
+                "name": "Heat Nation"
             },
-            "author": "F1",
-            "title": "2024 British Grand Prix qualifying report and highlights: George Russell beats Lewis Hamilton to pole at Silverstone as Lando Norris completes all-British top three | Formula 1® - Formula 1",
-            "description": "George Russell clinched an impressive pole position in qualifying for the British Grand Prix, with the Mercedes team locking out the front row after Lewis Hamilton claimed second place.",
-            "url": "https://www.formula1.com/en/latest/article/russell-beats-hamilton-to-pole-at-silverstone-as-norris-completes-all.20VxWCvLP6r7ai51zKgePW",
-            "urlToImage": "https://media.formula1.com/image/upload/t_16by9Centre/f_auto/q_auto/v1720279822/trackside-images/2024/F1_Grand_Prix_of_Great_Britain___Qualifying/2160888808.jpg",
-            "publishedAt": "2024-07-06T15:31:30Z",
-            "content": "Q2 Norris leads the way and Leclerc gets pushed out\r\nIt was again a busy start as the lights went green for Q2, with Albon leading a queue of cars out onto the track. With race control confirming tha… [+1370 chars]"
+            "author": "Jesse Cinquini, Jesse Cinquini",
+            "title": "Report: Caleb Martin and Miami Heat had ‘intense’ contract talks that left team ‘dumbfounded’ - Heat Nation",
+            "description": "The Miami Heat reportedly offered small forward Caleb Martin a five-year, $65 million extension to remain in Miami before free agency started.",
+            "url": "https://heatnation.com/rumors/report-caleb-martin-and-miami-heat-had-intense-contract-talks-that-left-team-dumbfounded/",
+            "urlToImage": "https://heatnation.com/wp-content/uploads/2024/05/USATSI_22447285_168403909_lowres-scaled-e1716924515908.jpg",
+            "publishedAt": "2024-07-06T15:52:52Z",
+            "content": "The Miami Heat reportedly offered small forward Caleb Martin a five-year, $65 million extension to remain in Miami before free agency started.\r\nBut the deal would’ve required Martin to opt into the f… [+2896 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NBCSports.com"
+                "name": "Nbcsportsbayarea.com"
             },
-            "author": "Mike Florio",
-            "title": "Packers CEO Mark Murphy addresses massive Sunday Ticket verdict - NBC Sports",
-            "description": "League office can't be happy about Packers CEO shining a light on antitrust case.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-ceo-mark-murphy-addresses-massive-sunday-ticket-verdict",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/942716c/2147483647/strip/true/crop/5472x3078+0+285/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2F87%2F366dc8864fe0abcad0ca9263e032%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1933195713",
-            "publishedAt": "2024-07-06T15:29:08Z",
-            "content": "In the nine days since a $4.7 billion verdict was entered against the NFL in the Sunday Ticket class action, no owner of any team has said anything about the outcome.\r\nPackers CEO Mark Murphy has.\r\nI… [+2757 chars]"
+            "author": "Tristi Rodriguez",
+            "title": "Steph, LeBron exchange epic one-liner as Team USA opens camp - NBC Sports Bay Area",
+            "description": "Steph Curry and LeBron James shared a telling message to each other as they greeted one another Friday night at Team USA camp in Las Vegas.",
+            "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/lebron-james-steph-curry-team-usa/1752628/",
+            "urlToImage": "https://media.nbcsportsbayarea.com/2023/05/steph-curry-lebron-james-Getty-Images-1487211245.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2024-07-06T15:48:42Z",
+            "content": "Finally, it's happening: Steph Curry and LeBron James will play on the same team together this summer.\r\nNot in the NBA but representing their country with Team USA in the 2024 Paris Olympics.\r\nIt wil… [+1763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "bleachernation.com"
+            },
+            "author": "https://www.facebook.com/michael.anthony.3150/",
+            "title": "Cubs Lineup (7/6/24): Michael Busch Starts vs a Lefty - Bleacher Nation",
+            "description": "Take a look at the Chicago Cubs lineup for the second of three games against the Angels at Wrigley Field.",
+            "url": "https://www.bleachernation.com/cubs/2024/07/06/cubs-lineup-7624/",
+            "urlToImage": "https://www.bleachernation.com/wp-content/uploads/2024/05/wrigley-field-Cubs-feature-USATSI_23359516.jpg",
+            "publishedAt": "2024-07-06T15:32:00Z",
+            "content": "CUBS LINEUP Two wins? In a row?! Somebody’s feeling frothy. Let’s see if we can turn this into a full-fledged winning streak! Kyle Hendricks is on the bump today against the lefty Tyler Anderson. And… [+3142 chars]"
         },
         {
             "source": {
@@ -161,6 +447,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Boston.com"
+            },
+            "author": "Trevor Hass",
+            "title": "The Red Sox hadn’t had a comeback quite like this one in at least 115 years - Boston.com",
+            "description": "The Red Sox hadn't had a comeback quite like their triumph over the Yankees on Friday in at least 115 years. Read more on Boston.com.",
+            "url": "https://www.boston.com/sports/boston-red-sox/2024/07/06/red-sox-yankees-comeback-masataka-yoshida-ceddanne-rafaela-history-stats/",
+            "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2024/07/Masataka-Yoshida-668951529a37c-768x432.jpg",
+            "publishedAt": "2024-07-06T15:07:00Z",
+            "content": "Red Sox\r\nMasataka Yoshida rounds the bases after blasting a tying home run in the ninth inning Friday. Frank Franklin II/AP Photo\r\nDown by multiple runs on the road, with two outs in the ninth inning… [+1444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Pitcherlist.com"
             },
             "author": "Nick Pollack",
@@ -174,28 +473,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Detroitbadboys.com"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Sean Corp",
-            "title": "Detroit Pistons add sharpshooter in free agency to help spread floor for young team - Detroit Bad Boys",
-            "description": "Beasley will be designated 3-point specialist on young Pistons team",
-            "url": "https://www.detroitbadboys.com/2024/7/6/24193118/nba-free-agency-detroit-pistons-malik-beasley-sharpshooter",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/3-CUPqTDtOWE02QVkuOwKvLI9hs=/0x0:6931x3629/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25519671/2151002508.jpg",
-            "publishedAt": "2024-07-06T14:19:30Z",
-            "content": "The Detroit Pistons are reportedly set to sign free-agent sharpshooting wing Malik Beasley to a one-year, $6 million contract, according to Shams Charania of The Athletic. \r\nThe Pistons are hoping th… [+3969 chars]"
+            "author": "Ian Casselberry",
+            "title": "Angel Reese should win WNBA Rookie of the Year, says Sky teammate Chennedy Carter - Yahoo Sports",
+            "description": "Angel Reese posted her 12th consecutive double-double in Friday's win, tying a WNBA record. Is she gaining on Caitlin Clark in the Rookie of the Year race?",
+            "url": "https://sports.yahoo.com/angel-reese-should-win-wnba-rookie-of-the-year-says-sky-teammate-chennedy-carter-143002797.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Z2n0BZn0lv5XaATabCypuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/9cfeab00-3b9b-11ef-9538-312ddc959c2f",
+            "publishedAt": "2024-07-06T14:30:02Z",
+            "content": "The Chicago Sky scored a big win Friday, defeating the Seattle Storm, 8884. Angel Reese scored a career-high 27 points with 10 rebounds, giving the rookie her 12th straight double-double.\r\nWith that … [+1885 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Atlutd.com"
+                "id": "espn",
+                "name": "ESPN"
             },
-            "author": "atlutd",
-            "title": "Atlanta United Transfers Thiago Almada for MLS-record Transfer Fee to Eagle Football - Atlanta United FC",
-            "description": "Midfielder to join Botafogo of Brazil’s Série A; opens Designated Player roster spot",
-            "url": "https://www.atlutd.com/news/atlanta-united-transfers-thiago-almada-for-mls-record-transfer-fee-to-eagle-football",
-            "urlToImage": "https://images.mlssoccer.com/image/private/t_q-best/mls-atl/wz5gizrx8qsfwy83pujs.jpg",
-            "publishedAt": "2024-07-06T14:17:41Z",
-            "content": null
+            "author": null,
+            "title": "Pistons signing Malik Beasley to one-year deal, agency says - ESPN",
+            "description": "Malik Beasley, who shot 41.3% from 3 last season, is joining the Pistons on a one-year contract, according to his agency.",
+            "url": "https://www.espn.com/nba/story/_/id/40506467/pistons-signing-malik-beasley-one-year-deal-agency-says",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1207%2Fr1263402_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-06T14:17:00Z",
+            "content": "Free agent guard Malik Beasley is set to sign a one-year deal worth more than $6 million with the Detroit Pistons, his agency, Hazan Sports Management, confirmed on social media Saturday.\r\nBeasley jo… [+754 chars]"
         },
         {
             "source": {
@@ -216,51 +515,64 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Caitlin Clark vs. Breanna Stewart on CBS: Start time, how to watch Liberty at Fever, live stream, preview - CBS Sports",
-            "description": "Clark is 0-3 against the Liberty, who currently boast the best record in the WNBA",
-            "url": "https://www.cbssports.com/wnba/news/caitlin-clark-vs-breanna-stewart-on-cbs-start-time-how-to-watch-liberty-at-fever-live-stream-preview/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/05/df3f4737-c75d-474d-9bc2-d9a4e62f0c65/thumbnail/1200x675/77c78c67fb602098ef2cb86800e0a5ff/caitlin-clark-breanna-stewart-getty.jpg",
-            "publishedAt": "2024-07-06T13:32:00Z",
-            "content": "Caitlin Clark and the Indiana Fever will be looking for revenge when they host the New York Liberty on Saturday. The game is set for 1 p.m. ET on CBS and Paramount+.\r\nThis will be fourth meeting betw… [+3845 chars]"
+            "title": "Nebraska assistant Evan Cooper resigns two months before season as Cornhuskers quickly target replacement - CBS Sports",
+            "description": "Cooper is stepping aside for personal reasons after working with Matt Rhule for several years",
+            "url": "https://www.cbssports.com/college-football/news/nebraska-assistant-evan-cooper-resigns-two-months-before-season-as-cornhuskers-quickly-target-replacement/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/06/7aecb3fd-69a9-4df9-96c4-47b5bc8f4f82/thumbnail/1200x675/41c61051e40d607a2094837775433a98/file-46.jpg",
+            "publishedAt": "2024-07-06T14:03:00Z",
+            "content": "Nebraska defensive backs coach Evan Cooper has resigned from his position for personal reasons, 247Sports confirms. The Cornhuskers have worked quickly to identify a replacement and are expected to h… [+1370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Oddschecker"
+            },
+            "author": "OddsChecker",
+            "title": "Boston Red Sox vs. New York Yankees Prediction, Betting Pick, Latest Odds - OddsChecker",
+            "description": null,
+            "url": "https://www.oddschecker.com/us/picks-parlays/baseball/mlb/20240706-boston-red-sox-vs-new-york-yankees-prediction-betting-pick-latest-odds",
+            "urlToImage": null,
+            "publishedAt": "2024-07-06T13:55:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Taylan Bilgic, Joshua Gallu",
+            "title": "Germany Warns Fans as Turkish Media Stokes Fervor Ahead of Match - Bloomberg",
+            "description": "Saturday night’s Turkey-Netherlands Euro 2024 quarter-final has the potential to be a powderkeg as German police warned fans and Turkish media stoked nationalist zeal.",
+            "url": "https://www.bloomberg.com/news/articles/2024-07-06/euro-2024-german-police-warns-turkish-fans-ahead-of-class-with-netherlands",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBoxwD2S6HKg/v1/1200x800.jpg",
+            "publishedAt": "2024-07-06T13:38:04Z",
+            "content": "Saturday nights Turkey-Netherlands Euro 2024 quarter-final has the potential to be a powderkeg as German police warned fans and Turkish media stoked nationalist zeal.\r\nGermanys police union urged the… [+147 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Sports Illustrated"
             },
-            "author": "Kaleb Henry",
-            "title": "Report: Nebraska Football to Hire Former NFL Assistant for Open Secondary Position - Sports Illustrated",
-            "description": "An opening on the staff Friday could be filled this weekend as Nebraska football looks to replace Evan Cooper as secondary coach with a former NFL and Big Ten assistant.",
-            "url": "https://www.si.com/college/nebraska/football/report-nebraska-football-to-hire-former-nfl-assistant-for-open-secondary-position-texans-bills-matt-rhule",
-            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3474,h_1954,x_0,y_103/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_huskers/01j241cyap0tg4vpe2kh.jpg",
-            "publishedAt": "2024-07-06T13:06:30Z",
-            "content": "Nebraska football could be closing in on a replacement for its suddenly open assistant coach position.\r\nEvan Cooper resigned his post as secondary coach and passing game coordinator Friday. He had wo… [+1083 chars]"
+            "author": "Josh Wilson",
+            "title": "Golden State Warriors Have Made 'Substantial' Lauri Markkanen Offer, per Report - Sports Illustrated",
+            "description": "The Warriors are in search of a player to take some offensive burden off Stephen Curry.",
+            "url": "https://www.si.com/nba/golden-state-warriors-made-substantial-lauri-markkanen-offer",
+            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2878,h_1618,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01j241kh95thnvnz539y.jpg",
+            "publishedAt": "2024-07-06T13:02:51Z",
+            "content": "As the Golden State Warriors traverse toward 2024-25, their offense is sure to look entirely different from how it did the last decade.\r\nAmong moves the Warriors have made, they've added Buddy Hield,… [+1407 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CBS Sports"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "England vs. Switzerland prediction, odds, time, line: UEFA Euro 2024 picks, July 6 bets from soccer expert - CBS Sports",
-            "description": "Martin Green has locked in his best bets for Switzerland vs. England in a quarterfinal of Euro 2024 on Saturday",
-            "url": "https://www.cbssports.com/soccer/news/england-vs-switzerland-prediction-odds-time-line-uefa-euro-2024-picks-july-6-bets-from-soccer-expert/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/06/10cc6de6-e9e2-4617-9304-312bd0a96cd5/thumbnail/1200x675/5fad17a04f69db245f7b22bce610565c/jude-bellingham-england-getty-images.jpg",
-            "publishedAt": "2024-07-06T13:00:44Z",
-            "content": "England can move one step closer toward ending their 58-year trophy drought on Saturday when the Three Lions square off against Switzerland in a quarterfinal match of Euro 2024 at Dusseldorf Arena in… [+4646 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Outside"
-            },
-            "author": "Outside Magazine",
-            "title": "'I was sure I had a puncture' Evenepoel wins Tour de France TT - Outside Magazine",
-            "description": null,
-            "url": "https://velo.outsideonline.com/road/road-racing/tour-de-france/from-wobble-to-win-remco-evenepoel-keeps-cool-to-emerge-as-tour-de-france-threat/",
-            "urlToImage": null,
-            "publishedAt": "2024-07-06T12:42:29Z",
-            "content": null
+            "author": "Issy Ronald",
+            "title": "Pittsburgh Pirates equal franchise record and exhaust supply of celebratory fireworks with 7 homers in win over New York Mets - CNN",
+            "description": "The Pittsburgh Pirates dismantled the New York Mets 14-2 on Friday, hitting so many homers that the stadium supply of fireworks ran out.",
+            "url": "https://www.cnn.com/2024/07/06/sport/pittsburgh-pirates-new-york-mets-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2160124726.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-06T12:58:00Z",
+            "content": "The Pittsburgh Pirates dismantled the New York Mets 14-2 on Friday, hitting so many home runs that their stadiums supply of celebratory fireworks ran out as they equaled the franchise record of seven… [+1860 chars]"
         },
         {
             "source": {
@@ -293,208 +605,13 @@
                 "id": null,
                 "name": "247Sports"
             },
-            "author": "247Sports",
+            "author": "David Lake",
             "title": "Stacking Classes & Establishing a Talent Gap: Mario Cristobal has Miami's roster on the right trajectory - 247Sports",
-            "description": null,
+            "description": "Miami head coach Mario Cristobal is building the roster the right way",
             "url": "https://247sports.com/college/miami/article/stacking-classes-establishing-a-talent-gap-from-the-acc-mario-cristobal-has-miamis-roster-on-the-right-trajectory-233567118/",
-            "urlToImage": null,
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/33/484/12484033.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
             "publishedAt": "2024-07-06T11:44:34Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "nj.com"
-            },
-            "author": "Bob Klapisch | For NJ Advance Media",
-            "title": "Aaron Boone has to stop excusing Yankees’ embarrassing play | Klapisch - NJ.com",
-            "description": "The manager has watched the Yankees lose 14 of their last 18 games.",
-            "url": "https://www.nj.com/yankees/2024/07/aaron-boone-has-to-stop-excusing-yankees-embarrassing-play-klapisch.html",
-            "urlToImage": "https://www.nj.com/resizer/v2/Y232VO3MWVF6BAZ2FJC2M6DCRU.jpg?auth=c3605cba5570fc3e47a2e4ba92287c8054a0877a9a365aee83de0b07b0e97ae2&width=1280&quality=90",
-            "publishedAt": "2024-07-06T10:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cyclingnews.com"
-            },
-            "author": "Stephen Puddicombe",
-            "title": "Tour de France stage 8 Live - A challenge for the sprinters - Cyclingnews",
-            "description": "A day for the sprinters if they survive the 2,400 metres of elevation gain in 183.4km route from Semur-en-Auxois to Colombey-les-Deux-Églises",
-            "url": "https://www.cyclingnews.com/races/tour-de-france-2024/stage-8/live-report/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YFydK2V3AnidTJ8PcwELoa-1200-80.jpg",
-            "publishedAt": "2024-07-06T09:49:24Z",
-            "content": "2024-07-06T13:06:40.720Z110KM TO GO\r\nThe race has settled down again after that sprint. Abrahamsen's lead is over six minutes, while Intermarché - Wanty lead the peloton.\r\n2024-07-06T13:03:32.913ZHer… [+13444 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB.com"
-            },
-            "author": "MLB.com",
-            "title": "Turner's 2-HR game features career long, helps Phils pad lead - MLB.com",
-            "description": null,
-            "url": "https://www.mlb.com/phillies/news/trea-turner-hits-two-home-runs-in-win-vs-braves",
-            "urlToImage": null,
-            "publishedAt": "2024-07-06T09:48:51Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DW (English)"
-            },
-            "author": "Deutsche Welle",
-            "title": "German police urge Turkish fans to avoid 'wolf' sign - DW (English)",
-            "description": "Turkish player Merih Demiral was barred from two games for making a gesture associated with Turkey's far-right. Turkish ultras have called for fans to use the sign amid a Turkey-Netherlands match in Berlin, Germany.",
-            "url": "https://www.dw.com/en/german-police-urge-turkish-fans-to-avoid-wolf-sign/a-69582346",
-            "urlToImage": "https://static.dw.com/image/69582210_6.jpg",
-            "publishedAt": "2024-07-06T08:52:22Z",
-            "content": "Germany's police union (GdP) on Saturday urged Turkey fans to avoid displaying the controversial gray wolf gesture during an upcoming Euro 2024 match against the Netherlands.\r\nIt comes after Turkish … [+2275 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AZCentral"
-            },
-            "author": "Nick Piecoro",
-            "title": "Diamondbacks stage epic comeback but fall to Padres in bottom of 9th - The Arizona Republic",
-            "description": "The Arizona Diamondbacks lost its first game in a three-game series against the San Diego Padres. Here's what happened in the crushing loss.",
-            "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2024/07/05/dbacks-padres-updates-yilber-diaz-could-join-arizona-rotation/74314678007/",
-            "urlToImage": "https://www.azcentral.com/gcdn/authoring/authoring-images/2024/07/06/PPHX/74315526007-usatsi-23690586.jpg?crop=5162,2905,x0,y268&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2024-07-06T08:45:40Z",
-            "content": "SAN DIEGO After depositing the ball a few rows deep in left-center field, Manny Machado slapped hands with his San Diego Padres teammates, many of whom had poured onto the field, and what was left of… [+7775 chars]"
-        },
-        {
-            "source": {
-                "id": "talksport",
-                "name": "TalkSport"
-            },
-            "author": "Michael Benson",
-            "title": "Ryan Garcia says he’s going to rehab as he posts strange apology statement after racial slurs... - talkSPORT",
-            "description": "Ryan Garcia has announced that he’s now going to rehab. The disgraced boxer was expelled by the WBC on Thursday after saying and tweeting a series of racial slurs against Black peop…",
-            "url": "https://talksport.com/sport/1951897/ryan-garcia-rehab-strange-apology-statement-racial-slurs/",
-            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2024/04/Ryan-Garcia.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-            "publishedAt": "2024-07-06T08:14:35Z",
-            "content": "Ryan Garcia has announced that he's now going to rehab.\r\nThe disgraced boxer was expelled by the WBC on Thursday after saying and tweeting a series of racial slurs against Black people and Muslims.\r\n… [+2864 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB.com"
-            },
-            "author": "MLB.com",
-            "title": "Loperfido's juggling act just might be the catch of the year - MLB.com",
-            "description": null,
-            "url": "https://www.mlb.com/news/joey-loperfido-s-incredible-leaping-juggling-catch",
-            "urlToImage": null,
-            "publishedAt": "2024-07-06T06:33:45Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "RONALD BLUM",
-            "title": "Anthony Volpe has one word for state of the skidding Yankees: `Brutal' - The Associated Press",
-            "description": "A major league-best 49-21 through June 12, the New York Yankees are a big league-worst 5-15 since. The Yankees wasted a three-run lead against the Boston Red Sox in the latest deflating defeat when Masataka Yoshida hit a tying, two-run homer off Clay Holmes w…",
-            "url": "https://apnews.com/article/yankees-losing-e03ee03d62bc70345a3f141a71cfbfa6",
-            "urlToImage": "https://dims.apnews.com/dims4/default/621df61/2147483647/strip/true/crop/2680x1508+0+140/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F7b%2F6278145f9c6aec7a3b74733aae93%2Ffd4a6a264d2c477c8305faf525d6eb8f",
-            "publishedAt": "2024-07-06T05:46:00Z",
-            "content": "NEW YORK (AP) Anthony Volpe stood in a quiet, mostly empty Yankees clubhouse and had a one-word description of the teams shockingly sorry skid.\r\nBrutal, he said. We play to win and we expect to win.\r… [+2917 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Tyler Dragon",
-            "title": "Klay Thompson posts heartfelt message to Bay Area, thanks Warriors - USA TODAY",
-            "description": "Klay Thompson officially said goodbye to the Bay Area and Golden State Warriors in a social media post Friday.",
-            "url": "https://www.usatoday.com/story/sports/nba/2024/07/05/klay-thompson-thanks-warriors-bay-area/74314619007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/images/smg/2024/02/14/USAT/72603933007-USATSI_20239242-e1707945277349.jpeg?crop=3871,2177,x7,y0&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2024-07-06T04:52:30Z",
-            "content": "Klay Thompson officially said goodbye to the Bay Area and the Golden State Warriors.\r\nThe 34-year-old shooting guard posted a heartfelt message on social media Friday.\r\nOh Bay Area, there are not eno… [+1849 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": null,
-            "title": "Smith 4th Dodgers catcher to post 3-homer game - ESPN",
-            "description": "Will Smith of the Los Angeles Dodgers homered three times against the Milwaukee Brewers on Friday night.",
-            "url": "https://www.espn.com/mlb/story/_/id/40504261/will-smith-becomes-4th-dodgers-catcher-slam-3-homers-1-game",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0706%2Fr1355121_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-07-06T04:44:00Z",
-            "content": "LOS ANGELES -- Will Smith homered three times to help the Los Angeles Dodgers rally to an 8-5 win against the Milwaukee Brewers on Friday night.\r\nHe's just the fourth Dodgers catcher to hit three in … [+896 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB.com"
-            },
-            "author": "MLB.com",
-            "title": "Drafting starting pitchers for the 2024 All-Star Game - MLB.com",
-            "description": null,
-            "url": "https://www.mlb.com/news/2024-all-star-game-starting-pitcher-matchups-draft",
-            "urlToImage": null,
-            "publishedAt": "2024-07-06T04:43:27Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Paul Kasabian",
-            "title": "Angel Reese Ties Candace Parker's WNBA Double-Double Record as Fans Champion Feat - Bleacher Report",
-            "description": "Chicago Sky rookie superstar Angel Reese posted her 12th consecutive double-double (27 points, 10 rebounds) on Friday in an 88-84 road win over the Seattle…",
-            "url": "https://bleacherreport.com/articles/10127308-angel-reese-ties-candace-parkers-wnba-double-double-record-as-fans-champion-feat",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/x_0,y_262,w_1800,h_1197,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1720237518/dyp1te70ouudzj11egvk.jpg",
-            "publishedAt": "2024-07-06T04:31:44Z",
-            "content": "Scott Eklund/NBAE via Getty Images\r\nChicago Sky rookie superstar Angel Reese posted her 12th consecutive double-double (27 points, 10 rebounds) on Friday in an 88-84 road win over the Seattle Storm, … [+4463 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MMA Fighting"
-            },
-            "author": "Bryan Tucker",
-            "title": "Diaz vs. Masvidal Results: Live updates of the undercard and main event - MMA Fighting",
-            "description": "Get Diaz vs. Masvidal results for the Nate Diaz vs. Jorge Masvidal event Saturday in Los Angeles.",
-            "url": "https://www.mmafighting.com/2024/7/6/24191323/diaz-vs-masvidal-results-live-updates-of-the-undercard-and-main-event",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_pD6iU5RnajfN_3MC3YPxAYXvUs=/0x0:1736x909/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25519449/Screen_Shot_2024_07_05_at_10.39.07_PM.png",
-            "publishedAt": "2024-07-06T04:00:00Z",
-            "content": "MMA Fighting has Diaz vs. Masvidal results for the Nate Diaz vs. Jorge Masvidal fight card, live blogs for the entire main card, and more from the Kia Forum in Los Angeles on Saturday night.\r\nWhen th… [+1437 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Bryan Fonseca",
-            "title": "Paul Skenes made MLB history with his dominant start against Mets - New York Post ",
-            "description": "Paul Skenes is off to a historic start to his Major League Baseball career.",
-            "url": "https://nypost.com/2024/07/05/sports/paul-skenes-made-mlb-history-with-his-dominant-start-against-mets/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/GettyImages-2160123626-e1720234806348.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-07-06T03:48:00Z",
-            "content": "Paul Skenes is off to a historic start to his major league career. \r\nSkenes and the Pirates blew out the Mets, 14-2, on Friday evening at PNC Park, in which the California native threw seven solid in… [+1824 chars]"
+            "content": "Some things never change.\r\nYes, between the advent of the transfer portal and players getting compensated for their name, image, and likeness, talent acquisition looks much different in this modern e… [+6045 chars]"
         },
         {
             "source": {
@@ -512,366 +629,41 @@
         {
             "source": {
                 "id": null,
-                "name": "Winners and Whiners"
-            },
-            "author": "Mayer Fink",
-            "title": "Astros vs Twins Prediction and Picks for July 6 2024 - Winners and Whiners",
-            "description": "The Astros face the Twins with both teams surging in the American League standings.",
-            "url": "https://winnersandwhiners.com/games/mlb/7-6-2024/houston-astros-vs-minnesota-twins-prediction-1049/",
-            "urlToImage": "https://cdn.sportsadnet.com/uploads/2024/07/USATSI_23680401_168393880_lowres-1200x1200.jpg",
-            "publishedAt": "2024-07-06T03:39:39Z",
-            "content": "Both teams have remarkable lineups that look to drive in runs at will from the first pitch. The Astros, who average 4.72 runs per game, should drive in runs at will with Yordan Alvarez, Jose Altuve, … [+404 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "Canada 1-1 Venezuela (Jul 5, 2024) Game Analysis - ESPN",
-            "description": "Expert recap and game analysis of the Canada vs. Venezuela Copa América game from July 5, 2024 on ESPN.",
-            "url": "https://www.espn.com/soccer/report/_/gameId/703947",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/soccer.png",
-            "publishedAt": "2024-07-06T03:33:45Z",
-            "content": "Canada claimed a 4-3 penalty shootout win over Venezuela on Friday to reach the Copa América semifinals in their debut appearance after an absorbing contest finished 1-1.\r\nWith the teams all square a… [+2562 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KUTV 2News"
-            },
-            "author": "Cristian Sida, KUTV",
-            "title": "Stadium of Fire attendees speak up after firework mishap - KUTV 2News",
-            "description": "After at least six people were injured at Thursday night's Stadium of Fire mishap, some who were in the stands are speaking up.\"We didn&rsquo;t know what was happeni",
-            "url": "https://kutv.com/news/local/stadium-of-fire-attendees-speak-up-after-firework-mishap",
-            "urlToImage": "https://kutv.com/resources/media/0b50eb9e-7897-4a1c-b387-ccb871465f62-large16x9_AP24187572407309.jpg",
-            "publishedAt": "2024-07-06T03:04:24Z",
-            "content": "PROVO, Utah (KUTV) After at least six people were injured at Thursday night's Stadium of Fire mishap, some who were in the stands are speaking up. \r\n\"We didnt know what was happening for a minute,\" s… [+1295 chars]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Paul Kasabian",
-            "title": "Video: LeBron James, Steph Curry and More Arrive to USA Camp Before 2024 Olympics - Bleacher Report",
-            "description": "The United States men's national basketball team has arrived in Las Vegas for a four-day training camp prior to an exhibition game against the Canadian…",
-            "url": "https://bleacherreport.com/articles/10127292-video-lebron-james-steph-curry-and-more-arrive-to-usa-camp-before-2024-olympics",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1720225041/crlm3rz3argpwybbm90l.jpg",
-            "publishedAt": "2024-07-06T02:48:45Z",
-            "content": "Brian Babineau/NBAE via Getty Images\r\nThe United States men's national basketball team has arrived in Las Vegas for a four-day training camp prior to an exhibition game against the Canadian national … [+2864 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Daily News"
-            },
-            "author": "Gary Phillips",
-            "title": "Short on hustle, lackadaisical Yankees lose sloppy extra-inning game to Red Sox - New York Daily News",
-            "description": "The Yankees and Red Sox played a very ugly game on Friday.",
-            "url": "http://www.nydailynews.com/2024/07/05/yankees-red-sox-mlb-masataka-yoshida-anthony-volpe-ceddane-rafaela/",
-            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2024/07/AP24188043802977.jpg?w=1024&h=683",
-            "publishedAt": "2024-07-06T02:48:39Z",
-            "content": "The Yankees’ latest losing streak reached four games on Friday, as they dropped an ugly, 5-3 ballgame to the rival Red Sox in the Bronx.\r\nThe second-place Bombers, now 54-36, took a 3-1 lead into the… [+5161 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Royals Review"
-            },
-            "author": "Max Rieper",
-            "title": "Stranded baserunners, terrible replay review, and a bullpen blowup lead to 4-2 Royals loss in Colorado - Royals Review",
-            "description": "It is a recurring theme.",
-            "url": "https://www.royalsreview.com/2024/7/5/24193005/stranded-baserunners-terrible-replay-review-and-a-bullpen-blowup-lead-to-4-2-royals-loss-in-colorado",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZWVP9VwCiXSl1gBvPd9TPZfx7Gk=/0x0:4652x2436/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25519458/2160124542.jpg",
-            "publishedAt": "2024-07-06T02:44:26Z",
-            "content": "In a familiar theme this season, the Royals wasted several scoring opportunities, were hurt by an awful ruling after replay review, and had the bullpen blow the game late in a 4-2 loss to the Rockies… [+1776 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "mlive.com"
-            },
-            "author": "Evan Woodbery | ewoodber@mlive.com",
-            "title": "Tigers hit 4 homers, stave off 9th-inning rally to beat Reds - MLive.com",
-            "description": "Parker Meadows homered in his first big-league at-bat since May.",
-            "url": "https://www.mlive.com/tigers/2024/07/tigers-hit-4-homers-stave-off-9th-inning-rally-to-beat-reds.html",
-            "urlToImage": "https://www.mlive.com/resizer/v2/OSUIVFCCTBGLVP5APZPLV6S45U.jpg?auth=8f824d654a5de218a18bf68c7dd40d1db7c1fa78bbab1063b98c988707ec756f&width=1280&quality=90",
-            "publishedAt": "2024-07-06T02:37:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "pgatour.com"
-            },
-            "author": "Staff",
-            "title": "John Deere Classic, Round 3: How to watch, featured groups, live scores, tee times, TV times - PGA TOUR",
-            "description": "The third round of the John Deere Classic begins Saturday from Silvis, Illinois, at TPC Deere Run.",
-            "url": "https://www.pgatour.com/article/news/latest/2024/07/05/how-to-watch-john-deere-classic-round-3-featured-groups-live-scores-tee-times-tv-times-tpc-deere-run",
-            "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto,q_auto/pgatour/news/editorial/2024/07/05/john-deere-htw3.jpg",
-            "publishedAt": "2024-07-06T02:27:12Z",
-            "content": "Written by Staff \r\n@PGATOUR\r\nThe third round of the John Deere Classic begins Saturday from Silvis, Illinois, at TPC Deere Run.\r\nHere's everything you need to know to follow the action. \r\nHow to foll… [+1620 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Zach Kruse",
-            "title": "10 players we're most excited to watch during Packers training camp - Packers Wire",
-            "description": "Here are the players were most excited to watch during Packers training camp.",
-            "url": "https://packerswire.usatoday.com/lists/10-players-were-most-excited-to-watch-during-packers-training-camp/",
-            "urlToImage": "https://packerswire.usatoday.com/wp-content/uploads/sites/57/2023/06/USATSI_20737619-e1686770869361.jpg?w=1024&h=576&crop=1",
-            "publishedAt": "2024-07-06T02:12:00Z",
-            "content": "January 20, 2024; Santa Clara, CA, USA; Green Bay Packers offensive tackle Rasheed Walker (63) before a 2024 NFC divisional round game against the San Francisco 49ers at Levi’s Stadium. Mandatory Cre… [+992 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slcdunk.com"
-            },
-            "author": "James Hansen",
-            "title": "NBA Trade Rumors: New destinations for Lauri Markkanen emerge and why the trade may take longer - SLC Dunk",
-            "description": "It’s clear that the Utah Jazz have a lot going on with Lauri Markkanen and the trade rumors",
-            "url": "https://www.slcdunk.com/2024/7/5/24192979/nba-trade-rumors-lauri-markkanen-utah-jazz-miami-heat-golden-state-warriors-san-antonio-spurs",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/zAO3D_uhWSFy02Jc9If347YLsaU=/0x0:4452x2331/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25519410/2115291023.jpg",
-            "publishedAt": "2024-07-06T01:47:17Z",
-            "content": "We have multiple teams that vying for Lauri Markkanen in a potential trade and we got some more insight today. Another team to watch in the Lauri Markkanen sweepstakes according to Zach Lowe, the Mia… [+5680 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Ryan Morik",
-            "title": "Pirates rookie phenom Paul Skenes makes MLB history with another dominant outing - Fox News",
-            "description": "Rookie phenom Paul Skenes is quickly becoming one of the best pitchers in baseball, even though he's pitched in just 10 Major League Baseball games.",
-            "url": "https://www.foxnews.com/sports/pirates-rookie-phenom-paul-skenes-makes-mlb-history-another-dominant-outing",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/paul-skenes-against-mets.jpg",
-            "publishedAt": "2024-07-06T00:50:00Z",
-            "content": "Paul Skenes is living up to the hype.\r\nIn fact, he's blowing right by it.\r\nThe LSU product was taken by the Pittsburgh Pirates with the No. 1 overall selection in last year's MLB Draft, and after dom… [+1850 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Athlon Sports"
-            },
-            "author": "Max Escarpio",
-            "title": "Updated LeBron James Net Worth Revealed After Signing New Contract - Athlon Sports",
-            "description": "LeBron James's net worth revealed after latest contract with Los Angeles Lakers.",
-            "url": "https://athlonsports.com/nba/updated-lebron-james-net-worth-revealed-after-signing-new-contract",
-            "urlToImage": "https://athlonsports.com/.image/t_share/MTk5MzM0Njc0MjE0OTU0Mzk4/lbj2930242.jpg",
-            "publishedAt": "2024-07-06T00:26:28Z",
-            "content": "The Los Angeles Lakers recently agreed to a two-year, $104 million deal with superstar forward LeBron James. Following the contract extension, LeBron James' net worth has been updated and revealed.\r\n… [+1473 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Joe Attanasio",
-            "title": "Olympians prepare for grim act following Paris' 'bold' decision - Yahoo News Australia",
-            "description": "Pollution levels in the River Seine in Paris are so unclean, it's not safe for swimming, people say. But will it stop the Olympic competition from going...",
-            "url": "https://au.news.yahoo.com/olympians-prepare-for-grim-act-following-paris-bold-decision-002224613.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gW6pfLTCR8t7otHPas00cw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/56855340-3b2d-11ef-b68f-5c2813427515",
-            "publishedAt": "2024-07-06T00:22:00Z",
-            "content": "With merely weeks to go until the 2024 Paris Olympic Games, sports and tourism officials are now rolling out their finishing touches to ensure the city's in top shape for the estimated three million … [+5533 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Gab Marcotti",
-            "title": "Why Portugal's reliance on Ronaldo cost them at Euro 2024 - ESPN",
-            "description": "Despite Cristiano Ronaldo's subpar display at Euro 2024, Portugal coach Martinez centered the team around the star player, which led to their Euros exit.",
-            "url": "https://www.espn.com/soccer/story/_/id/40501810/why-portugals-reliance-cristiano-ronaldo-cost-euro-2024",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0705%2Fr1355045_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-07-06T00:07:34Z",
-            "content": "HAMBURG, Germany -- Cristiano Ronaldo stood amongst his teammates, hands on hips, lips pursed, eyes looking out into the Portuguese crowd behind the goal.\r\nRúben Dias and Nuno Mendes, the warriors wh… [+7071 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Portugoal.net"
-            },
-            "author": "Matthew Marshall",
-            "title": "Penalty shootout heartbreak as Portugal's Euro 2024 campaign ends in a quarter-final defeat to France - PortuGOAL.net",
-            "description": "Portugal 0-0 France match report - Penalty shootout heartbreak as Euro 2024 campaign ends in the quarter-finals.",
-            "url": "https://portugoal.net/selecao/3978-penalty-shootout-heartbreak-as-portugals-euro-2024-campaign-ends-in-a-quarter-final-defeat-to-france",
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2024-07-05T23:49:18Z",
-            "content": "Portugals 2024 UEFA European Championship ended in the quarter-finals after a penalty shootout defeat against France.\r\nClear cut chances were hard to come by in Hamburg before the tempo increased in … [+6623 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Eva Geitheim",
-            "title": "Lakers News: East Wing Shunned Sign-And-Trade To LA - Sports Illustrated",
-            "description": "This free agent opted to sign with rival team over the Los Angeles Lakers.",
-            "url": "https://www.si.com/nba/lakers/news/lakers-news-east-wing-shunned-sign-and-trade-to-la-eg2001",
-            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_8001,h_4500,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_lakers/01j1zyhjf0cb3vf5rcz4.jpg",
-            "publishedAt": "2024-07-05T22:00:01Z",
-            "content": "The Los Angeles Lakers missed out on another free agent when Buddy Hield decided to join the Golden State Warriors on a sign-and-trade with the Philadelphia 76ers. Hield considered the Lakers and the… [+1306 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "RACER"
-            },
-            "author": "Marshall Pruett",
-            "title": "Palou leads first session of IndyCar hybrid era at Mid-Ohio - RACER",
-            "description": "The NTT IndyCar Series’ hybrid era opened with rookie Toby Sowery doing most of the lapping on his own in dry and overcast conditions to start on Friday at Mid-Ohio and ended with Alex Palou on top…",
-            "url": "https://racer.com/2024/07/05/palou-leads-first-session-of-indycar-hybrid-era-at-mid-ohio/",
-            "urlToImage": "https://racer.com/wp-content/uploads/sites/85/2024/07/abbott-MIDOH-070724-4128.jpg?w=1024&h=576&crop=1",
-            "publishedAt": "2024-07-05T21:01:57Z",
-            "content": "The NTT IndyCar Series hybrid era opened with rookie Toby Sowery doing most of the lapping on his own in dry and overcast conditions to start on Friday at Mid-Ohio and ended with Alex Palou on top an… [+3148 chars]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Julia Stumbaugh",
-            "title": "Fever's Caitlin Clark Teases WNBA 3-Point Contest Appearance at All-Star Weekend - Bleacher Report",
-            "description": "Indiana Fever rookie Caitlin Clark left the possibility open that she might participate in the three-point competition at the 2024 WNBA All-Star weekend.…",
-            "url": "https://bleacherreport.com/articles/10127264-fevers-caitlin-clark-teases-wnba-3-point-contest-appearance-at-all-star-weekend",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1720203245/b4fokshbewyv67c4mtgl.jpg",
-            "publishedAt": "2024-07-05T20:48:45Z",
-            "content": "Ethan Miller/Getty Images\r\nIndiana Fever rookie Caitlin Clark left the possibility open that she might participate in the three-point competition at the 2024 WNBA All-Star weekend.\r\n\"Remains to be se… [+2172 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Mark Ogden",
-            "title": "Kroos' career ends in chaos as Germany can't intimidate Spain - ESPN",
-            "description": "As Germany fell to Spain on Friday in the Euro 2024 quarterfinals, Toni Kroos' career came to an end, but in the most unexpected way possible.",
-            "url": "https://www.espn.com/soccer/story/_/id/40501987/toni-kroos-career-ends-chaos-germany-cant-intimidate-spain",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0705%2Fr1354968_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-07-05T20:46:00Z",
-            "content": "STUTTGART, Germany -- For a player who has made a career out of being the master of calm, Toni Kroos would never have expected it all to end in chaos, but after 833 games for club and country, the fi… [+6499 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
-            },
-            "author": "Doug McIntyre",
-            "title": "Sources: U.S. Soccer expected to decide on Gregg Berhalter's future next week - FOX Sports",
-            "description": "U.S. Soccer is expected to make a decision on the future of men’s national team coach Gregg Berhalter by the middle of next week, multiple sources told FOX Sports.",
-            "url": "https://www.foxsports.com/stories/soccer/sources-u-s-soccer-expected-decide-gregg-berhalters-future-next-week",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/07/1408/814/0c20904e-usmnt1.jpg?ve=1&tl=1",
-            "publishedAt": "2024-07-05T20:18:58Z",
-            "content": "The U.S. Soccer Federation is expected to make a decision about the future of men's national team coach Gregg Berhalter by the middle of next week, multiple sources told FOX Sports.\r\nBerhalter's USMN… [+1888 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rivals.com"
-            },
-            "author": "John Garcia Jr.",
-            "title": "Mizzou Stays Hot With Another Top 100 WR Pledge In Donovan Olugbode - Rivals.com",
-            "description": "For the second time in as many days, Missouri adds a top 100 wide receiver recruit.",
-            "url": "https://n.rivals.com/news/mizzou-stays-hot-with-another-top-100-wr-pledge-in-donovan-olugbode",
-            "urlToImage": "https://images.rivals.com/image/upload/f_auto,q_auto,t_headline_primary/txootm2w1bllcor5bgoi",
-            "publishedAt": "2024-07-05T20:07:17Z",
-            "content": "It's been quite the few weeks for Donovan Olugbode. The Bradenton (Fla.) IMG Academy wide receiver wrapped up a national tour of official visits at the end of June, he dominated the Rivals Five-Sta..."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "247Sports"
-            },
-            "author": "247Sports",
-            "title": "Top 247 safety JaDon Blair goes in-depth on commitment to Notre Dame - 247Sports",
-            "description": null,
-            "url": "https://247sports.com/college/notre-dame/article/top-247-safety-jadon-blair-goes-in-depth-on-commitment-to-notre-dame-fighting-irish-233552074/",
-            "urlToImage": null,
-            "publishedAt": "2024-07-05T19:18:45Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": null,
-            "title": "Simone Biles Seemingly Reacts to MyKayla Skinner Controversy - E! NEWS",
-            "description": "After retired gymnast MyKayla Skinner criticized the 2024 Olympics team, Simone Biles posted a message stating, \"Not everyone needs a mic.\"",
-            "url": "https://www.eonline.com/news/1404643/simone-biles-says-not-everyone-needs-a-mic-amid-mykayla-skinner-controversy",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021625/rs_1200x1200-210725123203-1200-simone-biles.cm.72521.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2024-07-05T18:53:00Z",
-            "content": "She was part of the gold-winning teams at both the 2012 London Games and the 2016 Rio de Janeiro Games. She also won gold in the gymnastics all-around in 2016, becoming the first African American to … [+626 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "USA TODAY",
-            "title": "US government investigating Chinese swimming doping scandal - USA TODAY",
-            "description": null,
-            "url": "https://www.usatoday.com/story/sports/olympics/2024/07/05/us-government-investigating-chinese-swimming-doping-scandal/74310336007/",
-            "urlToImage": null,
-            "publishedAt": "2024-07-05T17:12:21Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NESN"
-            },
-            "author": "Keagan Stiefel",
-            "title": "Red Sox Have Chance To Flip Narrative In Crucial Yankees Series - NESN",
-            "description": "The Red Sox and Yankees will meet this weekend in a series that has tons of juice, all thanks to one date that is fast approaching.",
-            "url": "https://nesn.com/2024/07/red-sox-have-chance-to-flip-narrative-in-crucial-yankees-series/",
-            "urlToImage": "https://nesn.com/wp-content/uploads/sites/5/2024/07/Jarren-Duran-12.jpg",
-            "publishedAt": "2024-07-05T16:48:52Z",
-            "content": null
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CBS Sports"
             },
-            "author": "",
-            "title": "Ranking top 20 safeties for 2024 NFL season: Steelers' Minkah Fitzpatrick among players in tier of their own - CBS Sports",
-            "description": "Here it is, the ranking of the top 20 safeties in the NFL",
-            "url": "https://www.cbssports.com/nfl/news/ranking-top-20-safeties-for-2024-nfl-season-steelers-minkah-fitzpatrick-among-players-in-tier-of-their-own/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/14/a2c411eb-3571-4646-b93b-465dbae5a921/thumbnail/1200x675/bd01d9289ec2f7b551767511f34878de/usatsi-minkah-fitzpatrick-steelers.jpg",
-            "publishedAt": "2024-07-05T15:43:31Z",
-            "content": "It's that special time of the NFL offseason where we are caught in limbo between OTAs and training camp. For the most part, there's not all that much happening on a day-to-day basis. Teams are gearin… [+9423 chars]"
+            "author": "James Benge",
+            "title": "France vs Portugal score, Euro 2024 live updates: Winner between Kylian Mbappe, Cristiano Ronaldo faces Spain - CBS Sports",
+            "description": "In Friday's first quarterfinal Spain eliminated Germany with a last minute extra time goal",
+            "url": "https://www.cbssports.com/soccer/news/euro-2024-scores-france-eliminate-cristiano-ronaldos-portugal-on-penalties-will-face-spain-in-semifinals/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/05/595d83c9-916e-4a43-b9a7-154f458559dd/thumbnail/1200x675/0bcf86eea8a81e9a0a6990319eabbb7f/untitled-design-2024-07-05t235359-029.png",
+            "publishedAt": "2024-07-05T21:17:35Z",
+            "content": "Cristiano Ronaldo's final European Championships ended from 12 yards out as five flawless French penalties eliminated Portugal in the quarterfinals, sending pre-tournament favorites Les Bleus into a … [+1884 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sports Illustrated"
+                "name": "KUTV 2News"
             },
-            "author": "Austin Jacobsen",
-            "title": "Former Nebraska Basketball Sharpshooter Signs Free Agent Deal with Pacers - Sports Illustrated",
-            "description": "Keisei Tominaga will be staying in Big Ten country with the Indiana Pacers",
-            "url": "https://www.si.com/college/nebraska/basketball/former-nebraska-basketball-sharpshooter-signs-free-agent-deal-with-pacers-keisei-tominaga-nba",
-            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3557,h_2000,x_0,y_23/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_huskers/01j21mkwk1kkhxa4yt2p.jpg",
-            "publishedAt": "2024-07-05T14:49:08Z",
-            "content": "A catalyst for the Nebraska Men's Basketball breakout season has signed a free agent deal with an NBA franchise Friday morning. \r\nKeisei Tominaga, the former Nebraska guard and one of the better shoo… [+1935 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Oddschecker"
-            },
-            "author": "OddsChecker",
-            "title": "Atlanta Braves vs. Philadelphia Phillies Prediction, Betting Pick, Latest Odds - OddsChecker",
-            "description": null,
-            "url": "https://www.oddschecker.com/us/picks-parlays/baseball/mlb/20240705-atlanta-braves-vs-philadelphia-phillies-prediction-betting-pick-latest-odds",
-            "urlToImage": null,
-            "publishedAt": "2024-07-05T14:44:00Z",
-            "content": null
+            "author": "Danielle MacKimm, KUTV",
+            "title": "Provo Fire reacts to Stadium of Fire July 4th fireworks malfunction - KUTV 2News",
+            "description": "After a fireworks malfunction at the Stadium of Fire, the Provo Fire Department has expressed sympathy for those injured. They credit their ongoing training for",
+            "url": "https://kutv.com/news/local/provo-fire-reacts-to-stadium-of-fire-july-4th-fireworks-malfunction-search-and-rescue-injury",
+            "urlToImage": "https://kutv.com/resources/media/ce940201-02a1-418e-804c-a30ae62fe7e4-large16x9_LES4.jpg",
+            "publishedAt": "2024-07-05T19:22:03Z",
+            "content": "PROVO, Utah (KUTV) After a fireworks malfunction at the Stadium of Fire, the Provo Fire Department has expressed sympathy for those injured. They credit their ongoing training for their quick medical… [+1130 chars]"
         }
     ]
 }

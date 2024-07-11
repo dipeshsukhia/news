@@ -1,32 +1,227 @@
 {
     "status": "ok",
-    "totalResults": 64,
+    "totalResults": 66,
     "articles": [
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "Mary Kekatos",
-            "title": "NASA astronauts, stuck on ISS after issues with Boeing's Starliner, to give press conference - ABC News",
-            "description": "Butch Wilmore and Suni Williams were orginally to return to Earth on June 14.",
-            "url": "https://abcnews.go.com/Technology/nasa-astronauts-stuck-iss-after-issues-boeings-starliner/story?id=111770374",
-            "urlToImage": "https://i.abcnewsfe.com/a/a8901c88-f7ad-436b-a1b1-89bdd9ec541f/boeing-starliner-astronauts-rt-lv-240709_1720543978684_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-07-10T09:15:24Z",
-            "content": "The NASA astronauts who were aboard the first crewed flight into space on Boeing's Starliner will participate in a press conference on Wednesday morning.\r\nFlight commander Barry \"Butch\" Wilmore, 61, … [+3230 chars]"
+            "author": "Passant Rabie",
+            "title": "Europe’s Long Awaited Ariane 6 Rocket Suffers Anomaly During Its Debut Flight - Gizmodo",
+            "description": "The Ariane 6 rocket's first launch faced a second stage anomaly, preventing planned deorbit, as Europe aims to regain access to space.",
+            "url": "https://gizmodo.com/ariane-6-first-launch-anomaly-2000457850",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GSEipyPbkAAHyWR-e1720627429585.jpeg",
+            "publishedAt": "2024-07-10T17:25:00Z",
+            "content": "The inaugural launch of Europe’s next-gen rocket has been a long time in the making, and it almost went by without a hitch until a second stage anomaly caused an Ariane 6 launch failure, marring its … [+3367 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Bradley Brownell",
+            "title": "We're So Good At Making Trash We've Started Putting Useless Junk In Space, Too - Jalopnik",
+            "description": "The U.S. launched 20 times as many objects into space in 2023 as it did in 2016",
+            "url": "https://jalopnik.com/were-so-good-at-making-trash-weve-started-putting-usele-1851584702",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3575c8fc9289af3848c1ef1b7029821b.png",
+            "publishedAt": "2024-07-10T15:35:00Z",
+            "content": "I have become convinced that the truly incredible quantity of junk being launched into space on a regular basis will become one of the worlds greatest problems within our lifetime. According to UN es… [+1986 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Robert Lea",
+            "title": "Hubble Space Telescope finds closest massive black hole to Earth — a cosmic clue frozen in time - Space.com",
+            "description": "It's found in Omega Centauri, the remains of a cannibalized galaxy.",
+            "url": "https://www.space.com/closest-massive-black-hole-earth-hubble",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Pzd9Mx7tpAGNEXBnNL6fDV-1200-80.png",
+            "publishedAt": "2024-07-10T15:05:27Z",
+            "content": "Using the Hubble Space Telescope, astronomers have discovered the closest massive black hole to Earth ever seen, a cosmic titan \"frozen in time.\" \r\nAs an example of an elusive \"intermediate-mass blac… [+7280 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chris Eberhart",
+            "title": "NASA astronauts on Boeing's Starliner spacecraft talk from International Space Station - Fox News",
+            "description": "The NASA astronauts who were on Boeing's Starliner capsule when it suffered a series of issues spoke from the International Space Station, where the spacecraft has been docked for weeks.",
+            "url": "https://www.foxnews.com/us/nasa-astronauts-boeing-plagued-starliner-spacecraft-talk-international-space-station",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/nasa-starliner-presser-thumb.jpg",
+            "publishedAt": "2024-07-10T14:13:40Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+3322 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Is Wood the Secret to Cleaner, Greener Space Satellites? - The Wall Street Journal",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lndzai5jb20vc2NpZW5jZS9zcGFjZS1hc3Ryb25vbXkvd29vZC1zYXRlbGxpdGUtbGlnbm9zYXQtc3BhY2UtbGF1bmNoLTEyZWRhYzli0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-10T14:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Ed Stone, Top Scientist—and Salesman—for the Voyager Mission, Dies at 88 - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4",
+            "urlToImage": null,
+            "publishedAt": "2024-07-10T14:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "UK’s most complete dinosaur fossil in a century reveals new species - CNN",
+            "description": "A previously unknown species of plant-eating dinosaur roamed on an island off the south coast of England around 125 million years ago, new research has found.",
+            "url": "https://www.cnn.com/2024/07/10/science/new-dinosaur-species-discovered-in-uk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/comptonatus-chasei-by-john-sibbick-1.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-10T13:50:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA previously unknown species of plant-eating dinosaur … [+2340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Trisha Sengupta",
+            "title": "NASA astronaut captures moonrise from unique vantage point: ‘Dancing in moonlight’ - Hindustan Times",
+            "description": "“A sliver of a moon rises out of noctilucent clouds and…” said the NASA astronaut about a picture of the moonrise that he captured from a unique vantage point. | Trending",
+            "url": "https://www.hindustantimes.com/trending/nasa-astronaut-captures-moonrise-from-unique-vantage-point-dancing-in-moonlight-101720596596629.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2024/07/10/1600x900/Viral_Vantage_Point_Moonrise_NASA_Astronaut_1720596689584_1720596689893.jpg",
+            "publishedAt": "2024-07-10T13:40:16Z",
+            "content": "A beautiful photo of a moonrise taken from space has left people stunned. The moon is seen above the horizon in the picture taken by NASA astronaut Matthew Dominick from the International Space Stati… [+1868 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Stefanie Waldek",
+            "title": "Europe's Mars sample return orbiter moving ahead despite NASA budget uncertainty - Space.com",
+            "description": "The spacecraft, which will catch a Mars surface sample traveling in Martian orbit and bring it to Earth, has passed its design review.",
+            "url": "https://www.space.com/esa-earth-return-orbiter-passes-design-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nhevBXfWuVabx8vBKZXWZ8-1200-80.jpg",
+            "publishedAt": "2024-07-10T11:59:11Z",
+            "content": "While NASA's portion of the Mars Sample Return mission sits in budgetary limbo, the European Space Agency (ESA) continues to move forward with its piece of the Red Planet sampling puzzle: the Earth R… [+2728 chars]"
         },
         {
             "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
             },
-            "author": "Stephen Clark",
-            "title": "Europe’s first Ariane 6 flight achieved most of its goals, but ended prematurely - Ars Technica",
-            "description": "Ariane 6 launched into orbit, but an upper stage problem kept it from completing the demo flight.",
-            "url": "https://arstechnica.com/space/2024/07/europes-first-ariane-6-flight-achieved-most-of-its-goals-but-ended-prematurely/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2160744209-760x380.jpg",
-            "publishedAt": "2024-07-10T06:22:35Z",
-            "content": "Enlarge/ Europe's first Ariane 6 rocket lifts off from a new launch pad in Kourou, French Guiana.\r\n24\r\nThe first European Ariane 6 rocket fired off its launch pad at the edge of the Amazon rainforest… [+12781 chars]"
+            "author": "Jennifer Ouellette",
+            "title": "Antikythera mechanism’s calendar ring likely tracked the lunar calendar - Ars Technica",
+            "description": "Physicists drew on statistical techniques used to analyze gravitational waves.",
+            "url": "https://arstechnica.com/science/2024/07/antikythera-mechanisms-calendar-ring-likely-tracked-the-lunar-calendar/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/antikytheraA-760x380.jpg",
+            "publishedAt": "2024-07-10T11:05:46Z",
+            "content": "Enlarge/ Fragment of the Antikythera mechanism, circa 205 BC, housed in the collection of the National Archaeological Museum, Athens.\r\n39\r\nThe inspiration for the titular device in last year's blockb… [+4000 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Hannah Bird",
+            "title": "New incompletely rifted microcontinent identified between Greenland and Canada - Phys.org",
+            "description": "Plate tectonics are the driving force behind Earth's continental configurations, with the lithosphere (oceanic and continental crusts and upper mantle) moving due to convection processes occurring in the softer underlying asthenospheric mantle. Many earthquak…",
+            "url": "https://phys.org/news/2024-07-incompletely-rifted-microcontinent-greenland-canada.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-incompletely-rifte.jpg",
+            "publishedAt": "2024-07-10T10:50:01Z",
+            "content": "Plate tectonics are the driving force behind Earth's continental configurations, with the lithosphere (oceanic and continental crusts and upper mantle) moving due to convection processes occurring in… [+4559 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aeon.co"
+            },
+            "author": null,
+            "title": "Dog vision is a trendy topic, but what can we really know about how they see? - Aeon",
+            "description": "Take a look beyond the myths and misconceptions of dog vision to learn how richly dogs perceive the world around them",
+            "url": "https://aeon.co/videos/dog-vision-is-a-trendy-topic-but-what-can-we-really-know-about-how-they-see",
+            "urlToImage": "https://images.aeonmedia.co/images/10203799-0fb1-4da3-9385-efcc844c7a38/the-canine-rainbow-landscape-2-v3.jpg?width=1200&quality=75&format=auto",
+            "publishedAt": "2024-07-10T10:05:44Z",
+            "content": "Between camera filters and clickbait, the digital world is rife with misleading information about how, exactly, dogs see the world. In this short from the YouTube series Howtown, the US reporter and … [+555 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Keith Cooper",
+            "title": "SpaceX rivals challenge Starship launch license in Florida over environmental, safety concerns - Space.com",
+            "description": "Elon Musk's SpaceX hopes to launch up to 44 flights of Starship each year.",
+            "url": "https://www.space.com/spacex-rivals-challenge-starship-launch-license-in-florida",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DyvXuMKbgtxAEshbVMFzT7-1200-80.jpg",
+            "publishedAt": "2024-07-10T10:00:04Z",
+            "content": "SpaceX's plans to launch its Starship–Super Heavy two-stage rocket 44 times per year from NASA's Kennedy Space Center in Florida have come under fire from its two main rivals: United Launch Alliance … [+9087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Tom Metcalfe",
+            "title": "Ancient stone circles in Norway were hiding a dark secret: dozens of children's graves - Livescience.com",
+            "description": "A Bronze and Iron Age burial ground for children that was unearthed in Norway was used for 600 years, and archaeologists aren't sure why.",
+            "url": "https://www.livescience.com/archaeology/ancient-stone-circles-in-norway-were-hiding-a-dark-secret-dozens-of-childrens-graves",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HxLPHzhRihJk58rft4hdkU-1200-80.jpg",
+            "publishedAt": "2024-07-10T10:00:00Z",
+            "content": "Archaeologists are mystified by the discovery of dozens of Bronze and Iron Age graves of children in southern Norway.\r\nThe burials, each marked by circles of meticulously placed stones, were found by… [+3436 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Tessa Koumoundouros",
+            "title": "Your Fingernails Have Unexpectedly Precise Sensory Capabilities - ScienceAlert",
+            "description": "Our fingernails know us so well that they can sometimes even tell us about our health.",
+            "url": "https://www.sciencealert.com/your-fingernails-have-unexpectedly-precise-sensory-capabilities",
+            "urlToImage": "https://www.sciencealert.com/images/2024/07/FingersGivingCatScritches.jpg",
+            "publishedAt": "2024-07-10T05:18:48Z",
+            "content": "Our fingernails know us so well that they can sometimes even tell us about our health. But there's a surprising amount we don't know about them, such as their unexpectedly precise sensitivity to the … [+3137 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "KSBY News",
+            "title": "SpaceX planning Thursday evening launch out of Vandenberg Space Force Base - KSBY News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmtzYnkuY29tL25ld3MvbG9jYWwtbmV3cy9zcGFjZXgtcGxhbm5pbmctd2VkbmVzZGF5LWV2ZW5pbmctbGF1bmNoLW91dC1vZi12YW5kZW5iZXJnLXNwYWNlLWZvcmNlLWJhc2XSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-10T04:40:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SpaceNews"
+            },
+            "author": "Jeff Foust",
+            "title": "House introduces NASA reauthorization act - SpaceNews",
+            "description": "A bipartisan NASA act would formally authorize several ongoing programs while directing the agency to provide reports on many topics.",
+            "url": "https://spacenews.com/house-introduces-nasa-reauthorization-act/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2015/06/us_capitol_nasa_1040.jpg",
+            "publishedAt": "2024-07-10T04:38:15Z",
+            "content": "TOKYO A bipartisan NASA act would formally authorize several ongoing programs while directing the agency to provide reports on topics ranging from Space Launch System usage to servicing of the Hubble… [+3729 chars]"
         },
         {
             "source": {
@@ -34,12 +229,25 @@
                 "name": "Forbes"
             },
             "author": "Jamie Carter",
-            "title": "Northern Lights Alert: Beware ‘Head-On’ Aurora Displays Say Scientists - Forbes",
+            "title": "Northern Lights Alert: Beware ‘Head-On’ Aurora Displays, Scientists Say - Forbes",
             "description": "Scientists find that \"interplanetary shocks\" that strike Earth’s magnetic field head-on cause more powerful electric currents, threatening pipelines and submarine cables.",
             "url": "https://www.forbes.com/sites/jamiecartereurope/2024/07/10/northern-lights-alert-beware-head-on-aurora-displays-say-scientists/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66894e6b914b19c11d769a9f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2024-07-10T04:00:00Z",
-            "content": "The Northern Lights, also known as aurora, is a natural light display, caused by the solar wind. ... [+] (Photo by:Universal History Archive/Universal Images Group via Getty Images)\r\nUniversal Images… [+3437 chars]"
+            "content": "The Northern Lights, also known as aurora, is a natural light display, caused by the solar wind. ... [+] (Photo by:Universal History Archive/Universal Images Group via Getty Images)\r\nUniversal Images… [+3438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Webb’s Super-Earth Discovery: Potentially Habitable World Just 48 Light-Years Away - SciTechDaily",
+            "description": "A team of astronomers has made an exciting discovery about the temperate exoplanet LHS 1140 b: it could be a promising \"super-Earth\" covered in ice or water. LHS 1140 b, once thought to be a mini-Neptune, is now considered a possible super-Earth with a nitrog…",
+            "url": "https://scitechdaily.com/webbs-super-earth-discovery-potentially-habitable-world-just-48-light-years-away/",
+            "urlToImage": "https://scitechdaily.com/images/Exoplanet-LHS-1140-b.jpg",
+            "publishedAt": "2024-07-10T02:41:47Z",
+            "content": "Temperate exoplanet LHS 1140 b may be a world completely covered in ice (left) similar to Jupiter’s moon Europa or may be an ice world with a liquid substellar ocean and a cloudy atmosphere (center).… [+9113 chars]"
         },
         {
             "source": {
@@ -69,29 +277,42 @@
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
-            "author": "Aliza Chasan",
-            "title": "This distant and deadly planet smells like rotten eggs, scientists say - CBS News",
-            "description": "A planet 64 light-years from Earth was already known for deadly weather. Now scientists say the planet also smells like rotten eggs.",
-            "url": "https://www.cbsnews.com/news/distant-exoplanet-rotten-egg-smell-james-webb-telescope-study/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/10/017deccc-f6a1-4180-b0d1-7d0cffc0dac1/thumbnail/1200x630/ec6e80c4460bbb2085bac29ef9f90bb4/low-res-hd-189733b-draft-3-with-star.jpg?v=2287029998c5246c93d6dd038eb30603",
-            "publishedAt": "2024-07-10T00:58:07Z",
-            "content": "As if its deadly weather wasn't bad enough, scientists this week said a Jupiter-sized planet 64 light-years from Earth reeks of rotten eggs. \r\nHD 189733 b is an exoplanet, which means it's located ou… [+2639 chars]"
+            "author": "Michael Dahlstrom",
+            "title": "Aussie myth about ancient kangaroos busted by British team - Yahoo News Australia",
+            "description": "Astounding new research has turned a theory about ancient kangaroos on its head. Did they hop or did they walk?",
+            "url": "https://au.news.yahoo.com/aussie-myth-about-ancient-kangaroos-busted-by-british-team-020148840.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AWr3UF6GCC8P.Z8vCEEjsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/79f8fe20-3e58-11ef-b5cb-9b71961b0702",
+            "publishedAt": "2024-07-10T00:17:26Z",
+            "content": "If theres one kangaroo fact that every Aussie knows its that they hop. And the same had been assumed about their ancient ancestors.\r\nBut a surprising new theory from British researchers suggests weve… [+2176 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KEYT"
+                "name": "Earth.com"
             },
-            "author": "Caleb Nguyen",
-            "title": "Space X’s Falcon 9 ready for liftoff once again - KEYT",
-            "description": "Space X is targeting Wednesday, July 10 for a Falcon 9 rocket launch of 20 Starlink satellites from its base in Vandeberg.",
-            "url": "https://keyt.com/news/santa-maria-north-county/2024/07/09/space-xs-falcon-9-ready-for-liftoff-once-again/",
-            "urlToImage": "https://keyt.b-cdn.net/2024/04/Screenshot-2024-04-17-at-10.29.22-AM.png",
-            "publishedAt": "2024-07-09T22:19:54Z",
-            "content": "VANDENBERG SPACE FORCE BASE, Calif.  Space X is targeting Wednesday, July 10 for a Falcon 9 rocket launch of 20 Starlink satellites from its base in Vandeberg. \r\nLiftoff is scheduled for 7:00 p.m. an… [+525 chars]"
+            "author": null,
+            "title": "Earth’s inner core rotation has begun moving backwards - Earth.com",
+            "description": "Earth's inner core, spinning independently, slowed by 2023, moving backward now. This deceleration is expected to speed up again.",
+            "url": "https://www.earth.com/news/earths-inner-core-rotation-has-begun-moving-backwards/",
+            "urlToImage": "https://cff2.earth.com/uploads/2024/07/08094740/earth_inner-core_slowing_reversing_1m.jpg",
+            "publishedAt": "2024-07-09T23:35:41Z",
+            "content": "In these modern times, we often take the stability of our world for granted. However, an academic revelation suggests we are in the midst of a change so drastic that it feels as if the very ground be… [+6487 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Leah Sarnoff",
+            "title": "Scientists discover Jupiter-like exoplanet that smells of rotten eggs - ABC News",
+            "description": "Exoplanet HD 189733 b contains hydrogen sulfide, according to new research.",
+            "url": "https://abcnews.go.com/International/scientists-discover-jupiter-exoplanet-smells-rotten-eggs/story?id=111783965",
+            "urlToImage": "https://i.abcnewsfe.com/a/f3765768-171b-4934-b6af-43c669d899e1/hot-jupiter-01-ht-jt-240709_1720562775270_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-07-09T23:33:02Z",
+            "content": "Scientists made an exciting -- and pungent -- announcement about a nearby exoplanet this week, finding that a planetary body with a likeness to Jupiter smells of rotten eggs.\r\nAnalyzing data gathered… [+1726 chars]"
         },
         {
             "source": {
@@ -124,26 +345,13 @@
                 "id": null,
                 "name": "Live Science"
             },
-            "author": "Ben Turner",
-            "title": "'Eyeball' planet spied by James Webb telescope might be habitable - Livescience.com",
-            "description": "Located 50 light-years from Earth, the beady-eyed exoplanet LHS 1140 b could be a perfect candidate for discovering liquid water outside the solar system, new research suggests.",
-            "url": "https://www.livescience.com/space/exoplanets/eyeball-planet-spied-by-james-webb-telescope-might-be-habitable",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RERq6qbEfUZacNrzz7R6fa-1200-80.jpg",
-            "publishedAt": "2024-07-09T21:19:42Z",
-            "content": "The James Webb Space Telescope\r\n (JWST) has found that a distant world discovered several years ago could be an \"eyeball\" planet with an iris-like ocean surrounded by a sea of solid ice — making it a… [+3189 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Earth.com"
-            },
-            "author": null,
-            "title": "What would happen if a small asteroid hit Earth? NASA and AI found out - Earth.com",
-            "description": "Asteroid impacts are typically quite low on our looming disaster lists. After all, a large asteroid colliding with Earth is highly unlikely.",
-            "url": "https://www.earth.com/news/what-would-happen-small-asteroid-hit-earth-nasa-ai-simulation-found-out/",
-            "urlToImage": "https://cff2.earth.com/uploads/2024/07/09141426/earth_asteroid-impact_nasa-ai-simulation_outcome_1m.jpg",
-            "publishedAt": "2024-07-09T20:55:42Z",
-            "content": "When we think about unexpected events, asteroid impacts are typically quite low on the list. After all, a large asteroid colliding with Earth is highly unlikely in the foreseeable future. \r\nHowever, … [+6364 chars]"
+            "author": "Katherine Irving",
+            "title": "Will we have more earthquakes because of climate change? - Livescience.com",
+            "description": "Changes in sea level and glacial melt could make earthquakes more likely in the coming years.",
+            "url": "https://www.livescience.com/planet-earth/earthquakes/will-we-have-more-earthquakes-because-of-climate-change",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mfu6SkoPuP6F8TETb8NN4i-1200-80.jpg",
+            "publishedAt": "2024-07-09T20:24:00Z",
+            "content": "Earthquakes are one of the most mysterious and terrifying natural disasters. Although we have some idea of when the big ones might happen, others can occur seemingly out of nowhere\r\n, bulldozing citi… [+4362 chars]"
         },
         {
             "source": {
@@ -187,6 +395,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Live Science"
+            },
+            "author": "Kristel Tjandra",
+            "title": "Scientists say they can now forecast a strong El Niño years in advance - Livescience.com",
+            "description": "Scientists used thousands of years of past climate data to show that El Niño Southern Oscillations can be predicted more than two years in advance.",
+            "url": "https://www.livescience.com/planet-earth/climate-change/scientists-say-they-can-now-forecast-a-strong-el-nino-years-in-advance",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WL29AWKXCrhzeK9gvkA73b-1200-80.jpg",
+            "publishedAt": "2024-07-09T19:03:09Z",
+            "content": "The next El Niño can be predicted more than two years in advance, according to a new study that looked at thousands of years of past climate data.\r\nThe El Niño-Southern Oscillation\r\n (ENSO) is a clim… [+3377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Space.com"
             },
             "author": "Samantha Mathewson",
@@ -212,16 +433,29 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Live Science"
             },
-            "author": "Yahoo! Voices",
-            "title": "Earth's gravity knocked pyramid-size asteroid off course during recent ultra-close flyby, NASA images reveal - Yahoo! Voices",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL2VhcnRocy1ncmF2aXR5LWtub2NrZWQtcHlyYW1pZC1zaXplLTE3MDQzMzI4MS5odG1s0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-09T17:04:33Z",
-            "content": null
+            "author": "Harry Baker",
+            "title": "NASA discovers secret moon orbiting nearby 'planet killer' asteroid after recent close approach to Earth - Livescience.com",
+            "description": "New NASA images of a mountain-size, \"planet killer\" asteroid that made its closest approach to Earth last month have revealed a surprise companion circling the massive space rock.",
+            "url": "https://www.livescience.com/space/asteroids/nasa-discovers-secret-moon-orbiting-nearby-planet-killer-asteroid-after-recent-close-approach-to-earth",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qyDeUcJjSX3DMrkqML5xMS-1200-80.jpg",
+            "publishedAt": "2024-07-09T17:37:03Z",
+            "content": "Blurry new photos of a mountain-size, \"planet killer\" asteroid that recently made its closest approach to Earth in more than a century\r\n have revealed a surprising new feature of the gigantic space r… [+3641 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "How lasers and 2D materials could solve the world's plastic problem - Phys.org",
+            "description": "A global research team led by Texas Engineers has developed a way to blast the molecules in plastics and other materials with a laser to break them down into their smallest parts for future reuse.",
+            "url": "https://phys.org/news/2024-07-lasers-2d-materials-world-plastic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/how-lasers-and-2d-mate.jpg",
+            "publishedAt": "2024-07-09T16:38:03Z",
+            "content": "A global research team led by Texas Engineers has developed a way to blast the molecules in plastics and other materials with a laser to break them down into their smallest parts for future reuse.\r\nT… [+3588 chars]"
         },
         {
             "source": {
@@ -265,28 +499,15 @@
         {
             "source": {
                 "id": null,
-                "name": "PetaPixel"
+                "name": "Sci.news"
             },
-            "author": "Matt Growcoot",
-            "title": "A NASA Astronaut is Taking Beautiful and Creative Photos Onboard the ISS - PetaPixel",
-            "description": "An accomplished astronaut and photographer.",
-            "url": "https://petapixel.com/2024/07/09/a-nasa-astronaut-is-taking-beautiful-and-creative-photos-on-the-iss/",
-            "urlToImage": "https://petapixel.com/assets/uploads/2024/07/Matthew-Dominick.jpg",
-            "publishedAt": "2024-07-09T14:45:59Z",
-            "content": "A NASA astronaut onboard the International Space Station (ISS) is taking a series of epic photographs and sharing the techniques behind them.\r\nMatthew Dominick has captured clever selfies of himself … [+2969 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Sci.News",
+            "author": "News Staff",
             "title": "Newly-Discovered Thescelosaurine Dinosaur Lived in Burrows - Sci.News",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnNjaS5uZXdzL3BhbGVvbnRvbG9neS9mb25hLWhlcnpvZ2FlLTEzMDgxLmh0bWzSAQA?oc=5",
-            "urlToImage": null,
+            "description": "The newly-discovered thescelosaurine species Fona herzogae shows evidence that thescelosaurine dinosaurs spent at least part of their time in underground burrows.",
+            "url": "https://www.sci.news/paleontology/fona-herzogae-13081.html",
+            "urlToImage": "https://cdn.sci.news/images/2024/07/image_13081f-Fona-herzogae.jpg",
             "publishedAt": "2024-07-09T14:38:23Z",
-            "content": null
+            "content": "Thescelosaurines were a group of small to medium-sized, plant-eating dinosaurs that inhabited North America during the Late Cretaceous epoch. The newly-discovered thescelosaurine species Fona herzoga… [+4558 chars]"
         },
         {
             "source": {
@@ -343,6 +564,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Ucf.edu"
+            },
+            "author": "Edward Duryea",
+            "title": "UCF Biologist Continues Unraveling Mystery of Magnetic Bacteria - UCF",
+            "description": "UCF Biologist Robert Fitak recently created a refined database of magnetic bacteria and the animals they may reside in to further study how these bacteria could guide migration patterns of animals such as sea turtles.",
+            "url": "https://www.ucf.edu/news/ucf-biologist-continues-unraveling-mystery-of-magnetic-bacteria/",
+            "urlToImage": "https://www.ucf.edu/wp-content/blogs.dir/20/files/2024/07/MTRG-Boat.jpg",
+            "publishedAt": "2024-07-09T13:44:55Z",
+            "content": "The remarkable ability of migratory animals to navigate and recall routes may be attributed to a sensitivity to not just Earths magnetic fields, but perhaps an interaction with magnetic bacteria livi… [+7602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "KXAN.com"
             },
             "author": "Eric Henrikson",
@@ -382,15 +616,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
+                "name": "The Conversation Africa"
             },
-            "author": "Tejasri Gururaj",
-            "title": "Quantum dot photon emitters violate Bell inequality in new study - Phys.org",
-            "description": "A new study in Nature Physics demonstrates a novel method for generating quantum entanglement using a quantum dot, which violates the Bell inequality. This method uses ultra-low power levels and could pave the way for scalable and efficient quantum technologi…",
-            "url": "https://phys.org/news/2024-07-quantum-dot-photon-emitters-violate.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/quantum-dot-photon-emi.jpg",
-            "publishedAt": "2024-07-09T12:00:01Z",
-            "content": "A new study in Nature Physics demonstrates a novel method for generating quantum entanglement using a quantum dot, which violates the Bell inequality. This method uses ultra-low power levels and coul… [+7309 chars]"
+            "author": "Guillaume Cabanac, Lonni Besançon",
+            "title": "When scientific citations go rogue: Uncovering ‘sneaked references’ - The Conversation Indonesia",
+            "description": "Scholars have long measured the impact of a paper by counting the number of times other scientific articles cite it. Researchers have just detected a new kind of citation fraud.",
+            "url": "https://theconversation.com/when-scientific-citations-go-rogue-uncovering-sneaked-references-233858",
+            "urlToImage": "https://images.theconversation.com/files/604723/original/file-20240703-19-eekk7k.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C6029%2C3014&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2024-07-09T12:22:58Z",
+            "content": "A researcher working alone apart from the world and the rest of the wider scientific community is a classic yet misguided image. Research is, in reality, built on continuous exchange within the scien… [+6931 chars]"
         },
         {
             "source": {
@@ -430,19 +664,6 @@
             "urlToImage": "https://cdn.prod.dailykos.com/assets/fb_default-92363a6f030fe6f8aa9f517166a1d73e64171c49cd6dc6ed399e044f0e848859.png",
             "publishedAt": "2024-07-09T10:57:31Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Hannah Bird",
-            "title": "High elevation regions may become wildlife refuges through climate change - Phys.org",
-            "description": "As climate change advances, its impacts are not universally equal, with temperature rising differently by latitude and elevation. Climate heterogeneity is the study of this diversity in Earth's climate patterns, and the focus of recent research published in G…",
-            "url": "https://phys.org/news/2024-07-high-elevation-regions-wildlife-refuges.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/high-elevation-regions.jpg",
-            "publishedAt": "2024-07-09T10:40:02Z",
-            "content": "As climate change advances, its impacts are not universally equal, with temperature rising differently by latitude and elevation. Climate heterogeneity is the study of this diversity in Earth's clima… [+3632 chars]"
         },
         {
             "source": {
@@ -512,6 +733,19 @@
         {
             "source": {
                 "id": null,
+                "name": "IFLScience"
+            },
+            "author": "Benjamin Taub",
+            "title": "Stunning New Image Shows Enormous “Scar” Stretching Across Mars - IFLScience",
+            "description": "You can't miss it - it's just below the solar system's largest volcano.",
+            "url": "https://www.iflscience.com/stunning-new-image-shows-enormous-scar-stretching-across-mars-74988",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/74988/aImg/77336/aganippe-fossa-meta.jpg",
+            "publishedAt": "2024-07-09T06:32:43Z",
+            "content": "A new image taken from a satellite orbiting Mars has revealed a striking canyon in unprecedented detail. Known as Aganippe Fossa, the gnarly, scar-like ravine was first spotted by astronomers almost … [+1570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "BGR"
             },
             "author": "Joshua Hawkins, Joshua Hawkins",
@@ -521,6 +755,19 @@
             "urlToImage": "https://bgr.com/wp-content/uploads/2020/09/BGRpic-3.jpg?quality=82&strip=all",
             "publishedAt": "2024-07-08T22:59:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Leah Sarnoff",
+            "title": "NASA's Mars simulator crew emerged after 378 days: What did they learn? - ABC News",
+            "description": "The next CHAPEA mission is slated for spring of 2025.",
+            "url": "https://abcnews.go.com/US/nasas-mars-simulator-crew-emerged-after-378-days/story?id=111755446",
+            "urlToImage": "https://i.abcnewsfe.com/a/c1a06d75-0fff-4422-9eba-f7ef2aa6cf57/mars-exit-nasa-ap-lv-240708_1720469165045_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-07-08T22:35:28Z",
+            "content": "For over a year, four crew members participating in NASA's Mars Dune Alpha simulated experience communicated, ate, slept and researched as if they were stationed over 200 million miles away on the Re… [+4157 chars]"
         },
         {
             "source": {
@@ -534,19 +781,6 @@
             "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/07/53754025187-238e5065da-k.jpg",
             "publishedAt": "2024-07-08T22:07:30Z",
             "content": "Northrop Grummans uncrewed Cygnus spacecraft is scheduled to depart the International Space Station on Friday, July 12, five and a half months after delivering more than 8,200 pounds of supplies, sci… [+1897 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "LEAH SARNOFF",
-            "title": "NASA's Mars simulator crew emerged after 378 days: What did they learn? - Yahoo! Voices",
-            "description": "For over a year, four crew members participating in NASA's Mars Dune Alpha simulated experience communicated, ate, slept and researched as if they were...",
-            "url": "https://abcnews.go.com/US/nasas-mars-simulator-crew-emerged-after-378-days/story?id=111755446",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RBGz5oAAApogeeBcJHIWnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/us.abcnews.go.com/0f36c77b98b21311725953d70cea258b",
-            "publishedAt": "2024-07-08T21:49:00Z",
-            "content": "For over a year, four crew members participating in NASA's Mars Dune Alpha simulated experience communicated, ate, slept and researched as if they were stationed over 200 million miles away on the Re… [+5347 chars]"
         },
         {
             "source": {
@@ -577,19 +811,6 @@
         {
             "source": {
                 "id": null,
-                "name": "IFLScience"
-            },
-            "author": "Stephen Luntz",
-            "title": "The World's Oldest Crystals Contain Traces Of Even Older Sediments - IFLScience",
-            "description": "The findings suggest the Earth has been quite like it is today as far back as we can determine, expanding the possibilities for where life began.",
-            "url": "https://www.iflscience.com/the-worlds-oldest-crystals-contain-traces-of-even-older-sediments-75001",
-            "urlToImage": "https://assets.iflscience.com/assets/articleNo/75001/aImg/77348/zircon-meta.png",
-            "publishedAt": "2024-07-08T20:29:53Z",
-            "content": "Within the oldest crystals in the world, collected from Western Australias Jack Hills, lie the remnants of even older rocks some of which were reprocessed through magma into the surviving crystals. W… [+4724 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Space.com"
             },
             "author": "Keith Cooper",
@@ -616,175 +837,6 @@
         {
             "source": {
                 "id": null,
-                "name": "TheInertia.com"
-            },
-            "author": "Alexander Haro",
-            "title": "14-Foot Great White Shark Sneaks Up Behind Kayaker - The Inertia",
-            "description": "",
-            "url": "https://www.theinertia.com/video/14-foot-great-white-shark-sneaks-up-behind-kayaker/",
-            "urlToImage": "http://www.theinertia.com/wp-content/uploads/2024/07/great-white.jpg",
-            "publishedAt": "2024-07-08T19:04:53Z",
-            "content": "Great whites like to check you out before you check them out. Here’s an example of that. Photo: YouTube//Screenshot\r\nCarlos Gauna is very interested in sharks. The great white shark, mostly, but any … [+1129 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "New discovery boosts bioethanol production efficiency and profits - Phys.org",
-            "description": "A new technique to monitor contamination in bioethanol production could increase revenue by more than $1.6 billion USD and reduce CO2 emissions by 2 million tons.",
-            "url": "https://phys.org/news/2024-07-discovery-boosts-bioethanol-production-efficiency.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-discovery-boosts-b.jpg",
-            "publishedAt": "2024-07-08T18:44:31Z",
-            "content": "A new technique to monitor contamination in bioethanol production could increase revenue by more than $1.6 billion USD and reduce CO2 emissions by 2 million tons.\r\nFor the first time ever, researcher… [+4348 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "New York Post ",
-            "title": "Rare double meteor shower to rain up to 30 shooting stars per hour this month — here’s how to watch - New York Post ",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL255cG9zdC5jb20vMjAyNC8wNy8wOC9saWZlc3R5bGUvcmFyZS1kb3VibGUtbWV0ZW9yLXNob3dlci10by1yYWluLXVwLXRvLTMwLXNob290aW5nLXN0YXJzLXBlci1ob3VyLXRoaXMtbW9udGgtaGVyZXMtaG93LXRvLXdhdGNoL9IBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-08T18:11:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Beaumont Enterprise"
-            },
-            "author": "Robin Bradshaw",
-            "title": "Best times to watch Perseid meteor shower - Beaumont Enterprise",
-            "description": "The Perseid meteor shower will peak in mid-August 2024, displaying a meteor rate of about 100 visible “shooting stars” per hour.",
-            "url": "https://www.beaumontenterprise.com/news/article/summer-2024-meteor-showers-19560777.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/40/51/76/25337786/5/rawImage.jpg",
-            "publishedAt": "2024-07-08T17:38:44Z",
-            "content": "Skywatchers: Summer 2024 meteor shower guide\r\nAllexxandar/Getty Images/iStockphoto\r\nSummer is in full swing, and this years most sought-after meteor showers will fill the night skies in August. \r\nPer… [+1732 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "SWNS",
-            "title": "Scientists investigate mysterious giant scar stretching across Mars — they are baffled how it even got there - New York Post ",
-            "description": "Scientists are examining a mysterious giant scar stretching across Mars – and do not know how it got there.",
-            "url": "https://nypost.com/2024/07/08/tech/scientists-investigate-mysterious-giant-scar-stretching-across-mars/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-kjqw1sdai-1720450922119.jpg?quality=75&strip=all&1720436559&w=1024",
-            "publishedAt": "2024-07-08T15:56:00Z",
-            "content": "Scientists are examining a mysterious giant scar stretching across Mars — and do not know how it got there.\r\nThe incredible feature, longer than the 446km (227-mile) Grand Canyon at roughly 600km (37… [+2053 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Earth.com"
-            },
-            "author": null,
-            "title": "Earth's inner core rotation has begun moving backwards - Earth.com",
-            "description": "Earth's inner core, spinning independently, slowed by 2023, moving backward now. This deceleration is expected to speed up again.",
-            "url": "https://www.earth.com/news/earths-inner-core-rotation-has-begun-moving-backwards/",
-            "urlToImage": "https://cff2.earth.com/uploads/2024/07/08094740/earth_inner-core_slowing_reversing_1m.jpg",
-            "publishedAt": "2024-07-08T15:51:45Z",
-            "content": "In these modern times, we often take the stability of our world for granted. However, an academic revelation suggests we are in the midst of a change so drastic that it feels as if the very ground be… [+4769 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Huang Rui",
-            "title": "Researchers realize time reversal through input-output indefiniteness - Phys.org",
-            "description": "A research team has constructed a coherent superposition of quantum evolution with two opposite directions in a photonic system and confirmed its advantage in characterizing input-output indefiniteness. The study was published in Physical Review Letters.",
-            "url": "https://phys.org/news/2024-07-reversal-output-indefiniteness.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/researchers-realize-ti.jpg",
-            "publishedAt": "2024-07-08T15:34:02Z",
-            "content": "A research team has constructed a coherent superposition of quantum evolution with two opposite directions in a photonic system and confirmed its advantage in characterizing input-output indefinitene… [+3104 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Claudia Staub",
-            "title": "Researchers predict new phase in neutron stars that favors 'nuclear pasta' - Phys.org",
-            "description": "Neutron stars are extreme and mysterious objects that astrophysicists cannot see inside. With a radius of around 12 kilometers, they can have more than twice the mass of the sun. The matter in them is packed up to five times as densely as in an atomic nucleus…",
-            "url": "https://phys.org/news/2024-07-phase-neutron-stars-favors-nuclear.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/researchers-predict-ne-1.jpg",
-            "publishedAt": "2024-07-08T15:09:33Z",
-            "content": "Neutron stars are extreme and mysterious objects that astrophysicists cannot see inside. With a radius of around 12 kilometers, they can have more than twice the mass of the sun. The matter in them i… [+4243 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Passant Rabie",
-            "title": "An Excruciatingly Detailed Breakdown of How NASA Plans to Destroy the ISS - Gizmodo",
-            "description": "After its retirement in 2030, the nearly one-million-pound space station will become—by far—the largest object ever brought back from space. Here's how NASA plans to do it safely.",
-            "url": "https://gizmodo.com/an-excruciatingly-detailed-breakdown-of-how-nasa-plans-1851545016",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/Gizmodo_ISS_1.jpg",
-            "publishedAt": "2024-07-08T14:40:59Z",
-            "content": "The International Space Station (ISS) is counting its days, with a retirement looming over the orbital lab in just a few years time. For more than 20 years, the space station has served as home for a… [+9970 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "indy100"
-            },
-            "author": "Jake  Brigstock",
-            "title": "'Polar rain' aurora seen on Earth for the very first time - indy100",
-            "description": "For the very first time, a 'polar rain' aurora was seen in the skies above Planet Earth on Christmas Day and Boxing Day in 2022.It's very different to Aurora Borealis, or Northern Lights - in this case, the aurora was a faint, featureless glow that spanned 2,…",
-            "url": "https://www.indy100.com/science-tech/polar-rain-aurora-earth",
-            "urlToImage": "https://www.indy100.com/media-library/the-calm-norwegian-sky-is-illuminated-by-the-stunning-northern-lights-released.jpg?id=52552049&width=1200&height=600&coordinates=0%2C571%2C0%2C76",
-            "publishedAt": "2024-07-08T14:37:39Z",
-            "content": "For the very first time, a 'polar rain' aurora was seen in the skies above Planet Earth on Christmas Day and Boxing Day in 2022.\r\nIt's very different to Aurora Borealis, or Northern Lights - in this … [+2081 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "New shapes of photons open doors to advanced optical technologies - Phys.org",
-            "description": "Researchers from the University of Twente in the Netherlands have gained important insights into photons, the elementary particles that make up light. They 'behave' in an amazingly greater variety than electrons surrounding atoms, while also being much easier…",
-            "url": "https://phys.org/news/2024-07-photons-doors-advanced-optical-technologies.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/new-shapes-of-photons.jpg",
-            "publishedAt": "2024-07-08T14:25:03Z",
-            "content": "Researchers from the University of Twente in the Netherlands have gained important insights into photons, the elementary particles that make up light. They 'behave' in an amazingly greater variety th… [+3257 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "Brain size riddle solved as humans exceed evolutionary trend - Phys.org",
-            "description": "The largest animals do not have proportionally bigger brains—with humans bucking this trend—a study published in Nature Ecology & Evolution has revealed.",
-            "url": "https://phys.org/news/2024-07-brain-size-riddle-humans-exceed.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/brain-size-riddle-solv.jpg",
-            "publishedAt": "2024-07-08T14:05:19Z",
-            "content": "The largest animals do not have proportionally bigger brainswith humans bucking this trenda study published in Nature Ecology &amp; Evolution has revealed.\r\nResearchers at the University of Reading a… [+3457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Robert Lea",
-            "title": "Weird physics at the edges of black holes may help resolve lingering 'Hubble trouble' - Space.com",
-            "description": "Different parts of the universe could have different rates of expansion, potentially explaining the perpelexing \"Hubble tension.\"",
-            "url": "https://www.space.com/black-hole-physics-universe-expansion-hubble-trouble",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qFhksxU8RFw7KkHfWaAR6Q-1200-80.png",
-            "publishedAt": "2024-07-08T14:00:57Z",
-            "content": "The rate of expansion of the universe is accelerating across the cosmos, driven by a mysterious force known as dark energy — but maybe not at the edges of black holes, new research suggests. \r\nRather… [+9049 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "SciTechDaily"
             },
             "author": null,
@@ -794,32 +846,6 @@
             "urlToImage": "https://scitechdaily.com/images/Greenhouse-Gases-Industrial-Chimney.jpg",
             "publishedAt": "2024-07-08T13:57:48Z",
             "content": "Researchers at the University of Toronto Engineering have developed a new catalyst that efficiently converts captured carbon into valuable products such as ethylene and ethanol, even in the presence … [+7113 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Ingrid Fadelli",
-            "title": "A new approach to realize quantum mechanical squeezing - Phys.org",
-            "description": "Mechanical systems are highly suitable for realizing applications such as quantum information processing, quantum sensing and bosonic quantum simulation. The effective use of these systems for these applications, however, relies on the ability to manipulate t…",
-            "url": "https://phys.org/news/2024-07-approach-quantum-mechanical.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/a-new-approach-to-real-1.jpg",
-            "publishedAt": "2024-07-08T13:48:45Z",
-            "content": "Mechanical systems are highly suitable for realizing applications such as quantum information processing, quantum sensing and bosonic quantum simulation. The effective use of these systems for these … [+5099 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Laurence Darmiento, Los Angeles Times",
-            "title": "NASA astronauts spend unexpected July 4 on the International Space Station - Phys.org",
-            "description": "Astronauts Suni Williams and Butch Wilmore spent an unexpected Fourth of July aboard the International Space Station—but it was hardly a patriotic display of engineering prowess.",
-            "url": "https://phys.org/news/2024-07-nasa-astronauts-unexpected-july-international.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/international-space-st-1.jpg",
-            "publishedAt": "2024-07-08T13:10:02Z",
-            "content": "Astronauts Suni Williams and Butch Wilmore spent an unexpected Fourth of July aboard the International Space Stationbut it was hardly a patriotic display of engineering prowess.\r\nThe two NASA astrona… [+5999 chars]"
         },
         {
             "source": {

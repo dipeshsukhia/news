@@ -4,29 +4,198 @@
     "articles": [
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fox Business",
+            "title": "Costco hiking membership fees for first time in 7 years - Fox Business",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9lY29ub215L2Nvc3Rjby1oaWtlLW1lbWJlcnNoaXAtZmVlcy1maXJzdC10aW1lLTcteWVhcnPSAVZodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vZWNvbm9teS9jb3N0Y28taGlrZS1tZW1iZXJzaGlwLWZlZXMtZmlyc3QtdGltZS03LXllYXJzLmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-11T11:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Beth Thames",
+            "title": "Beth Thames: Grocery list includes drinks, chips, Little Debbie cakes and ... ammo? - AL.com",
+            "description": "If easy access to guns and ammunition made us safer, we’d be safer. But we’re not.",
+            "url": "https://www.al.com/opinion/2024/07/beth-thames-grocery-list-includes-drinks-chips-little-debbie-cakes-and-ammo.html",
+            "urlToImage": "https://www.al.com/resizer/v2/YIVX66E7UNG57CDDQIU7DZCD5A.png?auth=8d6186e2444e872711890d0792fd1e2d63cdd154fa923674d1bb3326c7ff740a&width=1280&quality=90",
+            "publishedAt": "2024-07-11T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Jenni Reid",
-            "title": "UK economy returns to growth in May, beating expectations - CNBC",
-            "description": "UK gross domestic product figures for May were published Thursday.",
-            "url": "https://www.cnbc.com/2024/07/11/uk-economic-growth-may-2024.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108001698-1720089057402-gettyimages-2157562635-20240610_city_of_london_cityscape_001.jpeg?v=1720676457&w=1920&h=1080",
-            "publishedAt": "2024-07-11T06:06:54Z",
-            "content": "LONDON The U.K. economy grew by 0.4% in May, flash figures published by the Office for National Statistics showed on Thursday, with the British pound jumping to a four-month high against the U.S. dol… [+1219 chars]"
+            "author": "Annika Kim Constantino",
+            "title": "Pfizer moves forward with once-daily version of weight loss pill after setbacks - CNBC",
+            "description": "The company plans to conduct studies in the second half of the year evaluating multiple doses of the drug.",
+            "url": "https://www.cnbc.com/2024/07/11/pfizer-weight-loss-pill-moves-forward.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107341904-1701439925181-gettyimages-1235943902-PGONCHAR_W8203.jpeg?v=1720668121&w=1920&h=1080",
+            "publishedAt": "2024-07-11T10:57:47Z",
+            "content": "Pfizer on Thursday said it will move forward with a once-daily version of its weight loss pill, danuglipron, after it saw \"encouraging\" data in an ongoing early-stage study.\r\nThe company evaluated se… [+3615 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brad Smith",
+            "title": "Delta Q2 earnings miss expectations despite 'healthy' travel demand - Yahoo Finance",
+            "description": "A higher pace of travel pushed Delta to record Q2 revenue, but declining airline fares are contributing to the industry's decelerating profit growth.",
+            "url": "https://finance.yahoo.com/news/delta-q2-earnings-miss-expectations-despite-healthy-travel-demand-104243878.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/U2PPzw5bOL9ofBq0GMWdLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c376a5b0-3f49-11ef-bd7f-d2986c547252",
+            "publishedAt": "2024-07-11T10:42:45Z",
+            "content": "Delta Air Lines (DAL) on Thursday reported record revenue during its June quarter, but discounted airfares pressured earnings, which fell below analyst expectations.\r\nHere's how Delta performed in th… [+4146 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "María Luisa Paúl",
+            "title": "How a Texas man turned Whataburger into the state’s power outage tracker - The Washington Post",
+            "description": "Bryan Norton discovered that the Whataburger map could be used to show where power was still on or had been restored in Houston.",
+            "url": "https://www.washingtonpost.com/climate-environment/2024/07/11/whataburger-power-outage-map-beryl-texas/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7XL7NW6ENAZX3MSYBPQIB3BETA_size-normalized.JPG&w=1440",
+            "publishedAt": "2024-07-11T10:32:26Z",
+            "content": "Hurricane Beryl had pummeled Southeast Texas on Monday, leaving millions in the Houston area without power. But with technical issues plaguing the tracker for the citys main energy provider, there wa… [+5833 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "PepsiCo earnings beat estimates, but U.S. demand weakens - CNBC",
+            "description": "The food and beverage giant PepsiCo reported better-than-expected second-quarter earnings, but its revenue fell short of Wall Street's estimates.",
+            "url": "https://www.cnbc.com/2024/07/11/pepsico-pep-earnings-q2-2024-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107370403-1707330443746-gettyimages-1795055312-porzycki-usagroce231117_npu4U.jpeg?v=1707330758&w=1920&h=1080",
+            "publishedAt": "2024-07-11T10:16:57Z",
+            "content": "PepsiCo reported mixed quarterly results Thursday, hurt by declining demand in North America for its drinks and snacks.\r\nThe company also narrowed its revenue outlook for the full year. Pepsi now exp… [+2740 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fox Business",
+            "title": "Florida is bucking the national housing trend, real estate firm says - Fox Business",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvZmxvcmlkYS1idWNraW5nLW5hdGlvbmFsLWhvdXNpbmctdHJlbmQtcmVhbC1lc3RhdGUtZmlybS1zYXlz0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-11T10:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Business Insider",
+            "title": "America is on the brink of an unemployment fiasco - Business Insider",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vdXMtam9iLW1hcmtldC11bmVtcGxveW1lbnQtcmlzaW5nLWZlZGVyYWwtcmVzZXJ2ZS1pbnRlcmVzdC1yYXRlLWN1dC0yMDI0LTfSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-11T09:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Shuttered auto plants will become EV factories thanks to $1.7 billion Biden program - The Verge",
+            "description": "The Biden administration will give out $1.7 billion to retrofit 11 auto factories to produce electric vehicles. The money will go toward closed or at-risk facilities.",
+            "url": "https://www.theverge.com/2024/7/11/24195811/biden-ev-factory-retrofit-conversion-grant-funding",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hZ5mcAIrM9oNsIqzBFVrcW7Cc-Q=/0x0:3000x1421/1200x628/filters:focal(1500x711:1501x712)/cdn.vox-cdn.com/uploads/chorus_asset/file/25525331/138089968.jpg",
+            "publishedAt": "2024-07-11T09:00:00Z",
+            "content": "Shuttered auto plants will become EV factories thanks to $1.7 billion Biden program\r\nShuttered auto plants will become EV factories thanks to $1.7 billion Biden program\r\n / The money will go toward 1… [+3392 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jennifer Schonberger",
+            "title": "Powell’s closer attention to cooling job market boosts hopes for Fed rate cuts - Yahoo Finance",
+            "description": "Fed Chair Jay Powell on Wednesday again emphasized that he is paying closer attention to a cooling job market, another sign to market watchers that the...",
+            "url": "https://finance.yahoo.com/news/powells-closer-attention-to-cooling-job-market-boosts-hopes-for-fed-rate-cuts-171346213.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zyvAZTsiAIPa.c68.gnCQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a484f650-3ed8-11ef-9ff7-449a718fb134",
+            "publishedAt": "2024-07-11T08:36:14Z",
+            "content": "Fed Chair Jerome Powell has again emphasized that he is paying closer attention to a cooling job market, another sign to market watchers that the central bank is inching closer to cutting interest ra… [+3127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox Business",
+            "title": "New York to roll out small shampoo bottle ban at hotels - New York Post ",
+            "description": "The enforcement comes as a bill was passed in the New York Assembly in hopes of reducing waste.",
+            "url": "https://nypost.com/2024/07/11/us-news/new-york-state-to-ban-small-shampoo-bottles-at-hotels/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/85268948.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-07-11T08:16:00Z",
+            "content": "New York state will be mandating hotels to forgo small bottles containing “hospitality care” products such as shampoo and lotions.\r\nThe enforcement comes as a bill was passed in the New York Assembly… [+2680 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Amazon teases Prime Day deals for Dyson, Stanley, Sun Bum, Southwest Airlines and more - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/07/11/amazon-prime-day-deals",
+            "urlToImage": null,
+            "publishedAt": "2024-07-11T05:41:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
                 "name": "KTLA Los Angeles"
             },
-            "author": "Josh DuBose",
+            "author": "KTLA Los Angeles",
             "title": "$280K Mega Millions ticket sold in Southern California - KTLA Los Angeles",
-            "description": "While no one snagged the $181 million Mega Millions jackpot Tuesday night, one lucky lottery enthusiast bought a ticket in San Bernardino County that paid out more than $250,000.   The winning ticket hit five of the six numbers, which were 21, 26, 54, 60, 64 …",
+            "description": null,
             "url": "https://ktla.com/news/local-news/280k-mega-millions-ticket-sold-in-southern-california/",
-            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/03/GettyImages-1576467270.jpg?w=1280",
+            "urlToImage": null,
             "publishedAt": "2024-07-11T03:56:44Z",
-            "content": "While no one snagged the $181 million Mega Millions jackpot Tuesday night, one lucky lottery enthusiast bought a ticket in San Bernardino County that paid out more than $250,000.  \r\nThe winning ticke… [+720 chars]"
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Ambar Warrick",
+            "title": "Asian stocks surge as TSMC boosts tech; Nikkei at record high - Investing.com",
+            "description": "Asian stocks surge as TSMC boosts tech; Nikkei at record high",
+            "url": "https://www.investing.com/news/stock-market-news/asian-stocks-surge-as-tsmc-boosts-tech-nikkei-at-record-high-3514825",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB5N00I_L.jpg",
+            "publishedAt": "2024-07-11T02:42:19Z",
+            "content": "Investing.com-- Asian stocks rose on Thursday as technology stocks rallied after positive revenue figures from chipmaking giant TSMC sparked more optimism over artificial intelligence, with Japanese … [+2783 chars]"
         },
         {
             "source": {
@@ -43,16 +212,16 @@
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": null,
+                "name": "Decrypt"
             },
-            "author": "Axios",
-            "title": "CNN boss lays out plans for digital future, layoffs to come - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2024/07/10/cnn-layoffs-mark-thompson-digital-future",
-            "urlToImage": null,
-            "publishedAt": "2024-07-11T01:37:13Z",
-            "content": null
+            "author": "Jason Nelson",
+            "title": "Trump to Speak at Bitcoin Conference in Nashville - Decrypt",
+            "description": "The former U.S. president will join fellow candidate Robert F. Kennedy Jr. in courting crypto voters as a rematch with Joe Biden looms.",
+            "url": "https://decrypt.co/239358/trump-confirmed-to-speak-at-bitcoin-conference",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/06/Donald-Trump_shutterstock_2429741207-gID_7.jpg",
+            "publishedAt": "2024-07-11T01:20:56Z",
+            "content": "Former U.S. President Donald Trump is scheduled to speak at the upcoming Bitcoin Conference in Nashville, Tenn., later this month, conference organizers announced Wednesday. Witness history, reads th… [+2899 chars]"
         },
         {
             "source": {
@@ -70,28 +239,15 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "[Removed]"
             },
-            "author": "Lim Hui Jie",
-            "title": "Japan's Nikkei smashes past 42,000 mark to all-time high; Asia-Pacific markets climb on tech rally and rate cut hopes - CNBC",
-            "description": "In Asia, investors will be watching for any spillover optimism in the region's tech stocks, particularly in Japan.",
-            "url": "https://www.cnbc.com/2024/07/11/asia-pacific-markets.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107373984-1707960093201-gettyimages-1741638445-SKOREA_ECONOMY.jpeg?v=1707960374&w=1920&h=1080",
-            "publishedAt": "2024-07-10T23:52:36Z",
-            "content": "Commercial and residential buildings are illuminated at dawn in Seoul, South Korea, on Saturday, Oct. 21, 2023. South Korea has prepared a financial support program of 75.9 trillion won ($56.97 billi… [+2178 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Ashley DiMella",
-            "title": "New York to roll out small shampoo bottle ban at hotels - Fox Business",
-            "description": "New York State Assembly passes legislation to roll out a ban of hospitality care products such as shampoo and lotion bottles at hotels with over 50 rooms in an effort to reduce waste.",
-            "url": "https://www.foxbusiness.com/lifestyle/new-york-roll-small-shampoo-bottle-ban-hotels",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/hotel-3.png?ve=1&tl=1",
-            "publishedAt": "2024-07-10T23:48:00Z",
-            "content": "New York state will be mandating hotels to forgo small bottles containing \"hospitality care\" products such as shampoo and lotions.\r\nThe enforcement comes as a bill was passed in the New York Assembly… [+2841 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -105,19 +261,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ae58/live/1b53ab70-3e87-11ef-b9bf-355123e5252a.jpg",
             "publishedAt": "2024-07-10T23:44:24Z",
             "content": "The Chinese government has said it is launching an investigation into allegations that fuel tankers have been used to transport cooking oil after carrying toxic chemicals without being cleaned proper… [+2630 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CoinDesk"
-            },
-            "author": "Danny Nelson",
-            "title": "Trump to Speak at Bitcoin Conference in Nashville on July 27 - CoinDesk",
-            "description": "The former president will give a 30-minute speech at 2 p.m. CT",
-            "url": "https://www.coindesk.com/policy/2024/07/10/tumps-odds-of-nashville-conference-appearance-rise-after-speakers-told-of-very-special-guest/",
-            "urlToImage": "https://www.coindesk.com/resizer/sq4rn8NgVcj2MEpL4b3DlvF550A=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TEBVALH7NVC67ME4V4DEQNPBAA.jpg",
-            "publishedAt": "2024-07-10T23:29:00Z",
-            "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nCoinDesk is anaward-winningmedia outlet that covers the cryptocurrency industry. Its … [+593 chars]"
         },
         {
             "source": {
@@ -147,16 +290,29 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "Variety"
             },
-            "author": "Elisabeth Buchwald",
-            "title": "Costco membership fees are going up for the first time since 2017 - CNN",
-            "description": "It’s soon going to cost more money to get your foot in the door at Costco. But the good news is your hot dog is still $1.50 — for now at least.",
-            "url": "https://www.cnn.com/2024/07/10/business/costco-membership-fee-increase/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2158913274.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-07-10T22:42:00Z",
-            "content": "Its soon going to cost more money to get your foot in the door at Costco. But the good news is your hot dog is still $1.50 for now at least.\r\nThe retailer is raising membership fees by $5 to $65 a ye… [+1204 chars]"
+            "author": "Brian Steinberg",
+            "title": "Veteran Media Critic Brian Lowry to Exit CNN Amid Layoffs - Variety",
+            "description": "Brian Lowry, the veteran media critic and columnist, is leaving CNN as part of layoffs enacted at the Warner Bros. Discovery news outlet",
+            "url": "https://variety.com/2024/tv/news/brian-lowry-cnn-exit-media-critic-1236066783/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/07/170608134508-brian-lowry.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-07-10T22:36:00Z",
+            "content": "Brian Lowry, the veteran Hollywood scribe and media critic who has worked at CNN as a senior writer since 2016, is set to exit the Warner Bros. Discovery-backed news outlet as part of a group of layo… [+1623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Eric Revell",
+            "title": "Elon Musk wins dismissal of $500M severance suit filed by fired Twitter workers - Fox Business",
+            "description": "A federal judge dismissed claims made by former Twitter employees that Elon Musk violated the company's severance plan under a federal employee benefit law after his takeover.",
+            "url": "https://www.foxbusiness.com/technology/elon-musk-wins-dismissal-500m-severance-suit-fired-twitter-workers",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/Elon-Musk-4.jpg?ve=1&tl=1",
+            "publishedAt": "2024-07-10T22:19:00Z",
+            "content": "Billionaire Elon Musk\r\n won the dismissal of a lawsuit brought by former employees of Twitter who were seeking $500 million in severance payments that Musk allegedly declined to pay following his acq… [+3665 chars]"
         },
         {
             "source": {
@@ -225,58 +381,6 @@
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Microsoft gives up observer seat on OpenAI board - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2024/07/10/microsoft-openai-board-seat-observer",
-            "urlToImage": null,
-            "publishedAt": "2024-07-10T21:33:21Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Mary Walrath-Holdridge",
-            "title": "Big Lots to close 35 to 40 stores this year amid 'doubt' the company can survive - USA TODAY",
-            "description": "A financial filing by the company showed not only that it plans to close 35 to 40 locations this year, but also reported millions in lost sales.",
-            "url": "https://www.usatoday.com/story/money/2024/07/10/big-lots-stores-closing/74356522007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/07/10/USAT/74356677007-getty-images-2156546782.jpg?crop=1023,577,x0,y31&width=1023&height=577&format=pjpg&auto=webp",
-            "publishedAt": "2024-07-10T21:16:56Z",
-            "content": "Discount retailer Big Lots plans to shut down 35 to 40 stores this year as it battles with worsening financials and a tough consumer market.\r\nIn a filing to the U.S. Securities and Exchange Commissio… [+1644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Aaron Gregg",
-            "title": "BMW recalls 394,000 older vehicles equipped with Takata air bags - The Washington Post",
-            "description": "The recall covers certain BMW 3 Series four-door sedans from the model years 2006 through 2011, and 3 Series Sportswagon vehicles from 2009 to 2011.",
-            "url": "https://www.washingtonpost.com/business/2024/07/10/bmw-airbag-recall/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5WJ6ASLR3QFQBV6VYLB5V7H2MA_size-normalized.jpg&w=1440",
-            "publishedAt": "2024-07-10T20:40:38Z",
-            "content": "MW is recalling 394,000 oldervehicles equipped with air bags that can explode and send metal fragments flying at the driver, the latest in a line of Takata recalls that started more than a decade ago… [+2511 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "InsideEVs "
             },
@@ -316,29 +420,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Investor's Business Daily",
-            "title": "AMD Bolsters Enterprise AI Capabilities With Silo AI Purchase - Investor's Business Daily",
-            "description": "AMD announced a deal to acquire Silo AI, the largest private artificial intelligence lab in Europe, for $665 million. AMD stock rose.",
-            "url": "https://www.investors.com/news/technology/amd-stock-chipmaker-to-buy-silo-ai/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/01/Stock-AMD-instinctaiaccelerator-01-company.jpg",
-            "publishedAt": "2024-07-10T20:17:00Z",
-            "content": "Chipmaker Advanced Micro Devices (AMD) on Wednesday announced a definitive agreement to acquire Silo AI, the largest private artificial intelligence lab in Europe, in an all-cash transaction valued a… [+2014 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "CBS News",
+            "author": "Alexander Tin",
             "title": "Multiple children hospitalized in Diamond Shruumz poisonings, as cases mount - CBS News",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZGlhbW9uZC1zaHJ1dW16LXBvaXNvbmluZ3MtbXVsdGlwbGUtY2hpbGRyZW4taG9zcGl0YWxpemVkL9IBW2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2RpYW1vbmQtc2hydXVtei1wb2lzb25pbmdzLW11bHRpcGxlLWNoaWxkcmVuLWhvc3BpdGFsaXplZC8?oc=5",
-            "urlToImage": null,
+            "description": "At least 58 illnesses have been reported across 27 states from now-recalled Diamond Shruumz brand products.",
+            "url": "https://www.cbsnews.com/news/diamond-shruumz-poisonings-multiple-children-hospitalized/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/06/e095d337-841e-4ac7-8dff-84d8c0504dea/thumbnail/1200x630g9/b421489eeda1725edf0546b7debc636b/gettyimages-1227710472.jpg?v=2287029998c5246c93d6dd038eb30603",
             "publishedAt": "2024-07-10T20:05:00Z",
-            "content": null
+            "content": "Multiple children have been hospitalized after eating now-recalled Diamond Shruumz brand products, among the more than two dozen confirmed hospitalizations reported nationwide linked to the so-called… [+3377 chars]"
         },
         {
             "source": {
@@ -356,28 +447,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Suntimes.com"
+                "name": "Decrypt"
             },
-            "author": "James Powel | USA Today",
-            "title": "Albertsons, Kroger release list of stores to be sold in merger. See what's being sold in Illinois - Chicago Sun-Times",
-            "description": "The list outlines the 579 stores that will be transferred from the merging companies to C&S Wholesale Grocers.",
-            "url": "https://chicago.suntimes.com/money/2024/07/10/albertsons-kroger-release-list-stores-sold-merger-cs-wholesale-grocers-illinois",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/18a4996/2147483647/strip/true/crop/3000x1713+0+144/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2F3a%2F3bf0436a1975f6733ea83cff8f5c%2Fmerlin-115683952.jpg",
-            "publishedAt": "2024-07-10T19:53:41Z",
-            "content": "Kroger and Albertsons released the list of stores they plan to sell, should a merger between the grocery giants be approved by regulators.\r\nThe list outlines the 579 stores that will be transferred f… [+2820 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Eric Song",
-            "title": "The Best Deals Ahead of Prime Day: Joy-Cons, AirPods, PS5 DualSense Edge, Quest 3, and More - IGN",
-            "description": "Walmart is looking to beat out Amazon at its own game",
-            "url": "https://www.ign.com/articles/the-best-deals-ahead-of-prime-day-joy-cons-airpods-ps5-dualsense-edge-quest-3-and-more",
-            "urlToImage": "https://assets-prd.ignimgs.com/2024/07/10/dd0710-1720637250676.jpg?width=1280",
-            "publishedAt": "2024-07-10T19:47:25Z",
-            "content": "Amazon Prime Day kicks off on July 16, but that's not stopping merchants -- Amazon included -- from dishing out some excellent deals early. Walmart, for example, has put out its own sale event with s… [+4389 chars]"
+            "author": "André Beganski",
+            "title": "CFTC Chairman Says Bitcoin and Ethereum Are Commodities—Case Closed? - Decrypt",
+            "description": "A recent federal court decision “reaffirmed” the status of the top two cryptocurrencies, but it's not a binding precedent.",
+            "url": "https://decrypt.co/239310/cftc-chairman-says-bitcoin-and-ethereum-are-commodities-case-closed",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/12/cftc-chair-Rostin-Behnam-gID_7.jpg",
+            "publishedAt": "2024-07-10T19:51:46Z",
+            "content": "Crypto Twitter was quick to celebrate Wednesday following congressional testimony from Rostin Behman, in which the chairman of the Commodity Futures Trading Commission (CFTC) said a recent federal co… [+3520 chars]"
         },
         {
             "source": {
@@ -395,6 +473,19 @@
         {
             "source": {
                 "id": null,
+                "name": "The Denver Post"
+            },
+            "author": "Judith Kohler",
+            "title": "Kroger-Albertsons merger could lead to sale of 91 stores across Colorado - The Denver Post",
+            "description": "The stores that could close — mostly Safeways — are spread across the state, with several in metro Denver.",
+            "url": "https://www.denverpost.com/2024/07/10/kroger-albertsons-to-sell-91-colorado-stores-in-merger/",
+            "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/02/Grocery-Store-Merger-Lawsuit-3.jpg?w=1024&h=660",
+            "publishedAt": "2024-07-10T18:54:12Z",
+            "content": "Kroger and Albertsons would unload 91 grocery stores in Colorado if the companies prevail over lawsuits and regulators’ opposition to a merger of the two large supermarket chains.\r\nThe stores on the … [+5172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "kwwl.com"
             },
             "author": "KWWL",
@@ -408,15 +499,54 @@
         {
             "source": {
                 "id": null,
-                "name": "Quartz India"
+                "name": "cleveland.com"
             },
-            "author": "Madeline Fitzgerald",
-            "title": "'Summer camp for billionaires' begins in Sun Valley with the arrival of 165 private jets - Quartz",
-            "description": "Employees at the nearby Friedman Memorial Airport refer to the conference as \"the annual fly-in event\"",
-            "url": "https://qz.com/sun-valley-idaho-summer-camp-for-billionaires-1851585079",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9ba8ca02a438b60816859156770153d9.jpg",
-            "publishedAt": "2024-07-10T17:42:00Z",
-            "content": "The small Idaho town of Sun Valley normally has a population of just 1,783 but this week that figure is expected to swell to include hundreds of more people and at least 165 private jets.\r\nThe Allen … [+2805 chars]"
+            "author": "Zach Mentz, cleveland.com",
+            "title": "Ohio-based retailer to close 35-40 stores this year - cleveland.com",
+            "description": "Discount retailer Big Lots, based in Columbus, Ohio, expects to close between 35 to 40 stores this year, the company said in a regulatory filing with the Securities and Exchange Commission.",
+            "url": "https://www.cleveland.com/news/2024/07/ohio-based-retailer-to-close-35-40-stores-this-year.html",
+            "urlToImage": "https://www.cleveland.com/resizer/v2/63ILSKUORBGWJHPCKQOCIQDGGM.jpg?auth=a5b08fc85ae053b0c3decab49ec0192f49527808b23e540b2bb198183c534911&width=1280&quality=90",
+            "publishedAt": "2024-07-10T18:32:00Z",
+            "content": "COLUMBUS, Ohio -- Discount retailer Big Lots expects to close between 35-40 stores this year, the company said in a regulatory filing.\r\nIn 2024, we currently expect to open 3 stores and close 35 to 4… [+811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox Business",
+            "title": "North Carolina legalizes to-go cocktails permanently - New York Post ",
+            "description": "North Carolina residents can, once again, order cocktails to go.",
+            "url": "https://nypost.com/2024/07/10/lifestyle/north-carolina-legalizes-to-go-cocktails-permanently/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/cocktails-to-go-syndication-comp.jpg?quality=75&strip=all&1720620883&w=1024",
+            "publishedAt": "2024-07-10T18:22:00Z",
+            "content": "North Carolina residents can, once again, order cocktails to go.\r\nOn Monday, Gov. Roy Cooper signed SB 527 into law, which permanently reinstated cocktails to-go, a move that will allow restaurants a… [+1922 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Microsoft Quits OpenAI’s Board Amid Antitrust Scrutiny - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/tech/ai/microsoft-withdraws-from-openais-board-amid-antitrust-scrutiny-aab6ff1e",
+            "urlToImage": null,
+            "publishedAt": "2024-07-10T18:14:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "10News"
+            },
+            "author": "Jermaine Ong",
+            "title": "Tax products company Intuit laying off 10% of workforce, including over 200 employees in San Diego - ABC 10 News San Diego KGTV",
+            "description": "Intuit -- the company behind QuickBooks, TurboTax, Mailchimp, and Credit Karma -- announced it was laying off 10 percent of its workforce, including over 200 employees at the firm's San Diego office.",
+            "url": "https://www.10news.com/news/local-news/tax-products-company-intuit-laying-off-10-of-workforce-including-over-200-employees-in-san-diego",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/644f2da/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1683298677_uM78Te.jpg",
+            "publishedAt": "2024-07-10T17:51:59Z",
+            "content": "SAN DIEGO (KGTV) Intuit -- the company known for its tax and financial products QuickBooks, TurboTax, Mailchimp, and Credit Karma -- announced Wednesday it was laying off 10 percent of its workforce,… [+1253 chars]"
         },
         {
             "source": {
@@ -433,42 +563,16 @@
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Tobias Burns",
-            "title": "Era of near-zero interest rates likely over: Powell - The Hill",
-            "description": "Federal Reserve Chair Jerome Powell said Wednesday that the era of super low interest rates that occurred between the 2008 financial crisis and the pandemic is likely over and that the neutral interest rate for hitting 2-percent annual inflation had probably …",
-            "url": "https://thehill.com/business/4764117-federal-reserve-interest-rate-policy/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/07/powelljerome_070924jg09_w.jpg?w=1280",
-            "publishedAt": "2024-07-10T17:06:00Z",
-            "content": "Skip to content\r\nFederal Reserve Chair Jerome Powell said Wednesday that the era of super low interest rates that occurred between the 2008 financial crisis and the pandemic is likely over and that t… [+2896 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "boisedev.com"
+                "name": "The Points Guy"
             },
-            "author": "Don Day - BoiseDev Editor, Co-Founder",
-            "title": "UPDATE: Intuit will shut down Eagle office in AI pivot, cut 157 jobs - boisedev.com",
-            "description": "Software giant Intuit announced it would cut nearly 2,000 employees and close down its campus in Eagle near Boise, as well as a location in Edmonton, Canada. The Wall Street Journal reports that the cuts - a total of 1,800 people - represent about 10 percent …",
-            "url": "https://boisedev.com/news/2024/07/10/intuit-will-shut-down-eagle-office-in-ai-pivot-cut-all-local-jobs/",
-            "urlToImage": "https://boisedev.com/wp-content/uploads/2019/10/intuit-boise.jpg",
-            "publishedAt": "2024-07-10T16:50:14Z",
-            "content": "Software giant Intuit announced it would cut nearly 2,000 employees and close down its campus in Eagle near Boise, as well as a location in Edmonton, Canada.\r\nThe Wall Street Journal reports that the… [+1865 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "boisedev.com"
-            },
-            "author": "Gretchen Parsons - BoiseDev Managing Editor",
-            "title": "Boise Airport announces new non-stop destinations - boisedev.com",
-            "description": "New non-stop flight routes are coming to the Boise Airport. Alaska Airlines announced it will offer 18 new direct flights, three of which fly in and out of Boise. Beginning this December, Alaska will fly direct from Boise to Bozeman, Montana. This winter seas…",
-            "url": "https://boisedev.com/news/2024/07/10/boise-airport-announces-new-non-stop-destinations/",
-            "urlToImage": "https://boisedev.com/wp-content/uploads/2023/02/N615AS_Alaska_Airlines_2000_Boeing_737-790_C_N_30344_28850996478-1.jpg",
-            "publishedAt": "2024-07-10T16:30:00Z",
-            "content": "New non-stop flight routes are coming to the Boise Airport.\r\nAlaska Airlines announced it will offer 18 new direct flights, three of which fly in and out of Boise. Beginning this December, Alaska wil… [+1346 chars]"
+            "author": "Zach Griff",
+            "title": "Alaska Airlines adds a whopping 18 routes, 1 new destination - The Points Guy",
+            "description": "Even though the summer travel season is in full swing, Alaska Airlines is already planning for what’s shaping up to be a busy winter.",
+            "url": "https://thepointsguy.com/news/alaska-airlines-18-new-routes/",
+            "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2022/04/Planes-LAX-Zach-Griff-23.jpg",
+            "publishedAt": "2024-07-10T16:52:05Z",
+            "content": "Even though the summer travel season is in full swing, Alaska Airlines is already planning for what's shaping up to be a busy winter.\r\nThe Seattle-based carrier announced Wednesday a major network ex… [+5457 chars]"
         },
         {
             "source": {
@@ -498,6 +602,19 @@
         },
         {
             "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "BMW Recalls More Than 394,000 Vehicles Over Air-Bag Problem - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/business/autos/bmw-recalls-more-than-390-000-vehicles-due-to-airbag-issues-in-u-s-de351be6",
+            "urlToImage": null,
+            "publishedAt": "2024-07-10T15:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "cleveland.com"
             },
@@ -512,132 +629,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Teslarati"
-            },
-            "author": "Joey Klender",
-            "title": "Tesla gets called a ‘meme stock’ by longtime investor and fund manager - TESLARATI",
-            "description": "Bill Gross is convinced Tesla stock is comparable to securities like Gamestop because of its run over the past several days.",
-            "url": "https://www.teslarati.com/tesla-tsla-meme-stock-bill-gross/",
-            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/02/tesla-cybertruck-warehouse-1-scaled.jpg",
-            "publishedAt": "2024-07-10T15:37:44Z",
-            "content": "Tesla has been called a “meme stock” by longtime investor and fund manager Bill Gross, as shares of the company have exploded to ten consecutive days of growth and a 50 percent bump in the past 30 tr… [+2278 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Seana Smith",
-            "title": "Nvidia stock eyes another record high amid bullish calls - Yahoo Finance",
-            "description": "Shares of Nvidia (NVDA) are eyeing another record high after Keybanc raised its price target on the chip giant to $180 per share. Catalysts Hosts Madison...",
-            "url": "https://finance.yahoo.com/video/nvidia-stock-eyes-another-record-151929885.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6j_y57K_Pj_a33rs3wYu6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/044572a0-3ece-11ef-bfeb-d56a1eafff9f",
-            "publishedAt": "2024-07-10T15:19:29Z",
-            "content": "Shares of Nvidia (NVDA) are eyeing another record high after Keybanc raised its price target on the chip giant to $180 per share. Catalysts Hosts Madison Mills and Seana Smith break down how the call… [+3752 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Matthew J. Belvedere",
-            "title": "Jim Cramer says Carvana ‘pulled the rabbit out of a hat,’ slams credit card stock downgrades - CNBC",
-            "description": "Jim Cramer's daily rapid fire looks at stocks in the news outside the CNBC Investing Club portfolio.",
-            "url": "https://www.cnbc.com/2024/07/10/cramer-says-carvana-pulls-a-rabbit-out-of-a-hat-slams-mastercard-visa-downgrade.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107377180-1708638974778-gettyimages-1468013565-dsc_6154_6637ec52-864a-4847-8f24-e3f31046fc26.jpeg?v=1720624088&w=1920&h=1080",
-            "publishedAt": "2024-07-10T15:14:19Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Erika Tulfo",
-            "title": "Target will stop accepting this old-school form of payment - CNN",
-            "description": "Target will stop accepting personal checks from customers starting July 15, the latest retailer to stop taking the increasingly rare form of payment and to try to make checkout less cumbersome for shoppers.",
-            "url": "https://www.cnn.com/2024/07/10/business/target-personal-checks/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2021-11-26t161345z-1203620432-rc2e2r93i3by-rtrmadp-3-retail-holidayshopping-black-friday.JPG?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-07-10T14:41:00Z",
-            "content": "Target will stop accepting personal checks from customers starting July 15, the latest retailer to stop taking the increasingly rare form of payment and to try to make checkout less cumbersome for sh… [+1580 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "USA TODAY",
-            "title": "Deep-fried bubblegum, hot mess biscuits: Meet the 2024 Iowa State Fair's 84 new foods - USA TODAY",
-            "description": null,
-            "url": "https://www.usatoday.com/story/news/nation/2024/07/10/iowa-state-fair-new-foods-in-2024/74349444007/",
-            "urlToImage": null,
-            "publishedAt": "2024-07-10T14:08:24Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Megan Sauer",
-            "title": "Our side hustles bring in $125,000 a year or more: 'Nearly everybody' can make money this way - CNBC",
-            "description": "More Americans have side hustles than ever before — but competition makes it hard for actually earn money. Here's what the most successful gigs have in common.",
-            "url": "https://www.cnbc.com/2024/07/10/we-run-side-hustles-on-amazon-facebook-etsy-what-you-need-to-succeed.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108003346-1720547939121-mccauley_family.png?v=1720550617&w=1920&h=1080",
-            "publishedAt": "2024-07-10T13:15:01Z",
-            "content": "Sarah and Jamie McCauley are landlords, YouTubers, Walmart pallet flippers, eBay resellers and Amazon product reviewers and those are just their active streams of income.\r\nThe McCauleys make their mo… [+9119 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cms.gov"
+                "name": "Honeywell.com"
             },
             "author": null,
-            "title": "CY 2025 Medicare Hospital Outpatient Prospective Payment System and Ambulatory Surgical Center Payment System Final Rule (CMS 1809-P) - The King's Award for Voluntary Service",
-            "description": "On July 10, 2024, the Centers for Medicare & Medicaid Services (CMS) proposed Medicare payment rates for hospital outpatient and Ambulatory Surgical Center (ASC) services. The Calendar Year (CY) 2025 Hospital Outpatient Prospective Payment System (OPPS) and A…",
-            "url": "https://www.cms.gov/newsroom/fact-sheets/cy-2025-medicare-hospital-outpatient-prospective-payment-system-and-ambulatory-surgical-center",
+            "title": "Honeywell to Acquire Air Products' Liquefied Natural Gas Process Technology and Equipment Business to Expand Energy Transition Solutions and Services - Honeywell",
+            "description": "Honeywell and Air Products jointly announced that Honeywell has agreed to acquire Air Products' liquefied natural gas (LNG) process technology and equipment business for $1.81 billion in an all-cash transaction.",
+            "url": "https://www.honeywell.com/us/en/press/2024/07/honeywell-to-acquire-air-products-liquefied-natural-gas-process-technology-and-equipment-business-to-expand-energy-transition-solutions-and-services",
             "urlToImage": null,
-            "publishedAt": "2024-07-10T12:00:00Z",
-            "content": "On July 10, 2024, the Centers for Medicare &amp; Medicaid Services (CMS) proposed Medicare payment rates for hospital outpatient and Ambulatory Surgical Center (ASC) services. The Calendar Year (CY) … [+40910 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Grace Dean",
-            "title": "Texans use Whataburger app to track power outages during Hurricane Beryl - Business Insider",
-            "description": "Some Houston residents used Whataburger's restaurant map to monitor which ones were open — and see which areas appeared to have regained power.",
-            "url": "https://www.businessinsider.com/texas-houston-whataburger-app-hurricane-beryl-power-outages-supply-electricity-2024-7",
-            "urlToImage": "https://i.insider.com/668e6c53b2528216eeb50313?width=1200&format=jpeg",
-            "publishedAt": "2024-07-10T11:51:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Tobias Burns",
-            "title": "Experts see potential for higher inflation under Trump - The Hill",
-            "description": "A growing number of investors and economists see inflation rising if former President Trump and Republicans sweep the upcoming elections. As Trump opens a wider lead in polling over President Biden, economic experts say his proposed tax and tariff policies co…",
-            "url": "https://thehill.com/business/4762000-higher-inflation-trump-possible-experts/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/07/AP24174768832720-e1719919706310.jpg?w=1280",
-            "publishedAt": "2024-07-10T10:00:00Z",
-            "content": "Skip to content\r\nA growing number of investors and economists see inflation rising if former President Trump and Republicans sweep the upcoming elections.\r\nAs Trump opens a wider lead in polling over… [+7002 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Daniella Genovese",
-            "title": "North Carolina legalizes to-go cocktails permanently - Fox Business",
-            "description": "North Carolina enacts a law reinstating to-go cocktails, lowering the tax rate for spirits ready-to-drink cocktails and permit alcohol sales on certain holidays.",
-            "url": "https://www.foxbusiness.com/lifestyle/north-carolina-legalizes-to-go-cocktails-permanently",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/GettyImages-1229943582-1.jpg?ve=1&tl=1",
-            "publishedAt": "2024-07-10T10:00:00Z",
-            "content": "North Carolina residents can, once again, order cocktails to go.\r\nOn Monday, Gov. Roy Cooper signed SB 527 into law, which permanently reinstated cocktails to-go, a move that will allow restaurants a… [+2325 chars]"
+            "publishedAt": "2024-07-10T15:37:09Z",
+            "content": "CHARLOTTE, N.C., July 10, 2024 /PRNewswire/ -- Honeywell (Nasdaq: HON) and Air Products (NYSE:APD) jointly announced today that Honeywell has agreed to acquire Air Products' liquefied natural gas (LN… [+11217 chars]"
         },
         {
             "source": {
@@ -668,15 +668,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Quartz India"
+                "name": "The Register-Guard"
             },
-            "author": "Ben Kesslen",
-            "title": "Vending machines for ammunition have hit grocery stores across the south - Quartz",
-            "description": "American Rounds said its company uses advanced technology to ensure all ammo sales are legal",
-            "url": "https://qz.com/ammo-vending-machines-grocery-stores-american-rounds-1851581307",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/041f9caa4e80e2419d6ace89b129079e.jpg",
-            "publishedAt": "2024-07-08T18:40:53Z",
-            "content": "A company is rolling out ammo vending machines in grocery stores across the U.S., with six already in operation.\r\nAmerican Rounds installed its first Automated Ammo Retail Machine (AARM) in a Fresh V… [+1115 chars]"
+            "author": "The Register-Guard",
+            "title": "$200K worth of stolen Legos found in Eugene store - The Register-Guard",
+            "description": null,
+            "url": "https://www.registerguard.com/story/news/crime/2024/07/09/200k-worth-of-stolen-lego-sets-found-in-eugene-toy-store/74338603007/",
+            "urlToImage": null,
+            "publishedAt": "2024-07-09T19:36:24Z",
+            "content": null
         }
     ]
 }

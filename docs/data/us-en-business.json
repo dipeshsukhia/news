@@ -1,19 +1,97 @@
 {
     "status": "ok",
-    "totalResults": 62,
+    "totalResults": 64,
     "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Elon Musk Says He Will Move X and SpaceX Headquarters Out of California - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/us-news/law/elon-musk-says-he-will-move-x-and-spacex-headquarters-out-of-california-dbfe0789",
+            "urlToImage": null,
+            "publishedAt": "2024-07-17T00:25:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Ambar Pardilla",
+            "title": "The 62 Best Prime Day Fashion Deals - New York Magazine",
+            "description": "Our fashion writer found the best clothing, shoes, and accessories deals for women, men, and kids during Amazon Prime Day, including Levi’s jeans and Dr. Martens sandals.",
+            "url": "http://nymag.com/strategist/article/best-amazon-prime-day-fashion-deals-and-sales-2024.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/81f/5dd/a297ee4818f3d9c958b3d523bb9c20ed8e-tank-.1x.rsocial.w1200.jpg",
+            "publishedAt": "2024-07-16T23:34:00Z",
+            "content": "Amazon Prime Day well, technically its two days, July 16 and July 17 is the Strategist equivalent to the Super Bowl. Everyone on our staff has been keeping an eye on the sale and curating our favorit… [+1338 chars]"
+        },
         {
             "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "The Wall Street Journal",
-            "title": "Stock Market Today: Dow Jumps More Than 600 Points; Bank Earnings in Spotlight -- Live Updates - The Wall Street Journal",
+            "author": "Business Insider",
+            "title": "Best Amazon Prime Day Deals 2024: Over 150 of Our Favorite Tested Products Are on Sale - Business Insider",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lndzai5jb20vbGl2ZWNvdmVyYWdlL3N0b2NrLW1hcmtldC10b2RheS1iYW5rLWVhcm5pbmdzLTA3LTE2LTIwMjTSAQA?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZ3VpZGVzL2RlYWxzL2Jlc3QtYW1hem9uLXByaW1lLWRheS1kZWFscy0yMDI0LTfSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-07-16T18:07:00Z",
+            "publishedAt": "2024-07-16T23:16:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Darla Mercado, CFP®",
+            "title": "Trump says he would let Fed Chair Powell finish his term if he wins in November, Bloomberg reports - CNBC",
+            "description": "Former President Donald Trump told Bloomberg Businessweek that he would let Fed chief Jerome Powell complete his term if he wins in November.",
+            "url": "https://www.cnbc.com/2024/07/16/trump-says-he-would-let-fed-chair-powell-finish-his-term-if-he-wins-in-november-bloomberg-reports.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108006547-17210969452024-07-16t022834z_676701296_rc21w8a098qw_rtrmadp_0_usa-election-republicans-convention.jpeg?v=1721098049&w=1920&h=1080",
+            "publishedAt": "2024-07-16T22:41:44Z",
+            "content": "Donald Trump will allow Federal Reserve Chair Jerome Powell to complete his term at the central bank if he won the November election, the Republican presidential candidate told Bloomberg Businessweek… [+1175 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN Underscored",
+            "title": "Shop these 15 splurge-worthy Amazon Prime Day deals over $500 - CNN Underscored",
+            "description": null,
+            "url": "https://www.cnn.com/cnn-underscored/deals/over-500-splurge-deals-amazon-prime-day-2024-07-16",
+            "urlToImage": null,
+            "publishedAt": "2024-07-16T22:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": "ABC7.com staff",
+            "title": "Costco selling apocalypse-ready food buckets: 150 servings with 25-year shelf life - KABC-TV",
+            "description": "Costco wants to make sure you're well-fed when the apocalypse starts, offering emergency food buckets with a shelf life of 25 years.",
+            "url": "https://abc7.com/post/costco-offering-apocalypse-ready-emergency-food-kits-150/15063150/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/15062753_071624-kabc-7am-costco-apocalypse-vid.jpg?w=1600",
+            "publishedAt": "2024-07-16T22:12:16Z",
+            "content": "LOS ANGELES (KABC) -- Ready for the apocalypse?\r\nCostco wants to make sure you're well-fed when the zombie revolution begins or the aliens land.\r\nThe retailer is offering an emergency kit in a bucket… [+843 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ProPublica"
+            },
+            "author": "Justin Elliott,Robert Faturechi",
+            "title": "Trump Media Made a Deal That Could Secure a Major Financial Windfall for the GOP Candidate - ProPublica",
+            "description": "The company behind Trump’s Truth Social platform has the option to sell up to $2.5 billion worth of shares, easing the way for the former president to convert his paper stake into something more tangible.",
+            "url": "https://www.propublica.org/article/trump-media-stock-sale-shares-truth-social-yorkville-advisors",
+            "urlToImage": "https://img.assets-d.propublica.org/v5/images/GettyImages-2107846185_maxWidth_3000_maxHeight_3000_ppi_72_quality_95_embedColorProfile_true.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=a3ada4532825dd767f60bc4d63efa7d1",
+            "publishedAt": "2024-07-16T21:40:00Z",
+            "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\nAfter markets closed the day before the Fourth of July holid… [+7224 chars]"
         },
         {
             "source": {
@@ -21,103 +99,64 @@
                 "name": "Yahoo Entertainment"
             },
             "author": "Alexandra Canal",
-            "title": "Stock market today: Dow, S&P 500 build on records as a retail sales surprise fuels rate cut hopes - Yahoo Finance",
+            "title": "Stock market news today: S&P 500, Dow surge to record highs as blue chip index gains over 700 points - Yahoo Finance",
             "description": "Investors assessed another batch of big bank earnings and looked to fresh retail data amid growing conviction an interest rate cut is near.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-build-on-records-as-a-retail-sales-surprise-fuels-rate-cut-hopes-133219747.html",
+            "url": "https://finance.yahoo.com/news/live/stock-market-news-today-sp-500-dow-surge-to-record-highs-as-blue-chip-index-gains-over-700-points-200537731.html",
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1JEtkneTWL8.zIqCrhppKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/3ee27e80-436a-11ef-b7e4-7c35d9f2330d",
-            "publishedAt": "2024-07-16T17:55:19Z",
-            "content": "Investors are confident the Federal Reserve will be lowering interest rates by the end of its September meeting.\r\nAs of Tuesday morning, markets were pricing in a 100% chance of an interest rate cut … [+2360 chars]"
+            "publishedAt": "2024-07-16T21:31:18Z",
+            "content": "Investors are confident the Federal Reserve will be lowering interest rates by the end of its September meeting.\r\nAs of Tuesday morning, markets were pricing in a 100% chance of an interest rate cut … [+2354 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "CNBC",
-            "title": "Here are 6 buying categories cheaper today than they were before the pandemic - CNBC",
+            "author": "The Wall Street Journal",
+            "title": "Amazon’s Prime Day Is a ‘Major Cause of Injuries’ for Workers, Senate Probe Finds - The Wall Street Journal",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMTYvNi10aGluZ3MtY2hlYXBlci10b2RheS10aGFuLWJlZm9yZS1wYW5kZW1pYy5odG1s0gFUaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDcvMTYvNi10aGluZ3MtY2hlYXBlci10b2RheS10aGFuLWJlZm9yZS1wYW5kZW1pYy5odG1s?oc=5",
+            "url": "https://www.wsj.com/business/amazon-prime-day-senate-probe-warehouse-injuries-da3c6dbe",
             "urlToImage": null,
-            "publishedAt": "2024-07-16T17:45:25Z",
+            "publishedAt": "2024-07-16T21:22:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "ZDNet",
-            "title": "Amazon Prime Day 2024: Live updates on the 135+ top Prime Day deals - ZDNet",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2Jlc3QtYW1hem9uLXByaW1lLWRheS1kZWFscy1yaWdodC1ub3ctMjAyNC0wNy0xNi_SAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-16T17:44:00Z",
-            "content": null
+            "author": "Andrew Liszewski",
+            "title": "You can escape this Royal Caribbean cruise aboard a virtual train ride - The Verge",
+            "description": "When Royal Caribbean’s Utopia of the Seas sets sail, passengers can hop aboard a virtual train for a meal that might help them forget their 5,000-plus shipmates.",
+            "url": "https://www.theverge.com/2024/7/16/24199880/royal-caribbean-utopia-of-the-seas-cruise-trains-immersive",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/aKelVghgg_77JljWcd-OMTr1vY4=/0x0:1430x954/1200x628/filters:focal(715x477:716x478)/cdn.vox-cdn.com/uploads/chorus_asset/file/25533616/royal_caribbean_cruise_train1.jpg",
+            "publishedAt": "2024-07-16T21:05:23Z",
+            "content": "You can escape this Royal Caribbean cruise aboard a virtual train ride\r\nYou can escape this Royal Caribbean cruise aboard a virtual train ride\r\n / Need a boat break? You can take a virtual train expe… [+2034 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Reuters",
-            "title": "US retail sales report showcases consumer, economic resilience - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/markets/us/us-retail-sales-unchanged-june-beating-forecasts-slight-drop-2024-07-16/",
-            "urlToImage": null,
-            "publishedAt": "2024-07-16T16:56:00Z",
-            "content": null
+            "author": "Leslie Josephs",
+            "title": "Spirit Airlines forecasts wider quarterly loss as revenue falls short of expectations - CNBC",
+            "description": "Spirit Airlines said Tuesday it would post a wider-than-expected loss for the last quarter because of revenue that came in short of its expectations.",
+            "url": "https://www.cnbc.com/2024/07/16/spirit-airlines-second-quarter-loss-warning.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107409734-1714681228947-gettyimages-2006559720-01-b0005020-_hya9z9q0.jpeg?v=1721163035&w=1920&h=1080",
+            "publishedAt": "2024-07-16T20:59:37Z",
+            "content": "Spirit Airlines said Tuesday it would post a wider-than-expected loss for the last quarter because of revenue that came in short of its expectations.\r\nSpirit expects to report an adjusted loss of bet… [+1289 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CoinDesk"
             },
-            "author": "Helene Braun",
-            "title": "Bitcoin ETF Traders Bought the Dip and Now Are Buying the Rebound as Inflows Topped $300M Monday - CoinDesk",
-            "description": "It was the seventh consecutive day of net inflows for the U.S.-based spot funds.",
-            "url": "https://www.coindesk.com/markets/2024/07/16/bitcoin-etf-traders-bought-the-dip-and-now-are-buying-the-rebound-as-inflows-topped-300m-monday/",
-            "urlToImage": "https://www.coindesk.com/resizer/gv8vD8plIUqOupq6-OEtzSfB5UE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RKTKRQ4WUNB4ZOIBPUU3QMJKTE.jpg",
-            "publishedAt": "2024-07-16T16:43:00Z",
-            "content": "<ul><li>Spot bitcoin ETFs now have attracted over $16 billion of inflows since launching in January.\r\n</li><li>The ETFs took in $300 million alone on Monday, continuing a seven-day inflow streak.\r\n</… [+1624 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Pras Subramanian",
-            "title": "Tesla stock in flux as Musk's Trump support and robotaxi delay whipsaw shares - Yahoo Finance",
-            "description": "Tesla shares are on edge Tuesday morning following an early bump on Monday that fizzled into the trading session. Tesla CEO Elon Musk is driving the news.",
-            "url": "https://finance.yahoo.com/news/tesla-stock-in-flux-as-musks-trump-support-and-robotaxi-delay-whipsaw-shares-161140748.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mRj.ghSEb5FCIobqeGyjBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NzY-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/96799db0-b41c-11ed-9f6a-6ed39a4a2c2a",
-            "publishedAt": "2024-07-16T16:11:40Z",
-            "content": "Tesla (TSLA) shares are on edge Tuesday morning, following an early bump on Monday that fizzled into the trading session. Tesla CEO Elon Musk is driving the news.\r\nOver the weekend, Musk endorsed for… [+3179 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Points Guy"
-            },
-            "author": "Zach Griff",
-            "title": "Inside the new Amex Centurion Lounge in DC's Reagan National Airport with a unique culinary experience - The Points Guy",
-            "description": "The credit card airport lounge wars has a new battleground: the nation's capital.",
-            "url": "https://thepointsguy.com/news/amex-centurion-lounge-washington-dca-review/",
-            "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2024/07/Amex-Centurion-Lounge-DCA-48.jpg",
-            "publishedAt": "2024-07-16T16:06:38Z",
-            "content": "The credit card airport lounge war has a new battleground: the nation's capital.\r\nOn Tuesday, American Express took the wraps off of its hotly anticipated Centurion Lounge at Ronald Reagan Washington… [+10192 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KABC-TV"
-            },
-            "author": "Lilit Marcus, CNN",
-            "title": "Trader Joe's Everything But the Bagel seasoning is illegal in South Korea | Here's why - KABC-TV",
-            "description": "The blend, which is popular with influencers and regularly spotted in recipes on TikTok, contains salt, minced garlic, sesame seeds and poppy seeds - one of those ingredients is banned in South Korea.",
-            "url": "https://abc7.com/post/why-trader-joes-everything-bagel-seasoning-is-illegal-south-korea/15062665/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/15062672_071624-wpvi-trader-joes-everything-but-bagel-seasoning-img.jpg?w=1600",
-            "publishedAt": "2024-07-16T16:02:04Z",
-            "content": "One of America's most popular exports is illegal in South Korea - Trader Joe's Everything But the Bagel seasoning mix.\r\nThe blend, which is popular with influencers and regularly spotted in recipes o… [+3817 chars]"
+            "author": "Cheyenne Ligon",
+            "title": "After Court Order, Craig Wright Updates Website With Admission He Is Not Bitcoin Creator Satoshi - CoinDesk",
+            "description": "A U.K. court ruled earlier this year that Wright was not the inventor of bitcoin and had lied “extensively and repeatedly” and forged documents in his attempt to convince the world otherwise.",
+            "url": "https://www.coindesk.com/policy/2024/07/16/after-court-order-craig-wright-updates-website-with-admission-he-is-not-satoshi-nakamoto/",
+            "urlToImage": "https://www.coindesk.com/resizer/NYg12lJOWC6RArx-y6Qx-9J-tBs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XDDDZAK7HFCVFOWL5TRZJL5XTU.jpg",
+            "publishedAt": "2024-07-16T20:47:00Z",
+            "content": "Australian computer scientist and one-time Satoshi Nakamoto claimant Craig Wright has been forced to update the homepage of his personal website\r\n with a legal notice declaring that he is not the inv… [+2269 chars]"
         },
         {
             "source": {
@@ -125,12 +164,181 @@
                 "name": "Google News"
             },
             "author": "Yahoo Finance",
-            "title": "Markets are betting there's a 100% chance the Fed cuts rates in September - Yahoo Finance",
+            "title": "Gold Jumps to Record as Traders Ramp Up Bets on Fed Rate Pivot - Yahoo Finance",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9tYXJrZXRzLWFyZS1iZXR0aW5nLXRoZXJlcy1hLTEwMC1jaGFuY2UtdGhlLWZlZC1jdXRzLXJhdGVzLWluLXNlcHRlbWJlci0xNTU3NTczNjcuaHRtbNIBAA?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nb2xkLWp1bXBzLXJlY29yZC10cmFkZXJzLXJhbXAtMTQ1ODI4NzA5Lmh0bWzSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-07-16T15:57:58Z",
+            "publishedAt": "2024-07-16T20:33:45Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Eric Revell",
+            "title": "Trump secures donations from two Silicon Valley venture capital billionaires - Fox Business",
+            "description": "Billionaire venture capital investors Marc Andreessen and Ben Horowitz are expected to announce they will provide donations supporting former President Trump's presidential campaign.",
+            "url": "https://www.foxbusiness.com/politics/trump-secures-donations-two-silicon-valley-venture-capital-billionaires",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/Donald-Trump-JD-Vance.jpg?ve=1&tl=1",
+            "publishedAt": "2024-07-16T20:03:00Z",
+            "content": "Billionaire venture capital investors Marc Andreessen and Ben Horowitz are reportedly set to announce their plans to make donations in support of former President Trump's presidential campaign\r\n.\r\nAx… [+3621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Anjalee Khemlani",
+            "title": "UnitedHealth was too 'optimistic, in hindsight' about the impact of Change Healthcare cyberattack: CEO - Yahoo Finance",
+            "description": "UnitedHealth Group overestimated the impact of a hack. But it has also seen cost savings with more technology use across its business divisions.",
+            "url": "https://finance.yahoo.com/news/unitedhealth-was-too-optimistic-in-hindsight-about-the-impact-of-change-healthcare-cyberattack-ceo-182734442.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/egVjLw5nZ4jop7.qlEGwlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/337143e0-438f-11ef-b7f5-718fba3d0e44",
+            "publishedAt": "2024-07-16T18:27:35Z",
+            "content": "UnitedHealth Group (UNH) is managing a slower-than-expected recovery from the cyberattack on its subsidiary Change Healthcare earlier this year and providing new guidance related to greater-than-anti… [+3901 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sasha Rogelberg",
+            "title": "Nvidia’s market cap will soar to $50 trillion—yes, trillion—says early investor in Amazon and Tesla - Fortune",
+            "description": "In the next 10 years, Nvidia’s value could be worth more than the entire S&P 500 today, tech investor James Anderson predicted.",
+            "url": "https://fortune.com/2024/07/16/nvidia-market-cap-50-trillion-investor-james-anderson-amazon-tesla/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-2089849308-e1721152154966.jpg?resize=1200,600",
+            "publishedAt": "2024-07-16T18:02:00Z",
+            "content": "Nvidias rise has been astronomicalits grown its market capitalization from $1.1 trillion to $3.1 trillion in the past 12 monthsand a tech investor who predicted the early success of Amazon and Tesla … [+4158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Gabriel Cortés",
+            "title": "Here are 6 buying categories cheaper today than they were before the pandemic - CNBC",
+            "description": "Prices naturally rise over time, but the pandemic pushed inflation to decades highs. These few categories, however, are cheaper than they were pre-pandemic.",
+            "url": "https://www.cnbc.com/2024/07/16/6-things-cheaper-today-than-before-pandemic.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103309052-GettyImages-168653771.jpg?v=1721075565&w=1920&h=1080",
+            "publishedAt": "2024-07-16T17:45:25Z",
+            "content": "It's the nature of prices to go up over time, even in low-inflation environments. Historically, the target for the U.S. Federal Reserve has been 2% annual inflation.\r\nSo when worldwide events like th… [+3442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Alison DeNisco Rayome",
+            "title": "Amazon Prime Day 2024: Live updates on the 135+ top Prime Day deals - ZDNet",
+            "description": "Prime Day is here. ZDNET experts found the best deals on TVs, laptops, Apple products, robot vacuums, and more.",
+            "url": "https://www.zdnet.com/article/best-amazon-prime-day-deals-right-now-2024-07-16/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/df88c883516cee7d6a1106f25f6763468136a023/2024/07/01/69e66f19-b80a-4b65-be12-1b5330ba13b5/prime-day-2024-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-16T17:44:00Z",
+            "content": "Amazon Prime Day is well underway and runs today, Tuesday, July 16, through Wednesday, July 17. Right now, you can find excellent Prime Day deals on popular products like the Apple Watch Series 9, th… [+28672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Microsoft's hire of start-up staff probed as possible merger - BBC.com",
+            "description": "If the CMA finds there has been a 'merger' between Microsoft and Inflection, it will investigate further.",
+            "url": "https://www.bbc.com/news/articles/crg5eemmn9eo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6d43/live/375fe100-4380-11ef-9219-93a4ca544fb6.jpg",
+            "publishedAt": "2024-07-16T16:42:53Z",
+            "content": "Microsoft is being investigated in the UK over whether it has effectively merged with an artificial intelligence (AI) start-up firm by hiring its staff.\r\nKey employees at Inflection AI left the compa… [+2789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Ray Dalio makes the case for gold as the precious metal hits new record high - CNBC",
+            "description": "Ray Dalio believes gold deserves a significant portion of one's portfolio, saying the precious metal is still appealing even at record highs.",
+            "url": "https://www.cnbc.com/2024/07/16/ray-dalio-makes-the-case-for-gold-as-the-precious-metal-hits-new-record-high.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107359370-1705409254999-1J7A9477.JPG?v=1709306916&w=1920&h=1080",
+            "publishedAt": "2024-07-16T16:40:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Andrew Kessel",
+            "title": "Charles Schwab Stock Sinks as CEO Says Bank Will Get 'Smaller' - Investopedia",
+            "description": "Charles Schwab shares tumbled in intraday trading Tuesday after CEO Walt Bettinger said in an earnings call that its bank plans to downsize in order to maintain profitability.",
+            "url": "https://www.investopedia.com/charles-schwab-stock-sinks-as-ceo-says-firm-will-get-smaller-8678595",
+            "urlToImage": "https://www.investopedia.com/thmb/A08iCdQ8aW0ClpsNVhX2Wgr2kmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2156927041-2d8cb9de5dfb478a8c56d279268d09f6.jpg",
+            "publishedAt": "2024-07-16T16:38:59Z",
+            "content": "<ul><li>Charles Schwab intends to shrink its bank by relying on off-balance sheet deals with partners, CEO Walt Bettinger said in the financial services firm's second-quarter earnings call Tuesday.</… [+1808 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Morgan Stanley profit surges on investment banking, trading, while wealth lags - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/business/finance/morgan-stanleys-profit-jumps-investment-banking-recovers-2024-07-16/",
+            "urlToImage": null,
+            "publishedAt": "2024-07-16T16:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nantucketcurrent.com"
+            },
+            "author": "",
+            "title": "Broken Vineyard Wind Turbine Scatters Debris Along Nantucket's South Shore - Nantucket Current",
+            "description": "Nantucket Current is the island's leading online news source. We deliver the news, stories, and people of Nantucket, unbiased and unfiltered.",
+            "url": "https://nantucketcurrent.com/news/vineyard-wind-reports-turbine-blade-damage-in-offshore-incident",
+            "urlToImage": "https://nantucket-current.nyc3.cdn.digitaloceanspaces.com/assets/_1200x630_crop_center-center_82_none/A324AA17-62DE-4176-8F3B-3E0912871057.jpg?mtime=1721135033",
+            "publishedAt": "2024-07-16T16:24:00Z",
+            "content": "Jason Graziadei \r\nJul 16, 2024\r\nDebris from a broken Vineyard Wind turbine washed up all over Nantucket's south shore Tuesday morning, and the offshore energy company has announced a cleanup effort t… [+5119 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Megha Bahree",
+            "title": "The Trump economy: Slower growth, higher prices and a bigger national debt - Al Jazeera English",
+            "description": "Plans to hike tariffs, tighten immigration and cut taxes are likely to crimp growth and fuel inflation, experts say.",
+            "url": "https://www.aljazeera.com/economy/2024/7/16/the-trump-economy-slower-growth-higher-prices-and-a-bigger-national-debt",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/07/AFP__20240716__364B4ZT__v1__HighRes__Day1RepublicanPartyPresidentialNominatingConven-1721096092_5251a8-1721108416.jpg?resize=1200%2C630&quality=80",
+            "publishedAt": "2024-07-16T16:12:41Z",
+            "content": "If Donald Trump is re-elected president of the United States in November, Americans can expect higher inflation, slower economic growth and a larger national debt, according to economists.\r\nTrumps ec… [+4674 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Neal Riley",
+            "title": "2 Massachusetts hospitals named among country's best in US News ranking - CBS Boston",
+            "description": "U.S. News is out with its latest ranking of the best hospitals, and two in Boston have been identified as top performers.",
+            "url": "https://www.cbsnews.com/boston/news/us-news-hospital-rankings-best-massachusetts/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/23/bfaea481-2299-4784-b88c-cecb9dbfa898/thumbnail/1200x630/cc448f12f86b2a9b81b767e49fab5a8d/mgh.jpg?v=5710b2ed1cee1bdfd30cb9c02455b43d",
+            "publishedAt": "2024-07-16T15:51:39Z",
+            "content": "BOSTON - U.S. News &amp; World Report is out with its latest ranking of the best hospitals, and two in Massachusetts have been identified as top performers in the country.\r\nBrigham and Women's Hospit… [+2018 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Dani Romero",
+            "title": "Homebuilder sentiment falls to lowest level since December amid high mortgage rates - Yahoo Finance",
+            "description": "Homebuilders are feeling worse about the housing market as persistently high mortgage rates curtail new home sales.",
+            "url": "https://finance.yahoo.com/news/homebuilder-sentiment-falls-to-lowest-level-since-december-amid-high-mortgage-rates-154702749.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/D2ie3UCJve_azRb6Ahq2Vw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/c547c4d0-25d9-11ee-96f3-e63642a14786",
+            "publishedAt": "2024-07-16T15:47:02Z",
+            "content": "Homebuilders are feeling worse about the housing market as persistently high mortgage rates curtail new home sales.\r\nThe National Association of Home Builders (NAHB)/Wells Fargo Housing Market Index … [+2395 chars]"
         },
         {
             "source": {
@@ -163,65 +371,78 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "CNN Underscored",
-            "title": "Tons of Yeti coolers and tumblers are on sale for Amazon Prime Day - CNN Underscored",
+            "author": "Hanna Ziady",
+            "title": "New inflation warning: Get used to high interest rates, IMF says - CNN",
+            "description": "The International Monetary Fund has warned that stubborn inflation could keep interest rates higher for longer than expected, increasing fiscal and financial risks around the world.",
+            "url": "https://www.cnn.com/2024/07/16/economy/weo-imf-interest-rates-inflation/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2160760519.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-16T15:05:00Z",
+            "content": "The International Monetary Fund has warned that stubborn inflation could keep interest rates higher for longer than expected, increasing fiscal and financial risks around the world.\r\nPersistently hig… [+3512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Singletracks.com"
+            },
+            "author": "Leah Barber",
+            "title": "45+ Amazon Prime Day Deals for mountain bikers that are worth a look [2024] - Singletracks.com",
+            "description": "These are the best Amazon Prime Day deals for mountain bikers that we've found (so far).",
+            "url": "https://www.singletracks.com/mtb-gear/45-amazon-prime-day-deals-for-mountain-bikers-that-are-worth-a-look-2024/",
+            "urlToImage": "https://images.singletracks.com/blog/wp-content/uploads/2024/07/components.png",
+            "publishedAt": "2024-07-16T14:37:19Z",
+            "content": "It’s Amazon Prime Day and beneath the deals on electronics, snacks, and paper towels we actually found some good deals on mountain bike brands and products. We also included a handful of deals from o… [+5507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Leada Gore | lgore@al.com",
+            "title": "Social Security announces big change for millions of recipients - AL.com",
+            "description": "Users are advised to make the change now.",
+            "url": "https://www.al.com/news/2024/07/social-security-announces-big-change-for-millions-of-recipients.html",
+            "urlToImage": "https://www.al.com/resizer/v2/33SUWQ6PWNHVHLOQSZ4GFL6TWM.jpg?auth=c648e738b1a264e86e81b2bd6a489b04cf585836cbc13a5174e15871cc727921&width=1280&quality=90",
+            "publishedAt": "2024-07-16T13:59:00Z",
+            "content": "The Social Security Administration is making a big change impacting how millions of people access their information.\r\nStarting now, customers who created an online account known as My Social Security… [+1223 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newser"
+            },
+            "author": "Arden Dier",
+            "title": "$25M Ransom Ends Cyberattack That Crippled Car Dealers - Newser",
+            "description": "CDK Global reportedly caves to hackers who caused $1B in losses",
+            "url": "https://www.newser.com/story/353016/25m-ransom-ends-cyberattack-that-crippled-car-dealers.html",
+            "urlToImage": "https://img1-azrcdn.newser.com/image/1546388-12-20240716112739.jpeg",
+            "publishedAt": "2024-07-16T13:13:00Z",
+            "content": "CDK Global, maker of crucial software used by half of the nation's car dealerships, has reportedly paid a $25 million ransom to end a cyberattack that cost its customers an estimated $1 billion. The … [+1643 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Kaspersky to shut down US operations, lay off employees after US government ban - TechCrunch",
+            "description": "The Russia-based security software maker said its U.S. business is \"no longer viable\" following a U.S. Commerce Department sales ban.",
+            "url": "https://techcrunch.com/2024/07/16/kaspersky-to-shut-down-us-operations-lay-off-employees-after-us-government-ban/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/kaspersky-logo-moscow.jpg?resize=1200,800",
+            "publishedAt": "2024-07-16T13:11:36Z",
+            "content": "Russian cybersecurity giant Kaspersky will lay off dozens of staff and leave the U.S. market following a U.S. government order in June banning the sale of the company’s software, citing security risk… [+2990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "This is what a Trump White House could mean for tech M&A, Tesla and tariffs - MarketWatch",
             "description": null,
-            "url": "https://www.cnn.com/cnn-underscored/deals/yeti-deal-amazon-prime-day-2024-07-16",
+            "url": "https://www.marketwatch.com/story/this-is-what-a-trump-white-house-could-mean-from-tech-m-a-to-tariffs-and-tesla-3e11bdf0",
             "urlToImage": null,
-            "publishedAt": "2024-07-16T15:04:00Z",
+            "publishedAt": "2024-07-16T13:10:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sarah Min",
-            "title": "Gold jumps to record above $2,460 an ounce on hopes Fed will soon cut rates - CNBC",
-            "description": "Rising expectations for a September rate cut following the latest inflation data bolstered demand for bullion.",
-            "url": "https://www.cnbc.com/2024/07/16/gold-heads-for-record-high-close-on-view-the-fed-poised-to-cut-rates-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107385958-1710210089452-gettyimages-1868370670-THAILAND_GOLD.jpeg?v=1721130114&w=1920&h=1080",
-            "publishedAt": "2024-07-16T14:31:42Z",
-            "content": "Gold jumped to a record Tuesday as rising expectations of a September interest rate cut bolstered demand for bullion.\r\nGold futures advanced 1.7% to $2,471.1, topping the previous high of $2,454.20 r… [+2089 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newsday"
-            },
-            "author": "Sarina Trangle",
-            "title": "2 Long Island hospitals named among nation's best - Newsday",
-            "description": "Long Island hospitals made up more than 30% of the roughly 30 best facilities in New York State, according to U.S. News & World Report.",
-            "url": "https://www.newsday.com/business/us-news-and-world-report-new-york-hospitals-dgg7s1x5",
-            "urlToImage": "https://cdn.newsday.com/ace/c:ODE1NTYxNzQtYzJhNy00:ZGQ1MTA3/landscape/1280",
-            "publishedAt": "2024-07-16T14:07:19Z",
-            "content": "North Shore University Hospital and NYU Langone-Long Island landed on a list of the top hospitals in the country for the second consecutive year. \r\nSeveral Long Island institutions were highlighted i… [+9190 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "National Association of Home Builders",
-            "title": "High Mortgage Rates Continue to Hold Back Builder Confidence - National Association of Home Builders",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5haGIub3JnL25ld3MtYW5kLWVjb25vbWljcy9wcmVzcy1yZWxlYXNlcy8yMDI0LzA3L2hpZ2gtbW9ydGdhZ2UtcmF0ZXMtY29udGludWUtdG8taG9sZC1iYWNrLWJ1aWxkZXItY29uZmlkZW5jZdIBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-16T14:03:31Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "https://www.facebook.com/peoplemag",
-            "title": "19 Comfy Sneakers from Brands Katie Holmes, Jennifer Garner, and More Celebs Wear — All on Sale for Prime Day - PEOPLE",
-            "description": "Amazon Prime Day is here, and so many comfortable sneakers from celeb-worn brands are on sale. We rounded up 19 Amazon deals on New Balance, Adidas, Puma, and Reebok, which we’ve seen on Taylor Swift, Meghan Markle, Jennifer Garner, Katie Holmes, Selena Gomez…",
-            "url": "https://people.com/amazon-prime-day-new-balance-adidas-sneaker-deals-2024-8666262",
-            "urlToImage": "https://people.com/thmb/vnP9sJLgs8SnWg4Ux85CYB2snGE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(936x93:938x95)/taylor-swift-katie-holmes-Selena-gomez-Jennifer-lawrence-070924-7319b4397272453d94073472657d23f9.jpg",
-            "publishedAt": "2024-07-16T13:30:00Z",
-            "content": "Amazon Prime Day is officially here, which means its time to start stocking up on summer essentials across every category including footwear. \r\nIf youve been looking for an opportunity to swap your o… [+6945 chars]"
         },
         {
             "source": {
@@ -251,32 +472,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Umar Shakir",
-            "title": "Lucid claims its Air Pure electric sedan is the most efficient EV ever made - The Verge",
-            "description": "Lucid says its 2025 Air Pure electric sedan gets 5 miles per kilowatt hour — the most efficient car ever. It now has an 84 kWh battery and an EPA-estimated 420 miles of range.",
-            "url": "https://www.theverge.com/2024/7/16/24199185/lucid-air-pure-2025-ev-most-efficient-5-miles-kwh",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/h8mFR859zgTFYREYEPYyATX17hE=/0x0:2758x1839/1200x628/filters:focal(1379x920:1380x921)/cdn.vox-cdn.com/uploads/chorus_asset/file/25532232/CR24_0346_MY25_PR_Desktop.jpg",
-            "publishedAt": "2024-07-16T13:00:00Z",
-            "content": "Lucid claims its Air Pure electric sedan is the most efficient EV ever made\r\nLucid claims its Air Pure electric sedan is the most efficient EV ever made\r\n / The 2025 Lucid Air Pure can eke out five m… [+1953 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft faces UK antitrust investigation over hiring of Inflection AI staff - The Verge",
-            "description": "UK regulators are looking more closely at Microsoft’s AI investments. The hiring of Inflection AI staff earlier this year will be probed under merger rules in the UK.",
-            "url": "https://www.theverge.com/2024/7/16/24199571/microsoft-uk-cma-inflection-ai-investigation",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/14eyl3D2o9XHxoPify-5OVUA1c8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25418236/STK095_MICROSOFT_CVirginia_B.jpg",
-            "publishedAt": "2024-07-16T12:59:47Z",
-            "content": "Microsoft faces UK antitrust investigation over hiring of Inflection AI staff\r\nMicrosoft faces UK antitrust investigation over hiring of Inflection AI staff\r\n / The Competition and Markets Authority … [+2336 chars]"
-        },
-        {
-            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -303,16 +498,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": "Investor's Business Daily",
-            "title": "Charles Schwab Shocks Wall Street With Interest Revenue Falling 6%; Client Assets Hit $9.4 Trillion - Investor's Business Daily",
-            "description": "Charles Schwab stock fell early Tuesday.",
-            "url": "https://www.investors.com/news/charles-schwab-interest-revenue-client-assets-hit-record/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/01/Stock-charlesschwabreception-01-company.jpg",
-            "publishedAt": "2024-07-16T12:26:00Z",
-            "content": "Charles Schwab (SCHW) reported slightly better than expected second-quarter earnings and revenue early Tuesday. The financial services firm ended the quarter with total client assets of $9.4 trillion… [+1600 chars]"
+            "author": "Christopher Condon",
+            "title": "US Retail Sales Excluding Autos Rise by Most in Three Months - Bloomberg",
+            "description": "US retail sales, excluding the impact of a cyberattack on auto dealerships, rose in June by the most in three months, a sign consumers regained their footing at the end of the second quarter.",
+            "url": "https://www.bloomberg.com/news/articles/2024-07-16/us-retail-sales-excluding-autos-rise-by-most-in-three-months",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiW.cObF7OCo/v1/1200x813.jpg",
+            "publishedAt": "2024-07-16T12:36:12Z",
+            "content": "US retail sales, excluding the impact of a cyberattack on auto dealerships, rose in June by the most in three months, a sign consumers regained their footing at the end of the second quarter.\r\nRetail… [+228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Bloom",
+            "title": "Here are Tuesday's biggest analyst calls: Nvidia, Tesla, Meta, Shopify, Broadcom, IBM, Microsoft & more - CNBC",
+            "description": "Here are Tuesday's biggest calls on Wall Street.",
+            "url": "https://www.cnbc.com/2024/07/16/tuesdays-top-analyst-calls-on-wall-street-like-nvidia.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107413534-17153698322024-04-30t045809z_1775152071_rc2rg7a5pjst_rtrmadp_0_tesla-layoffs.jpeg?v=1715369872&w=1920&h=1080",
+            "publishedAt": "2024-07-16T12:33:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "InStyle"
+            },
+            "author": "https://www.facebook.com/InStyle",
+            "title": "Hollywood’s Favorite Sneaker Brands Are on Sale From Just $49 at Amazon - InStyle",
+            "description": "Shop 15 sneakers from Brooks, Veja, Adidas, New Balance, Tretorn, and more at Amazon. Save on the sneaker brands Jennifer Garner and Reese Witherspoon wear during Amazon Prime Day 2024.",
+            "url": "https://www.instyle.com/celebrity-sneakers-amazon-prime-day-2024-8665187",
+            "urlToImage": "https://www.instyle.com/thmb/KAOLVoQz3I2uzIMcCi4_V4H1WbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/071224-Hollywood-Sneakers-SOC-b2a0e491d49d472d96b671979fa1bd3a.jpg",
+            "publishedAt": "2024-07-16T12:30:00Z",
+            "content": "My parents and I recently made a quick stop at Bloomingdales where my incredibly frugal dad was aghast at the price of footwear. He couldnt believe anyone would spend that much money on sneakers. Who… [+6017 chars]"
         },
         {
             "source": {
@@ -330,80 +551,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "Epa.gov"
             },
-            "author": "Pilar Arias",
-            "title": "American Airlines passengers stop to grab carry-ons during evacuation, despite orders to 'leave everything' - Fox Business",
-            "description": "Video shows the moments those onboard an American Airlines flight from San Francisco to Miami were evacuated after smoke was detected in the cabin.",
-            "url": "https://www.foxbusiness.com/economy/american-airlines-passengers-stop-grab-carry-ons-during-evacuation-despite-orders-leave-everything",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/American-Airlines-laptop-fire.jpg?ve=1&tl=1",
-            "publishedAt": "2024-07-16T12:10:00Z",
-            "content": "Video captured during an American Airlines flight evacuation shows passengers attempting to get their belongings rather than exit the plane with haste after a laptop appeared to catch fire while insi… [+2339 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Martin Baccardax",
-            "title": "Analyst resets Palantir stock price target ahead of Q2 earnings - TheStreet",
-            "description": "Palantir shares have added more than $27 billion in market value so far this year.",
-            "url": "https://www.thestreet.com/investing/stocks/analyst-resets-palantir-stock-price-target-ahead-of-q2-earnings",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA1MzY0ODAyMTI0NTIzNDc2/thiel-marks-palantirs-asia-push-with-150-million-japan-venture.jpg",
-            "publishedAt": "2024-07-16T12:03:12Z",
-            "content": "Updated at 10:52 AM EDT\r\nPalantir Technologies shares moved lower in Tuesday trading following a downgrade from a Wall Street analyst heading into the data-analytics group's second quarter earnings r… [+2951 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": "Joshua Franklin",
-            "title": "Morgan Stanley’s wealth business stumbles even as profits jump - Financial Times",
-            "description": "Bank reports 40% rise in quarterly profits but wealth unit struggles to attract assets with interest rates higher",
-            "url": "https://www.ft.com/content/04cf6dc7-66b0-496b-b206-ad2c9760d4fc",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Feedc933c-a962-4cfd-945a-41209b18b37d.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2024-07-16T12:02:39Z",
-            "content": "Morgan Stanleys profits increased more than 40 per cent in the second quarter, but the bank reported a slowdown in growth in its cornerstone wealth management business.\r\nMorgan Stanley reported quart… [+1856 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew J. Hawkins",
-            "title": "Porsche fills out Macan EV lineup with rear-wheel drive model - The Verge",
-            "description": "Porsche announced two new rear-wheel drive versions of its upcoming Macan EV, including a higher-powered 4S model.",
-            "url": "https://www.theverge.com/2024/7/16/24199178/porsche-macan-ev-rwd-rear-wheel-drive-4s-specs-price",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/wDnFUoWAGZCLVYn1svFI7CkxMkc=/0x0:6000x4002/1200x628/filters:focal(3000x2001:3001x2002)/cdn.vox-cdn.com/uploads/chorus_asset/file/25532274/10_Macan_4S.jpg",
+            "author": null,
+            "title": "Biden-Harris Administration Announces Nearly $160 Million in Grants to Support Clean U.S. Manufacturing of Steel and Other Construction Materials - U.S. EPA.gov",
+            "description": "EPA News Release: Biden-Harris Administration Announces Nearly $160 Million in Grants to Support Clean U.S. Manufacturing of Steel and Other Construction Materials",
+            "url": "https://www.epa.gov/newsreleases/biden-harris-administration-announces-nearly-160-million-grants-support-clean-us",
+            "urlToImage": "https://www.epa.gov/sites/all/themes/epa/img/epa-news-releases-og.jpg",
             "publishedAt": "2024-07-16T12:00:00Z",
-            "content": "Porsche fills out Macan EV lineup with rear-wheel drive model\r\nPorsche fills out Macan EV lineup with rear-wheel drive model\r\n / A RWD drive Macan EV will be lighter than the dual-motor versions, whi… [+2660 chars]"
+            "content": "Grants from President Bidens Inflation Reduction Act will support the renewal of American manufacturing by helping businesses produce low-carbon materials\r\nJuly 16, 2024\r\nWASHINGTON Today, July 16, t… [+10064 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "PRNewswire"
             },
-            "author": "Ryan Browne",
-            "title": "Man who claimed to be inventor of bitcoin referred to UK prosecutors for alleged perjury - CNBC",
-            "description": "A U.K. judge on Tuesday referred a case against Australian entrepreneur Craig Wright's claim to be the inventor of bitcoin to the Crown Prosecution Service.",
-            "url": "https://www.cnbc.com/2024/07/16/self-proclaimed-bitcoin-inventor-craig-wright-referred-to-prosecutors.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106873263-1619208332079-gettyimages-1152506123-339676668_1-5.jpeg?v=1721124829&w=1920&h=1080",
-            "publishedAt": "2024-07-16T11:52:23Z",
-            "content": "LONDON Craig Wright, an Australian man who claimed to be the inventor of bitcoin, was on Tuesday referred to British prosecutors for committing alleged perjury.\r\nOn Tuesday, British High Court Judge … [+1906 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Kara Carlson, Bloomberg",
-            "title": "Tesla is looking to hire 800 new employees 3 months after Elon Musk ordered mass firings of thousands - Fortune",
-            "description": "3 months after Elon Musk ordered mass firings of thousands",
-            "url": "https://fortune.com/2024/07/16/tesla-hire-800-employees-months-elon-musk-ordered-mass-firings/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-2158243802-e1721128241340.jpg?resize=1200,600",
-            "publishedAt": "2024-07-16T11:12:00Z",
-            "content": "Tesla Inc. is looking to hire nearly 800 new employees, three months after Chief Executive Officer Elon Musk hastily ordered the largest round of layoffs in the companys history.The roles have steadi… [+6122 chars]"
+            "author": null,
+            "title": "Blue Owl Capital Significantly Expands Alternative Credit and Asset-Based Finance Capabilities with Acquisition of Atalaya Capital Management's Business - PR Newswire",
+            "description": "/PRNewswire/ -- Blue Owl Capital Inc. (\"Blue Owl\") (NYSE: OWL), a leading alternative asset manager, announced today it has entered into a definitive agreement...",
+            "url": "https://www.prnewswire.com/news-releases/blue-owl-capital-significantly-expands-alternative-credit-and-asset-based-finance-capabilities-with-acquisition-of-atalaya-capital-managements-business-302197579.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2461783/Blue_Owl_Capital_Inc_Logo.jpg?p=facebook",
+            "publishedAt": "2024-07-16T11:00:00Z",
+            "content": "<ul><li>Established alternative credit management business with an 18-year track record will add over $10 billion in assets under management.</li></ul>NEW YORK, July 16, 2024 /PRNewswire/ -- Blue Owl… [+6352 chars]"
         },
         {
             "source": {
@@ -417,6 +586,19 @@
             "urlToImage": "https://i.abcnewsfe.com/a/54ee8b8a-00bb-4be4-841e-d4f81c08a138/GMA_PrimeDay_Yellow_KitchenHome_071624_v02_ag_1721149747786_hpMain_16x9.jpg?w=992",
             "publishedAt": "2024-07-16T10:52:30Z",
             "content": "With so many Amazon Prime Day deals, where does one even begin?\r\nWe're rounding up all of the top deals on your favorite home and kitchen products, from small appliances like blenders and coffee make… [+1568 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Akanksha Bakshi",
+            "title": "Asia Mixed, European Markets Fall, While Gold Heads Toward All Time High - Global Markets Today While US Slept - Benzinga",
+            "description": "US stock markets closed higher on hopes for second Trump presidency and looser regulations after failed assassination attempt. Asian markets mixed.",
+            "url": "https://www.benzinga.com/markets/asia/24/07/39788559/asia-mixed-european-markets-fall-while-gold-heads-toward-all-time-high-global-markets-today-while-us",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/16/Gold-bar-and-nugget.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-07-16T10:37:01Z",
+            "content": "On Monday, July 15th, U.S. stock markets closed higher, continuing Fridays rally, as hopes for a second Trump presidency and a looser regulatory environment rose after a failed assassination attempt.… [+2511 chars]"
         },
         {
             "source": {
@@ -472,29 +654,29 @@
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": null,
+                "name": "Food & Wine"
             },
-            "author": "Sonali Basak, Sridhar Natarajan, Gillian Tan",
-            "title": "Blue Owl to Buy Atalaya in Deeper Expansion Into Private Credit - Bloomberg",
-            "description": "Blue Owl Capital Inc. is pushing deeper into the red-hot private credit market with a deal to buy credit manager Atalaya Capital Management, which manages more than $10 billion.",
-            "url": "https://www.bloomberg.com/news/articles/2024-07-16/blue-owl-to-buy-private-credit-firm-atalaya-adding-10-billion-in-assets",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZzHDGFEAUuA/v0/1200x960.jpg",
-            "publishedAt": "2024-07-16T09:00:00Z",
-            "content": "Blue Owl Capital Inc. is pushing deeper into the red-hot private credit market with a deal to buy credit manager Atalaya Capital Management, which manages more than $10 billion. \r\nBlue Owl agreed to … [+379 chars]"
+            "author": "https://www.facebook.com/foodandwine",
+            "title": "Patio Furniture Is Up to 73% Off for Amazon Prime Day, Including Umbrellas, Dining Sets, and Rugs - Food & Wine",
+            "description": "Amazon Prime Day has patio furniture deals up to 73% off, including patio umbrellas, outdoor rugs, patio furniture sets, dining sets, outdoor decor, and more. Head to Amazon to shop these Prime Day furniture deals while prices start at $20.",
+            "url": "https://www.foodandwine.com/amazon-prime-day-patio-furniture-deals-2024-8664709",
+            "urlToImage": "https://www.foodandwine.com/thmb/fggVXhxKxNM1G0KDqnYRNtUMtpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/faw-patio-furniture-is-up-to-78-off-for-amazon-prime-day-including-umbrellas-dining-sets-and-rugs-tout--e1c5b772be6747c8b4f3eaaf1b2f2e0d.jpg",
+            "publishedAt": "2024-07-16T08:30:00Z",
+            "content": "This years Amazon Prime Day has brought in some shockingly good deals on patio furniture sets, making it the ideal time to freshen up your outdoor area for summer.\r\nPrime Day furniture deals are as h… [+11823 chars]"
         },
         {
             "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Aliss Higham",
-            "title": "Hot Dog Recall as Safety Warning Issued - Newsweek",
-            "description": "The recall was launched after the products were found to have not been inspected by federal food safety agencies.",
-            "url": "https://www.newsweek.com/hot-dog-recall-safety-warning-issued-1925619",
-            "urlToImage": "https://d.newsweek.com/en/full/2429022/hot-dog.jpg",
-            "publishedAt": "2024-07-16T08:13:12Z",
-            "content": "Several hot dog products have been recalled by their maker as they failed to undergo proper inspection.\r\nThree ready-to-eat hot dog items produced by Kentucky-based AW Farms were found to have not be… [+3111 chars]"
+            "author": "Lilit Marcus",
+            "title": "Beloved in the US, Trader Joe’s Everything But the Bagel seasoning is illegal in South Korea - CNN",
+            "description": "Trader Joe’s Everything But the Bagel seasoning mix has run afoul of Seoul airport customs due to one ingredient - poppy seeds.",
+            "url": "https://www.cnn.com/travel/south-korea-trader-joes-bagel-seasoning-illegal-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01-trader-joe-seasoning-mix.jpeg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-16T08:30:00Z",
+            "content": "One of Americas most popular exports is illegal in South Korea Trader Joes Everything But the Bagel seasoning mix.\r\nThe blend, which is popular with influencers and regularly spotted in recipes on Ti… [+3719 chars]"
         },
         {
             "source": {
@@ -512,28 +694,41 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Tipranks.com"
             },
-            "author": "Josh Schafer",
-            "title": "The true bull market may finally 'wake up' as investors eye rate cuts - Yahoo Finance",
-            "description": "Investors have been rotating to stocks outside of Big Tech in what could be the start of a new leg of the bull market.",
-            "url": "https://finance.yahoo.com/news/the-true-bull-market-may-finally-wake-up-as-investors-eye-rate-cuts-080027716.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1yaUW.KazB9wGvg9OTv2lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/05a3f1f0-857d-11ed-b777-458eed6ecafa",
-            "publishedAt": "2024-07-16T08:00:27Z",
-            "content": "Since the start of the bull market in October 2022, the stock market's move higher has largely been about artificial intelligence and the outperformance of a few large equities, driving investor conc… [+6069 chars]"
+            "author": "Radhika Saraogi",
+            "title": "Apple Stock (AAPL) Hits a New 52-Week High; Here’s Why - TipRanks",
+            "description": "Apple ($AAPL) gained 1.7% on Monday, reaching a new 52-week high. The upside was driven by bullish ratings from Top-rated analysts and optimism about the upcoming r...",
+            "url": "https://www.tipranks.com/news/apple-stock-aapl-hits-a-new-52-week-high-heres-why",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2023/11/Aapl-750x406.jpeg",
+            "publishedAt": "2024-07-16T08:00:53Z",
+            "content": "Apple (AAPL) gained 1.7% on Monday, reaching a new 52-week high. The upside was driven by bullish ratings from Top-rated analysts and optimism about the upcoming release of iPhones featuring generati… [+1882 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Internet"
+                "name": "Travel+Leisure"
             },
-            "author": "https://www.facebook.com/thehackernews",
-            "title": "Kaspersky Exits U.S. Market Following Commerce Department Ban - The Hacker News",
-            "description": "Kaspersky exits U.S. market after Commerce Department ban citing security risks. U.S. customers advised to switch by September 29.",
-            "url": "https://thehackernews.com/2024/07/kaspersky-exits-us-market-following.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaK5APAD4aHqItl66YKtksKy5vzGPn0FrFRFSMVvU3lboUEF7ryh2v-_IuO284um8yfoKojP1cALdpo_xoH2LuJrPzV_AsR9EFtfMFs-Zd4v9yLgFJUVFeeNlbso4O5FkcU1ibXH0VBHhICSX0mLXmkWCcxWNGqmpbNsfXX4bZ8vFgUdaV0vuvaSfwF_6s/s728-rw-e365/kaspersky.png",
-            "publishedAt": "2024-07-16T04:16:00Z",
-            "content": "Russian security vendor Kaspersky has said it's exiting the U.S. market nearly a month after the Commerce Department announced a ban on the sale of its software in the country citing a national secur… [+1857 chars]"
+            "author": "https://www.facebook.com/travelandleisure/",
+            "title": "16 Flight Attendant-loved Travel Essentials on Sale at Amazon for Prime Day — Starting at $10 - Travel + Leisure",
+            "description": "Amazon Prime Day is here, and with it comes unbeatable deals on flight attendant-approved travel gear to add to your packing list. From Apple AirTags to Samsonite luggage and even Dr. Scholl’s sneakers, these are the 16 best deals that flight attendants can’t…",
+            "url": "https://www.travelandleisure.com/flight-attendant-approved-amazon-prime-day-travel-deals-2024-8664830",
+            "urlToImage": "https://www.travelandleisure.com/thmb/4xUrm8srrLG5Cq-aW0poHtrdTnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/roundup-flight-attendant-loved-deals-tout-2ebc89281b894a2ca33d8d5a99d78d61.jpg",
+            "publishedAt": "2024-07-16T06:00:00Z",
+            "content": "The commencement of Amazon Prime Day means that a whole host of deals just dropped across the site, and theres one section of the sale that were especially excited about: flight attendant-approved pr… [+10855 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Anan Ashraf",
+            "title": "Elon Musk Confirms Delay In Tesla Robotaxi Unveil Due To 'Important Design Change,' But Stays Mum On New Timeline - Benzinga",
+            "description": "Tesla CEO Elon Musk confirms delay in robotaxi unveiling event to make important design changes, no new date set yet.",
+            "url": "https://www.benzinga.com/news/24/07/39785823/elon-musk-confirms-delay-in-tesla-robotaxi-unveil-due-to-important-design-change-but-stays-mum-on-ne",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/16/tesla-robotaxi-ai.png?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-07-16T05:49:00Z",
+            "content": "Tesla IncTSLA CEO Elon Musk on Monday confirmed that its robotaxi unveiling event has been delayed to deploy some design changes to the vehicle. \r\nWhat Happened: Requested what I think is an importan… [+2116 chars]"
         },
         {
             "source": {
@@ -563,55 +758,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Investopedia"
-            },
-            "author": "Timothy Smith",
-            "title": "Watch These Berkshire Hathaway Price Levels After Stock Closes at Record High - Yahoo Finance",
-            "description": "Berkshire Hathaway shares closed at a record high on Monday, buoyed by gains in some of the conglomerate’s key holdings. Monitor these important chart levels...",
-            "url": "https://www.investopedia.com/watch-these-berkshire-hathaway-price-levels-after-stock-closes-at-record-high-8678433",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dbCYz3.eT58shDzhrEzQSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00Nzg-/https://media.zenfs.com/en/investopedia_245/4499e4ac9a2238b70b7b8d09c0b62f92",
-            "publishedAt": "2024-07-16T02:07:00Z",
-            "content": "Key Takeaways\r\n<ul><li>Shares in Berkshire Hathaway closed at a record high on Monday, buoyed by gains in some of the conglomerates key holdings.\r\n</li><li>The stock broke out from a symmetrical tria… [+3576 chars]"
-        },
-        {
-            "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "Ashlea Ebeling",
+            "author": "The Wall Street Journal",
             "title": "Using Your Retirement Account as an Emergency ATM Just Got Easier - The Wall Street Journal",
-            "description": "You get $1,000 for an emergency of your choice. It could be a doctor’s bill or groceries.",
+            "description": null,
             "url": "https://www.wsj.com/personal-finance/retirement/using-your-retirement-account-as-an-emergency-atm-just-got-easier-2ab939ba",
-            "urlToImage": "https://images.wsj.net/im-979255/social",
+            "urlToImage": null,
             "publishedAt": "2024-07-16T01:00:00Z",
-            "content": "There is a new, interest-free, penalty-free option if you need a quick $1,000. \r\nThe Internal Revenue Service has now made it easier to take a limited amount of money out of a traditional retirement … [+314 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Rohan Goswami",
-            "title": "Activist investor Starboard has big stake in Match Group - CNBC",
-            "description": "Starboard Value wrote a letter to Match and its board on Monday, urging the company to focus on product innovation and margin improvement.",
-            "url": "https://www.cnbc.com/2024/07/15/match-activist-tinder-hinge-starboard.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103559916-GettyImages-491566506.jpg?v=1721084030&w=1920&h=1080",
-            "publishedAt": "2024-07-15T23:45:12Z",
-            "content": "Starboard Value has amassed a roughly 6.5% stake in online dating company Match Group and is pushing the company to either make changes that would improve margins or go private.\r\nStarboard's Jeff Smi… [+2578 chars]"
+            "content": null
         },
         {
             "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "Nick Timiraos",
-            "title": "Rate Cuts Will Soon Be Warranted, Fed's Goolsbee Says - The Wall Street Journal",
-            "description": "Goldman Sachs shares rise after the bank reports a jump in profit",
-            "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-07-15-2024",
-            "urlToImage": "https://images.wsj.net/im-925349/social",
-            "publishedAt": "2024-07-15T22:29:00Z",
-            "content": "Chicago Federal Reserve President Austan Goolsbee said last weeks mild June inflation reading makes him more confident that price pressures are easing in a way that supports lowering interest rates.\r… [+443 chars]"
+            "author": "The Wall Street Journal",
+            "title": "Exclusive | Starboard Builds Big Stake in Tinder Parent Match - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/business/deals/starboard-builds-big-stake-in-tinder-parent-match-59b0a176",
+            "urlToImage": null,
+            "publishedAt": "2024-07-16T00:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "André Beganski",
+            "title": "Ethereum ETFs to Start Trading Next Week as SEC Gathers Final Drafts, Sources Say - Decrypt",
+            "description": "The SEC has directed asset managers to submit finalized registration statements for a July 23 launch.",
+            "url": "https://decrypt.co/239915/spot-ethereum-etf-launch-sec-filings-sources",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/05/ethereum-eth-wall-street-ethereum-etf-gID_7.jpeg",
+            "publishedAt": "2024-07-15T22:13:47Z",
+            "content": "The Securities and Exchange Commission (SEC) is telling asset managers to submit final versions of registration statements for spot Ethereum ETFs by Wednesday, with the products launches slated for J… [+2121 chars]"
         },
         {
             "source": {
@@ -629,45 +811,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Lawrence Hodge / Jalopnik",
-            "title": "The massive car dealership cyberattack has ended with a $25 million ransom - Quartz",
-            "description": "CDK Global reportedly paid the ransom in Bitcoin so there could be no trace",
-            "url": "https://qz.com/cdk-global-cyberattack-million-dollar-ransom-1851593508",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2bc7fab88a5e1d471c63991f7137d98d.jpg",
-            "publishedAt": "2024-07-15T20:14:00Z",
-            "content": "The cyberattack targeting the company that handles the financial transaction side of car buying for some 15,000 car dealers in the U.S. finally ended thanks, almost certainly to a paid ransom. \r\nAcco… [+1532 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Fort Hunt Herald",
-            "title": "Extra Money for Social Security this Month: Know When Will Eligible Americans Get second payment? - Fort Hunt Herald",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vZm9ydGh1bnRoZXJhbGQuY29tL2V4dHJhLW1vbmV5LWZvci1zb2NpYWwtc2VjdXJpdHktdGhpcy1tb250aC_SAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-15T20:05:55Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Eric Revell",
-            "title": "Apple hits all-time high as Morgan Stanley touts stock as 'top pick' for AI - Fox Business",
-            "description": "Apple's moves in the AI race, including the announcement of Apple Intelligence, have lifted analysts' projections for its device sales, which helped push the stock to a record high.",
-            "url": "https://www.foxbusiness.com/markets/apple-hits-all-time-high-morgan-stanley-touts-stock-top-pick-ai",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/Apple-Intelligence-0.jpg?ve=1&tl=1",
-            "publishedAt": "2024-07-15T19:40:00Z",
-            "content": "Apple shares rose to a record high during Monday's trading session after Morgan Stanley designated the stock as a \"top pick\" due to the company's artificial intelligence (AI)\r\n push to boost device s… [+2706 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "[Removed]"
             },
             "author": null,
@@ -677,45 +820,6 @@
             "urlToImage": null,
             "publishedAt": "1970-01-01T00:00:00Z",
             "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Jerry Brown",
-            "title": "These are the 5 best strategies for investing in CDs right now, experts say - CBS News",
-            "description": "Investing in CDs? Use these strategies to maximize your returns or better match your liquidity needs.",
-            "url": "https://www.cbsnews.com/news/these-are-the-best-strategies-for-investing-in-cds-right-now-experts-say/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/07/15/911fbf67-6338-4218-8806-0cca9056f4fc/thumbnail/1200x630/a258cd85b4d21e526278631f4bb34f17/gettyimages-508069945.jpg?v=5710b2ed1cee1bdfd30cb9c02455b43d",
-            "publishedAt": "2024-07-15T18:29:17Z",
-            "content": "If you're going to put money in a CD, make sure to pay attention to these expert-driven strategies first.\r\nGetty Images/iStockphoto\r\nThe Federal Reserve has kept rates elevated over the past year to … [+4797 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Benzinga"
-            },
-            "author": "Piero Cingari",
-            "title": "Powell Praises Latest Inflation Progress, Hints At Imminent Rate Cuts, Warns He's 'Very Worried' About Unsustainable National Debt - SPDR S&P 500 (ARCA:SPY), iShares 20+ Year Treasury Bond ETF (NASDAQ:TLT) - Benzinga",
-            "description": "Powell believes inflation is moving towards 2% target, allows for rate cuts. He expresses concern over U.S. debt and dismisses hard landing fears.",
-            "url": "https://www.benzinga.com/economics/macro-economic-events/24/07/39779256/powell-praises-latest-inflation-progress-hints-at-imminent-rate-cuts-warns-hes-ve",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/15/Jerome-Powell.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2024-07-15T18:04:52Z",
-            "content": "Federal Reserve Chairman Jerome Powell said Monday the last three inflation reports have bolstered the Feds confidence that inflation is moving toward the 2% target, which is the key condition for po… [+3088 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Electrek"
-            },
-            "author": "Fred Lambert",
-            "title": "Elon Musk confirms Tesla Robotaxi delay, says front design change - Electrek.co",
-            "description": "Elon Musk has confirmed that Tesla is delaying the unveiling of its Robotaxi and adds that he requested a front...",
-            "url": "http://electrek.co/2024/07/15/elon-musk-confirms-tesla-robotaxi-delay-front-design-change/",
-            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-robotaxi.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-07-15T17:58:00Z",
-            "content": "Elon Musk has confirmed that Tesla is delaying the unveiling of its Robotaxi and adds that he requested a front design change.\r\nLast week, Bloomberg reported that Tesla is delaying the unveiling of t… [+1810 chars]"
         },
         {
             "source": {
@@ -729,84 +833,6 @@
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66955d5e4dc6db05031f804f/0x0.jpg?format=jpg&crop=3979,2236,x0,y27,safe&height=900&width=1600&fit=bounds",
             "publishedAt": "2024-07-15T17:33:35Z",
             "content": "More than $1 billion has been added to former President Donald Trumps net worth on Monday, as shares of Trump Mediathe parent of social media platform Truth Socialsurged days after an assassination a… [+2423 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Krystle Vermes",
-            "title": "AT&T paid a king's ransom to a hacker with everyone's call logs, records indicate - Android Police",
-            "description": "The carrier may have paid over $300,000",
-            "url": "https://www.androidpolice.com/att-ransom-hack-data-breach-payment/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/07/hacker-on-computer-16_9.jpg",
-            "publishedAt": "2024-07-15T16:25:00Z",
-            "content": "Summary\r\n<ul><li> Hackers demanded over $370,000 in ransom from AT&amp;T to delete stolen data and provide proof. </li><li> Blockchain records show the equivalent value in cryptocurrency (5.7 bitcoin… [+2870 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Burberry boss ousted as sales continue to fall - BBC.com",
-            "description": "The UK fashion house appoints Joshua Schulman to lead the firm as it looks to revive its fortunes.",
-            "url": "https://www.bbc.com/news/articles/c0dm42jek80o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7a2d/live/cb197250-4289-11ef-8210-07bbdc64fafb.jpg",
-            "publishedAt": "2024-07-15T15:49:46Z",
-            "content": "By Nick Edser, Business reporter, BBC News\r\nFashion brand Burberry has changed its boss in a bid to revive itself in the face of plunging sales.\r\nThe company said Joshua Schulman, the former head of … [+4349 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Aliss Higham",
-            "title": "Social Security Announces Change for Millions of Recipients - Newsweek",
-            "description": "Changes to the way online services are accessed have been announced by the SSA.",
-            "url": "https://www.newsweek.com/social-security-change-online-account-access-1925194",
-            "urlToImage": "https://d.newsweek.com/en/full/2428240/social-security-card.jpg",
-            "publishedAt": "2024-07-15T13:08:05Z",
-            "content": "The Social Security Administration (SSA) has announced that online account users will be required to transition to a new login portal.\r\nUsers of my Social Security who registered for an online accoun… [+3318 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Rohan Goswami, Melissa Repko",
-            "title": "Macy's ends buyout talks with Arkhouse and Brigade after months of negotiations - CNBC",
-            "description": "Arkhouse and Brigade had for months been attempting to buy out the storied retailer.",
-            "url": "https://www.cnbc.com/2024/07/15/macys-ends-buyout-talks-with-arkhouse-and-brigade-after-months-of-negotiations.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107417206-1716211775400-gettyimages-1945283904-_s1_4847_ygkii43b.jpeg?v=1721057755&w=1920&h=1080",
-            "publishedAt": "2024-07-15T12:41:19Z",
-            "content": "Department store Macy's said Monday its board has unanimously decided to end negotiations with the activist group that had been looking to take the retailer private for roughly $6.9 billion, saying i… [+3580 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Goldmansachs.com"
-            },
-            "author": null,
-            "title": "Goldman Sachs Reports 2024 Second Quarter Earnings Per Common Share of $8.62 and Annualized Return on Common Equity of 10.9% - Goldman Sachs",
-            "description": null,
-            "url": "https://www.goldmansachs.com/media-relations/press-releases/2024/2024-07-15-q2-results.html",
-            "urlToImage": "https://www.goldmansachs.com/media-relations/press-releases/multimedia/200w-800X450.jpg",
-            "publishedAt": "2024-07-15T11:38:49Z",
-            "content": "NEW YORK, July 15, 2024 The Goldman Sachs Group, Inc. (NYSE: GS) today reported net revenues of $12.73 billion and net earnings of $3.04 billion for the second quarter ended June 30, 2024. Diluted ea… [+1713 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Sankalp Phartiyal",
-            "title": "Apple’s India Sales Surge 33% to Record in Shift From China - Bloomberg",
-            "description": "Apple Inc.’s annual sales in India hit a record of almost $8 billion, underscoring a rapidly growing market where the iPhone maker now assembles more of its devices and operates two flagship stores.",
-            "url": "https://www.bloomberg.com/news/articles/2024-07-15/apple-sales-in-india-surge-33-to-8-billion-as-chinese-market-slows",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irIEAlJts0.U/v1/1200x800.jpg",
-            "publishedAt": "2024-07-15T11:10:41Z",
-            "content": "Apple Inc.s annual sales in India hit a record of almost $8 billion, underscoring a rapidly growing market where the iPhone maker now assembles more of its devices and operates two flagship stores.\r\n… [+284 chars]"
         }
     ]
 }

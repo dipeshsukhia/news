@@ -1,7 +1,46 @@
 {
     "status": "ok",
-    "totalResults": 40,
+    "totalResults": 36,
     "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Newser",
+            "title": "Near Developer's Path: One of the Oldest Trees on Earth - Newser",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm5ld3Nlci5jb20vc3RvcnkvMzUyNjM3L25lYXItZGV2ZWxvcGVycy1wYXRoLW9uZS1vZi10aGUtb2xkZXN0LXRyZWVzLW9uLWVhcnRoLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-28T20:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Daily Galaxy --Great Discoveries Channel",
+            "title": "The Sun as You’ve Never Seen It Before: New Imagery Unveils Its Unique Details - The Daily Galaxy --Great Discoveries Channel",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZGFpbHlnYWxheHkuY29tLzIwMjQvMDcvdGhlLXN1bi1uZXctaW1hZ2VyeS11bnZlaWxzLXVuaXF1ZS1kZXRhaWxzL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-28T20:30:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "CHRISTINA LARSON",
+            "title": "Two meteor showers will flash across the sky around the same time in late July - The Associated Press",
+            "description": "There will be back-to-back meteor showers in late July. The Southern Delta Aquariid meteor shower peaks early Tuesday. And this year, it will coincide with a second smaller meteor shower, the Alpha Capricornids. The Delta Aquariids occur every year in North A…",
+            "url": "https://apnews.com/article/double-meteor-showers-southern-delta-aquariid-134dc44b4f441ac94e70cb452cdc9d87",
+            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+            "publishedAt": "2024-07-28T18:48:00Z",
+            "content": "Get ready for a meteor shower doubleheader. \r\nThe Southern Delta Aquariid meteor shower peaks in late July. And this year, it will coincide with a second smaller meteor shower, the Alpha Capricornids… [+2485 chars]"
+        },
         {
             "source": {
                 "id": "google-news",
@@ -17,16 +56,42 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Space.com",
-            "title": "Sierra Space won't stop blowing up inflatable space station modules (video) - Space.com",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnNwYWNlLmNvbS9zaWVycmEtc3BhY2Utc2Vjb25kLWZ1bGwtc2NhbGUtYnVyc3QtdGVzdC12aWRlb9IBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-28T14:00:09Z",
+            "author": "William Harwood",
+            "title": "SpaceX returns to flight with weekend Falcon 9 triple header - CBS News",
+            "description": "SpaceX put 67 Starlinks into orbit while Boeing carried out successful tests of its Starliner capsule.",
+            "url": "https://www.cbsnews.com/news/spacex-returns-to-flight-with-weekend-falcon-9-triple-header/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/28/53837fc8-572f-4cfe-81ce-a3af7f6c83dc/thumbnail/1200x630/39c9fd6a2f2680cd1c56062e8ce5179a/072824-engine-burn.jpg?v=5501038cbc281520ff9fdc308faab7dc",
+            "publishedAt": "2024-07-28T15:17:26Z",
+            "content": "SpaceX successfully launched three Falcon 9 rockets in rapid-fire fashion over the weekend, putting 67 Starlink satellites into orbit within three days of winning approval from the Federal Aviation A… [+7604 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Big Think"
+            },
+            "author": "Danielle Randall Doughty | Department of Chemistry",
+            "title": "Researchers detect a new molecule in space - Big Think",
+            "description": "Such discoveries help researchers better understand the development of molecular complexity in space during star formation.",
+            "url": "https://bigthink.com/hard-science/2-methoxyethanol-space/",
+            "urlToImage": "https://bigthink.com/wp-content/uploads/2024/07/new-molecule-in-space-00-e1722179373654.png?w=900&h=507&crop=1",
+            "publishedAt": "2024-07-28T15:14:35Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Meredith Garofalo",
+            "title": "Sierra Space won't stop blowing up inflatable space station modules (video) - Space.com",
+            "description": "\"We now know it's possible to equal or surpass the total habitable volume of the entire International Space Station, in a single launch.\"",
+            "url": "https://www.space.com/sierra-space-second-full-scale-burst-test-video",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jvNUJwwdBWUZR2Sftsjj3m-1200-80.jpg",
+            "publishedAt": "2024-07-28T14:00:09Z",
+            "content": "Sierra Space has announced the completion of another full-scale burst test in which the company exploded one of its inflatable modules being developed as part of efforts to build a commercial space s… [+3406 chars]"
         },
         {
             "source": {
@@ -39,6 +104,19 @@
             "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc3BhY2VuZXdzLmNvbS9zcGFjZXgtdG8tbW92ZS1kcmFnb24tc3BsYXNoZG93bnMtYmFjay10by13ZXN0LWNvYXN0L9IBAA?oc=5",
             "urlToImage": null,
             "publishedAt": "2024-07-28T13:07:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Space.com",
+            "title": "What it takes to keep NASA's flagship Chandra observatory flying for a quarter century - Space.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnNwYWNlLmNvbS9jaGFuZHJhLTI1LXllYXJzLWNlbGVicmF0aW9uLW5hc2HSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-28T13:00:01Z",
             "content": null
         },
         {
@@ -56,16 +134,29 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "ScienceAlert"
             },
-            "author": "The Associated Press",
-            "title": "Two meteor showers will flash across the sky around the same time in late July - The Associated Press",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2RvdWJsZS1tZXRlb3Itc2hvd2Vycy1zb3V0aGVybi1kZWx0YS1hcXVhcmlpZC0xMzRkYzQ0YjRmNDQxYWM5NGU3MGNiNDUyY2RjOWQ4N9IBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-28T11:05:00Z",
-            "content": null
+            "author": "Jess Cockerill",
+            "title": "Ancient Viruses May Have Given Our Ancestors The Edge to Evolve - ScienceAlert",
+            "description": "Scientists have found the remnants of genomes left by ancient, giant viruses within the DNA of a single-celled organism with which complex organisms like ourselves share a common ancestor.",
+            "url": "https://www.sciencealert.com/ancient-viruses-may-have-given-our-ancestors-the-edge-to-evolve",
+            "urlToImage": "https://www.sciencealert.com/images/2024/07/GettyImages-758308505.jpg",
+            "publishedAt": "2024-07-28T10:03:26Z",
+            "content": "Scientists have found the remnants of genomes left by ancient, giant viruses within the DNA of a single-celled organism with which complex organisms like ourselves share a common ancestor.\r\nThe disco… [+3096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Patience Asanga, Nicoletta Lanese",
+            "title": "What's the heaviest weight a person can lift? - Livescience.com",
+            "description": "The world's strongest lifters on record won acclaim for hoisting thousands of pounds into the air at one time. Could they ever go heavier?",
+            "url": "https://www.livescience.com/health/exercise/whats-the-heaviest-weight-a-person-can-lift",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rmQdyZdzL9LoaXXYX8EDJ-1200-80.jpg",
+            "publishedAt": "2024-07-28T10:00:12Z",
+            "content": "The world was in awe when British strongman Eddie Hall deadlifted 1,102 pounds\r\n (500 kilograms) at the World Deadlift Championships in 2016. Hall was the first person to break the half-ton barrier a… [+5132 chars]"
         },
         {
             "source": {
@@ -78,6 +169,19 @@
             "url": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9ldGltZXMvdHJlbmRpbmcvbmFzYS13YXJucy1vZi1hLTM4MC1mdC1hc3Rlcm9pZC1tb3ZpbmctdG93YXJkcy1lYXJ0aC1hdC1hLWJyZWFrbmVjay1zcGVlZC1vZi1hYm91dC0yOTAwMC1rbS9oci9hcnRpY2xlc2hvdy8xMTE5MDI0NzUuY21z0gGwAWh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2V0aW1lcy90cmVuZGluZy9uYXNhLXdhcm5zLW9mLWEtMzgwLWZ0LWFzdGVyb2lkLW1vdmluZy10b3dhcmRzLWVhcnRoLWF0LWEtYnJlYWtuZWNrLXNwZWVkLW9mLWFib3V0LTI5MDAwLWttL2hyL2FtcF9hcnRpY2xlc2hvdy8xMTE5MDI0NzUuY21z?oc=5",
             "urlToImage": null,
             "publishedAt": "2024-07-28T08:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Simple Flying",
+            "title": "SpaceX Might Bring Back NASA Astronauts Stranded On ISS By Boeing Starliner Failures - Simple Flying",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9zcGFjZXgtbmFzYS1hc3Ryb25hdXRzLWlzcy1ib2Vpbmctc3RhcmxpbmVyLWZhaWx1cmVzL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-28T04:37:00Z",
             "content": null
         },
         {
@@ -95,29 +199,42 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "SciTechDaily"
             },
-            "author": "The Daily Beast",
-            "title": "These Chimps Could Say ‘Mama’ Fluently, Scientists Reveal - The Daily Beast",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL3RoZXNlLWNoaW1wcy1qb2hubnktYW5kLXJlbmF0YS1jYW4tc2F5LW1hbWEtZmx1ZW50bHktc2NpZW50aXN0cy1yZXZlYWzSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-27T18:07:44Z",
-            "content": null
+            "author": null,
+            "title": "New Study: These Bizarre Blood-Sucking Fish Have a “Jaw-Dropping” Evolutionary Origin - SciTechDaily",
+            "description": "These invasive, blood-sucking fish \"may hold the key to understanding where we came from.\" One of only two jawless vertebrates, sea lampreys, which are causing significant damage to Midwestern fisheries, are also aiding scientists in understanding the origins…",
+            "url": "https://scitechdaily.com/new-study-these-bizarre-blood-sucking-fish-have-a-jaw-dropping-evolutionary-origin/",
+            "urlToImage": "https://scitechdaily.com/images/Sea-Lamprey-1.jpg",
+            "publishedAt": "2024-07-27T21:22:16Z",
+            "content": "ByNorthwestern UniversityJuly 27, 2024\r\nResearch on sea lampreys offers insights into vertebrate evolution, highlighting similarities in stem cell gene networks with jawed vertebrates and explaining … [+7015 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Daily Beast"
             },
-            "author": "WXII12 Winston-Salem",
+            "author": "Ben Sherwood",
+            "title": "These Chimps Could Say ‘Mama’ Fluently, Scientists Reveal - The Daily Beast",
+            "description": "A re-examination of recordings made in Italy and Florida is making scientists re-think what we understand about our nearest relatives.",
+            "url": "https://www.thedailybeast.com/these-chimps-johnny-and-renata-can-say-mama-fluently-scientists-reveal",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1316,w_2340,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1722102709/Screenshot_2024-07-27_at_1.51.31_PM_vqzqou",
+            "publishedAt": "2024-07-27T18:07:44Z",
+            "content": "Dr. Cornelius and Caesar from Planet of the Apes were not alone. Two chimpanzees could say mama, according to researchers analyzing old videos.\r\nThe discovery about the chimps Johnny and Renata offer… [+2541 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WXII12 Winston-Salem"
+            },
+            "author": null,
             "title": "NASA telescope spots a 'super Jupiter' that takes more than a century to go around its star - WXII12 Winston-Salem",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lnd4aWkxMi5jb20vYXJ0aWNsZS9uYXNhLXRlbGVzY29wZS1zcG90cy1zdXBlci1qdXBpdGVyLXRoYXQtdGFrZXMtbW9yZS10aGFuLWEtY2VudHVyeS10by1nby1hcm91bmQtaXRzLXN0YXIvNjE3MTYwNjTSAQA?oc=5",
-            "urlToImage": null,
+            "description": "Scientists had long suspected a big planet circled this star 12 light-years away, but not this massive or far from its star.",
+            "url": "https://www.wxii12.com/article/nasa-telescope-spots-super-jupiter-that-takes-more-than-a-century-to-go-around-its-star/61716064",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1432981225-66a527b9a0f7a.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
             "publishedAt": "2024-07-27T17:06:00Z",
-            "content": null
+            "content": "CAPE CANAVERAL, Fla. (AP) A \"super Jupiter\" has been spotted around a neighboring star by the Webb Space Telescope and it has a super orbit.\r\nRelated video above: First photo from Japan's moon lander… [+2454 chars]"
         },
         {
             "source": {
@@ -144,19 +261,6 @@
             "urlToImage": "https://www.masslive.com/resizer/v2/C3ATGJHEEZHE7ER4BFTQ3TAFEU.JPG?auth=4746c293f7208197e152ed01479920d9e6d12e5de2b984077a6e1cc792a57d39&width=1280&quality=90",
             "publishedAt": "2024-07-27T14:45:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PsyPost"
-            },
-            "author": "Eric W. Dolan",
-            "title": "Scientists uncover potential genetic mechanisms behind the sex bias observed in autism - PsyPost",
-            "description": "Increased dosage of the Ube3a gene causes sex-specific differences in brain connectivity and behavior in mice, potentially explaining why autism is more prevalent in males.",
-            "url": "https://www.psypost.org/scientists-uncover-potential-genetic-mechanisms-behind-the-sex-bias-observed-in-autism/",
-            "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/07/dna-double-helix.jpg",
-            "publishedAt": "2024-07-27T14:02:40Z",
-            "content": "A new study published in Science Advances has shed light on the complex mechanisms behind the sex differences observed in autism. The research suggests that increased dosage of a gene known as Ube3a … [+7007 chars]"
         },
         {
             "source": {
@@ -235,19 +339,6 @@
             "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2024/07/tos-l-artemis-media-day2-2543.jpg?w=1024&h=696",
             "publishedAt": "2024-07-27T11:05:31Z",
             "content": "Loading your audio article\r\nKENNEDY SPACE CENTER The launch clock isnt set yet, but the hardware is lined up for what would become the most powerful rocket to ever send humans into space during a moo… [+12432 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Futurism"
-            },
-            "author": "Sharon Adarlo",
-            "title": "Retired Astronaut Admits Boeing's Starliner Has Trapped Crew in Space - Futurism",
-            "description": "A retired astronauts says NASA thinks it's too risky bring back the two stranded astronauts back to Earth using the Boeing Starliner.",
-            "url": "https://futurism.com/the-byte/retired-astronaut-boeing-starliner",
-            "urlToImage": "https://wordpress-assets.futurism.com/2024/07/retired-astronaut-boeing-starliner.jpg",
-            "publishedAt": "2024-07-27T11:00:05Z",
-            "content": "\"Of course they dont feel comfortable putting them in the vehicle.\"\r\nAir Lock\r\nWith two NASA astronauts still stranded in space for weeks, officials at the space agency have insisted that the trouble… [+2562 chars]"
         },
         {
             "source": {
@@ -356,123 +447,6 @@
         {
             "source": {
                 "id": null,
-                "name": "KVIA El Paso"
-            },
-            "author": "Gabby Hernandez",
-            "title": "El Pasoans report seeing a bright light in the sky, describing it as a possible meteor sighting - KVIA",
-            "description": "EL PASO, Texas (KVIA) -- El Pasoans report seeing a bright light in the sky, with some saying it's a meteor. Daniel Paulus, is one of the many El Pasoans that experienced this rare sighting and here's how he describes it: \"It was a myriad of colors. A friend …",
-            "url": "https://kvia.com/news/el-paso/2024/07/26/el-pasoans-report-seeing-a-bright-light-in-the-sky-describing-it-as-a-possible-meteor-sighting/",
-            "urlToImage": "https://kvia.b-cdn.net/2024/07/UqEvOkgt-Capture.jpg",
-            "publishedAt": "2024-07-27T01:41:15Z",
-            "content": "EL PASO, Texas (KVIA) -- El Pasoans report seeing a bright light in the sky, with some saying it's a meteor. Daniel Paulus, is one of the many El Pasoans that experienced this rare sighting and here'… [+892 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "westsiderag.com"
-            },
-            "author": "West Side Rag",
-            "title": "Bat Love on the Upper West Side - westsiderag.com",
-            "description": "Eastern red bat in Central Park. Photograph by Bruce Yolton. By Bonnie Eissner I’ve long relished Central Park for its",
-            "url": "https://www.westsiderag.com/2024/07/26/bat-love-on-the-upper-west-side",
-            "urlToImage": "https://www.westsiderag.com/wp-content/uploads/2024/07/Eastern-red-bat-in-Central-Park-by-Bruce-Yolton-e1722034839368.jpeg",
-            "publishedAt": "2024-07-26T22:58:05Z",
-            "content": "Eastern red bat in Central Park. Photograph by Bruce Yolton.\r\nBy Bonnie Eissner\r\nIve long relished Central Park for its biodiversity, especially its breathtaking flowers and trees and beautiful birds… [+6660 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AOL"
-            },
-            "author": "Reuters",
-            "title": "SpaceX, NASA to launch Crew-9 mission next month - AOL",
-            "description": "The announcement comes a day after the Federal Aviation administration cleared SpaceX's Falcon 9 rocket to return to space following a rare mid-flight...",
-            "url": "https://www.aol.com/news/spacex-nasa-launch-crew-9-221526204.html",
-            "urlToImage": "https://media.zenfs.com/en/aol_reuters_29/5654da08e5284af0916758993d74ffe9",
-            "publishedAt": "2024-07-26T22:34:03Z",
-            "content": "(Reuters) -SpaceX and NASA said on Friday they plan to launch the space agency's Crew-9 mission to the International Space Station (ISS) no earlier than Aug. 18.\r\nThe announcement comes a day after t… [+728 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": null,
-            "title": "Here's How to See 6 Planets in the Sky at Once in the Upcoming Planet Parade - CNET",
-            "description": "Determined skygazers will be able to see Saturn, Neptune, Uranus, Jupiter, Mars and Mercury.",
-            "url": "https://www.cnet.com/science/you-can-spot-6-planets-in-the-sky-at-once-in-aug-23-planet-parade/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/a05e6d636b2708caa2621d8558b133d7e52e3250/hub/2024/06/14/b4a4d563-4c86-4d28-8f95-efcee2055f15/planet-parade-2-1496124138.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-07-26T22:18:00Z",
-            "content": "Did you miss the June 3 planet parade, when six planets lined up in the sky? A second chance is coming. In August, when stargazers once again will have the opportunity to see six planets in the sky a… [+5867 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Interesting Engineering"
-            },
-            "author": "Kapil Kajal",
-            "title": "Aerosols, water vapor from Tonga eruption cooled Earth, researchers say - Interesting Engineering",
-            "description": "New research challenges the link between the 2022 Hunga Tonga volcano eruption and the record-breaking global temperatures in 2023 and 2024.",
-            "url": "https://interestingengineering.com/science/hunga-tonga-volcano-cooled-earth",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2024/05/Vol.jpg",
-            "publishedAt": "2024-07-26T22:13:00Z",
-            "content": "The research said that, historically, large volcanic eruptions have had significant cooling effects on the global climate by blocking sunlight with their aerosols. \r\nThe remarkable two-day event, whi… [+772 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medical Xpress"
-            },
-            "author": "Amanda Morris",
-            "title": "New study shows 'dancing molecules' can regenerate cartilage in 3 days - Medical Xpress",
-            "description": "In November 2021, Northwestern University researchers introduced an injectable new therapy, which harnessed fast-moving \"dancing molecules,\" to repair tissues and reverse paralysis after severe spinal cord injuries.",
-            "url": "https://medicalxpress.com/news/2024-07-molecules-regenerate-cartilage-days.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/dancing-molecules-heal.jpg",
-            "publishedAt": "2024-07-26T20:03:01Z",
-            "content": "In November 2021, Northwestern University researchers introduced an injectable new therapy, which harnessed fast-moving \"dancing molecules,\" to repair tissues and reverse paralysis after severe spina… [+7246 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Meredith Garofalo",
-            "title": "Sun blasts out most powerful flare of current solar cycle, sends massive coronal mass ejection into space (video) - Space.com",
-            "description": "The flare was even bigger than a previous one that triggered May's global aurora storm.",
-            "url": "https://www.space.com/sun-solar-flare-far-side-x14-july-23",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rZHrGSfDnUbkoQr7CedrFT-1200-80.jpg",
-            "publishedAt": "2024-07-26T19:29:51Z",
-            "content": "On Tuesday (July 23), Europe's Solar Orbiter (SolO) spacecraft witnessed an extremely powerful X14 class solar flare erupt from the far side of the sun.\r\nAlthough it was not the most powerful flare e… [+2466 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Business Insider",
-            "title": "What it was like to live in NASA'S CHAPEA Mars simulation for a year - Business Insider",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbmFzYS1jaGFwZWEtbWFycy1zaW11bGF0aW9uLW1pc3Npb24tb25lLXJvc3MtYnJvY2t3ZWxsLWV4cGVyaWVuY2UtMjAyNC030gFsaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9uYXNhLWNoYXBlYS1tYXJzLXNpbXVsYXRpb24tbWlzc2lvbi1vbmUtcm9zcy1icm9ja3dlbGwtZXhwZXJpZW5jZS0yMDI0LTc_YW1w?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-26T18:18:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Newsweek",
-            "title": "'Tremendous' NASA Video Shows CO2 Spewing From US Into Earth's Atmosphere - Newsweek",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9uYXNhLXZpZGVvLWNhcmJvbi1kaW94aWRlLWNvMi1lbWlzc2lvbnMtMTkyOTYyMtIBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-26T18:14:19Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Earth.com"
             },
             "author": null,
@@ -482,19 +456,6 @@
             "urlToImage": "https://cff2.earth.com/uploads/2024/07/26115652/galaxy-cluster-collision_dark-matter_normal-matter_Caltech_1m.jpg",
             "publishedAt": "2024-07-26T18:08:21Z",
             "content": "Astronomers have uncovered the secrets behind an epic collision of two massive galaxy clusters, showing that dark matter and regular matter can actually separate during these huge events.\r\nLocated bi… [+5117 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Jennifer Ouellette",
-            "title": "Astronomers find first emission spectra in brightest GRB of all time - Ars Technica",
-            "description": "Chance that first detected emission line is a noise fluctuation is one in half a billion.",
-            "url": "https://arstechnica.com/science/2024/07/still-the-boat-fermi-telescope-reveals-new-feature-in-rare-gamma-ray-burst/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/BOAT1-760x380.jpg",
-            "publishedAt": "2024-07-26T18:00:13Z",
-            "content": "Enlarge/ A jet of particles moving at nearly light-speed emerges from a massive star in this artists concept of the BOAT.\r\n28\r\nScientists have been all aflutter since several space-based detectors pi… [+4525 chars]"
         },
         {
             "source": {

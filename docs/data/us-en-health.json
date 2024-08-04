@@ -1,71 +1,240 @@
 {
     "status": "ok",
-    "totalResults": 45,
+    "totalResults": 50,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS News 8"
+            },
+            "author": null,
+            "title": "COVID-19 positivity rate reaches second highest ever recorded - CBS News 8",
+            "description": "Just like the flu shot that morphs every year, the new variants will be the focus of the next vaccine that will be ready this fall.",
+            "url": "https://www.cbs8.com/video/news/health/509-8bba0b2d-8f11-478b-a117-256a64faf4da",
+            "urlToImage": "https://media.cbs8.com/assets/KFMB/images/3e8a749f-9fdd-4d09-8376-79dc70a8d52d/20240803T002852/3e8a749f-9fdd-4d09-8376-79dc70a8d52d_1140x641.jpg",
+            "publishedAt": "2024-08-03T00:24:00Z",
+            "content": "Like many content publishers, we provide online advertising services that use cookies and similar technologies to collect information about your device and online activity on our sites, apps and othe… [+2285 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "Aspirin may be linked to lower risk of colorectal cancer, new study suggests - Fox News",
+            "description": "A new study has linked aspirin to a reduced risk of colorectal cancer in certain groups of people. Researchers and doctors share the findings and potential reasons.",
+            "url": "https://www.foxnews.com/health/aspirin-linked-lower-risk-colorectal-cancer-new-study-suggests",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/woman-taking-aspirin.jpg",
+            "publishedAt": "2024-08-02T23:35:00Z",
+            "content": "Aspirin is widely known for its heart attack\r\n prevention benefits, but a new study has also linked the common drug to a reduced risk of colorectal cancer.\r\nThe study analyzed data from 107,655 men a… [+3430 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Neuroscience News",
+            "title": "Unraveling Schizophrenia: Genetics and Environmental Insights - Neuroscience News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxaEJhZ0tySXlEaEZtdmJ2SWdfNWRQR0p0UFQycEZZUWpYaDV6OEFNWG1CME95WDQzcGJhRDFxN2J0ekxVeGE5UVJndXptQzlvN0FteXRDZGNCS2VIMXZ2NzN4SkVkYVFJTzZ3eExUX2pOZXJyelI2TXJn?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-02T22:21:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BuzzFeed",
+            "title": "Jaw Experts Are Sharing The 7 Things They Never, Ever Do, And You Shouldn't Either - BuzzFeed",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pRUpaa194YkdXZkdNei1OMDdiYl95V2lyZnJYZl9Jdng3YjNTM2txNnRrREtOUUY5QjJYUUs2MEQ5aDhtbHV6d0tKSDJhYk5RTFRXYzVFVmtmZ3d5MFpRRGtYc3llZHUzeDVIUWJVX3pjZw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-02T22:16:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "WGN TV Chicago",
+            "title": "DuPage County resident tests positive for West Nile virus - WGN TV Chicago",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVm1CRzg0UFlUWjVNWktESFI5Tlc3eTBwLVdTa0VDZ0ZqY3p1Z280cjFvOGlGUmthOU5TZHdoQU9Ha0dZMTJfSDAzajh0SS1WSm5Tbm5QRkpyOXFYWi1fZS1iX2dWSVJHLWR4eHl5UExfcDZLUGg2VHpSY0U3MGxDVk9YLVZXSjJiV0xqVkUxYzNUeGJyeGFtb1lGd9IBoAFBVV95cUxPU2pRYWJNQWFsS0M2WnlrVl9jVDRDYVllT3hDLUEyMGFFcGZaZ3JmRzNRWEZwUmVjaEVNTWlsdkdXUElCemhvb3VhUnZvcm9CeVdRVl9BUjJlNVBSYzN5cDBsSVg1U0RaYThvdWdaam5UMmhlb3BkOU5JcE1TNzM2SDM0Ykx0ZWJSTVdhOURjd0cxd0RUVGhCbTZ4VVhJT2k5?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-02T21:43:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "WPTZ",
+            "title": "Potentially dangerous mosquito-borne disease detected in Northern Vermont - WPTZ",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVJFMjQzZmVNbDFGajZMUzhnbWIyaC1tczA0c0FLVGFsNUF6Z25LazdFT01obzB4X3RrSHItQTl3MTJTOHp3Yk5SejBZUVY0bllCRVBTM2I4YUcyMFFQUWNVTXd3aTZMRVV4eWtLMjNkMGRYWHYzOURPYjR1ellOZWRJSTU4dVVR?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-02T20:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Gizmodo",
+            "title": "Ozempic’s Older Sibling Might Slow Down Alzheimer’s - Gizmodo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTFvdUQtMUV4RXFKTzF6VnliQk5JM005cHhtSnBkTjN0M2Y3bndQcUxiUFk1Q3BkWnZJaUh0M21qU1dDeTdhLVQydFdabWNhVHlPVFl3THA1XzlxcGx5SjloRUppU3VwSjNKaThPN09pWTZTZzIzbDNfN2hvN2NEc2hCQll1b2M?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-02T20:31:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Study Finds",
+            "title": "Eating well and exercising may be as effective for treating depression as going to therapy - Study Finds",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3BlY2hIX1NrSHpCSFQyNjVPcm9mOEZwVEhZTXZXZVptNi1Fc2FHcmJfcF9fZ25qeXRZcFdPRG1IQnZHSENEVTdYWEFHc0JRWnRfSmFWSTRORlFiX0lwci1fX0VJSWJqN0xvTW83MU1VMGVHZ3BuV3NlMVgzMERFaE13TzlWUTlXSHc?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-02T18:17:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Santa Rosa Press Democrat",
+            "title": "California music festival hit with potentially deadly fungal outbreak as cases rise across the state - The Santa Rosa Press Democrat",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhpQ0laQTJoT2VsYWJ5Q0VkZFdvdHJZOWFzMmxDa0RYcUtUeURLRnhVa3U2cDBaRDNobzFJYllxeWN1blF6WnAxUFpaZDljbXZMVkMycGNkbEZpbXFQOWxnNmRnMENwM3BxZEM5dXBmYTRfS01CcXJJVGVURllLSWg0Tk1TZ0FyMFdxcTROTXR4a0N6N3VCNWZXMHc2X2ZzZFZ6U0lYYXBLdmVzQ0JPWDB0dmR2aklRelE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-02T17:13:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Rebecca Corey",
+            "title": "78% of Americans aren't worried about COVID despite rising cases, Yahoo News/YouGov poll reveals - Yahoo Life",
+            "description": "Public health experts share their thoughts on why most Americans are now unfazed by the prospective of getting sick this summer.",
+            "url": "https://www.yahoo.com/lifestyle/78-of-americans-arent-worried-about-covid-despite-rising-cases-yahoo-newsyougov-poll-reveals-165058344.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sEb1bHk.R3Es1o1VGQPdCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-03/c31aeae0-a81a-11ec-93f1-105861d69feb",
+            "publishedAt": "2024-08-02T16:50:59Z",
+            "content": "COVID-19 infections are on the rise in at least 35 U.S. states and territories, but that isnt registering with most Americans. Despite a spike in COVID cases, a total of 78% of Americans describe the… [+3652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": null,
+            "title": "COVID infections rise in Oregon, West Coast - OregonLive",
+            "description": "Dr. Paul Cieslak, Oregon Health Authority’s medical director, said infections have been on the upswing in Oregon since April.",
+            "url": "https://www.oregonlive.com/coronavirus/2024/08/covid-infections-rise-in-oregon-west-coast.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/v2/C4M5HZTDFBFKZF7V2Z6H7O2KHM.tif?auth=3b5f559a6f629b8193df62be86b575a6b07d5ba94462d8c748690013be686f5f&width=1280&quality=90",
+            "publishedAt": "2024-08-02T16:27:00Z",
+            "content": "Another COVID outbreak is sweeping parts of the country, with infections increasing on the West Coast.\r\nThe summer spread has become a yearly trend as temperatures rise, fostering the spread of the v… [+2772 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": null,
+            "title": "Cancer rates are on the rise for younger generations — and obesity may be a big reason why - Salon",
+            "description": "Cancer rates in Millennials and Gen X have risen sharply along with obesity rates",
+            "url": "https://www.salon.com/2024/08/02/cancer-rates-are-on-the-rise-for-younger-generations--and-obesity-may-be-a-big-reason-why/",
+            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/08/cancer_patient_667825028.jpg",
+            "publishedAt": "2024-08-02T16:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Kristen Jordan Shamus",
+            "title": "Infected with measles, a Wayne County resident exposed others in Canton, Livonia - Detroit Free Press",
+            "description": "A Wayne County resident infected with measles exposed others to the extremely contagious virus at sites in Canton and Livonia July 25-July 29.",
+            "url": "https://www.freep.com/story/news/health/2024/08/02/michigan-measles-2024-wayne-county-livonia-canton-july/74645560007/",
+            "urlToImage": "https://www.freep.com/gcdn/-mm-/c1faf534ebabac36dd3302cd1523f8ca1d4277da/c=0-527-2384-1874/local/-/media/2014/12/10/DetroitFreePress/DetroitFreePress/635538154268385880-measles.jpg?width=2384&height=1347&fit=crop&format=pjpg&auto=webp",
+            "publishedAt": "2024-08-02T16:04:30Z",
+            "content": "A Wayne County resident infected with measles exposed others to the extremely contagious virus at two medical sites in Canton and Livonia July 25-July 29, Wayne County Public Health officials said Fr… [+6407 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
         {
             "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
             "author": "Yahoo Life",
-            "title": "78% of Americans aren't worried about COVID despite rising cases, Yahoo News/YouGov poll reveals - Yahoo Life",
+            "title": "Can you catch E. coli in the Seine? Is there a COVID outbreak? How is Colin Jost's foot? Your Olympics health questions answered. - Yahoo Life",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWN5VUdaZGNiOHBGY2pScVNKZHA5Y3JJLVVmZWxRb3I5dm5KamJGWTY2RGl4VTBjZ3E1SldLenZ5bTBTMkYxaDZDbktITVVjNnlOS2lDUld5MmdzOU0zOVl5Y0pmRGJ3Q0dCYjR3VnM2aDdEZzU3SFE5VmRpWU9RRTRMSG81NG1JLU5wSW5VZmcwejJtUnd2TFpJT3NoUXZUbXNOYno0SzBEb05FQnI0b053Q0hZTTF6Ri1LLVNzaDRhc244WkhzMF9TRFl3cVR5Zk5GOUJ3?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVmFKUHctdE1FN0l2eVdUdkNDOWF2V2JMVDh0eVBySUJBMjNab2dJVVQ0OW5hR3p1YUpGemxDakhlbnRCRmwxckFna0tYb2JvcDRnR3ZmZS1ScTZvdWhTbVB1OVBjMEJIVmkyM21WWkxmV09VSDhwZFQ4S2EybVhOVTFWVUxqWVItNmlKYUdOaEM0bjBsTXJFNThMZkRYekZfaXhpWFQ5REZvX0J1cDc5UFdydG9yblpxS2RkUUR0aW1tQ1NER2dXSzVMNzVLdFFaOUdvbEJUSFY4WFJqM3c4NDVEZHhEMVNDaW9IQ0N3Sm13dmlya1g3ajEtUlpDeTA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-08-02T16:50:59Z",
+            "publishedAt": "2024-08-02T15:34:54Z",
             "content": null
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "medical-news-today",
+                "name": "Medical News Today"
             },
-            "author": "Detroit Free Press",
-            "title": "Infected with measles, a Wayne County resident exposed others in Canton, Livonia - Detroit Free Press",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDdDUjEyM21KblJjRUhvVlJFc3RnUmJIN2owSk4tV1E0Ulg1WlB4My02b25FTV9QRXBTd29lZjZYQjFrbnBlRTVlQ19fRkpnZEV0SWpQSWxHOEJkWEc0Y29Vc2pjUENxOWtST0dYZmtTOEtnVlhmVVAyVE50VGRZcWVwNlhEeFE3RUJtN0FrcU9xdXNSb1VCbjJOTWpodnUyQXpjaWI1ZlljNGE5Z2Z4aXE0S2NKUEdVcmc?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-02T16:04:30Z",
-            "content": null
+            "author": "Katharine Lang",
+            "title": "Alzheimer's: Fish oil supplements may help reduce risk in some people - Medical News Today",
+            "description": "Fish oil supplements may help reduce the risk of Alzheimer’s in older people with a gene that increases risk, a new study has found.",
+            "url": "https://www.medicalnewstoday.com/articles/fish-oil-benefit-people-high-risk-genes-alzheimers-disease",
+            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/08/fish-oil-Stocksy_txpa99ea187yEz300_Medium_3304631-Facebook.jpg",
+            "publishedAt": "2024-08-02T15:22:43Z",
+            "content": "<ul><li>Over the years, many claims have been made for the health benefits of fish oils.</li><li>Now, a study has found that taking fish oil supplements in later life could help reduce the risk of Al… [+6879 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "New York Post"
             },
-            "author": "Daily Mail",
-            "title": "Doctors reveal how many calories men and women burn during sex - and it is NOT equal - Daily Mail",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQWd5THhDSF9QVTdPQjdhQm0xcXJqWGVPWmNEb01VN293VWNybzV3S1RvSE93Nnl0cU9PeUVaOUh6YmdGem1qYTI4QkZkemYwNEs1cG5WenpvQm9tcGJzN0p4aFo0QTVkSnZTYWEzcnJlQ1ZiT3FNamstUl9TbXoxWUNIRGhDME9lTnpPYlRNWkF5SlBnNlVZUE5aSms2NjhMaXRHLWdtMW04Zm5KVXfSAbMBQVVfeXFMUFFkQlVSUjZramMzX3VIRHJOVmNhVEZITDZzNzlZTXFVYnRvRjRHVlkzaDU5d3hxQVljTHFjcHlpSUY2MVRmTGVfMDktRERGMEJialg2M2szbWNWSkxUNjl2VUNZQU5BYXR6b1duVE1xNVVIV3Q1MHRDWVItX2JIMDkyTHZrT3czZjNUWVQwZE5hRkxUaW4weGZqYVlWMXpmYWtENERlNFRQVUd4VG1nN1pCQTQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-02T15:40:19Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Daily Mail",
-            "title": "Texas mom goes BLIND after making common mistake with her contact lenses - as she urges others to beware - Daily Mail",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUdGU1ZpVFFtMTExLVp4WGFZeE04WTViLXMtS2ZEZmhlbC1sLWtqOHMzN3lzb0pOUDAwbWpJYzFSY1AzNlZaWHhad0dvWUJLdDItYXQyejJVVDhydmtyblZkMGhZUmVabzZBdzFRREMwelpRYXRtOTZnM0g0Z0ktUkFwZEFRZkFyQXFNcHpIVmp5TFVMMElSeUpGeVnSAaIBQVVfeXFMTzF5aDdOSXRmN0VhbEgtdjJOZXZfa2otcXVsWFRDaVV6QkdUU205R1lSM2hHWFFuQ19yUkNvM3BRYUxvWm1kYUJDTzNPc0hyTnltYUxTZTk5TTlETnBWNnNSWldheXdWemxnWHV1TEduM05MNmlUMlVJVXg3T2dFZ1JvZThvUHJwWUpWRnlqQ3lsTjBsdTh2cG5OTkY4Z1VJOFZB?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-02T15:35:49Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "New York Post ",
+            "author": "Hannah Sparks",
             "title": "How serious is ‘moon face’? Here’s when to worry about cortisol levels, according to doctors - New York Post ",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSndseWExTzNDS0xzYjl2S0gxWklJcWlHeXJxQWhvTnY0OUpCZEcwSnVGcUh2dm4wTkRkNnpnUTBXWUV5NmF5cUZ2YmpxZTk5NWtqMG4wZnZ4YUdVcHJwby16MU9ZdHcyV2FJTWIxY3RzRklsbXNiX1pXcGVCeHJaLVBEQS0wYUxYdUtGN0oxY1ZwNTBpYkNTNw?oc=5",
-            "urlToImage": null,
+            "description": "The beauty buffs of TikTok have a new common enemy in cortisol.",
+            "url": "https://nypost.com/2024/08/02/lifestyle/what-is-moon-face-heres-when-to-worry-about-cortisol/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/08/moon-face-cortisol-face-tiktok-trend-comp.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-08-02T15:03:00Z",
-            "content": null
+            "content": "Its not amore hitting your eye.\r\nThe beauty buffs of TikTok have a new common enemy in cortisol. A condition dubbed moon face has struck fear in the faces of stressed-out young adults who now believe… [+4937 chars]"
         },
         {
             "source": {
@@ -82,6 +251,19 @@
         },
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Newsmax",
+            "title": "Little-Known Warning Sign of Endometrial Cancer - Newsmax",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdlNEazhBZk1ZLVRqMkZvVldjWkV1c2hFVDExamlfZmhuWXVBY2lYVHMxR1VpcjRfdnRTUGFQSnVDNmRONEtfbTgyZVRjS2x4d0RoMjFLRDFQNkF2Z2V4dG4zX0VWc25rc0JadEgteERRckpzZWNkRTRQekNjVENqb05xZ1V2ZFFlYlQwUGdYYUdEX1I50gGaAUFVX3lxTFBlZDZTWXJfaXVHaXJoTnlLRW1HSGFtaFR5Ty1jRW9PSTRBTkk4QUFyQ3d0ZlBsellvclBQdDNyTndrX0ZQSE9feXczZTJ2dkpWbFlTVVVIbkgyX0QyU20yRkJITzQ5X0FmQmw1SmJKbWhhcjVOSjQ1ZkRkNS1NTEwtTGozSkROVjZDUUF0cU9oN28zMDhVMlp4MUE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-02T13:43:16Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -92,6 +274,32 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3UIBYWHKQRDSPBMZZEPPKJDTPU.jpg&w=1440",
             "publishedAt": "2024-08-02T12:45:08Z",
             "content": "Is it true that you cant smell your own breath?\r\nSubscribe for unlimited access to The Post\r\nSubscribe\r\nTikTokkers and others on social media call it noseblindness when you smell an odor so often tha… [+2948 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "South Florida Sun Sentinel",
+            "title": "Your diet may control your risk for Alzheimer’s. Here’s how to keep the disease at bay. - South Florida Sun Sentinel",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEMwbkI1TU9KNGZsWjgweVl1Rjltcmo4ckdqVTdLclVfMVZYLUV4UTltd05VaGdjVzhZLTlwUXpOaXA3SkV0NFNhdGhwVFNBQ2ppWHhsUWluckxZWEFNUHNwbVNWV2E4dWZxdm9GRGxNZEZNaGxQQ1c3UklVMUx0TXlNUFVPYmNybXFuQk9QNjd3MFdybURUamd5X25ORnZuMWYxSmlYTGJVdHc?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-02T11:28:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IFLScience"
+            },
+            "author": "Stephen Luntz",
+            "title": "Heart Attacks And Strokes Fell After COVID-19 Vaccinations In England - IFLScience",
+            "description": "You might want to bookmark this, because you won’t stop seeing lies on social media.",
+            "url": "https://www.iflscience.com/heart-attacks-and-strokes-fell-after-covid-19-vaccinations-in-england-75393",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/75393/aImg/77961/bearded-person-clutching-their-chest-with-both-hands-a-glowing-illustration-of-an-anatomical-heart-superimposed-over-their-hands-meta.jpg",
+            "publishedAt": "2024-08-02T11:25:21Z",
+            "content": "There were fewer heart attacks and strokes in England, adjusting for risk factors like age, after people were vaccinated against COVID-19 than before, a nationwide study has found. Moreover, the bene… [+4609 chars]"
         },
         {
             "source": {
@@ -147,16 +355,16 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "The Spokesman-Review"
             },
-            "author": "The Spokesman Review",
+            "author": "Michael Wright",
             "title": "Washington confirms first case of chronic wasting disease - The Spokesman Review",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmNXdC1DMXdFMWhXMFlxWXowVndfY1lMTTIwWDUxTmdUUWl2UjZ3OHhmUFNRT012V1lrZzlWeUgxWVRhSGh0UFM0YU5Ca3hSMW0tS3hrNTk2dE1TZm83Ym1DOG1qM1lEWGVUbjZKWUFaS3JZNWNya25pcUU2TEl5eVVZZm1ueW9DbUhMSlFRODhyRG4wWmh4WlhKYWJVdw?oc=5",
-            "urlToImage": null,
+            "description": "Washington has its first case of chronic wasting disease.",
+            "url": "https://www.spokesman.com/stories/2024/aug/01/washington-confirms-first-case-of-chronic-wasting-/",
+            "urlToImage": "https://thumb.spokesman.com/C1TmoxeaH5SbKTqQLo6yokdtCok=/1200x630/smart/media.spokesman.com/photos/2024/08/01/650cb90f94bde.image.jpg",
             "publishedAt": "2024-08-02T04:46:53Z",
-            "content": null
+            "content": "Washington has its first case of chronic wasting disease.\r\nThe Washington Department of Fish and Wildlife announced Thursday that it confirmed the states first case of the always-fatal brain disease … [+4652 chars]"
         },
         {
             "source": {
@@ -199,55 +407,16 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Daily Mail",
-            "title": "I'm a dentist - this is the trick I use every night so I can eat as many sugary sweets as I like without tooth - Daily Mail",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd1dmQ2FKQkdrS3B1T2RwQm9HNmZSVEptdmFndnVIVEJadVU3d1VWM1MwS0lZWl9hbTh2YkY2aElBYXh0THVLSVhJRzhnamRUREZIbWJ2dlgyZzh1X2djTGVWRmRmUjJ3WmVmZ2lJekhnbnZCbWZHT09IdFcteVVvUU9qdEVXOXM2TTNNTnhhYkF4UFlRbU9IYm8xcUIyZXpGMzUxVktYWTdWRHkxUGNnb1pZOHc5YjVYUFllWllFQ3JSTURaZkxZLTN4c1pYUHl0Y0HSAdcBQVVfeXFMTXByMUQ3OU9GQ0F0Ti1BRVNBOFNFeUxQUE5QN0RSZEc5TjRiNjF6aGJ5N292Y3FVREVNTGhoYmlYc2F0UjJ3WndyLU50M1FHV1VEaGNhcVlfOVdYOEdpWllaZTMwV1pRY0FkdDhPQWp4MjRwRWptdU95NVhxbnd5X2MtTEk4MU4zMktXUk9iNkp4Q2lBY195Qm12ekR6bDY1dUw3T3JzLUpLZDg5ZFowTThNSGotcE55TDFkb0Y3bEpOOGplUkJjaUVTc0Q2SEhFNGxlRk9uZHc?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-02T00:18:21Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "FOX 11 Los Angeles",
-            "title": "California music festival attendees hospitalized with dangerous fungal infection rapidly spreading across US - FOX 11 Los Angeles",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcXliMVVCbWFVVWo5ZFRrY3FSQXZBMVFwdUxXU01NYXAtT1hpMEpJeENvb1M2Z1duVms2cHZWLWFYUUhWQV9HRmZybXhyZFVjTjZmYkhyb3VnNWxIMXY3dUlCdzJYRFJjbFNZQjNB0gFzQVVfeXFMT0VFLVNHRHBOMjBNR1d5QkJVd05acHZ3SjBsczFac2NMYWVQcDZKTkMyVHBJOVBwNTJ4M2ZaN3Z4bEhmaGlJdU9DLW55UC1EUnNBMGZkbEtZSnBqYUg4eFMxYUp2eV9hellwYkZhbnNfQ3ZrZw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T23:34:24Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "OregonLive"
+                "name": "[Removed]"
             },
-            "author": "Sujena Soumyanath | The Oregonian/OregonLive",
-            "title": "COVID cases in Oregon surging: 4 things you need to know - OregonLive",
-            "description": "While summer is a typical time of year for a surge, this season’s upswing is higher than last year, health authority statistics show.",
-            "url": "https://www.oregonlive.com/coronavirus/2024/08/covid-cases-in-oregon-surging-4-things-you-need-to-know.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/v2/5XVGRECUQVC6TISCZ5UANP6TJE.jpg?auth=43cccd28ae647cb7f27de42f1f09822623c5d3949e1e2fefd68d0998c3e49269&width=1280&quality=90",
-            "publishedAt": "2024-08-01T23:06:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Daily Mail",
-            "title": "Single mom who was given THREE MONTHS to live after she was diagnosed with cervical cancer reveals what saved - Daily Mail",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZV9YYUZmT2oxUGc5UEpFbV9qaXVENFJ4MzUzbi1yVHBBN1gyRGx5VEU2MDFHT0toQ0JRZEZLR3JtM2tsZkZ0ZWloZVFja0R1N0ZzTGhvTmlJT0lYcjN1UGFJdG00S3BNMzJ0cWJqWUswQ2xjbnk0clp5RDNSMlA4UlI1VVgwU1dBdU5DRTROUG9TZHg1V2k2MEFNTWJXZ0x3RTl6M2FUbks4cS1RNHhPZWRGVUtyOHPSAbwBQVVfeXFMTWFhdHM2Rk5EcmZCTGZpc0FmYVZLeHhGTXBFTHFxM09sdzJYZHVRdkJuRk1jV1hNQk5vLW5pcFVDRm9nXzZNY0hQeXlDOXU3Umw4QkJST1J4UkFLeVJzcWFQLUgya3ZaWld5eG1tWVlIMUtnMm82aUJOYVhRd2F4b2RuUjBPZEZBY3ZhcTJGWEIxenFhcWtYMHFzbE9OUW4tei1sRl83VE9hQ0gwSEllVFhZYkxlTXpGUGRJeXU?oc=5",
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2024-08-01T21:56:23Z",
-            "content": null
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -261,32 +430,6 @@
             "urlToImage": "https://komonews.com/resources/media2/16x9/984/986/1x0/90/5695d22e-56c9-4ffc-8bd8-b2fb03218972-53d96da305d54e789799b4eb724dcddclarge16x9_Bat_Logo.jpg",
             "publishedAt": "2024-08-01T20:32:33Z",
             "content": "THURSTON COUNTY, Wash. The Thurston County Public Health and Social Services (PHSS) said it has confirmed the first positive case of rabies in a bat in the county this year.\r\nOn Wednesday, the PHSS r… [+1017 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "WRAL News",
-            "title": "Bacon at breakfast linked to increased dementia risk - WRAL News",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMG5UdE8takJsRVJZMzhTVzBBSHFMeHh6aGxvWUdUcmlvNm0ySEJZTC1Ha0xzaU41TV9KNXVxdUk5SU5JQ096WTdwS1JKMGhIeUo2YnFxRGMwU2tVaUdxbnhieTRBTjhfbk10cWc3Y3ozbHYxeDJLNl9iRHVobUpZQzhkbm0zOEc0ci1XeXowODBSbE3SAUpBVV95cUxNbnF4UDF2TlRZVU5rUUxtSjlqN3VLWmdIZ0l2VTYzN2FPMzZabFBMSmlHQ3Z2VFFuOFBTV0lWUmg5OHQxX1hRLUx5Zw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T19:45:23Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Salon"
-            },
-            "author": null,
-            "title": "Measles case tracked to LAX, with possible exposures in Southern California - Salon",
-            "description": "Those who believe they may be at risk are advised to confirm their measles vaccination status",
-            "url": "https://www.salon.com/2024/08/01/measles-case-tracked-to-lax-with-possible-exposures-in-southern-california/",
-            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/08/lax_airport_1793804035.jpg",
-            "publishedAt": "2024-08-01T19:01:00Z",
-            "content": null
         },
         {
             "source": {
@@ -316,42 +459,55 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "nj.com"
             },
-            "author": "NJ.com",
+            "author": "Katie Kausch | NJ Advance Media for NJ.com",
             "title": "3 N.J. residents infected with West Nile Virus. Officials warn of early, active season. - NJ.com",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2FWbnhJZEY1OFVhVExzRnM4SmcyTWNvZ2ZqTjhFbzM5RVRLLXdXaEZIa21HWDNITl9zREJocUtWdTRfTG0tdTdHU0ZObnhuU09rV3pCWkJKT2JIVnM1LVFTU0k2UUU4YlhYVmRPUnFLVERVNk4zZkpPQ01uNng1Qm5DUXNaay1GTWU0WVZPRjRESDVZYmpvQTlxc3JYZ2dsU1FKQ1Q4YUp0QTAzak1vZ25KbzhncDVfc00xNW83czdoQdIB1gFBVV95cUxPYmRLTE5jWnRmY3N4TnhGWWVkWkhzeWxiMUNEbkpraEVYeDdTS3FHaWZfUDNUd21JZUpxaTVlZms0Z1JsUTZ4U29CS1lVcS1FLUc0NUVFZmtrdDBHV0JBakJtNExaTVo1X0RhVnMyYTZIcUVHMEExVVBSbnRUR0NuclF4S2JfaW1PbDVOcGItU052TzUyQlk2aUtIeDFNVmFjUDNSUjNfaHB2NkF6RWt6QXNGWTA3QlNjV1VUZHV1Y0xta0dIWl9FbWlicWVzYWhKTmZqMW9B?oc=5",
-            "urlToImage": null,
+            "description": "The cases are the first two diagnosed in New Jersey in 2024.",
+            "url": "https://www.nj.com/healthfit/2024/08/3-nj-residents-infected-with-west-nile-virus-officials-warn-of-early-active-season.html",
+            "urlToImage": "https://www.nj.com/resizer/v2/EX6NXOLBDFBWPKZ2QP3RX5ZZJY.jpg?auth=96a05998d86c1ee888cc633d7555344307636ea20e64bb08430d3feee58bdec6&width=1280&quality=90",
             "publishedAt": "2024-08-01T17:46:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "WSLS 10",
-            "title": "Cat confirmed positive for rabies in Southwest Roanoke - WSLS 10",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZW5lV05EbEd5Z3pqbF9vc2g4NGZWQUs4QVdiVmhXcEswemxlTE54dUVBc2EwUGtLb1lrWFE4Q1YxazNIbVRuTjZOam9pQy1TcnVsTEx2QnpKRUlwMnlSYlBCdG82R2JEMkVLdVNuV3hVc1hhX3VtZVhVeHI5dzRBcVNRTmZCTnpiVHNpTWVrcllvSVVWUGo3MURZSlJkY28?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T17:32:15Z",
-            "content": null
+            "content": "Cookie Categories\r\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a re… [+1724 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "WSLS 10"
             },
-            "author": "Reda Wigle",
-            "title": "I’m a surgeon — these are my 3 favorite snacks for joint inflammation - New York Post ",
-            "description": "Call it a joints effort.",
-            "url": "https://nypost.com/2024/08/01/lifestyle/blueberries-walnuts-dark-chocolate-reduce-joint-inflammation-doctor/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/08/medical-doctor-physician-staff-white-86653916.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-08-01T16:48:00Z",
-            "content": "Call it a joints effort.\r\nDr. Nick Pappas, a board-certified hand surgeon in the New Orleans area, is sharing his three favorite snacks to reduce joint inflammation blueberries in the morning, walnut… [+2474 chars]"
+            "author": "Colton Game",
+            "title": "Cat confirmed positive for rabies in Southwest Roanoke - WSLS 10",
+            "description": "The Virginia Department of Health reported a cat had tested positive for rabies in Pheasant Run Circle in Southwestern Roanoke County on Tuesday, July 30.",
+            "url": "https://www.wsls.com/news/local/2024/08/01/cat-confirmed-positive-for-rabies-in-southwest-roanoke/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GV7JUNSFA5HUFOF7RTLVCI4EUM.jpg?_a=DATAfRfiZAA0",
+            "publishedAt": "2024-08-01T17:32:15Z",
+            "content": "ROANOKE COUNTY, Va. The Virginia Department of Health reported a cat had tested positive for rabies in Pheasant Run Circle in Southwestern Roanoke County on Tuesday, July 30. The cat was collected on… [+1015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indianapolis Star"
+            },
+            "author": "Binghui Huang",
+            "title": "COVID-19 is rising again. How effective was the vaccine? How severe is this strain? - IndyStar",
+            "description": "Unlike the flu which is seasonal, COVID-19 can spike at any time of the year. COVID hospitalizations are just beginning to increase again.",
+            "url": "https://www.indystar.com/story/news/health/2024/08/01/covid-19-cases-in-indiana-in-2024/74607435007/",
+            "urlToImage": "https://www.indystar.com/gcdn/presto/2021/11/05/PIND/015ce66d-9cc9-43c1-a5eb-c6f4e116bdfe-2021_10_26_PCL_MM_001.JPG?crop=1999,1125,x0,y101&width=1999&height=1125&format=pjpg&auto=webp",
+            "publishedAt": "2024-08-01T15:56:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Medscape",
+            "title": "Too Much Coffee Linked to Accelerated Cognitive Decline - Medscape",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVllSZmhWLU50RkgxTFdzN1lSakpUaVJoaU5RM1VZZ24wOUYwV1NkYm5Pd29jY1Vsc3lZVFZmNW1tczdmejBncUNtV1M5QVc4REhKaDdxWG9neW5OeTk2SUJiR0dRdEZ4cElaeUl2SnVwN3hMRFhsUEdIYmhLYTdmWWphQlZtaWNnSFlWU29OcjRocy1ER1hfTTFoMmdkYmRUT19pbg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-01T15:24:24Z",
+            "content": null
         },
         {
             "source": {
@@ -368,29 +524,16 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "The Associated Press",
+            "author": "JEAN FERNAND KOENA, MARIA CHENG",
             "title": "Mpox cases have surged by 160% in Africa so far this year, but few treatments and vaccines available - The Associated Press",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVZyX0RrOE5TemlrZ1BpTmlfdlJOWnFtVDB2UlJIZ2g1UGp1SXBRaEVYcG5QR0RRWHp6WEVrZHNJMGRWdVdIWHpfYTdTbGs5bkNfVDkzWmotb1Z1WWpLUFc1cDQzYU11Vk95YjlfWjdjYmUyVVdlRGtWRXlXb3VEUldndXV5MGNoOFhrQlIzeG13Rl9fdHhzcw?oc=5",
-            "urlToImage": null,
+            "description": "African health officials say mpox cases have surged by 160% so far this year, warning the risk of further spread is high given the lack of treatments or vaccines on the continent. The Africa Centers for Disease Control and Prevention said in a report Tuesday …",
+            "url": "https://apnews.com/article/mpox-cases-outbreak-africa-health-3d9b808b905ecafe344aa7dc63e4395b",
+            "urlToImage": "https://dims.apnews.com/dims4/default/bb14dd0/2147483647/strip/true/crop/4198x2361+0+219/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B-%2F12%2F6%2C%2097%2C%20123%2C%2010%2C%2033%2C%20-63%2C%20-107%2C%2029%2C%2047%2C%2059%2C%20112%2C%20102%2C%20-54%2C%20-75%2C%2073%2C%2084%2C%20-87%2C%20-44%2C%20-10%2C%2078%2C%2044%2C%2089%2C%20-128%2C%20-31%2C%20-76%2C%20-37%2C%20-28%2C%20-76%5D%2Fa05cfa82033c476e9743fc6bb46f1863",
             "publishedAt": "2024-08-01T15:03:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Newsweek",
-            "title": "'Remarkable': Supplement May Slow Breakdown in High-Risk Alzheimer's Cases - Newsweek",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kMU41OHltalJIU0EtbmQ5TWp6NUpobVVSWjRPLUZ6Y2dHSU5sYXozcnVwMXdtME8tcU4wSU5QM3c5VUgwQlNVc0wzNDFreURFa1BtQmtZRy1tNkNJbmxSNHVadEhYU2pHS0E?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T15:00:01Z",
-            "content": null
+            "content": "BANGUI, Central African Republic (AP) African health officials said mpox cases have spiked by 160% so far this year, warning the risk of further spread is high given the lack of effective treatments … [+3633 chars]"
         },
         {
             "source": {
@@ -417,6 +560,19 @@
             "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/07/brain-6.jpg",
             "publishedAt": "2024-08-01T14:26:15Z",
             "content": "In a new study published in eClinicalMedicine, researchers have found that the use of semaglutide, a medication primarily prescribed for type 2 diabetes, does not increase the risk of developing neur… [+8907 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Johnson County Post",
+            "title": "An Overland Park mom had all her limbs amputated after a rare infection during childbirth - Johnson County Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTdlUUVGOWlxYlVWcmllWGFlaGtJY2JUd2VEUmJUUHMwMmI5WUQ4XzlQTXE5Z1pVMU1aOTNtd3VxSGhYdFIxS00tWVhaZGlod2VtVjdaakFsUU56anBHUzczMGFiZFZMMjdsTWFfSjEwZl94am1WYUJYdFdrejE0dWtHMFo0dm1vVlhDMHFORHc?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-01T14:00:28Z",
+            "content": null
         },
         {
             "source": {
@@ -459,132 +615,41 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "ScienceAlert"
             },
-            "author": "ScienceAlert",
-            "title": "New AI Tool Predicts Alzheimer's With Higher Accuracy Than Clinical Tests - ScienceAlert",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTF5THdLSnVMQW9YVFFVeVAtWVRER2lMallLVnMtQi1DVHNrV2hwNnVyaHJDTXZXTy1VR3VSTmVtN3lkWWZQRTlMUVZqdldjSEFtS0pIWGVnUUJ2b2d4OVhkclI1cjlxRkhvZFprRWJfTlhad3A1N3ZsU0lTZDNfaFBEa1FCOVY3ZGxkZVNucGpmZWNwNXhSYjh1RW1HMHdRbTRB?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T01:46:45Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Fox News",
-            "title": "FDA approves new blood test for colon cancer screening: ‘Early detection is critical’ - Fox News",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmU4TmhHYnJDXzhPNERQMy1JejRjRjVlUnZPZlRXYlZQaEpjdGVPX3pPV2hCc3V5UTEzN01pZFJEVDFOOEtHZTRiN2t1X0hVa2ptdEtnRkxWX2gtSUxqWE8zOFBXTDBqRE1wVjNwbWpOc0d0dUFlR2hRbExsclhvcmpsQ1liaHlvMlllRXlwc0lDckVxSWxlaGFKYmvSAaIBQVVfeXFMTUZRTjJseHNVamNmdG5vQ0FBUnNPa1luY0tsVFVRUzJKZU14NHhGSzJqa1lSczctaV9iUTJSRjQ5Nm9uYXE4MGVTcHBfWFlkd1RPVlhQUjdDWmc5T2luUFlNYjZsdU5xOFAwMFVWQVVibzNDQjFUYTE3cW1KX3ZFeVVlRzFjVm5aYjg4NndmOWRrR0tiRV9PTkhuMV9oOWJXWW53?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T00:54:00Z",
-            "content": null
+            "author": "Carly Cassella",
+            "title": "Added Sugar in Your Diet May Speed Up Your Body's Biological Aging - ScienceAlert",
+            "description": "Eating large amounts of food with added sugar could have a hyperactive effect on the body's ticking biological clock, even when the rest of a person's diet remains otherwise healthy.",
+            "url": "https://www.sciencealert.com/added-sugar-in-your-diet-may-speed-up-your-bodys-biological-aging",
+            "urlToImage": "https://www.sciencealert.com/images/2024/08/IceCreamInBlueSkyCover1024.jpg",
+            "publishedAt": "2024-08-01T04:47:01Z",
+            "content": "Eating large amounts of food with added sugar could have a hyperactive effect on the body's ticking biological clock, even when the rest of a person's diet remains otherwise healthy.\r\nA new study amo… [+3372 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "OCRegister"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Mallika Marshall, MD",
-            "title": "Double mastectomy shows no survival benefit for most breast cancer patients, study says - CBS Boston",
-            "description": "A new study finds many women with breast cancer may be able to avoid undergoing a double mastectomy.",
-            "url": "https://www.cbsnews.com/boston/news/double-mastectomy-no-survival-benefit-breast-cancer-jama/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/08/0172690c-fb5c-4124-83c0-f6adf39338fd/thumbnail/1200x630/ebe60a46eff852b66b1397a98da1296c/mammogram-1.jpg?v=d7dedd293aad546f97f947149642d369",
-            "publishedAt": "2024-07-31T21:39:00Z",
-            "content": "As described in our Privacy Policy, we process personal information to inform which ads you see on our services and disclose certain personal information in connection with advertising our services t… [+1365 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wustl.edu"
-            },
-            "author": "Tamara Schneider",
-            "title": "Nasal COVID-19 vaccine halts transmission - Washington University School of Medicine in St. Louis",
-            "description": "Study in hamsters indicates vaccines targeting nose, mouth may be key to controlling spread of respiratory infections",
-            "url": "https://medicine.wustl.edu/news/nasal-covid-19-vaccine-halts-transmission/",
-            "urlToImage": "https://medicine.wustl.edu/wp-content/uploads/GettyImages-1210284242_forweb-scaled.jpg",
-            "publishedAt": "2024-07-31T20:01:26Z",
-            "content": "Visit the News HubStudy in hamsters indicates vaccines targeting nose, mouth may be key to controlling spread of respiratory infections\r\nby Tamara SchneiderJuly 31, 2024\r\nA nasal COVID-19 vaccine blo… [+9184 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Annika Kim Constantino, Ashley Capoot",
-            "title": "Healthy Returns: Here’s what GLP-1s are being tested for beyond weight loss, diabetes - CNBC",
-            "description": "The list of potential health benefits from GLP-1 is only getting longer. Meanwhile, the heads of Commure, Augmedix share details about an acquisition.",
-            "url": "https://www.cnbc.com/2024/07/31/healthy-returns-glp-1s-tested-for-uses-beyond-weight-loss-diabetes.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108004559-1720707229891-gettyimages-2160946491-20090101240711-99-704450.jpeg?v=1720707450&w=1920&h=1080",
-            "publishedAt": "2024-07-31T19:13:41Z",
-            "content": "Think a friend or colleague should be getting this newsletter? Share this link with them to sign up.\r\nGood afternoon! The list of potential health benefits from a booming class of weight loss and dia… [+7722 chars]"
+            "author": "City News Service",
+            "title": "Person with measles flew into LAX, traveled to Orange County - OCRegister",
+            "description": "The Orange County Health Care Agency is investigating additional exposure sites in that county.",
+            "url": "https://www.ocregister.com/2024/07/31/person-with-measles-flew-into-lax-traveled-to-orange-county/",
+            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2024/07/TDB-L-HISTORY-COL-0124-06.jpg?w=1024&h=537",
+            "publishedAt": "2024-08-01T03:37:07Z",
+            "content": "A case of measles has been confirmed in a non-Los Angeles County resident who traveled to LAX while infectious last Friday and then traveled to Orange County, the countys Department of Public Health … [+2419 chars]"
         },
         {
             "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "ABC News",
-            "title": "Patients sue hospital system after thousands possibly exposed to HIV, hepatitis - ABC News",
+            "author": "The New York Times",
+            "title": "A Blood Test Accurately Diagnosed Alzheimer’s 90% of the Time, Study Finds - The New York Times",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVBXdVpKaFBQeHdWQXE1X1BVM2I3S2J1Q3VZc0N1eE9DQXNObGpVdXNFa0dkR0luWnRrS2JoQ1N1WTU3Y0RYazRLMTAySFFsZ0tDOHg1Qi1jMjJVd25lemFNTlprenR3N1dvLUhYVHhURTdWMlZ0UXpMRHA1OXpXeUd4cVRVanFTSmhPcXRfNEpuMXBfR29VY1VIb2JYUWF4RXhodHhNTGlMQ2FMWDQ00gG0AUFVX3lxTE8xSjVjRHJPVHVvUlNPb193STRTZ3NfY19maGhNVjVsTHRqS2QxUWpheUM2TjQyMWh4RlFJTy1DaVNjQ2p0dnI0V0dLSzg0R0xKUnZiYVBqc0s4OTN1ckM5aVh4Y3F4a1RDSWE5ZUVsQTAwR1J0eV8xdTBQbEdwWmd0akdfYmZXSUtyREpmczBFNmtUUFhsMURMcDhsN0RROWtSZHlwa01GaVlfaVV5MmE4ekZjZg?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EdGV6d2o0ZnU4eFR5V2dsVkhRYlZFMThZSWZQODMzTjE1ZTZsZWFyWTV5c0pzV0llZUhjbjBCNFJfdnVTemhYd1FSMjhCNi1kWDQ1R1pGaC1MTXFtOW94bWZRU2dBMHpjekUxNUlfQXB0Nm9OSjI4?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-07-30T20:07:14Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "KGO-TV",
-            "title": "Rising Bay Area COVID-19 cases: Is it time to mask up again? - KGO-TV",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmpiYzdJV2pFalVTMi1tandjZEV2VWU2SFJ3a2xqeXcwZGxQX2l4bUhQZERjZmJiTHJyckQ1NjdnQ3dVSzJ5SUk4dEp1WnVCMjBpRWtKanM3VVhnamxubEJNOTBoSTZnaXVHeS1jSU9VWnV3TlFMUlVmNWNKaEtaUklEeGRGTGEtSHNUZmN4a3A5QQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-29T23:49:18Z",
+            "publishedAt": "2024-07-28T11:00:07Z",
             "content": null
         }
     ]

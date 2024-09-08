@@ -1,71 +1,396 @@
 {
     "status": "ok",
-    "totalResults": 52,
+    "totalResults": 55,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "New York Post"
             },
-            "author": "Hakyung Kim",
-            "title": "Stocks making the biggest moves midday: Intel, Nio, Super Micro Computer and more - CNBC",
-            "description": "These are the stocks posting the largest moves in midday trading.",
-            "url": "https://www.cnbc.com/2024/09/06/stocks-making-the-biggest-moves-midday-intc-nio-smci-and-more.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108027215-1724947248307-gettyimages-2155386018-AFP_34UX84H.jpeg?v=1724947376&w=1920&h=1080",
-            "publishedAt": "2024-09-06T16:17:00Z",
-            "content": null
+            "author": "Reuters",
+            "title": "Struggling Big Lots preparing bankruptcy filing, will sell stores: report - New York Post ",
+            "description": "Big Lots, a retailer operating around 1,400 stores and employing over 30,000 workers, has been grappling with declining sales over the past few quarters, putting pressure on its balance sheet.",
+            "url": "https://nypost.com/2024/09/06/business/struggling-big-lots-preparing-bankruptcy-filing-will-sell-stores-report/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/big-lots-bankruptcy.jpg?quality=75&strip=all&1725647432&w=1024",
+            "publishedAt": "2024-09-06T23:55:00Z",
+            "content": "Discount home goods retailer Big Lots is preparing to file for bankruptcy as early as this Sunday and plans to sell its chain of stores through a court-supervised process, Bloomberg News reported Fri… [+1448 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Alexandra Canal",
-            "title": "Stock market today: Stocks erase gains, head for big weekly losses after jobs report - Yahoo Finance",
-            "description": "The pivotal August jobs report will provide clues to the size of the Fed's rate cut this month and the health of the economy.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-stocks-erase-gains-head-for-big-weekly-losses-after-jobs-report-143706571.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WRy_TF1kzYYtEJ9aL3oz2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/393feeb0-6c1c-11ef-bffe-527c323d0acf",
-            "publishedAt": "2024-09-06T15:46:28Z",
-            "content": "Monthly revisions to August's jobs report showed employment was revised down by a combined 86,000 for the months of June and July. But one economist told Yahoo Finance's Morning Brief the revisions d… [+1744 chars]"
+            "author": "Emily Graffeo",
+            "title": "Palantir, Dell Among New S&P 500 Members as Index Rebalances - Yahoo Finance",
+            "description": "(Bloomberg) -- Palantir Technologies Inc., Dell Technologies Inc. and Erie Indemnity Co. are set to join the S&P 500 as part of its latest quarterly...",
+            "url": "https://finance.yahoo.com/news/palantir-dell-among-p-500-213105057.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/q0XmdUdSxGhxfre.EXfOLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/a9daed9bc8da1a4874ff0e98a0f248bb",
+            "publishedAt": "2024-09-06T23:06:18Z",
+            "content": "(Bloomberg) Palantir Technologies Inc. (PLTR), Dell Technologies Inc (DELL). and Erie Indemnity Co. (ERIE) are set to join the S&amp;P 500 as part of its latest quarterly weighting change.\r\nMost Read… [+2305 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chibuike Oguh",
+            "title": "Wall Street stocks fall, big weekly drop as market waits for Fed to move - Reuters",
+            "description": "U.S. stocks fell on Friday, weighed down by a jobs report that showed a continued labor market slowdown but left traders uncertain about how far the Federal Reserve will go in cutting interest rates.",
+            "url": "https://www.reuters.com/markets/us/futures-drop-investors-brace-payrolls-data-2024-09-06/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/LZMI7LHUJNMQDOJEUKNUTR7EQA.jpg?auth=477e1934d1b787977573ceb42df149c5d25d07dd6b39858029f41daa31ce0d65&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-09-06T22:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jack Pitcher",
+            "title": "As Nvidia Stock Slides, the Losses Are Eye-Popping - The Wall Street Journal",
+            "description": "The U.S. added fewer-than-expected jobs in August; Broadcom stock slides",
+            "url": "https://www.wsj.com/livecoverage/jobs-report-stock-market-dow-sp500-nasdaq-live-09-06-2024",
+            "urlToImage": "https://images.wsj.net/im-925349/social",
+            "publishedAt": "2024-09-06T22:27:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Forbes"
             },
-            "author": "Jeff Cox",
-            "title": "Fed Governor Waller backs interest rate cut at September meeting, open to larger move - CNBC",
-            "description": "Waller on Friday backed an interest rate cut at the upcoming policy meeting, noting the importance of supporting a weakening jobs picture.",
-            "url": "https://www.cnbc.com/2024/09/06/fed-governor-waller-backs-interest-rate-cut-at-september-meeting.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107394052-1711612922020-gettyimages-2097696707-POWELL_FED_LISTENS.jpeg?v=1725633916&w=1920&h=1080",
-            "publishedAt": "2024-09-06T15:03:35Z",
-            "content": "Federal Reserve Governor Christopher Waller on Friday backed an interest rate cut at the upcoming central bank policy meeting in less than two weeks, and indicated he'd be open to a substantial reduc… [+2170 chars]"
+            "author": "Billy Bambrough",
+            "title": "‘Extreme Fear’ And Fed Panic Sparks Sudden $2 Trillion Crypto Price Crash—Hitting Bitcoin, Ethereum, BNB, Solana, XRP And Dogecoin - Forbes",
+            "description": "The bitcoin price has dropped below a key resistance level as the crypto market crashes under $2 trillion...",
+            "url": "https://www.forbes.com/sites/digital-assets/2024/09/06/extreme-fear-and-fed-panic-and-spark-sudden-2-trillion-crypto-price-crash-hitting-bitcoin-ethereum-bnb-solana-xrp-and-dogecoin/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6456424532c7f204c1e31892/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-09-06T21:45:13Z",
+            "content": "BitcoinBitcoin\r\n and cryptoincluding top ten coins ethereum, BNBBNB\r\n, solana, XRPXRP\r\n and dogecoinhave crashed after a serious Goldman Sachs warning.\r\nSubscribe now to Forbes' CryptoAsset &amp; Blo… [+3640 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "fox8.com"
+                "name": "Hollywood Reporter"
             },
-            "author": "Addy Bink, Jeremy Tanner",
-            "title": "Why some Social Security recipients won’t get checks in September - WJW FOX 8 News Cleveland",
-            "description": "It’s all thanks to a quirk in the calendar.",
-            "url": "https://fox8.com/news/why-some-social-security-recipients-wont-get-checks-in-september/",
-            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2024/09/GettyImages-1642158076.jpg?w=1280",
-            "publishedAt": "2024-09-06T14:50:09Z",
-            "content": "(NEXSTAR) Over 7 million Supplemental Security Income (SSI) beneficiaries won’t receive their checks in September, thanks to a quirk in the calendar.\r\nChecks generally go out on the 1st of each month… [+1255 chars]"
+            "author": "Alex Weprin",
+            "title": "DirecTV and Disney Offer Dueling Discounts as Carriage Dispute War of Words Escalates - Hollywood Reporter",
+            "description": "DirecTV is offering discounts and a $30 credit toward Fubo or Sling, while Disney is offering $30 off the first month of Hulu With Live TV, coming amid a tense blackout between the companies.",
+            "url": "http://www.hollywoodreporter.com/business/business-news/directv-disney-streaming-discounts-blackout-drags-on-fubo-sling-hulu-1235993933/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/09/GettyImages-2169814306.jpg?w=1440&h=810&crop=1",
+            "publishedAt": "2024-09-06T21:36:28Z",
+            "content": "It takes a lot for a pay TV service to subsidize its own customers if they want to sample a competitor, but in a surprise move, DirecTV will do just that.\r\nWith the carriage dispute between Disney an… [+1993 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Nick Timiraos, David Uberti",
+            "title": "Hiring Softened This Summer, Teeing Up Fed Rate Cuts - The Wall Street Journal",
+            "description": "Friday’s jobs report doesn’t clearly resolve how much the Fed might cut interest rates at its next meeting; unemployment rate edges down to 4.2%",
+            "url": "https://www.wsj.com/economy/jobs/jobs-report-august-unemployment-economy-b869cf39",
+            "urlToImage": "https://images.wsj.net/im-93969544/social",
+            "publishedAt": "2024-09-06T21:18:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "Investopedia"
             },
-            "author": "Todd Spangler",
-            "title": "Kamala Harris Endorsed for President by 88 Business Leaders Including James Murdoch, Peter Chernin, Mark Cuban, Barry Diller - Variety",
-            "description": "A group of 88 business leaders, including several Hollywood execs, signed an open letter endorsing VP Kamala Harris for president.",
-            "url": "https://variety.com/2024/biz/news/kamala-harris-endorsed-business-leaders-letter-james-murdoch-peter-chernin-1236132977/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2024/09/Kamala-Harris.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2024-09-06T14:41:00Z",
-            "content": "VP Kamala Harris has garnered support for her 2024 presidential campaign from executives spanning multiple industry sectors including Hollywood in a new open letter signed by 88 business leaders.\r\nSi… [+10360 chars]"
+            "author": "Colin Laidley",
+            "title": "Why Nvidia and Chip Stocks Just Had Their Worst Week in More Than 2 Years - Investopedia",
+            "description": "Chip stocks slumped this week, with the PHLX Semiconductor Index (SOX) tumbling 10%, its biggest weekly decline since January 2022.",
+            "url": "https://www.investopedia.com/why-nvidia-and-chip-stocks-just-had-their-worst-week-in-more-than-2-years-8707917",
+            "urlToImage": "https://www.investopedia.com/thmb/jMrlTJoDn3v0TwpZ3JxipYqkUI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1730512657-88a48344eab1403f96db9f8cde52bb89.jpg",
+            "publishedAt": "2024-09-06T21:01:33Z",
+            "content": "<ul><li>Chip stocks had their worst week since January 2022, as AI investor favorite Nvidia lost about 14% during the holiday-shortened trading week.</li><li>Broadcom shares fell 10% after the compan… [+1985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "James \"Rev Shark\" DePorre",
+            "title": "The Easiest Mistake You Can Make in a Market Like This - TheStreet",
+            "description": "Two issues are keeping buyers on the sidelines as the bullish Goldilocks economic narrative starts to fall apart.",
+            "url": "https://pro.thestreet.com/market-commentary/the-easiest-mistake-you-can-make-in-a-market-like-this",
+            "urlToImage": "https://pro.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA1MDQzNzA1ODA2MDcxNTQ4/3-15-24-former-nyse-trader-reveals-his-worst-trading-mistake.jpg",
+            "publishedAt": "2024-09-06T20:45:00Z",
+            "content": "There were only four days of trading after the Labor Day holiday, but so far, September is living up to its reputation as the worst month of the year for the stock market. The indexes had their worst… [+2039 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Saqib Ahmed",
+            "title": "Well-timed GameStop options trade scores $550K profit after Roaring Kitty post - Reuters",
+            "description": "A well-timed trade in GameStop's options reaped a handsome profit on Friday after an account associated with \"Roaring Kitty,\" a stock influencer and longtime champion for the video game retailer, published a cryptic post on social media platform X.",
+            "url": "https://www.reuters.com/business/well-timed-gamestop-options-trade-scores-550k-profit-after-roaring-kitty-post-2024-09-06/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/6PCTSQTAXJJCXLQHVMTMIPWVGA.jpg?auth=4619934f03a6f9c2c9d496d53339b34f2145876e67fb476e5faeebc0d47bcf95&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-09-06T20:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Lu Wang, Denitsa Tsekova",
+            "title": "Wall Street Traders Suddenly Converge on Economic Hazards Ahead - Bloomberg",
+            "description": "For those on Wall Street clinging to the bull case on the economy, life is getting harder.",
+            "url": "https://www.bloomberg.com/news/articles/2024-09-06/wall-street-traders-suddenly-converge-on-economic-hazards-ahead",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSvu7sAhlX9c/v0/1200x800.jpg",
+            "publishedAt": "2024-09-06T20:26:19Z",
+            "content": "For those on Wall Street clinging to the bull case on the economy, life is getting harder.\r\nTroubling data long foretold in the bond and commodity markets woke traders across risky assets up from the… [+93 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thebaltimorebanner.com"
+            },
+            "author": "Cody Boteler",
+            "title": "Offshore wind was approved in Maryland. Here’s what it could look like. - The Baltimore Banner",
+            "description": "The Maryland Offshore Wind Project can build more than 110 offshore wind turbines about 10 miles off the coast and power over 718,000 homes on the Delmarva Peninsula.",
+            "url": "https://www.thebaltimorebanner.com/community/climate-environment/offshore-wind-ocean-city-view-VORVEDQSPBGDVD3ZOOC5PTZQFQ/",
+            "urlToImage": "https://thebaltimorebanner.com/resizer/v2/XN2Y5EVOKFGO3NE22WT6VWKQ5U.png?auth=30637324bc918ff2b5cdaa8b328c3c15f2994ee62311021945562fef46b6c86d&width=657&smart=true&quality=85",
+            "publishedAt": "2024-09-06T20:00:00Z",
+            "content": "Offshore wind could be coming to Maryland. Federal officials on Thursday approved the Maryland Offshore Wind Project. As planned, the project can build up to 114 offshore wind turbines about 10 miles… [+5037 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Owner of OnlyFans paid $631m as subscription numbers rise - BBC.com",
+            "description": "Leonid Radvinsky's huge earnings were revealed in the online platform's latest accounts.",
+            "url": "https://www.bbc.com/news/articles/c1m01dp3507o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/afe4/live/740c5bd0-6c82-11ef-b970-9f202720b57a.jpg",
+            "publishedAt": "2024-09-06T19:42:21Z",
+            "content": "Leonid Radvinsky, the owner of OnlyFans, paid himself $631m (£480m) over a period of almost two years as traffic on online platform continued to increase.\r\nFenix International, which owns the site us… [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "We're at a point where the Fed could engineer a soft landing, says Fundstrat's Tom Lee - CNBC Television",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/",
+            "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+            "publishedAt": "2024-09-06T19:41:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tipranks.com"
+            },
+            "author": "Steve Anderson",
+            "title": "Shareholders Revolt as Intel’s (NASDAQ:INTC) Fire Sale Continues - TipRanks",
+            "description": "Everything must go at Intel ($INTC), apparently. The chip stock is starting to look like it is being sold off down to the bare walls as it restructures its business...",
+            "url": "https://www.tipranks.com/news/shareholders-revolt-as-intel-nasdaqintc-fire-sale-continues",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/09/intel-shutterstock_1807747930-750x406.jpg",
+            "publishedAt": "2024-09-06T19:10:34Z",
+            "content": "Everything must go at Intel (INTC), apparently. The chip stock is starting to look like it is being sold off down to the bare walls as it restructures its business, and two major new moves have emerg… [+1976 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sasha Rogelberg",
+            "title": "Red Lobster CEO secretly visited restaurants around the country before being made boss - Fortune",
+            "description": "Damola Adamolekun sampled crab legs and lobster tail in a food tour starting in May and ending in August when he was hired.",
+            "url": "https://fortune.com/2024/09/06/red-lobster-ceo-secretly-visited-restaurants-around-the-country-before-being-made-boss/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/Damola_Adamolekun_PR-73_landscape_small.jpg?resize=1200,600",
+            "publishedAt": "2024-09-06T18:51:00Z",
+            "content": "For food critics, its common convention to never post your face on social media, lest you be recognized at a restaurant youre tasked with reviewing and get preferential treatment. With the same surre… [+4410 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Alexander Saeedy",
+            "title": "Exclusive | JPMorgan Plans to Report Customers Who Exploited TikTok ‘Glitch’ to Authorities - The Wall Street Journal",
+            "description": "Thousands of people withdrew money after depositing bad checks",
+            "url": "https://www.wsj.com/finance/banking/jpmorgan-plans-to-report-customers-who-exploited-tiktok-glitch-to-authorities-cb5f5cef",
+            "urlToImage": "https://images.wsj.net/im-49032524/social",
+            "publishedAt": "2024-09-06T18:27:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Charles Creitz",
+            "title": "Unified opposition to Nippon-US Steel takeover is misguided: economists, Pittsburgh officials - Fox Business",
+            "description": "An economist who has written at length about the issue and a top Pittsburgh political figure spoke to Fox News in favor of the sale of U.S. Steel to a Japanese company.",
+            "url": "https://www.foxbusiness.com/politics/nippon-us-steel-takeovers-unified-opposition-misguided-sale-best-us-economist-local-official-say",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/09/0/0/US-Steel-flag-tower.jpg?ve=1&tl=1",
+            "publishedAt": "2024-09-06T17:59:00Z",
+            "content": "While both former President Trump and the Biden-Harris administration have voiced opposition to the proposed takeover of U.S. Steel by Japan-based Nippon, one top economic expert and a local Pittsbur… [+5283 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Ahjané Forbes",
+            "title": "LL Flooring, formerly Lumber Liquidators, closing all 400-plus stores amid bankruptcy - USA TODAY",
+            "description": "American flooring company LL Flooring announced that it will be closing all its more than 400 stores, with sales starting Friday.",
+            "url": "https://www.usatoday.com/story/money/2024/09/06/ll-flooring-lumber-liquidators-closing/75103224007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/06/USAT/75103827007-usatsi-23996403.jpg?crop=1997,1124,x0,y216&width=1997&height=1124&format=pjpg&auto=webp",
+            "publishedAt": "2024-09-06T17:31:13Z",
+            "content": "American flooring company LL Flooring announced it will be closing its stores, with closing sales starting on Friday, Sept. 6. \r\nSince opening its doors in 1993, LL Flooring has operated more than 40… [+3022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Daniella Genovese",
+            "title": "Airlines such as American, United, Delta, face DOT investigation over rewards programs - Fox Business",
+            "description": "The Department of Transportation is making four major U.S. carriers hand over details about their rewards programs in order to ensure they aren't deceptive or anti-competitive.",
+            "url": "https://www.foxbusiness.com/lifestyle/airlines-american-united-delta-face-dot-investigation-over-rewards-programs",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/GettyImages-1250764681-scaled.jpg?ve=1&tl=1",
+            "publishedAt": "2024-09-06T17:19:00Z",
+            "content": "The Department of Transportation (DOT) launched an investigation into rewards programs at the four largest airlines over \"potential unfair, deceptive, or anticompetitive practices.\" \r\nU.S. Secretary … [+4811 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Liam Reilly, Matt Egan",
+            "title": "James Murdoch, Mark Cuban and dozens of other business leaders endorse Kamala Harris for president - CNN",
+            "description": "Dozens of business leaders are throwing their weight behind Vice President Kamala Harris, saying she is the stronger candidate for the American economy and the future of democracy.",
+            "url": "https://www.cnn.com/2024/09/06/business/ceos-support-kamala-harris/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-04t213123z-1257938274-rc2wt9asyfll-rtrmadp-3-usa-election-harris-copy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-06T17:04:00Z",
+            "content": "Dozens of business leaders are throwing their weight behind Vice President Kamala Harris, saying she is the stronger candidate for the American economy and the future of democracy.\r\nIn a three-page l… [+2920 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Julie Eich",
+            "title": "Who gets to keep a $70,000 engagement ring? Case goes before Massachusetts Supreme Court - CBS Boston",
+            "description": "A case deciding who gets to keep the ring when an engagement breaks down is being argued before the Massachusetts Supreme Judicial Court.",
+            "url": "https://www.cbsnews.com/boston/news/johnson-settino-70k-engagement-ring-massachusetts-supreme-court/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/09/06/def1f88f-9e89-4d95-b8bc-bfdc4654655d/thumbnail/1200x630/aba6491ef08ebe39e9c566e4815372f0/gettyimages-1289089145-1.jpg?v=631cf5f2b4e8db7f9bc428589402864d",
+            "publishedAt": "2024-09-06T17:04:00Z",
+            "content": "BOSTON – When an engagement breaks down, who gets to keep the ring? A case deciding just that was argued before the Massachusetts Supreme Judicial Court Friday.\r\nThe state's highest court heard argum… [+2860 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Aislinn Murphy",
+            "title": "7-Eleven parent rejects acquisition proposal from Canada-based convenience store giant - Fox Business",
+            "description": "Seven & i on Friday declined the preliminary proposal that Alimentation Couche-Tard made last month to acquire the Japanese corporate parent of the 7-Eleven convenience store chain.",
+            "url": "https://www.foxbusiness.com/markets/7-eleven-parent-rejects-acquisition-proposal-from-canada-based-convenience-store-giant",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/7-eleven-logo.jpg?ve=1&tl=1",
+            "publishedAt": "2024-09-06T17:02:00Z",
+            "content": "Seven &amp; i on Friday declined the preliminary proposal that Alimentation Couche-Tard made last month to acquire the Japanese corporate parent of the 7-Eleven convenience store chain.\r\nThe decision… [+3715 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Chris Anstey",
+            "title": "Summers Says Jobs Weakness Makes It Closer Call on Fed Going 50 - Bloomberg",
+            "description": "Former Treasury Secretary Lawrence Summers said that while the August employment report wasn’t particularly poor, it did make predicting the size of the Federal Reserve’s likely interest-rate cut this month a tougher call.",
+            "url": "https://www.bloomberg.com/news/articles/2024-09-06/summers-says-jobs-weakness-makes-it-closer-call-on-fed-going-50",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNLB7WsSr8pY/v1/1200x800.jpg",
+            "publishedAt": "2024-09-06T16:52:12Z",
+            "content": "Former Treasury Secretary Lawrence Summers said that while the August employment report wasnt particularly poor, it did make predicting the size of the Federal Reserves likely interest-rate cut this … [+390 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ines Ferré",
+            "title": "One of the biggest AI stocks of the year hit with downgrade from JPMorgan - Yahoo Finance",
+            "description": "Super Micro stock took another hit as JPMorgan analysts told new investors to stay on the sidelines until uncertainty surrounding the AI high flyer clears up...",
+            "url": "https://finance.yahoo.com/news/one-of-the-biggest-ai-stocks-of-the-year-hit-with-downgrade-from-jpmorgan-163141824.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/spNM8C4FEAyNzbvL9fojsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzY-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/b5a30870-9a17-11ee-b777-f8340e7e9f83",
+            "publishedAt": "2024-09-06T16:31:42Z",
+            "content": "It's been a terrible couple of weeks for Super Micro Computer (SMCI) stock.\r\nShares of the data center server maker, considered one of this year's biggest beneficiaries of the AI craze, have cratered… [+2888 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Miami Herald"
+            },
+            "author": "Madeleine Marr",
+            "title": "‘He definitely made that rule’: Lauren Sanchez reveals morning ritual with Jeff Bezos - Miami Herald",
+            "description": "Lauren Sanchez told People magazine that she and her billionaire fiance have one thing they do every morning",
+            "url": "https://www.miamiherald.com/miami-com/miami-com-news/article292034690.html",
+            "urlToImage": "https://www.miamiherald.com/latest-news/x550km/picture281400703/alternates/LANDSCAPE_1140/sipa_45125188.jpg",
+            "publishedAt": "2024-09-06T16:21:21Z",
+            "content": "News\r\nMornings are sacred even for one of the worlds richest men.\r\nJeff Bezos fiancée gave a glimpse of what daily life is like with the billionaire and revealed he has one steadfast ritual.\r\nLauren … [+1477 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Juliana Kaplan, Madison Hoff",
+            "title": "Can't find a job? It's not you, it's white-collar America. - Business Insider",
+            "description": "If it feels like the labor market is breaking up with you, you're not being gaslit; it's harder to find a white-collar job right now.",
+            "url": "https://www.businessinsider.com/white-collar-jobs-remote-office-workers-cant-get-hired-2024-9",
+            "urlToImage": "https://i.insider.com/66db186da0ff598b26653e35?width=1200&format=jpeg",
+            "publishedAt": "2024-09-06T16:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "See if Your Social Security Number Is Part of the National Public Data Hack - CNET",
+            "description": "Here's how you can check if your Social Security number was stolen in the data theft, and what to do to secure your personal information.",
+            "url": "https://www.cnet.com/personal-finance/see-if-your-social-security-number-is-part-of-the-national-public-data-hack/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/7f0d560429e5732f450b3220ba6267bab14c1512/hub/2024/05/21/8dcc7cac-9b65-4150-aea0-c7862d3cbeac/socialsecurity-v2.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-09-06T15:40:00Z",
+            "content": "You can check if your personal information was stolen in the National Public Data breach and take steps to protect your data if your Social Security number was part of the massive theft of a reported… [+9790 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mass.gov"
+            },
+            "author": null,
+            "title": "Massachusetts and Rhode Island Announce Largest Offshore Wind Selection in New England History - Mass.gov",
+            "description": "Selection of 2,878 megawatts from three projects will power the equivalent of 1.6 million homes in Rhode Island and Massachusetts. Selected projects will create thousands of jobs and generate billions of dollars in economic activity.",
+            "url": "https://www.mass.gov/news/massachusetts-and-rhode-island-announce-largest-offshore-wind-selection-in-new-england-history",
+            "urlToImage": null,
+            "publishedAt": "2024-09-06T15:29:05Z",
+            "content": "Boston — Massachusetts and Rhode Island announced today the selection of 2,878 megawatts (MW) of offshore wind in the first coordinated procurement of its kind. As a part of the procurement, Massachu… [+11495 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Greg Robb",
+            "title": "Fed’s Waller backs starting ‘careful’ rate cuts in September, says open to more ‘forceful’ moves down the road - MarketWatch",
+            "description": "August job data fits with U.S. economy continuing to grow, not recessionary data",
+            "url": "https://www.marketwatch.com/story/feds-waller-backs-starting-careful-rate-cuts-in-september-says-open-to-more-forceful-moves-down-the-road-5b4c19e1",
+            "urlToImage": "https://images.mktw.net/im-13353684/social",
+            "publishedAt": "2024-09-06T15:00:00Z",
+            "content": "The time has come to start cutting interest rates, but carefully, Federal Reserve Governor Christopher Waller said Friday. The time for forceful cuts may come, but only if the data demand such moves,… [+185 chars]"
         },
         {
             "source": {
@@ -82,16 +407,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Futurism"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Frank Landymore",
-            "title": "Elon Musk in Deep Trouble as Even More Advertisers Are Planning to Leave Twitter's Toxic Cesspool - Futurism",
-            "description": "A record number of advertisers plan to cut their spending on Elon Musk's Twitter next year, according to new research from Kantar.",
-            "url": "https://futurism.com/the-byte/more-advertisers-to-leave-twitter",
-            "urlToImage": "https://wordpress-assets.futurism.com/2024/09/more-advertisers-to-leave-twitter.jpg",
-            "publishedAt": "2024-09-06T13:15:35Z",
-            "content": "\"X has changed so much in recent years and can be unpredictable from one day to the next.\"\r\nXodus\r\nAdvertisers, and the precious revenue they bring, have been fleeing X-formerly-Twitter ever since El… [+3351 chars]"
+            "author": "MATTHEW PERRONE AP health writer",
+            "title": "Teen vaping hits 10-year low in the US - ABC News",
+            "description": "Teen vaping in the U.S. has dropped to its lowest level in a decade",
+            "url": "https://abcnews.go.com/Health/wireStory/teen-vaping-hits-10-year-low-us-113423454",
+            "urlToImage": "https://i.abcnewsfe.com/a/d7b57c8a-3eac-4eca-a015-5e3f03726969/wirestory_9d25127da2db9cbc2634fae13511ef09_16x9.jpg?w=1600",
+            "publishedAt": "2024-09-06T13:20:53Z",
+            "content": "WASHINGTON -- Fewer adolescents are vaping this year than at any point in the last decade, government officials reported Thursday, pointing to a shrinking number of high school students who are using… [+3580 chars]"
         },
         {
             "source": {
@@ -108,29 +433,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "the-hill",
+                "name": "The Hill"
             },
-            "author": "Investing.com",
-            "title": "Super Micro Computer stock slips as JPMorgan cuts rating on uncertainty - Yahoo Finance",
-            "description": "JPMorgan analysts on Friday cut their rating on Super Micro Computer (NASDAQ: NASDAQ:SMCI) shares from Overweight to Neutral. SMCI stock slipped less than 1%...",
-            "url": "https://finance.yahoo.com/news/super-micro-computer-stock-slips-124410721.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-            "publishedAt": "2024-09-06T12:44:10Z",
-            "content": "JPMorgan analysts on Friday cut their rating on Super Micro Computer (NASDAQ: NASDAQ:SMCI) shares from Overweight to Neutral. SMCI stock slipped less than 1% in premarket trading.\r\nThe move comes as … [+1960 chars]"
+            "author": "Jeremy Tanner, Addy Bink",
+            "title": "Why some Social Security recipients won’t get checks in September - The Hill",
+            "description": "It’s all thanks to a quirk in the calendar.",
+            "url": "https://thehill.com/homenews/nexstar_media_wire/4862303-why-some-social-security-recipients-wont-get-checks-in-september/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/GettyImages-1642158076.jpg?w=1280",
+            "publishedAt": "2024-09-06T13:00:00Z",
+            "content": "Skip to content\r\n(NEXSTAR) – Over 7 million Supplemental Security Income (SSI) beneficiaries won’t receive their checks in September, thanks to a quirk in the calendar.\r\nChecks generally go out on th… [+1254 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "Motley Fool"
             },
-            "author": "Michael Dorgan",
-            "title": "LL Flooring, hardware store once known as Lumber Liquidators, to close all 400 stores in bankruptcy proceeding - Fox Business",
-            "description": "National retailer LL Flooring, previously known as Lumber Liquidators, has announced it will close resulting in around 2,000 workers losing their jobs.",
-            "url": "https://www.foxbusiness.com/economy/ll-flooring-hardware-store-once-known-lumber-liquidators-close-all-400-stores-bankruptcy-proceeding",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/ll-flooring-2.jpg?ve=1&tl=1",
-            "publishedAt": "2024-09-06T12:32:00Z",
-            "content": "National retailer LL Flooring, previously known as Lumber Liquidators, has announced it is getting out of business after 30 years following a failed effort to find a buyer just weeks after filing for… [+4048 chars]"
+            "author": "The Motley Fool",
+            "title": "3 Top Artificial Intelligence Stocks to Buy in September - The Motley Fool",
+            "description": null,
+            "url": "https://www.fool.com/investing/2024/09/06/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-06T12:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Spencer Kimball",
+            "title": "U.S. crude oil falls to lowest level since June 2023, posts worst week in nearly a year - CNBC",
+            "description": "The OPEC+ output hike will bring about 2.2 million barrels per day back onto the market through the end of next year.",
+            "url": "https://www.cnbc.com/2024/09/06/crude-oil-prices-today.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108028706-1725396010130-gettyimages-2159694175-01-b0006600-_1c8dw698.jpeg?v=1725396191&w=1920&h=1080",
+            "publishedAt": "2024-09-06T12:29:24Z",
+            "content": "U.S. crude oil hit the lowest level since June 2023, putting the benchmark on pace for its worst week in nearly a year, as OPEC+ has failed to reassure the market about the global supply and demand b… [+1415 chars]"
         },
         {
             "source": {
@@ -148,15 +486,15 @@
         {
             "source": {
                 "id": null,
-                "name": "CoinDesk"
+                "name": "Benzinga"
             },
-            "author": "Jamie Crawley, Omkar Godbole",
-            "title": "First Mover Americas: BTC Treads Water Ahead of U.S. Jobs Report - CoinDesk",
-            "description": "The latest price moves in crypto markets in context for Sept. 6, 2024.",
-            "url": "https://www.coindesk.com/markets/2024/09/06/first-mover-americas-btc-treads-water-ahead-of-us-jobs-report/",
-            "urlToImage": "https://www.coindesk.com/resizer/K5mMSDJR_KtMGzC_ft-DP0bP1ic=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CNM5BYNSJ5COZLCMCSQY3Y32GM.jpeg",
-            "publishedAt": "2024-09-06T12:07:00Z",
-            "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nCoinDesk is anaward-winningmedia outlet that covers the cryptocurrency industry. Its … [+593 chars]"
+            "author": "Shanthi Rexaline",
+            "title": "Tesla Won Some Brownie Points By Not Doing Anything Wrong Like GM, Volkswagen, Says Industry Watcher, Calls FSD Elon Musk's 'Passion Project' - Benzinga",
+            "description": "Tesla has weathered the EV downturn better than most others in the industry and it has strong brand appeal, says an industry watcher.",
+            "url": "https://www.benzinga.com/markets/equities/24/09/40747427/tesla-won-some-brownie-point-by-not-doing-anything-wrong-like-gm-volkswagen-says-industry-watche",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/09/06/Tesla-TSLA_0.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-09-06T11:40:45Z",
+            "content": "Tesla, Inc. TSLA on Thursday gave an ambitious timeline for bringing its full self-driving technology to Asia and Europe, and an industry watcher weighed in on the announcement.\r\nWhat Happened: The F… [+2234 chars]"
         },
         {
             "source": {
@@ -174,45 +512,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sean Conlon",
-            "title": "5 things to know before the stock market opens Friday, September 6 - CNBC",
-            "description": "Here are the most important news items that investors need to start their trading day.",
-            "url": "https://www.cnbc.com/2024/09/06/5-things-to-know-before-the-stock-market-opens-friday-september-6.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108026748-1724870295544-gettyimages-2167056379-AFP_36EM69Q.jpeg?v=1725619715&w=1920&h=1080",
-            "publishedAt": "2024-09-06T11:09:06Z",
-            "content": "Here are five key things investors need to know to start the trading day:\r\n1. Zero-for-three for the S&amp;P\r\nStocks saw more losses on Thursday, with the S&amp;P 500 suffering its third straight ses… [+4090 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "The Wall Street Journal",
-            "title": "Companies Finally Find a Use for Virtual Reality at Work - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/articles/companies-finally-find-a-use-for-virtual-reality-at-work-9dddf8db",
-            "urlToImage": null,
-            "publishedAt": "2024-09-06T11:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Eleanor Pringle",
-            "title": "Bill Gates identifies the biggest burden being passed on to his children after seeing his daughter harassed online - Fortune",
-            "description": "Microsoft co-founder Bill Gates said seeing his daughter Phoebe harassed online made him think about the problems with misinformation.",
-            "url": "https://fortune.com/2024/09/06/bill-gates-misinformation-burden-generations-freedom-speech-rules/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/GettyImages-1401834894-e1725618225965.jpg?resize=1200,600",
-            "publishedAt": "2024-09-06T10:54:00Z",
-            "content": "There are many problems billionaire tech tycoon Bill Gates is hoping to help solve: eradicating polio, water sanitization and agricultural development to name a few. But one frontier he worries is be… [+4138 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Motley Fool"
             },
             "author": "The Motley Fool",
@@ -226,28 +525,28 @@
         {
             "source": {
                 "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "2025 Social Security COLA Increase: Here's What the Experts Predict - CNET",
+            "description": "We're still some weeks away from the official announcement, but experts predict a slight increase for 2025.",
+            "url": "https://www.cnet.com/personal-finance/2025-social-security-cola-increase-heres-what-the-experts-predict/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/105a4e4e9f07faa46149a5bc37b369eb454b2145/hub/2024/04/18/2fe189be-35f8-492d-8c12-ed7190d632e7/social-security.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-09-06T10:15:00Z",
+            "content": "With 68 million people receiving Social Security benefits, many are anticipating the official COLA increase announcement for 2025 by the Social Security Administration. Each year, the SSA announces a… [+3293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Yahoo Entertainment"
             },
             "author": "Laura Grace Tarpley",
             "title": "Mortgage and refinance rates today, September 6, 2024: Rates drop 77 basis points in a year - Yahoo Finance",
             "description": "These are today's mortgage and refinance rates. Rates have hardly changed since last week, but they're down since this time last year. Lock in your rate...",
-            "url": "https://finance.yahoo.com/personal-finance/mortgage-refinance-rates-today-friday-september-6-2024-100035352.html/",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "url": "https://finance.yahoo.com/personal-finance/mortgage-refinance-rates-today-friday-september-6-2024-100035352.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pkSpSwDGDZC8Ol_scXouEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
             "publishedAt": "2024-09-06T10:00:35Z",
-            "content": "Mortgage rates haven't changed much since last week. According to Freddie Mac, the 30-year fixed rate has remained stagnant at 6.35%, and the 15-year fixed rate is down just four basis points to 5.47… [+6088 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Chloe Sorvino",
-            "title": "Meet The Billionaire Family Producing America’s Bestselling Cheeses - Forbes",
-            "description": "With $1.8 billion in sales, Sargento continues to innovate its top-selling cheddar, mozzarella and string cheeses. And third-generation CEO Louie Gentine has a plan to keep shredding the competition.",
-            "url": "https://www.forbes.com/sites/chloesorvino/2024/09/06/meet-the-billionaire-family-behind-sargento-cheese/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66da287f9b5de9e0f5bc67fd/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-09-06T10:00:00Z",
-            "content": "When its time to introduce a new kind of cheese to grocery stores, many brands spend millions to develop a product without putting much additional money into marketing. But at Sargento, as its third-… [+8109 chars]"
+            "content": "Mortgage rates haven't changed much since last week. According to Freddie Mac, the 30-year fixed rate has remained stagnant at 6.35%, and the 15-year fixed rate is down just four basis points to 5.47… [+5726 chars]"
         },
         {
             "source": {
@@ -264,32 +563,6 @@
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Heather Haddon",
-            "title": "The 35-Year-Old CEO Plotting Red Lobster’s Comeback - The Wall Street Journal",
-            "description": "The former P.F. Chang’s leader promises better service, food and interiors, but no more $20 unlimited shrimp on the standard menu",
-            "url": "https://www.wsj.com/business/hospitality/the-35-year-old-ceo-plotting-red-lobsters-comeback-3c79d1a3",
-            "urlToImage": "https://images.wsj.net/im-33678153/social",
-            "publishedAt": "2024-09-06T09:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WKMG News 6 & ClickOrlando"
-            },
-            "author": "Robert Breuer",
-            "title": "Over one-third of Americans struggle to afford groceries. Here are 10 ways you can save - WKMG News 6 & ClickOrlando",
-            "description": "The continued higher costs have forced Americans to make changes to their spending habits.",
-            "url": "https://www.clickorlando.com/news/local/2024/09/06/over-one-third-of-americans-struggle-to-afford-groceries-here-are-10-ways-to-save/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/l2OgxpEBCn68at4T_bpM/1725614425731_1920x1080_thumbnail.jpg?_a=DATAfRfiZAA0",
-            "publishedAt": "2024-09-06T09:00:00Z",
-            "content": "ORLANDO, Fla. Earlier this month the Federal Trade Commission and the Department of Justice hosted their first ever public meeting of the Strike Force on Unfair and Illegal Pricing\r\n.\r\nFTC Chair Lina… [+4085 chars]"
-        },
-        {
-            "source": {
                 "id": "politico",
                 "name": "Politico"
             },
@@ -300,71 +573,6 @@
             "urlToImage": null,
             "publishedAt": "2024-09-06T09:00:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Airline rewards programs under scrutiny by U.S. - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2024/09/05/airline-rewards-programs-scrutiny-dot",
-            "urlToImage": null,
-            "publishedAt": "2024-09-06T08:52:42Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brittany Kasko",
-            "title": "Airline passenger captures 'manspreading' moment in viral TikTok, sparking debate - Fox News",
-            "description": "A TikTok video went viral after a flight passenger showed footage of a man spreading his legs into her space midflight. The video sparked a debate on social media.",
-            "url": "https://www.foxnews.com/travel/airline-passenger-captures-manspreading-moment-viral-tiktok-sparking-debate",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/plane-split2.jpg",
-            "publishedAt": "2024-09-06T08:00:00Z",
-            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+3815 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkei.com"
-            },
-            "author": "Staff Writer",
-            "title": "Toyota to slow EV output to 30% below previous 2026 sales forecast - Nikkei Asia",
-            "description": "Japan auto giant revises plan, now eyes 1m cars for global market",
-            "url": "https://asia.nikkei.com/Business/Automobiles/Electric-vehicles/Toyota-to-slow-EV-output-to-30-below-previous-2026-sales-forecast",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F5%2F5%2F3%2F48223550-3-eng-GB%2FCropped-1725598481photo_SXM2024090500014323.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-            "publishedAt": "2024-09-06T06:04:00Z",
-            "content": "NAGOYA -- Toyota Motor plans to significantly slow its production of electric vehicles, cutting its global output forecast for 2026 to 1 million cars, some 30% lower than the previously announced sal… [+216 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Dot"
-            },
-            "author": "Mars Ramos",
-            "title": "‘I did the Chase bank glitch’: Woman issues warning after taking advantage of Bank of America glitch 13 years ago - The Daily Dot",
-            "description": "'Good luck to all those people'",
-            "url": "https://www.dailydot.com/news/chase-bank-glitch-fraud/",
-            "urlToImage": "https://uploads.dailydot.com/2024/09/bank-of-america.jpg?auto=compress&fm=pjpg",
-            "publishedAt": "2024-09-06T06:00:00Z",
-            "content": "Committing bank fraud is almost never a good ideatake it from someone who’s done it. \r\nWith the talks of the Chase bank glitch going around the web right now, TikTok user Salty Stella (@salty.sella) … [+3801 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "7-Eleven owner rejects $38.7bn buyout offer from rival - BBC.com",
-            "description": "Japanese owner of convenience store giant says offer from Canadian rival ‘grossly undervalues’ firm.",
-            "url": "https://www.bbc.com/news/articles/cz9w74dwkgno",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/99de/live/27f1a0f0-6bee-11ef-9b5b-f1989844e211.jpg",
-            "publishedAt": "2024-09-06T05:48:45Z",
-            "content": "The Japanese owner of convenience store chain 7-Eleven has rejected a $38bn (£29.2bn) takeover bid from Canadian rival Alimentation Couche-Tard.\r\nIn a letter addressedto the prospective buyer, Seven … [+2148 chars]"
         },
         {
             "source": {
@@ -395,80 +603,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Benzinga"
+                "name": "Becker's Hospital Review"
             },
-            "author": "Kaustubh Bagalkote",
-            "title": "US Steel CEO David Burritt Blasted By United Steelworkers President After $15B Deal With Nippon Steel Comes Under Biden Administration Scrutiny: 'Get A Decent CEO' - Benzinga",
-            "description": "David McCall, President of United Steelworkers met Nippon Steel's Executive Vice President Takahiro Mori this summer to describe the union's demands, particularly ensuring that the Japanese steelmaker's parent sign the deal",
-            "url": "https://www.benzinga.com/markets/equities/24/09/40744125/us-steel-ceo-david-burritt-blasted-by-united-steelworkers-president-after-15b-deal-with-nippon-s",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/09/05/Kaufbeuren--Germany---June-12--2021-Unit.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2024-09-06T03:18:54Z",
-            "content": "As President Joe Biden prepares to block the deal between Nippon Steel CorpNPSCY and United States SteelX, the head of United Steelworkers says that the Japanese steelmaker needs to rework its deal a… [+2765 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Ted Johnson, Dade Hayes",
-            "title": "Skydance Tells FCC Paramount Deal Will Boost CBS And Local Stations; Larry Ellison Will Control Company After Merger - Deadline",
-            "description": "Skydance and Paramount Global highlighted the impact that their proposed merger will have on CBS and local stations in a filing with the FCC that is part of initial steps to secure regulatory approval. The document also disclosed that Oracle co-founder Larry …",
-            "url": "http://deadline.com/2024/09/skydance-paramount-fcc-1236079534/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/07/Paramount-Skydance-1.jpg?w=1024",
-            "publishedAt": "2024-09-06T00:42:00Z",
-            "content": "Skydance and Paramount Global highlighted the impact that their proposed merger will have on CBS and local stations in a filing with the FCC that is part of initial steps to secure regulatory approva… [+4682 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Deborah Sophia, Harshita Varghese",
-            "title": "Verizon to buy Frontier in $20 bln deal to boost fiber network in U.S. - Reuters",
-            "description": "Verizon said on Thursday it will buy fiber-optic internet provider Frontier Communications in an all-cash deal worth $20 billion, as the U.S. wireless carrier looks to grow its subscriber base.",
-            "url": "https://www.reuters.com/markets/deals/verizon-acquire-frontier-20-bln-deal-2024-09-05/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/FWVXSOQQIRPXPBZN6CN7GPKNFU.jpg?auth=70e32d6bebdf14072aa1d7755ebee498c4b08d32915900a782193e9da908a105&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-09-05T23:42:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "James Ochoa",
-            "title": "BMW, Toyota take a risky gamble on a failing product - TheStreet",
-            "description": "The automakers' latest bet is much riskier than EVs.",
-            "url": "https://www.thestreet.com/automotive/bmw-toyota-gamble-hydrogen",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA5MDc3NDA5OTczMDIwNTE2/p90566389_highres_hydrogen-pioneers-bm-1.jpg",
-            "publishedAt": "2024-09-05T23:37:00Z",
-            "content": "Battery-electric vehicles such as those made by Tesla are becoming the poster child for zero-emissions motoring and the focus of attention by some lawmakers when it comes to rules and regulations tha… [+5273 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Rita Nazareth",
-            "title": "US Yields Sink as Jobs Put Jumbo Fed Cut in Play: Markets Wrap - Bloomberg",
-            "description": "Stocks careened toward the worst weekly drop since March 2023 and bonds whipsawed as another disappointing report on the labor market revived concerns the economy is cooling and the Federal Reserve is moving too slow to rescue it.",
-            "url": "https://www.bloomberg.com/news/articles/2024-09-05/stock-market-today-dow-s-p-live-updates",
-            "urlToImage": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-markets.e062a0c0.jpg",
-            "publishedAt": "2024-09-05T22:32:57Z",
-            "content": "Stocks careened toward the worst weekly drop since March 2023 and bonds whipsawed as another disappointing report on the labor market revived concerns the economy is cooling and the Federal Reserve i… [+469 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PBS"
-            },
-            "author": "Geoff Bennett, Karina Cuevas",
-            "title": "Disney dispute leaves DirecTV customers without popular sports channels - PBS NewsHour",
-            "description": "More than 11 million DirecTV customers were left in the dark after Disney pulled ESPN, ABC and other channels from the provider on a busy sports night. Viewers were cut off in the middle of a U.S. Open tennis match and before the kickoff of a college football…",
-            "url": "https://www.pbs.org/newshour/show/disney-dispute-leaves-directv-customers-without-popular-sports-channels",
-            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/09/DisneyShowdown-1024x728.jpg",
-            "publishedAt": "2024-09-05T22:25:46Z",
-            "content": "Meg James:\r\nWell, this debate has been simmering behind the surface because the pay-TV providers, like DirecTV are increasingly aggravated that Disney and other programmers have started their own str… [+588 chars]"
+            "author": "Laura Dyrda",
+            "title": "11 health systems leading in AI - Becker's Hospital Review",
+            "description": "As artificial intelligence tools continue to advance, the transformative potential in healthcare is becoming increasingly clear.",
+            "url": "https://www.beckershospitalreview.com/healthcare-information-technology/11-health-systems-leading-in-ai.html",
+            "urlToImage": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+            "publishedAt": "2024-09-05T21:45:43Z",
+            "content": "As artificial intelligence tools continue to advance, the transformative potential in healthcare is becoming increasingly clear.\r\nHistorically, much of the focus has been on validating algorithms in … [+21253 chars]"
         },
         {
             "source": {
@@ -486,19 +629,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Barron's"
-            },
-            "author": "Barron's",
-            "title": "5% Savings Yields Are Getting Harder to Find. Where to Put Cash Now - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/high-yields-where-to-put-cash-now-d5be02d9",
-            "urlToImage": null,
-            "publishedAt": "2024-09-05T20:52:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNBC"
             },
             "author": "Lori Ann LaRocco",
@@ -507,20 +637,20 @@
             "url": "https://www.cnbc.com/2024/09/05/port-union-voices-full-support-for-strike-raising-us-economic-fears.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/107395504-1712064652342-gettyimages-2118348126-PORT_OPERATIONS_NEWARK.jpeg?v=1712064690&w=1920&h=1080",
             "publishedAt": "2024-09-05T19:47:31Z",
-            "content": "After two days of meetings of North America's largest longshoremen's union amid an impasse with port ownership on a new contract, concerns of a strike are growing amongst those in the business and lo… [+8274 chars]"
+            "content": "After two days of meetings of North America's largest longshoremen's union amid an impasse with port ownership on a new contract, concerns of a strike are growing amongst those in the business and lo… [+8431 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Variety"
             },
-            "author": "Umar Shakir",
-            "title": "Tesla Full Self-Driving coming to Cybertruck and maybe Europe and China - The Verge",
-            "description": "Tesla’s Full Self-Driving software is arriving on Cybertruck. FSD v13 is coming, and Tesla expects regulatory approval in Europe and China.",
-            "url": "https://www.theverge.com/2024/9/5/24236628/tesla-fsd-full-self-driving-cybertruck-europe-eu-china-launch-regulators",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/c1JKEJnVbJ_nWBJ5P9igwc9Uc5k=/0x0:4032x3024/1200x628/filters:focal(2016x1512:2017x1513)/cdn.vox-cdn.com/uploads/chorus_asset/file/25605448/IMG_5464.jpeg",
-            "publishedAt": "2024-09-05T18:29:05Z",
-            "content": "Tesla Full Self-Driving coming to Cybertruck and maybe Europe and China\r\nTesla Full Self-Driving coming to Cybertruck and maybe Europe and China\r\n / The companys advanced driver-assist system will la… [+2544 chars]"
+            "author": "Todd Spangler",
+            "title": "Tech Tycoon Larry Ellison Will Control Paramount Global After Skydance Deal Closes: Filing - Variety",
+            "description": "Larry Ellison will be the majority shareholder of National Amusements Inc., which controls Paramount Global, once the Skydance deal closes.",
+            "url": "https://variety.com/2024/tv/news/larry-ellison-own-control-paramount-skydance-deal-filing-1236132167/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/09/Larry-Ellison.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-09-05T19:36:00Z",
+            "content": "Larry Ellison, the megabillionaire founder of Oracle, will be the majority shareholder of National Amusements Inc., the company that controls Paramount Global, after the expected closing of the deal … [+3544 chars]"
         },
         {
             "source": {
@@ -538,80 +668,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Benzinga"
-            },
-            "author": "Chris Katje",
-            "title": "Apple iPhone 16 Event Not 'Sell The News,' Analyst Says: 'Shares Could Move Higher' - Benzinga",
-            "description": "Apple stock is flat over the last 60 days, which might make the iPhone 16 Sept. 9 event less of a \"sell the news\" event than in the past.",
-            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/09/40737548/apple-iphone-16-event-not-sell-the-news-analyst-says-shares-could-move-higher",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/09/05/7-Products-Apple-Will-Likely-Discontinue.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2024-09-05T17:43:41Z",
-            "content": "Apple Inc's AAPL iPhone 16 presentation may not be a sell the news item for the company's stock like past Apple events, an analyst said ahead of the highly anticipated Glowtime event.  \r\nThe Analyst:… [+1556 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Short seller Andrew Left's fraud trial moved to September 2025 - Reuters",
-            "description": "Prominent activist short seller Andrew Left will face trial in September 2025 over allegations he committed fraud, after his lawyers and U.S. prosecutors agreed to push back the case.",
-            "url": "https://www.reuters.com/legal/short-seller-andrew-lefts-fraud-trial-moved-september-2025-2024-09-05/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/4UG7W45M5FKJLHYVNTFV5ADECM.jpg?auth=13aa1f93e561010b808cff4afcb7464eac9f2e7f98134dcdcee11252db8184ba&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-09-05T16:21:55Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Teslarati"
-            },
-            "author": "Joey Klender",
-            "title": "Elon Musk snubbed from TIME’s ‘Most Influential People in AI’ list - TESLARATI",
-            "description": "Tesla CEO Elon Musk was snubbed from TIME Magazine's \"Most Influential People in AI\" list.",
-            "url": "https://www.teslarati.com/elon-musk-snubbed-time-most-influential-people-in-ai-list/",
-            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/06/2048px-20_05_2022_Conectividade_e_Proteção_da_Amazônia_com_Elon_Musk_52090111819-1024x648.png",
-            "publishedAt": "2024-09-05T16:15:30Z",
-            "content": "Tesla CEO Elon Musk was snubbed from TIME Magazine’s “Most Influential People in AI” list, despite being the driving force behind the company’s self-driving efforts, data collection, and the developm… [+2272 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Lucia Mutikani",
-            "title": "US weekly jobless claims fall amid low layoffs - Reuters",
-            "description": "The number of Americans filing new applications for jobless benefits declined last week as layoffs remained low, helping to allay fears that the labor market was deteriorating.",
-            "url": "https://www.reuters.com/markets/us/us-weekly-jobless-claims-decline-layoffs-remain-low-2024-09-05/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/52J72RXTFNKQXEGEULRPIRHNAM.jpg?auth=335823f74151477f9774f40b5006291a9b4ea0d2b7a58a515a6edf5b883144ab&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-09-05T14:06:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Fox Business"
             },
-            "author": "Eric Revell",
-            "title": "Private sector job growth cools to 99,000 in August, well below estimate: ADP - Fox Business",
-            "description": "Job growth in the private sector was slower than expected in August, as ADP's report showed a gain of 99,000 jobs, fewer than the 145,000 expected by economists.",
-            "url": "https://www.foxbusiness.com/economy/private-sector-job-growth-cools-99000-august-well-below-estimate-adp",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/workers-2.jpg?ve=1&tl=1",
-            "publishedAt": "2024-09-05T13:50:00Z",
-            "content": "The U.S. private sector added fewer jobs than expected in August as the labor market continued to cool off amid high interest rates, according to the ADP National Employment Report released Thursday … [+3682 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Brad Smith",
-            "title": "Nvidia denies receiving DOJ subpoena in antitrust probe - Yahoo Finance",
-            "description": "A Bloomberg report initially claimed that Nvidia (NVDA) had been subpoenaed by the US Department of Justice over antitrust concerns. However, Nvidia has...",
-            "url": "https://finance.yahoo.com/video/nvidia-denies-receiving-doj-subpoena-134512667.html/",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-09-05T13:45:12Z",
-            "content": "A Bloomberg report initially claimed that Nvidia (NVDA) had been subpoenaed by the US Department of Justice over antitrust concerns. However, Nvidia has since refuted these claims. In a statement to … [+269 chars]"
+            "author": "Daniella Genovese",
+            "title": "Verizon-Frontier deal: How it could impact customers - Fox Business",
+            "description": "Verizon on Thursday announced plans to acquire Frontier in a deal valued at $20 billion so it can boost its delivery of mobility and broadband connectivity services.",
+            "url": "https://www.foxbusiness.com/lifestyle/verizon-frontier-deal-how-could-impact-customers",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/05/0/0/verizon_wireless_phone_sign.jpg?ve=1&tl=1",
+            "publishedAt": "2024-09-05T17:44:00Z",
+            "content": "Verizon Communications Inc. on Thursday announced plans to acquire Frontier Communications in an all-cash transaction valued at $20 billion, which is expected to expand Verizon's fiber footprint nati… [+3442 chars]"
         },
         {
             "source": {
@@ -642,41 +707,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Tipranks.com"
+                "name": "Men's Journal"
             },
-            "author": "Shrilekha Pethe",
-            "title": "NIO Earnings: NIO Shares Surge after Robust Q2 Results Beat Expectations - TipRanks",
-            "description": "Shares of NIO ($NIO) were on an upswing in pre-market trading after the Chinese EV major reported robust second-quarter results. In the second quarter, NIO’s adjust...",
-            "url": "https://www.tipranks.com/news/nio-earnings-nio-posts-robust-q2-results-issues-upbeat-outlook",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/09/shutterstock_2171890901-6-750x406.jpg",
-            "publishedAt": "2024-09-05T12:51:15Z",
-            "content": "Shares of NIO (NIO) were on an upswing in pre-market trading after the Chinese EV major reported robust second-quarter results. In the second quarter, NIO’s adjusted loss per American Depositary Shar… [+1739 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Asa Fitch",
-            "title": "Exclusive | Nvidia and Other Investors Back Applied Digital With $160 Million in Funding - The Wall Street Journal",
-            "description": "Capital is expected to help data-center and AI cloud company grow",
-            "url": "https://www.wsj.com/tech/ai/nvidia-and-other-investors-back-applied-digital-with-160-million-in-funding-76157532",
-            "urlToImage": "https://images.wsj.net/im-95423848/social",
-            "publishedAt": "2024-09-05T12:30:00Z",
-            "content": "Artificial-intelligence chip giant NvidiaNVDA0.94%increase; green up pointing triangle\r\nis joining other investors in a $160 million financing round for Applied DigitalAPLD65.74%increase; green up po… [+533 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Benzinga"
-            },
-            "author": "Akanksha Bakshi",
-            "title": "Asia And Europe Markets Mixed; Oil Stays Below $70, Dollar Retreats - Global Markets Today While US Slept - Benzinga",
-            "description": "On Wed, US markets closed mixed as labor market data & Fed comments hinted at potential rate cut. Dow gained slightly, S&P & Nasdaq slipped.",
-            "url": "https://www.benzinga.com/markets/asia/24/09/40726873/asia-and-europe-markets-mixed-oil-stays-below-70-dollar-retreats-global-markets-today-while-us-slept",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/09/05/Macro-Shot-Of-Computer-Monitor-With-Worl.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2024-09-05T11:16:16Z",
-            "content": "On Wednesday, September 4th, the U.S. closed mixed as labor market data and Fed comments suggested a potential rate cut. Job openings in July dropped to a 3.5-year low, signaling a cooling labor mark… [+2628 chars]"
+            "author": "Anthony Mastracci",
+            "title": "Hoka's 'Amazing' Walking Shoes That 'Have So Much More Cushion' Than Other Sneakers Are A Super-Rare 20% Off - Men's Journal",
+            "description": "Hoka's Bondi 8 Running Shoes are on sale at Dick's Sporting Goods for $132—less than at Hoka. Shoppers say they're \"amazing\" for everyday walking and running.",
+            "url": "https://www.mensjournal.com/gear/hoka-bondi-8-running-shoes-dicks-sporting-goods-sale",
+            "urlToImage": "https://www.mensjournal.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA5MDU0MTE2NDg2MzkxNDA4/hoka-bondi-sale.jpg",
+            "publishedAt": "2024-09-04T17:59:45Z",
+            "content": "Mens Journal aims to feature only the best products and services.  If you buy something via one of our links, we may earn a commission.This summer was filled with discounts on almost every Hoka hikin… [+2396 chars]"
         }
     ]
 }

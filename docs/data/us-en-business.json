@@ -1,19 +1,331 @@
 {
     "status": "ok",
-    "totalResults": 65,
+    "totalResults": 64,
     "articles": [
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
+            "author": "Yeo Boon Ping",
+            "title": "CNBC Daily Open: Tech might not be the biggest beneficiary of rate cuts - CNBC",
+            "description": "Technology stocks benefit the most from low interest rates, conventional market wisdom says.",
+            "url": "https://www.cnbc.com/2024/09/17/cnbc-daily-open-tech-might-not-be-the-biggest-beneficiary-of-rate-cut.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108034948-1726531738954-gettyimages-2171974839-33a3313_sunrise11_09142024.jpeg?v=1726531762&w=1920&h=1080",
+            "publishedAt": "2024-09-17T01:37:00Z",
+            "content": "This report is from today's CNBC Daily Open, our international markets newsletter. CNBC Daily Open brings investors up to speed on everything they need to know, no matter where they are. Like what yo… [+3877 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Intel moves to spin out foundry business, inks AI chip deal with AWS - TechCrunch",
+            "description": "Intel announced it'll pause its chip-making plans in Poland and Germany -- and expand a deal with AWS to build custom chips, including an AI processor.",
+            "url": "https://techcrunch.com/2024/09/16/intel-inks-ai-chip-deal-with-aws-pauses-plans-in-poland-and-germany/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1230712303.jpg?w=1024",
+            "publishedAt": "2024-09-16T23:56:44Z",
+            "content": "Intel has announced a key customer win and changes to its foundry business as the beleaguered chipmaker looks to execute a turnaround.\r\nIntel is taking steps to transition its chip foundry division, … [+2426 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jason Del Rey",
+            "title": "Andy Jassy's return-to-office mandate shows how serious the Amazon culture mid-life crisis has gotten - Fortune",
+            "description": "The Amazon CEO's announcement on Monday, ordering the end to pandemic-era hybrid work and flattening management, is a very public and calculated kick in the pants to the 30-year-old organization.",
+            "url": "https://fortune.com/2024/09/16/andy-jassy-5-days-return-to-office-order-amazon-work-culture-concerns/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/GettyImages-670451722-e1726527666880.jpg?resize=1200,600",
+            "publishedAt": "2024-09-16T23:26:00Z",
+            "content": "For years, Amazon employees and executives have warned that the companys unique corporate culture was starting to fray. The worries have crescendoed recently, as I reported in this deep Fortune inves… [+5623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Starbucks North America head retires after five months in the role - CNBC",
+            "description": "Starbucks said on Monday that its North America CEO, Michael Conway, had decided to retire after about 11 years at the coffee chain.",
+            "url": "https://www.cnbc.com/2024/09/16/starbucks-north-america-head-retires-after-five-months-in-the-role-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108034926-1726525943078-Michael-Conway-2.jpg?v=1726528228&w=1920&h=1080",
+            "publishedAt": "2024-09-16T23:11:28Z",
+            "content": "Starbucks said on Monday that its North America CEO, Michael Conway, had decided to retire after about 11 years at the coffee chain.\r\nThe move comes amid newly-appointed Chief Executive Officer Brian… [+1061 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Andrew Pollack",
+            "title": "Microsoft Announces $60 Billion Buyback, Raises Dividend 10% - Bloomberg",
+            "description": "Microsoft Corp. unveiled a new $60 billion stock-buyback program, matching its largest-ever repurchase authorization, and raised its quarterly dividend 10%.",
+            "url": "https://www.bloomberg.com/news/articles/2024-09-16/microsoft-announces-60-billion-buyback-raises-dividend-10",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ9pFrIh86ko/v0/1200x800.jpg",
+            "publishedAt": "2024-09-16T22:09:11Z",
+            "content": "Microsoft Corp. unveiled a new $60 billion stock-buyback program, matching its largest-ever repurchase authorization, and raised its quarterly dividend 10%.\r\nThe software company said shareholders as… [+241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Josh Lipton",
+            "title": "What the Fed's interest rate cut means for the bond market - Yahoo Finance",
+            "description": "Janney Montgomery Scott chief fixed income strategist Guy LeBas joins Market Domination Overtime to discuss how the Federal Reserve's interest rate cut will ...",
+            "url": "https://finance.yahoo.com/video/feds-interest-rate-cut-means-220013633.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-09-16T22:00:13Z",
+            "content": "Janney Montgomery Scott chief fixed income strategist Guy LeBas joins Market Domination Overtime to discuss how the Federal Reserve's interest rate cut will weigh on the bond market (^TYX, ^TNX, ^FVX… [+1740 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "Boar’s Head will never make liverwurst again after outbreak that killed 9 - Ars Technica",
+            "description": "Indefinitely closed plant rated area with Listeria as \"low risk\" for Listeria.",
+            "url": "https://arstechnica.com/science/2024/09/boars-head-will-never-make-liverwurst-again-after-outbreak-that-killed-9/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2164656717-760x380.jpg",
+            "publishedAt": "2024-09-16T21:44:49Z",
+            "content": "Enlarge/ A recall notice is posted next to Boar's Head meats that are displayed at a Safeway store on July 31, 2024, in San Rafael, California.\r\n33\r\nThe Boar's Head deli-meat plant at the epicenter o… [+4687 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Dawn Chmielewski",
+            "title": "Murdoch succession drama plays out in closed court in Reno, Nevada - Reuters.com",
+            "description": "A battle over control of Rupert Murdoch’s global television and publishing empire begins Monday in a Reno, Nevada courtroom, where a judge will consider the contentious matter of succession.",
+            "url": "https://www.reuters.com/world/us/murdoch-succession-drama-plays-out-closed-court-2024-09-16/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/EMUCDRHRKNMOBBBTWMMJRRA22Y.jpg?auth=63934a7861b14730550db7590f9d230b462021c31413c254dbf0d14602aab29d&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-09-16T21:42:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Eric D. Lawrence",
+            "title": "UAW: Stellantis trying to move Dodge Durango production out of Detroit - Detroit Free Press",
+            "description": "The UAW says its locals are pushing back against attempts by Stellantis to move Dodge Durango production out of Detroit.",
+            "url": "https://www.freep.com/story/money/cars/chrysler/2024/09/16/uaw-warns-stellantis-dodge-durango-production-move-detroit/75252723007/",
+            "urlToImage": "https://www.freep.com/gcdn/presto/2022/08/15/PDTF/04f6fb78-172b-46a4-91e3-e6735340f73a-DG023_047DUfsrmo8o6s4jl3h2v5tfucn37pt.JPG?crop=999,562,x0,y51&width=999&height=562&format=pjpg&auto=webp",
+            "publishedAt": "2024-09-16T21:24:28Z",
+            "content": "The UAW said its locals are pushing back against what the union says are Stellantis' attempts to move Dodge Durango production out of Detroit.\r\nThe union said that locals representing thousands of me… [+3175 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sydney Lake",
+            "title": "Mark Cuban says he’s not going through a midlife crisis but would buy X and Fox News if he could - Fortune",
+            "description": "\"If I had enough money to do it, which I don’t, I’d buy it in a heartbeat,\" the billionaire told Wired.",
+            "url": "https://fortune.com/2024/09/16/mark-cuban-buy-fox-news-x-midlife-crisis-interview/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/GettyImages-1421425943-e1726515426877.jpg?resize=1200,600",
+            "publishedAt": "2024-09-16T20:38:00Z",
+            "content": "Cuban, who is worth $7.66 billion, told Wireds Lauren Goode that hes doing the exact opposite of having a midlife crisis. Instead, hes taken a massive leap into pharmaceuticals, an industry he hasnt … [+2921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jorge Fitz-Gibbon",
+            "title": "Deal-hunting 8-year-old girl drives herself 10 miles to local Target - New York Post ",
+            "description": "Police in Ohio said an 8-year-old girl who went missing with the family SUV on Sunday and was found about 10 miles away shopping at a local Target department store.",
+            "url": "https://nypost.com/2024/09/16/us-news/deal-hunting-8-year-old-girl-drives-herself-10-miles-to-local-target/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/8-year-old-ohio-girl-89824883.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-09-16T20:35:00Z",
+            "content": "This bargain-hunting kid wasn’t playing around. \r\nAn 8-year-old Ohio girl was so set on shopping that she hopped behind the wheel of the family SUV and drove for 10 miles to the local Target, accordi… [+2008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Nvidia's Stock Rally Pauses. A New Generation of Data Centers Is Arriving. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/nvidia-stock-price-buy-sell-d10180d0",
+            "urlToImage": null,
+            "publishedAt": "2024-09-16T20:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ Staff, Dan Gallagher, Nick Timiraos, Patrick Thomas, Quentin Webb, Matt Wirz, Chelsey Dulaney, Vicky Ge Huang, Heard Editors",
+            "title": "Stock Market Today: Dow Hits Record as Investors Bet on Bigger Fed Cut - The Wall Street Journal",
+            "description": "Tech stocks trail with focus turning to Federal Reserve's interest-rate decision Wednesday",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-09-16-2024",
+            "urlToImage": "https://images.wsj.net/im-925349/social",
+            "publishedAt": "2024-09-16T20:16:00Z",
+            "content": "Traders are ramping up wagers that the Federal Reserve will kick off its interest-rate easing campaign with a big cut.\r\nOn Monday, derivatives markets showed investors saw a roughly three-in-five cha… [+1425 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Melissa Repko",
+            "title": "In federal trial, Michael Kors says it's harder to sell handbags in TikTok and Taylor Swift era - CNBC",
+            "description": "It is one of the latest testimonies in the Federal Trade Commission's lawsuit to block the merger of Coach's owner Tapestry and Michael Kors' owner Capri.",
+            "url": "https://www.cnbc.com/2024/09/16/tapestry-capri-antitrust-trial-michael-kors-testifies.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105469541-1537875069014gettyimages-635440404.jpeg?v=1726516117&w=1920&h=1080",
+            "publishedAt": "2024-09-16T19:36:09Z",
+            "content": "NEW YORK CITY In a federal courtroom on Monday, storied fashion designer Michael Kors spoke about the steep challenge of staying relevant in a world where brands can rise and fall based on viral TikT… [+3202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Karen Friar",
+            "title": "Stock market today: Nasdaq slides as Apple slips, with Fed rate cut on the horizon - Yahoo Finance",
+            "description": "Investors are bracing for a crucial week dominated by the Fed's first interest rate cut in four years.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-apple-pulls-down-nasdaq-while-dow-hits-record-close-with-fed-rate-cut-on-the-horizon-133109395.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-09-16T19:35:43Z",
+            "content": "The White House Monday said an important turning point has been reached in the three-year battle against the surge in inflation and that its important to protect progress in the job market.\r\nInflatio… [+2030 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Matt Richardson",
+            "title": "How much will a $1 million mortgage cost per month after rates are cut? - CBS News",
+            "description": "With the number of homes priced at $1 million or higher growing in the U.S., buyers should calculate these costs now.",
+            "url": "https://www.cbsnews.com/news/how-much-will-1-million-mortgage-cost-monthly-after-rate-cuts/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/16/e2ab216f-0f23-4a33-99bb-a64de08b6e0b/thumbnail/1200x630/01aaf5ad9a594474fbd58c5f1c605ac5/gettyimages-1292910246.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
+            "publishedAt": "2024-09-16T19:32:57Z",
+            "content": "Homebuyers could save hundreds of dollars monthly on a $1 million mortgage if they wait for rates to drop.\r\nGetty Images/iStockphoto\r\nMortgage interest rates have dropped by more than a full percenta… [+4051 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "Boeing freezes hiring and mulls temporary layoffs, citing machinists' strike - CBS News",
+            "description": "Top Boeing exec says a strike by 33,000 assembly workers \"jeopardizes our recovery in a significant way.\"",
+            "url": "https://www.cbsnews.com/news/boeing-machinist-strike-hiring-freeze-layoffs/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/16/c0da6c4a-1c91-4ea9-bd90-dcf44991ef03/thumbnail/1200x630/30813d890b5bc92d7c0c348825e3f990/gettyimages-2170953568.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
+            "publishedAt": "2024-09-16T19:22:12Z",
+            "content": "Boeing is freezing hiring across the company, citing a strike launched on Friday by 33,000 machinists at the airplane manufacturer that it said \"jeopardizes\" its business. \r\nBoeing is also pausing al… [+2578 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Aislinn Murphy",
+            "title": "Target looking to hire 100K seasonal workers for holidays - Fox Business",
+            "description": "Target is looking to bring on board about 100,000 seasonal employees at the company’s stores and supply chain facilities ahead of the holiday shopping period this year.",
+            "url": "https://www.foxbusiness.com/retail/target-looking-hire-100k-seasonal-workers-holidays",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/target-traditional-checkout.jpg?ve=1&tl=1",
+            "publishedAt": "2024-09-16T19:16:00Z",
+            "content": "Target will hire 100,000 seasonal employees at the company’s stores and supply chain facilities ahead of the holiday shopping period this year.\r\nThe company said Monday the seasonal hires are meant t… [+2335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Cash Flow Venue",
+            "title": "Intel: The Night Looks The Darkest Before The Dawn (NASDAQ:INTC) - Seeking Alpha",
+            "description": "Intel's financial decline stems from past decisions and delays in advancing chip manufacturing technology. Learn more on INTC stock here.",
+            "url": "https://seekingalpha.com/article/4721410-intel-the-night-looks-the-darkest-before-the-dawn",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/827520706/image_827520706.jpg?io=getty-c-w1536",
+            "publishedAt": "2024-09-16T18:41:13Z",
+            "content": "Mitsuru Sakurai/DigitalVision via Getty Images\r\nIntel (NASDAQ:INTC) doesn't need much introduction, as the Company has been stealing financial media attention for quite some time. One of the leading … [+14819 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "How Google got away with charging publishers more than anyone else - The Verge",
+            "description": "Google charged publishers more than its competitors for access to its ad exchange that came with a unique source of advertiser dollars, the DOJ argued in its antitrust trial.",
+            "url": "https://www.theverge.com/2024/9/16/24244357/google-adx-take-rate-commission-antitrust-trial",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/BeGWm_Q0_1cnHzjDT9aK9d327z4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25606861/STK445_ADVERTISING_STK093_GOOGLE_B.jpg",
+            "publishedAt": "2024-09-16T18:36:24Z",
+            "content": "How Google got away with charging publishers more than anyone else\r\nHow Google got away with charging publishers more than anyone else\r\n / Googles 20 percent cut of ad transactions was the subject of… [+4531 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Points Guy"
+            },
+            "author": "Ben Smithson",
+            "title": "Air Canada offering 25% off bookings worldwide through May, plus 2,500 bonus points - The Points Guy",
+            "description": "To celebrate the tentative agreement between Air Canada and its pilots, Air Canada is offering 25% off new bookings on all routes and awarding 2,500 bonus Aeroplan points with no registration required.",
+            "url": "https://thepointsguy.com/news/air-canada-aeroplan-fare-discount/",
+            "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2022/12/Air-Canada-plane-over-LAX-airport.jpg",
+            "publishedAt": "2024-09-16T18:36:10Z",
+            "content": "To celebrate the tentative agreement between Air Canada and its pilots, Air Canada is offering 25% off new bookings on all routes. It's also awarding 2,500 bonus Air Canada Aeroplan points for new bo… [+2878 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Milana Vinn, Mike Spector",
+            "title": "Exclusive: Vista, Blackstone nearing $8-billion deal to buy Smartsheet, sources say - Reuters",
+            "description": "Buyout firms Vista Equity Partners and Blackstone are in advanced talks to acquire Smartsheet , in a deal that could value the collaboration-software maker at close to $8 billion, people familiar with the matter said on Monday.",
+            "url": "https://www.reuters.com/markets/deals/vista-blackstone-nearing-8-billion-deal-buy-smartsheet-sources-say-2024-09-16/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/2GVKKHU52RI53MAWYFN2C2N5LU.jpg?auth=c3343cda0a538865f20ae6a47ea3de34b8a8fb1d640bdbe7b8496f710370c204&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-09-16T18:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
             "author": "Annie Palmer",
-            "title": "Amazon tells employees to return to office five days a week - CNBC",
-            "description": "Amazon CEO Andy Jassy is instructing corporate staffers to work out of the office five days a week.",
-            "url": "https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107056670-1722544537854-107056670-1651766601589-gettyimages-1235716250-GEEKWIRE_2021.jpeg?v=1726509436&w=1920&h=1080",
-            "publishedAt": "2024-09-16T17:35:43Z",
-            "content": "Amazon is instructing corporate staffers to spend five days a week in the office, CEO Andy Jassy wrote in a memo on Monday.The decision marks a significant shift from Amazon's earlier return-to-work … [+10846 chars]"
+            "title": "Larry Ellison becomes world's second-richest man, dethroning Jeff Bezos as Oracle stock surges - CNBC",
+            "description": "Oracle Chairman Larry Ellison is now the second-richest person in the world, with a net worth of $206 billion.",
+            "url": "https://www.cnbc.com/2024/09/16/oracles-larry-ellison-dethrones-jeff-bezos-as-worlds-second-richest-man.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107428049-1718213547368-gettyimages-856460682-ORACLE_OPENWORLD_2017.jpeg?v=1726234238&w=1920&h=1080",
+            "publishedAt": "2024-09-16T17:40:47Z",
+            "content": "Oracle shares closed up 5.1% on Monday, continuing their recently rally and propelling Chairman Larry Ellison to become the world's second-richest person, snatching the title from Amazon founder Jeff… [+1727 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tipranks.com"
+            },
+            "author": "Steve Anderson",
+            "title": "Huge Win for Intel (NASDAQ:INTC) Sends Shares Surging - TipRanks",
+            "description": "A win for chip maker Intel? ($INTC) Yes, it has happened, and Intel is up over 6% in Monday afternoon’s trading thanks to the news. Intel landed a major new\n<di...",
+            "url": "https://www.tipranks.com/news/huge-win-for-intel-nasdaqintc-sends-shares-surging",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/09/intel-shutterstock_2434072203-750x406.jpg",
+            "publishedAt": "2024-09-16T17:37:42Z",
+            "content": "A win for chip maker Intel? (INTC) Yes, it has happened, and Intel is up over 6% in Monday afternoon’s trading thanks to the news. Intel landed a major new deal with the US government, and not for fr… [+2118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Vivien Lou Chen",
+            "title": "The U.S. dollar is weakening ahead of Fed rate cut. Here’s what may happen next. - MarketWatch",
+            "description": "The need for a larger cut from the Fed would point ‘toward growth concerns and economic trouble ahead,’ says analyst Joe Tuckey",
+            "url": "https://www.marketwatch.com/story/the-u-s-dollar-is-weakening-ahead-of-fed-rate-cut-this-will-determine-what-happens-next-3be23528",
+            "urlToImage": "https://images.mktw.net/im-60113359/social",
+            "publishedAt": "2024-09-16T17:35:00Z",
+            "content": "The U.S. dollar has been sliding in the run-up to a widely expected interest-rate cut from the Federal Reserve on Wednesday and, depending on the size of the Feds move, it could end up weakening furt… [+308 chars]"
         },
         {
             "source": {
@@ -27,6 +339,19 @@
             "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/09/0/0/sm-thumb-1.jpg?ve=1&tl=1",
             "publishedAt": "2024-09-16T16:52:00Z",
             "content": "A tech CEO who went viral after sending his customer database a \"Trump 2024\" message defended his call to action over political \"hate\" ahead of the 2024 presidential election. \r\nSticker Mule CEO Anth… [+5654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": "PR Newswire",
+            "title": "Red Lobster Exits Bankruptcy; Damola Adamolekun appointed CEO - PR Newswire",
+            "description": null,
+            "url": "https://www.prnewswire.com/news-releases/red-lobster-exits-bankruptcy-damola-adamolekun-appointed-ceo-302249272.html",
+            "urlToImage": null,
+            "publishedAt": "2024-09-16T16:49:00Z",
+            "content": null
         },
         {
             "source": {
@@ -44,19 +369,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Benzinga"
-            },
-            "author": "Erica Kollmann",
-            "title": "NVIDIA, Micron, SMCI Stocks Are Down Monday: What's Going On? - Benzinga",
-            "description": "Shares of NVIDIA, Super Micro Computer and Micron Technology shares are trading lower Monday. Here's a look at what's moving the stocks:",
-            "url": "https://www.benzinga.com/news/large-cap/24/09/40883011/nvidia-micron-smci-stocks-are-down-monday-whats-going-on",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/09/16/Semiconductor-Shutterstock.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2024-09-16T16:39:58Z",
-            "content": "Shares of NVIDIA Corp.NVDA, Super Micro Computer, Inc.SMCI and Micron Technology, Inc. MU shares are trading lower Monday. Here's a look at what's moving the stocks. \r\nWhat To Know:\r\nThe intense grow… [+1633 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Yahoo Entertainment"
             },
             "author": "Madison Mills",
@@ -69,55 +381,29 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Chuck Mikolajczak",
-            "title": "Tech stocks drag on Nasdaq, S&P 500 as caution reigns ahead of Fed decision - Reuters",
-            "description": "The S&P 500 was little changed while the Nasdaq fell on Monday, weighed down by a drop in technology stocks as investors continued to gauge the likelihood of an upsized rate cut from the Federal Reserve this week.",
-            "url": "https://www.reuters.com/markets/us/futures-kick-off-fed-meeting-week-cautious-note-2024-09-16/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/SWNWLKNCJZPLHC2ENCCYVE45DU.jpg?auth=1d9c91dfe516d3361fe8dce8348839a3009df4eb377a0ea6d3ac99ebc9936c6d&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-09-16T16:20:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "The Wall Street Journal",
-            "title": "Murdochs Arrive at Reno Courthouse for Showdown Over Family Trust - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/business/murdochs-arrive-at-reno-courthouse-for-showdown-over-family-trust-38dd7251",
-            "urlToImage": null,
-            "publishedAt": "2024-09-16T16:10:00Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Daily Beast"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-09-16T16:04:00Z",
-            "content": "[Removed]"
+            "author": "David Gardner",
+            "title": "Chaos in the Skies: Passenger Punches Flight Attendant - The Daily Beast",
+            "description": "A Frontier Airlines flight to San Francisco was diverted after a passenger allegedly began acting erratically and shouted, “This airplane is going down!”",
+            "url": "https://www.thedailybeast.com/frontier-airlines-passenger-punches-flight-attendant-on-california-flight",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2035,w_3617,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1726502513/GettyImages-2159140097_vd26xi",
+            "publishedAt": "2024-09-16T16:06:43Z",
+            "content": "A passenger threatened to kill everybody aboard a Frontier Airlines flight to San Francisco after he tried to choke a flight attendant, according to law enforcement.\r\nCharles Angel Salva, 30, of Frem… [+1549 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "International Business Times"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Luke Funk",
-            "title": "Target Hiring 100,000 Seasonal Workers - International Business Times",
-            "description": "The retailer is starting the holiday shopping season in October",
-            "url": "https://www.ibtimes.com/target-hiring-100000-seasonal-workers-3743451",
-            "urlToImage": "https://d.ibtimes.com/en/full/4548335/target.jpg",
-            "publishedAt": "2024-09-16T15:57:49Z",
-            "content": "Minnesota-based retailer Target says it plans to hire approximately 100,000 seasonal workers for this year's holiday season.\r\nOn Monday, it announced that along with bolstering the number of employee… [+738 chars]"
+            "author": "Aimee Picchi",
+            "title": "DJT stock got a short-lived boost after Trump vowed not to sell. It still faces a major headwind. - CBS News",
+            "description": "Trump Media stock surged on Friday after Donald Trump vowed not to sell his shares. But other insiders may soon be able to sell.",
+            "url": "https://www.cbsnews.com/news/trump-djt-stock-assassination-attempt-lock-up-september-19/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/15/43c98208-1d78-46e7-8757-2e279c97abb3/thumbnail/1200x630/3a872d6fe32a1a37940c2773a99377fa/cbsn-fusion-what-we-know-so-far-about-apparent-assassination-attempt-of-trump-thumbnail.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
+            "publishedAt": "2024-09-16T16:03:00Z",
+            "content": "Media literacy expert weighs in on Taylor Swift's endorsement of Harris, AI images shared by Trump \r\nMedia literacy expert weighs in on Taylor Swift's endorsement of Harris, AI images shared by Trump… [+4448 chars]"
         },
         {
             "source": {
@@ -138,38 +424,25 @@
                 "name": "Yahoo Entertainment"
             },
             "author": "Reuters",
-            "title": "Charter launches cheaper internet plans to boost broadband customer retention - Yahoo Finance",
-            "description": "The move comes at a time when people are dumping cable TV bundles provided by the likes of Charter for streaming services, while wireless majors including AT...",
-            "url": "https://finance.yahoo.com/news/charter-launches-cheaper-internet-plans-154348005.html/",
+            "title": "Amazon drivers join Teamsters in New York, union says - Yahoo Finance",
+            "description": "Workers across three Delivery Service Partners (DSP) in Queens, New York are demanding Amazon recognize their union and negotiate a Teamsters contract, the...",
+            "url": "https://finance.yahoo.com/news/amazon-drivers-join-teamsters-york-155054474.html/",
             "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-09-16T15:43:48Z",
-            "content": "(Reuters) - Telecoms firm Charter Communications-owned Spectrum on Monday rolled out cheaper internet plans that would be bundled with its mobile and cable TV services, amid tough competition from Co… [+1211 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Isla Binnie",
-            "title": "US stocks mixed, dollar weak on rate cut expectations - Reuters",
-            "description": "Tech stocks dragged on U.S. indexes and the dollar touched a more than one-year low against the yen on Monday as all eyes looked to a Federal Reserve meeting later this week that is expected to usher in a hotly anticipated easing cycle.",
-            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-16/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/OW7S36IZCNK4NCCLT7PXV4JPS4.jpg?auth=ff3d05495ce3f2a07cf1062c72a382bb9ddccbc88572b0f63f1d5698158f85ca&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-09-16T15:02:00Z",
-            "content": null
+            "publishedAt": "2024-09-16T15:50:54Z",
+            "content": "(Reuters) - Hundreds of delivery drivers for e-commerce giant Amazon.com have joined the International Brotherhood of Teamsters, seeking improved wages, working conditions and safety standards, the l… [+1052 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "OilPrice.com"
+                "name": "CNBC"
             },
-            "author": "Charles Kennedy",
-            "title": "U.S. Natural Gas Power Is Booming Thanks to AI - OilPrice.com",
-            "description": "The AI boom is driving a surge in demand for electricity, leading to a significant increase in natural gas-fired power generation in the United States.",
-            "url": "https://oilprice.com/Energy/Energy-General/US-Natural-Gas-Power-Is-Booming-Thanks-to-AI.html",
-            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-09-16_avcpgy5hmg.jpg",
-            "publishedAt": "2024-09-16T15:00:00Z",
-            "content": "The KRI argues constitutional authority…\r\nThe total number of active…\r\nThe wider development is that…\r\nBy Charles Kennedy - Sep 16, 2024, 10:00 AM CDT\r\nU.S. power-generating companies are announcing … [+1978 chars]"
+            "author": "Annie Nova",
+            "title": "Here's which Navient student loan borrowers may qualify for relief under $120 million settlement - CNBC",
+            "description": "The Consumer Financial Protection Bureau reached a $120 million settlement with Navient that may lead to compensation for hundreds of thousands of borrowers.",
+            "url": "https://www.cnbc.com/2024/09/16/how-navient-student-loan-borrowers-can-qualify-for-120-million-settlement.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106452022-1584629686353gettyimages-1129383268.jpeg?v=1632923499&w=1920&h=1080",
+            "publishedAt": "2024-09-16T15:44:24Z",
+            "content": "The Consumer Financial Protection Bureau last week said it had reached a $120 million settlement with student loan giant Navient that could lead to compensation for hundreds of thousands of borrowers… [+2599 chars]"
         },
         {
             "source": {
@@ -195,20 +468,7 @@
             "url": "https://www.thestreet.com/technology/nvidias-jensen-huang-addressed-three-big-questions-about-ai-future",
             "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTY3NTM5NjI5OTM1Njk5MzM1/image-placeholder-title.png",
             "publishedAt": "2024-09-16T14:33:00Z",
-            "content": "“The first thing is to remember that AI is not about a chip. AI is about an infrastructure,” Nvidia  (NVDA)  Chief Executive Jensen Huang recently explained.\r\nOn Sept. 11 Huang presented at Goldman S… [+4793 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Madison Mills",
-            "title": "Intel rises, reportedly set to receive more government funding - Yahoo Finance",
-            "description": "Intel (INTC) shares rose in early trading on Monday following a Bloomberg report that the chip giant will receive up to $3.5 billion in funding to make chips...",
-            "url": "https://finance.yahoo.com/video/intel-rises-reportedly-set-receive-142148831.html/",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-09-16T14:21:48Z",
-            "content": "Intel (INTC) shares rose in early trading on Monday following a Bloomberg report that the chip giant will receive up to $3.5 billion in funding to make chips for the Defense Department. This would be… [+331 chars]"
+            "content": "“The first thing is to remember that AI is not about a chip. AI is about an infrastructure,” Nvidia  (NVDA)  Chief Executive Jensen Huang recently explained.\r\nOn Sept. 11, Huang presented at Goldman … [+4960 chars]"
         },
         {
             "source": {
@@ -238,6 +498,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": "Ramishah Maruf",
+            "title": "Home Depot to pay $2 million settlement for overcharging customers - ABC7 Los Angeles",
+            "description": "Home Depot will pay nearly $2 million to settle a civil enforcement claim from California district attorneys that the home improvement company was engaging in false advertising and unfair competition.",
+            "url": "https://abc7.com/post/home-depot-pay-2-million-settlement-overcharging-customers/15309991/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/15309997_091624-kfsn-430a-home-depot-charge-vid.jpg?w=1600",
+            "publishedAt": "2024-09-16T13:36:58Z",
+            "content": "NEW YORK -- Home Depot will pay nearly $2 million to settle a civil enforcement claim from California district attorneys that the home improvement company was engaging in false advertising and unfair… [+1325 chars]"
+        },
+        {
+            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
@@ -252,15 +525,15 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Charter.com"
             },
-            "author": "Angelica Peebles",
-            "title": "Drugmakers bet billions that targeted radiation could become the next cancer breakthrough - CNBC",
-            "description": "Bristol Myers Squibb, AstraZeneca, Eli Lilly and other drug companies have invested some $10 billion on promising cancer technology behind Novartis' Pluvicto.",
-            "url": "https://www.cnbc.com/2024/09/16/radiopharmaceuticals-race-heats-up-as-drugmakers-chase-novartis.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108034530-1726488992991-gettyimages-149126447-70683282.jpeg?v=1726489029&w=1920&h=1080",
-            "publishedAt": "2024-09-16T13:18:34Z",
-            "content": "Drugmakers are betting that delivering radiation directly to tumors will become the next big cancer breakthrough. \r\nBristol Myers Squibb, AstraZeneca, Eli Lilly and other pharmaceutical companies hav… [+8977 chars]"
+            "author": "Staff Writer",
+            "title": "Spectrum Announces Customer Commitment - Charter Communications",
+            "description": "Spectrum has launched a new Customer Commitment focused on reliability, transparency, and exceptional service. Key features include automatic speed increases for current customers, simplified pricing (starting at $30/month for 500 Mbps Internet when bundled),…",
+            "url": "https://corporate.charter.com/newsroom/spectrum-announces-unprecedented-customer-commitment",
+            "urlToImage": "https://corporate.charter.com/sites/default/files/2024-09/LifeUnlimited_Social%20Share.jpg",
+            "publishedAt": "2024-09-16T13:31:07Z",
+            "content": "STAMFORD, Conn. Spectrum today made a series of announcements building on the Companys customer-first philosophy, backed by money-back guarantees. They include a first-of-its-kind Customer Commitment… [+8871 chars]"
         },
         {
             "source": {
@@ -278,19 +551,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Electrek"
-            },
-            "author": "Fred Lambert",
-            "title": "Tesla produces 100 millionth battery cell, here’s what it means - Electrek",
-            "description": "Tesla has announced that it produced its 100 millionth 4680 battery cell. Here’s what it means for its production growth....",
-            "url": "http://electrek.co/2024/09/16/tesla-produced-100-millionth-battery-cell-heres-what-it-means/",
-            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/09/Tesla-4680-battery-cell-milestone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-09-16T13:11:00Z",
-            "content": "Tesla has announced that it produced its 100 millionth 4680 battery cell. Here’s what it means for its production growth.\r\nThe 4680 battery cell is a new format, 46mm x 80mm, enabled by a few new tec… [+2584 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Windows Central"
             },
             "author": "Kevin Okemwa",
@@ -300,32 +560,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/2qPLM4pna4Qw4FazDxNaSb-1200-80.jpg",
             "publishedAt": "2024-09-16T13:08:42Z",
             "content": "What you need to know\r\n<ul><li>OpenAI recently launched a series of new next-gen AI models with advanced reasoning capabilities across coding, math, and science.</li><li>Per benchmarks shared, OpenAI… [+3834 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Joe Brock, Allison Lampert, Matt Mcknight",
-            "title": "Boeing strike: bosses bruised, blindsided and on brink of crisis - Reuters.com",
-            "description": "Boeing bosses are staring down the barrel. The twists and turns of the past week paint a picture of managers badly wrong-footed by the depth of fury among workers who tossed out a 25% pay increase deal and launched strike action.",
-            "url": "https://www.reuters.com/business/aerospace-defense/boeing-strike-bosses-bruised-blindsided-brink-crisis-2024-09-16/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/HYMIBPL6JVO6HMDNUZJGPZCE5I.jpg?auth=b1ec51a07e132e162b7a6bd47951482bf6799a57959701c8283fe4373b0d8fa4&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-09-16T13:05:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newsnationnow.com"
-            },
-            "author": "Danielle Langenfeld, Ed Gallek, Peggy Gallek",
-            "title": "8-year-old girl found driving to Target in Ohio: Police - NewsNation Now",
-            "description": "Police say they found an 8-year-old girl shopping at Target after she took a car and drove there.",
-            "url": "https://www.newsnationnow.com/us-news/northeast/8-year-old-girl-found-driving-to-target-in-ohio-police/",
-            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/09/TargetGettyImages-1044327346-e1720202353517_fc64df.jpg?w=1280",
-            "publishedAt": "2024-09-16T13:03:44Z",
-            "content": "BEDFORD, Ohio (WJW) – Police in Ohio reported they found an 8-year-old girl shopping at a Target store after she took a car and drove there on busy roads.\r\nOn Sunday morning, Bedford police took a ca… [+725 chars]"
         },
         {
             "source": {
@@ -342,16 +576,16 @@
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": null,
+                "name": "Hondanews.com"
             },
-            "author": "Anchalee Worrachate",
-            "title": "BlackRock Warns on Bonds, Saying Fed Rate Cut Bets Are Overdone - Bloomberg",
-            "description": "BlackRock Inc. strategists turned underweight short-dated US Treasuries from overweight, saying the extent of Federal Reserve interest-rate cuts the market is betting on is unlikely to pan out.",
-            "url": "https://www.bloomberg.com/news/articles/2024-09-16/blackrock-warns-on-bonds-saying-fed-rate-cut-bets-are-overdone",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_HeZ0ePIYRs/v1/1200x800.jpg",
+            "author": "",
+            "title": "New 2025 Honda Accord SE Adds Sporty Styling and Standard Tech Features; Begins Arriving at Honda Dealers Today - Honda Newsroom",
+            "description": "The 2025 Honda Accord begins arriving at Honda dealerships today with more standard features, and a new turbocharged SE trim with sporty black exterior accents and a host of standard high-demand features.",
+            "url": "https://hondanews.com/en-US/honda-automobiles/releases/new-2025-honda-accord-se-adds-sporty-styling-and-standard-tech-features-begins-arriving-at-honda-dealers-today",
+            "urlToImage": "https://wieck-honda-production.s3.amazonaws.com/photos/2cb7597a42f909bdba4c7af6a1d0b9d15eaa6f42/thumbnail-364x204.jpg",
             "publishedAt": "2024-09-16T13:00:00Z",
-            "content": "BlackRock Inc. strategists turned underweight short-dated US Treasuries from overweight, saying the extent of Federal Reserve interest-rate cuts the market is betting on is unlikely to pan out.\r\nWei … [+300 chars]"
+            "content": "<ul><li>New Accord SE adds sporty black exterior accents and high demand features over well-equipped LX</li><li>All Accords now come standard with rear air conditioning vents and USB-C ports; Sport a… [+10462 chars]"
         },
         {
             "source": {
@@ -369,6 +603,19 @@
         {
             "source": {
                 "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-09-16T12:26:55Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Tipranks.com"
             },
             "author": "Omer Farooq",
@@ -378,19 +625,6 @@
             "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/09/shutterstock_2433344061-750x406.jpg",
             "publishedAt": "2024-09-16T12:22:42Z",
             "content": "Micron Technology (MU) stock has pulled back nearly 41% from its newly formed all-time-high of $153 per share in June. The stock is currently trading at $91 per share and the market is questioning wh… [+4939 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Fox News",
-            "title": "New threat facing homeowners whose properties are featured online — and it’s not just squatters - New York Post ",
-            "description": "Burglars once lurked around neighborhoods and scanned obituaries to determine whom to target. Now, with free services easily available online, they can plan potential robberies from their computers…",
-            "url": "https://nypost.com/2024/09/16/real-estate/new-threat-facing-homeowners-whose-properties-are-featured-online/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/New-threat-homes.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-09-16T12:18:00Z",
-            "content": "Burglars once lurked around neighborhoods and scanned obituaries to determine whom to target. Now, with free services easily available online, they can plan potential robberies from their computers o… [+7437 chars]"
         },
         {
             "source": {
@@ -408,6 +642,19 @@
         {
             "source": {
                 "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox News",
+            "title": "New threat facing homeowners whose properties are featured online — and it’s not just squatters - New York Post ",
+            "description": "Burglars once lurked around neighborhoods and scanned obituaries to determine whom to target. Now, with free services easily available online, they can plan potential robberies from their computers…",
+            "url": "https://nypost.com/2024/09/16/real-estate/new-threat-facing-homeowners-whose-properties-are-featured-online/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/New-threat-homes.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-09-16T12:18:00Z",
+            "content": "Burglars once lurked around neighborhoods and scanned obituaries to determine whom to target. Now, with free services easily available online, they can plan potential robberies from their computers o… [+7437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Cord Cutters News, LLC"
             },
             "author": "Luke Bouma",
@@ -420,79 +667,27 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Grace Eliza Goodwin, Geoff Weiss",
-            "title": "Trump is days away from being able to dump his Trump Media stock for a massive payday - Business Insider",
-            "description": "Trump Media's lockup period ends soon, allowing Donald Trump to sell his shares if he chooses. He'd potentially earn billions in the sell-off.",
-            "url": "https://www.businessinsider.com/trump-dump-djt-stock-sell-lockup-truth-social-2024-8",
-            "urlToImage": "https://i.insider.com/667b0e2550b021b5cae96260?width=1200&format=jpeg",
-            "publishedAt": "2024-09-16T11:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "CHRISTOPHER RUGABER",
-            "title": "Will the Federal Reserve cut interest rates fast enough to deliver a ‘soft landing’? - The Associated Press",
-            "description": "American consumers and home buyers, business people and political leaders have been waiting for months for what the Federal Reserve is poised to announce this week: That it’s cutting its key interest rate from a two-decade peak. It’s likely to be just the fir…",
-            "url": "https://apnews.com/article/interest-rates-inflation-prices-federal-reserve-economy-31e05db08464c58ce8a3f2db0270f2d3",
-            "urlToImage": "https://dims.apnews.com/dims4/default/dfb32d7/2147483647/strip/true/crop/3512x1976+0+183/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2F1c%2Ff84a5ae3625bf2cf161400b8fd7e%2F547a236063c2489fa8e177b038436151",
-            "publishedAt": "2024-09-16T10:37:00Z",
-            "content": "WASHINGTON (AP) American consumers and home buyers, business people and political leaders have been waiting for months for what the Federal Reserve is poised to announce this week: That its cutting i… [+6008 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "BBC News"
             },
-            "author": "Yael Halon",
-            "title": "California bill mandating health warning labels on gas stove sales passes in state legislature - Fox Business",
-            "description": "A California law mandating a health warning label on gas stove for sale has passed in the state legislature and awaits Gov. Newsom's signature to be signed into law.",
-            "url": "https://www.foxbusiness.com/media/california-bill-mandating-health-warning-labels-gas-stove-sales-passes-state-legislature",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/f293f291-1.jpg?ve=1&tl=1",
-            "publishedAt": "2024-09-16T10:30:00Z",
-            "content": "Gas powered stoves in California could now come with a health warning label similar to what you'd find on a pack of cigarettes or other tobacco products, according to a new proposed law in the state.… [+3349 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Companies may be more liable for genAI use than they think - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2024/09/16/companies-liability-ai-nyu-law-journal",
-            "urlToImage": null,
-            "publishedAt": "2024-09-16T09:39:37Z",
-            "content": null
+            "author": null,
+            "title": "Harland and Wolff: Titanic shipyard to go into administration - BBC.com",
+            "description": "Harland and Wolff confirms it is set to be placed into administration for the second time in five years.",
+            "url": "https://www.bbc.com/news/articles/crkddrv7v2po",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/327f/live/e997bc70-743c-11ef-8fdf-6daf1c50695d.jpg",
+            "publishedAt": "2024-09-16T10:45:07Z",
+            "content": "Non-core operations are being wound down, the firm said\r\nShipbuilding company Harland and Wolff has confirmed the business is to be placed into administration for the second time in five years.\r\nInso… [+5929 chars]"
         },
         {
             "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "The Wall Street Journal",
+            "author": "Joe Pinsker, Elizaveta Galkina",
             "title": "Where to Put Your Money When the Fed Cuts Rates - The Wall Street Journal",
-            "description": null,
+            "description": "What lower rates mean for the trillions of dollars in CDs and high-yield savings accounts",
             "url": "https://www.wsj.com/personal-finance/where-to-put-your-money-when-the-fed-cuts-rates-743e8c66",
-            "urlToImage": null,
-            "publishedAt": "2024-09-16T09:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "The Wall Street Journal",
-            "title": "These Millionaires Can Afford Their Dream Home. They’re Renting Instead. - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/economy/housing/these-millionaires-can-afford-their-dream-home-theyre-renting-instead-2cc86a73",
-            "urlToImage": null,
+            "urlToImage": "https://images.wsj.net/im-79804755/social",
             "publishedAt": "2024-09-16T09:30:00Z",
             "content": null
         },
@@ -511,55 +706,16 @@
         },
         {
             "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Lindsey Leake",
-            "title": "The return-to-office wars have diminished workplace well-being—especially for these groups - Fortune",
-            "description": "A report from Johns Hopkins Carey Business School shows that from 2019 through 2023, workplace well-being in the U.S. peaked in 2020.",
-            "url": "https://fortune.com/well/article/workplace-well-being-covid-return-to-office-hybrid-remote/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/GettyImages-1191850014-e1726160552947.jpg?resize=1200,600",
-            "publishedAt": "2024-09-16T09:02:00Z",
-            "content": "Perhaps youre back in the office four or five days a week. Possibly youve resumed your 9-5 grind, the leniency of working around your busy home life lost. And maybe Zoom meetings wearing a blouse wit… [+7583 chars]"
-        },
-        {
-            "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "The Wall Street Journal",
+            "author": "Scott Patterson, Amrith Ramkumar",
             "title": "Exclusive | Why Washington and Big Oil Are Investing Billions in Ammonia - The Wall Street Journal",
-            "description": null,
+            "description": "Capturing carbon makes the chemical cleaner, boosting its popularity for fertilizer and fuel",
             "url": "https://www.wsj.com/business/energy-oil/why-washington-and-big-oil-are-investing-billions-in-ammonia-eef4d2eb",
-            "urlToImage": null,
+            "urlToImage": "https://images.wsj.net/im-17617274/social",
             "publishedAt": "2024-09-16T09:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Christine Rousselle",
-            "title": "Perfect guacamole recipe can be yours with these chefs' secrets: 'All about the freshness' - Fox News",
-            "description": "Monday is National Guacamole Day. Fox News Digital spoke to two experts and chefs who shared their tips and tricks for making the perfect guacamole every time.",
-            "url": "https://www.foxnews.com/food-drink/perfect-guacamole-recipe-can-yours-chefs-secrets-freshness",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/mexican-guacamole-goya.jpg",
-            "publishedAt": "2024-09-16T09:00:00Z",
-            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+5201 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Trevor Jennewine, The Motley Fool",
-            "title": "Billionaires Are Selling Nvidia Stock and Buying This Supercharged AI Index Fund Instead - Yahoo Finance",
-            "description": "Billionaire fund managers have been buying this index fund to capitalize on the artificial intelligence boom.",
-            "url": "https://finance.yahoo.com/news/billionaires-selling-nvidia-stock-buying-084400799.html/",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-09-16T08:44:00Z",
-            "content": "Nvidia has been a spectacular investment in recent years. The stock has skyrocketed more than 700% since January 2023 amid excitement surrounding artificial intelligence (AI). But excitement is a dou… [+6027 chars]"
+            "content": "Most people think of ammonia as a household cleaner. To big oil companies, climate investors and the U.S. government, it is \r\na hot commodity that is attracting billions of dollars for its use in fer… [+601 chars]"
         },
         {
             "source": {
@@ -576,81 +732,68 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Ella Nilsen, Bill Weir",
-            "title": "A polluting, coal-fired power plant found the key to solving America’s biggest clean energy challenge - CNN",
-            "description": "Xcel Energy is short-circuiting what could have been seven years of bureaucracy and red tape to solar energy to its customers.",
-            "url": "https://www.cnn.com/2024/09/16/climate/coal-to-solar-minnesota/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-minnesota-solar-jq-009.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-09-16T08:00:00Z",
-            "content": "The smokestacks on the aging Sherco coal power plant tower over gleaming solar panels that stretch across thousands of acres of farmland.\r\nThe polluting coal plant is on its way out, scheduled for re… [+5990 chars]"
+            "author": "Sonia Heng",
+            "title": "China's economy is going through a 'slow, painful, grinding adjustment,' analyst says - CNBC",
+            "description": "Beijing's economic outlook for the second half of the year is now \"flashing red, or pretty close to red,\" said Eswar Prasad, professor of international trade and economics at Cornell University.",
+            "url": "https://www.cnbc.com/2024/09/16/chinas-economy-is-going-through-a-slow-painful-grinding-adjustment-analyst-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108024866-1724422380419-gettyimages-2167210138-AFP_36EP7CN.jpeg?v=1724422422&w=1920&h=1080",
+            "publishedAt": "2024-09-16T07:58:39Z",
+            "content": "SINGAPORE Following a slew of data released over the weekend from China that painted a fairly bleak outlook for its economy, analysts have tapered their expectations for the country's full year GDP g… [+2990 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Seeking Alpha"
+                "name": "Yahoo Entertainment"
             },
-            "author": "The Asian Investor",
-            "title": "Medical Properties Trust: Steward Settlement Is A Big Deal - Seeking Alpha",
-            "description": "Medical Properties Trust reached a settlement with Steward Health Care. Read why I continue to evaluate shares of MPW as a Strong Buy.",
-            "url": "https://seekingalpha.com/article/4721270-medical-properties-trust-steward-settlement-is-a-big-deal",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1158571798/image_1158571798.jpg?io=getty-c-w1536",
-            "publishedAt": "2024-09-16T06:22:54Z",
-            "content": "Richard Drury\r\nMedical Properties Trust (NYSE:MPW) reached a final settlement with its previously largest tenant Steward Health Care that will allow the hospital REIT to lease the operators propertie… [+5935 chars]"
+            "author": "Umberto Bacchi with Matthieu Demeestere",
+            "title": "Europe's EV troubles bubble up at Brussels Audi factory - Yahoo! Voices",
+            "description": "Outside an Audi factory in Brussels described by the German carmaker as the \"cradle\" of its electric drive, around 200 picketing workers huddled around a...",
+            "url": "https://www.yahoo.com/news/europes-ev-troubles-bubble-brussels-060430486.html",
+            "urlToImage": "https://media.zenfs.com/en/afp.com/2c2ae1163711359f23a83597c31fe8cc",
+            "publishedAt": "2024-09-16T06:04:30Z",
+            "content": "Outside an Audi factory in Brussels described by the German carmaker as the \"cradle\" of its electric drive, around 200 picketing workers huddled around a bonfire in the morning drizzle.\r\nThe firm is … [+4241 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investing.com"
+                "name": "WKRC TV Cincinnati"
             },
-            "author": "Investing.com",
-            "title": "Gold prices hit record high on rate cut bets, Trump assassination attempt - Investing.com",
-            "description": null,
-            "url": "https://www.investing.com/news/commodities-news/gold-prices-hit-record-high-on-rate-cut-bets-trump-assassination-attempt-3616599",
-            "urlToImage": null,
-            "publishedAt": "2024-09-16T04:04:08Z",
-            "content": null
+            "author": "WKRC",
+            "title": "Report finds high levels of lead in 12 cinnamon brands, says which one's are 'best to use' - WKRC TV Cincinnati",
+            "description": "A new report found high lead levels in a third of cinnamon powders it tested. The report said what brands people should and shouldn't use.",
+            "url": "https://local12.com/news/nation-world/report-finds-high-levels-of-lead-in-12-cinnamon-brands-says-which-ones-are-best-to-use-recall-recalled-recalling-consumer-heavy-metals-shouldnt-eat-365-whole-foods-kroger-trader-joes-simply-organic-kirkland-great-value",
+            "urlToImage": "https://local12.com/resources/media2/16x9/722/986/457x190/90/8006913c-6619-4bc2-b926-e7b24be83dad-c.png",
+            "publishedAt": "2024-09-16T03:15:10Z",
+            "content": "UNDATED (WKRC) - A new report found high lead levels in a third of cinnamon powders it tested. The report said what brands people should and shouldn't use.\r\nConsumer Reports said conducted the study … [+2031 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "CNBC"
             },
-            "author": null,
-            "title": "How will the Irish government spend Apple’s €14bn? - BBC.com",
-            "description": "Apple has been ordered to pay Ireland €14bn in unpaid taxes by Europe's top court.",
-            "url": "https://www.bbc.com/news/articles/c39k9882nero",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8798/live/46a3e1a0-71d6-11ef-b908-d973c67fbe17.jpg",
-            "publishedAt": "2024-09-15T22:37:53Z",
-            "content": "The EUs highest court ruled that Apple had benefited from an illegal sweetheart tax deal in Ireland\r\nIrelands government has been told it needs to collect 14bn (£11.8bn) in back taxes from Apple.\r\nTh… [+2780 chars]"
+            "author": "Anniek Bao",
+            "title": "Asia-Pacific markets rise as investors digest China economic data, await Fed rate verdict - CNBC",
+            "description": "Several Asia-Pacific markets were closed Monday; Hong Kong, Aussie, Taiwan stocks higher ahead of Fed's policy meeting this week.",
+            "url": "https://www.cnbc.com/2024/09/16/asia-pacific-markets-live-stocks-to-slide-after-chinas-economic-data.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108034405-1726455037498-gettyimages-2171588819-AFP_36GE4V9.jpeg?v=1726455066&w=1920&h=1080",
+            "publishedAt": "2024-09-16T00:01:00Z",
+            "content": "A man walks along The Bund during the passage of Typhoon Bebinca in Shanghai on September 16, 2024. The strongest storm to hit Shanghai in over 70 years made landfall on September 16, state media rep… [+1935 chars]"
         },
         {
             "source": {
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
-            "author": null,
-            "title": "China’s Deepening Slowdown Tests Xi’s Tolerance for Growth Miss - Bloomberg",
-            "description": "Back in January, Premier Li Qiang trumpeted China’s success in exceeding its 2023 growth goal without resorting to “massive stimulus.” Repeating the same feat this year now looks less likely.",
-            "url": "https://www.bloomberg.com/news/articles/2024-09-15/china-s-deepening-slowdown-tests-xi-s-tolerance-for-growth-miss",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRldw5jgkc08/v1/1200x800.jpg",
-            "publishedAt": "2024-09-15T22:30:00Z",
-            "content": "Back in January, Premier Li Qiang trumpeted Chinas success in exceeding its 2023 growth goal without resorting to massive stimulus. Repeating the same feat this year now looks less likely.\r\nPressure … [+295 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Jamie McGeever",
-            "title": "Morning Bid: China gloom vs Wall St vroom - Reuters",
-            "description": "A look at the day ahead in Asian markets.",
-            "url": "https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-09-15/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/DCG2N5ZHHBL5VDW4IGYNGEUIIA.jpg?auth=9e91997dee76c845dc2845fbadb316170be8331351e2b51a29c3b3b519682ba6&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-09-15T21:51:00Z",
-            "content": null
+            "author": "Rita Nazareth",
+            "title": "Wall Street Revives Big-to-Small Trade on Fed Bets: Markets Wrap - Bloomberg",
+            "description": "Wall Street traders gearing up for this week’s Federal Reserve decision kept driving a rotation out of the tech megacaps that have powered the bull market in stocks.",
+            "url": "https://www.bloomberg.com/news/articles/2024-09-15/asia-eyes-cautious-open-after-worrying-china-data-markets-wrap",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWAtUKUsr3O0/v1/1200x900.jpg",
+            "publishedAt": "2024-09-15T22:34:26Z",
+            "content": "Wall Street traders gearing up for this weeks Federal Reserve decision kept driving a rotation out of the tech megacaps that have powered the bull market in stocks.\r\nAs bets on a half-point Fed cut o… [+324 chars]"
         },
         {
             "source": {
@@ -681,58 +824,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Seeking Alpha"
-            },
-            "author": "Joseph Parrish",
-            "title": "Intel Might Be Telling On Itself (NASDAQ:INTC) - Seeking Alpha",
-            "description": "Investors should await Q3 results and pricing updates before considering Intel stock, given uncertainties about its foundry business spinoff. Read more here.",
-            "url": "https://seekingalpha.com/article/4721231-intel-might-be-telling-on-itself",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/155438811/image_155438811.jpg?io=getty-c-w1536",
-            "publishedAt": "2024-09-15T18:45:00Z",
-            "content": "RyersonClark/E+ via Getty Images\r\nA month ago, I wrote that Intel (NASDAQ:INTC) was a hold, citing the confused nature of its capital allocation since Pat Gelsinger's return to the company as CEO. Hi… [+6806 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Anthony Ha",
-            "title": "Port of Seattle shares ransomware attack details - TechCrunch",
-            "description": "The Port of Seattle released a statement Friday confirming that it was targeted by a ransomware attack. The attack occurred on August 24, with the Port",
-            "url": "https://techcrunch.com/2024/09/15/port-of-seattle-shares-ransomware-attack-details/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/sea-tac-cyberattack.jpg?resize=1200,675",
-            "publishedAt": "2024-09-15T18:24:16Z",
-            "content": "The Port of Seattle released a statement Friday confirming that it was targeted by a ransomware attack.\r\nThe attack occurred on August 24, with the Port (which also operates the Seattle-Tacoma Intern… [+850 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Claire Ballentine",
-            "title": "Gary Cohn Says Fed Rate Cuts Already Priced Into Mortgage Market - Bloomberg",
-            "description": "The Federal Reserve’s expected rate cuts this week won’t provide much relief to homebuyers facing high borrowing costs, according to Gary Cohn, who served as chief economic adviser to former President Donald Trump.",
-            "url": "https://www.bloomberg.com/news/articles/2024-09-15/gary-cohn-says-fed-rate-cuts-already-priced-into-mortgage-market",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVyLXxcCDbNw/v2/1200x800.jpg",
-            "publishedAt": "2024-09-15T16:32:15Z",
-            "content": "The Federal Reserves expected rate cuts this week wont provide much relief to homebuyers facing high borrowing costs, according to Gary Cohn, who served as chief economic adviser to former President … [+281 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Seeking Alpha"
-            },
-            "author": "Stone Fox Capital",
-            "title": "Occidental: Warren Buffett Was Too Early - Seeking Alpha",
-            "description": "Warren Buffett's Berkshire Hathaway shows caution by halting purchases of Occidental Petroleum shares, despite aiming for 50% ownership.",
-            "url": "https://seekingalpha.com/article/4721217-occidental-warren-buffett-was-too-early",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/540179188/image_540179188.jpg?io=getty-c-w1536",
-            "publishedAt": "2024-09-15T15:00:00Z",
-            "content": "Alex Wong\r\nA long thesis of investing in Occidental Petroleum Corporation (NYSE:OXY) has been that Warren Buffett was keeping the stock propped up. The fear has always been that lower energy price no… [+5977 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "[Removed]"
             },
             "author": null,
@@ -740,112 +831,8 @@
             "description": "[Removed]",
             "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2024-09-15T13:03:00Z",
+            "publishedAt": "2024-09-15T17:15:00Z",
             "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cwa-union.org"
-            },
-            "author": null,
-            "title": "AT&T Southeast Strike Ends - Communications Workers of America",
-            "description": "Members of the Communications Workers of America (CWA) have reached strong tentative agreements with AT&T Southeast and AT&T West for new union contracts. The contracts were bargained separately.",
-            "url": "https://cwa-union.org/news/releases/att-southeast-strike-ends",
-            "urlToImage": "https://cwa-union.org/sites/default/files/2024-08/featured_att_strike_signs.jpg",
-            "publishedAt": "2024-09-15T12:00:00Z",
-            "content": "ATLANTA, Ga. and SACRAMENTO, Calif. Members of the Communications Workers of America (CWA) have reached strong tentative agreements with AT&amp;T Southeast and AT&amp;T West for new union contracts. … [+3898 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Finbold.com"
-            },
-            "author": "Paul L.",
-            "title": "Why is Warren Buffett’s stock crashing? - Finbold - Finance in Bold",
-            "description": "After getting caught up in the ‘September effect’ mayhem, Berkshire Hathaway's stock price has failed to recover sustaining notable losses.",
-            "url": "https://finbold.com/why-is-warren-buffetts-stock-crashing/",
-            "urlToImage": "https://assets.finbold.com/uploads/2024/09/Why-is-Warren-Buffetts-stock-crashing.jpg",
-            "publishedAt": "2024-09-15T11:55:05Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Jacob Shamsian",
-            "title": "Google dodged a jury trial in its big adtech case with a $2,289,751 check - Business Insider",
-            "description": "In a techlash era, the Justice Department wanted a jury to hear its advertising antitrust case against Google. Google short-circuited the process.",
-            "url": "https://www.businessinsider.com/google-dodged-jury-advertising-antitrust-trial-with-check-damages-2024-9",
-            "urlToImage": "https://i.insider.com/66e49de3bf0250c214936068?width=1200&format=jpeg",
-            "publishedAt": "2024-09-15T11:45:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Seeking Alpha"
-            },
-            "author": "Mott Capital Management",
-            "title": "The Fed And BOJ Are Poised To Shift Market Sentiment This Week - Seeking Alpha",
-            "description": "The Fed is expected to cut rates on Wednesday, while the BOJ is likely to maintain current policy but signal future hikes. Read more to see my thoughts.",
-            "url": "https://seekingalpha.com/article/4721178-fed-boj-poised-shift-market-sentiment-this-week",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2167995287/image_2167995287.jpg?io=getty-c-w1536",
-            "publishedAt": "2024-09-15T10:15:00Z",
-            "content": "Tomohiro Ohsumi/Getty Images News\r\nThis week will feature two big central bank meetings: the Fed and the Bank of Japan. It is widely expected that the Fed will cut rates on Wednesday, the first in a … [+5583 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Kris Maher, Bob Tita, Aaron Zitner",
-            "title": "Nippon Steel Finds Unlikely Ally in Pittsburgh Workers - The Wall Street Journal",
-            "description": "In steel country, locals fight to keep jobs at U.S. Steel even if it means foreign ownership",
-            "url": "https://www.wsj.com/business/us-steel-nippon-deal-pittsburgh-79e1cb0b",
-            "urlToImage": "https://images.wsj.net/im-52563344/social",
-            "publishedAt": "2024-09-15T09:30:00Z",
-            "content": "WEST MIFFLIN, Pa.Former President Donald Trump and Vice President Kamala Harris have found agreement on one issue: opposing the $14.1 billion sale of U.S. Steel, one of Americas most storied corporat… [+315 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "8News"
-            },
-            "author": "Sara Molina",
-            "title": "Employees speak out after Virginia Boar’s Head plant announces shut down - WRIC ABC 8News",
-            "description": "The Boar’s Head deli meat plant in Jarratt, Virginia has been shut down indefinitely after being linked to a deadly listeria outbreak. Now, hundreds of employees are without a job.",
-            "url": "https://www.wric.com/news/virginia-news/employees-speak-out-after-virginia-boars-head-plant-announces-shut-down/",
-            "urlToImage": "https://www.wric.com/wp-content/uploads/sites/74/2024/09/AP24243648158751.jpg?w=1280",
-            "publishedAt": "2024-09-15T01:40:08Z",
-            "content": "GREENSVILLE COUNTY, Va. (WRIC)  The Boars Head deli meat plant in Jarratt, Virginia has been shut down indefinitely after being linked to a deadly listeria outbreak. Now, hundreds of employees are wi… [+1400 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Ashlea Ebeling",
-            "title": "Rich Americans Prep Fail-Safe Estate Plans Ahead of Election - The Wall Street Journal",
-            "description": "Using trusts, lifetime gifts to protect wealth from potential estate-tax changes",
-            "url": "https://www.wsj.com/personal-finance/taxes/election-estate-planning-taxes-25ebd01b",
-            "urlToImage": "https://images.wsj.net/im-30902325/social",
-            "publishedAt": "2024-09-15T01:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Susanne Barton, Bloomberg",
-            "title": "Media giant Axel Springer reportedly near deal with KKR to split up - Fortune",
-            "description": "Axel Springer's media outlets include US news sites Politico and Business Insider as well as the German tabloid Bild and its broadsheet sister Die Welt.",
-            "url": "https://fortune.com/2024/09/14/axel-springer-deal-kkr-split-up-media-outlets-business-insider-bild-politico/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/GettyImages-2154487604-e1726342151413.jpg?resize=1200,600",
-            "publishedAt": "2024-09-14T19:38:00Z",
-            "content": "German billionaire Mathias Döpfner and KKR are nearing a deal to split up the media giant Axel Springer, the Financial Times reports. Both sides are expected to discuss the proposed structure of a de… [+773 chars]"
         }
     ]
 }

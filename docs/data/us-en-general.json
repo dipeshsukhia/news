@@ -4,94 +4,250 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "The Weather Channel"
             },
-            "author": null,
-            "title": "Elusive orca group hunts dolphins off Chile, new images reveal - CNN",
-            "description": "The Humboldt Current’s orcas have yet to be assigned to an ecotype, and their hunting behavior provides clues about where the mysterious population might belong, researchers say.",
-            "url": "https://www.cnn.com/2024/09/26/science/orcas-new-images-hunting-dolphins/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/dsc8295-3.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-09-26T04:00:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nIt was an orca-versus-dolphin matchup, and the dolphin… [+7665 chars]"
+            "author": "The Weather Channel",
+            "title": "Hurricane Helene A Surge, Flood, High Wind Danger - The Weather Channel",
+            "description": "This massive hurricane could be destructive in several ways. Here's the very latest.",
+            "url": "https://weather.com/storms/hurricane/news/2024-09-25-hurricane-tropical-storm-helene-forecast-florida-southeast",
+            "urlToImage": "https://s.w-x.co/hurricane-helene-forecast-25sep24-pm.jpg",
+            "publishedAt": "2024-09-26T09:53:18Z",
+            "content": null
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Francesca Ebel, Natalia Abbakumova, Robyn Dixon, Catherine Belton",
-            "title": "Russia’s nuclear doctrine to include attacks on nonnuclear states - The Washington Post",
-            "description": "Russian President Vladimir Putin said non-nuclear states supported by nuclear ones could face Russia’s nuclear deterrent in an expansion of its policy.",
-            "url": "https://www.washingtonpost.com/world/2024/09/25/putin-nuclear-deterrent-ukraine-threat/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IVNF7AY2OCKWJWKWZ2WSFBNDGE.JPG&w=1440",
-            "publishedAt": "2024-09-26T03:48:44Z",
-            "content": "Russian President Vladimir Putin made a fresh nuclear threat against the West and Ukraine on Wednesday, indicating that any nations conventional attack on Russia that was supported by a nuclear power… [+6857 chars]"
+            "author": "AAMER MADHANI, MATTHEW LEE, JENNIFER PELTZ",
+            "title": "US and allies call for an immediate 21-day cease-fire between Israel and Hezbollah - The Associated Press",
+            "description": "The U.S., France and other allies are jointly calling for an immediate 21-day cease-fire to allow for negotiations in the escalating conflict between Israel and Hezbollah that has killed more than 600 people in Lebanon. The joint statement Wednesday, negotiat…",
+            "url": "https://apnews.com/article/biden-israel-hezbollah-war-ff2ec626f5d8883014f577b9a0cfaf1e",
+            "urlToImage": "https://dims.apnews.com/dims4/default/4385044/2147483647/strip/true/crop/4116x2315+0+214/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F07%2F0b%2F4c7cd748063a28576626f4736c77%2F5e45573cde4049e7931fb52f0505787c",
+            "publishedAt": "2024-09-26T09:37:00Z",
+            "content": "NEW YORK (AP) The U.S., France and other allies jointly called Wednesday for an immediate 21-day cease-fire to allow for negotiations in the escalating conflict between Israel and Hezbollah that has … [+7470 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ Staff, Sabela Ojea, Patricia Kowsmann, Heard Editors",
+            "title": "Stock Market Today: What to Watch — Live Updates - The Wall Street Journal",
+            "description": "Follow along for live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-gdp-jobless-data-09-26-2024",
+            "urlToImage": "https://images.wsj.net/im-925349/social",
+            "publishedAt": "2024-09-26T09:32:00Z",
+            "content": "After taking a quick breather, markets are looking up again.\r\nStock futures rose Thursday, with tech-heavy Nasdaq-100 futures up well over 1%. Chipmaker Micron Technology said late Wednesday that rob… [+1798 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Krystal Hu, Kenrick Cai",
+            "title": "Exclusive: OpenAI to remove non-profit control and give Sam Altman equity - Reuters",
+            "description": "The move could also have implications for how the company manages AI risks in a new governance structure.",
+            "url": "https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/G7MSE5SWOFPQRANJK5FBWQIXII.jpg?auth=88d54d448ebd15c18c83d6b86389abe78c2478203cc73793671f6e00466e82a9&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-09-26T09:22:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China’s Politburo Supercharges Stimulus With Housing, Rates Vows - Bloomberg",
+            "description": "China’s top leaders ramped up urgent efforts to revive growth with pledges to support fiscal spending and stabilize the beleaguered property sector, giving new momentum to stimulus measures aimed at arresting a slowdown in the world’s second-largest economy.",
+            "url": "https://www.bloomberg.com/news/articles/2024-09-26/china-holds-surprise-politburo-meeting-on-economy-amid-slowdown",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii1zThWIEsd4/v0/1200x800.jpg",
+            "publishedAt": "2024-09-26T08:30:50Z",
+            "content": "Chinas top leaders ramped up urgent efforts to revive growth with pledges to support fiscal spending and stabilize the beleaguered property sector, giving new momentum to stimulus measures aimed at a… [+468 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lex Harvey",
+            "title": "He’s the world’s longest-serving death row inmate. A court just declared him innocent - CNN",
+            "description": "A pair of blood-spattered trousers in a miso tank and an allegedly forced confession helped send Iwao Hakamata to death row more than five decades ago.",
+            "url": "https://www.cnn.com/2024/09/25/asia/worlds-longest-death-row-prisoner-japan-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-3-21.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-26T07:05:00Z",
+            "content": "A pair of blood-spattered trousers in a miso tank and an allegedly forced confession helped send Iwao Hakamata to death row in the 1960s.\r\nNow, more than five decades later, the worlds longest-servin… [+5608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T05:48:40Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Ryan Young",
-            "title": "WNBA playoffs: Sun fend off Caitlin Clark, Fever to reach semifinals and end her rookie season - Yahoo Sports",
-            "description": "Caitlin Clark's rookie campaign in the WNBA is now over.",
-            "url": "https://sports.yahoo.com/live/wnba-playoffs-sun-fend-off-caitlin-clark-fever-to-reach-semifinals-and-end-her-rookie-season-222937842.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IZYNpbC9EvuENlia6oex2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzc-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/e3581bb0-7ba4-11ef-8bad-8a76ff3e87fa",
-            "publishedAt": "2024-09-26T02:22:00Z",
-            "content": "Caitlin Clark's rookie campaign in the WNBA is now over. (Joe Buglewicz/Getty Images)\r\nCaitlin Clarks rookie season is now over.\r\nAlyssa Thomas and the Connecticut Sun closed out their opening-round … [+5486 chars]"
+            "author": "Cassandra Negley",
+            "title": "WNBA playoffs: As Caitlin Clark's season ends, it's a reminder that this is just the beginning - Yahoo Sports",
+            "description": "Clark was on her game as the Fever's season ended in Game 2, but she is looking for more. \"The fun part is I feel like I'm just scratching the surface...",
+            "url": "https://sports.yahoo.com/wnba-playoffs-as-caitlin-clarks-season-ends-its-a-reminder-that-this-is-just-the-beginning-053511038.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IW7jr498Yjc9CRz3FmJVUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/a17d3df0-7bc8-11ef-bfaf-91164a4ca169",
+            "publishedAt": "2024-09-26T05:35:11Z",
+            "content": "UNCASVILLE, Conn. The championship version of Caitlin Clark and the Indiana Fever was never going to be built in a season. No one, from the general manager to the highly competitive Clark, were blind… [+6527 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Kevin Liptak, Alex Marquardt, Natasha Bertrand, Jennifer Hansler, MJ Lee",
-            "title": "US and allies call for 21-day ceasefire across Israel-Lebanon border - CNN",
-            "description": "The United States and 10 of its allies called Wednesday for a 21-day ceasefire across the Israel-Lebanon border as they work to prevent a regional war from erupting.",
-            "url": "https://www.cnn.com/2024/09/25/politics/us-plan-mediate-israel-hezbollah-ceasefire/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24269385602186-20240925143209154-20240925143224311.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-09-26T01:50:00Z",
-            "content": "The United States and several of its allies called Wednesday for a 21-day ceasefire between Israel and Hezbollah across the Israel-Lebanon border as they work to prevent a regional war from erupting.… [+9700 chars]"
+            "author": null,
+            "title": "Escalating Trump row looms over Zelensky's US visit - BBC.com",
+            "description": "Republicans accused Zelensky of election interference, after he visited an arms factory with top Democrats.",
+            "url": "https://www.bbc.com/news/articles/c80rkv0k4j8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb05/live/6a9a8220-7be6-11ef-a067-535ff32592e2.jpg",
+            "publishedAt": "2024-09-26T04:18:42Z",
+            "content": "The Speaker of the US House Mike Johnson has demanded that Ukraine fire its ambassador to Washington, as a feud between the Republican Party and Volodymyr Zelensky escalates. \r\nJohnson's intervention… [+3845 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Frontiers",
+            "title": "Mysterious orca group near Chile tracked down, revealing newly discovered hunting skills - Phys.org",
+            "description": "Off the coast of Chile, in waters filled with krill and anchovy by the Humboldt Current system, live an elusive and little-known population of orcas. Thanks to citizen science and years of dedicated surveillance, a team of scientists led by Dr. Ana García Ceg…",
+            "url": "https://phys.org/news/2024-09-mysterious-orca-group-chile-tracked.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/mysterious-orca-group.jpg",
+            "publishedAt": "2024-09-26T04:00:01Z",
+            "content": "Off the coast of Chile, in waters filled with krill and anchovy by the Humboldt Current system, live an elusive and little-known population of orcas. Thanks to citizen science and years of dedicated … [+4928 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Aditi Srivastava",
+            "title": "Diddy’s ‘white list’: Beyoncé, J.Lo, Justin Bieber, Usher, and more. What celebs have said about infamous parties? - Hindustan Times",
+            "description": "While some celebrities confirm attending Diddy's parties, they deny involvement in the alleged 'Freak Offs. Speculations about attendees, dubbed ‘Diddy list’… | Hollywood",
+            "url": "https://www.hindustantimes.com/entertainment/hollywood/diddys-white-list-beyonc-j-lo-justin-bieber-usher-and-more-what-celebs-have-said-about-infamous-parties-101727322277033.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/09/26/1600x900/Diddywhiteguestlist_1727322689959_1727322698343.jpg",
+            "publishedAt": "2024-09-26T03:55:03Z",
+            "content": "A growing list of celebrities, including Beyoncé, J.Lo, Justin Bieber, Usher, and others, is being linked to Sean \"Diddy\" Combs' infamous parties. While a few celebs have outright denied attending th… [+4685 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Victor Nava",
+            "title": "Kamala Harris won’t say how she’ll pay for $1.7T spending plan in first solo interview with major news network - New York Post ",
+            "description": "The vice president also served up several word salads during her MSNBC sitdown.",
+            "url": "https://nypost.com/2024/09/25/us-news/kamala-harris-wont-say-how-shell-pay-for-1-7t-spending-plan-in-first-solo-sit-down-with-major-news-network/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/vice-president-kamala-harris-discusses-90404902.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-09-26T03:39:00Z",
+            "content": "Vice President Kamala Harris on Wednesday refused to explain how she intends to pay for her pricey economic plan if Republicans in Congress block her proposed presidential agenda, one of several ques… [+4990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Japan joins patrols through Taiwan Strait - reports - BBC.com",
+            "description": "There has been a rise in patrols by the US and its allies who do not accept China's claims over the strait.",
+            "url": "https://www.bbc.com/news/articles/cm28yd04xxno",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/285f/live/f0c4d330-7bb6-11ef-b1e6-b9e53e4962ea.jpg",
+            "publishedAt": "2024-09-26T03:17:08Z",
+            "content": "A Japanese warship sailed through the Taiwan Strait between Taiwan and China for the first time, according to reports in Japanese media.\r\nThe JS Sazanami, a naval destroyer, passed through the strait… [+3305 chars]"
         },
         {
             "source": {
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Alex Gangitano",
-            "title": "5 takeaways from Harris’s MSNBC interview with Stephanie Ruhle - The Hill",
-            "description": "Vice President Harris sat down with MSNBC’s Stephanie Ruhle on Wednesday, during which she fielded questions on her economic agenda, former President Trump’s economic plans, and her running mate, Minnesota Gov. Tim Walz (D). The interview on MSNBC was a frien…",
-            "url": "https://thehill.com/homenews/administration/4900063-kamala-harris-stephanie-ruhle-interview-takeaways/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/harris_pittsburgh_economicclub_092524.jpg?w=1280",
-            "publishedAt": "2024-09-26T01:07:00Z",
-            "content": "Skip to content\r\nVice President Harris sat down with MSNBC’s Stephanie Ruhle on Wednesday, during which she fielded questions on her economic agenda, former President Trump’s economic plans, and her … [+5732 chars]"
+            "author": "Filip Timotija",
+            "title": "Top staff in NC Lt. Gov. Mark Robinson’s office stepping down - The Hill",
+            "description": "Top staff in North Carolina Lt. Gov. Mark Robinson’s (R) government office will be stepping down next week, multiple outlets reported on Wednesday, increasing the number of aides parting ways with the state’s GOP gubernatorial candidate following CNN’s explos…",
+            "url": "https://thehill.com/homenews/campaign/4900197-top-staff-north-carolina-mark-robinson-office-stepping-down/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/08/AP24198041202925-e1722627272348.jpg?w=1280",
+            "publishedAt": "2024-09-26T03:06:00Z",
+            "content": "Skip to content\r\nTop staff in North Carolina Lt. Gov. Mark Robinson’s (R) government office will be stepping down next week, multipleoutlets reported on Wednesday, increasing the number of aides part… [+1801 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Putin outlines new rules for Russian use of vast nuclear arsenal - Al Jazeera English",
+            "description": "Comments appear to significantly lower the threshold for Russia to use its vast nuclear arsenal.",
+            "url": "https://www.aljazeera.com/news/2024/9/26/putin-outlines-new-rules-for-russian-use-of-vast-nuclear-arsenal",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/AP24269655004743-1727316639.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-09-26T02:50:38Z",
+            "content": "Russian President Vladimir Putin has warned that Russia could respond with nuclear weapons if it were attacked with conventional arms in the latest changes to the countrys nuclear doctrine.\r\nIn a tel… [+4322 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Detroit 'Bridgerton' ball attendees speak out: 'We were completely devastated' - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/GMA/Culture/detroit-bridgerton-ball-attendees-speak-completely-devastated/story?id\\\\u003d114144636",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T02:09:58Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "BBC News"
             },
-            "author": "Reuters",
-            "title": "Russia has secret war drones project in China, intel sources say in Reuters report - CNBC",
-            "description": "Russia has weapons program in China to manufacture long-range attack drones for the Ukraine war, according to European intelligence as reviewed by Reuters.",
-            "url": "https://www.cnbc.com/2024/09/26/russia-has-secret-war-drones-project-in-china-intel-sources-say-in-reuters-report.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039367-1727311091333-gettyimages-1395005913-chinarussiawsilk.jpeg?v=1727311141&w=1920&h=1080",
-            "publishedAt": "2024-09-26T01:03:00Z",
-            "content": "Flags of the People's Republic of China and the Russian Federation\r\nRussia has established a weapons program in China to develop and produce long-range attack drones for use in the war against Ukrain… [+8701 chars]"
+            "author": null,
+            "title": "Lebanon strikes preparing for ground offensive - Israel army chief - BBC.com",
+            "description": "More than 50 people were killed by Israeli strikes on Wednesday, as Hezbollah fires missile at Tel Aviv.",
+            "url": "https://www.bbc.com/news/articles/c8xe8nkj9wyo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1f9a/live/7dc9b1d0-7b38-11ef-b02d-c5f3b724a1ea.jpg",
+            "publishedAt": "2024-09-26T02:06:14Z",
+            "content": "Israels military chief has told troops that extensive air strikes in Lebanon targeting the armed group Hezbollah could pave the way for them to enter enemy territory.\r\n\"You hear the jets overhead; we… [+5992 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Kerry Breen",
-            "title": "Maps show track of Hurricane Helene: What to know about possible paths and storm surge - CBS News",
-            "description": "Maps show possible storm surge, rainfall levels and more as Hurricane Helene makes its way north toward Florida's Gulf Coast.",
-            "url": "https://www.cbsnews.com/news/tropical-storm-helene-hurricane-path-maps-track-forecast/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/25/bc605e6b-784f-4ac3-8134-ed46f00042f3/thumbnail/1200x630/a411a682e93e15f071dd064d339e0744/helene-cone.png?v=05e1d8b62a2ebbf0c759b67223fa87f8",
-            "publishedAt": "2024-09-26T00:54:45Z",
-            "content": "Helene intensified from a tropical storm to a hurricane on Wednesday morning and is forecast to strike Florida's Gulf Coast, likely in the Big Bend area, as a major hurricane this week.\r\nHurricane He… [+3798 chars]"
+            "author": "Daniel Dale",
+            "title": "Fact check: Harris makes false claim about Trump’s record on manufacturing jobs - CNN",
+            "description": "Vice President Kamala Harris made a false claim about the jobs record of her Republican opponent, former President Donald Trump, in an interview on MSNBC on Wednesday evening.",
+            "url": "https://www.cnn.com/2024/09/25/politics/fact-check-harris-trumps-manufacturing-jobs/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20989448-2874-666-still.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-26T01:25:00Z",
+            "content": "Vice President Kamala Harris made a false claim about the jobs record of her Republican opponent, former President Donald Trump, in an interview on MSNBC on Wednesday evening.\r\nInterviewer Stephanie … [+3770 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Natalia Drozdiak",
+            "title": "US Hails China’s Advanced Notice of ICBM Test as ‘Good Thing’ - Bloomberg",
+            "description": "The Pentagon praised China for its transparency before the test launch of an intercontinental ballistic missile into the Pacific Ocean, in a sign that military communication between the superpowers is improving.",
+            "url": "https://www.bloomberg.com/news/articles/2024-09-26/us-hails-china-s-advanced-notice-of-icbm-test-as-good-thing",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibqOCAcZ09Xw/v1/1200x800.jpg",
+            "publishedAt": "2024-09-26T00:39:00Z",
+            "content": "The Pentagon praised China for its transparency before the test launch of an intercontinental ballistic missile into the Pacific Ocean, in a sign that military communication between the superpowers i… [+271 chars]"
         },
         {
             "source": {
@@ -108,159 +264,16 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "LISA MASCARO",
-            "title": "Speaker Johnson demands Zelenskyy remove Ukraine's ambassador to US after Pennsylvania visit - The Associated Press",
-            "description": "House Speaker Mike Johnson is calling on Ukrainian President Volodymyr Zelenskyy to fire his country’s ambassador to the U.S. The Republican speaker is criticizing Zelenskyy's visit to an ammunition plant in Pennsylvania, a swing-state, as a political stunt. …",
-            "url": "https://apnews.com/article/zelenskyy-johnson-ambassador-ukraine-biden-harris-trump-d81b0a055d99cfd4804b3f2c00915d09",
-            "urlToImage": "https://dims.apnews.com/dims4/default/58ec8d1/2147483647/strip/true/crop/3000x1688+0+154/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2d%2Fed%2F609725d27697bc828590f2f57f97%2F15ae95e7e9994af783c61e28d26abe54",
-            "publishedAt": "2024-09-26T00:18:00Z",
-            "content": "WASHINGTON (AP) House Speaker Mike Johnson is calling on Ukrainian President Volodymyr Zelenskyy to fire his countrys ambassador to the U.S. as Republicans criticize Zelenskyys visit to an ammunition… [+5859 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "BARBARA ORTUTAY",
-            "title": "Meta unveils cheaper VR headset, AI updates and shows off prototype for holographic AR glasses - The Associated Press",
-            "description": "Meta has unveiled updates to the company’s virtual reality headset and Ray Ban smart glasses along as it tries to demonstrate its artificial intelligence prowess and the next generation of computing platforms beyond smartphones and computers. CEO Mark Zuckerb…",
-            "url": "https://apnews.com/article/meta-connect-zuckerberg-quest-ai-orion-dc8228049dea6a00b0f818ddb35f0c31",
-            "urlToImage": "https://dims.apnews.com/dims4/default/1306fcf/2147483647/strip/true/crop/2434x1369+0+127/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2Ff4%2Fd4405b232a70fa933e6b7c3ff709%2Fad0f4266e4eb4a6c80a75d7f62c452db",
-            "publishedAt": "2024-09-26T00:03:00Z",
-            "content": "MENLO PARK, California (AP) Meta unveiled updates to the companys virtual reality headset and Ray Ban smart glasses on Wednesday as it tries to demonstrate its artificial intelligence prowess and the… [+4856 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Eden Getachew",
-            "title": "Trump sexual assault accuser speaks to CNN - CNN",
-            "description": "Natasha Stoynoff, former People Magazine reporter who accused Donald Trump of sexually assaulting her while writing an article about him and his wife Melania, speaks to CNN’s Erin Burnett.",
-            "url": "https://www.cnn.com/2024/09/25/politics/video/natasha-stoynoff-sexual-assault-accuser-ebof-digvid",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/natasha-stoynoff.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-09-25T23:31:14Z",
-            "content": "Natasha Stoynoff, former People Magazine reporter who accused Donald Trump of sexually assaulting her while writing an article about him and his wife Melania, speaks to CNN's Erin Burnett."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lisa Kailai Han",
-            "title": "Dow futures are little changed after index breaks four-day winning run: Live updates - CNBC",
-            "description": "Traders tried to shake off Wednesday's losses as they looked ahead to the latest weekly jobless claims numbers.",
-            "url": "https://www.cnbc.com/2024/09/25/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039087-1727283086006-NYSE_Traders-OB-Photo-ALR-20240925-Press-3.jpg?v=1727297047&w=1920&h=1080",
-            "publishedAt": "2024-09-25T23:26:00Z",
-            "content": "Futures tied to the Dow Jones Industrial Average were little changed on Wednesday night after the index broke a four-day win streak.\r\nDow futures slipped 20 points, or 0.05%. S&amp;P 500 futures rose… [+1955 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Cowboys will do something they've never done when traveling to face Giants for 'Thursday Night Football' - CBS Sports",
-            "description": "Dallas is in new territory this week",
-            "url": "https://www.cbssports.com/nfl/news/cowboys-will-do-something-theyve-never-done-when-traveling-to-face-giants-for-thursday-night-football/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/25/ac763280-6b9f-4c86-b9e0-d14e14c26e8b/thumbnail/1200x675/8e0c7d0fd15d25c2f39dba1b35487fc4/cowboys.jpg",
-            "publishedAt": "2024-09-25T23:21:00Z",
-            "content": "The Dallas Cowboys are doing something they've never done before this week: play a road game on a short week. It may be hard to believe, but the Cowboys have never played an away game with just three… [+1141 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Saman Shafiq",
-            "title": "Funniest wildlife photos of the year showcased in global competition: See the finalists - USA TODAY",
-            "description": "From bears hugging it out to a mafia boss squirrel, see hilarious animal photos shortlisted for the 2024 Comedy Wildlife Photography Awards.",
-            "url": "https://www.usatoday.com/story/life/animalkind/2024/09/25/funniest-animal-photos-comedy-wildlife-awards/75375185007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/25/USAT/75377317007-marti-phillips-are-you-kidding.jpg?crop=5450,3065,x0,y316&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2024-09-25T23:02:12Z",
-            "content": "Time for a round of laughs with the finalists for the 2024 Comedy Wildlife Awards.\r\nThe shortlist announced Wednesday are a cracking collection of amazing, jaw dropping and laugh out loud photos of s… [+1665 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Associated Press",
-            "title": "Death toll from Boar’s Head listeria outbreak reaches grim milestone - New York Post ",
-            "description": "The latest fatality was reported in New York, bringing the total deaths to two each in New York and South Carolina and one each in Illinois, New Jersey, Virginia, Florida, Tennessee and New Mexico.",
-            "url": "https://nypost.com/2024/09/25/business/tenth-person-dead-from-listeria-outbreak-tied-to-boars-head-deli-meat/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/boars-head-listeria.jpg?quality=75&strip=all&1727289429&w=1024",
-            "publishedAt": "2024-09-25T23:00:00Z",
-            "content": "A 10th person has died in the listeria outbreak that shuttered a Boars Head deli meat plant, federal health officials said Wednesday.\r\nAt least 59 people in 19 states have been sickened by the bacter… [+1753 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "ABC News",
-            "title": "Trump suggests Iran tied to assassination attempts, issues blunt warning - ABC News",
-            "description": null,
-            "url": "https://abcnews.go.com/International/trump-lashes-iran-security-officials-warn-rise-foreign/story?id\\\\u003d114086967",
-            "urlToImage": null,
-            "publishedAt": "2024-09-25T22:52:30Z",
+            "author": "Katie Paul",
+            "title": "Meta unveils AR glasses prototype, Zuckerberg's 'time machine' to future - Reuters",
+            "description": "Facebook owner Meta Platforms showed off its first working prototype of augmented-reality glasses, called Orion, during its annual Connect conference on Wednesday, as the California company sketched out its aspirations for products that would bring the virtua…",
+            "url": "https://www.reuters.com/technology/meta-readies-ar-glasses-reveal-connect-event-2024-09-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/N6AMRTGLDJI4BGCTKGOXPW5ICE.jpg?auth=864f8b637c5ee2d716f4bea0c3920a59ee81290e188e9705d4a1476b5359d6e6&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-09-25T23:25:40Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Sean Diddy Combs: 'Chaos reigns' at notorious jail holding mogul - BBC.com",
-            "description": "An extensive list of notable names have passed through the doors of the troubled Brooklyn facility",
-            "url": "https://www.bbc.com/news/articles/cjwdq3ppw01o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c867/live/72e82120-7b6a-11ef-8071-0b9b667f9719.jpg",
-            "publishedAt": "2024-09-25T22:48:11Z",
-            "content": "Ordinarily, US District Judge Gary J Brown would have sent the man to the local federal jail to serve out his sentence for tax fraud.\r\nBut one thing stopped him: The dangerous, barbaric conditions th… [+5322 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Michael Fabiano",
-            "title": "Wide Receiver Start 'Em, Sit 'Em Picks For Fantasy Football Week 4 - Sports Illustrated",
-            "description": "It’s Week 4, folks! It’s time to set those fantasy lineups! Start ‘Em, Sit 'Em is the ultimate look at the best and worst matchups in a given week for fantasy f",
-            "url": "https://www.si.com/fantasy/wide-receiver-start-em-sit-em-picks-for-fantasy-football-week-4-01j8j9s9edw0",
-            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5537,h_3114,x_0,y_157/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01j8ja8pmqfg8abf6akq.jpg",
-            "publishedAt": "2024-09-25T22:42:19Z",
-            "content": "Its Week 4, folks! Its time to set those fantasy lineups! Start Em, Sit 'Em is the ultimate look at the best and worst matchups in a given week for fantasy football leagues. I wont cover elite wide r… [+5120 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "JOSH BOAK, ZEKE MILLER, STEVE PEOPLES",
-            "title": "Harris is making a 'capitalist' pitch to boost the economy as Trump pushes deeper into populism - The Associated Press",
-            "description": "Vice President Kamala Harris is pledging to build an economy that is both pro-business and helps the middle class as she pushes back against Republican nominee Donald Trump’s claims that she’s advancing “communist” ideas. The Democratic nominee stressed in re…",
-            "url": "https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670",
-            "urlToImage": "https://dims.apnews.com/dims4/default/edd6a82/2147483647/strip/true/crop/5281x2971+0+277/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2F7c%2F825f35a984b5e7a818514c67c5df%2Ff3aac55cc6ce4236a842cc280078d97b",
-            "publishedAt": "2024-09-25T22:37:00Z",
-            "content": "PITTSBURGH (AP) Vice President Kamala Harris on Wednesday pledged to build an economy that is both pro-business and helps the middle class as she pushed back against Republican nominee Donald Trump s… [+6497 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "William Earl",
-            "title": "‘Monsters’ Cast Reacts to Controversy Over Homoerotic Brother Scenes; Erik Menendez Actor Cooper Koch ‘Does Not’ Believe the Siblings Were Incestuous - Variety",
-            "description": "The cast of Netflix's 'Monsters' respond to criticisms claiming the series portrays the Menendez brothers as having an incestuous relationship.",
-            "url": "https://variety.com/2024/tv/news/monsters-cast-responds-homoerotic-brothers-incest-scenes-1236154988/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2024/09/lyle-erik-menendez-monsters.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2024-09-25T22:12:00Z",
-            "content": "The actors behind Ian Brennan and Ryan Murphy’s “Monsters: The Lyle and Erik Menendez Story” have responded to backlash concerning the show’s suggestion of an incestuous relationship between brothers… [+6096 chars]"
         },
         {
             "source": {
@@ -290,133 +303,107 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Bob Harig",
+            "title": "Presidents Cup Day 1 Pairings: Some Familiar U.S. Duos Split at Royal Montreal - Sports Illustrated",
+            "description": "Xander Schauffele and Patrick Cantlay have been a perennial pair in team events but are apart in Thursday's best-ball opening matches.",
+            "url": "https://www.si.com/golf/presidents-cup-day-1-pairings-royal-montreal",
+            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3872,h_2178,x_368,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01j8nj0byw7nm7q74g2c.jpg",
+            "publishedAt": "2024-09-25T21:43:09Z",
+            "content": "MONTREAL U.S. Presidents Cup captain Jim Furyk has split up some of the Americans most obvious pairings of late for the first day of the competition at Royal Montreal while also putting some stronger… [+1752 chars]"
+        },
+        {
+            "source": {
                 "id": "espn",
                 "name": "ESPN"
             },
-            "author": "Alaina Getzenberg",
-            "title": "QB Allen clarifies perceived dig at ex-teammates - ESPN",
-            "description": "Bills quarterback Josh Allen said Wednesday that his recent positive comments toward his current teammates were not digs directed at former teammates.",
-            "url": "https://www.espn.com/nfl/story/_/id/41441753/bills-qb-josh-allen-clarifies-perceived-dig-former-teammates",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0718%2Fr1360339_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-09-25T21:08:00Z",
-            "content": "ORCHARD PARK, N.Y. -- Buffalo Bills quarterback Josh Allen clarified on Wednesday that his recent positive comments toward his current teammates were not digs or in any way directed at his former tea… [+3256 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Krystal Hu, Kenrick Cai",
-            "title": "Exclusive: OpenAI to remove non-profit control and give Sam Altman equity - Reuters",
-            "description": "The move could also have implications for how the company manages AI risks in a new governance structure.",
-            "url": "https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/G7MSE5SWOFPQRANJK5FBWQIXII.jpg?auth=88d54d448ebd15c18c83d6b86389abe78c2478203cc73793671f6e00466e82a9&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-09-25T20:35:44Z",
-            "content": null
+            "author": "Kevin Seifert",
+            "title": "Jones eyes Lambeau stands after leap to Vikings - ESPN",
+            "description": "Aaron Jones, who made the Lambeau Leap numerous times while playing for the Packers, is ready to make his first attempt as a member of the Vikings.",
+            "url": "https://www.espn.com/nfl/story/_/id/41442184/vikings-jones-eyes-lambeau-leap-first-visit-vs-packers",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0925%2Fr1391789_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-09-25T21:35:00Z",
+            "content": "EAGAN, Minn. -- Minnesota Vikings running back Aaron Jones' plan is already set if he scores a touchdown in his return to Lambeau Field on Sunday.\r\n\"Definitely leaping,\" Jones said Wednesday with a s… [+2452 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "BBC News"
             },
-            "author": "Keith Cooper",
-            "title": "Weird striped rock 'unlike any seen on Mars' found by Perseverance rover. Here's why NASA's excited - Space.com",
-            "description": "The stripy rocky may be volcanic in origin, but where did it come from?",
-            "url": "https://www.space.com/mars-perseverance-rover-weird-stripy-rock",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JFnxysdVpwTsXm7WGfezfA-1200-80.jpg",
-            "publishedAt": "2024-09-25T20:12:31Z",
-            "content": "A striped rock that looks out of place in its surroundings on the slopes of the inner wall of Jezero crater has scientists excited about what it may reveal about the Red Planet's history.\r\nNASA's Per… [+4494 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Michelle Nichols",
-            "title": "Zelenskiy takes aim at China, Brazil push for peace in Ukraine - Reuters",
-            "description": "\"You will not boost your power at Ukraine's expense,\" Zelenskiy said.",
-            "url": "https://www.reuters.com/world/europe/zelenskiy-takes-aim-china-brazil-push-peace-ukraine-2024-09-25/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/435SVHP4MNOPXANIIUFWMOCHII.jpg?auth=4e8eb35b1f01ae4dec33a6d48a6a77b57db2fed8d816ea159e5cfe193f0bd553&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-09-25T20:08:22Z",
-            "content": null
+            "author": null,
+            "title": "We danced with joy then hid among the dead – Nova survivors recall Hamas massacre - BBC.com",
+            "description": "A new BBC documentary provides a harrowing glimpse into the Hamas attack at the Nova music festival in Israel, in which hundreds of people were killed.",
+            "url": "https://www.bbc.com/news/videos/c0qznj3l5ypo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6834/live/26cda000-7b68-11ef-b282-4535eb84fe4b.jpg",
+            "publishedAt": "2024-09-25T21:23:46Z",
+            "content": "Warning: This video includes distressing content\r\nA new documentary from BBC Storyville provides a harrowing glimpse into the Hamas attack on partygoers at the Nova music festival in Israel, in which… [+946 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "9to5google.com"
             },
-            "author": "Ines Ferré",
-            "title": "Nvidia stock edges up as industry report predicts 'unprecedented levels' of investment in AI data centers - Yahoo Finance",
-            "description": "Nvidia stock rose on Wednesday following a bullish industry report on AI spending.",
-            "url": "https://finance.yahoo.com/news/nvidia-stock-edges-up-as-industry-report-predicts-unprecedented-levels-of-investment-in-ai-data-centers-172648847.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vXuvMDXgBDWsMZiKtRCoMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/4379c2b0-566a-11ef-bfbd-b3561d279f17",
-            "publishedAt": "2024-09-25T20:01:02Z",
-            "content": "Nvidia stock (NVDA) rose more than 2% on Wednesday after an industry report projected \"unprecedented\" levels of investments in artificial intelligence, a bullish sign for the AI chipmaker.\r\nConsultin… [+2016 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Filip Timotija",
-            "title": "Republican former NC governor: Robinson a ‘ticking time bomb’ - The Hill",
-            "description": "Former North Carolina Gov. Pat McCrory (R) said the state’s GOP gubernatorial candidate Mark Robinson is a “ticking time bomb” who might tip the presidential election results. “I got a feeling about a month ago, the Trump campaign was finding out that there c…",
-            "url": "https://thehill.com/homenews/campaign/4899210-pat-mccrory-north-carolina-robinson/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/10/mcrorypat_051722_ap_mattkelley.jpg?w=1280",
-            "publishedAt": "2024-09-25T19:22:00Z",
-            "content": "Skip to content\r\nFormer North Carolina Gov. Pat McCrory (R) said the state’s GOP gubernatorial candidate Mark Robinson is a “ticking time bomb” who might tip the presidential election results.\r\n“I go… [+3111 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Antoinette Radford, Elise Hammond, Aditi Sangal",
-            "title": "Live updates: Israel-Hezbollah attacks, war in Gaza - CNN",
-            "description": "Israel and Hezbollah are trading waves of strikes as their conflict escalates, forcing thousands in Lebanon to flee their homes. Follow the latest news here.",
-            "url": "https://www.cnn.com/world/live-news/israel-lebanon-war-hezbollah-09-25-24/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-24t094111z-1450728191-rc2x6aan88kx-rtrmadp-3-israel-palestinians-lebanon.JPG?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-09-25T19:08:00Z",
-            "content": "Hezbollahs main base is on the Israel-Lebanon border, where the militant group and Israel have seen near-daily clashes since the war in Gaza began.\r\nHeres what to know about their decades-long confli… [+1853 chars]"
+            "author": "Abner Li",
+            "title": "There is no ‘Google TV Streamer Pro’ – Google’s set-top box almost had another name - 9to5Google",
+            "description": "Google is not making a more premium version of the Google TV Streamer, with the “Google TV Stream Pro” moniker flying around just a name...",
+            "url": "http://9to5google.com/2024/09/25/google-tv-stream-pro-name/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Google-TV-Streamer-design-and-hardware-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-09-25T20:22:00Z",
+            "content": "Google is not making a more premium version of the Google TV Streamer, with the Google TV Stream Pro moniker flying around just a name that was considered for the current model. \r\nAccording to source… [+1443 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Denvergazette.com"
+                "name": "CBS Sports"
             },
-            "author": "Spencer McKee",
-            "title": "Colorado the only US state where fewer than 1 in 4 adults are obese - The Denver Gazette",
-            "description": "Obesity in the United States has dropped for the first time since 2011, according to recent data from the US Centers for Disease Control and Prevention. And Colorado is the",
-            "url": "https://denvergazette.com/outtherecolorado/news/colorado-the-only-us-state-where-fewer-than-1-in-4-adults-are-obese/article_228e9bfa-7b6a-11ef-bbf7-c712d7570de3.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/denvergazette.com/content/tncms/assets/v3/editorial/0/ce/0ce6a4a4-7b6b-11ef-a252-6fec4259785a/66f45512e27ad.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2024-09-25T18:15:00Z",
-            "content": "Obesity in the United States has dropped for the first time since 2011, according to recent data from the US Centers for Disease Control and Prevention. And Colorado is the slimmest state in the coun… [+1691 chars]"
+            "author": "",
+            "title": "Fantasy Football Week 4 Start 'Em & Sit 'Em Running Backs: Brian Robinson dominates, plus sleepers to play - CBS Sports",
+            "description": "Running backs you want in Week 4 lineups, and those you should avoid",
+            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-4-start-em-sit-em-running-backs-brian-robinson-dominates-plus-sleepers-to-play/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/10/04/e4ef0714-b2ce-41d1-b9d0-d1f6dc013361/thumbnail/1200x675/5dc0ca473a236ee0a28194c7c8136b65/brian-robinson-jr-1400-us.jpg",
+            "publishedAt": "2024-09-25T19:59:29Z",
+            "content": "Now it's time to set your Week 4 Fantasy Football lineups.\r\nJamey Eisenberg has all the Start 'Em &amp; Sit 'Em insight you'll need to make sound decisions at running back ahead of Week 4, right here… [+598 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
+                "name": "Fox Business"
             },
-            "author": "Massachusetts Institute of Technology",
-            "title": "Study shows Mars' early thick atmosphere could be locked up in the planet's clay surface - Phys.org",
-            "description": "Mars wasn't always the cold desert we see today. There's increasing evidence that water once flowed on the red planet's surface, billions of years ago. And if there was water, there must also have been a thick atmosphere to keep that water from freezing. But …",
-            "url": "https://phys.org/news/2024-09-mars-early-thick-atmosphere-planet.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/mars-missing-atmospher.jpg",
-            "publishedAt": "2024-09-25T18:00:01Z",
-            "content": "Mars wasn't always the cold desert we see today. There's increasing evidence that water once flowed on the red planet's surface, billions of years ago. And if there was water, there must also have be… [+7113 chars]"
+            "author": "Breck Dumas",
+            "title": "Nancy Pelosi's husband sold more than $500K in Visa stock ahead of DOJ action - Fox Business",
+            "description": "Paul Pelosi, the husband of former House speaker and current Rep. Nancy Pelosi, D-Calif., sold 2,000 shares of Visa a few months before the company was sued by the government.",
+            "url": "https://www.foxbusiness.com/politics/nancy-pelosis-husband-sold-more-than-500k-visa-stock-ahead-doj-action",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/pelosi-nancy-paul.jpg?ve=1&tl=1",
+            "publishedAt": "2024-09-25T19:36:00Z",
+            "content": "Former Speaker of the House and current Rep. Nancy Pelosi, D-Calif., is receiving attention once again due to her husband's stock trading, this time over her spouse unloading Visa shares a few months… [+3157 chars]"
         },
         {
             "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "Kyle Wiggers",
-            "title": "Meta AI gets lip-synced translations and celebrity voices, like Judi Dench and John Cena - TechCrunch",
-            "description": "Meta is bringing a voice mode to its AI assistant, Meta AI, along with an Meta AI-powered translation feature for Instagram Reels.",
-            "url": "https://techcrunch.com/2024/09/25/meta-ai-gets-lip-synced-translations-and-celebrity-voices-like-judi-dench-and-john-cena/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Screenshot-2024-04-19-at-1.32.04-PM.jpg?w=785",
-            "publishedAt": "2024-09-25T17:28:11Z",
-            "content": "Meta’s AI assistant, Meta AI, is getting a new voice mode of sorts.\r\nAt the Meta Connect 2024 developer conference in Menlo Park on Wednesday morning, Meta announced that Meta AI can now respond back… [+1729 chars]"
+            "author": "Ed Cara",
+            "title": "Global Surge in Nearsightedness Linked to Covid-19, Study Finds - Gizmodo",
+            "description": "A new review reveals that one in three kids now has myopia, with various factors contributing to the rise—and covid-19 may be one of them.",
+            "url": "https://gizmodo.com/global-surge-in-nearsightedness-linked-to-covid-19-study-finds-2000503155",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/eyeglasses.jpg",
+            "publishedAt": "2024-09-25T19:15:34Z",
+            "content": "If you had trouble seeing things in the distance as a kid, you’re far from alone. New research this week has found that the rate of nearsightedness in children and teens has steadily increased over t… [+3514 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-09-25T17:52:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -424,25 +411,25 @@
                 "name": "Android Authority"
             },
             "author": null,
-            "title": "2 years later, I've ditched my Pixel Buds Pro... for the Pixel Buds Pro 2 - Android Authority",
-            "description": "The original Pixel Buds Pro were some of my favorite earbuds ever. Here's how the new Pixel Buds Pro 2 managed to perfect that formula even more.",
-            "url": "https://www.androidauthority.com/google-pixel-buds-pro-2-review-3484813/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/09/google-pixel-buds-pro-2-in-case-next-to-pixel-9-pro-2.jpg",
-            "publishedAt": "2024-09-25T17:27:13Z",
-            "content": "When it comes to in-ear Bluetooth buds, Im a very picky person. Most models are too large, cause too much pressure in my ear, and eventually end up being too painful to use for more than 30 minutes. … [+9017 chars]"
+            "title": "Google's cracking down on fake reviews, and is shaming the businesses involved - Android Authority",
+            "description": "See what Google's doing to let users know about businesses caught manipulating reviews with fake content.",
+            "url": "https://www.androidauthority.com/google-fake-review-3484928/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/09/Official-Google-Pixel-9-case-in-hand.jpg",
+            "publishedAt": "2024-09-25T17:21:02Z",
+            "content": "<ul><li>Google is expanding enforcement of its Fake Engagement policy for businesses.</li><li>Businesses caught manipulating the process will face numerous consequences.</li><li>Those extend to a pub… [+2092 chars]"
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": null,
+                "name": "Milwaukee Journal Sentinel"
             },
-            "author": "Arturo Conde",
-            "title": "Lupita Nyong'o brings her outsider experience to 'The Wild Robot' - NBC News",
-            "description": "Lupita Nyong’o says DreamWorks’ new animated movie, “The Wild Robot,” will show viewers that you don’t have to pick either nature or machines in order to survive.",
-            "url": "https://www.nbcnews.com/news/nbcblk/lupita-nyongo-the-wild-robot-rcna170710",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240912-lupita-nyongo-vl-346p-b17f1b.jpg",
-            "publishedAt": "2024-09-25T16:59:23Z",
-            "content": "In fiction, machines are often pitted against nature. But Lupita Nyongo says DreamWorks new animated movie, The Wild Robot, will show viewers that you dont have to pick one over the other to survive.… [+2779 chars]"
+            "author": "Alex Groth",
+            "title": "You might be able to see the northern lights from Wisconsin Wednesday night - Milwaukee Journal Sentinel",
+            "description": "Northern lights could be visible in the northern parts of the Midwest.",
+            "url": "https://www.jsonline.com/story/news/local/wisconsin/2024/09/25/northern-lights-in-wisconsin-could-be-visible-tonight/75375638007/",
+            "urlToImage": "https://www.jsonline.com/gcdn/-mm-/50cf5bbf732a4dc596a6cd2b25c2d55faffc0cbe/c=0-198-3888-2395/local/-/media/2017/04/23/WIGroup/Milwaukee/636285788175783350-NORTHERNLIGHTS.JPG?width=3200&height=1809&fit=crop&format=pjpg&auto=webp",
+            "publishedAt": "2024-09-25T16:37:17Z",
+            "content": "Sky watchers may be able to see the northern lights in parts of the upper Midwest on Wednesday night, according to a news release from the NOAA Space Weather Prediction Center.\r\nAccording to NOAA, th… [+1300 chars]"
         },
         {
             "source": {
@@ -459,6 +446,19 @@
         },
         {
             "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "NASA pushes back Crew-9 mission launch to Saturday (Sept. 24) - Reuters",
+            "description": "NASA said on Tuesday the launch of its Crew-9 mission with SpaceX has been pushed back to Sept. 28 due to Tropical Storm Helene.",
+            "url": "https://www.reuters.com/technology/space/nasa-pushes-back-crew-9-mission-launch-saturday-2024-09-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ROGH4UK5FVLR7DUTKQYW75G3QY.jpg?auth=25fd92970d02b0ab4d144a6209a9125315fb7137598e1337fc971788351c4e93&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-09-25T15:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
@@ -472,16 +472,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
+                "id": "the-hill",
+                "name": "The Hill"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-09-24T13:50:20Z",
-            "content": "[Removed]"
+            "author": "The Associated Press",
+            "title": "‘Alarming’: Severe obesity is climbing in the US. See who is most affected - The Hill",
+            "description": "Obesity is high and holding steady in the U.S., but the proportion of those with severe obesity — especially women — has climbed since a decade ago, according to new government research.",
+            "url": "https://thehill.com/policy/healthcare/4895852-alarming-severe-obesity-is-climbing-in-the-us-see-who-is-most-affected/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/Elsewhere-Scale_121622_AP_Patrick-Sison.jpg?w=1280",
+            "publishedAt": "2024-09-25T11:19:00Z",
+            "content": "Skip to content\r\nObesity is high and holding steady in the U.S., but the proportion of those with severe obesity — especially women — has climbed since a decade ago, according to new government resea… [+4007 chars]"
         }
     ]
 }

@@ -1,175 +1,162 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Jonathan Vanian",
-            "title": "Hands-on with Meta's Orion AR glasses prototype and the possible future of computing - CNBC",
-            "description": "CNBC senior media and tech correspondent Julia Boorstin experienced Meta's Orion AR glasses prototype, and was impressed by how lightweight they were.",
-            "url": "https://www.cnbc.com/2024/09/27/hands-on-with-metas-orion-augmented-reality-smart-glasses-prototype.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039172-17272882542024-09-25t181706z_1213516645_rc2u7aaxxpc5_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1727288286&w=1920&h=1080",
-            "publishedAt": "2024-09-27T10:00:01Z",
-            "content": "The most impressive aspect of Meta's Orion augmented-reality glasses has more to do with size and comfort than flashy computer graphics.\r\nCNBC senior media and tech correspondent Julia Boorstin was a… [+4717 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Weather Channel"
-            },
-            "author": "The Weather Channel",
-            "title": "Tropical Storm Helene's Inland Trek Producing Damaging Winds, Serious Flooding - The Weather Channel",
-            "description": "Here's the very latest on the danger Helene poses well inland through the Southeast.",
-            "url": "https://weather.com/storms/hurricane/news/2024-09-26-hurricane-helene-forecast-landfall-florida-southeast",
-            "urlToImage": "https://s.w-x.co/helene5amfri.jpg",
-            "publishedAt": "2024-09-27T10:00:00Z",
-            "content": "At a Glance\r\n<ul><li>Helene is tracking inland over the Southeast.</li><li>Potentially historic rainfall flooding, damaging winds and some tornadoes will be impacts.</li><li>Helene made landfall as a… [+5422 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Priscilla Alvarez",
-            "title": "Harris heads to the US southern border, looking to close a polling gap with Trump - CNN",
-            "description": "Vice President Kamala Harris plans to go on the offensive against former President Donald Trump on immigration Friday when she visits the southern border in Arizona, campaign aides told CNN, as she tries to turn a political vulnerability on its head.",
-            "url": "https://www.cnn.com/2024/09/27/politics/harris-southern-border-arizona/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-26t212206z-1022777152-rc2l8aaxahmx-rtrmadp-3-usa-election-harris.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-09-27T09:41:00Z",
-            "content": "Vice President Kamala Harris plans to go on the offensive against former President Donald Trump on immigration Friday when she visits the southern border in Arizona, campaign aides told CNN, as she t… [+5517 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "POLITICO",
-            "title": "There’s a growing number of legal threats to DOJ’s Jan. 6 cases - POLITICO",
-            "description": null,
-            "url": "https://www.politico.com/news/2024/09/27/jan-6-cases-legal-challenges-political-threats-00181313",
-            "urlToImage": null,
-            "publishedAt": "2024-09-27T09:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "POLITICO",
-            "title": "‘Stay out of it’: Port worker strike creates new hazard for Harris, Trump - POLITICO",
-            "description": null,
-            "url": "https://www.politico.com/news/2024/09/27/port-strike-harris-biden-trump-election-00181319",
-            "urlToImage": null,
-            "publishedAt": "2024-09-27T09:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "What is NYC Mayor Eric Adams accused of? The charges explained - BBC.com",
-            "description": "Prosecutors claim New York's mayor accepted opulent hotel stays and donations from Turkish citizens.",
-            "url": "https://www.bbc.com/news/articles/cly3gz35dgro",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dc57/live/a709ebb0-7c5e-11ef-b02d-c5f3b724a1ea.jpg",
-            "publishedAt": "2024-09-27T08:38:46Z",
-            "content": "Watch: The NYC mayor's dramatic day in under 60 seconds\r\nUS prosecutors have charged New York City Eric Adams with bribery and fraud charges as part of a \"long-running\" scheme that has upended politi… [+5228 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Angelica Stabile",
-            "title": "To improve your sleep, do this activity before bed, experts suggest - Fox News",
-            "description": "A new study has found that participating in low-intensity exercise in the evening can help promote better sleep, as well as overall health. Fitness and sleep experts discuss the benefits.",
-            "url": "https://www.foxnews.com/health/improve-sleep-do-activity-before-bed-experts-suggest",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/exercise-before-sleep.jpg",
-            "publishedAt": "2024-09-27T08:30:00Z",
-            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+5733 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Sakura Murakami, John Geddie, Tim Kelly",
-            "title": "Veteran Japan lawmaker Shigeru Ishiba to be PM after 'final battle' - Reuters",
-            "description": "Ishiba prevailed over hardline nationalist Sanae Takaichi in a run-off vote in what was one of the most unpredictable Liberal Democratic Party leadership elections in decades.",
-            "url": "https://www.reuters.com/world/asia-pacific/japans-ldp-picks-new-leader-replace-outgoing-pm-kishida-2024-09-26/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/UPZTZ64JTVO3RKLWBJQZCGVISE.jpg?auth=87a6f091fb23bd3f19c529bff607f0e3fe716e2f79c5d0d46f49cfdbaa3de1ed&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-09-27T08:17:31Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Benjamin Mayo",
-            "title": "Kuo: New Apple Vision Pro with M5 chip on the way, featuring Apple Intelligence support - 9to5Mac",
-            "description": "Apple analyst Ming-Chi Kuo this morning reported that Apple is readying a new generation of Apple Vision Pro headset, set...",
-            "url": "https://9to5mac.com/2024/09/27/new-apple-vision-pro-2025/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iOS-18.1-Beta-4-Features-Jeff-Benjamin-Apple-Vision-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-09-27T07:21:00Z",
-            "content": "Apple analyst Ming-Chi Kuo this morning reported that Apple is readying a new generation of Apple Vision Pro headset, set to go into production in the second of half of 2025.\r\nThe new Vision Pro woul… [+1143 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Vlad Savov",
-            "title": "Alibaba, JD and Meituan Surge After China Stimulus Announcement - Yahoo Finance",
-            "description": "(Bloomberg) -- Alibaba Group Holding Ltd., JD.com Inc. and Meituan enjoyed their best trading days in years after the Chinese government announced measures...",
-            "url": "https://finance.yahoo.com/news/alibaba-jd-meituan-surge-china-061103624.html/",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-09-27T06:11:03Z",
-            "content": "(Bloomberg) -- Alibaba Group Holding Ltd., JD.com Inc. and Meituan enjoyed their best trading days in years after the Chinese government announced measures to stimulate the troubled domestic economy.… [+2042 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Mark Trevelyan, Andrew Osborn",
-            "title": "Putin draws a nuclear red line for the West - Reuters",
-            "description": "Putin has extended the list of scenarios that could lead to Russia using nuclear weapons. Whether he means it is a question critical to the course of the war. If he is serious, the conflict could turn into World War Three.",
-            "url": "https://www.reuters.com/world/europe/putin-draws-nuclear-red-line-west-2024-09-27/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/LI6OIZVZBZM3NAOGH5VBZ22KPA.jpg?auth=7e5bd013e0c93241c68dc2e7130f80de3d3554e5c37947d9e09489211dd15be0&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-09-27T05:07:00Z",
-            "content": null
+            "author": "Robert Legare, Andres Triay",
+            "title": "U.S. charges 3 Iranian hackers who allegedly targeted Trump campaign - CBS News",
+            "description": "Federal prosecutors have charged three Iranian hackers for allegedly targeting members of former President Donald Trump's presidential campaign as part of a \"wide-ranging\" cyber scheme.",
+            "url": "https://www.cbsnews.com/news/iranian-hackers-charged-alleged-targeting-of-trump-campaign/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/27/4ecea64b-7258-485c-aab5-87f5db87a4e3/thumbnail/1200x630/2d2d0b3e55b3f9c7ac5cc10c847aab31/gettyimages-2174481310.jpg?v=fa529222a2be3543711c1a879b51e860",
+            "publishedAt": "2024-09-27T16:34:34Z",
+            "content": "Federal prosecutors have charged three Iranian hackers for allegedly targeting members of former President Donald Trump's presidential campaign as part of a \"wide-ranging\" malicious cyber scheme, acc… [+4694 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "MARÍA VERZA",
-            "title": "Families of 43 missing students in Mexico are still demanding justice 10 years later - The Associated Press",
-            "description": "Families of the 43 students from a rural teacher’s college abducted 10 years ago in southern Mexico marked the painful anniversary Thursday disillusioned after a decade of unfulfilled government promises. The anniversary falls just four days before the depart…",
-            "url": "https://apnews.com/article/mexico-missing-students-ayotzinapa-b46b193319fdcd6cdf92c0ce0d0699da",
-            "urlToImage": "https://dims.apnews.com/dims4/default/d6957a1/2147483647/strip/true/crop/7403x4164+0+388/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2F09%2Fa198e3db5c18eb3d167b21f71140%2F672117012e7b4df8bee4006b9808dd10",
-            "publishedAt": "2024-09-27T04:43:00Z",
-            "content": "MEXICO CITY (AP) Families of the 43 students from a rural teachers college abducted 10 years ago in southern Mexico marked the painful anniversary Thursday, disillusioned after what they say was a de… [+3707 chars]"
+            "author": "JILL LAWLESS",
+            "title": "Maggie Smith, scene-stealing actor famed for Harry Potter and ‘Downton Abbey,’ dies at 89 - The Associated Press",
+            "description": "Maggie Smith, who won an Oscar for 1969 film “The Prime of Miss Jean Brodie” and won new fans in the 21st century as the dowager Countess of Grantham in “Downton Abbey” and Professor Minerva McGonagall in the Harry Potter films, has died at 89. Smith's public…",
+            "url": "https://apnews.com/article/actress-maggie-smith-dies-03a7b4143cc54b14bc7d9bca24ed1f9a",
+            "urlToImage": "https://dims.apnews.com/dims4/default/0f8c421/2147483647/strip/true/crop/4679x2632+0+281/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2Fac%2F09ddd0ed0bf12e7205a14b7f19bf%2Ff1345c4cde3f48a78b8b213c2c76e0ee",
+            "publishedAt": "2024-09-27T16:28:00Z",
+            "content": "LONDON (AP) Maggie Smith, the masterful, scene-stealing actor who won an Oscar for 1969 film The Prime of Miss Jean Brodie and gained new fans in the 21st century as the dowager Countess of Grantham … [+6797 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Medora Lee",
+            "title": "Port workers strike could snarl the supply chain and bust your holiday budget - USA TODAY",
+            "description": "If East Coast and Gulf Coast port workers don't reach a labor deal this week, Americans could face high prices and shortages this holiday.",
+            "url": "https://www.usatoday.com/story/money/personalfinance/2024/09/27/port-workers-strike-supply-chain-impact-higher-prices/75384739007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/-mm-/889ab77506167c4b4e6d24cf462557fdfdee2547/c=0-16-3000-1711/local/-/media/2015/05/22/USATODAY/USATODAY/635679177622974449-AP-US-PORT-LABOR-71094206.jpg?width=3000&height=1695&fit=crop&format=pjpg&auto=webp",
+            "publishedAt": "2024-09-27T16:07:30Z",
+            "content": "(This story was updated to add new information.)\r\nAmericans could face high prices and shortages again this holiday season but this time, it would be because of a worker strike instead of a global pa… [+7077 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WLOS"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Kelly Doty, Meghan Danahey & Marisa Sardonia",
-            "title": "LIVE UPDATES: Hurricane Helene makes landfall in Florida; WNC reports flooding, outages - WLOS",
-            "description": "Reports of flooding came in around the mountains on Wednesday and Thursday morning due to consistent rain and downpours.",
-            "url": "https://wlos.com/news/local/flooding-north-carolina-mountains-reported-ahead-helenes-arrival-asheville-biltmore-village-lake-lure",
-            "urlToImage": "https://wlos.com/resources/media2/16x9/3840/986/center/90/60bf8082-1991-417a-9a2c-2022baa171b5-JeffreyDeCristofaroDirectUploader27Sep202401_15UTC3.jpg",
-            "publishedAt": "2024-09-27T03:45:12Z",
-            "content": "Tracking Helene\r\n(WLOS) \r\n(11:10 P.M.) - News 13's Jason Boyer reports that Hurricane Helene has made landfall in Florida.\r\n(11 P.M.) - News 13's Jason Boyer reports that Hurricane Helene is set to m… [+5156 chars]"
+            "author": "Karen Friar",
+            "title": "Stock market today: Dow gains as Fed's favored inflation gauge cools - Yahoo Finance",
+            "description": "The market is looking to August's PCE print to calculate whether another jumbo cut is coming.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-gains-as-feds-favored-inflation-gauge-cools-133048271.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0O.vKmp7jmOxwlnXykeHpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/7688d520-648d-11ef-bbfe-5e701deffb17",
+            "publishedAt": "2024-09-27T15:58:00Z",
+            "content": "Stocks traded mixed on Friday as investors embraced an inflation report seen as crucial to the Federal Reserve's next decision on interest rate cuts.\r\nThe S&amp;P 500 (^GSPC) ticked just above the fl… [+7599 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Dominick Mastrangelo",
+            "title": "Amanpour: Melania Trump ‘mainstream media’ remark is ‘dangerous’ - The Hill",
+            "description": "CNN anchor Christiane Amanpour is chastising former first lady Melania Trump over comments she made attacking the mainstream media in a recent interview. “Mrs Trump is mistaken, political violence is not the fault of the ‘mainstream media’ and I wish she woul…",
+            "url": "https://thehill.com/homenews/media/4903456-christine-amanpour-melania-trump-mainstream-media-remark/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/Melania-Trump-09.26.png?w=1280",
+            "publishedAt": "2024-09-27T15:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Luc Cohen",
+            "title": "New York Mayor Eric Adams enters courtroom to face corruption charges - Reuters",
+            "description": "Federal prosecutors said Turkish diplomats and businesspeople illegally funneled money to Adams' campaign and showered him with luxury travel perks.",
+            "url": "https://www.reuters.com/world/us/new-york-mayor-eric-adams-appear-court-corruption-charges-2024-09-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/YI36PPKGRNPC3LA3RJEN6HD7KM.jpg?auth=8a31cf4dccc3337daa54fee2faf3d96ae45cf30d9e317c2a7638028bb86d569e&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-09-27T15:35:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-09-27T15:16:28Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Maya Gebeily, Tom Perry, Emily Rose",
+            "title": "Israel hits Beirut suburbs with heavy airstrikes - Reuters",
+            "description": "The Israeli military said it had targeted Hezbollah's central headquarters in Beirut's southern suburbs on Friday in an attack that shook the Lebanese capital and sent thick clouds of smoke over the city.",
+            "url": "https://www.reuters.com/world/middle-east/israel-continue-ceasefire-discussions-lebanon-netanyahu-says-2024-09-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/A2HY4CEQ45PPDBLZFS3GO2JT2E.jpg?auth=ada07a2e57e2244dfa09a22ed5a63349da8701f16cd0a6b6a521b7c68569e046&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-09-27T15:13:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Sascha Pare",
+            "title": "Scientists confirm there are 40 huge craters at the bottom of Lake Michigan - Livescience.com",
+            "description": "Researchers recently surveyed the bottom of Lake Michigan after spotting strange circles on the lakebed in 2022. New observations show the circles are craters, but how they formed remains unclear.",
+            "url": "https://www.livescience.com/planet-earth/geology/scientists-confirm-there-are-40-huge-craters-at-the-bottom-of-lake-michigan",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SBuMVcQjoYcLxWwZsrGcQ5-1200-80.jpg",
+            "publishedAt": "2024-09-27T14:54:45Z",
+            "content": "Two years ago, sonar images revealed strange circles at the bottom of Lake Michigan that scientists couldn't explain. Now, a survey has determined the shapes are giant holes — but there are many more… [+4035 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Carlos Greer",
+            "title": "Hoda Kotb was thinking about leaving ‘Today’ for ‘a really long time,’ but colleagues were still ‘shocked,’ sources - Page Six",
+            "description": "Savannah Guthrie was the first person that Kotb told, and Jenna Bush Hager was the second, sources told Page Six.",
+            "url": "https://pagesix.com/2024/09/27/entertainment/hoda-kotb-had-been-contemplating-leaving-today-for-a-really-long-time-insiders/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/09/90503903.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-09-27T14:47:00Z",
+            "content": "Hoda Kotb’s decision to leave “Today” didn’t happen overnight. \r\nInsiders tell Page Six that retiring from the top morning show had been on the table for quite some time. \r\n“There weren’t many people… [+2879 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kerry Breen",
+            "title": "Hurricane Helene videos show devastating flooding and damage amid ongoing rescue efforts in Florida - CBS News",
+            "description": "City officials shared clips of boats slammed into homes and a residence burning amid the floodwaters as they conducted water rescue operations.",
+            "url": "https://www.cbsnews.com/news/hurricane-helene-videos-flooding-damage-rescue-efforts-florida/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/27/571361e3-72ee-4d7a-91d9-3df8661242c3/thumbnail/1200x630/f73da472b971f76ea8fd6b0a64a77d39/screenshot-2024-09-27-at-9-13-46-am.png?v=fa529222a2be3543711c1a879b51e860",
+            "publishedAt": "2024-09-27T14:35:40Z",
+            "content": "Water as high as street signs. A home burning even as floodwaters rose. Boats smashed into houses.\r\nThese are just a few of the dramatic sights shared by city officials as they work to rescue people … [+4536 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Adam Taylor, Rachel Chason, Karen DeYoung, Louisa Loveluck, Sammy Westfall, Ishaan Tharoor, Alon Rom, Miriam Berger, Mohamad El Chamaa, Andrew Jeong, Dan Lamothe, Mariana Alfaro",
+            "title": "Live updates: Netanyahu addresses U.N. as nations call for Israel-Hezbollah cease-fire - The Washington Post",
+            "description": "The Israeli prime minister is in New York for the address as Biden administration officials await Israeli and Lebanese action on a cease-fire proposal.",
+            "url": "https://www.washingtonpost.com/world/2024/09/27/netanyahu-un-speech-israel-lebanon-hezbollah-hamas/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RJOTB3DAAQVYOW3URRKR5RQZNE_size-normalized.JPG&w=1440",
+            "publishedAt": "2024-09-27T14:05:54Z",
+            "content": "Israel-Gaza war\r\nThe Israel-Gaza war has gone on for months, and tensions have spilled into the surrounding Middle East region.\r\nThe war: On Oct. 7, Hamas militants launched an unprecedented cross-bo… [+1199 chars]"
         },
         {
             "source": {
@@ -177,90 +164,194 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "2024 Presidents Cup TV schedule, coverage, where to watch today, live stream free online, start times, dates - CBS Sports",
-            "description": "How to watch every shot and round from the 2024 Presidents Cup at Royal Montreal throughout the week",
-            "url": "https://www.cbssports.com/golf/news/2024-presidents-cup-tv-schedule-coverage-where-to-watch-today-live-stream-free-online-start-times-dates/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/24/143ce91c-173c-4085-9503-eeec2d221bea/thumbnail/1200x675/2aa850b21047861aea283e09d3b2fd6d/presidents-cup-flag-2024-g.jpg",
-            "publishedAt": "2024-09-27T03:32:00Z",
-            "content": "The United States has already put a stake in the ground as it seeks to continue a quarter century of dominance this week at the 2024 Presidents Cup at Royal Montreal. While the Americans have hoisted… [+2381 chars]"
+            "title": "Week 4 2024 bold predictions: Packers hand Vikings first loss no matter who QB is, Andy Dalton goes off again - CBS Sports",
+            "description": "Five surprising events that could go occur in Week 4",
+            "url": "https://www.cbssports.com/nfl/news/week-4-2024-bold-predictions-packers-hand-vikings-first-loss-no-matter-who-qb-is-andy-dalton-goes-off-again/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/01/15/b85fe2f3-ea96-41b9-a70b-26a407b26c3f/thumbnail/1200x675/01ca2171a7b79b7d4919f500cf058407/usatsi-matt-lafleur-packers.jpg",
+            "publishedAt": "2024-09-27T13:42:30Z",
+            "content": "Week 4 kicked off anticlimactically with quarterback Dak Prescott's Dallas Cowboys winning his 13th consecutive start against the New York Giants in a 20-15 road victory. \r\nThat run of dominance is t… [+10647 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Deadline"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Nellie Andreeva",
-            "title": "‘Grey’s Anatomy’ Showrunner Talks Premiere’s Twists & Big Return, Teases Resilience-Themed Season 21 As 2 Cast Members Prepare To Exit - Deadline",
-            "description": "'Grey's Anatomy' showrunner Meg Marinis talks about Sydney Heron's return in Season 21 premiere, the Catherine-Meredith power play and more.",
-            "url": "http://deadline.com/2024/09/greys-anatomy-season-21-premiere-recap-postmortem-meredith-yasuda-levi-1236097599/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/09/173884_0362.jpg?w=1024",
-            "publishedAt": "2024-09-27T03:00:00Z",
-            "content": "SPOILER ALERT: The story includes details about the If Walls Could Talk episode of ABC‘s Grey’s Anatomy. \r\nThe Season 21 premiere of ABC’s Grey’s Anatomy started and ended with a bang, leaving us wit… [+9910 chars]"
+            "author": "Al Jazeera",
+            "title": "Yemen’s Houthis claim attacks on Israeli cities, US warships - Al Jazeera English",
+            "description": "Iran-aligned group says it will continue its attacks on Israel until its ‘aggression on Lebanon and Gaza stops’.",
+            "url": "https://www.aljazeera.com/news/2024/9/27/yemens-houthis-claim-to-have-targeted-israels-tel-aviv-and-ashkelon",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/12381764-1727436416.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-09-27T13:41:15Z",
+            "content": "Yemens Houthi rebels claim they have attacked the Israeli cities of Tel Aviva and Ashkelon as well as three US navy warships with missiles and drones.\r\nThe Iran-aligned group pledged on Friday to con… [+2706 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Eonline.com"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": null,
-            "title": "Today Show’s Dylan Dreyer Shares Who Could Replace Hoda Kotb - E! Online - E! NEWS",
-            "description": "Today's Dylan Dreyer exclusively told E! News who might replace Hoda Kotb—who announced her departure on Sept. 26—while attending the 2024 People’s Choice Country Awards at the Grand Ole Opry House.",
-            "url": "https://www.eonline.com/news/1407878/today-shows-dylan-dreyer-shares-who-could-replace-hoda-kotb",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024826/rs_1200x1200-240926185322-1200.PCCAs-2024-dylan-dreyer.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2024-09-27T02:58:00Z",
-            "content": "\"I knew about 10 minutes before the show started,\" Dylan said. \"Which, I think, is when everybody kind of found out.\"\r\nBut despite the unexpected news, several members of The Today Show were on hand … [+813 chars]"
+            "author": "Michelle Ye Hee Lee, Julia Mio Inuma",
+            "title": "Japan’s ruling party elects Shigeru Ishiba as new prime minister - The Washington Post",
+            "description": "Ishiba, who wants an “Asian NATO” to counter security threats from China and North Korea, is the Liberal Democratic Party’s new leader, replacing Fumio Kishida.",
+            "url": "https://www.washingtonpost.com/world/2024/09/27/japan-new-prime-minister-leader-shigeru-ishiba/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T4ZV7N4LVKR6EI5N24IKI574DI.jpg&w=1440",
+            "publishedAt": "2024-09-27T13:30:14Z",
+            "content": "TOKYO Shigeru Ishiba, an outspoken former defense minister, is set to become Japans new prime minister next week, taking the helm of the worlds fourth-largest economy at a time of rising prices at ho… [+7543 chars]"
         },
         {
             "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Joseph Zucker",
-            "title": "MLB Playoff Picture 2024: Yankees Clinch AL East; Updated Bracket, Standings - Bleacher Report",
-            "description": "The New York Yankees are champions of the American League East for the second time in three seasons. Having already secured a spot in the MLB playoffs, the…",
-            "url": "https://bleacherreport.com/articles/10136441-mlb-playoff-picture-2024-yankees-clinch-al-east-updated-bracket-standings",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1727405954/hk2i6qiopnqvp65g5b1q.jpg",
-            "publishedAt": "2024-09-27T02:05:27Z",
-            "content": "B/R\r\nThe New York Yankees are champions of the American League East for the second time in three seasons.\r\nHaving already secured a spot in the MLB playoffs, the Bronx Bombers clinched the division w… [+4371 chars]"
+            "author": "Sara Moniuszko",
+            "title": "Alcohol can increase your cancer risk. What experts say about how much is too much - CBS News",
+            "description": "Many Americans are unaware of the connection between drinking and cancer risk, despite growing research that points to the negative health impacts of alcohol.",
+            "url": "https://www.cbsnews.com/news/alcohol-cancer-risk-what-to-know/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/24/5da947e9-b971-4199-83d9-bf72f1394d6c/thumbnail/1200x630/77d3463b15af07529177cb72a67b5ea9/gettyimages-1939545065.jpg?v=fa529222a2be3543711c1a879b51e860",
+            "publishedAt": "2024-09-27T13:18:00Z",
+            "content": "Despite growing research that points to the negative health impacts of alcohol, many Americans are unaware of the connection between drinking and cancer risk.\r\nA recent report from the American Assoc… [+5265 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Sports Illustrated"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Stephanie Apstein",
-            "title": "A’s Fans Hold Onto Old Memories, New Keepsakes in Team’s Farewell to Oakland - Sports Illustrated",
-            "description": "Oakland-Alameda County Coliseum hosted the A’s final home game in the Bay Area on Thursday. Fans mourned and commemorated the team by keeping what they could from the send-off.",
-            "url": "https://www.si.com/mlb/oakland-as-final-home-game-fans-farewell",
-            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2036,h_1145,x_121,y_194/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01j8ret0a3ep7hgmtp0x.jpg",
-            "publishedAt": "2024-09-27T01:11:57Z",
-            "content": "In the end, what they wanted was the dirt. Some fans snuck in wrenches to try to remove seats, and some joked about walking off with urinals, but when 56 years at the Oakland Coliseum came to a drawn… [+5967 chars]"
+            "author": "David Pierce",
+            "title": "Meta’s new smart glasses look like the future - The Verge",
+            "description": "All the Meta Connect announcements, from the Quest 3S to the Ray-Ban smart glasses to celebrity AI voices, plus OpenAI and Google, on this episode of The Vergecast.",
+            "url": "https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/MfINf0wJUwkMUq-T35UHl07ElEo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25645569/VST_0928_Site.jpg",
+            "publishedAt": "2024-09-27T13:03:08Z",
+            "content": "Metas new smart glasses look like the future\r\nMetas new smart glasses look like the future\r\n / On The Vergecast: everything we saw at Meta Connect, more chaos at OpenAI, and AI gadgets galore.\r\nByDav… [+2137 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Michelle Watson, Jason Hanna",
-            "title": "Alabama has executed Alan Eugene Miller, the second inmate known to die by nitrogen gas - CNN",
-            "description": "Alan Eugene Miller was executed Thursday evening in Alabama, state officials said, making him the second inmate known to die by nitrogen hypoxia, a controversial method critics say is tantamount to torture.",
-            "url": "https://www.cnn.com/2024/09/26/us/alan-eugene-miller-alabama-execution/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220915122311-01-alan-eugene-miller-080599-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-09-27T01:10:00Z",
-            "content": "Alan Eugene Miller was executed Thursday evening in Alabama, state officials said, making him the second inmate known to die by nitrogen hypoxia, a controversial method critics say is tantamount to t… [+8436 chars]"
+            "author": "Homero De La Fuente",
+            "title": "‘Today there is crying in baseball’: Athletics bid farewell to Oakland with one final victory - CNN",
+            "description": "In an emotional farewell to the city of Oakland, the Athletics secured a 3-2 victory over the Texas Rangers on Thursday in front of a sold-out crowd at the Coliseum, marking the end of their 57 seasons at the iconic stadium.",
+            "url": "https://www.cnn.com/2024/09/26/sport/athletics-bid-farewell-to-oakland-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2173771907.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-27T12:50:00Z",
+            "content": "In an emotional farewell to the city of Oakland, the Athletics secured a 3-2 victory over the Texas Rangers on Thursday in front of a sold-out crowd at the Coliseum, marking the end of their 57 seaso… [+4861 chars]"
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
-            "author": "Axios",
-            "title": "Newsmax, Smartmatic settle defamation lawsuit - Axios",
+            "author": "Yahoo Sports Staff",
+            "title": "Cowboys hold on to beat Giants in injury-filled game on Thursday Night Football - Yahoo Sports",
+            "description": "The Cowboys and Giants are both off to rough starts to the season.",
+            "url": "https://sports.yahoo.com/live/cowboys-hold-on-to-beat-giants-in-injury-filled-game-on-thursday-night-football-231539619.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.w9X.For9dtrPmWBW1oxlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/1bc848a0-7ab3-11ef-bffb-fc2a74aee224",
+            "publishedAt": "2024-09-27T12:40:56Z",
+            "content": "The Dallas Cowboys are back in the win column, courtesy of the New York Giants.\r\nIn an ugly, injury-filled \"Thursday Night Football\" game, the Cowboys held on for a 20-15 win against their NFC East r… [+5085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "The Motley Fool",
+            "title": "Following the Hindenburg Report, What Will Super Micro Computer Stock Do After Its Much-Awaited Stock Split? - The Motley Fool",
             "description": null,
-            "url": "https://www.axios.com/2024/09/27/newsmax-smartmatic-settle-defamation-lawsuit",
+            "url": "https://www.fool.com/investing/2024/09/27/what-will-supermicro-do-after-its-stock-split/",
             "urlToImage": null,
-            "publishedAt": "2024-09-27T00:55:47Z",
+            "publishedAt": "2024-09-27T12:33:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Bill Connelly",
+            "title": "Connelly's Week 5 preview: It's Bama-Georgia, baby! Plus 26 other key matchups - ESPN",
+            "description": "Dawgs-Tide is the headliner, but there's also a possible CFP eliminator and key tilts in the Big 12 and the Group of 5.",
+            "url": "https://www.espn.com/college-football/insider/story/_/id/41456203/college-football-week-5-preview-alabama-georgia-louisville-notre-dame",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0926%2Fr1392196_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-09-27T11:00:00Z",
+            "content": "Not a lot has changed over the first four weeks of the 2024 college football season. Of the top 12 teams in the preseason AP poll, nine remain unbeaten, two have lost once -- Michigan lost to Texas, … [+2509 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jeremy Herb",
+            "title": "Trump set to meet Zelensky amid GOP tensions over Ukraine assistance - CNN",
+            "description": "Former President Donald Trump and Ukrainian President Volodymyr Zelensky will meet at Trump Tower on Friday morning, according to Trump, giving the Ukrainian leader the chance to make a personal pitch to a GOP presidential nominee openly skeptical of continue…",
+            "url": "https://www.cnn.com/2024/09/27/politics/trump-zelensky-meeting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240926-trump-zelensky.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-27T10:51:00Z",
+            "content": "Former President Donald Trump and Ukrainian President Volodymyr Zelensky will meet at Trump Tower on Friday morning, according to Trump, giving the Ukrainian leader the chance to make a personal pitc… [+4384 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Menendez drama creator Ryan Murphy hits back at family criticism - BBC.com",
+            "description": "Ryan Murphy says family gave \"predictable\" response to show about two brothers who killed their parents.",
+            "url": "https://www.bbc.com/news/articles/c70zn2reyxxo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1f34/live/3418d530-7ccc-11ef-bf4b-ef19cfbf3842.jpg",
+            "publishedAt": "2024-09-27T10:30:07Z",
+            "content": "Ryan Murphy, the creator of Netflix's Monsters: The Lyle and Erik Menendez Story, has called their family's negative response to the drama, about two brothers who killed their parents, \"predictable a… [+4013 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "New Chinese nuclear attack submarine sank, U.S. officials says - CBS News",
+            "description": "The U.S. official said it was \"not surprising\" that China's navy would conceal it. The submarine's current status is unknown.",
+            "url": "https://www.cbsnews.com/news/china-nuclear-attack-submarine-sank-us-officials-says/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/09/27/b0e36195-f099-4d4c-8d65-82b559a83334/thumbnail/1200x630/8a66c51b8a5191804f2c391a6287d4f4/ap24271199184156.jpg?v=75eebeb27c74c775b9f2d93539861fb6",
+            "publishedAt": "2024-09-27T10:25:45Z",
+            "content": "Satellite imagery showed that China's newest nuclear-powered attack submarine sank alongside a pier while under construction, a U.S. military official confirmed to CBS News on Thursday.\r\nThe sinking … [+4129 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Push Square",
+            "title": "PS Store Confirms Lots More PS5 Pro Enhanced Games with New Tag - Push Square",
+            "description": null,
+            "url": "https://www.pushsquare.com/news/2024/09/ps-store-confirms-lots-more-ps5-pro-enhanced-games-with-new-tag",
+            "urlToImage": null,
+            "publishedAt": "2024-09-27T09:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Sam Woodward",
+            "title": "What's it like to debate Tim Walz? - USA TODAY",
+            "description": "The Minnesota governor will go head-to-head with JD Vance Tuesday night in New York City. Here's what you need to know about how he's preparing.",
+            "url": "https://www.usatoday.com/story/news/politics/elections/2024/09/27/tim-walz-strategy-2024-vp-debate/75305411007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/24/USAT/75368745007-usatsi-24202476.jpg?crop=2999,1687,x0,y105&width=2999&height=1687&format=pjpg&auto=webp",
+            "publishedAt": "2024-09-27T09:07:03Z",
+            "content": "MINNEAPOLIS Despite his unassuming, happy-go-lucky nature, Democratic vice presidential nominee Tim Walz can be a tough-guy debater. Even if he sometimes has worn a baseball cap.\r\nOften described as … [+10953 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Cut"
+            },
+            "author": "Claire Comstock-Gay",
+            "title": "Your Daily Horoscope by Madame Clairevoyant: September 27, 2024 - The Cut",
+            "description": "Every weekday, the Cut’s astrology expert, Claire Comstock-Gay (aka Madame Clairevoyant) reads the horoscope for every zodiac sign.",
+            "url": "http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-sept-27-2024.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/449/f37/0a3b53b0a630ac3263ee9563246170fdee-gwyneth-paltrow-libra-daily.1x.rsocial.w1200.jpg",
+            "publishedAt": "2024-09-27T09:00:05Z",
+            "content": "The waning moon spends today in proud, courageous Leo, as it draws to the close of one cycle and prepares to begin the next. You could feel stuck in the liminal zone between the end of one phase and … [+6185 chars]"
         },
         {
             "source": {
@@ -268,77 +359,38 @@
                 "name": "Politico"
             },
             "author": "POLITICO",
-            "title": "Gavin Newsom signs California apology for slavery and discrimination - POLITICO",
+            "title": "Harris to accuse Trump of ‘playing political games’ with immigration in border visit - POLITICO",
             "description": null,
-            "url": "https://www.politico.com/news/2024/09/26/newsom-signs-reparations-apology-00181368",
+            "url": "https://www.politico.com/news/2024/09/27/harris-trump-immigration-border-00181354",
             "urlToImage": null,
-            "publishedAt": "2024-09-27T00:39:20Z",
+            "publishedAt": "2024-09-27T09:00:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Debora Patta, Sarah Carter",
-            "title": "How CBS News tracked down Ghanaian romance scammers duping Americans into parting with huge sums of money - CBS News",
-            "description": "Chocolates, flowers and gold mines: A CBS News investigation reveals the lengths scammers go to to romance and rob unsuspecting Americans.",
-            "url": "https://www.cbsnews.com/news/ghana-romance-scammers-duping-americans/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/26/9703a173-c6fe-4e2b-864e-05f6e886cf1d/thumbnail/1200x630/e6ac9e7013983feb69ac8bcd861ecb7a/ayivor-and-john.jpg?v=75eebeb27c74c775b9f2d93539861fb6",
-            "publishedAt": "2024-09-27T00:30:00Z",
-            "content": "In the late 1990s and early 2000s, \"Nigerian Prince\" emails became infamous — typically involving someone claiming to be royalty and asking for money that they promised would be paid back with a heft… [+13351 chars]"
+            "author": "John T Psaropoulos",
+            "title": "Russia rattles the nuclear sabre again, as Ukraine devastates its munitions - Al Jazeera English",
+            "description": "Ukraine may have destroyed three months’ worth of Russian ammunition in one night using its drones.",
+            "url": "https://www.aljazeera.com/news/2024/9/27/russia-rattles-the-nuclear-sabre-again-as-ukraine-devastates-its-munitions",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/2024-09-26T101544Z_416357721_RC2K7AAD4Z95_RTRMADP_3_UKRAINE-CRISIS-EAST-FRONTLINE-1727379888.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-09-27T05:47:05Z",
+            "content": "Russia has tailored its nuclear response doctrine to the specific threat of the long-range attacks it faces from Ukraine, even as Kyivs forces demonstrated during the past week the devastating effect… [+6152 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "9to5google.com"
             },
-            "author": null,
-            "title": "Samsung Galaxy Tab S10: Hands-On With the New Android Tablet Models - CNET",
-            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-            "url": "https://www.youtube.com/",
-            "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-            "publishedAt": "2024-09-26T23:10:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "ABC News",
-            "title": "FDA approves 1st new drug for schizophrenia in more than 30 years - ABC News",
-            "description": null,
-            "url": "https://abcnews.go.com/Health/fda-approves-1st-new-drug-schizophrenia-30-years/story?id\\\\u003d114070951",
-            "urlToImage": null,
-            "publishedAt": "2024-09-26T23:07:52Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Hayden Field",
-            "title": "Sam Altman tells OpenAI staff there's no plan for him to receive 'giant equity stake' in company - CNBC",
-            "description": "At an all-hands meeting Thursday, OpenAI CEO Sam Altman denied reports that he received a \"giant equity stake\" in the company.",
-            "url": "https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108026796-1724873704599-gettyimages-2166044375-AA_13082024_1818768.jpeg?v=1727275084&w=1920&h=1080",
-            "publishedAt": "2024-09-26T23:07:41Z",
-            "content": "At an all-hands meeting on Thursday, OpenAI CEO Sam Altman denied that there are plans for him to receive a \"giant equity stake\" in the company, calling that information \"just not true,\" according to… [+3586 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Sean Mandell",
-            "title": "Costco denies Sean ‘Diddy’ Combs’ lawyer’s claim he bought baby oil ‘in bulk’ at wholesale giant - New York Post ",
-            "description": "It’s a slippery situation.",
-            "url": "https://nypost.com/2024/09/26/entertainment/costco-denies-sean-diddy-combs-lawyers-baby-oil-claim-says-store-doesnt-sell-it/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/90458578.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-09-26T21:27:00Z",
-            "content": "Oh, baby.\r\nCostco is pushing back on a claim made by Sean “Diddy” Combs’ lawyer that the rapper’s vast baby oil collection was purchased at one of the wholesale giant’s stores. \r\nDiddy’s lawyer, Marc… [+3247 chars]"
+            "author": "Abner Li",
+            "title": "Gmail rolling out Gemini-powered Contextual Smart Replies - 9to5Google",
+            "description": "Following the announcement at I/O 2024, Google is now rolling out Contextual Smart Replies to Gmail for Android and iOS...",
+            "url": "http://9to5google.com/2024/09/26/gmail-contextual-smart-replies/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/gmail-android-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-09-27T03:55:00Z",
+            "content": "Following the announcement at I/O 2024, Google is now rolling out Contextual Smart Replies to Gmail for Android and iOS.\r\nCompared to Smart Reply, which dates back to 2017, the contextual version is … [+1019 chars]"
         },
         {
             "source": {
@@ -356,93 +408,41 @@
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "Live Science"
             },
-            "author": "Alex Mitchell",
-            "title": "‘Really cool’ comet on 81,000-year trip toward Earth has finally arrived — here’s how to see it - New York Post ",
-            "description": "And you thought your commute was long.",
-            "url": "https://nypost.com/2024/09/26/science/comet-a3-on-81000-year-trip-to-earth-is-here-how-to-see-it/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/GYFnF0zXYAAQ1wi.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-09-26T19:38:00Z",
-            "content": "And you thought your commute was long.\r\nA comet that has been on an 81,000-year journey to fly by Earth is finally arriving — and should be visible in our skies in the upcoming days, according to KSN… [+2889 chars]"
+            "author": "Ben Turner",
+            "title": "Astronomers spot a possible 'future Earth' — 8 billion years into its future - Livescience.com",
+            "description": "The rocky planet, roughly twice Earth's size, has offered astronomers a glimpse of one of Earth’s possible futures — if it doesn’t get engulfed by our expanding sun.",
+            "url": "https://www.livescience.com/space/exoplanets/astronomers-spot-a-possible-future-earth-8-billion-years-into-its-future",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WPaip2y7DporagJLFnEM2E-1200-80.jpg",
+            "publishedAt": "2024-09-26T16:38:54Z",
+            "content": "Astronomers have discovered a distant planet that has offered them a rare glimpse of what our planet may look like 8 billion years in the future.\r\nThe planet, called KMT-2020-BLG-0414 and located 4,0… [+3003 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Sea robins are fish with ‘the wings of a bird and multiple legs like a crab’ - CNN",
+            "description": "Some types of “walking” fish called sea robins can use their taste bud-covered legs to detect prey buried beneath the sandy covering of the seafloor.",
+            "url": "https://www.cnn.com/2024/09/26/science/sea-robins-walk-taste-seafloor/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/prionotus-carolinus-1-credit-anik-grearson.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-26T15:52:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nSome types of sea robins, a peculiar bottom-dwelling o… [+6984 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "European Space Agency",
-            "title": "Hubble finds that a black hole beam promotes stellar eruptions - Phys.org",
-            "description": "In a surprise finding, astronomers using the NASA/ESA Hubble Space Telescope have discovered that the blowtorch-like jet from a supermassive black hole at the core of a huge galaxy seems to cause stars to erupt along its trajectory. The stars, called novae, a…",
-            "url": "https://phys.org/news/2024-09-hubble-black-hole-stellar-eruptions.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/hubble-finds-that-a-bl.jpg",
-            "publishedAt": "2024-09-26T19:32:41Z",
-            "content": "In a surprise finding, astronomers using the NASA/ESA Hubble Space Telescope have discovered that the blowtorch-like jet from a supermassive black hole at the core of a huge galaxy seems to cause sta… [+6825 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Robert Lea",
-            "title": "This exoplanet circling a dead star may mirror Earth's fate — if our planet survives a dying sun, that is - Space.com",
-            "description": "\"We do not currently have a consensus whether Earth could avoid being engulfed by the red giant sun in 6 billion years.\"",
-            "url": "https://www.space.com/sun-earth-future-exoplanet-dead-star",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FNZ6X5Sr9uYirz9JmyA96C-1200-80.png",
-            "publishedAt": "2024-09-26T18:00:01Z",
-            "content": "A planetary system anchored by a dead white dwarf star, located around 4,000 light-years away, has offered astronomers a possible glimpse into what our sun and Earth could look like in around 8 billi… [+8572 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Brendan Morrow",
-            "title": "Menendez brothers' family slam 'grotesque' Netflix show 'Monsters' for 'outright falsehoods' - USA TODAY",
-            "description": "The extended family of Erik and Lyle Menéndez have released a statement slamming Ryan Murphy's true crime Netflix series \"Monsters.\"",
-            "url": "https://www.usatoday.com/story/entertainment/tv/2024/09/26/monsters-menendez-brothers-family-statement/75393195007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/23/USAT/75345521007-20240923-vpc-menendez-brothers-slam-series-creator-getty-00-00-00-00-still-003.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
-            "publishedAt": "2024-09-26T17:28:54Z",
-            "content": "The Menendez family is speaking out against Ryan Murphy and Netflix.\r\nTammi Menendez, wife of Erik Menendez, has shared a statement on social media attributed to \"virtually the entire extended family… [+3619 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
+                "name": "CNET"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-09-26T16:35:30Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "David Cox",
-            "title": "'A warmer, sicker world': Mosquitoes carrying deadly diseases are on an unstoppable march across the US - BBC.com",
-            "description": "West Nile virus, Eastern equine encephalitis (EEE), malaria and dengue are gaining new ground in the US. The mosquitoes that carry these diseases are thriving in a warming world.",
-            "url": "https://www.bbc.com/future/article/20240925-why-mosquitoes-are-thriving-in-a-warmer-world",
-            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0jss7gr.jpg",
-            "publishedAt": "2024-09-26T09:07:38Z",
-            "content": "Aedes mosquitoes capable of carrying a range of harmful viruses are moving to new areas with climate change (Credit: Getty Images)\r\nWest Nile virus, Eastern equine encephalitis (EEE), malaria and den… [+12039 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "UPI.com"
-            },
-            "author": "UPI News",
-            "title": "Survey: Most Americans won't get new flu, COVID-19 vaccines - UPI News",
-            "description": null,
-            "url": "https://www.upi.com/Health_News/2024/09/25/survey-most-americans-wont-get-flu-covid-19-vaccines/2731727277780/",
-            "urlToImage": null,
-            "publishedAt": "2024-09-25T16:20:09Z",
-            "content": null
+            "title": "These Early Apple Watch Series 10 Discounts Will Be Hard to Beat This Prime Day - CNET",
+            "description": "With October Prime Day just around the corner, we're already seeing discounts on some items, including $30 off the brand-new Apple Watch Series 10.",
+            "url": "https://www.cnet.com/deals/these-early-apple-watch-series-10-discounts-will-be-hard-to-beat-this-prime-day/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/86ce88a2f7baaac294105f11d65d5e20a033b65c/hub/2024/09/26/61fd5b73-229f-493b-8e55-fe52b1b1450e/apple-watch-series-10-in-jet-black.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-09-26T13:39:00Z",
+            "content": "The brand-new Apple Watch Series 10 has only been on sale for a few short days, but we are already seeing the odd discount here and there. Amazon might be gearing up for its October Prime Day event, … [+1594 chars]"
         }
     ]
 }

@@ -1,7 +1,59 @@
 {
     "status": "ok",
-    "totalResults": 57,
+    "totalResults": 47,
     "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura Paddison",
+            "title": "Scientists looked at images from space to see how fast Antarctica is turning green. Here’s what they found - CNN",
+            "description": "Parts of icy Antarctica are turning green with plant life as the region is gripped by extreme heat events, new research shows, sparking concerns about the changing landscape on this vast continent.",
+            "url": "https://www.cnn.com/2024/10/04/climate/antarctica-greening-vegetation-satellite-images/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/antarctica-1.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-04T09:00:00Z",
+            "content": "Parts of icy Antarctica are turning green with plant life at an alarming rate as the region is gripped by extreme heat events, according to new research, sparking concerns about the changing landscap… [+3837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Florida Today"
+            },
+            "author": "Rick Neale",
+            "title": "ULA Vulcan launch: Live updates from Cert-2 launch countdown at Cape - Florida Today",
+            "description": "Follow FLORIDA TODAY Space Team live updates from this morning's ULA Vulcan Cert-2 mission from Launch Complex 41 at Cape Canaveral Space Force Station.",
+            "url": "https://www.floridatoday.com/story/tech/science/space/2024/10/03/ula-vulcan-morning-launch-what-to-know-before-liftoff-at-cape-canaveral-space-force-station-florida/75495609007/",
+            "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2024/09/30/PBRE/75456671007-crb-093024-vulcan-7.jpg?crop=3235,1820,x0,y516&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-10-04T08:34:00Z",
+            "content": "United Launch Alliance is sending its second-ever Vulcan rocket into space!\r\nWelcome to FLORIDA TODAY Space Team live coverage of this morning's ULA Vulcan Cert-2 mission from Cape Canaveral Space Fo… [+7516 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "Man paralyzed in diving mishap has medical miracle a year after AI-powered brain implant - Fox News",
+            "description": "A man who was left paralyzed after a diving accident is starting to regain movement a year after receiving an artificial intelligence-powered implant in his brain.",
+            "url": "https://www.foxnews.com/health/man-paralyzed-diving-mishap-medical-miracle-year-after-ai-powered-brain-implant",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/keith-thomas-split.jpg",
+            "publishedAt": "2024-10-04T08:30:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+6063 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Kasha Patel",
+            "title": "Where you may see northern lights this weekend, as a geomagnetic storm heads to Earth - The Washington Post",
+            "description": "The geomagnetic storm is the latest phenomenon in an impressive parade of solar activity this week.",
+            "url": "https://www.washingtonpost.com/weather/2024/10/03/northern-lights-visibility-aurora-solar-storm-where-to-see/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CVPTHBYMYVE6RBC62OPGTZBBTE_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-10-04T03:56:52Z",
+            "content": "This article has been updated with the latest forecast information as of Thursday afternoon.\r\nThe sun is sending a slew of activity to Earth this week and that could mean strong displays of the auror… [+6681 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -27,19 +79,6 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZD5LL5CBKQI6XNMLCYR7MJTZMA_size-normalized.jpg&w=1440",
             "publishedAt": "2024-10-04T02:02:38Z",
             "content": "Scientists discovered that bacteria commonly found in wastewater can break down plastic to turn it into a food source, a finding that researchers hope could be a promising answer to combat one of Ear… [+3410 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FOX 9"
-            },
-            "author": "FOX 9",
-            "title": "Northern Lights in MN: Solar flares sets stage for aurora - FOX 9 Minneapolis-St. Paul",
-            "description": "Keep an eye to the north: The Northern Lights could be visible as far south as central Iowa amid a strong geomagnetic storm on Thursday, Friday, and Saturday night.",
-            "url": "https://www.fox9.com/news/northern-lights-mn-solar-flares-sets-stage-aurora",
-            "urlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/09/1280/720/northern-lights-Allison-Routman-Victoria-scaled.jpg?ve=1&tl=1",
-            "publishedAt": "2024-10-04T02:00:36Z",
-            "content": "The Brief\r\n<ul><li><ul><li>NOAA detected two solar flares this week, including an X9.0 flare, the strongest flare in seven years.</li><li>The flares are expected to cause geomagnetic storms, potentia… [+1998 chars]"
         },
         {
             "source": {
@@ -79,19 +118,6 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/COMP-webb-flickr-4808870003-8558a2628a-k-jpg.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-10-03T22:05:00Z",
             "content": "It actually was a long time ago in a galaxy far, far away.\r\nThe James Webb Space Telescope has detected a peculiar region of space that could be a “missing link” to what’s understood about the early … [+2524 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Michelle Starr, Michelle Starr",
-            "title": "CERN Confirms Ultra-Rare Particle Transformation, Hints at New Physics - ScienceAlert",
-            "description": "It's real.",
-            "url": "https://www.sciencealert.com/cern-confirms-ultra-rare-particle-transformation-hints-at-new-physics",
-            "urlToImage": "https://www.sciencealert.com/images/2024/09/na62.jpg",
-            "publishedAt": "2024-10-03T21:49:41Z",
-            "content": "In a particle collider at CERN, a rarely-seen event is bringing us tantalizingly close to the brink of new physics.\r\nFrom years of running what is known as the NA62 experiment, particle physicist Cri… [+4742 chars]"
         },
         {
             "source": {
@@ -148,6 +174,32 @@
         {
             "source": {
                 "id": null,
+                "name": "The Weather Channel"
+            },
+            "author": "The Weather Channel",
+            "title": "Satellites And Hurricanes: A Life-Saving Innovation - The Weather Channel",
+            "description": "Satellites data allow forecasters to track tropical systems well in advance of impacts. It wasn't always this way.",
+            "url": "https://weather.com/storms/hurricane/news/2024-10-03-history-tropical-weather-satellites",
+            "urlToImage": "https://s.w-x.co/Kirk%20and%20Leslie%20Satellite.jpg",
+            "publishedAt": "2024-10-03T20:03:31Z",
+            "content": "At a Glance\r\n<ul><li>Tropical forecasting used to rely on observations and measurements taken from inside the storm.</li><li>Satellites allow for continuous monitoring of potential and active tropica… [+7099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Nadir crater: The asteroid that killed the dinosaurs was not alone - BBC.com",
+            "description": "A second asteroid hit Earth around the same time causing a \"catastrophic\" event.",
+            "url": "https://www.bbc.com/news/articles/c62m04v0k0no",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cc1e/live/efaebdf0-8109-11ef-911d-e971c8490000.jpg",
+            "publishedAt": "2024-10-03T19:16:39Z",
+            "content": "The huge asteroid that hit Earth and wiped out the dinosaurs 66 million years ago was not alone, scientists have confirmed.\r\nA second, smaller space rock smashed into the sea off the coast of West Af… [+2863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Futurism"
             },
             "author": "Frank Landymore",
@@ -160,45 +212,6 @@
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "John Timmer",
-            "title": "Ants learned to farm fungi during a mass extinction - Ars Technica",
-            "description": "Ants learned to work with fungi back in a world where only fungi could thrive.",
-            "url": "https://arstechnica.com/science/2024/10/ants-fungus-agriculture-traced-back-to-dinosaur-killing-impact/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-484164731-scaled.jpg",
-            "publishedAt": "2024-10-03T18:00:36Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Stefanie Waldek",
-            "title": "Curiosity Mars rover's wheels are more battered than ever — but they still work - Space.com",
-            "description": "After more than 12 years exploring Mars, NASA's Curiosity rover has tired feet — err, wheels.",
-            "url": "https://www.space.com/curiosity-mars-rover-wheel-damage-sept-2024",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8MnCTcAPViVRWS5y9GbY5G-1200-80.jpg",
-            "publishedAt": "2024-10-03T18:00:01Z",
-            "content": "As fun as it would be to visit Mars, we wouldn't necessarily want to walk a mile in the Curiosity rover's shoes — or rather, its wheels. After landing in Mars' Gale Crater in 2012 and traveling some … [+2425 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Mark Johnson",
-            "title": "Intricate map of tiny fruit fly brain marks major neuroscience milestone - The Washington Post",
-            "description": "Scientists mapped the fruit fly brain’s more than 50 million connections, a step in aiding future human brain research.",
-            "url": "https://www.washingtonpost.com/science/2024/10/03/fruit-fly-brain-mapped/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MYWO53USGAIIMORNJMOIAYVBRU.jpg&w=1440",
-            "publishedAt": "2024-10-03T17:00:00Z",
-            "content": "Hundreds of scientists and citizen scientists from around the world have mapped out more than 50 million connections in the tiny fruit fly brain, a step toward one day producing an intricate map of t… [+5148 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "[Removed]"
             },
@@ -207,8 +220,34 @@
             "description": "[Removed]",
             "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2024-10-03T16:51:00Z",
+            "publishedAt": "2024-10-03T18:19:21Z",
             "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "NASA",
+            "title": "NASA's laser comms demo makes deep space record, completes first phase - Phys.org",
+            "description": "The Deep Space Optical Communications tech demo has completed several key milestones, culminating in sending a signal to Mars' farthest distance from Earth.",
+            "url": "https://phys.org/news/2024-10-nasa-laser-comms-demo-deep.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/nasas-laser-comms-demo.jpg",
+            "publishedAt": "2024-10-03T18:16:05Z",
+            "content": "The Deep Space Optical Communications tech demo has completed several key milestones, culminating in sending a signal to Mars' farthest distance from Earth.\r\nNASA's Deep Space Optical Communications … [+5614 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Harry Baker",
+            "title": "New NASA images reveal giant hole in Curiosity rover's wheel after 12 years of 'abuse' on Mars - Livescience.com",
+            "description": "Images captured by Curiosity's onboard cameras show several large tears in the tire of one of the rover's wheels. However, the damage does not appear to be slowing the roaming robot down.",
+            "url": "https://www.livescience.com/space/mars/new-nasa-images-reveal-giant-hole-in-curiosity-rovers-wheel-after-12-years-of-abuse-on-mars",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dgsuPbRErPj563TSNCiat6-1200-80.jpg",
+            "publishedAt": "2024-10-03T16:49:33Z",
+            "content": "New photos reveal several sizable holes in one of the wheels of NASA's Curiosity Mars rover, highlighting the toll that 12 years of scrambling across the Red Planet's harsh landscape have taken on th… [+2657 chars]"
         },
         {
             "source": {
@@ -239,19 +278,6 @@
         {
             "source": {
                 "id": null,
-                "name": "LADbible"
-            },
-            "author": "Brenna Cooper",
-            "title": "Astronomer who unveiled 'Pale Blue Dot' photo of Earth sent a chilling message to our planet - LADbible",
-            "description": "Astronomer Carl Sagan explained why he believes the 'Pale Blue Dot' image is so significant for all of humanity to see and remember.",
-            "url": "https://www.ladbible.com/news/science/carl-sagan-blue-dot-warning-earth-773196-20241003",
-            "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt03814bf707bc9c9e/66fe85f18ab8ac37831bf5a5/pale-blue-dot.png",
-            "publishedAt": "2024-10-03T15:31:48Z",
-            "content": "The astronomer who unveiled the 'Pale Blue Dot' in the 1990s has explained why he believed the image was so important for all of mankind to see.\r\nThroughout his life, legendary planetary scientist Ca… [+2579 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Boing Boing"
             },
             "author": "Thom Dunn",
@@ -274,6 +300,19 @@
             "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg",
             "publishedAt": "2024-10-03T14:42:35Z",
             "content": "NASA astronauts aboard the International Space Station have the opportunity to vote in general elections through absentee ballots or early voting in coordination with the county clerks office where t… [+2725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Rob Beschizza",
+            "title": "Planet orbiting Barnard's Star among closest so far found - Boing Boing",
+            "description": "Barnard's Star, 6 light years away, is a red dwarf and the closest to our own after the triple-star Centauri system. There's a planet whirling around it, somewhat smaller than…",
+            "url": "https://boingboing.net/2024/10/03/planet-orbiting-barnards-star-among-closest-so-far-found.html",
+            "urlToImage": null,
+            "publishedAt": "2024-10-03T14:27:46Z",
+            "content": "Barnard's Star, 6 light years away, is a red dwarf and the closest to our own after the triple-star Centauri system. There's a planet whirling around it, somewhat smaller than Venus. Don't get your h… [+1141 chars]"
         },
         {
             "source": {
@@ -317,19 +356,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Why People Are Better at Guessing the Past Than Predicting the Future - Neuroscience News",
-            "description": "A new study shows that people are better at inferring past events than predicting future ones when watching scenes from TV dramas.",
-            "url": "https://neurosciencenews.com/psychology-past-future-prediction-27767/",
-            "urlToImage": "https://neurosciencenews.com/files/2024/10/past-future-prediction-psychology.jpg",
-            "publishedAt": "2024-10-03T13:04:26Z",
-            "content": "Summary: A new study shows that people are better at inferring past events than predicting future ones when watching scenes from TV dramas. The researchers found that participants were more accurate … [+5239 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Space.com"
             },
             "author": "Elizabeth Howell",
@@ -345,39 +371,39 @@
                 "id": null,
                 "name": "IFLScience"
             },
-            "author": "Benjamin Taub",
-            "title": "Explosion Equivalent To Five North Korean Nuclear Bombs Triggered Tongan Volcano Eruption - IFLScience",
-            "description": "Underwater volcanoes don't usually erupt this way.",
-            "url": "https://www.iflscience.com/explosion-equivalent-to-five-north-korean-nuclear-bombs-triggered-tongan-volcano-eruption-76197",
-            "urlToImage": "https://assets.iflscience.com/assets/articleNo/76197/aImg/79254/hunga-tonga-eruption-meta.jpg",
-            "publishedAt": "2024-10-03T09:54:48Z",
-            "content": "The cause of the gargantuan underwater eruption that occurred off the coast of Tonga in early 2022 may finally have been identified, and its appropriately wild. Using techniques that were developed t… [+2515 chars]"
+            "author": "Stephen Luntz",
+            "title": "Why Astronomers Have Stopped Hoping For A Once-In-A-Lifetime Exploding Star (For Now) - IFLScience",
+            "description": "It's a treasured opportunity some astronomers have waited decades for, but they also fear it could come at just the wrong time.",
+            "url": "https://www.iflscience.com/why-astronomers-have-stopped-hoping-for-a-once-in-a-lifetime-exploding-star-for-now-76212",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/76212/aImg/79273/the-constellation-corona-borealis-meta.png",
+            "publishedAt": "2024-10-03T11:49:51Z",
+            "content": "Sometime soon, the reoccurring nova T Coronae Borealis is expected to brighten almost ten thousand-fold but astronomers who have been anxiously watching for this exciting event would suddenly like a … [+4768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Carly Cassella, Carly Cassella",
+            "title": "This Map of Every Neuron in an Adult Fly Brain Could Be Nobel Prize Worthy - ScienceAlert",
+            "description": "An incredible first in neuroscience.",
+            "url": "https://www.sciencealert.com/this-map-of-every-neuron-in-an-adult-fly-brain-could-be-nobel-prize-worthy",
+            "urlToImage": "https://www.sciencealert.com/images/2024/10/NeuronMapAdultFruitFlyOnGreyBackground.jpg",
+            "publishedAt": "2024-10-03T11:08:24Z",
+            "content": "It's an accomplishment that scientists have dreamed about for more than half a century. At last, a massive international team of researchers has mapped in exquisite detail every neuron in the brain o… [+4158 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "IFLScience"
             },
-            "author": "James Felton",
-            "title": "Mysterious \"Skyquake\" Noises Heard Around The World, And Nobody Knows What They Are - IFLScience",
-            "description": "In Belgium they are known as \"mistpouffers\", or \"fog belches\".",
-            "url": "https://www.iflscience.com/mysterious-skyquake-noises-heard-around-the-world-and-nobody-knows-what-they-are-76195",
-            "urlToImage": "https://assets.iflscience.com/assets/articleNo/76195/aImg/79256/seneca-guns-meta.png",
-            "publishedAt": "2024-10-03T09:52:39Z",
-            "content": "At various places around the world people have reported strange, loud banging noises that appear to be coming from the sky. Around the world they are known as Barisal guns in the Ganges delta and the… [+2694 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Harry Baker",
-            "title": "Earth from space: Deep tidal channels cut between 'pirate hotspot' islands in the Bahamas - Livescience.com",
-            "description": "This 2015 photo from the International Space Station showcases the deep tidal channels that cut through a line of cays in the Bahamas. Astronauts say it is \"one of the most recognizable points on the planet.\"",
-            "url": "https://www.livescience.com/planet-earth/rivers-oceans/earth-from-space-deep-tidal-channels-cut-between-pirate-hotspot-islands-in-the-bahamas",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tJGvCmebxFWVy52gshfcHR-1200-80.jpg",
-            "publishedAt": "2024-10-03T09:45:25Z",
-            "content": "Where is it? Exuma, Bahamas [23.46141962534, -75.900438330]\r\nWhat's in the photo? A string of islands, or cays, interspersed with deep tidal channels\r\nWho took the photo? An unnamed astronaut on boar… [+2861 chars]"
+            "author": "Benjamin Taub",
+            "title": "Explosion Equivalent To Five North Korean Nuclear Bombs Triggered Tongan Volcano Eruption - IFLScience",
+            "description": "Underwater volcanoes don't usually erupt this way.",
+            "url": "https://www.iflscience.com/explosion-equivalent-to-five-north-korean-nuclear-bombs-triggered-tongan-volcano-eruption-76197",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/76197/aImg/79254/hunga-tonga-eruption-meta.jpg",
+            "publishedAt": "2024-10-03T09:49:35Z",
+            "content": "The cause of the gargantuan underwater eruption that occurred off the coast of Tonga in early 2022 may finally have been identified, and its appropriately wild. Using techniques that were developed t… [+2515 chars]"
         },
         {
             "source": {
@@ -391,19 +417,6 @@
             "urlToImage": "https://helios-i.mashable.com/imagery/articles/067MGOKzMJILZi414F92TzM/hero-image.fill.size_1200x675.v1727902243.jpg",
             "publishedAt": "2024-10-03T09:30:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "University of Göttingen",
-            "title": "Geological surveys shed light on the formation mystery of Uruguay's amethyst geodes - Phys.org",
-            "description": "Amethyst is a violet variety of quartz that has been used as a gemstone for many centuries and is a key economic resource in northern Uruguay. Geodes are hollow rock formations often with quartz crystals, such as amethyst, inside.",
-            "url": "https://phys.org/news/2024-10-geological-surveys-formation-mystery-uruguay.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/mystery-of-uruguays-am-1.jpg",
-            "publishedAt": "2024-10-03T08:30:15Z",
-            "content": "Amethyst is a violet variety of quartz that has been used as a gemstone for many centuries and is a key economic resource in northern Uruguay. Geodes are hollow rock formations often with quartz crys… [+3617 chars]"
         },
         {
             "source": {
@@ -434,19 +447,6 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Clearwing tropical moths travel 4,500 miles from Guyana to Port Talbot - BBC.com",
-            "description": "The moths, which were previously unknown to science, have been named Carmenta brachyclados.",
-            "url": "https://www.bbc.com/news/articles/cy43j55e1l9o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a2ee/live/bfd81080-8097-11ef-948c-29b13bed96fe.jpg",
-            "publishedAt": "2024-10-03T05:18:41Z",
-            "content": "A new species of moth was discovered in a home in Wales, thousands of miles from its native habitat\r\nA new species of moth was found in a home in south Wales after travelling thousands of miles in a … [+3357 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "SpaceNews"
             },
             "author": "",
@@ -472,32 +472,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Dolphins’ \"Smile\" Reveals Playful Intentions - Neuroscience News",
-            "description": "Bottlenose dolphins use an \"open mouth\" expression, similar to a smile, during playful interactions with other dolphins.",
-            "url": "https://neurosciencenews.com/dolphin-smile-playfulness-27764/",
-            "urlToImage": "https://neurosciencenews.com/files/2024/10/dolphin-smile-play-neuroscience.jpg",
-            "publishedAt": "2024-10-02T21:01:49Z",
-            "content": "Summary: Bottlenose dolphins use an “open mouth” expression, similar to a smile, during playful interactions with other dolphins. This expression is a signal of fun and playfulness, preventing misund… [+6048 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Tom Fleischman",
-            "title": "AI-generated college admissions essays tend to sound male and privileged, study finds - Phys.org",
-            "description": "In an examination of thousands of human-written college admissions essays and those generated by AI, researchers found that the AI-generated essays are most similar to essays authored by students who are males, with higher socioeconomic status and higher leve…",
-            "url": "https://phys.org/news/2024-10-ai-generated-college-admissions-essays.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/ai-generated-college-a.jpg",
-            "publishedAt": "2024-10-02T20:02:11Z",
-            "content": "In an examination of thousands of human-written college admissions essays and those generated by AI, researchers found that the AI-generated essays are most similar to essays authored by students who… [+5159 chars]"
-        },
-        {
-            "source": {
                 "id": "national-geographic",
                 "name": "National Geographic"
             },
@@ -508,19 +482,6 @@
             "urlToImage": "https://i.natgeofe.com/n/c8c38497-5e6f-48f0-80cb-43e68615f41e/ns-clppr-srfc-100622-031-00000-e1717777645312_16x9.jpg?w=1200",
             "publishedAt": "2024-10-02T19:48:15Z",
             "content": "Will Clipper drill beneath Europas crust?\r\nSadly, the spacecraft cant land and take samples, but many scientists are hoping to spot geysers spouting from Europas surface. Hubble images from around a … [+1570 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheInertia.com"
-            },
-            "author": "Alexander Haro",
-            "title": "6-Year Study Finds the ‘Doomsday Glacier’ Is On the Road to a Disastrous Collapse - The Inertia",
-            "description": "",
-            "url": "https://www.theinertia.com/environment/doomsday-glacier-thwaites-collapse/",
-            "urlToImage": "http://www.theinertia.com/wp-content/uploads/2024/10/glac.jpg",
-            "publishedAt": "2024-10-02T19:37:14Z",
-            "content": "Thwaites Glacier is known as the Doomsday glacier for a reason. Photo: International Thwaites Glacier Collaboration\r\nThwaites Glacier, known around the world as the “Doomsday Glacier”, is not in good… [+2014 chars]"
         },
         {
             "source": {
@@ -551,45 +512,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Tracey Peake",
-            "title": "Chemist challenges traditional views on crystal growth - Phys.org",
-            "description": "Remember that old high school chemistry experiment where salt crystals precipitate out of a saltwater solution—or maybe the one where rock candy crystals form from sugar water? It turns out that your understanding of how crystals formed in those solutions mig…",
-            "url": "https://phys.org/news/2024-10-chemist-traditional-views-crystal-growth.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/new-theory-demystifies.jpg",
-            "publishedAt": "2024-10-02T18:44:17Z",
-            "content": "Remember that old high school chemistry experiment where salt crystals precipitate out of a saltwater solutionor maybe the one where rock candy crystals form from sugar water? It turns out that your … [+4156 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Good News Network"
-            },
-            "author": "Andy Corbley",
-            "title": "Strange Rock Found on Mars with Zebra Markings Has NASA Scientists ‘Excited’ - Good News Network",
-            "description": "Freya Castle is believed to be a metamorphic rock, which if true could give more detailed information about Mars' volcanic past.",
-            "url": "https://www.goodnewsnetwork.org/strange-rock-found-on-mars-with-zebra-markings-has-nasa-scientists-excited/",
-            "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/10/Perseverance-Mars-rover-captured-image-of-black-and-white-striped-rock-on-Sept-13-2024-NASA-SWNS-.jpg",
-            "publishedAt": "2024-10-02T18:00:45Z",
-            "content": "NASA’s Mars Perseverance rover captured this image of a black-and-white striped rock on Sep 13, 2024.\r\nLast month, while trundling across the Martian landscape, the eyes of the Perseverance Mars rove… [+2845 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Laughingsquid.com"
-            },
-            "author": "Lori Dorn",
-            "title": "Remarkably Rare Footage of a Bigfin Magnapinna Squid Walking the Ocean Floor Upon Their 13 Foot Tentacles - Laughing Squid",
-            "description": "Researcher sent a baited lander camera 3300 meters into the Tonga Trench where it caught the rare and remarkable sight of a Bigfin squid.",
-            "url": "https://laughingsquid.com/bigfin-magnapinna-squid-walking/",
-            "urlToImage": "https://laughingsquid.com/wp-content/uploads/2024/10/Bigfin-Squid-Magnapinna-Walking.jpg",
-            "publishedAt": "2024-10-02T17:47:47Z",
-            "content": "The Minderoo-UWA Deep-Sea Research Centre partnered with Inkfish Expeditions to send a baited lander camera down 3300 meters (10,827 feet) into the Tonga Trench in the South Pacific Ocean where it ca… [+705 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Teslarati"
             },
             "author": "Joey Klender",
@@ -599,45 +521,6 @@
             "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/08/spacex-falcon-9-scaled.jpeg",
             "publishedAt": "2024-10-02T17:34:44Z",
             "content": "SpaceX Falcon 9 launches will be paused for a period of time while the Federal Aviation Administration (FAA) investigates an anomaly that occurred during the Crew-9 launch in late September.\r\nDespite… [+1968 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Will Dunham",
-            "title": "Small rocky planet detected in orbit about nearby Barnard's star - Reuters",
-            "description": "Barnard's star is a red dwarf, the smallest type of regular star and much smaller and less luminous than our sun. At about 6 light years away, it is the closest single star - one not orbiting with other stars - to our solar system. It is, in cosmic terms, in …",
-            "url": "https://www.reuters.com/science/small-rocky-planet-detected-orbit-about-nearby-barnards-star-2024-10-02/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/A4EVTUESKJONREKZPSPTVPRC5A.jpg?auth=08b6257f4ae1a118f1a0353e20d75f79a9a5bdabd388e57e99cd427f9f31ddac&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-10-02T17:33:03Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Ashley Balzer",
-            "title": "New triple star system sets shortest orbital period record - Phys.org",
-            "description": "Professional and amateur astronomers have made a groundbreaking discovery with the help of artificial intelligence, identifying a unique triple star system named TIC 290061484. This stellar trio was uncovered through cosmic \"strobe lights\" observed by NASA's …",
-            "url": "https://phys.org/news/2024-10-triple-star-shortest-orbital-period.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/nasas-tess-spots-recor.jpg",
-            "publishedAt": "2024-10-02T16:59:00Z",
-            "content": "Professional and amateur astronomers have made a groundbreaking discovery with the help of artificial intelligence, identifying a unique triple star system named TIC 290061484. This stellar trio was … [+6088 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "NASA's Roman Space Telescope: Systems, Assemble! - NASA Goddard",
-            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-            "url": "https://www.youtube.com/",
-            "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-            "publishedAt": "2024-10-02T15:59:55Z",
-            "content": null
         },
         {
             "source": {
@@ -668,6 +551,32 @@
         {
             "source": {
                 "id": null,
+                "name": "mlive.com"
+            },
+            "author": "Mark Torregrossa | mtorregr@mlive.com",
+            "title": "Newly discovered comet could be bright enough to see during the day - MLive.com",
+            "description": "This comet was discovered just five days ago.",
+            "url": "https://www.mlive.com/weather/2024/10/newly-discovered-comet-could-be-bright-enough-to-see-during-the-day.html",
+            "urlToImage": "https://www.mlive.com/resizer/v2/DQHRYDOLKJHBVCQHPOY7CD2TXU.png?auth=8c2c720a3aebfcc5dd12470c9fd69e782dc94999d07a0b224032a844a0514916&width=1280&quality=90",
+            "publishedAt": "2024-10-02T14:56:00Z",
+            "content": "We have one comet we are watching now, and a new comet that has just been discovered is about to come into view.\r\nThis comet, known as Comet C/2024 S1, could become bright enough to see during the da… [+1632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "Ashley Balzer",
+            "title": "NASA’s TESS Spots Record-Breaking Stellar Triplets - NASA",
+            "description": "Professional and amateur astronomers teamed up with artificial intelligence to find an unmatched stellar trio called TIC 290061484, thanks to cosmic “strobe",
+            "url": "https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg",
+            "publishedAt": "2024-10-02T14:45:47Z",
+            "content": "Watch how the three stars in the system called TIC 290061484 eclipse each other over about 75 days. The line at the bottom is the plot of the system’s brightness over time, as seen by TESS (Transitin… [+6388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Newser"
             },
             "author": "Arden Dier",
@@ -681,54 +590,15 @@
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Unearthed After 3,775 Years: Ancient Wood Discovery Sparks Climate Change Breakthrough - SciTechDaily",
-            "description": "A new University of Maryland-led study found that burying wood in the right environmental conditions can stop its decomposition and help curb carbon dioxide emissions. Researchers have discovered an ancient log preserved for over 3,775 years, shedding light o…",
-            "url": "https://scitechdaily.com/unearthed-after-3775-years-ancient-wood-discovery-sparks-climate-change-breakthrough/",
-            "urlToImage": "https://scitechdaily.com/images/Preserved-Eastern-Red-Cedar-Log.jpg",
-            "publishedAt": "2024-10-02T13:04:53Z",
-            "content": "Excavated in Canada, this Eastern red cedar log turned out to be remarkably well-preserved for its age: 3,775 years old. Credit: Mark Sherwood, University of Maryland\r\nA new University of Maryland-le… [+5895 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Space.com"
             },
             "author": "Robert Lea",
-            "title": "Did a NASA telescope detect cosmic 'hot dogs' or Dyson spheres? - Yahoo! Voices",
-            "description": "The potential detection of \"Dyson spheres\" indicating advanced alien civilizations may actually be supermassive black hole powerful galaxies obscured by...",
+            "title": "Did a NASA telescope detect cosmic 'hot dogs' or Dyson spheres? - Space.com",
+            "description": "\"As a mainstream WISE Team member, working on WISE-detected distant galaxies, the steady occasional reference to 'Dyson spheres' since launch has been an annoyance.\"",
             "url": "https://www.space.com/hot-dogs-wise-nasa-dyson-spheres",
-            "urlToImage": "https://media.zenfs.com/en/space_311/f38ac789c1f27de4fda813b9994b6442",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/erFLuphFappxNePm2cJu6Q-1200-80.png",
             "publishedAt": "2024-10-02T13:00:01Z",
-            "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\n(Left) an illustration of a Dyson sphere (Right) A portion of the all-sky survey from NASAs Wid… [+5675 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Garden of Gains: Transforming Plants Into Workout Supplement Biofactories - SciTechDaily",
-            "description": "Researchers have developed a novel method to produce animal-based nutrients such as creatine, carnosine, and taurine directly in plants, using synthetic modules in a proof-of-concept study. This innovative approachnot only simplifies the production process bu…",
-            "url": "https://scitechdaily.com/garden-of-gains-transforming-plants-into-workout-supplement-biofactories/",
-            "urlToImage": "https://scitechdaily.com/images/Plant-Growing-Supplements-Art-Concept.jpg",
-            "publishedAt": "2024-10-02T12:00:14Z",
-            "content": "Using synthetic biology, scientists can now produce animal-based nutrients like creatine, carnosine, and taurine in plants, potentially leading to sustainable production in edible crops. Credit: SciT… [+3752 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Tomasz Nowakowski",
-            "title": "New super-Neptune exoplanet discovered - Phys.org",
-            "description": "An international team of astronomers reports the discovery of a new super-Neptune exoplanet orbiting a solar-type star. The newly detected alien world, which received the designation TOI-5005 b, is about six times larger and more than 30 times more massive th…",
-            "url": "https://phys.org/news/2024-10-super-neptune-exoplanet.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/new-super-neptune-exop.jpg",
-            "publishedAt": "2024-10-02T11:40:01Z",
-            "content": "An international team of astronomers reports the discovery of a new super-Neptune exoplanet orbiting a solar-type star. The newly detected alien world, which received the designation TOI-5005 b, is a… [+3209 chars]"
+            "content": "Earlier this year, scientists proposed that one of NASA's spacecraft — the Wide-field Infrared Survey Explorer, or WISE — may have discovered signals that could indicate the presence of megastructure… [+5653 chars]"
         },
         {
             "source": {
@@ -740,7 +610,7 @@
             "description": "The show will be available on PBS from October 2.",
             "url": "https://www.iflscience.com/much-more-active-and-much-more-alive-new-series-looks-at-the-extreme-worlds-of-the-solar-system-76190",
             "urlToImage": "https://assets.iflscience.com/assets/articleNo/76190/aImg/79249/solar-system-meta.jpg",
-            "publishedAt": "2024-10-02T11:20:14Z",
+            "publishedAt": "2024-10-02T11:56:39Z",
             "content": "Are you ready to take a journey across the Solar System? PBS is ready to take us into the weird and wonderful worlds of our celestial neighborhood and we are not exaggerating when we say weird. Did y… [+3217 chars]"
         }
     ]

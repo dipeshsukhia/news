@@ -1,19 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 24,
     "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Ben Lefebvre",
+            "title": "Israel could bomb Iran’s oil. Energy markets are noting it but not panicking. - POLITICO",
+            "description": "President Joe Biden's remarks about a possible Israeli strike on Iran's oil facilities caused a jolt Thursday. But the world's oil supply has new ways to get around.",
+            "url": "https://www.politico.com/news/2024/10/03/the-middle-east-tensions-are-hot-but-oil-markets-are-cool-00182273",
+            "urlToImage": "https://static.politico.com/4f/55/525c41c446c294a74701ba67b7d5/https-delivery-gettyimages.com/downloads/52013729",
+            "publishedAt": "2024-10-04T01:28:17Z",
+            "content": "For those of us who spend our lives looking at the effects of a [Middle East] crisis on oil prices, obviously the past 10-plus years have been a complete washout, said Michael Knights, an analyst at … [+7423 chars]"
+        },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Michael Wayland",
-            "title": "Ford reveals new 2025 Expedition SUV, including off-road and 'Ultimate' models - CNBC",
-            "description": "Ford Motor is increasing the refinement and technology of its large Expedition SUV as part of a vehicle redesign to better compete with growing competition.",
-            "url": "https://www.cnbc.com/2024/10/03/2025-ford-expedition-new-off-road-and-ultimate-models-revealed.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108042859-1727967759670-Ford.JPG?v=1727967834&w=1920&h=1080",
+            "author": "Lisa Kailai Han",
+            "title": "Stock futures are little changed as Wall Street awaits September jobs report: Live updates - CNBC",
+            "description": "Traders are anticipating the release of the latest labor market report, due out on Friday morning.",
+            "url": "https://www.cnbc.com/2024/10/03/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108043082-1727987131918-gettyimages-2176503241-ms2_7511_ee03mgqs.jpeg?v=1727987313&w=1920&h=1080",
+            "publishedAt": "2024-10-04T00:05:00Z",
+            "content": "U.S. stock futures were flat on Thursday night as traders looked ahead to the widely anticipated release of September's jobs report on Friday morning.\r\nFutures tied to the Dow Jones Industrial Averag… [+1910 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "The new Ford Expedition adds Android Automotive and half of the Lincoln’s panoramic screen - The Verge",
+            "description": "Ford’s redesigned 2025 Expedition features a 24-inch display that runs the automaker’s Google-powered Digital Experience infotainment system.",
+            "url": "https://www.theverge.com/2024/10/3/24261313/ford-expedition-2025-android-automotive-digital-experience",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_hb1KlGWqJ1MaAMmpJE_AGowT_o=/0x0:5412x3608/1200x628/filters:focal(2706x1804:2707x1805)/cdn.vox-cdn.com/uploads/chorus_asset/file/25656820/All_New_202025_20Ford_20Expedition_Platinum_20Ultimate_04.jpg",
             "publishedAt": "2024-10-04T00:00:00Z",
-            "content": "2025 Ford Expedition Platinum Ultimate\r\nDETROIT Ford Motor is increasing the refinement and technology of its large Expedition SUV as part of a vehicle redesign to better compete with growing competi… [+2298 chars]"
+            "content": "The new Ford Expedition adds Android Automotive and half of the Lincolns panoramic screen\r\nThe new Ford Expedition adds Android Automotive and half of the Lincolns panoramic screen\r\n / Fords 2025 Exp… [+2544 chars]"
         },
         {
             "source": {
@@ -46,32 +72,6 @@
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Karen Friar",
-            "title": "Stock market today: Dow leads declines ahead of jobs report, oil surges 5% as Mideast focus intensifies - Yahoo Finance",
-            "description": "With the jobs report a day away, the focus is tentatively turning back to the economy, pushing Mideast worries to the background.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-leads-declines-ahead-of-jobs-report-oil-surges-5-as-mideast-focus-intensifies-200102775.html/",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-03T23:01:52Z",
-            "content": "Stocks slipped on Thursday as Wall Street awaited the key jobs report and dissected a slew of economic data ahead of it. Meanwhile, the possibility of an Israeli retaliatory attack against Iran's oil… [+9177 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Oil price surges on fears of Israeli strikes against Iran | BBC News - BBC News",
-            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-            "url": "https://www.youtube.com/",
-            "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-            "publishedAt": "2024-10-03T22:48:22Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
             "author": "Yahoo Finance",
             "title": "Utilities, oil, jobs report: Market takeaways - Yahoo Finance",
             "description": "All three of the major indexes (^DJI,^GSPC, ^IXIC) closed lower on Thursday. It comes ahead of the key September jobs report, which will give investors new...",
@@ -79,19 +79,6 @@
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NQ7KA7AIYNMeTHNFsNXsLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/40223c10-81d4-11ef-bb55-55a333dc0645",
             "publishedAt": "2024-10-03T22:10:44Z",
             "content": "All three of the major indexes (^DJI,^GSPC, ^IXIC) closed lower on Thursday. It comes ahead of the key September jobs report, which will give investors new insights into the health of the economy.\r\nO… [+303 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Joseph Walker, Peter Loftus",
-            "title": "Hospitals Hit With IV Fluid Shortage After Hurricane Helene - The Wall Street Journal",
-            "description": "Baxter tells Mass General Brigham and others it will ration shipments until North Carolina plant is back in business",
-            "url": "https://www.wsj.com/health/healthcare/hospitals-hit-with-iv-fluid-shortage-after-hurricane-helene-f5a619b2",
-            "urlToImage": "https://images.wsj.net/im-21842283/social",
-            "publishedAt": "2024-10-03T20:43:00Z",
-            "content": "The U.S.s largest maker of intravenous fluids will slash shipments to hospitals after \r\nHurricane Helene took down one of its manufacturing plants in North Carolina. BaxterBAX-2.47%decrease; red down… [+433 chars]"
         },
         {
             "source": {
@@ -105,19 +92,6 @@
             "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/10/pexels-photo-230518.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
             "publishedAt": "2024-10-03T20:11:00Z",
             "content": "Photo by Miguel Á. Padriñán on Pexels.com\r\nThe US Department of Energy (DOE) announces $1.5B for four transmission projects including connecting the Texas grid to the rest of the US for the first tim… [+2967 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Aimee Picchi",
-            "title": "Costco is now selling platinum bars. Here's what to know, from price to availability. - CBS News",
-            "description": "Costco has added platinum bars to its lineup, after the retailer's gold bars were a hit with customers.",
-            "url": "https://www.cbsnews.com/news/costco-platinum-bar-price-per-ounce-cost-availability-gold/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/03/30366282-13ad-4a32-ba48-7f3a72cdc2ab/thumbnail/1200x630/8ffce56c1cd0182e935486afdd97cb28/gettyimages-1486725503.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
-            "publishedAt": "2024-10-03T19:55:33Z",
-            "content": "Costco is expanding its precious metals offerings, building on top of its rollout last year of gold bars, which often sold out within hours. The retailer is now adding 1-ounce platinum bars to its li… [+2024 chars]"
         },
         {
             "source": {
@@ -135,15 +109,41 @@
         {
             "source": {
                 "id": null,
-                "name": "Teslarati"
+                "name": "Tipranks.com"
             },
-            "author": "Joey Klender",
-            "title": "Tesla Cybertruck recall shows healthy production ramp, but Model S and X are suffering - TESLARATI",
-            "description": "This morning's reports of a Tesla Cybertruck recall only went to shed more light on how the production ramp of the pickup is going.",
-            "url": "https://www.teslarati.com/tesla-cybertruck-recall-shows-healthy-production-ramp-but-model-s-x-are-suffering/",
-            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/08/tesla-giga-texas-cybertrucks-joe-tegtmeyer-2-1-1024x573.jpg",
-            "publishedAt": "2024-10-03T19:25:45Z",
-            "content": "This morning’s reports of a Tesla Cybertruck recall only went to shed more light on how the production ramp of the pickup is going.\r\nWith delivery figures for the third quarter revealed yesterday, it… [+3253 chars]"
+            "author": "Marty Shtrubel",
+            "title": "‘There’s No Reason to Sell,’ Says Canaccord About Tesla Stock - TipRanks",
+            "description": "Tesla (NASDAQ:TSLA) saw its shares decline this week after Wall Street reacted negatively to the EV giant’s latest delivery numbers. In Q3, Tesla delivered 462,890 ...",
+            "url": "https://www.tipranks.com/news/theres-no-reason-to-sell-says-canaccord-about-tesla-stock",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/09/TSLA-0927-750x406.jpg",
+            "publishedAt": "2024-10-03T19:12:05Z",
+            "content": "Tesla (NASDAQ:TSLA) saw its shares decline this week after Wall Street reacted negatively to the EV giant’s latest delivery numbers. In Q3, Tesla delivered 462,890 vehicles, missing the consensus est… [+2874 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kate Gibson",
+            "title": "McDonald's set to debut its long-awaited chicken Big Mac - CBS News",
+            "description": "McDonald's is introducing a poultry version of its iconic burger at U.S. locations for a limited time starting next week.",
+            "url": "https://www.cbsnews.com/news/mcdonalds-chicken-big-mac-fast-food/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/03/4e2ec3c1-3f86-44d1-a1b0-66dbf46ed20c/thumbnail/1200x630/ae33607f8ba2d9f8459c980595a52098/chicken-big-mac-thumbnail-hero-desktop.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
+            "publishedAt": "2024-10-03T19:09:00Z",
+            "content": "A look into fast food pricing when it comes to combo menu upgrades \r\nA look into fast food pricing when it comes to combo menu upgrades06:38\r\nMcDonald's new Chicken Big Mac will soon appear on the me… [+1352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-03T19:00:39Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -161,6 +161,45 @@
         {
             "source": {
                 "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Port strike union boss rails against EZPass, self-checkout: 'Machines got to stop' - Fox Business",
+            "description": "International Longshoreman's Association President Harold Daggett is against automation, and condemned EZPass automated tolls and self-checkouts in a recent interview.",
+            "url": "https://www.foxbusiness.com/politics/port-strike-union-boss-harold-daggett-rails-against-ezpass-says-congress-should-stop-machines",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/harold-daggett-3.jpg?ve=1&tl=1",
+            "publishedAt": "2024-10-03T18:57:00Z",
+            "content": "The union leader behind the ongoing dockworkers' strike in the U.S. is not just against automation technology at America's ports.\r\nInternational Longshoreman's Association (ILA) President Harold Dagg… [+2561 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Anne Marie Lee",
+            "title": "Tesla recalls its Cybertruck for the fifth time in less than a year - CBS News",
+            "description": "Tesla is recalling more than 27,000 Cybertruck vehicles because of problems with their rearview camera.",
+            "url": "https://www.cbsnews.com/news/tesla-recall-cybertruck-rearview-camera-problem/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/03/0e915638-0b55-4502-9890-d85280ff1352/thumbnail/1200x630/6fb3d6b8831995e2ca71e44c7a5a7a37/ap24233129095078.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
+            "publishedAt": "2024-10-03T18:20:00Z",
+            "content": "Tesla recalls cybertrucks \r\nTesla recalls cybertrucks00:36\r\nTesla is recalling 27,185 Cybertruck vehicles because of visibility problems with their rearview camera. It is the fifth recall for the sta… [+2392 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The-sun.com"
+            },
+            "author": "Carsen Holaday",
+            "title": "Costco expands 'doomsday' lineup with new product after gold bar demand exploded - The US Sun",
+            "description": "DOOMSDAY preppers can expect to rush to Costco as the store has revealed a new product joining the chain’s lineup of precious metals. The wholesale retailer is now selling bars of platinum af…",
+            "url": "https://www.the-sun.com/news/12596945/costco-platinum-bars-gold-silver-doomsday-prep/",
+            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2024/10/JB_COSTCO_OFF_PLATFORM-copy.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2024-10-03T17:35:26Z",
+            "content": "DOOMSDAY preppers can expect to rush to Costco as the store has revealed a new product joining the chain's lineup of precious metals.\r\nThe wholesale retailer is now selling bars of platinum after the… [+3485 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Yahoo Entertainment"
             },
             "author": "Tope Alake and Ari Natter",
@@ -170,6 +209,19 @@
             "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
             "publishedAt": "2024-10-03T17:09:44Z",
             "content": "(Bloomberg) -- Shares of EVgo Inc. surged the most in more than three years after the electric vehicle charging company received a conditional loan guarantee of up to $1.05 billion from the US Depart… [+1291 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sydney Lake",
+            "title": "Red Lobster’s new CEO said the seafood chain’s endless shrimp offering caused an all-you-can-eat chaos - Fortune",
+            "description": "Damola Adamolekun says the company’s endless shrimp offering hurt “one of the most important companies in American history.”",
+            "url": "https://fortune.com/2024/10/03/red-lobster-ceo-endless-shrimp-offering-caused-chaos/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/Damola.png?resize=1200,600",
+            "publishedAt": "2024-10-03T16:43:00Z",
+            "content": "Red Lobster has had a fishy few months. In May, the seafood chain filed for bankruptcy after more than 50 locations closed amid massive losses from its mayhem-making Endless Shrimp promotion.But in A… [+3572 chars]"
         },
         {
             "source": {
@@ -187,67 +239,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Motley Fool"
+                "name": "CNBC"
             },
-            "author": "Rich Smith",
-            "title": "Why Nvidia and TSMC Stocks Just Popped, but Intel Dropped Today - The Motley Fool",
-            "description": "Nvidia stock just got a double dose of good news.",
-            "url": "https://www.fool.com/investing/2024/10/03/nvidia-and-tsmc-stocks-popped-intel-dropped-today/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/792868/letters-ai-on-a-3d-tower-rising-from-the-middle-of-a-semiconductor-chip.jpg",
-            "publishedAt": "2024-10-03T15:51:08Z",
-            "content": "Nvidia stock just got a double dose of good news.Semiconductors star Nvidia (NVDA 3.37%) shot higher on Thursday morning, rising nearly 5% before retreating to about a 3% gain as of 11:11 a.m. ET. Ac… [+3322 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Max Hauptman",
-            "title": "Bank of America says that widespread service outages have been fully resolved - USA TODAY",
-            "description": "A service outage that affected thousands of Bank of America clients on Wednesday has been fully resolved, according to the bank.",
-            "url": "https://www.usatoday.com/story/money/2024/10/03/bank-of-america-outage-resolved/75495431007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/03/USAT/75495719007-getty-images-521394914.jpg?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
-            "publishedAt": "2024-10-03T15:17:17Z",
-            "content": "A technical issue that was preventing many Bank of America customers from accessing their bank accounts on Wednesday has been fully resolved, according to the bank.\r\nReports of problems accessing ban… [+1211 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Aliss Higham",
-            "title": "Port Strike Leader Harold Daggett Rails Against 'Smear Campaign' - Newsweek",
-            "description": "Daggett's attorney called the publishing of photos of his home \"reckless.\"",
-            "url": "https://www.newsweek.com/port-strike-leader-harold-daggett-rails-against-smear-campaign-1963199",
-            "urlToImage": "https://d.newsweek.com/en/full/2486673/harold-daggett.jpg",
-            "publishedAt": "2024-10-03T14:46:01Z",
-            "content": "Port strike leader Harold Daggett has accused the New York Post of orchestrating an \"ugly smear campaign\" after it published images of his New Jersey home.\r\nA Post article published on October 2 and … [+3622 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Vince Golle",
-            "title": "US Services Activity Expands at Fastest Pace Since Early 2023 - Bloomberg",
-            "description": "US service providers expanded in September at the fastest pace since February 2023, driven by a flurry of orders and stronger business activity.",
-            "url": "https://www.bloomberg.com/news/articles/2024-10-03/us-services-activity-expands-at-fastest-pace-since-early-2023",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ie4G7mT2i5L8/v1/1200x787.jpg",
-            "publishedAt": "2024-10-03T14:00:00Z",
-            "content": "US service providers expanded in September at the fastest pace since February 2023, driven by a flurry of orders and stronger business activity.\r\nThe Institute for Supply Managements index of service… [+187 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jordan Valinsky",
-            "title": "McDonald’s is finally selling the Chicken Big Mac in the US - CNN",
-            "description": "When McDonald’s rolled out the Chicken Big Mac in the United Kingdom, it sold out within ten days. Now, it’s likely hoping for a similar success story in the United States.",
-            "url": "https://www.cnn.com/2024/10/03/food/mcdonalds-chicken-big-mac/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/chicken-big-mac-hero-image.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-10-03T13:00:00Z",
-            "content": "When McDonalds rolled out the Chicken Big Mac in the United Kingdom, it sold out within 10 days. Now, its likely hoping for similar success in the United States.\r\nBeginning October 10, the highly ant… [+1760 chars]"
+            "author": "CJ Haddad",
+            "title": "Nvidia CEO Jensen Huang says demand for next-generation Blackwell AI chip is ‘insane’ - CNBC",
+            "description": "Nvidia CEO Jensen Huang said in an interview with CNBC that demand for the company's next-generation artificial intelligence chip Blackwell is \"insane.\"",
+            "url": "https://www.cnbc.com/2024/10/03/nvidia-ceo-demand-for-blackwell-ai-chip-is-insane.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107423284-17174221132024-06-02t142400z_1755485573_rc2038a1k8k0_rtrmadp_0_nvidia-taiwan.jpeg?v=1717428700&w=1920&h=1080",
+            "publishedAt": "2024-10-03T14:35:15Z",
+            "content": "Nvidia CEO Jensen Huang said in an interview with CNBC's \"Closing Bell Overtime\" that demand for the company's next-generation artificial intelligence chip Blackwell is \"insane.\"\r\n\"Everybody wants to… [+1276 chars]"
         },
         {
             "source": {
@@ -291,67 +291,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Teslarati"
+                "name": "The Boston Globe"
             },
-            "author": "Maria Merano",
-            "title": "Tesla Analyst Shares of Three Growth Hurdles: Gene Munster - TESLARATI",
-            "description": "Tesla deliveries are up YoY Q3 2024. But TSLA bull Gene Munster warns of potential headwinds.",
-            "url": "https://www.teslarati.com/tesla-tsla-headwinds-2024-gene-munster/",
-            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/09/tesla-supercharger-network-new-scaled.jpeg",
-            "publishedAt": "2024-10-03T11:00:34Z",
-            "content": "Tesla analyst Gene Munster from Deepwater Asset Management named three headwinds that might affect the company’s return to growth. \r\nOn Wednesday, October 2, 2024, Tesla released its Q3 2024 delivery… [+2418 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "https://www.facebook.com/peoplemag",
-            "title": "Amazon Just Dropped Early October Prime Day Deals — and the 100 Best Go Up to 81% Off - PEOPLE",
-            "description": "Ahead of Prime Big Deal Days, Amazon dropped a bunch of early deals on Apple, Dyson, and Yankee Candle. Shoppers can save up to 81 percent on New Balance sneakers, Coach purses, Keurig coffee makers, and other popular products across home, tech, fashion, beau…",
-            "url": "https://people.com/amazon-prime-big-deal-days-best-early-deals-2024-8720812",
-            "urlToImage": "https://people.com/thmb/97TCpuldUSGbdeB-QlDdCm7rClE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(2999x0:3001x2)/peo-week-1-amazon-content-cal-early-deals-roundup-best-early-deals-tout-ba960ef776dd4f57bffb524c72d21db7.jpg",
-            "publishedAt": "2024-10-03T10:00:00Z",
-            "content": "Ahead of Prime Big Deal Days, Amazon is dropping all kinds of early deals across home, tech, kitchen, beauty, and more categories.\r\nRight now, there are early October Prime Day deals on Roomba vacuum… [+11139 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tom's Guide"
-            },
-            "author": "Martin Shore",
-            "title": "Your Prime Video viewing experience is about to get even worse — here's why - Tom's Guide",
-            "description": "Prime Video's getting even more ads in 2025",
-            "url": "https://www.tomsguide.com/entertainment/prime-video/your-prime-video-viewing-experience-is-about-to-get-even-worse-heres-why",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/J2DrCX3aGtz5pGsjMg4RX-1200-80.jpg",
-            "publishedAt": "2024-10-03T09:44:59Z",
-            "content": "Aside from maybe having access to Prime Day deals and free shipping, Prime Video is one of the biggest perks of the Amazon Prime experience. \r\nBut, in my opinion, that started to change in January 20… [+3786 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Justin Pope, The Motley Fool",
-            "title": "Buy These 3 Dividend Stocks Today and Sleep Soundly for a Decade - Yahoo Finance",
-            "description": "Are you looking for stress-free dividend growth and stellar total returns potential?",
-            "url": "https://finance.yahoo.com/news/buy-3-dividend-stocks-today-081500502.html/",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-03T08:15:00Z",
-            "content": "Consumer spending drives most of the U.S. economy, but industrial companies are the foundation of modern life in the United States. Thanks to the work of certain industrial companies, people are, in … [+5055 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Seana Smith",
-            "title": "Alibaba, JD.com lead Chinese tech rally - Yahoo Finance",
-            "description": "Chinese tech stocks rallied Wednesday, with major players like Alibaba (BABA), JD.com (JD), PDD Holdings (PDD), Baidu (BIDU), and Li Auto (LI) all posting...",
-            "url": "https://finance.yahoo.com/video/alibaba-jd-com-lead-chinese-173048610.html/",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-02T17:30:48Z",
-            "content": "Chinese tech stocks rallied Wednesday, with major players like Alibaba (BABA), JD.com (JD), PDD Holdings (PDD), Baidu (BIDU), and Li Auto (LI) all posting gains. The surge follows a series of economi… [+353 chars]"
+            "author": null,
+            "title": "Mass General Brigham warns of ‘serious and immediate’ IV fluid shortage due to Hurricane Helene - The Boston Globe",
+            "description": "\"We must immediately act to conserve fluids,\" the hospital wrote in an email to employees Wednesday.",
+            "url": "https://www.bostonglobe.com/2024/10/02/metro/mass-general-brigham-warns-of-iv-fluid-shortage-due-to-helene/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/YSTEMISA5QNEK2F5ZUW3PGWBXA.jpg?auth=ccef2f0a3abc58748a2867b511fb8bfed326ccf322eb19d4f8a91e1ca003a51d&width=1440",
+            "publishedAt": "2024-10-02T20:35:00Z",
+            "content": "Mass General Brigham, Massachusetts largest hospital and health care system, warned in an internal email to employees Wednesday that it is experiencing a serious and immediate IV fluid shortage, due … [+2673 chars]"
         },
         {
             "source": {

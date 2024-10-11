@@ -1,45 +1,188 @@
 {
     "status": "ok",
-    "totalResults": 60,
+    "totalResults": 45,
     "articles": [
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
+                "id": "ign",
+                "name": "IGN"
             },
-            "author": "John Timmer",
-            "title": "How to do low error quantum calculations - Ars Technica",
-            "description": "Google has identified a phase transition to a low error state on its quantum processor.",
-            "url": "https://arstechnica.com/science/2024/10/google-identifies-low-noise-phase-transition-in-its-quantum-processor/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/Sycamore-Rainbow-cropped.jpg",
-            "publishedAt": "2024-10-09T17:58:28Z",
+            "author": "Noah Hunter",
+            "title": "Best Buy Has the PS5 Game Deals Amazon Is Missing, and They'll Be Gone Tomorrow - IGN",
+            "description": "Best Buy has slashed the price of select PS5 games today for Prime Day, and we've rounded up the best deals available.",
+            "url": "https://www.ign.com/articles/best-buy-ps5-games-on-sale-october-prime-day-2024",
+            "urlToImage": "https://assets-prd.ignimgs.com/2024/10/09/best-buy-games-1728510705197.png?width=1280",
+            "publishedAt": "2024-10-09T23:18:32Z",
+            "content": "Alongside Prime Big Deal Days, other retailers, like Best Buy, are offering competing discounts and sales. Today only, you can save on select PlayStation 5 video games at Best Buy, with some of the b… [+1807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Lawrence Abrams",
+            "title": "Internet Archive hacked, data breach impacts 31 million users - BleepingComputer",
+            "description": "Internet Archive's \"The Wayback Machine\" has suffered a data breach after a threat actor compromised the website and stole a user authentication database containing 31 million unique records.",
+            "url": "https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/09/internet-archive.jpg",
+            "publishedAt": "2024-10-09T22:22:20Z",
+            "content": "Internet Archive's \"The Wayback Machine\" has suffered a data breach after a threat actor compromised the website and stole a user authentication database containing 31 million unique records.\r\nNews o… [+2660 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Nintendo is taking applications to join a mysterious Switch Online playtest - The Verge",
+            "description": "Nintendo will allow up to 10,000 participants to try a new feature for the Nintendo Switch Online service, with applications available starting Thursday at 11AM ET.",
+            "url": "https://www.theverge.com/2024/10/9/24266478/nintendo-switch-online-invite-application-beta-playtest",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZPiMIMZFblzUQCO-8pBDV_x8ack=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25590105/STK054_NINTENDO_C.jpg",
+            "publishedAt": "2024-10-09T22:16:42Z",
+            "content": "Nintendo is taking applications to join a mysterious Switch Online playtest\r\nNintendo is taking applications to join a mysterious Switch Online playtest\r\n / As many as 10,000 participants will be all… [+1924 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "How to connect to emergency satellite on iPhone and Android before Hurricane Milton - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/connect-emergency-satellite-iphone-android-hurricane-milton-makes/story?id\\\\u003d114651217",
+            "urlToImage": null,
+            "publishedAt": "2024-10-09T21:54:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Kitty Guo",
+            "title": "October Prime Day Is for Gift Shopping - New York Magazine",
+            "description": "We found the best October Amazon Prime Day deals for Christmas gifting, including a Barbie Dreamhouse, Aura digital picture frames, and the Theragun Mini.",
+            "url": "http://nymag.com/strategist/article/october-amazon-prime-day-deals-christmas-gifts-2024.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/ae4/d61/53d0330821d901e37d551a18503cb11b51-primedaylede-pimple-patch.1x.rsocial.w1200.jpg",
+            "publishedAt": "2024-10-09T21:44:00Z",
+            "content": "October Prime Day is here. To find the best deals in every category, follow all of our Prime Day coverage. \r\nAs October Prime Day draws to a close, might I suggest devoting some time this evening to … [+4662 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-09T21:42:51Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Newser",
+            "title": "Teen Is First to Achieve Tetris 'Rebirth' - Newser",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWxWdi1tb2tydlNPaGI2MzExVmptVWRmZzR2dWo1eDRiR2NrNW1DSElPcU9YQW5wQUwtRkk4eDZZRkJvdW8wYTVfeHZHNHFtSjc0RlhZcVZtbl9peEpsLVZUWlczSG9PYTlxRUpRWjB1eEhpbnpDQ2dSRVJYcC1rcFQ2cEVQems?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-10-09T21:40:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "9to5google.com"
+                "name": "Gizmodo.com"
             },
-            "author": "Abner Li",
-            "title": "All Gemini users can now generate images with Imagen 3 - 9to5Google",
-            "description": "As announced in late August, alongside Gems, image generation with Imagen 3 is now available for all Gemini users...",
-            "url": "http://9to5google.com/2024/10/09/gemini-imagen-3/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Pixel-9-Pro-Fold-Gemini-pop-up.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-10-09T17:36:00Z",
-            "content": "As announced in late August, alongside Gems, image generation with Imagen 3 is now available for all Gemini users. \r\nUnveiled at I/O 2024 in May, Google touts three aspects of Imagen 3 for end users:… [+898 chars]"
+            "author": "Joe Tilleli",
+            "title": "Few Hours Left To Get the Nearly 50% Off Anker Power Bank That Can Fully Charge an iPhone Nearly 5 Times Over - Gizmodo",
+            "description": "Get the Anker power bank with a smart digital display for just $80 — down from $150 for Prime Day.",
+            "url": "https://gizmodo.com/few-hours-left-to-get-the-nearly-50-off-anker-power-bank-that-can-fully-charge-an-iphone-nearly-5-times-over-2000510172",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/AnkerPowerBank-2.jpg",
+            "publishedAt": "2024-10-09T21:22:50Z",
+            "content": "We’re approaching the end of Prime Day which means your time to save money on a ton of crap you’ve convinced yourself you need is dwindling. Here is something you might actually need or at the very l… [+2029 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Android Authority"
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "Android 16 could let you put ANY app in a floating bubble — here's a first look - Android Authority",
-            "description": "Android 16 could introduce big multitasking changes by letting you put any app in a floating bubble.",
-            "url": "https://www.androidauthority.com/android-16-bubble-anything-3489112/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/10/Android_15_QPR_1_Beta_2_bubble_anything_hero.jpg",
-            "publishedAt": "2024-10-09T16:47:30Z",
-            "content": "<ul><li>Google is preparing to upgrade multitasking in a big way by letting you put any app in a floating bubble.</li><li>Although this feature isnt live yet, I managed to enable it in the latest And… [+3154 chars]"
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-09T20:54:17Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple's M4 iPad Pro vs. Samsung's Galaxy Tab S10 Ultra - MacRumors",
+            "description": "Both Samsung and Apple have come out with new top-of-the-line tablet options this year, with Apple introducing the M4 iPad Pro back in May and...",
+            "url": "https://www.macrumors.com/2024/10/09/m4-ipad-pro-vs-galaxy-tab-s10-ultra/",
+            "urlToImage": "https://images.macrumors.com/t/LIGaD_l3cYw7lIh4J_OistBoMuM=/2500x/article-new/2024/10/M4-Pro-vs-S10-Ultra-Thumb-1.5.jpg",
+            "publishedAt": "2024-10-09T20:01:19Z",
+            "content": "Both Samsung and Apple have come out with new top-of-the-line tablet options this year, with Apple introducing the M4 iPad Pro back in May and Samsung debuting the Galaxy Tab S10 Ultra earlier this m… [+2388 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Apple’s Vision Pro leader, Dan Riccio, is retiring - The Verge",
+            "description": "Dan Riccio, who heads the Vision Pro and oversaw much of Apple’s popular new hardware from 2012 to 2021, is reportedly retiring this month after 26 years.",
+            "url": "https://www.theverge.com/2024/10/9/24266321/apple-dan-riccio-retiring",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ed7T1NHwsYw7ALRGvqF9Z9pWj74=/0x0:1960x1362/1200x628/filters:focal(980x681:981x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/22259288/Apple_dan_riccio_begins_a_new_chapter_at_apple_01252020_big.jpg.large_2x.jpg",
+            "publishedAt": "2024-10-09T19:20:46Z",
+            "content": "Apples Vision Pro leader, Dan Riccio, is retiring\r\nApples Vision Pro leader, Dan Riccio, is retiring\r\n / Dan Riccio transitioned from being Apples SVP of hardware engineering in 2021 to take over a n… [+1395 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Quentyn Kennemer",
+            "title": "You can grab three months of Xbox Game Pass Ultimate for just $29 today - The Verge",
+            "description": "Today only, Woot is offering a three-month subscription to Xbox Game Pass Ultimate for about $29. One-month subscription codes are also on sale for around $11.",
+            "url": "https://www.theverge.com/2024/10/9/24266142/xbox-game-pass-ultimate-deal-sale-microsoft-october-amazon-prime-day-2024",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/3mI_OlIaR6adBkCioVw1wQj6g0g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg",
+            "publishedAt": "2024-10-09T17:57:15Z",
+            "content": "You can grab three months of Xbox Game Pass Ultimate for just $29 today\r\nYou can grab three months of Xbox Game Pass Ultimate for just $29 today\r\n / And you can still stack up to 36 months worth of s… [+2444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "Image Tools in iOS 18.2: These new Apple Intelligence features are coming - 9to5Mac",
+            "description": "Apple Intelligence will introduce three key Image Tools in iOS 18.2 later this year. Here’s everything new that’s coming.",
+            "url": "https://9to5mac.com/2024/10/09/image-tools-in-ios-182-these-new-apple-intelligence-features-are-coming/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/image-tools-apple-intelligence-ios182.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-10-09T17:34:00Z",
+            "content": "The first wave of Apple Intelligence features will arrive in just a few weeks as part of iOS 18.1. But some of the more highly anticipated AI capabilitiesincluding three key Image Toolsare expected i… [+3868 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "LADbible"
+            },
+            "author": "Brenna Cooper",
+            "title": "Apple declares another one of its iPhones now 'obsolete' and it's bad news if you have it - LADbible",
+            "description": "Apple has declared another one of its iPhone models obsolete - is yours now on the list?",
+            "url": "https://www.ladbible.com/news/technology/iphone-models-obsolete-october-2024-854999-20241009",
+            "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt5ccbe7fc2d1468c0/6706af339b5d87abe08f5276/iphone-obsolete.png",
+            "publishedAt": "2024-10-09T17:23:26Z",
+            "content": "Apple has just announced they're making another one of their older iPhone models obsolete - here's what it means if yours is on the list.\r\nTrying to keep up with the constant release of new iPhone mo… [+2345 chars]"
         },
         {
             "source": {
@@ -56,16 +199,42 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": null,
+            "title": "Google Photos could soon tell you if an image is AI-generated (APK teardown) - Android Authority",
+            "description": "Google Photos could soon show image metadata which would tell you whether an image has been edited with AI or generated with AI. Read on!",
+            "url": "https://www.androidauthority.com/google-photos-ai-generated-image-metadata-apk-teardown-3489044/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/08/google-pixel-9-pro-xl-studio-app-3-scaled.jpg",
+            "publishedAt": "2024-10-09T16:12:50Z",
+            "content": "<ul><li>Google Photos could soon display IPTC credit metadata on images, which will be helpful in figuring out if an image is AI-generated or not.</li><li>The changes are not currently live within Go… [+2698 chars]"
+        },
+        {
+            "source": {
                 "id": "techcrunch",
                 "name": "TechCrunch"
             },
-            "author": "Lorenzo Franceschi-Bicchierai",
-            "title": "Hackers targeted Android users by exploiting zero-day bug in Qualcomm chips - TechCrunch",
-            "description": "Security researchers at Google and Amnesty International discovered hackers exploiting the bug in an active hacking campaign.",
-            "url": "https://techcrunch.com/2024/10/09/hackers-were-targeting-android-users-with-qualcomm-zero-day/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/android-spyware.webp?w=1099",
-            "publishedAt": "2024-10-09T15:50:32Z",
-            "content": "On Monday, chipmaker Qualcomm confirmed that hackers exploited a zero-day meaning a security flaw that was unknown to the hardware maker when it was abused in dozens of its chipsets found in popular … [+2389 chars]"
+            "author": "Brian Heater",
+            "title": "Never mind the Switch 2, Nintendo launches a $100 sleep-tracking alarm clock - TechCrunch",
+            "description": "That Nintendo gadget that showed up on the Federal Communications Commission’s site last month is sadly not the Switch 2. While the gaming giant confirmed",
+            "url": "https://techcrunch.com/2024/10/09/never-mind-the-switch-2-nintendo-launches-a-100-sleep-tracking-alarm-clock/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/121311-nintendo-sound-clock-alarmo-zelda-face-bedside-2-1200x675-1.jpeg?w=1050",
+            "publishedAt": "2024-10-09T15:58:35Z",
+            "content": "That Nintendo gadget that showed up on the Federal Communications Commissions site last month is sadly not the Switch 2. While the gaming giant confirmed in May that a Switch successor is, indeed, in… [+454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Halowaypoint.com"
+            },
+            "author": "Alex Wakeford",
+            "title": "Haloween Operation Launch | Halo - Official Site (en) - Halo Waypoint",
+            "description": "<p>As the dark and cold close in, the dead have begun to stir. Gear up and find out how long you can endure the terrifying hordes in the Survive the Undead playlist, featuring three chilling maps created by The Forge Falcons, and much more!</p>",
+            "url": "https://www.halowaypoint.com/news/haloween-operation-launch",
+            "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/10/Haloween.jpg",
+            "publishedAt": "2024-10-09T15:40:40Z",
+            "content": "Spooky scary skeletonsSend shivers down your spine,Shrieking skulls will shock your soulSee the coming of Spartanstein!\r\nIts that time of year again where theres a chill in the air, the wind howls an… [+11283 chars]"
         },
         {
             "source": {
@@ -109,41 +278,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
+                "name": "Roadracingworld.com"
             },
-            "author": "Janhoi McGregor",
-            "title": "Amazon Slashes Samsung Galaxy S24 Ultra In New Prime Day Deal - Forbes",
-            "description": "Amazon's huge Samsung Galaxy discounts are seriously impressive.",
-            "url": "https://www.forbes.com/sites/jaymcgregor/2024/10/09/samsung-galaxy-s24-ultra-galaxy-s23-amazon-prime-day-sale-trade-in/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67053d5df1494dcb5e10e3e0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-10-09T13:25:35Z",
-            "content": "Samsung is exhibiting the Galaxy S24+ camera, the latest top-tier smartphone developed by the South ... [+] Korean multinational conglomerate, in its signature Cobalt Violet color at the Mobile World… [+3385 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "Casio super-sized a classic digital watch to create this retro desk clock - The Verge",
-            "description": "Casio turned its A158W digital watch into a larger desk clock with alarm functionality plus a temperature and humidity sensor.",
-            "url": "https://www.theverge.com/2024/10/9/24265964/casio-digital-watch-desk-a158w-clock-japan-retro-vintage",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/zGaau-ihLCnXYSmsHI0LbX3xI7A=/0x0:1344x896/1200x628/filters:focal(672x448:673x449)/cdn.vox-cdn.com/uploads/chorus_asset/file/25666181/casio1.jpg",
-            "publishedAt": "2024-10-09T13:18:10Z",
-            "content": "Casio supersized a classic digital watch to create this retro desk clock\r\nCasio supersized a classic digital watch to create this retro desk clock\r\n / The desk clock version of the Casio A158W adds f… [+1627 chars]"
+            "author": "Michael Gougis",
+            "title": "Yamaha Introduces 2025 YZF-R9 Three-Cylinder Supersport - RoadracingWorld.com",
+            "description": "Yamaha introduces the 2025 YZF-R9, a three-cylinder Supersport motorcycle aimed at delivering real-world, accessible performance.",
+            "url": "https://www.roadracingworld.com/news/yamaha-introduces-2025-yzf-r9-three-cylinder-supersport/",
+            "urlToImage": "https://www.roadracingworld.com/wp-content/uploads/2024/10/11_2025_YZFR9SW_BWP1_US_04_YY_09_RGB_1728425154.jpg",
+            "publishedAt": "2024-10-09T13:19:43Z",
+            "content": "From the very first Yamaha FZ-09, introduced back in 2014, I wondered why Yamaha wasn’t offering a fully-faired Supersport version of the machine. The three-cylinder engine (847cc back then) was stou… [+16626 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Nintendo.com"
+                "name": "Gizmodo.com"
             },
-            "author": null,
-            "title": "Nintendo Sound Clock Alarmo™ - Nintendo",
-            "description": "Buy Nintendo Sound Clock Alarmo™ and shop other great Nintendo products online at the official My Nintendo Store.",
-            "url": "https://www.nintendo.com/us/store/products/nintendo-sound-clock-alarmo-121311/",
-            "urlToImage": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/My%20Nintendo%20Store/EN-US/Hardware/nintendo-sound-clock-alarmo-121311/121311-nintendo-sound-clock-alarmo-package-1200x675",
-            "publishedAt": "2024-10-09T13:09:08Z",
-            "content": "* Early access limited to US and Canada. Nintendo Account and paid Nintendo Switch Online membership (sold separately) required for purchase. Membership auto-renews after initial term at the then-cur… [+337 chars]"
+            "author": "Gizmodo Deals",
+            "title": "At $0.07 per GB, the Samsung T9 SSD with 4TB of Storage is the Best Deal on Day 2 of Prime Day - Gizmodo",
+            "description": "One of the best deals ever for a powerful 4TB SSD.",
+            "url": "https://gizmodo.com/at-0-07-per-gb-the-samsung-t9-ssd-with-4tb-of-storage-is-the-best-deal-on-day-2-of-prime-day-2000509564",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/Samsung-T9-926.jpg",
+            "publishedAt": "2024-10-09T13:04:51Z",
+            "content": "As the second and final day of Prime Day draws to a close, Amazon is offering a great deal on the Samsung T9 4TB SSD and slashes its price by half. This high-performance storage device that is origin… [+2563 chars]"
         },
         {
             "source": {
@@ -173,16 +329,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Gizmodo Deals",
-            "title": "Samsung Offers 70% Off The Galaxy Z Flip 6 If You Get It Before Prime Day Ends Tonight - Gizmodo",
-            "description": "Only three months after its release, the Galaxy Z Flip 6 is enjoying its biggest discount on Samsung's official website.",
-            "url": "https://gizmodo.com/samsung-offers-70-off-the-galaxy-z-flip-6-if-you-get-it-before-prime-day-ends-tonight-2000509669",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/samsung-galaxy-z-flip-6.jpg",
-            "publishedAt": "2024-10-09T12:40:08Z",
-            "content": "Samsung is offering an great deal on its latest foldable smartphone, the Galaxy Z Flip 6, as part of the Prime Day celebrations. This limited-time (expiring tonight) offer is a unique opportunity to … [+2641 chars]"
+            "author": "Antonio G. Di Benedetto",
+            "title": "Samsung’s new AirPods Pro look-alikes are nearly $100 off already - The Verge",
+            "description": "The new Samsung Galaxy Buds 3 Pro noise-canceling wireless earbuds are on an Amazon Prime Day sale, but this alternative deal from Woot is even better.",
+            "url": "https://www.theverge.com/2024/10/9/24265955/samsung-galaxy-buds-3-pro-earbuds-airpods-deal-sale",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/f0GQmikbhjQymb8NWzt2vLC8oSk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25523743/DSCF8092.jpg",
+            "publishedAt": "2024-10-09T12:45:25Z",
+            "content": "Samsungs new AirPods Pro look-alikes are nearly $100 off already\r\nSamsungs new AirPods Pro look-alikes are nearly $100 off already\r\n / The $250 Galaxy Buds 3 Pro are down to $152 in either white or s… [+1680 chars]"
         },
         {
             "source": {
@@ -196,32 +352,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2024/10/sony-1000xm5.jpg",
             "publishedAt": "2024-10-09T12:36:54Z",
             "content": "Amazon’s Prime Day is offering incredible deals on Sony’s top-tier noise-canceling headphones, with both the WH-1000XM4 and WH-1000XM5 models available at their lowest prices ever. These premium head… [+2808 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-09T12:14:17Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Sanuj Bhatia",
-            "title": "Gemini might finally work better with WhatsApp, Spotify, and Messages on your Android - Android Police",
-            "description": "Long-awaited integrations could arrive soon",
-            "url": "https://www.androidpolice.com/gemini-extensions-whatsapp-spotify-messages/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/08/google-gemini-gems-banner.png",
-            "publishedAt": "2024-10-09T11:59:00Z",
-            "content": "Key Takeaways\r\n<ul><li> Gemini on Android is gaining native extensions for WhatsApp, Spotify, and Google Messages. </li><li> These extensions allow for smoother interactions and deeper integration wi… [+2329 chars]"
         },
         {
             "source": {
@@ -239,19 +369,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Wink News"
-            },
-            "author": "Amy Galo",
-            "title": "How to send emergency satellite messages on iPhone - Wink News",
-            "description": "Staying connected is key during Hurricane Milton, as the storm could affect the internet and cellular coverage.",
-            "url": "http://winknews.com/2024/10/09/how-to-send-satellite-messages-on-iphone-in-case-you-lose-service-wifi/",
-            "urlToImage": "https://winknews.com/wp-content/uploads/2017/11/iphonex.jpeg",
-            "publishedAt": "2024-10-09T11:13:52Z",
-            "content": "Staying connected is key during Hurricane Milton, as the storm could affect the internet and cellular coverage.\r\nIf you have an iPhone 14 or later, Emergency SOS via satellite can help you connect wi… [+2132 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "9to5Mac"
             },
             "author": "Ben Lovejoy",
@@ -264,68 +381,42 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Brenda Stolyar",
-            "title": "9 Best Prime Day Kindle Deals and Accessories (2024) - WIRED",
-            "description": "Shop the best Prime Day Kindle deals so you can bring your library wherever you are. Our favorite Amazon e-readers are on sale during Prime Day Big Deals, which ends tonight.",
-            "url": "https://www.wired.com/story/best-prime-day-kindle-deals-october-2024-1/",
-            "urlToImage": "https://media.wired.com/photos/67030a044cae8fbfb388720a/191:100/w_1280,c_limit/Best-Prime-Day-Kindle-Deals-and-Accessories-102024-Custom-APD-Background-SOURCE-Amazon.jpg",
-            "publishedAt": "2024-10-09T10:52:49Z",
-            "content": "At WIRED, we're big fans of Kindles. It's an excellent solution for bookworms who always want access to tons of books on the go in a compact, lightweight form factor. But they can be expensive. If yo… [+5184 chars]"
+            "author": "Jess Weatherbed",
+            "title": "Threads is working on a community groups feature - The Verge",
+            "description": "Threads is working on a new community feature that will seemingly allow users to create groups around particular topics and interests, similar to X’s Communities.",
+            "url": "https://www.theverge.com/2024/10/9/24265936/threads-loops-community-groups-feature",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/gxb8H-BEvx3Ws1bMzj9boMhNmb8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24774109/STK156_Instagram_threads_2.jpg",
+            "publishedAt": "2024-10-09T10:39:38Z",
+            "content": "Threads is working on a community groups feature\r\nThreads is working on a community groups feature\r\n / The Loops feature may help users follow and engage with specific topics, similar to Xs Communiti… [+1642 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SamMobile"
+                "name": "BBC News"
             },
-            "author": "SamMobile, Asif Iqbal Shaik",
-            "title": "Possible flagship MediaTek chip for Galaxy S25 has been announced - SamMobile - Samsung news",
-            "description": "Yesterday, it was reported that Samsung might use MediaTek's next flagship chip instead of its in-house Exynos chip in some ...",
-            "url": "https://www.sammobile.com/news/mediatek-dimensity-9400-chip-galaxy-s25-announced/",
-            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/10/MediaTek-Dimensity-9400-720x405.jpg",
-            "publishedAt": "2024-10-09T10:21:00Z",
-            "content": "Yesterday, it was reported that Samsung might use MediaTek's next flagship chip instead of its in-house Exynos chip in some Galaxy S25 models. Today, MediaTek has announced its newest flagship chip, … [+2912 chars]"
+            "author": "James Muldoon",
+            "title": "'Maybe we can role-play something fun': When an AI companion wants something more - BBC.com",
+            "description": "With a loneliness epidemic gripping many parts of the world, some people are turning to AI chatbots for friendship and relationships. But is it really all just harmless fun?",
+            "url": "https://www.bbc.com/future/article/20241008-the-troubling-future-of-ai-relationships",
+            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0jwgtqq.jpg",
+            "publishedAt": "2024-10-09T10:07:22Z",
+            "content": "Some people are sharing personal and intimate information with AI-powered chatbots in their search for companionship (Credit: Getty Images)\r\nWith a loneliness epidemic gripping many parts of the worl… [+26818 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SamMobile"
+                "name": "Supercarblondie.com"
             },
-            "author": "SamMobile, Abid Iqbal Shaik",
-            "title": "Galaxy Buds 3 and Buds 3 Pro get a new software update - SamMobile - Samsung news",
-            "description": "Samsung's latest premium wireless earbuds are receiving a new software update this week. The update is available for both the ...",
-            "url": "https://www.sammobile.com/news/samsung-galaxy-buds-3-pro-software-update-october-2024/",
-            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Buds-3-Pro-review-3-720x405.jpg",
-            "publishedAt": "2024-10-09T09:38:00Z",
-            "content": "Samsung's latest premium wireless earbuds are receiving a new software update this week. The update is available for both the Galaxy Buds 3 and Buds 3 Pro. According to the changelog, it improves the… [+413 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Video Games Chronicle"
-            },
-            "author": "Chris Scullion",
-            "title": "Ubisoft is being sued for allegedly sharing Ubisoft Store and Ubisoft+ user data with Meta - Video Games Chronicle",
-            "description": "The class action complaint claims Ubisoft sends user data to Facebook without permission…",
-            "url": "https://www.videogameschronicle.com/news/ubisoft-is-being-sued-for-allegedly-sharing-ubisoft-store-and-ubisoft-user-data-with-meta/",
-            "urlToImage": "https://www.videogameschronicle.com/files/2024/03/skull-and-bones-z.jpg",
-            "publishedAt": "2024-10-09T09:22:02Z",
-            "content": "Ubisoft is facing a potential class action lawsuit for alleged illegal user data sharing.\r\nAs reported by Bloomberg Law, the class action complaint accuses the Assassin’s Creed publisher of sharing p… [+2528 chars]"
-        },
-        {
-            "source": {
-                "id": "mashable",
-                "name": "Mashable"
-            },
-            "author": "Leah Stodart",
-            "title": "October Prime Day gaming laptop deals: Alienware M16 R2 and Acer Nitro V at record lows - Mashable",
-            "description": "Amazon isn't usually the hottest spot for gaming laptop deals, but Prime Days are a different story.",
-            "url": "https://mashable.com/article/october-prime-day-2024-gaming-laptops-deals",
-            "urlToImage": "https://helios-i.mashable.com/imagery/articles/03vjSy4Mj1b8Vjvy4WJd2n2/hero-image.fill.size_1200x675.v1728462977.png",
-            "publishedAt": "2024-10-09T08:36:51Z",
-            "content": null
+            "author": "https://facebook.com/alessandro.renesis",
+            "title": "Rolls-Royce unveils refreshed Ghost Series II Black Badge - Supercar Blondie",
+            "description": "Rolls-Royce upgraded the Ghost Series II, including the Black Badge model, with more power, more interior options and a much better sound system",
+            "url": "https://supercarblondie.com/rolls-royce-unveils-refreshed-ghost-with-subtle-changes-and-clever-new-tech-inside/",
+            "urlToImage": "https://supercarblondie.com/wp-content/uploads/Rolls-Royce-Ghost-Series-II.webp",
+            "publishedAt": "2024-10-09T08:22:00Z",
+            "content": "Rolls-Royce has updated and upgraded the Ghost Series II, including the Black Badge model.\r\nThere are new color options, new upholstery and a much better sound system.\r\nThe idea is to turn the Ghost … [+1792 chars]"
         },
         {
             "source": {
@@ -343,41 +434,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Tom's Guide"
+                "name": "SamMobile"
             },
-            "author": "Scott Younker",
-            "title": "Google Maps just got a huge upgrade that will make parking easier for millions - Tom's Guide",
-            "description": "Find and reserve parking spots in Google Maps",
-            "url": "https://www.tomsguide.com/computing/mobile-apps/google-maps-just-got-a-huge-upgrade-that-will-make-parking-easier-for-millions",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2UgXEczQYFU5LCBPVsBDhZ-1200-80.jpg",
-            "publishedAt": "2024-10-09T07:30:57Z",
-            "content": "In the ongoing Google Maps vs. Apple Maps debate, Google's navigation tool just picked up a feature that will bring it level with Apple's offering. Google is teaming up with SpotHero, the digital par… [+2030 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tom's Guide"
-            },
-            "author": "Rory Mellon",
-            "title": "PlayStation just beat Prime Day with the best PS5 games from $2 — here’s 17-plus deals I’d buy - Tom's Guide",
-            "description": "PlayStation Store is out-discounting Amazon Prime Day",
-            "url": "https://www.tomsguide.com/gaming/playstation/playstation-just-beat-prime-day-with-the-best-ps5-games-from-usd2-heres-13-deals-id-buy",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CUmF2PeaaHTVPWdHr7x6hm-1200-80.jpg",
-            "publishedAt": "2024-10-09T07:26:15Z",
-            "content": "The second Prime Day event of 2024 is now into its second day of savings, but other retailers aren’t letting Amazon have all the fun. The PlayStation Store is looking to steal Amazon's under with a h… [+671 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "Samuel Tolbert",
-            "title": "The Xbox Series X|S storage expansion everyone needs is finally on sale again - Windows Central",
-            "description": "If you don't have a Seagate Expansion Card for your Xbox Series X|S console, it's time to change that thanks to this discount.",
-            "url": "https://www.windowscentral.com/gaming/xbox/the-xbox-series-x-s-storage-expansion-everyone-needs-is-finally-on-sale-again",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CzqtitY48NCzdYWLyBPZiN-1200-80.jpg",
-            "publishedAt": "2024-10-09T06:33:45Z",
-            "content": "\"I like reinstalling this game because it got new DLC, but first, I need to enjoy uninstalling a game I was still playing,\" is something that I will never, ever, ever say. \r\nIf, like me, you want to … [+3154 chars]"
+            "author": "SamMobile, Abhijeet Mishra",
+            "title": "Did Google ruin Samsung’s Galaxy S25 MediaTek surprise? - SamMobile - Samsung news",
+            "description": "Over the past few months, rumors have suggested that Samsung could use a MediaTek chip in some of the Galaxy ...",
+            "url": "https://www.sammobile.com/news/galaxy-s25-mediatek-dimensity-chips-google-rumor/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/02/Galaxy-S24-Plus-review-5-720x405.jpg",
+            "publishedAt": "2024-10-09T04:06:00Z",
+            "content": "Over the past few months, rumors have suggested that Samsung could use a MediaTek chip in some of the Galaxy S25 models. While we may have laughed these rumors off a few months back, Samsung's decisi… [+2332 chars]"
         },
         {
             "source": {
@@ -391,45 +456,6 @@
             "urlToImage": "https://cdn.vox-cdn.com/thumbor/GjFbQV8GL3u_CBQ9ug9Kzpz-b-g=/0x0:1180x885/1200x628/filters:focal(590x443:591x444)/cdn.vox-cdn.com/uploads/chorus_asset/file/25665396/MediaTek_D9400_base_2_crop.jpg",
             "publishedAt": "2024-10-09T03:30:00Z",
             "content": "MediaTeks new flagship chipset is ready for AI agents and tri-fold phones\r\nMediaTeks new flagship chipset is ready for AI agents and tri-fold phones\r\n / The SoC is designed for high-end smartphones w… [+2045 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Chris Reed",
-            "title": "Tons of Awesome Board Games Are on Sale for October Prime Day - IGN",
-            "description": "We've flipped through all the board game deals for Amazon's Prime Big Deals Days and selected the best of the bunch.",
-            "url": "https://www.ign.com/articles/board-games-october-prime-day-2024",
-            "urlToImage": "https://assets-prd.ignimgs.com/2024/10/09/untitled-design-1728434955531.png?width=1280",
-            "publishedAt": "2024-10-09T03:00:00Z",
-            "content": "As video games remain an expensive hobby, board games have also come to be quite costly these days. Thankfully you can save money on a bunch of popular board games during Amazons October Prime Day, w… [+1708 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GameSpot"
-            },
-            "author": "James Carr",
-            "title": "Diablo 4 Season 6 Battle Pass Rewards: All Cosmetics, Titles, And Emotes For Vessel Of Hatred Launch - GameSpot",
-            "description": "Diablo 4 Vessel of Hatred has arrived alongside a new season and battle pass.",
-            "url": "https://www.gamespot.com/gallery/diablo-4-season-6-battle-pass-rewards-all-cosmetics-titles-and-emotes-for-vessel-of-hatred-launch/2900-5848/",
-            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1599/15997278/4381391-diablothumbbp.jpeg",
-            "publishedAt": "2024-10-09T00:52:34Z",
-            "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BGR"
-            },
-            "author": "José Adorno, José Adorno",
-            "title": "6 features coming to iOS 18.1 besides Apple Intelligence - BGR",
-            "description": "Millions of users with an iPhone 15 or older devices won't get Apple Intelligence. Still, iOS 18.1 will bring at least six exciting features.",
-            "url": "https://bgr.com/tech/6-features-coming-to-ios-18-1-besides-apple-intelligence/",
-            "urlToImage": "https://bgr.com/wp-content/uploads/2024/08/ios-18-1-apple-intelligence-reduce-interruptions-bgr.jpg?quality=82&strip=all",
-            "publishedAt": "2024-10-09T00:07:00Z",
-            "content": null
         },
         {
             "source": {
@@ -459,84 +485,6 @@
         },
         {
             "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Noah Hunter",
-            "title": "Apple Watch SE Hits A Record Low Price on Amazon for October Prime Day - IGN",
-            "description": "Amazon has slashed the price of the Apple Watch SE to a new record low.",
-            "url": "https://www.ign.com/articles/apple-watch-se-deal-amazon-october-prime-day-2024",
-            "urlToImage": "https://assets-prd.ignimgs.com/2024/10/08/apple-watch-se-1728423927249.png?width=1280",
-            "publishedAt": "2024-10-08T22:31:49Z",
-            "content": "The Apple Watch is one of the most interesting accessories you can buy from Apple. While many doubted its ability to become a success at launch, we've seen over 10 generations of the device released … [+2062 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Amanda Garrity",
-            "title": "I'm a gifting expert — here are the best presents to buy during Prime Day - Yahoo Life",
-            "description": "I sorted through thousands of Amazon deals to help you find the gifts worth giving, like the top-selling AncestryDNA kit for 60% off.",
-            "url": "https://www.yahoo.com/lifestyle/im-a-gifting-expert--here-are-the-best-presents-to-buy-during-prime-day-210155942.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HyDlK2ThGmgw6UyPYCSFXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/a0376a00-84e8-11ef-bfdf-65a932b1b334",
-            "publishedAt": "2024-10-08T21:01:57Z",
-            "content": "Maybe you plan to use October's Amazon Prime Day to stock up on everyday essentials. Or maybe you're going to splash out on those big-ticket items you've had on your wishlist (now's a great time to b… [+7930 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Samuel Axon",
-            "title": "Apple brings years-old features to iCloud web interface - Ars Technica",
-            "description": "It’s still a long, long way from parity with iOS or macOS apps, though.",
-            "url": "https://arstechnica.com/gadgets/2024/10/apple-adds-dark-mode-and-other-features-to-icloud-com/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/iCloud-web-apps.png",
-            "publishedAt": "2024-10-08T20:34:37Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-08T20:24:26Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Michael Potuck",
-            "title": "How to hide app names on iPhone in iOS 18 - 9to5Mac",
-            "description": "This step-by-step-guide with screenshots covers how to hide app names on iPhone in iOS 18 and do the same for folders and widgets.",
-            "url": "https://9to5mac.com/hide-app-names-iphone-ios-18/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/how-to-hide-app-names-iphone-ios-18.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-10-08T19:54:00Z",
-            "content": "Along with letting users customize app colors, organize apps anywhere, and more natively, iOS 18 brings a subtle new feature that cleans up the Home Screen. Here’s how to hide app names on iPhone in … [+1333 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GameSpot"
-            },
-            "author": "Steven Petite",
-            "title": "Samsung 990 Pro PS5 SSDs Receive Steep Discounts For Amazon Prime Big Deal Days - GameSpot",
-            "description": "Amazon's sale includes 1TB and 2TB versions of Samsung's flagship M.2 SSD for PS5 and PC.",
-            "url": "https://www.gamespot.com/articles/samsung-990-pro-ps5-ssds-receive-steep-discounts-for-amazon-prime-big-deal-days/1100-6527014/",
-            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4380800-primebigdealdays.png",
-            "publishedAt": "2024-10-08T19:24:17Z",
-            "content": "Samsung's 990 Pro is one of the most popular SSDs for PS5 and PC, as it offers tremendous performance and is manufactured by a brand with a reputation for creating high-end storage solutions. Deals o… [+800 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "TheGamer"
             },
@@ -551,45 +499,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Halowaypoint.com"
-            },
-            "author": "Alex Wakeford",
-            "title": "Haloween Operation Launch | Halo - Official Site (en) - Halo Waypoint",
-            "description": "<p>As the dark and cold close in, the dead have begun to stir. Gear up and find out how long you can endure the terrifying hordes in the Survive the Undead playlist, featuring three chilling maps created by The Forge Falcons, and much more!</p>",
-            "url": "https://www.halowaypoint.com/news/haloween-operation-launch",
-            "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/10/Haloween.jpg",
-            "publishedAt": "2024-10-08T18:39:17Z",
-            "content": "Spooky scary skeletonsSend shivers down your spine,Shrieking skulls will shock your soulSee the coming of Spartanstein!\r\nIts that time of year again where theres a chill in the air, the wind howls an… [+11283 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Kevin Purdy",
-            "title": "Winamp really whips open source coders into frenzy with its source release - Ars Technica",
-            "description": "Winamp released its source code with a license that drew a lot of attention. That’s when other apps’ code was found inside.",
-            "url": "https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/llama_face.jpg",
-            "publishedAt": "2024-10-08T18:35:35Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Neuroscientist Answers Emotion Questions | Tech Support | WIRED - WIRED",
-            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-            "url": "https://www.youtube.com/",
-            "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-            "publishedAt": "2024-10-08T16:00:12Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "[Removed]"
             },
             "author": null,
@@ -597,21 +506,8 @@
             "description": "[Removed]",
             "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2024-10-08T15:46:50Z",
+            "publishedAt": "2024-10-08T15:48:46Z",
             "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motor1 "
-            },
-            "author": "Christopher Smith",
-            "title": "2025 Rolls-Royce Ghost Series II: This Is It - Motor1 ",
-            "description": "This is the 2025 Rolls-Royce Ghost Series II, a mild refresh of the current-generation Ghost that has updated styling and more features. Here's what you get.",
-            "url": "https://www.motor1.com/news/736582/2025-rolls-royce-ghost-series-ii-details/",
-            "urlToImage": "https://cdn.motor1.com/images/mgl/JOANPX/s1/2025-rolls-royce-ghost-series-ii.jpg",
-            "publishedAt": "2024-10-08T15:01:00Z",
-            "content": "<ul><li>The Rolls-Royce Ghost has received a minor refresh for 2025.</li><li>Called the Ghost Series II, it has an updated front fascia, lights, and new interior features.</li><li>The V-12 powertrain… [+3805 chars]"
         },
         {
             "source": {
@@ -629,28 +525,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "Eurogamer.net"
             },
-            "author": "Joe Tilleli",
-            "title": "The 46% discount on the Odyssey OLED Monitor Steals the Show at Samsung’s Anti-Prime Day Celebration - Gizmodo",
-            "description": "Samsung offers gamers' favorite monitors with up to $550 off for Prime days.",
-            "url": "https://gizmodo.com/the-46-discount-on-the-odyssey-oled-monitor-steals-the-show-at-samsungs-anti-prime-day-celebration-2000509035",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Samsung32OLEDG8monitor.jpg",
-            "publishedAt": "2024-10-08T14:53:16Z",
-            "content": "Welp, we’re finally here. Prime Day has officially started and it will go until tomorrow night, October 9. Tons of products both great and fine will toted across Amazon’s front page with deals of var… [+2471 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Joe Rossignol",
-            "title": "Apple Says Final iPod Nano and iPod Shuffle Models Are Now Obsolete - MacRumors",
-            "description": "Apple today added the final iPod nano and iPod shuffle models to its obsolete products list worldwide, marking the end of an era.   Apple introduced...",
-            "url": "https://www.macrumors.com/2024/10/08/obsolete-ipods/",
-            "urlToImage": "https://images.macrumors.com/t/YjLKsusyG8camtitcFUXq2cERuQ=/1600x/article-new/2020/09/ipod_nano_2015_feature.jpg",
-            "publishedAt": "2024-10-08T14:41:26Z",
-            "content": "Apple today added the final iPod nano and iPod shuffle models to its obsolete products list worldwide, marking the end of an era.\r\nApple introduced new color options for the seventh-generation iPod n… [+1104 chars]"
+            "author": "Victoria Kennedy",
+            "title": "Diablo 4 Vessel of Hatred DLC boosts Steam players to record high, despite rocky launch - Eurogamer",
+            "description": "Diablo 4's expansion Vessel of Hatred released earlier today, welcoming a record number of Steam players in the process.",
+            "url": "https://www.eurogamer.net/diablo-4-vessel-of-hatred-dlc-boosts-steam-players-to-record-high-despite-rocky-launch",
+            "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-from-Diablo-4-Vessel-of-Hatred-live-action-trailer-showing-a-warrior-with-a-cheetah-style-head-dress-in-a-jungle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2024-10-08T14:52:54Z",
+            "content": "Diablo 4's expansion Vessel of Hatred released earlier today, welcoming a record number of Steam players in the process.\r\nAt the time of writing, there are 45,231 Diablo 4 players on Steam, a record … [+2409 chars]"
         },
         {
             "source": {
@@ -664,19 +547,6 @@
             "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone16-pro-watchseries10-largerdisplays.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
             "publishedAt": "2024-10-08T14:36:00Z",
             "content": "Last month Apple introduced the latest iPhone 16 Pro and Apple Watch Series 10 models together, and they had one key upgrade in common: larger displays. Ive been using the new, larger iPhone 16 Pro a… [+4190 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digital Camera World"
-            },
-            "author": "Gareth Bevan",
-            "title": "The refreshed Panasonic Lumix S5D offers great full-frame value for pro creators - Digital Camera World",
-            "description": "Panasonic refreshes the original Lumix S5 to add DJI LiDAR autofocus compatibility – still at a tantalizingly low price",
-            "url": "https://www.digitalcameraworld.com/news/the-refreshed-panasonic-lumix-s5d-offers-great-full-frame-value-for-pro-creators",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5dmymr3WiE9BdD5YP5mWVn-1200-80.jpg",
-            "publishedAt": "2024-10-08T14:01:08Z",
-            "content": "Panasonic has just announced a slight refresh of its Lumix S5 camera – called the Lumix S5D, it offers some minor improvements over the original model with new compatibility with DJI's LiDAR autofocu… [+3430 chars]"
         },
         {
             "source": {
@@ -706,81 +576,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Digital Trends"
+                "id": "ign",
+                "name": "IGN"
             },
-            "author": "Christine Romero-Chan",
-            "title": "I’m having second thoughts about my iPhone 16 Pro - Digital Trends",
-            "description": "I get a new iPhone every year, and this year, I got the iPhone 16 Pro. But part of me really wishes I could have gone with an iPhone 16 instead.",
-            "url": "https://www.digitaltrends.com/mobile/im-having-second-thoughts-about-my-iphone-16-pro/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/10/iphone-15-pro-16-pro-max-3.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2024-10-08T13:30:18Z",
-            "content": "As we’re approaching the end of the year, all the major manufacturers have launched their flagship smartphones, including Apple, which released its iPhone 16 line. While I’ve tried out my fair share … [+4863 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GamesIndustry.biz"
-            },
-            "author": "Marie Dealessandri",
-            "title": "Paradox on Bloodlines 2: \"We had a game we could do, but maybe not with the team we had\" - GamesIndustry.biz",
-            "description": "In September last year, Paradox Interactive announced that it handed the development of Vampire: The Masquerade – Blood…",
-            "url": "https://www.gamesindustry.biz/paradox-on-bloodlines-2-we-had-a-game-we-could-do-but-maybe-not-with-the-team-we-had",
-            "urlToImage": "https://assetsio.gnwcdn.com/Vampire-Bloodlines-2_rEGiWyG.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2024-10-08T13:00:06Z",
-            "content": "In September last year, Paradox Interactive announced that it handed the development of Vampire: The Masquerade – Bloodlines 2 to The Chinese Room, marking an umpteenth twist in the title's storied j… [+3089 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Tetris: US teen claims game's first ever 'rebirth' - BBC.com",
-            "description": "Michael Artiaga, 16, is the first known person to see the NES video game reset itself after beating it.",
-            "url": "https://www.bbc.com/news/articles/c70wnrg678lo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c6f1/live/2040edb0-8562-11ef-a8ba-ed5ab114fd9d.png",
-            "publishedAt": "2024-10-08T12:00:32Z",
-            "content": "A US teenager is the first known person to get classic video game Tetris to reset to level 0 after beating it.\r\nMichael Artiaga, 16, claimed the historic moment of so-called \"rebirth\" while livestrea… [+2185 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gizmodo Deals",
-            "title": "This Bose Headset is Affordable For Everyone Since it’s 43% Off For Prime Day - Gizmodo",
-            "description": "This Bose headset is among the finest headphones globally featuring active noise cancellation.",
-            "url": "https://gizmodo.com/this-bose-headset-is-affordable-for-everyone-since-its-43-off-for-prime-day-2000508920",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/headphones-bose.jpg",
-            "publishedAt": "2024-10-08T11:17:50Z",
-            "content": "This Tuesday morning, Amazon has unleashed a great deal on the very popular Bose QuietComfort headphones which have plummeted to an astonishing $199 from their original $349 price tag. This massive 4… [+2356 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Top Gear"
-            },
-            "author": null,
-            "title": "Nine of the most outrageous numbers developed by the McLaren W1 - Top Gear",
-            "description": "1,258bhp, 1,000kg of downforce and three seconds a lap quicker than the Senna. Yeah, this thing is wild",
-            "url": "https://www.topgear.com/car-news/first-look/nine-most-outrageous-numbers-developed-mclaren-w1",
-            "urlToImage": "https://www.topgear.com/sites/default/files/news-listicle/image/2024/10/5%20McLaren%20W1%20Front%203Q%20High.jpg?w=1280&h=720",
-            "publishedAt": "2024-10-08T04:00:00Z",
-            "content": "Attempting to follow in the footsteps of the F1 and the P1 is a bit like taking the mantle from Cristiano Ronaldo and Lionel Messi. Luckily - and on paper at least - things look very promising for Mc… [+439 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Atlantic"
-            },
-            "author": "Jason Schreier",
-            "title": "What Went Wrong at Blizzard Entertainment - The Atlantic",
-            "description": "A multibillion-dollar success story quickly turned into a curse.",
-            "url": "https://www.theatlantic.com/technology/archive/2024/10/blizzard-entertainment-play-nice/680178/",
-            "urlToImage": "https://cdn.theatlantic.com/thumbor/zw-o1ftEVVv9CQS3rWBsnl3cG70=/0x43:2000x1085/1200x625/media/img/mt/2024/10/blizzard/original.jpg",
-            "publishedAt": "2024-10-07T17:58:56Z",
-            "content": "Over the past three years, as I worked on a book about the history of the video-game company Blizzard Entertainment, a disconcerting question kept popping into my head: Why does success seem so awful… [+9806 chars]"
+            "author": "Robert Anderson",
+            "title": "Xbox 1TB Expansion Card Is On Sale at Amazon for October Prime Day - IGN",
+            "description": "1TB Xbox Expansion Cards are on sale for Amazon's October Prime Day event.",
+            "url": "https://www.ign.com/articles/xbox-1tb-expansion-card-october-prime-day-2024",
+            "urlToImage": "https://assets-prd.ignimgs.com/2024/10/06/best-xbox-expansion-card-deal-for-october-prime-day-2024-ign-2-1728238066004.png?width=1280",
+            "publishedAt": "2024-10-08T07:15:37Z",
+            "content": "Remember, these deals are for Prime members only, so if you're not already signed up, you can start a free 30-day trial to join in on the savings.\r\nThe WD Black C50 is a 1TB NVMe SSD inside a custom … [+1735 chars]"
         }
     ]
 }

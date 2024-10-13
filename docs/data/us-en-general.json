@@ -4,6 +4,32 @@
     "articles": [
         {
             "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Samuel Shen, Ankur Banerjee, Tom Westbrook",
+            "title": "China's stimulus message leaves investors wanting - Reuters",
+            "description": "Investors have good reason to be circumspect about how much Beijing will spend.",
+            "url": "https://www.reuters.com/world/china/chinas-stimulus-message-leaves-investors-wanting-though-hanging-onto-hope-2024-10-12/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/DKQC3SWDVRKYNN7EWRIXR5JKJY.jpg?auth=81000a5d5f505c1c1885f9c879af77e4f78b7b5bb36d60d7d740c66f92ded6f2&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-10-12T10:03:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Bradner",
+            "title": "Harris campaign to release report detailing vice president’s medical history, health information - CNN",
+            "description": "Vice President Kamala Harris’ campaign is expected to release a report Saturday detailing her medical history and health information, a senior aide said.",
+            "url": "https://www.cnn.com/2024/10/12/politics/kamala-harris-health-records/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177890992.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-12T09:00:00Z",
+            "content": "Vice President Kamala Harris campaign is expected to release a report Saturday detailing her medical history and health information, a senior aide said.\r\nIts an effort to draw a contrast between the … [+1345 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "MLB.com"
             },
@@ -12,21 +38,47 @@
             "description": "LOS ANGELES -- The nickname Mr. October is already taken. But Kiké Hernández has similarly proved himself to be a force that opposing teams do not want to reckon with under the bright lights of the postseason.",
             "url": "https://www.mlb.com/news/enrique-hernandez-hits-14th-postseason-homer-in-nlds-game-5",
             "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/xr7qethjiiofqiqexlm7.jpg",
-            "publishedAt": "2024-10-12T06:26:18Z",
+            "publishedAt": "2024-10-12T08:35:05Z",
             "content": "LOS ANGELES -- The nickname Mr. October is already taken. But Kiké Hernández has similarly proved himself to be a force that opposing teams do not want to reckon with under the bright lights of the p… [+3923 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Hollywood Reporter"
+                "name": "SciTechDaily"
             },
-            "author": "Carly Thomas",
-            "title": "Dan Aykroyd Calls ‘Saturday Night’ Movie a “Stand-Alone Masterpiece” - Hollywood Reporter",
-            "description": "The Jason Reitman-directed film centers on the 90 minutes leading up to 'Saturday Night Live's first broadcast in 1975.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/dan-aykroyd-praises-saturday-night-movie-1236030722/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/GettyImages-891909336-copy.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2024-10-12T04:41:15Z",
-            "content": "Dan Aykroyd has officially given Saturday Night his stamp of approval.\r\nThe actor and original Saturday Night Live castmember took to X, formerly Twitter, on Friday to share his thoughts on director … [+1811 chars]"
+            "author": null,
+            "title": "Jupiter’s Great Red Spot Enigma: Unexplained Oscillations Baffle Astronomers - SciTechDaily",
+            "description": "Jupiter's Titanic Storm Wiggles Like a Plate of Gelatin Jupiter's birthmark is an unbelievably huge storm that’s mysteriously crimson red in color. It looks like a bloodshot cycloptic eye staring back at Earth. The anticyclone churns along a southern mid-lati…",
+            "url": "https://scitechdaily.com/?p=422253",
+            "urlToImage": "https://scitechdaily.com/images/Voyager-Jupiter-Great-Red-Spot.jpg",
+            "publishedAt": "2024-10-12T08:19:54Z",
+            "content": "Hubble’s new observations reveal that Jupiter’s Great Red Spot is not as stable as it appears, showing unexpected size oscillations and varying speeds, challenging existing theories on planetary stor… [+7651 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Deutsche Welle",
+            "title": "Boeing to lay off 10% of staff, delay first 777X delivery - DW (English)",
+            "description": "The aerospace giant warned in an email that employees at all levels of the company are at risk. It comes as a strike by factory workers cripples airplane production.",
+            "url": "https://www.dw.com/en/boeing-to-lay-off-10-of-staff-delay-first-777x-delivery/a-70475675",
+            "urlToImage": "https://static.dw.com/image/67934270_6.jpg",
+            "publishedAt": "2024-10-12T08:03:38Z",
+            "content": "US aerospace company, Boeing announced Friday that it plans to cut 17,000 jobs, or 10% of its global workforce, as it forecasts a significant loss for the third quarter following a machinists' strike… [+1712 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-12T06:51:48Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -43,29 +95,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Post Magazine"
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
             },
-            "author": null,
-            "title": "China’s finance minister says ‘capacity’ strong, but gives no stimulus figure - South China Morning Post",
-            "description": "China’s Ministry of Finance gave no specific figure for fiscal stimulus at closely watched press conference.",
-            "url": "https://www.scmp.com/economy/policy/article/3282090/chinas-finance-ministry-holds-press-conference-markets-hope-fiscal-lift",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_live/public/d8/images/canvas/2024/10/12/b2e9f408-be80-4e1a-a033-8e77ae731f5b_eb0e5e00.jpg?itok=VzJ8UHkd&v=1728703647",
-            "publishedAt": "2024-10-12T03:24:45Z",
-            "content": null
+            "author": "Sally Brompton",
+            "title": "Your daily horoscope: October 12, 2024 - The Globe and Mail",
+            "description": "Your daily horoscope for today, Saturday, October 12, 2024",
+            "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-october-12-2024/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/LMZRFELKY5CP7NSCTCPEMNCFII.png?auth=47107fdfbf7ea0ccde091a624e8a92236787276e7c23c335aea3275bb34aa7eb&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2024-10-12T04:00:00Z",
+            "content": "Open this photo in gallery:Libra.iStockPhoto / Getty Images\r\nHOROSCOPES IF TODAY IS YOUR BIRTHDAY\r\nPlutos influence on your birthday will encourage you to be more dynamic in your dealings with the wo… [+3496 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
+                "id": "newsweek",
+                "name": "Newsweek"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-12T03:22:00Z",
-            "content": "[Removed]"
+            "author": "Anna Commander",
+            "title": "Aurora Mayor Rips Donald Trump's 'Grossly Exaggerated' Claims After Rally - Newsweek",
+            "description": "Aurora Mayor Mike Coffman said the concerns about Aurora have hurt the city's identity and \"sense of safety\" unfairly.",
+            "url": "https://www.newsweek.com/aurora-colorado-mayor-rips-donald-trump-grossly-exaggerated-claims-rally-1968008",
+            "urlToImage": "https://d.newsweek.com/en/full/2493946/donald-trump.jpg",
+            "publishedAt": "2024-10-12T03:45:42Z",
+            "content": "Mike Coffman, the Republican mayor of Aurora, Colorado, released a statement after former President Donald Trump's rally in the city on Friday, calling remarks about Venezuelan gang activity in his c… [+3494 chars]"
         },
         {
             "source": {
@@ -95,55 +147,68 @@
         },
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clemente Duran-Ballen",
+            "title": "Director of ‘The Apprentice’ film responds to receiving threats from Trump’s legal team - CNN",
+            "description": "“The Apprentice” director Ali Abbasi reacts to receiving a cease-and-desist letter from former President Donald Trump’s legal team shortly after the film’s premiere at the Cannes Film Festival.",
+            "url": "https://www.cnn.com/2024/10/11/politics/video/the-apprentice-film-ali-abbasi-trump-threats-src-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20241011-trump-abassi-exlarge16x9.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-12T02:38:42Z",
+            "content": "The Apprentice film director Ali Abbasi reacts to receiving a cease-and-desist letter from former President Donald Trumps legal team shortly after the film's premiere at the Cannes Film Festival."
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "KiMi Robinson",
+            "title": "Sean 'Diddy' Combs will remain in jail as a 3-judge panel considers his release on bail - USA TODAY",
+            "description": "Diddy will remain in Brooklyn's Metropolitan Detention Center as a three-judge Second Circuit Appeals Court panel considers his case, a judge ruled.",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/10/11/sean-diddy-combs-update-jail-detention-appeals-court-panel/75637959007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/30/USAT/75450420007-usatsi-10587525.jpg?crop=2073,1166,x0,y299&width=2073&height=1166&format=pjpg&auto=webp",
+            "publishedAt": "2024-10-12T02:24:52Z",
+            "content": "Sean \"Diddy\" Combs will have to remain in a Brooklyn jail as an appeals court considers his lawyers' latest bid to have the hip-hop music mogul released to home detention at his $48 million Florida e… [+3146 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "The Seattle Times"
+                "name": "Deadline"
             },
-            "author": "Lauren Rosenblatt",
-            "title": "Boeing to cut 10% of workforce, stop most 767 production amid strike - The Seattle Times",
-            "description": "Boeing will lay off 10% of its workforce in the coming months and is making changes to its production schedule amid the ongoing Machinists strike.",
-            "url": "https://www.seattletimes.com/business/boeing-aerospace/boeing-to-cut-10-of-workforce-stop-most-767-production-amid-strike/",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/10/10112024_TZR_Boeing_Strike-10112024_tzr_154646.jpg?d=1200x630",
-            "publishedAt": "2024-10-12T02:51:06Z",
-            "content": "Boeing will lay off 10% of its workforce in the coming months and cut its commercial jet production amid a month-old strike that has left the company burning through cash as its factories sit idle.\r\n… [+8478 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Josh Dawsey, Isaac Arnsdorf",
-            "title": "Trump requests military aircraft and vehicles amid Iran threat - The Washington Post",
-            "description": "There is no evidence tying Iran to two recent assassination attempts, but officials told the campaign that Iran is still plotting.",
-            "url": "https://www.washingtonpost.com/politics/2024/10/11/trump-security-threats-iran-election-2024-campaign/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4YARBCG35R5ETJAXH5IDUC2CXM.JPG&w=1440",
-            "publishedAt": "2024-10-12T02:16:53Z",
-            "content": "Donald Trumps campaign requested military aircraft for Trump to fly in during the final weeks of the campaign, expanded flight restrictions over his residences and rallies, ballistic glass pre-positi… [+10810 chars]"
+            "author": "Glenn Garner",
+            "title": "‘Saturday Night Live’ Marks 49th Anniversary With OG 1975 Opening Titles - Deadline",
+            "description": "Friday marked the 49th anniversary of the first broadcast of 'Saturday Night Live', with the new movie 'Saturday Night' recounting the story.",
+            "url": "http://deadline.com/2024/10/saturday-night-live-marks-49th-anniversary-og-1975-opening-titles-1236114094/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/10/Saturday-Night-Live-49th-Anniversary.png?w=1024",
+            "publishedAt": "2024-10-12T02:16:00Z",
+            "content": "As Saturday Night Live marks a landmark season, the NBC sketch comedy show threw it back to 1975.\r\nCelebrating the 49th anniversary of SNL‘s first broadcast, with Season 50 continuing this weekend, t… [+1410 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eonline.com"
+                "name": "New York Post"
             },
-            "author": null,
-            "title": "Kylie Jenner Shares Proof \"Big Girl\" Stormi Webster Grew Up Lightning Fast - E! NEWS",
-            "description": "Kylie Jenner showed how quickly her and Travis Scott's daughter Stormi Webster, 6, has grown with a video of herself flipping the \"big girl\" upside down.",
-            "url": "https://www.eonline.com/news/1408563/kylie-jenner-shares-proof-big-girl-stormi-webster-grew-up-lightning-fast",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202311/rs_1200x1200-230201114303-1200-kylie-jenner.cm.2123.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2024-10-12T02:02:00Z",
-            "content": "But whatever the future will bring for Stormi and Aire, Kylie is ready for it, according to her friend Yris Palmer.\r\n\"She's the best mom,\" the beauticianwho is mom Ayla Palmer, 7, and Prince Troy Dan… [+505 chars]"
+            "author": "Associated Press",
+            "title": "Virginia is illegally striking voters off the rolls, DOJ claims in new lawsuit - New York Post ",
+            "description": "The U.S. Department of Justice filed a lawsuit against Virginia election officials Friday that accuses the state of striking names from voter rolls in violation of federal election law.",
+            "url": "https://nypost.com/2024/10/11/us-news/virginia-is-illegally-striking-voters-off-the-rolls-doj-claims-in-new-lawsuit/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/91461852.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-10-12T01:33:00Z",
+            "content": "The U.S. Department of Justice filed a lawsuit against Virginia election officials Friday that accuses the state of striking names from voter rolls in violation of federal election law.\r\nThe lawsuit … [+3041 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "New York Post"
             },
-            "author": "ADRIANA GOMEZ LICON, JESSE BEDAYN",
-            "title": "Trump drives his anti-immigration message in Aurora, Colorado - The Associated Press",
-            "description": "Donald Trump spent time Friday in a Colorado suburb away from battleground states. He's pushing a message, often using false or misleading claims and dehumanizing language, that migrants are causing chaos in smaller American cities and towns. And he's doublin…",
-            "url": "https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70",
-            "urlToImage": "https://dims.apnews.com/dims4/default/f825e56/2147483647/strip/true/crop/5305x2984+0+281/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F49%2F11ec90d8c77240edfb5740ba47a0%2Fa179e3b454bd4abb9a9397186a6c47e7",
-            "publishedAt": "2024-10-12T01:41:00Z",
-            "content": "AURORA, Colo. (AP) Donald Trump detoured from the battleground states Friday to visit a Colorado suburb thats been in the news over illegal immigration as he drives a message, often using false or mi… [+7511 chars]"
+            "author": "Reuters",
+            "title": "Human bird flu cases grow with 2 more confirmed in California - New York Post ",
+            "description": "U.S. and California health officials confirmed two new cases of H5N1 bird flu in dairy farm workers in the state on Friday, bringing the total of infected dairy workers in that state to six.",
+            "url": "https://nypost.com/2024/10/11/us-news/human-bird-flu-cases-grow-with-2-more-confirmed-in-california/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/91462546.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-10-12T01:22:00Z",
+            "content": "U.S. and California health officials confirmed two new cases of H5N1 bird flu in dairy farm workers in the state on Friday, bringing the total of infected dairy workers in that state to six, and the … [+2332 chars]"
         },
         {
             "source": {
@@ -160,6 +225,32 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Rooted in Process | Oregon Football vs. Ohio State Pregame Trailer - GoDucks",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/",
+            "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+            "publishedAt": "2024-10-12T01:03:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "East Idaho News"
+            },
+            "author": "EastIdahoNews.com Staff",
+            "title": "Partial remains of British climber believed found 100 years after Everest ascent - East Idaho News",
+            "description": "LONDON (AP) — Climbers believe they have found the partial remains of a British mountaineer who might — or might not — have been one of the first two people to climb Mount Everest, a century after their attempt on the world’s highest peak, according to an exp…",
+            "url": "https://www.eastidahonews.com/2024/10/partial-remains-of-british-climber-believed-found-100-years-after-everest-ascent/",
+            "urlToImage": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2024/10/shoe-on-mountain-inset-andrew-irvine.jpg",
+            "publishedAt": "2024-10-12T01:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
@@ -173,94 +264,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "DW (English)"
+                "id": "techcrunch",
+                "name": "TechCrunch"
             },
-            "author": "Deutsche Welle",
-            "title": "Comet last seen by Neanderthals to brighten night skies - DW (English)",
-            "description": "Comet C/2023 A3 Tsuchinshan-ATLAS won't return for another 80,000 years, but astronomers say it could be visible to the naked eye this weekend.",
-            "url": "https://www.dw.com/en/comet-last-seen-by-neanderthals-to-brighten-night-skies/a-70475893",
-            "urlToImage": "https://static.dw.com/image/70475883_6.jpg",
-            "publishedAt": "2024-10-12T00:50:10Z",
-            "content": "Sky-gazers in the Northern Hemisphere can spot comet C/2023 A3 Tsuchinshan-ATLAS with their naked eyes on Saturday, astronomers said.\r\nIt has been dubbed \"the comet of the century\" because of how bri… [+1290 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Mike Wall",
-            "title": "FAA clears SpaceX to resume Falcon 9 rocket launches - Space.com",
-            "description": "'The FAA notified SpaceX on Oct. 11 that the Falcon 9 vehicle is authorized to return to regular flight operations.'",
-            "url": "https://www.space.com/faa-clears-spacex-resume-falcon-9-rocket-launches-october-2024",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/xdDigHvTnXLYabpeHnDVgA-1200-80.jpg",
-            "publishedAt": "2024-10-12T00:49:54Z",
-            "content": "The U.S. Federal Aviation Administration (FAA) has given SpaceX's workhorse Falcon 9 rocket a green light to return to flight.\r\nThe Falcon 9 had been grounded since Sept. 28, when the rocket suffered… [+2088 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": null,
-            "title": "The Justice Department says Virginia is illegally striking voters off of voter rolls - NPR",
-            "description": "The lawsuit filed Friday alleges that an executive order issued in August by Republican Gov. Glenn Youngkin requiring daily updates to voter lists to remove ineligible voters violates federal law.",
-            "url": "https://www.npr.org/2024/10/11/nx-s1-5150774/the-justice-department-says-virginia-is-illegally-striking-voters-off-of-voter-rolls",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8250x4641+0+430/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fbf%2F980caef34e2aa0bfc802a16997ed%2Fap23160019632229.jpg",
-            "publishedAt": "2024-10-12T00:01:13Z",
-            "content": "RICHMOND, Va. The U.S. Department of Justice filed a lawsuit against Virginia election officials Friday that accuses the state of striking names from voter rolls in violation of federal election law.… [+2774 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Alexandra Bellusci",
-            "title": "Journalist Ana Garcia reveals the ‘different outcome’ the Menendez brothers trial would have today - New York Post ",
-            "description": "“There’s a spectrum, right. Like where do the Menendez brothers fit in?” the journalist shared.",
-            "url": "https://nypost.com/2024/10/11/entertainment/ana-garcia-on-different-outcome-the-menendez-bros-would-have-today/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/91452444.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-10-11T23:50:00Z",
-            "content": "Ana Garcia is laying down the law when it comes to a fair shot at justice.\r\nWhat led up to the events on the night of Aug. 20, 1989, when Lyle and Erik Menendez killed their parents, Kitty and Jose M… [+7956 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Zachary Neel",
-            "title": "Ohio State Buckeyes tease special uniform for top-five matchup vs. Oregon Ducks - Ducks Wire",
-            "description": "Is Ohio State teasing the all-whites vs. Oregon? Only time will tell.",
-            "url": "https://duckswire.usatoday.com/2024/10/11/oregon-football-ohio-state-buckeyes-uniforms/",
-            "urlToImage": "https://duckswire.usatoday.com/wp-content/uploads/sites/101/2024/10/USATSI_7589464.jpg?w=1024&h=576&crop=1",
-            "publishedAt": "2024-10-11T23:43:00Z",
-            "content": "We know that the No. 3 Oregon Ducks are going with a black-out theme on Saturday night, debuting their new ‘Fly Era’ uniforms from the ‘Generation O’ series for the top-five matchup against the No. 2… [+1090 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Sarah Rumpf-Whitten",
-            "title": "Biden to visit Hurricane Milton-ravaged Florida with damage estimates 'around $50 billion' - Fox News",
-            "description": "The White House announced President Biden is scheduled to visit Florida on Sunday to survey the aftermath of Hurricane Milton.",
-            "url": "https://www.foxnews.com/us/biden-visit-hurricane-milton-ravaged-florida-damage-estimates-around-50-billion",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/b1.jpg",
-            "publishedAt": "2024-10-11T23:39:00Z",
-            "content": "President Biden will visit areas impacted by Hurricane Milton in Florida on Sunday, the White House announced.\r\nThe news comes after Biden announced that early estimates suggest the damage caused by … [+2290 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-11T23:16:43Z",
-            "content": "[Removed]"
+            "author": "Kyle Wiggers",
+            "title": "Anthropic CEO goes full techno-optimist in 15,000-word paean to AI - TechCrunch",
+            "description": "Anthropic CEO Dario Amodei wants you to know he's not an AI \"doomer.\" At least, that's my read of the \"mic drop\" of a ~15,000 word essay Amodei published",
+            "url": "https://techcrunch.com/2024/10/11/anthropic-ceo-goes-full-techno-optimist-in-15000-word-paean-to-ai/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/53202070940_ea57312b1a_k.jpg?resize=1200,800",
+            "publishedAt": "2024-10-12T00:06:52Z",
+            "content": "Anthropic CEO Dario Amodei wants you to know he’s not an AI “doomer.” \r\nAt least, that’s my read of the “mic drop” of a ~15,000 word essay Amodei published to his blog late Friday. (I tried asking An… [+7781 chars]"
         },
         {
             "source": {
@@ -277,55 +290,42 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Chris Kirkham",
-            "title": "Tesla's robotaxi event was long on Musk promises. Investors wanted more details. - Reuters",
-            "description": "For a businessman who perpetually struggles with broken promises, Elon Musk gave himself quite a to-do list Thursday night at Tesla's long-awaited Hollywood unveiling of its driverless robotaxis.",
-            "url": "https://www.reuters.com/business/autos-transportation/tesla-robotaxi-event-was-long-promises-investors-wanted-more-details-2024-10-11/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/OBEU3D622ZNORAZPKOU7OARLPA.jpg?auth=03659ef26ed872c6d96a810126e5541cf283718f4050ab5a0e4e89521ea18498&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-10-11T22:42:10Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Natasha Bertrand, Kylie Atwood, Jennifer Hansler, Alex Marquardt",
-            "title": "Iran engages in urgent diplomacy as it braces for Israel’s response to missile attacks - CNN",
-            "description": "Iran’s government is extremely nervous and has been engaging in urgent diplomatic efforts with countries in the Middle East to gauge whether they can reduce the scale of Israel’s response to its missile attack earlier this month and – if that fails – help pro…",
-            "url": "https://www.cnn.com/2024/10/11/politics/iran-nervous-israel-response-missile-attacks/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176888663-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-10-11T22:19:00Z",
-            "content": "Irans government is extremely nervous and has been engaging in urgent diplomatic efforts with countries in the Middle East to gauge whether they can reduce the scale of Israels response to its missil… [+6090 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Aris Folley",
-            "title": "Dimon sounds geopolitics alarm - The Hill",
-            "description": "Welcome to The Hill’s Business & Economy newsletter {beacon} Business & Economy Business & Economy   The Big Story  Jamie Dimon sounds alarm on ‘treacherous’ geopolitical conditions The JPMorgan Chase CEO on Friday warned about potential risks for the economy…",
-            "url": "https://thehill.com/newsletters/business-economy/4929683-dimon-sounds-geopolitics-alarm/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/dimon_jamie_10062023_AP_AP23340649884939.png?w=1280",
-            "publishedAt": "2024-10-11T22:07:00Z",
-            "content": null
+            "author": "Julie Coleman",
+            "title": "Jim Cramer says hold still on Tesla stock after Cybercab debut flops - CNBC",
+            "description": "After Wall Street balked at Tesla's highly-anticipated robotaxi unveiling, CNBC's Jim Cramer told investors not to make any moves on the stock.",
+            "url": "https://www.cnbc.com/2024/10/11/jim-cramer-hold-still-on-tesla-after-cybercabs-debut-flops.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108046589-17286556792024-10-11t035608z_706537218_rc23iaamvwd3_rtrmadp_0_tesla-robotaxi.jpeg?v=1728670071&w=1920&h=1080",
+            "publishedAt": "2024-10-11T22:43:11Z",
+            "content": "After Wall Street balked at Tesla's highly-anticipated robotaxi unveiling, CNBC's Jim Cramer told investors not to make any moves on the stock. While he said he wouldn't recommend buying Tesla after … [+1761 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Hollywood Reporter"
+                "name": "KSAT San Antonio"
             },
-            "author": "Christy Piña",
-            "title": "Sebastian Stan Says Studio CEO Told Him Playing Trump Would “Alienate Half the Country” - Hollywood Reporter",
-            "description": "The 'Apprentice' actor and co-star Jeremy Strong explain why they think it's a good thing the film is coming out ahead of the election.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/sebastian-stan-told-not-to-play-trump-studio-ceo-the-apprentice-1236030528/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/MCDAPPR_EC012-H-2024.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2024-10-11T20:57:06Z",
-            "content": "It seems like a given that Sebastian Stan would have been warned against portraying controversial figure Donald Trump in The Apprentice, but one studio CEO went a step further in his caution.\r\nDuring… [+2671 chars]"
+            "author": "Adam Caskey",
+            "title": "First glimpse of comet visible over San Antonio will be Friday night - KSAT San Antonio",
+            "description": "Only visible at dusk through Friday, October 18.",
+            "url": "https://www.ksat.com/weather/2024/10/11/first-glimpse-of-comet-visible-over-san-antonio-will-be-friday-night/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/F6U2U6OEQFDDHLC5VGSWOHJWIE.jpg?_a=DATAdtfiZAA0",
+            "publishedAt": "2024-10-11T21:38:20Z",
+            "content": "SAN ANTONIO Astronomy lovers, rejoice! A comet will be visible over San Antonio from October 11 through 18 at dusk.\r\nKEY POINTS:\r\n<ul><li></li><li>\r\nLook west, just above horizon\r\n</li><li>\r\nFind Ven… [+1749 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Matt Lavietes, Corky Siemaszko",
+            "title": "They thought they were safe — until their Florida complex flooded - NBC News",
+            "description": "Residents of an apartment complex in Clearwater, Florida, were told to leave by the management company after the building was flooded by Hurricane Milton.",
+            "url": "https://www.nbcnews.com/weather/hurricanes/thought-safe-florida-complex-flooded-rcna175039",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241011-hurricane-milton-clearwater-2690-Apartments-one-time-use-se-1229p-8eccef.jpg",
+            "publishedAt": "2024-10-11T20:08:21Z",
+            "content": "CLEARWATER, Fla. Two days after Hurricane Milton flooded The Standard at 2690 Apartments, representatives from the company that manages the 16-acre complex showed up Friday and barred tenants from re… [+4908 chars]"
         },
         {
             "source": {
@@ -342,68 +342,29 @@
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
-            "author": "Kevin Purdy",
-            "title": "Steam adds the harsh truth that you’re buying “a license,” not the game itself - Ars Technica",
-            "description": "The new text is timed to a new California law against false advertising.",
-            "url": "https://arstechnica.com/gaming/2024/10/steam-now-reminds-you-that-it-really-sells-a-license-for-a-digital-product/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-2164461639.jpg",
-            "publishedAt": "2024-10-11T18:33:58Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Felecia Wellington Radel",
-            "title": "'Lifesaver': How iPhone's satellite mode helped during Hurricane Helene - USA TODAY",
-            "description": "Being able to use satellite mode in the aftermath of recent hurricanes has been a lifeline for some. A look at how it works, and how it's evolving.",
-            "url": "https://www.usatoday.com/story/tech/2024/10/11/iphone-satellite-mode-att-cell-service/75616990007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/02/USAT/75488555007-clean.jpg?crop=1078,606,x0,y574&width=1078&height=606&format=pjpg&auto=webp",
-            "publishedAt": "2024-10-11T18:32:11Z",
-            "content": "The phone wasn't working.\r\nPower and cell service had been out for a couple of days after Hurricane Helene, and Jeff Twersky was trying again to see if he could get a connection.\r\nTwersky, 69, a reti… [+6273 chars]"
+            "author": "Karen Friar",
+            "title": "Stock market today: Dow soars 400 points, to new high S&P 500 notches record close - Yahoo Finance",
+            "description": "The Dow and S&P 500 soar to new highs as banks kick off earnings season",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-notch-record-highs-as-earnings-season-kicks-off-200036434.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-11T19:30:00Z",
+            "content": "Reasonable quarter out of JPMorgan (JPM) this morning. Read more from our banking reporter David Hollerith.\r\nI hopped on JPM's earnings media call and asked CFO Jeremy Barnum his views on housing pos… [+1106 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "MIKE CORDER, ELENA BECATOROS",
-            "title": "Nobel Peace Prize given to Japanese organization Nihon Hidankyo for its work against nuclear weapons - The Associated Press",
-            "description": "The Nobel Peace Prize has been awarded to Nihon Hidankyo, a Japanese organization of survivors of the U.S. atomic bombings of Hiroshima and Nagasaki, for its activism against nuclear weapons. Jørgen Watne Frydnes, chair of the Norwegian Nobel Committee, said …",
-            "url": "https://apnews.com/article/nobel-peace-prize-40c351ed629bd515675a8283c811bc38",
-            "urlToImage": "https://dims.apnews.com/dims4/default/3d6d750/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2Fda%2F2b42b04db1d2c5908f6d41bc9bb0%2F1fb6c495fcab445d87e74a8fac6cfdf4",
-            "publishedAt": "2024-10-11T18:31:00Z",
-            "content": "The Nobel Peace Prize was awarded Friday to Nihon Hidankyo, a Japanese organization of survivors of the U.S. atomic bombings of Hiroshima and Nagasaki, for its activism against nuclear weapons.\r\nJørg… [+7967 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-11T18:04:53Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ashley Strickland",
-            "title": "The largest storm in our solar system is moving unexpectedly, scientists say - CNN",
-            "description": "Jupiter’s Great Red Spot, the solar system’s largest storm, wiggles like gelatin and contracts like a stress ball, new observations from Hubble Space Telescope find.",
-            "url": "https://www.cnn.com/2024/10/11/science/jupiter-great-red-spot-movements/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20241010-great-red-spot-shape-16x9.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-10-11T17:18:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nNew observations of Jupiters Great Red Spot captured b… [+6120 chars]"
+            "author": "BASSEM MROUE",
+            "title": "Activists risk their lives to rescue animals in areas of Lebanon hit by Israeli airstrikes - The Associated Press",
+            "description": "Animal rights activists are risking their lives in Lebanon to rescue cats, dogs and other animals harmed by Israeli airstrikes. In less than three weeks, nearly 190 cats and dogs from areas in Beirut and its suburbs that have been struck by Israeli airstrikes…",
+            "url": "https://apnews.com/article/lebanon-animals-war-israel-hezbollah-airstrikes-rescue-1549ca8f08e7d97b7a5cb27f43b12398",
+            "urlToImage": "https://dims.apnews.com/dims4/default/1fcbe84/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2Fd0%2F84b76f6e261820bd187cbef55f64%2F9d4a896d495740f1acd3a7da2aa22d7a",
+            "publishedAt": "2024-10-11T17:47:00Z",
+            "content": "BEIRUT (AP) Hours after an Israeli strike destroyed a three-story building in Beirut, killing at least 10 people, Maggie Sharawi received a telephone call from a person living nearby saying that the … [+2451 chars]"
         },
         {
             "source": {
@@ -434,28 +395,67 @@
         {
             "source": {
                 "id": null,
-                "name": "KSL.com"
+                "name": "Financial Times"
             },
-            "author": "Puyaan Singh, Reuters",
-            "title": "More than 15 million US adults have ADHD, new study estimates - KSL.com",
-            "description": "Roughly 15.5 million U.S. adults have attention-deficit hyperactivity disorder, and most of them struggle with gaining access to treatment for the condition, according to data from a U.S. study released on Thursday.",
-            "url": "https://www.ksl.com/article/51152482/more-than-15-million-us-adults-have-adhd-new-study-estimates",
-            "urlToImage": "https://img.ksl.com/slc/3017/301733/30173342.JPG?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2024-10-10T21:36:10Z",
-            "content": "WASHINGTON Roughly 15.5 million U.S. adults have attention-deficit hyperactivity disorder, and most of them struggle with gaining access to treatment for the condition, according to data from a U.S. … [+2008 chars]"
+            "author": null,
+            "title": "Tehran urges Gulf states to stay ‘neutral’ amid Israel tensions - Financial Times",
+            "description": "Flurry of diplomacy with regional rivals aims to contain impact of Israeli retaliation against Iran",
+            "url": "https://www.ft.com/content/100faf07-ffe1-4f93-b27c-c832f8278f92",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F13965206-b6fe-4e57-9280-2b7ed104bafa.jpg?source=next-barrier-page",
+            "publishedAt": "2024-10-11T14:29:47Z",
+            "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "9to5Mac"
+                "name": "PlayStation LifeStyle"
             },
-            "author": "Michael Potuck",
-            "title": "iPhone 16 Pro vs 14 Pro I/O: What’s improved and how much? - 9to5Mac",
-            "description": "This detailed guide covers iPhone 16 Pro vs 14 Pro I/O and what you get with the latest and greatest iPhones.",
-            "url": "https://9to5mac.com/iphone-16-pro-vs-14-pro-io/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone-16-pro-vs-14-pro-io.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-10-10T21:22:00Z",
-            "content": "iPhone 16 Pro and Pro Max are Apples newest, high-end smartphones. But how much have they improved over the last two years when it comes to ports, charging, wireless, and more? Heres a detailed look … [+4585 chars]"
+            "author": "Zarmena Khan",
+            "title": "Steam Now Admits Players Rent Digital Licenses, Not Buy Games - PlayStation LifeStyle",
+            "description": "Steam has apparently started alerting users that they're obtaining digital licenses to play games, and PS Store might follow soon.",
+            "url": "https://www.playstationlifestyle.net/2024/10/11/ps-store-digital-licenses-not-games-ownership/",
+            "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2024/10/ps-store-games.jpg?resize=1200,630",
+            "publishedAt": "2024-10-11T13:05:38Z",
+            "content": "Steam has apparently started alerting users that theyre obtaining digital licenses to play games, paving way for other marketplaces like PS Store to follow suit. The move comes ahead of an upcoming C… [+978 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jonathan O’Callaghan",
+            "title": "The Hunt for Life on Europa Is About to Kick Up a Gear - WIRED",
+            "description": "NASA’s Europa Clipper mission is set for launch, finally revealing if this icy moon of Jupiter is habitable or not.",
+            "url": "https://www.wired.com/story/europa-clipper-mission-nasa-jupiter-moon-exploration-signs-life/",
+            "urlToImage": "https://media.wired.com/photos/66f16c2d837fa2f3c1c44f3e/191:100/w_1280,c_limit/PIA24321~large.jpg",
+            "publishedAt": "2024-10-11T12:16:16Z",
+            "content": "If were going to find life on another world, Europa might just be our best bet. We think this icy moon of Jupiter has an ocean of water beneath its frozen surface, and it seems like this ocean might … [+2533 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Robert Lea",
+            "title": "NASA images Uranus with epic team up of Hubble Telescope and New Horizons Pluto probe - Space.com",
+            "description": "The investigation shows what is needed to directly image more planets beyond the solar system.",
+            "url": "https://www.space.com/hubble-telescope-new-horizons-image-uranus",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/imbWaoQAcnvN2eninavHGe-1200-80.png",
+            "publishedAt": "2024-10-11T12:00:34Z",
+            "content": "Two NASA spacecraft have teamed up to capture direct images of Uranus. \r\nThe Hubble Space Telescope and the New Horizons Pluto probe formed a cool tag team to investigate the mysterious seventh plane… [+6881 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "KELVIN CHAN",
+            "title": "One Tech Tip: Here’s what you need to do before and after your phone is stolen or lost - The Associated Press",
+            "description": "Phones hold so much of our digital lives that if they ever get stolen or go missing, it can cause major disruption beyond just the loss of a device. There are steps you can take to make it less painful if this happens to you. At a minimum, lock down the phone…",
+            "url": "https://apnews.com/article/iphone-android-stolen-phone-theft-c4d0ab7ee40fca01bc46d7db03d590dd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c19f202/2147483647/strip/true/crop/7419x4173+0+386/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2F7e%2F53706e5fe1f087918e7649f4c268%2F5389aaac1dde4840a9a9f47e8a2062e2",
+            "publishedAt": "2024-10-11T10:11:00Z",
+            "content": "LONDON (AP) Phones hold so much of our digital lives emails, social media and bank accounts, photos, chat messages and more that if they ever get stolen or go missing, it can cause major disruption b… [+5622 chars]"
         }
     ]
 }

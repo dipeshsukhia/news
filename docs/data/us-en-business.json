@@ -1,58 +1,539 @@
 {
     "status": "ok",
-    "totalResults": 65,
+    "totalResults": 69,
     "articles": [
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Nick Carey",
-            "title": "Chinese and European automakers face off at Paris car show - Reuters",
-            "description": "The European Union's proposed tariffs on Chinese-made electric vehicles will raise prices and deter buyers, Chinese EV giant BYD warned, as European and Chinese automakers went head-to-head at the Paris car show.",
-            "url": "https://www.reuters.com/business/autos-transportation/chinese-european-automakers-face-off-paris-car-show-2024-10-14/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/HO7GW3KQYVPCLI2KRCHTRPI4VY.jpg?auth=004795025ae0e353669267d6da5bd5a7492198f0735fa3524820f09a0612f22b&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-10-14T09:13:14Z",
+            "author": "The Wall Street Journal",
+            "title": "Stock Market Today: Nasdaq, S&P 500 Move Higher; Boeing, Tesla Stocks in Focus — Live Updates - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-10-14-2024",
+            "urlToImage": null,
+            "publishedAt": "2024-10-14T16:19:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "The Internet Archive is back as a read-only service after cyberattacks - The Verge",
-            "description": "The Internet Archive has returned. The Wayback Machine and other archiving tools are back online in a read-only state after recent cyberattacks.",
-            "url": "https://www.theverge.com/2024/10/14/24269741/internet-archive-online-read-only-data-breach-outage",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qTWJymIfVZAEoHMOqRZAKlTkYlE=/0x0:3845x2291/1200x628/filters:focal(1923x1146:1924x1147)/cdn.vox-cdn.com/uploads/chorus_asset/file/25615813/oculus_link_hero_panther.png",
-            "publishedAt": "2024-10-14T08:55:31Z",
-            "content": "The Internet Archive is back as a read-only service after cyberattacks\r\nThe Internet Archive is back as a read-only service after cyberattacks\r\n / The Wayback Machine is back online after a data brea… [+1768 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Seana Smith",
-            "title": "Tesla stock selloff after robotaxi event could be just the beginning, pros warn - Yahoo Finance",
-            "description": "A robotaxi event light on details exposed a disconnect between the Tesla's lofty stock valuation and reality.",
-            "url": "https://finance.yahoo.com/news/tesla-stock-selloff-after-robotaxi-event-could-be-just-the-beginning-pros-warn-155630131.html",
+            "author": "Karen Friar",
+            "title": "Stock market today: Dow, S&P 500 head for record high, Nasdaq jumps as Nvidia surges - Yahoo Finance",
+            "description": "Stocks are upbeat as Nvidia heads for a fresh record high, with the next batch of big bank earnings in focus.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-head-for-record-high-nasdaq-jumps-as-nvidia-surges-133032568.html",
             "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-14T08:52:14Z",
-            "content": "Fundamentals over hype.\r\nIndeed thats the lesson for Tesla (TSLA) investors after the EV makers disappointing robotaxi event last week exposed a disconnect between the stocks lofty valuation and real… [+3231 chars]"
+            "publishedAt": "2024-10-14T16:00:27Z",
+            "content": "US stocks rose on Monday to head for fresh record highs as Nvidia shares climbed and investors prepared for more big bank earnings to test that rally and the chances of an economic \"soft landing.\"\r\nT… [+8442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "How to make money on stocks that look ripe for 2024 tax-loss selling - MarketWatch",
+            "description": null,
+            "url": "https://www.marketwatch.com/story/how-to-make-money-on-stocks-that-look-ripe-for-2024-tax-loss-selling-003bb782",
+            "urlToImage": null,
+            "publishedAt": "2024-10-14T15:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "William Suberg",
+            "title": "Bitcoin price hits $66K as analysis asks: 'Has Uptober begun?' - Cointelegraph",
+            "description": "Bitcoin bulls clear more resistance as BTC price gains take the markete $66,000.",
+            "url": "https://cointelegraph.com/news/bitcoin-price-hits-66k-analysis-uptober-begun",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-10/01928b7f-50f6-77a7-9a56-365012324757",
+            "publishedAt": "2024-10-14T14:55:15Z",
+            "content": "Bitcoin (BTC) tagged $66,000 after the Oct. 14 Wall Street open as whale-buying pressure fueled already buoyant crypto markets.\r\nBTC/USD 1-hour chart. Source: TradingView\r\nBTC price surge takes marke… [+2850 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matt Egan",
+            "title": "Trump’s social media stock is making an epic comeback as election nears - CNN",
+            "description": "Former President Donald Trump’s social media company is on fire on Wall Street. It’s all about Trump’s perceived chances of retaking the White House.",
+            "url": "https://www.cnn.com/2024/10/14/investing/trump-stock-truth-social-election/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24264501817278-copy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-14T14:39:00Z",
+            "content": "Former President Donald Trumps social media company is on fire on Wall Street. Its all about Trumps perceived chances of retaking the White House.\r\nUp until very recently, Trump Media &amp; Technolog… [+3491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Laura Bratton",
+            "title": "Nvidia stock eyes record high, looks to unseat Apple as world's most valuable company - Yahoo Finance",
+            "description": "Nvidia stock is aiming to notch a new all-time high as the AI boom shows no sign of slowdown.",
+            "url": "https://finance.yahoo.com/news/nvidia-stock-eyes-record-high-looks-to-unseat-apple-as-worlds-most-valuable-company-143811868.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-14T14:38:11Z",
+            "content": "Nvidia stock (NVDA) is on track to notch a record high as investors continue to bet on the artificial intelligence boom, placing the chipmaker in contention for the top spot as Wall Street's most val… [+4087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-14T14:36:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Crystal Tse",
+            "title": "Elliott Requests Special Meeting at Southwest Airlines - Yahoo Finance",
+            "description": "(Bloomberg) -- Elliott Investment Management has called for a special shareholder meeting at Southwest Airlines Co., officially kicking off the firm’s first ...",
+            "url": "https://finance.yahoo.com/news/elliott-requests-special-meeting-southwest-123348286.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-14T14:28:36Z",
+            "content": "(Bloomberg) -- Elliott Investment Management has called for a special shareholder meeting at Southwest Airlines Co., officially kicking off the firms first US proxy fight since 2017.\r\nMost Read from … [+4725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "David Marino-Nachison",
+            "title": "SoFi Stock Rises, Lifted by $2B Fortress Capital Loan Deal - Investopedia",
+            "description": "Shares of SoFi Technologies rose Monday after the digital financial services company announced a $2 billion deal with Fortress Capital to grow its personal loans business.",
+            "url": "https://www.investopedia.com/sofi-stock-rises-lifted-usd2b-fortress-capital-loan-deal-8727773",
+            "urlToImage": "https://www.investopedia.com/thmb/wmAgwT_40wMXPxWXdlr8qIy7Et8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_SoFiBuilding_GettyImages-1372185819-d088379061264f2795e709f23c2c5a0c.jpg",
+            "publishedAt": "2024-10-14T14:13:12Z",
+            "content": "<ul><li>SoFi Technologies announced a $2 billion deal with Fortress Capital to grow its personal loans business.</li><li>SoFi CEO Anthony Noto said the business can help SoFI diversify toward less ca… [+1392 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "Boeing factory strike crosses 1-month mark as pressure mounts on new CEO - CNBC",
+            "description": "Boeing's CEO Ortberg will answer to investors in his first Oct. 23 earnings presentation as the aerospace giant faces swirling crises.",
+            "url": "https://www.cnbc.com/2024/10/14/boeing-factory-strike-1-month.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108034097-1726248394524-gettyimages-2170940602-776205803sb09.jpeg?v=1726248494&w=1920&h=1080",
+            "publishedAt": "2024-10-14T14:00:01Z",
+            "content": "Boeing Machinists union members picket outside a Boeing factory on September 13, 2024 in Renton, Washington. \r\nIt's been just over a month since more than 30,000 Boeing machinists walked off the job … [+6217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Steve Dickson",
+            "title": "B. Riley Sells Majority of Great American to Oaktree Funds - Yahoo Finance",
+            "description": "(Bloomberg) -- B. Riley Financial Inc., the money-losing broker-dealer and investment firm looking to cut debt, agreed to sell a majority stake in its Great ...",
+            "url": "https://finance.yahoo.com/news/b-riley-reaches-deal-oaktree-112418823.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-14T14:00:00Z",
+            "content": "(Bloomberg) -- B. Riley Financial Inc., the money-losing broker-dealer and investment firm looking to cut debt, agreed to sell a majority stake in its Great American Holdings business to funds manage… [+1932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caixin Global"
+            },
+            "author": null,
+            "title": "Exclusive: China May Issue 6 Trillion Yuan in Treasury Bonds to Buttress Economy - Caixin Global",
+            "description": "The issuances would take place over three years as part of its latest fiscal stimulus measures, sources tell Caixin",
+            "url": "https://www.caixinglobal.com/2024-10-14/exclusive-china-may-issue-6-trillion-yuan-in-treasury-bonds-to-buttress-economy-102245341.html",
+            "urlToImage": "https://img.caixin.com/2024-10-14/172890817729983_560_373.jpg",
+            "publishedAt": "2024-10-14T13:56:35Z",
+            "content": "China may raise 6 trillion yuan from treasury bonds over three years as part of its efforts to buttress the slowing economy through fiscal stimulus, multiple sources with knowledge of the matter told… [+345 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Michelle F. Davis",
+            "title": "Cycle Pharmaceuticals Stands By $488 Million Offer for Vanda - Yahoo Finance",
+            "description": "(Bloomberg) -- Cycle Pharmaceuticals Ltd. is still interested in acquiring Vanda Pharmaceuticals Inc. after one of Vanda’s drugs failed to receive regulatory...",
+            "url": "https://finance.yahoo.com/news/cycle-pharma-said-stand-488-100000128.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0j8wL3dBWjMV4piHtJ2_Jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/bloomberg_markets_842/63d0224021bdc199d6064c5e78f9dd87",
+            "publishedAt": "2024-10-14T13:55:55Z",
+            "content": "(Bloomberg) -- Cycle Pharmaceuticals Ltd. is still interested in acquiring Vanda Pharmaceuticals Inc. after one of Vandas drugs failed to receive regulatory approval.\r\nMost Read from Bloomberg\r\nCambr… [+1662 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "The Ultimate Southwest Insider Tasked With Reinventing the Airline - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/business/airlines/the-ultimate-southwest-insider-tasked-with-reinventing-the-airline-730fac01",
+            "urlToImage": null,
+            "publishedAt": "2024-10-14T13:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KGW.com"
+            },
+            "author": "Chris McCrory",
+            "title": "What's open and closed on Columbus Day and Indigenous Peoples Day? - KGW.com",
+            "description": "Because it's a federal holiday, federal offices will be closed, as will most banks and the post office. Retailers like Target, Walmart and Starbucks will be open",
+            "url": "https://www.kgw.com/article/news/nation-world/whats-closed-today-columbus-day-2024-indigenous-peoples-day/507-7db57dca-caa4-4978-9cd8-11d78678e431",
+            "urlToImage": "https://media.kgw.com/assets/CCT/images/d581e375-8100-47e9-8aed-b438834114d5/d581e375-8100-47e9-8aed-b438834114d5_1140x641.jpg",
+            "publishedAt": "2024-10-14T13:08:00Z",
+            "content": "WASHINGTON Monday is a federal holiday in the U.S. known as Columbus Day or Indigenous Peoples Day. Because it's a federal holiday, you might want to check what's open before running your errands. \r\n… [+3331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OilPrice.com"
+            },
+            "author": "Charles Kennedy",
+            "title": "OPEC Slashes Oil Demand Growth Forecast Again - OilPrice.com",
+            "description": "OPEC has lowered its global oil demand growth forecast for 2024 and 2025, citing weaker Chinese demand and slower economic activity.",
+            "url": "https://oilprice.com/Energy/Energy-General/OPEC-Slashes-Oil-Demand-Growth-Forecast-Again.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-10-14_jmxm7byqkg.jpg",
+            "publishedAt": "2024-10-14T13:00:00Z",
+            "content": "A potential attack on Iran's…\r\nThe U.S. Energy Information Administration…\r\nChinese battery manufacturers, led by…\r\nBy Charles Kennedy - Oct 14, 2024, 8:00 AM CDT\r\nOPEC on Monday cut its oil demand g… [+1902 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Nick Carey",
+            "title": "China-Europe rivalry heats up at Paris car show as EV tariffs loom - Reuters",
+            "description": "Chinese and European automakers went head-to-head at the Paris car show on Monday, with tensions running high as the EU gears up to impose hefty import tariffs on Chinese-made electric vehicles and the industry struggles with weak demand.",
+            "url": "https://www.reuters.com/business/autos-transportation/chinese-european-automakers-face-off-paris-car-show-2024-10-14/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/HO7GW3KQYVPCLI2KRCHTRPI4VY.jpg?auth=004795025ae0e353669267d6da5bd5a7492198f0735fa3524820f09a0612f22b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-10-14T12:41:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Tesla Stock Is Climbing. The Robotaxi Robots Weren’t Autonomous - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/tesla-stock-price-robotaxi-robots-8ebece49",
+            "urlToImage": null,
+            "publishedAt": "2024-10-14T12:28:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Tesla Stock Flashed A Major Sell Signal Friday. Cathie Wood Ignored It. - Investor's Business Daily",
+            "description": "Cathie Wood projects autonomy and the robotaxi being long-term Tesla value drivers.",
+            "url": "https://www.investors.com/news/tesla-stock-sell-signal-cathie-wood-ignored-it/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/10/BIZ02-101424-news.jpg",
+            "publishedAt": "2024-10-14T12:14:00Z",
+            "content": "Tesla (TSLA) sold off hard on Friday, sending a sell signal to investors after the EV giant's robotaxi event. However, Cathie Wood and her Ark Invest went ahead and purchased nearly $3 million in TSL… [+2914 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sean Conlon",
+            "title": "Stocks making the biggest moves premarket: Flutter Entertainment, Boeing, SiriusXM, Caterpillar and more - CNBC",
+            "description": "These are the stocks posting the largest moves in premarket trading.",
+            "url": "https://www.cnbc.com/2024/10/14/stocks-making-the-biggest-moves-premarket-flut-ba-siri-cat.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108009774-1721659897787-gettyimages-2162402177-AFP_364R2BL.jpeg?v=1728906624&w=1920&h=1080",
+            "publishedAt": "2024-10-14T12:13:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Emily Crane",
+            "title": "Frontier Airlines passenger rants she’s ‘president’ after pilot wouldn’t turn back for her forgotten phone - New York Post ",
+            "description": "The female passenger, who hasn’t been identified, apparently erupted into the expletive-laden tirade as the flight was getting ready to take-off from San Diego en route to Las Vegas, accordin…",
+            "url": "https://nypost.com/2024/10/14/us-news/frontier-airlines-passenger-goes-nuts-after-pilot-wouldnt-turn-back-for-her-forgotten-phone/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/wild-moment-frontier-airlines-passenger-91600366.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-10-14T12:01:00Z",
+            "content": "Wild video shows a Frontier Airlines passenger bizarrely claiming to be a sovereign ruler and “president of this whole goddamn country” in a meltdown over the pilot refusing to turn back to let her g… [+1888 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Miami Herald"
+            },
+            "author": "David J. Neal",
+            "title": "Listeria recall spreads to WA, hitting Kroger, Albertsons, Trader Joe's and others - The Seattle Times",
+            "description": "The listeria-launched recall of nearly 10 million pounds of meat and chicken products has reached the store brands of seven of the top 10 grocery-selling chains in the nation.",
+            "url": "https://www.miamiherald.com/news/recalls/article293905629.html",
+            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/10/10142024_listeria101424-tzr_tzr_045400.jpg?d=1200x630",
+            "publishedAt": "2024-10-14T11:59:52Z",
+            "content": "The listeria-launched recall of nearly 10 million pounds of meat and chicken products has reached the store brands of seven of the top 10 grocery-selling chains in the nation, a few other chains you … [+3840 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Rida Morwa",
+            "title": "2 Best Dividends Your Money Can Buy Today - Seeking Alpha",
+            "description": "Investors should utilize the market as a tool to achieve goals and dreams. Check out two top dividend stock picks to enjoy the income stream for decades to come.",
+            "url": "https://seekingalpha.com/article/4726468-2-best-dividends-your-money-can-buy-today",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/175437853/image_175437853.jpg?io=getty-c-w1536",
+            "publishedAt": "2024-10-14T11:35:00Z",
+            "content": "Analysts Disclosure:I/we have a beneficial long position in the shares of OZKAP AND DBRG PREFERREDS either through stock ownership, options, or other derivatives. I wrote this article myself, and it … [+1079 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Forget Black Friday: Here Are 10 Amazon Deals Still Going Strong This Post-Prime Day Monday - Gizmodo",
+            "description": "Did you miss Prime Big Deal Days? Good news, you can still catch up this Monday with the latest deals!",
+            "url": "https://gizmodo.com/forget-black-friday-here-are-10-amazon-deals-still-going-strong-this-post-prime-day-monday-2000511687",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/prime-day-amazon-october-24.jpg",
+            "publishedAt": "2024-10-14T11:25:50Z",
+            "content": "As we enter the final hours of Amazon’s extended Prime Day event on this Indigenous Peoples’ Day, Monday, October 14, 2024, shoppers are presented with a last-chance opportunity to snag incredible de… [+3524 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Luca Casiraghi",
+            "title": "Wholesaler True Value in Bankruptcy to Sell Itself to Rival - Bloomberg",
+            "description": "Wholesaler True Value Co. filed for bankruptcy in Delaware on Monday as it seeks to sell its business to rival Do it Best Corp.",
+            "url": "https://www.bloomberg.com/news/articles/2024-10-14/wholesaler-true-value-files-bankruptcy-to-sell-itself-to-rival",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irdNPk8sF_Sk/v1/1200x864.jpg",
+            "publishedAt": "2024-10-14T11:21:21Z",
+            "content": "Wholesaler True Value Co. filed for bankruptcy in Delaware on Monday as it seeks to sell its business to rival Do it Best Corp. \r\nThe Chicago-based home-improvement company will continue to operate u… [+288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": "Jordan Valinsky",
+            "title": "7-Eleven is closing more than 400 locations in North America - ABC7 Los Angeles",
+            "description": "Several hundred \"underperforming\" 7-Eleven locations across North America are closing, the convenience store announced.",
+            "url": "https://abc7.com/post/7-eleven-is-closing-more-400-locations-north-america/15421921/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/15421969_7-eleven-img-web.jpg?w=1600",
+            "publishedAt": "2024-10-14T11:16:38Z",
+            "content": "NEW YORK -- Several hundred \"underperforming\" 7-Eleven locations across North America are closing, the convenience store announced.\r\nSeven &amp; I Holdings, the chain's Japan-based parent company, re… [+2477 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPVI-TV"
+            },
+            "author": "ADRIANA MORGA AND CORA LEWIS",
+            "title": "What to know about this year's Social Security cost-of-living adjustment - WPVI-TV",
+            "description": "Tens of millions of older Americans will see an increase in benefits this January when a new cost-of-living adjustment is added to Social Security payments.",
+            "url": "https://6abc.com/post/what-know-years-social-security-cost-living-adjustment/15427126/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/15427131_101424-cc-social-security-img.jpg?w=1600",
+            "publishedAt": "2024-10-14T11:16:23Z",
+            "content": "Tens of millions of older Americans will see an increase in benefits this January when a new cost-of-living adjustment is added to Social Security payments.\r\nThe 2.5% raise is intended to help meet h… [+2828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DefenseNews.com"
+            },
+            "author": "Jen Judson",
+            "title": "GM Defense pitches silent-drive vehicle as heir to the Humvee - Defense News",
+            "description": "GM Defense has developed a technology demonstrator to show the Army what is possible for a new tactical vehicle with a diesel engine and electric power.",
+            "url": "https://www.defensenews.com/industry/2024/10/14/gm-defense-pitches-silent-drive-vehicle-as-heir-to-the-humvee/",
+            "urlToImage": "https://www.armytimes.com/resizer/v2/LYKUY7TMZJAYBH2TCKKI2W6R2Q.jpg?width=1200&auth=1172e20c212451ebf5486c7e72a86f144d682ef37b4243167ef6a8b322b46813",
+            "publishedAt": "2024-10-14T11:00:00Z",
+            "content": "Emerging rapidly out of dense foliage, a truck swings around a bend on a washboard gravel road, but the only sound is the crunch of gravel beneath tires and the occasional ping of a rock hitting its … [+5301 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Tesla, Boeing, Sirius XM, Caterpillar, Bank of America, and More Stock Movers - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/stock-market-movers-5611c908",
+            "urlToImage": null,
+            "publishedAt": "2024-10-14T10:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jenni Reid",
+            "title": "European Central Bank set for third interest rate cut of the year in meeting this week - CNBC",
+            "description": "Markets are eyeing two more rate cuts from the euro area's central bank this year amid a weak growth outlook and lower inflation.",
+            "url": "https://www.cnbc.com/2024/10/14/european-central-bank-heads-for-third-interest-rate-cut-of-the-year.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108047026-1728886766449-gettyimages-2170750923-AFP_36G483R.jpeg?v=1728886787&w=1920&h=1080",
+            "publishedAt": "2024-10-14T10:48:30Z",
+            "content": "European flags flutter in front of the European Central Bank (ECB) building prior to a news conference following the meeting of the governing council of the ECB in Frankfurt/Main, Germany, on Septemb… [+5194 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Culp",
+            "title": "World shares stuck, oil tumbles as China stimulus plan too vague for investors - Reuters",
+            "description": "U.S. stocks were led higher by tech while crude prices dipped on Monday as investors, amid light Columbus Day trading, looked to promised Chinese stimulus and girded themselves for a string of high-profile corporate earnings.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-10-14/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/642XMJBRXBMOXOIW5GUFS6YEVU.jpg?auth=d1397476e063f86c049dd732bc7c90fb02e36f3025b449a1008ee1d922306f1a&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-10-14T10:48:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Associated Press Finance",
+            "title": "A Tesla car crashes and catches fire in France, killing 4 - Yahoo Finance",
+            "description": "Four people have died in a car crash in France after their Tesla vehicle reportedly hit a road sign and caught fire, police said Monday.  A local police...",
+            "url": "https://finance.yahoo.com/news/tesla-car-crashes-catches-fire-104413514.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-14T10:44:13Z",
+            "content": "PARIS (AP) Four people have died in a car crash in France after their Tesla vehicle reportedly hit a road sign and caught fire, police said Monday.\r\nA local police spokesman, Lt. Eric Hoarau, said th… [+459 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Lundbeck to buy Longboard Pharma in $2.6 billion deal - Yahoo Finance",
+            "description": "The companies said Lundbeck will acquire Longboard's shares for $60 each, which represents a premium of 54.2% to the stock's last close of $38.90.  The deal,...",
+            "url": "https://finance.yahoo.com/news/lundbeck-buy-longboard-pharma-2-103913612.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/633644c3946f74e5a4f9002610b23da6",
+            "publishedAt": "2024-10-14T10:39:13Z",
+            "content": "(Reuters) -H Lundbeck A/S has agreed to buy Longboard Pharmaceuticals in a $2.6 billion deal to gain access to its potential blockbuster epilepsy drug, sending shares of the U.S.-based company up 43.… [+1122 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jamie Chisholm",
+            "title": "The market rally is broadening, so here’s one way to play the small-caps trade - MarketWatch",
+            "description": "There are technical and seasonal reasons why it may be a good time to buy smaller-cap stocks, strategist says",
+            "url": "https://www.marketwatch.com/story/the-market-rally-is-broadening-so-heres-one-way-to-play-the-small-caps-trade-106530e0",
+            "urlToImage": "https://images.mktw.net/im-70260931/social",
+            "publishedAt": "2024-10-14T10:35:00Z",
+            "content": "Wall Street will start the new week at a fresh peak. The S&amp;P 500 \r\nSPX on Friday registered its 45th record close of 2024.Importantly, the rally has been more inclusive of late. Banks, for exampl… [+166 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Weather Channel"
+            },
+            "author": "The Weather Channel",
+            "title": "Fuel Shortage Slows Hurricane Milton Recovery In Florida - The Weather Channel",
+            "description": "Hurricane Milton's deadly blow to Florida, destroyed homes and businesses and left millions without power.",
+            "url": "https://weather.com/storms/hurricane/news/2024-10-13-fuel-shortage-slows-hurricane-milton-recovery-in-florida",
+            "urlToImage": "https://s.w-x.co/AP24286637460782%20%281%29.jpg",
+            "publishedAt": "2024-10-14T10:33:00Z",
+            "content": "At a Glance\r\n<ul><li>Hundreds of people waited in long lines for fuel.</li><li>The state offered free gas after opening a dozen fuel distribution sites over the weekend.</li><li>Water rescues continu… [+3972 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Morning Bid: China doubts as economy struggles, US bonds closed - Reuters",
+            "description": "A look at the day ahead in U.S. and global markets from Mike Dolan",
+            "url": "https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-10-14/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/BFAUBOSAIBJG5BLYH3EXEXSEUY.jpg?auth=e29361869407fca72ebc290e3f30a579ca2dc67bf7fd969f8207f8dca56cf048&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-10-14T10:10:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Michael Msika, Sagarika Jaisinghani",
+            "title": "CEOs and Analysts Are at Odds About S&P 500’s Earnings Outlook - Bloomberg",
+            "description": "There’s an unusual divergence in Corporate America’s profit outlook this season: while analysts have cut forecasts, company guidance points to another strong quarter.",
+            "url": "https://www.bloomberg.com/news/articles/2024-10-14/ceos-and-analysts-are-at-odds-about-s-p-500-s-earnings-outlook",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilPmMIH3w48Y/v0/1200x899.jpg",
+            "publishedAt": "2024-10-14T10:03:45Z",
+            "content": "Theres an unusual divergence in Corporate Americas profit outlook this season: while analysts have cut forecasts, company guidance points to another strong quarter.\r\nData compiled by Bloomberg Intell… [+227 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Exclusive | Starbucks Scales Back Discounts Under New CEO - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/business/hospitality/starbucks-coffee-discounts-strategy-ceo-dcbde38b",
+            "urlToImage": null,
+            "publishedAt": "2024-10-14T09:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Megan Liscomb",
+            "title": "\"I Make About $500 A Month\": People Are Sharing The Surprisingly Lucrative Ways They Earn Extra Cash And Supplement Their Income - BuzzFeed",
+            "description": "\"It's an easy $500 — and I have more demand than space available.\"",
+            "url": "https://www.buzzfeed.com/meganeliscomb/random-side-jobs-fs",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-08/25/17/enhanced/f18549b0c46c/original-1843-1692986038-2.jpg?crop=1245:651;0,18%26downsize=1250:*",
+            "publishedAt": "2024-10-14T09:16:03Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "Motley Fool"
             },
-            "author": "Anthony Di Pizio",
-            "title": "Interest Rates Just Did Something They Haven't Done Since March 2020, and It Could Foreshadow a Big Move in the Stock Market - The Motley Fool",
-            "description": "The era of high interest rates could be over, according to the Federal Reserve.",
-            "url": "https://www.fool.com/investing/2024/10/13/interest-rates-done-march-2020-big-in-stock-market/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/793628/bronze-bear-and-bull-figurines-bear-market-bull-market-stock-market.jpg",
-            "publishedAt": "2024-10-14T08:28:50Z",
-            "content": "The era of high interest rates could be over, according to the Federal Reserve.The Federal Reserve has two objectives, as mandated by law. First, it aims to keep the Consumer Price Index (CPI) measur… [+5025 chars]"
+            "author": "Sean Williams",
+            "title": "Billionaire Israel Englander Is Selling Nvidia and Palantir and Piling Into a Historically Cheap, Yet Potentially Troubled, Artificial Intelligence (AI) Stock - The Motley Fool",
+            "description": "Two of Wall Street's highest-flying artificial intelligence (AI) stocks were sent to the chopping block in the June-ended quarter, with Englander favoring shares of a polarizing AI company instead.",
+            "url": "https://www.fool.com/investing/2024/10/14/israel-englander-sell-nvidia-palantir-buy-ai-stock/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/793619/money-manager-stock-chart-reflection-glasses-laptop-buy-sell-getty.jpg",
+            "publishedAt": "2024-10-14T09:06:00Z",
+            "content": "Two of Wall Street's highest-flying artificial intelligence (AI) stocks were sent to the chopping block in the June-ended quarter, with Englander favoring shares of a polarizing AI company instead.In… [+6923 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Evelyn Cheng",
+            "title": "China's exports and imports grew far less than expected in September - CNBC",
+            "description": "China was expected Monday to report a slowdown in export growth in September versus August.",
+            "url": "https://www.cnbc.com/2024/10/14/chinas-exports-and-imports-grow-far-less-than-expected-in-september.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108046955-1728864181139-gettyimages-2177123447-2177123447.jpeg?v=1728864208&w=1920&h=1080",
+            "publishedAt": "2024-10-14T08:20:01Z",
+            "content": "BEIJING China's exports and imports both missed expectations in September, raising concerns about one of the few bright spots in the world's second largest economy.\r\nCustoms data out Monday showed ex… [+3904 chars]"
         },
         {
             "source": {
@@ -70,28 +551,80 @@
         {
             "source": {
                 "id": null,
-                "name": "The Daily Hodl"
+                "name": "CoinDesk"
             },
-            "author": "Henry Kanapi",
-            "title": "Top Analyst Unveils Level Where Bitcoin Finally Escapes ‘Endless Chop’ – Here’s His Forecast - The Daily Hodl",
-            "description": "A top crypto strategist known for making timely Bitcoin calls is outlining a level where he thinks BTC's eight-month consolidation could come to a close.",
-            "url": "https://dailyhodl.com/2024/10/14/top-analyst-unveils-level-where-bitcoin-finally-escapes-endless-chop-heres-his-forecast/",
-            "urlToImage": "https://dailyhodl.com/wp-content/uploads/2024/07/Predicts-Bitcoin-Fireworks.jpg",
-            "publishedAt": "2024-10-14T07:04:45Z",
-            "content": "A top crypto strategist known for making timely Bitcoin calls is outlining a price level where he thinks BTC’s eight-month consolidation could come to a close.\r\nPseudonymous analyst DonAlt tells his … [+1357 chars]"
+            "author": "Omkar Godbole",
+            "title": "Trump's New Administration Would Support Strong Dollar, Economic Advisor Says - CoinDesk",
+            "description": "A potential Trump presidency could bode well for one of BTC's top nemesis, the U.S. dollar.",
+            "url": "https://www.coindesk.com/markets/2024/10/14/trumps-new-administration-would-support-strong-dollar-economic-advisor-says/",
+            "urlToImage": "https://www.coindesk.com/resizer/x5qUK2wn0TNBT2eAfglBWSWDWJo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JOL22HN5BRGIHHNCIOEVXYW7HE.jpg",
+            "publishedAt": "2024-10-14T08:18:00Z",
+            "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhave been updated.\r\nCoinDesk is anaward-winningmedia outlet that covers the cryptocurrency industry. Its… [+457 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": null,
+                "name": "cleveland.com"
             },
-            "author": "Landon Mion",
-            "title": "Georgia sheriff calls deputies for help after becoming upset that Burger King got his order wrong - Fox News",
-            "description": "A Georgia sheriff grew angry when Burger King messed up his order, so he called deputies to the store to find to get information so he could file an official complaint.",
-            "url": "https://www.foxnews.com/us/georgia-sheriff-calls-deputies-help-after-becoming-upset-burger-king-got-his-order-wrong",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/owenssheriff.png",
-            "publishedAt": "2024-10-14T06:58:00Z",
-            "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu… [+3892 chars]"
+            "author": "Cliff Pinckard, cleveland.com",
+            "title": "Burger King gets Georgia sheriff’s order wrong; he calls deputies for backup - cleveland.com",
+            "description": "Cobb County Sheriff Craig Owens Sr. is being accused of calling three deputies to respond in their patrol cars with lights on when a Burger King messed up his order.",
+            "url": "https://www.cleveland.com/nation/2024/10/burger-king-gets-georgia-sheriffs-order-wrong-he-calls-deputies-for-backup.html",
+            "urlToImage": "https://www.cleveland.com/resizer/v2/B6NARSNGIJEHRMWCQTJR47UUYU.JPG?auth=dbe248a013d01bce56898644f805c0338b9271e2fb4b3847bcaae51347484909&width=1280&quality=90",
+            "publishedAt": "2024-10-14T07:52:00Z",
+            "content": "COBB COUNTY, Georgia Is getting a drive-thru order wrong a criminal offense in Georgia?\r\nCobb County Sheriff Craig Owens Sr. is being accused of acting like it is after he reportedly called three dep… [+1572 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Pfizer has problems an activist can’t fix - Financial Times",
+            "description": "Not quickly, anyway",
+            "url": "https://www.ft.com/content/0f3e13bd-ba02-47a6-9261-1e49d19d6528",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d8b33b1-450f-437e-9995-c3eba89a844d.jpg?source=next-barrier-page",
+            "publishedAt": "2024-10-14T05:31:01Z",
+            "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Aditya Kalra, Aditi Shah",
+            "title": "Ambani's Reliance lobbies India on satellite spectrum in new face-off with Musk - Reuters",
+            "description": "Reliance has privately argued that the spectrum should be auctioned.",
+            "url": "https://www.reuters.com/business/media-telecom/ambanis-reliance-lobbies-india-minister-satellite-spectrum-new-face-off-with-2024-10-13/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/HUIOGYLISRPCNC6RRD3PIKUQ6Y.jpg?auth=1c1f8ceef561df665446dd5a4613e151dc9bdd6fd96073af5ab324916c298b93&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-10-14T05:03:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Chinese Firm Announces Huge Leap in Offshore Wind Turbine Size - Bloomberg",
+            "description": "China’s Dongfang Electric Corp. has surprised the offshore wind industry with an announcement that it’s built a new turbine radically larger than anything previously available in the sector.",
+            "url": "https://www.bloomberg.com/news/articles/2024-10-14/chinese-firm-announces-huge-leap-in-offshore-wind-turbine-size",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igdMYtFTa_vM/v0/1200x800.jpg",
+            "publishedAt": "2024-10-14T04:38:00Z",
+            "content": "Chinas Dongfang Electric Corp. has surprised the offshore wind industry with an announcement that its built a new turbine radically larger than anything previously available in the sector.\r\nDongfang … [+265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Business of Fashion"
+            },
+            "author": "Daniel-Yaw  Miller",
+            "title": "A Memo to Elliott Hill on His First Day at Nike - The Business of Fashion",
+            "description": "The new CEO has a monumental task ahead of him as he begins work on Nike’s turnaround strategy.  Success means resetting expectations, showing evidence of meaningful innovation, recapturing the attention of sneakerheads and earning the trust of retailers.",
+            "url": "https://www.businessoffashion.com/articles/retail/a-memo-to-nike-new-ceo/",
+            "urlToImage": "https://img.businessoffashion.com/resizer/v2/DU4XKAMGMRDXBA6NEDQG4D6UIA.jpg?smart=true&auth=00badc8d32912826acd30fe3500e6428c76d674da75c2e48ab574116d66a292c&width=1200&height=630",
+            "publishedAt": "2024-10-14T04:30:00Z",
+            "content": "Nike has a fresh-faced new hire starting Monday.\r\nElliott Hill begins his tenure as Nikes new chief executive following last months announcement that his embattled predecessor, John Donahoe, would be… [+8128 chars]"
         },
         {
             "source": {
@@ -105,19 +638,6 @@
             "urlToImage": "https://regmedia.co.uk/2024/10/14/leonardo_ai_wordpress_knight.jpg",
             "publishedAt": "2024-10-14T04:15:00Z",
             "content": "The fight between WordPress co-creator Matthew Mullenweg and CMS hosting outfit WP Engine escalated over the weekend, with the latter seemingly made persona non grata in the WordPress community or at… [+5837 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ambcrypto.com"
-            },
-            "author": "Gladys Makena",
-            "title": "Solana sparks hope of an upswing as bulls continue to struggle - AMBCrypto News",
-            "description": "Solana flips 200 EMA on daily and 4-hour timeframes. Is SOL ready to rally?",
-            "url": "https://ambcrypto.com/?p=432642",
-            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/10/Gladys-SOL-1000x600.webp",
-            "publishedAt": "2024-10-14T04:05:53Z",
-            "content": "<ul><li>SOL has surged by 9.11% over the past month.</li><li>Solana has flipped 200 EMA on daily and 4-hour timeframes, signaling potential upswing.</li></ul>Since hitting a local high of $193, Solan… [+2346 chars]"
         },
         {
             "source": {
@@ -135,28 +655,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Ambcrypto.com"
+                "name": "Post Magazine"
             },
-            "author": "Adewale Olarinde",
-            "title": "How Bitcoin’s slight 3% rise caused an Open Interest surge - AMBCrypto News",
-            "description": "Bitcoin's Open Interest saw a significant spike after a $2.5 billion liquidation in Futures positions.",
-            "url": "https://ambcrypto.com/how-bitcoins-3-rise-caused-an-open-interest-surge/",
-            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/10/Bitcoin-1-2-1000x573.webp",
-            "publishedAt": "2024-10-14T03:04:46Z",
-            "content": "<ul><li>Bitcoin’s Open Interest surged to over $19 billion after a $2.5 billion Futures liquidation.</li><li>BTC faces strong resistance at $63,400, with recent price hovering around $62,700 after a … [+3053 chars]"
+            "author": null,
+            "title": "EU braces for Chinese trade blows in aftermath of EV tariff vote - South China Morning Post",
+            "description": "The two sides are still talking but remain far apart, with little hope of reaching a deal.",
+            "url": "https://www.scmp.com/news/china/diplomacy/article/3282235/eu-braces-chinese-trade-blows-aftermath-ev-tariff-vote",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/10/14/68ffa44c-9606-46fe-b59f-20b795a02ed3_4dd5d1c3.jpg?itok=p0LepjMn&v=1728878157",
+            "publishedAt": "2024-10-14T03:58:21Z",
+            "content": "Talks aimed at reaching a deal have continued in the background, but negotiators remain miles apart, according to people familiar with the discussions.\r\nOn Saturday, Chinas Ministry of Commerce said … [+707 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
-            "author": "Yahoo Finance",
+            "author": "Xinghui Kok and Yantoultra Ngui",
             "title": "Singapore keeps monetary policy steady as Q3 growth picks up; analysts bet on Jan easing - Yahoo Finance",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLUU2NjFFb2twMEJQOEhJNktHNktWMUJidDFFZnhxZ0ZMaEVDRm52QXoyOG9JWGVFbTA1TW9LZkRSY0xKcEVoczM4NWZycnFwOXg2MmJqUmFzZjM5VG9vYTA2R2hTa1phN2h3VWdzWmNWR2xaTF9xbVA2NkVUeWhzQVpzSWRSWFJTb2ln?oc=5",
-            "urlToImage": null,
+            "description": "SINGAPORE (Reuters) -Singapore's central bank on Monday left its monetary settings unchanged, as expected, as data showed the economy perked up in the third ...",
+            "url": "https://finance.yahoo.com/news/singapore-central-bank-keeps-monetary-000526966.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
             "publishedAt": "2024-10-14T02:03:00Z",
-            "content": null
+            "content": "By Xinghui Kok and Yantoultra Ngui\r\nSINGAPORE (Reuters) -Singapore's central bank on Monday left its monetary settings unchanged, as expected, as data showed the economy perked up in the third quarte… [+3003 chars]"
         },
         {
             "source": {
@@ -174,28 +694,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "CNBC"
             },
-            "author": "Ben Blanchard and Faith Hung",
-            "title": "TSMC third-quarter profit seen jumping 40% on strong AI chip demand - Yahoo Finance",
-            "description": "Taiwan Semiconductor Manufacturing Co, the main producer of advanced chips used in artificial intelligence applications, is expected to report a 40% leap in ...",
-            "url": "https://finance.yahoo.com/news/tsmc-third-quarter-profit-seen-000227274.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-14T00:02:00Z",
-            "content": "By Ben Blanchard and Faith Hung\r\nTAIPEI (Reuters) - Taiwan Semiconductor Manufacturing Co, the main producer of advanced chips used in artificial intelligence applications, is expected to report a 40… [+2378 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Hodl"
-            },
-            "author": "Alex Richardson",
-            "title": "Bitwise CIO Matt Hougan Says He’s ‘Struck’ by Two Charts From One Solana (SOL) Rival - The Daily Hodl",
-            "description": "Bitwise chief investment officer Matt Hougan is pointing out metrics for one Solana (SOL) competitor that he says are impressive.",
-            "url": "https://dailyhodl.com/2024/10/13/bitwise-cio-matt-hougan-says-hes-struck-by-two-charts-from-one-solana-sol-rival/",
-            "urlToImage": "https://dailyhodl.com/wp-content/uploads/2023/06/Says-Crypto-Rally-Just-.jpg",
-            "publishedAt": "2024-10-14T00:00:30Z",
-            "content": "Bitwise chief investment officer Matt Hougan is pointing out metrics for one Solana (SOL) competitor that he says are impressive.\r\nHougan tells his followers on the social media platform X that out o… [+1871 chars]"
+            "author": "Leslie Josephs",
+            "title": "Delta pauses hot meal service on dozens of Detroit flights citing 'food safety issue' at caterer - CNBC",
+            "description": "Delta said its caterer \"immediately shut down hot food production\" and then suspended operations from the Detroit facility.",
+            "url": "https://www.cnbc.com/2024/10/14/delta-food-safety-concerns-pauses-hot-meals-on-flights.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108004061-1720634526777-gettyimages-2157750376-776085417_gyi-seatac_KKN.jpeg?v=1722965760&w=1920&h=1080",
+            "publishedAt": "2024-10-14T00:24:00Z",
+            "content": "Delta Air Lines had to suspend hot meal service on more than 200 flights out of its Detroit Metropolitan Wayne County Airport hub over the past several days because of a \"food safety issue.\"\r\nDelta s… [+1282 chars]"
         },
         {
             "source": {
@@ -213,67 +720,15 @@
         {
             "source": {
                 "id": null,
-                "name": "TheStreet"
+                "name": "MarketWatch"
             },
-            "author": "Rob Lenihan",
-            "title": "Analyst adjusts AMD stock price target after AI event - TheStreet",
-            "description": "Here's what could happen next to AMD shares.",
-            "url": "https://www.thestreet.com/investing/stocks/analyst-adjusts-amd-stock-price-target-after-ai-event",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_3237%2Cy_2012/MjAxMjg1MDEyNDIxNjE2OTA0/vox-medias-2023-code-conference-----day-1.jpg",
-            "publishedAt": "2024-10-13T23:17:00Z",
-            "content": "The reviews are in and, well, they're ... mixed.\r\nWe're not talking about critics covering the premiere of a Broadway show or a Hollywood movie, but rather analysts' reactions to Advanced Micro Devic… [+4829 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Yun Li",
-            "title": "Stock futures are flat in overnight trading with key corporate earnings on deck: Live updates - CNBC",
-            "description": "The early signs of recovery in the banking sector helped push the broader market to all-time highs at the end of last week.",
-            "url": "https://www.cnbc.com/2024/10/13/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108044745-1728398149566-gettyimages-2177438089-ms1_1608_ieb3qlop.jpeg?v=1728461894&w=1920&h=1080",
-            "publishedAt": "2024-10-13T23:03:00Z",
-            "content": "Stock futures were little changed in overnight trading Sunday as investors waited to assess whether the next batch of key corporate earnings could power the market to more records.\r\nFutures on the Do… [+1937 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Julie Johnsson, Bloomberg",
-            "title": "Boeing’s endless doom loop gives no respite to new CEO Ortberg - Fortune",
-            "description": "The icon of US manufacturing hasn’t been able to catch a break since the first days of January.",
-            "url": "https://fortune.com/2024/10/13/boeing-ceo-kelly-ortberg-layoffs-worker-strike-charges-777x-737max-cash-flow/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/GettyImages-609573622-e1728858156214.jpg?resize=1200,600",
-            "publishedAt": "2024-10-13T22:34:00Z",
-            "content": "As Boeing Co. lurches from one crisis to the next, theres been one constant for the embattled planemaker: Its predicament appears to be only getting worse.From a freak accident that blew a door-size … [+7308 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tampa Bay Times"
-            },
-            "author": "Jeffrey S. Solochek, Divya Kumar",
-            "title": "Tampa Bay gas lines ease as more fuel shows up after Milton - Tampa Bay Times",
-            "description": "While some free gas distribution lines remained hours long, drivers managed to fill up at stations around Tampa Bay.",
-            "url": "https://www.tampabay.com/hurricane/2024/10/13/tampa-bay-gas-lines-ease-more-fuel-shows-up-after-milton/",
-            "urlToImage": "https://www.tampabay.com/resizer/5ai2IWyhMBPxKKar4qzbCBcLxTY=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/WZP2YZSJANFQLHEBTSMA72IVVY.jpg",
-            "publishedAt": "2024-10-13T22:31:35Z",
-            "content": "LUTZ With tankers coming back through Port Tampa Bay after Hurricane Milton, and more gas coming online at stations and state-run distribution sites, drivers across Tampa Bay felt some relief from fu… [+3285 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Adam Spatacco, The Motley Fool",
-            "title": "Where Will Artificial Intelligence (AI) Leader Nvidia Be in 5 Years? - Yahoo Finance",
-            "description": "Nvidia stock is up nearly 2,800% over the last five years, but can the company keep posting those gains?",
-            "url": "https://www.fool.com/investing/2024/10/13/where-will-artificial-intelligence-ai-leader-nvidi/?source=eptyholnk0000202&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=1d87cb99-0dc5-420c-9855-2eda8afae709",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-13T22:15:00Z",
-            "content": "Chip and data center specialist Nvidia(NASDAQ: NVDA) has emerged as the king of the artificial intelligence (AI) realm. Quarter after quarter, the company continues to defy expectations, set revenue … [+5746 chars]"
+            "author": "MarketWatch",
+            "title": "Bull market turns 2. Why fewer Fed rate cuts won’t rattle stock investors. - MarketWatch",
+            "description": null,
+            "url": "https://www.marketwatch.com/story/bull-market-turns-2-why-fewer-rate-cuts-wont-rattle-stock-investors-7fa37a90",
+            "urlToImage": null,
+            "publishedAt": "2024-10-13T22:47:00Z",
+            "content": null
         },
         {
             "source": {
@@ -290,32 +745,6 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Lewis Krauskopf",
-            "title": "Morning Bid: Bank results boost Wall St, China plan leaves questions - Reuters",
-            "description": "A look at the day ahead in Asian markets.",
-            "url": "https://www.reuters.com/markets/asia/global-markets-view-asia-2024-10-13/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/M5N5REN22RLWXBGLO3MPIPQ3NI.jpg?auth=63b299d9279e9686f728aabffd2558aa87443469257e6e19613cbf67f4688ccd&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-10-13T21:48:38Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bitcoin.com"
-            },
-            "author": "Terence Zimwara",
-            "title": "Peter Todd: HBO Documentary's Satoshi Nakamoto Claim Endangers My Life - Bitcoin.com News",
-            "description": "Todd expressed concern that the documentary could endanger his life due to the significant amount of wealth associated with Satoshi Nakamoto.",
-            "url": "https://news.bitcoin.com/peter-todd-hbo-documentarys-satoshi-nakamoto-claim-endangers-my-life/",
-            "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2024/10/eeeeechyeeechy.jpg",
-            "publishedAt": "2024-10-13T19:40:22Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
@@ -326,32 +755,6 @@
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2XtkZ0Lc7Ng/v1/1200x800.jpg",
             "publishedAt": "2024-10-13T19:00:00Z",
             "content": "Bond investors are going on defense as the outlook for the Federal Reserves interest-rate cutting path turns more uncertain.\r\nThe combination of sticky inflation and weak labor-market figures last we… [+230 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Lauren Edmonds, Katie Balevic, Katherine Tangalakis-Lippert, Taylor Rains",
-            "title": "Boeing's terrible, horrible, no good, very bad year - Business Insider",
-            "description": "Boeing has faced mechanical problems, safety problems, grounded planes, stranded astronauts, executive departures, a strike, and layoffs in 2024.",
-            "url": "https://www.businessinsider.com/timeline-of-boeing-problems-alaska-airlines-strike-layoffs-starliner-max-2024-10",
-            "urlToImage": "https://i.insider.com/670aa414a703186492818065?width=1200&format=jpeg",
-            "publishedAt": "2024-10-13T18:14:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Betty Lin-Fisher",
-            "title": "More than 400 7-Eleven US stores to close by end of the year - USA TODAY",
-            "description": "The Japanese parent company of 7-Eleven stores said it would be closing underperforming stores in the U.S.",
-            "url": "https://www.usatoday.com/story/money/2024/10/13/7-eleven-to-close-444-us-stores/75471713007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/03/USAT/75496812007-2166912227.jpg?crop=8022,4514,x0,y417&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2024-10-13T17:02:18Z",
-            "content": "7-Eleven will be closing more than 400 underperforming stores in the U.S., its parent company said.\r\nThe 444 stores to close are among 13,000 stores the convenience chain has in the U.S. and Canada. … [+1830 chars]"
         },
         {
             "source": {
@@ -382,6 +785,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Roberts Berzins",
+            "title": "How To Invest $153,000 For Durable $1,000 Monthly Income - Seeking Alpha",
+            "description": "Learn how to build a diversified investment portfolio with $153,000 for $1,000 monthly income without excessive risks.",
+            "url": "https://seekingalpha.com/article/4726483-how-to-invest-153000-for-durable-1000-monthly-income",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/95520872/image_95520872.jpg?io=getty-c-w1536",
+            "publishedAt": "2024-10-13T16:39:12Z",
+            "content": "Analysts Disclosure:I/we have a beneficial long position in the shares of O, EPR either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own op… [+731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Chron.com"
             },
             "author": "Timothy Malcolm",
@@ -394,159 +810,42 @@
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Marco della Cava",
-            "title": "Sold! What did Sammy Hagar's custom Ferrari LaFerrari sell for at Arizona auction? - USA TODAY",
-            "description": "Red Rocker Sammy Hagar has been a longtime car collector and reluctantly sold his Ferrari LaFerrari that cost $1.4 million when new at auction.",
-            "url": "https://www.usatoday.com/story/entertainment/music/2024/10/13/sammy-hagar-ferrari-laferrari-sold-rock-hall-performance/75635212007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/11/08/USAT/71496217007-la-f-5.jpeg?crop=6047,3403,x0,y310&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2024-10-13T16:18:45Z",
-            "content": "Sammy Hagar just provided another example of how there's only one way to rock.\r\nHis recipe: Have a ball but keep to life's speed limit, easy on the drugs, heavy on the rock 'n' roll, and above all go… [+6179 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "MarketWatch"
+                "name": "Barron's"
             },
-            "author": "Frances Yue",
-            "title": "Bull market turns 2. Why fewer Fed rate cuts won’t rattle stock investors. - MarketWatch",
-            "description": "",
-            "url": "https://www.marketwatch.com/story/bull-market-turns-2-why-fewer-rate-cuts-wont-rattle-stock-investors-7fa37a90",
-            "urlToImage": "https://images.mktw.net/im-867339/social",
-            "publishedAt": "2024-10-13T16:01:00Z",
-            "content": "The bull market in U.S. stocks celebrated its two-year anniversary on Saturday, with the Dow Jones Industrial Average and the S&amp;P 500 index finishing the week at record highs. Even though concern… [+532 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "nj.com"
-            },
-            "author": "Victoria Rosenthal | NJ Advance Media for NJ.com",
-            "title": "Is the stock market open on Monday for Columbus Day 2024? - NJ.com",
-            "description": "Columbus Day 2024 is on Monday, 14, 2024. But will the stock market be open on Monday?",
-            "url": "https://www.nj.com/business/2024/10/is-the-stock-market-open-on-monday-for-columbus-day-2024.html",
-            "urlToImage": "https://www.nj.com/resizer/v2/UGHBASS4UNAVFAKIVCKXMSFFTU.png?auth=20df141869b7077ce38ccdff9fca86430b3aca04f30713b4879989b301151705&width=1280&quality=90",
-            "publishedAt": "2024-10-13T15:24:00Z",
-            "content": "Columbus Day 2024, also celebrated as Indigenous Peoples Day in some communities, is tomorrow, Monday, Oct. 14.\r\nMost banks in the U.S. and the United States Postal Service are closed for Columbus Da… [+1306 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Ryan Vanzo, The Motley Fool",
-            "title": "2 Top Electric Vehicle (EV) Stocks to Buy in October - Yahoo Finance",
-            "description": "These two EV stocks have plenty of growth ahead.",
-            "url": "https://www.fool.com/investing/2024/10/13/2-top-electric-vehicle-ev-stocks-to-buy-october/?source=eptyholnk0000202&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=77280c08-1000-40d0-be65-1a39320e194c",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-13T14:20:00Z",
-            "content": "Want to add massive long-term growth potential to your portfolio? Check out electric car stocks.\r\nMany EV makers have seen their sales skyrocket in recent years. Yet their stock prices haven't always… [+5033 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Simple Flying"
-            },
-            "author": "Channing Reid",
-            "title": "Failed Food Inspection In Detroit Causes Airlines To Cease Inflight Catering - Simple Flying",
-            "description": "A “surprise” food examination reportedly occurred on Friday and affected flights the day after.",
-            "url": "https://simpleflying.com/airlines-catering-flights-detroit-food-inspection-fail/",
-            "urlToImage": "https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2024/10/shutterstock_1807140640-3.jpg",
-            "publishedAt": "2024-10-13T14:12:00Z",
-            "content": "At least 200 flights originating from Detroit Metropolitan Wayne County Airport (DTW) on Saturday had no catering onboard due to an alleged surprise food inspection. Delta Air Lines, the largest oper… [+2863 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "InsideEVs "
-            },
-            "author": "Suvrat Kothari",
-            "title": "U.S. EV Sales Hit Another Record In Q3 2024: '10% Share Within Reach' - InsideEVs ",
-            "description": "General Motors has officially become America's second-best-selling EV maker behind Tesla, pushing Hyundai Motors Group into the third spot.",
-            "url": "https://insideevs.com/news/737158/us-ev-sales-q3-2024/",
-            "urlToImage": "https://cdn.motor1.com/images/mgl/QevgNN/s1/q3-ev-sales-2024.jpg",
-            "publishedAt": "2024-10-13T14:01:00Z",
-            "content": "<ul><li>General Motors surpassed Hyundai Motor Group to become America's second-best-selling EV brand, but the Korean automaker has sold more year-to-date.</li><li>But Tesla is still in the no. 1 spo… [+6728 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Carly Page",
-            "title": "Meet the Chinese ‘Typhoon’ hackers preparing for war - TechCrunch",
-            "description": "Of the cybersecurity risks facing the United States today, few loom larger than the potential sabotage capabilities posed by China-backed hackers, which",
-            "url": "https://techcrunch.com/2024/10/13/meet-the-chinese-typhoon-hackers-preparing-for-war/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/China-flag-code-Getty.jpg?resize=1200,700",
-            "publishedAt": "2024-10-13T14:00:00Z",
-            "content": "Of the cybersecurity risks facing the United States today, few loom larger than the potential sabotage capabilities posed by China-backed hackers, which top U.S. officials have described as an epoch-… [+6117 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Mike Allen",
-            "title": "Consumers still skittish about economy ahead of election - Axios",
-            "description": "Red alert for Harris: Most Americans think the economy is getting worse.",
-            "url": "https://www.axios.com/2024/10/13/consumer-confidence-2024-election",
-            "urlToImage": "https://images.axios.com/qXiqYY-a1m9kl9F5-acX_rCfxWA=/0x0:1600x900/1366x768/2024/10/13/1728824447225.png",
-            "publishedAt": "2024-10-13T13:51:32Z",
-            "content": "The Michigan Consumer Sentiment Index ticked down in October (within the margin of error) after two months of gains. Sentiment is 8% stronger than a year ago, and almost 40% above the trough reached … [+706 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "News.cn"
-            },
-            "author": "",
-            "title": "GLOBALink | 26MW offshore wind turbine rolls off production line in SE China's Fujian - Xinhua",
-            "description": "",
-            "url": "https://english.news.cn/20241013/1eb5541f05754c889ea5ed2f7a71e926/c.html",
+            "author": "Barron's",
+            "title": "Berkshire Hathaway Boosts Stake in Sirius XM - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/berkshire-hathaway-boosts-stake-sirius-xm-c451be30",
             "urlToImage": null,
-            "publishedAt": "2024-10-13T13:14:31Z",
-            "content": "FUZHOU, Oct. 13 (Xinhua) -- A 26-megawatt offshore wind turbine rolled off the production line in Fuzhou, southeast China's Fujian Province on Saturday. This turbine boasts a blade wheel diameter of … [+1055 chars]"
+            "publishedAt": "2024-10-13T15:29:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Motley Fool"
+                "name": "Seeking Alpha"
             },
-            "author": "Johnny Rice, The Motley Fool",
-            "title": "Does Warren Buffett Know Something Wall Street Doesn't? The Billionaire Legend Dumps $9.6 Billion of Key Holding While Buying $345 Million of His Favorite Stock. - Yahoo Finance",
-            "description": "The billionaire investor is making some curious moves.",
-            "url": "https://www.fool.com/investing/2024/10/13/does-warren-buffett-know-something-wall-street-doe/?source=eptyholnk0000202&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=43d98acb-6ae2-485c-9d85-6dc58f5fdda1",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-13T12:15:00Z",
-            "content": "What is going on at Berkshire Hathaway(NYSE: BRK.A)(NYSE: BRK.B)? In the last few months, the \"Oracle of Omaha\" has directed his firm to dump almost $10 billion of one of its largest holdings and a p… [+4914 chars]"
+            "author": "Dair Sansyzbayev",
+            "title": "Rivian: The Sinking Ship Of The EV Revolution - Seeking Alpha",
+            "description": "Rivian plunged by 46% over the last 12 months and its YTD performance is even worse. Read why I downgrade RIVN stock from sell to strong sell.",
+            "url": "https://seekingalpha.com/article/4726412-rivian-the-sinking-ship-of-the-ev-revolution",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1397570049/image_1397570049.jpg?io=getty-c-w1536",
+            "publishedAt": "2024-10-13T14:30:00Z",
+            "content": "Analysts Disclosure:I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this art… [+770 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Chris Clark",
-            "title": "The majority of US 50-somethings worry about running out of cash in retirement — 4 tactics to steal from your kids - Yahoo Finance",
-            "description": "Millennials have mastered money management.",
-            "url": "https://finance.yahoo.com/news/majority-us-50-somethings-worry-115800757.html",
+            "author": "Hamza Shaban",
+            "title": "Google's new antitrust defense is AI - Yahoo Finance",
+            "description": "In response to the Justice Department's proposal to potentially break up Google, the company showed another way tech giants can rely on AI.",
+            "url": "https://finance.yahoo.com/news/googles-new-antitrust-defense-is-ai-140341996.html",
             "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-13T11:58:00Z",
-            "content": "It might be difficult for older Americans to admit that younger generations have valuable financial lessons to offer. Thats not how advice usually works, but it might be time for seasoned workers to … [+4200 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investopedia"
-            },
-            "author": "Terry Lane",
-            "title": "What To Expect in the Markets This Week - Investopedia",
-            "description": "Coming up: Financial, tech and health-care earnings, Fed representatives speaking, retail sales data, housing starts, and a bond market holiday Monday.",
-            "url": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-8726921",
-            "urlToImage": "https://www.investopedia.com/thmb/uhJLRclZV77fCrIQTTNs2LMxA14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_GoldmanSachsSign_GettyImages-1638089906-1c06c53ba9bd4caca2a237319bcd6d75.jpg",
-            "publishedAt": "2024-10-13T10:00:00Z",
-            "content": "<ul><li>Goldman Sachs, Morgan Stanley, Citigroup, and other top financial firms are scheduled to report earnings this week.</li><li>Investors will also get financial updates from UnitedHealth Group, … [+5014 chars]"
+            "publishedAt": "2024-10-13T14:03:42Z",
+            "content": "For more than a year, company executives threw around the words artificial intelligence to signal that they too were on the cutting edge. Feeding the investor frenzy for lower costs, boosted producti… [+4725 chars]"
         },
         {
             "source": {
@@ -564,15 +863,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Motley Fool"
+                "name": "Investopedia"
             },
-            "author": "Maurie Backman",
-            "title": "Here's Social Security's Maximum Monthly Benefit for 2025 -- and How You Can Do Even Better - The Motley Fool",
-            "description": "If you play your cards right, you can set yourself up for a huge monthly payday.",
-            "url": "https://www.fool.com/retirement/2024/10/13/heres-social-securitys-maximum-monthly-benefit-for/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/793673/older-man-smiling-laptop-gettyimages-1371116757.jpg",
-            "publishedAt": "2024-10-13T09:58:00Z",
-            "content": "If you play your cards right, you can set yourself up for a huge monthly payday.The more money you earn in your lifetime, the higher the monthly Social Security benefit you should be in line for once… [+3039 chars]"
+            "author": "Terry Lane",
+            "title": "What To Expect in the Markets This Week - Investopedia",
+            "description": "Coming up: Financial, tech and health-care earnings, Fed representatives speaking, retail sales data, housing starts, and a bond market holiday Monday.",
+            "url": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-8726921",
+            "urlToImage": "https://www.investopedia.com/thmb/uhJLRclZV77fCrIQTTNs2LMxA14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_GoldmanSachsSign_GettyImages-1638089906-1c06c53ba9bd4caca2a237319bcd6d75.jpg",
+            "publishedAt": "2024-10-13T10:00:00Z",
+            "content": "<ul><li>Goldman Sachs, Morgan Stanley, Citigroup, and other top financial firms are scheduled to report earnings this week.</li><li>Investors will also get financial updates from UnitedHealth Group, … [+5014 chars]"
         },
         {
             "source": {
@@ -590,45 +889,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Airdatanews.com"
-            },
-            "author": null,
-            "title": "COMAC rebrands ARJ21 as C909 - Air Data News",
-            "description": "COMAC has reportedly decided to rebrand its pioneering ARJ21-700 regional jet as the C909 to create a family of names similar to those adopted by Boeing and",
-            "url": "https://www.airdatanews.com/comac-rebrands-arj21-as-c909/",
-            "urlToImage": "https://www.airdatanews.com/wp-content/uploads/2024/10/c909-comac.jpg",
-            "publishedAt": "2024-10-13T09:17:18Z",
-            "content": "COMAC has reportedly decided to rebrand its pioneering ARJ21-700 regional jet as the C909 to create a family of names similar to those adopted by Boeing and Airbus.\r\nAn image posted on the social net… [+1155 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Sean Williams",
-            "title": "Is Donald Trump or Kamala Harris Better for Stocks? Statistically, One Party Has Overseen a Considerably Higher Average Annual Return Over the Last Century. - The Motley Fool",
-            "description": "One party has delivered a greater than five-percentage-point higher average annual return when in the Oval Office.",
-            "url": "https://www.fool.com/investing/2024/10/13/is-donald-trump-or-kamala-harris-better-for-stocks/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/793765/49178332061_bac99d164c_k.jpg",
-            "publishedAt": "2024-10-13T09:06:00Z",
-            "content": "One party has delivered a greater than five-percentage-point higher average annual return when in the Oval Office.In a little over three weeks, voters from across the country will head to the polls t… [+7275 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Keith Speights, The Motley Fool",
-            "title": "What's the Best \"Magnificent Seven\" Stock to Buy if Trump Wins in November? - Yahoo Finance",
-            "description": "The former president's proposals could be most magnificent for one tech giant.",
-            "url": "https://www.fool.com/investing/2024/10/13/whats-the-best-magnificent-seven-stock-to-buy-if-t/?source=eptyholnk0000202&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=d9206c7c-e6f9-475d-bd6a-16aa3d8e796d",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-13T08:49:00Z",
-            "content": "Only once in U.S. history has a former president who lost reelection after his first term managed to become president again. The last time it happened was in 1892 when Grover Cleveland became the fir… [+6984 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Barron's"
             },
             "author": "Barron's",
@@ -638,214 +898,6 @@
             "urlToImage": null,
             "publishedAt": "2024-10-13T07:30:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Filip De Mott",
-            "title": "How Saudi Arabia could create a crisis for Russia's economy - Business Insider",
-            "description": "Saudi Arabia has signaled that is is ready to flood the market with oil if OPEC doesn't commit to curbing supply. That bodes ill for Russia.",
-            "url": "https://www.businessinsider.com/russia-economy-saudi-arabia-oil-price-war-supply-opec-cuts-2024-10",
-            "urlToImage": "https://i.insider.com/670962933f2165d716e04b7e?width=1200&format=jpeg",
-            "publishedAt": "2024-10-13T07:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Anniek Bao",
-            "title": "China stocks volatile as investors assess Beijing's weekend stimulus pledges - CNBC",
-            "description": "China's deflation pressures deepened in September with consumer prices rising at their slowest pace in three months at 0.4% from a year earlier.",
-            "url": "https://www.cnbc.com/2024/10/14/asia-markets-live-updates-mof-press-conference-china-cpi-ppi-china-trade-data.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107219101-1680501610002-gettyimages-1417351241-vcg111397606754.jpeg?v=1728863046&w=1920&h=1080",
-            "publishedAt": "2024-10-13T06:45:00Z",
-            "content": "Asia-Pacific markets mostly rose Monday, as investors assessed China's weekend press briefing and awaited a slew of economic data this week from the region.\r\nMainland China's CSI 300 rose 1.9% to clo… [+2165 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KIRO Seattle"
-            },
-            "author": null,
-            "title": "400 hotel workers walk off the job in Seatac, demanding better conditions - KIRO Seattle",
-            "description": "According to UNITE HERE Local 8, the union representing the workers, the group is asking for higher wages and more staffing.",
-            "url": "https://www.kiro7.com/news/local/400-hotel-workers-walk-off-job-seattle-area/X7SYPNCZHZDLXAOTPUN7XBCQJA/",
-            "urlToImage": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/sIgVq2L1EnbUmw1rH-ywKUYU2bw=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7ARIHQAEUFFIZPQBHXTFLSQA2I.jpg",
-            "publishedAt": "2024-10-13T06:24:00Z",
-            "content": "SEATTLE — 400 hotel workers walked off the job Saturday at the Doubletree Seattle Airport and Seattle Airport Hilton &amp; Conference Center in Seatac.\r\nAccording to UNITE HERE Local 8, the union rep… [+1823 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ForexLive"
-            },
-            "author": "Newsquawk Analysis",
-            "title": "Newsquawk Week Ahead: US Retail Sales, ECB, inflation from Japan, NZ, UK and Canada - ForexLive",
-            "description": "Sun : Chinese Inflation Mon : OPEC MOMR, Chinese Trade Balance (Sep), Canada market holiday Tue : SARB Announcement, IEA OMR, UK Jobs Report (Aug/Sep), Swedish CPIF (Sep), German ZEW (Oct), Canadia...",
-            "url": "https://www.forexlive.com/centralbank/newsquawk-week-ahead-us-retail-sales-ecb-inflation-from-japan-nz-uk-and-canada-20241013/",
-            "urlToImage": "https://images.forexlive.com/fl-static/fl-thumbnail.jpg",
-            "publishedAt": "2024-10-13T04:05:00Z",
-            "content": "<ul><li>Sun: Chinese Inflation</li><li>Mon: OPEC MOMR, Chinese Trade Balance (Sep), Canada market holiday</li><li>Tue: SARB Announcement, IEA OMR, UK Jobs Report (Aug/Sep), Swedish CPIF (Sep), German… [+16940 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Spectre of low inflation returns to haunt Eurozone policymakers - Financial Times",
-            "description": "Weak growth and reduced price pressures could force European Central Bank to consider prolonged series of rate cuts",
-            "url": "https://www.ft.com/content/7ccb1742-1038-4e6b-8231-208824497ee9",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F224a6684-dfa7-43ec-b0b7-3b131d5152d2.jpg?source=next-barrier-page",
-            "publishedAt": "2024-10-13T04:01:11Z",
-            "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Te-Ping Chen",
-            "title": "America’s New Millionaire Class: Plumbers and HVAC Entrepreneurs - The Wall Street Journal",
-            "description": "Private equity is pouring money into skilled-trade small businesses; ‘Next thing you know, you’re running an empire’",
-            "url": "https://www.wsj.com/business/entrepreneurship/plumbers-hvac-skilled-trades-millionaires-2b62bf6c",
-            "urlToImage": "https://images.wsj.net/im-82604024/social",
-            "publishedAt": "2024-10-13T01:00:00Z",
-            "content": "Aaron Rice has two logos tattooed on his left leg: one from the plumbing business he co-founded more than a decade ago, and another from the private-equity-backed company that recently bought it.   \r… [+327 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "China’s Instagram-like Xiaohongshu hits $1bn in quarterly sales - Financial Times",
-            "description": "Shanghai-based start-up has been a rare success story in a sector hit by bankruptcies and falling valuations",
-            "url": "https://www.ft.com/content/81d4324a-1137-4c32-935f-bfb3f2b84a1a",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2487c452-3a62-48b2-9c4b-805f7e0cfc9e.jpg?source=next-barrier-page",
-            "publishedAt": "2024-10-13T00:16:21Z",
-            "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "THALIA BEATY",
-            "title": "Documents show OpenAI’s long journey from nonprofit to $157B valued company - The Associated Press",
-            "description": "Back in 2016, the artificial intelligence maker OpenAI had just incorporated as a nonprofit and applied to the Internal Revenue Service for tax-exempt status. The application shows the vast distance OpenAI and the technology that it researches and develops ha…",
-            "url": "https://apnews.com/article/openai-nonprofit-application-tax-exempt-status-ebf38549cdf0529fc5ec727e2815ed12",
-            "urlToImage": "https://dims.apnews.com/dims4/default/5b68a17/2147483647/strip/true/crop/5130x2886+0+267/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2b%2Fd7%2F31bf6579e360ea803a7df01d95e5%2F9295fc1a0b514b0da0a69abbef8aedda",
-            "publishedAt": "2024-10-12T21:52:00Z",
-            "content": "Back in 2016, a scientific research organization incorporated in Delaware and based in Mountain View, California, applied to be recognized as a tax-exempt charitable organization by the Internal Reve… [+4899 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Geoffrey Seiler, The Motley Fool",
-            "title": "Super Micro Computer Shares Surge on Shipment News. Can the Stock Continue to Rebound? - Yahoo Finance",
-            "description": "Supermicro stock has been on a roller-coaster ride this year.",
-            "url": "https://www.fool.com/investing/2024/10/12/super-micro-shares-surge-on-shipment-news-can-the/?source=eptyholnk0000202&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=500ff1a6-1827-42b6-ad18-a4ab075c4ce6",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-12T21:11:00Z",
-            "content": "After a strong start to the year, shares of Super Micro Computer(NASDAQ: SMCI) have been under a lot of pressure following a disappointing earnings report, unwanted attention from a notable short-sel… [+5001 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Jason Ma",
-            "title": "Trump Media stock soars after sudden reversal in election odds - Fortune",
-            "description": "On Friday, Trump Media stock surged 4.8% to close at $25.28, up 53% from last Friday's closing price.",
-            "url": "https://fortune.com/2024/10/12/djt-stock-donald-trump-media-shares-reversal-presidential-election-odds-kamala-harris/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/GettyImages-2177669332-e1728761400351.jpg?resize=1200,600",
-            "publishedAt": "2024-10-12T20:37:00Z",
-            "content": "Shares of Trump Media and Technology Group, the parent company of Truth Social, have jumped over the past week as betting markets started tilting toward former President Donald Trump.On Friday, the s… [+2138 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Jason Ma",
-            "title": "Almost everyone offered a job at Google accepts, and the CEO explains what it looks for in new hires - Fortune",
-            "description": "\"But we are really looking for superstar software engineers,\" Google CEO Sundar Pichai said.",
-            "url": "https://fortune.com/2024/10/12/how-to-get-a-job-at-google-ceo-sundar-pichai-entry-level-hiring/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/GettyImages-2173544976-e1728747381237.jpg?resize=1200,600",
-            "publishedAt": "2024-10-12T16:56:00Z",
-            "content": "Google CEO Sundar Pichai said he is proud of the overwhelming rate that applicants who are offered jobs accept them and explained what kind of talent the tech giant needs.In an interview with David R… [+2314 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Nicolas Vega, Celia Fernandez, Jennifer Liu",
-            "title": "Look inside an abandoned high school turned $3.3 million apartment complex—and 4 more multimillion-dollar dream homes - CNBC",
-            "description": "These ambitious homeowners thought outside the box when searching for their dream homes.",
-            "url": "https://www.cnbc.com/2024/10/12/look-inside-abandoned-properties-turned-multimillion-dollar-dream-homes.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107195286-1676491082543-residential_airpark_front.jpg?v=1676732701&w=1920&h=1080",
-            "publishedAt": "2024-10-12T14:05:01Z",
-            "content": "What lengths would you go to for your dream house? \r\nWould you move to another country? How about remodeling the interior of a space that was never meant to be a home at all?\r\nFor the Americans who i… [+7815 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Rick Newman",
-            "title": "This week in Bidenomics: The 'election trade' is on - Yahoo Finance",
-            "description": "Traders think they can profit from bets based on a Kamala Harris or Donald Trump presidential victory. Don't try this at home.",
-            "url": "https://finance.yahoo.com/news/this-week-in-bidenomics-the-election-trade-is-on-140020880.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-12T14:00:20Z",
-            "content": "Its finally here. Not the election itself, but the clearest opportunity yet to bet on election winners and losers.\r\nInvestors have been eyeing the election all year, since the outcome has major impli… [+6011 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Brian Heater",
-            "title": "Amazon’s Tye Brady discusses the next generation of robotic warehouses - TechCrunch",
-            "description": "For the last several years, the Delivering the Future event has showcased the latest technologies powering Amazon operations. Seattle's 2023 event",
-            "url": "https://techcrunch.com/2024/10/12/amazons-tye-brady-discusses-the-next-generation-robotic-warehouses/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/IMG_20231018_103820.webp?resize=1200,900",
-            "publishedAt": "2024-10-12T13:33:00Z",
-            "content": "For the last several years, the Delivering the Future event has showcased the latest technologies powering Amazon operations. Seattle’s 2023 event showcased updates to the companys pharmacy offerings… [+5441 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "China Says Major Disagreements Remain With EU Over EV Tariffs - Bloomberg",
-            "description": "China urged the European Union not to conduct price negotiations with individual electric vehicle manufacturers, as eight rounds of negotiations in Brussels failed to result in an agreement over planned tariffs by the bloc.",
-            "url": "https://www.bloomberg.com/news/articles/2024-10-12/china-says-major-disagreements-remain-with-eu-over-ev-tariffs",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOeODv9UOUSw/v1/1200x675.jpg",
-            "publishedAt": "2024-10-12T12:52:14Z",
-            "content": "China urged the European Union not to conduct price negotiations with individual electric vehicle manufacturers, as eight rounds of negotiations in Brussels failed to result in an agreement over plan… [+281 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Derek Saul",
-            "title": "Kamala Harris Has More Billionaires Openly Backing Her Than Trump (But Many Are Staying Silent) - Forbes",
-            "description": "The likes of Jeff Bezos and Bill Gates have shied away from offering endorsements like their ultrarich counterpart Elon Musk, but they have shared some thoughts about the two candidates.",
-            "url": "https://www.forbes.com/sites/dereksaul/2024/10/12/kamala-harris-has-more-billionaires-openly-backing-her-than-trump-but-many-are-staying-silent/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67095c59ce26ec99f236e2eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-10-12T12:00:00Z",
-            "content": "Forbes found at least 100 billionaires in the corners of either former President Donald Trump or Vice President Kamala Harriswith many more backing Harrisbut unlike the worlds richest man Elon Musk, … [+12242 chars]"
         }
     ]
 }

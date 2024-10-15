@@ -4,6 +4,71 @@
     "articles": [
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times",
+            "title": "How Healthy Is Broccoli? - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalkwNzgwOEIyLWczVFBRLURNUE4wdVJtNFhsbDRhdWtHcFMyZlhPekF4MHhzVF9DNTRjQWF4ZEdqU0pzMWU1eEU1MUVTOVBWS3Y5QUlVZDk0TVBON0J6VHFGclRjMzNwTUpFM1JydnRoSEM1UVByRVZEbEdoQmtpYVg4R3dlbzZh?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-10-14T09:00:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Mike McRae, Mike McRae",
+            "title": "Drinking Caffeine May Reduce Alzheimer's Clumps in The Brain, Study Finds - ScienceAlert",
+            "description": "The evidence is mounting.",
+            "url": "https://www.sciencealert.com/drinking-caffeine-may-reduce-alzheimers-clumps-in-the-brain-study-finds",
+            "urlToImage": "https://www.sciencealert.com/images/2024/10/woman_drinking_coffee.jpg",
+            "publishedAt": "2024-10-14T05:26:49Z",
+            "content": "Whether in your morning espresso, followed by an English breakfast with your toast, or a quick cup of instant between meetings, a moderate amount of caffeine throughout the day is associated with a r… [+3644 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fitandwell.com"
+            },
+            "author": "Alice Porter",
+            "title": "I tried a five-minute posture-fixing shoulder mobility routine and the results surprised me - Fit and Well",
+            "description": "If you work at a desk, just five minutes can help you shake off shoulder tension",
+            "url": "https://www.fitandwell.com/features/i-tried-a-five-minute-posture-fixing-shoulder-mobility-routine-and-the-results-surprised-me",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/3J737dhMm6saZYGxMZmybE-1200-80.jpg",
+            "publishedAt": "2024-10-14T05:00:00Z",
+            "content": "I've had a persistent knot in my shoulder for as long as I can remember and spending weekdays hunched over my laptop has probably exacerbated the issue. While it feels like there's no solution, stret… [+1789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Tracy Swartz",
+            "title": "1 in 4 US adults suspect they have undiagnosed ADHD: ‘Their parents didn’t believe’ - New York Post ",
+            "description": "“Symptoms of ADHD can look different between different people,” the study author said.",
+            "url": "https://nypost.com/2024/10/14/lifestyle/1-in-4-us-adults-suspect-they-have-undiagnosed-adhd-new-study/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/newspress-collage-f3arp9byy-1728688027030.jpg?quality=75&strip=all&1728673685&w=1024",
+            "publishedAt": "2024-10-14T04:01:00Z",
+            "content": "One in four US adults suspect they have undiagnosed ADHD, a new study finds, but only 13% have shared their concerns with a doctor.\r\nAttention-deficit/hyperactivity disorder is a developmental disord… [+3076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Carly Cassella, Carly Cassella",
+            "title": "'Absolutely Wild': Viruses Are Teeming on Your Toothbrush And Showerhead - ScienceAlert",
+            "description": "You've got company.",
+            "url": "https://www.sciencealert.com/absolutely-wild-viruses-are-teeming-on-your-toothbrush-and-showerhead",
+            "urlToImage": "https://www.sciencealert.com/images/2024/10/VirusesToothbrush.jpg",
+            "publishedAt": "2024-10-14T02:15:55Z",
+            "content": "You aren't the only one using your toothbrush\r\nResearchers at Northwestern University in the US have found an \"absolutely wild\" number of viruses living on the heads of our showers and the bristles o… [+3872 chars]"
+        },
+        {
+            "source": {
                 "id": "the-jerusalem-post",
                 "name": "The Jerusalem Post"
             },
@@ -69,32 +134,6 @@
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Melissa Rudy",
-            "title": "'I'm a radiologist — to reduce breast cancer risk, eat these 5 foods and follow these healthy habits' - Fox News",
-            "description": "Fox News medical contributor Dr. Nicole Saphier appeared on “Fox & Friends\" on Sunday to discuss the rising risk of breast cancer — and specific foods and habits that can help reduce it.",
-            "url": "https://www.foxnews.com/health/radiologist-reduce-breast-cancer-risk-eat-foods-follow-healthy-habits",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/nicole-saphier.jpg",
-            "publishedAt": "2024-10-13T19:05:00Z",
-            "content": "Breast cancer affects one in eight American women, with the number of diagnoses rising every year, statistics show.\r\nFox News medical contributor Dr. Nicole Saphier appeared on \"Fox &amp; Friends\" on… [+4935 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-13T18:50:20Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Neurosciencenews.com"
             },
@@ -118,6 +157,19 @@
             "urlToImage": null,
             "publishedAt": "2024-10-13T16:51:44Z",
             "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PsyPost"
+            },
+            "author": "Eric W. Dolan",
+            "title": "Antisocial personality disorder tied to hazardous alcohol and drug misuse - PsyPost",
+            "description": "People with antisocial personality disorder are more prone to severe alcohol, cannabis, and tobacco misuse, particularly hazardous use, highlighting the need for tailored treatment strategies for this high-risk population.",
+            "url": "https://www.psypost.org/antisocial-personality-disorder-tied-to-hazardous-alcohol-and-drug-misuse/",
+            "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/10/drunk-alcoholic-man.jpg",
+            "publishedAt": "2024-10-13T16:05:25Z",
+            "content": "A new study has shed light on the relationship between antisocial personality disorder and substance use disorders, revealing that people with antisocial personality disorder are significantly more l… [+7626 chars]"
         },
         {
             "source": {
@@ -238,6 +290,32 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "WGAL Susquehanna Valley Pa."
+            },
+            "author": "Tasmin Mahfuz",
+            "title": "October is Breast Cancer Awareness Month: Doctor discusses prevention, treatment - WGAL Susquehanna Valley Pa.",
+            "description": "The Centers for Disease Control and Prevention says breast cancer is the second most common cancer among women in the U.S.",
+            "url": "https://www.wgal.com/article/breast-cancer-awareness-month-october-2024/62547091",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/breast-cancer-awareness-ribbon-67059fc07e9f6.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+            "publishedAt": "2024-10-13T12:46:00Z",
+            "content": "October is Breast Cancer Awareness Month.\r\nThe Centers for Disease Control and Prevention says it's the second most common cancer among women in the U.S.\r\nAccording to the American Cancer Society, mo… [+372 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "UCI Scientists Discover Game-Changing Molecule for Parkinson’s Treatment - SciTechDaily",
+            "description": "A brain molecule has been found to reverse movement deficits in Parkinson’s, presenting a new potential therapeutic target. A research team from the University of California, Irvine is the first to reveal that a molecule in the brain – ophthalmic acid – unexp…",
+            "url": "https://scitechdaily.com/uci-scientists-discover-game-changing-molecule-for-parkinsons-treatment/",
+            "urlToImage": "https://scitechdaily.com/images/Parkinsons-Disease-Hand-Tremors.jpg",
+            "publishedAt": "2024-10-13T11:25:19Z",
+            "content": "Researchers from UC Irvine found that ophthalmic acid functions as a neurotransmitter, improving motor function in Parkinson’s models for over 20 hours. This discovery could lead to new treatments fo… [+4259 chars]"
+        },
+        {
+            "source": {
                 "id": "usa-today",
                 "name": "USA Today"
             },
@@ -330,6 +408,19 @@
         {
             "source": {
                 "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-13T07:33:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "HuffPost"
             },
             "author": "Leigh Weingus",
@@ -391,19 +482,6 @@
             "urlToImage": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2024/10/Chickens.jpg",
             "publishedAt": "2024-10-12T23:52:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Melissa Rudy",
-            "title": "ADHD now affects 15.5 million US adults, says new CDC report - Fox News",
-            "description": "Diagnoses of ADHD are on the rise among adults in the U.S. Approximately 15.5 million adults had a diagnosis in 2023, according to a new CDC report. A psychotherapist weighs in.",
-            "url": "https://www.foxnews.com/health/adhd-now-affects-15-5-million-us-adults-new-cdc-report",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/woman-adhd.jpg",
-            "publishedAt": "2024-10-12T22:47:00Z",
-            "content": "Diagnoses of ADHD (attention-deficit/hyperactivity disorder) are on the rise among adults in the U.S.\r\nApproximately 15.5 million adults had an ADHD diagnosis in 2023, according to a new report from … [+3715 chars]"
         },
         {
             "source": {
@@ -495,19 +573,6 @@
             "urlToImage": "https://kymkemp.com/wp-content/uploads/2024/10/Postcard-Humboldt-Project-Arcata-Plaza-1920-noresize.jpg",
             "publishedAt": "2024-10-12T18:29:31Z",
             "content": "Todays postcard shows a bustling scene of the west side of Arcata Plaza, mailed to Glendale, California, on this day in 1920. Its a slice of everyday life in Arcata, yet it sparks memories of how the… [+816 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Reflecting on Parents in Therapy Can Shift Childhood Memories - Neuroscience News",
-            "description": "New research suggests that reflecting on a parent in therapy can subtly alter how a person recalls feelings from childhood, even if the question is neutral.",
-            "url": "https://neurosciencenews.com/therapy-childhood-memories-27848/",
-            "urlToImage": "https://neurosciencenews.com/files/2024/10/therapy-child-memory-neurosicence.jpg",
-            "publishedAt": "2024-10-12T16:30:00Z",
-            "content": "Summary: New research suggests that reflecting on a parent in therapy can subtly alter how a person recalls feelings from childhood, even if the question is neutral. This process, known as reappraisa… [+6247 chars]"
         },
         {
             "source": {
@@ -710,12 +775,12 @@
                 "name": "Business Insider"
             },
             "author": "Serafina Kenny",
-            "title": "A 101-year-old former doctor who worked until he was 85 shared his 3 longevity secrets — including eating sardines - AOL",
-            "description": "William is 101 years old and walks and lifts weights daily. His doctor said he hopes to live a long life full and stay curious like his patient.",
+            "title": "A 101-year-old former doctor who worked until he was 85 shared his 3 longevity secrets — including eating sardines - Business Insider",
+            "description": "William is 101 years old and walks and lifts weights daily. His doctor says he hopes to live a long life and stay curious like his patient.",
             "url": "https://www.businessinsider.com/longevity-secrets-doctor-worked-2024-10",
-            "urlToImage": "https://media.zenfs.com/en/aol_insider_articles_823/79b4155753a697c62f7d7d79c57ec207",
-            "publishedAt": "2024-10-12T10:33:01Z",
-            "content": "William is 101 years old and still exercises every day.Sinai Health Foundation\r\n<ul><li>101-year-old William is active and lives independently.\r\n</li><li>He shared what he thinks are some of his secr… [+3506 chars]"
+            "urlToImage": "https://i.insider.com/67094aa1a7031864928137b3?width=1200&format=jpeg",
+            "publishedAt": "2024-10-12T10:33:00Z",
+            "content": null
         },
         {
             "source": {
@@ -758,81 +823,16 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": "the-times-of-india",
+                "name": "The Times of India"
             },
-            "author": "Rachel Hosie",
-            "title": "The easy way to calculate how much protein you need, according to a nutrition coach for Olympians and CrossFitters - Business Insider",
-            "description": "Protein is essential for our health, and particularly important for those who are active or trying to lose fat. Mike Molloy explained how to calculate how much protein you need.",
-            "url": "https://www.businessinsider.com/easy-calculate-how-much-protein-coach-olympians-2024-9",
-            "urlToImage": "https://i.insider.com/67068040a703186492807c61?width=1200&format=jpeg",
-            "publishedAt": "2024-10-12T09:32:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "Christine Ro",
-            "title": "What explains increasing anxiety about ultra-processed plant-based foods? - BBC.com",
-            "description": "Vegan diets can contain more UPFs on average – but this might not be a problem.",
-            "url": "https://www.bbc.com/future/article/20241011-what-explains-increasing-anxiety-about-ultra-processed-plant-based-foods",
-            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0jx6d7t.jpg",
-            "publishedAt": "2024-10-12T09:04:22Z",
-            "content": "Vegan diets can contain more UPFs on average but this might not be a problem.\r\nFor most people living in industrialised societies, it's difficult to avoid ultra-processed foods altogether. My cereal … [+14074 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Marilyn Perkins",
-            "title": "Why does meat have more protein than vegetables? - Livescience.com",
-            "description": "The biological needs of plants and animals affect their cells' protein content, but the story goes deeper than that.",
-            "url": "https://www.livescience.com/health/food-diet/why-does-meat-have-more-protein-than-vegetables",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Y2zLAapHafcXB7FinnqBPH-1200-80.jpg",
-            "publishedAt": "2024-10-12T09:00:00Z",
-            "content": "It's well known that vegetarians and vegans need to work a little harder to get their protein\r\n. Even popular meat replacements often aren't as protein-dense as their animal-based counterparts; for e… [+4894 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HuffPost"
-            },
-            "author": "Ashley Broadwater",
-            "title": "The Most Unexpected Sign Someone Is Having Suicidal Thoughts - HuffPost",
-            "description": "While a loved one appearing happy and carefree is a good thing, it may be a cause for concern in certain mental health cases.",
-            "url": "https://www.huffpost.com/entry/suicidal-thoughts-happy-mental-health-ano_l_67080340e4b0f3da64561aad",
-            "urlToImage": "https://img.huffingtonpost.com/asset/63ed10942100005600950c28.jpeg?cache=vZeTPEAdfZ&ops=1200_630",
-            "publishedAt": "2024-10-12T07:00:02Z",
-            "content": "Experts share what to do if someone has been struggling with their mental health and suddenly has a drastic shift in their outlook.\r\nWhen you first picture someone experiencing suicidal thoughts, you… [+7859 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Crohn’s treatment by Cambridge researchers sets global standard - BBC.com",
-            "description": "The trial reveals a \"highly effective\" and \"safer treatment strategy\" than is currently used.",
-            "url": "https://www.bbc.com/news/articles/cvglz1430n8o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58b4/live/c4c5d050-87ea-11ef-b403-c1aa1d1a1676.jpg",
-            "publishedAt": "2024-10-12T06:05:01Z",
-            "content": "The cause of Crohn's disease is unknown, but it has been linked to genetics and a problem with the immune system\r\nChanges in the way clinicians care for Crohns disease patients are now being made acr… [+3403 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-12T06:00:01Z",
-            "content": "[Removed]"
+            "author": "etimes.in",
+            "title": "8 Foods That Can Trigger Bloating - The Times of India",
+            "description": "Bloating commonly follows festive indulgence, stemming from foods rich in fiber, complex sugars, sulfur compounds, lactose, gluten, carbon dioxide, so",
+            "url": "https://timesofindia.indiatimes.com/life-style/food-news/8-foods-that-can-trigger-bloating/articleshow/114124309.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-114124391,width-1070,height-580,imgsize-29206,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-10-12T09:45:00Z",
+            "content": "Ammy Virk, Sargun Mehta, Gurnam Bhullar: Rising Punjabi stars"
         },
         {
             "source": {

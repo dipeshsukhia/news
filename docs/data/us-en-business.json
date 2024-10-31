@@ -1,84 +1,188 @@
 {
     "status": "ok",
-    "totalResults": 53,
+    "totalResults": 61,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Private job creation totaled a stunning 233,000 in October, far more than expected, ADP says - CNBC",
+            "description": "ADP said it was the best month for job creation since July 2023.",
+            "url": "https://www.cnbc.com/2024/10/30/private-job-creation-totaled-a-stunning-233000-in-october-far-more-than-expected-adp-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108048508-1729093052528-gettyimages-2164978799-ms1_7617_qgcxhxhg.jpeg?v=1729093097&w=1920&h=1080",
+            "publishedAt": "2024-10-30T12:15:11Z",
+            "content": "Private-job creation burst to its highest level in more than a year during October, despite a devastating storm season in the Southeast and major labor disruptions, ADP reported Wednesday.\r\nThe payro… [+2150 chars]"
+        },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Deborah Sophia, Kenrick Cai",
-            "title": "Alphabet's AI investments boost cloud sales, lifts maturing ad business - Reuters",
-            "description": "Google parent Alphabet said on Tuesday its AI investments were \"paying off\" as it reported a 35% surge in its cloud business and U.S. election-related spending lifted YouTube ad sales in the third quarter.",
-            "url": "https://www.reuters.com/technology/google-parent-alphabet-beats-quarterly-revenue-estimates-2024-10-29/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ND346NKUBFLWJILYFJZ7JMWGNE.jpg?auth=8a11d64a1e1355e2f57344e7c71d139793f1236f9a5845b8d619b1193494d4eb&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-10-30T05:45:00Z",
+            "author": "Christina Amann, Andrey Sychev",
+            "title": "VW faces strikes over 'Pandora's box' of plant closures as profits plunge - Reuters",
+            "description": "Workers at Volkswagen threatened strikes on Wednesday unless management backed down from planned factory closures in Germany, spelling more trouble as profits at Europe's biggest carmaker plunged to a three-year low.",
+            "url": "https://www.reuters.com/business/autos-transportation/volkswagen-reports-third-quarter-profit-slump-major-overhaul-looms-2024-10-30/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/24H77ZPMQBLBFPKZW5KHTOMKRY.jpg?auth=6dcf28ef56e0d8a683c79152fb838bbdfa592f434bb778a7f3e128ea581ae91a&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-10-30T11:52:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "CHRISTOPHER RUGABER",
+            "title": "Jobs report on eve of election will be among the most distorted in years - The Associated Press",
+            "description": "Four days before Election Day, the government will issue its final snapshot of hiring and unemployment in the United States after a presidential race in which voter perceptions of the economy have played a central role. Yet Friday’s report will include some o…",
+            "url": "https://apnews.com/article/jobs-election-economy-hurricane-hiring-unemployment-rate-c19551c5ffbff5e0f8d06e1fcee2370e",
+            "urlToImage": "https://dims.apnews.com/dims4/default/19748f1/2147483647/strip/true/crop/5621x3162+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F56%2F09%2F3503c3c6f2c24dcf2d340991871b%2F9e7951e2b10e47268d2d2c5063d798fe",
+            "publishedAt": "2024-10-30T11:21:00Z",
+            "content": "WASHINGTON (AP) Four days before Election Day, the government will issue its final snapshot of hiring and unemployment in the United States after a presidential race in which voter perceptions of the… [+6548 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annika Kim Constantino",
+            "title": "Eli Lilly stock tumbles 10% after drug giant misses estimates and slashes profit guidance - CNBC",
+            "description": "Skyrocketing demand for weight loss and diabetes drugs has forced Eli Lilly and Novo Nordisk, to invest billions to increase manufacturing capacity.",
+            "url": "https://www.cnbc.com/2024/10/30/eli-lilly-lly-earnings-q3-2024.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107386526-17102774692023-03-01t183627z_95571214_rc24lz9u1qcj_rtrmadp_0_lilly-insulin.jpeg?v=1710277547&w=1920&h=1080",
+            "publishedAt": "2024-10-30T10:57:34Z",
+            "content": "Eli Lilly on Wednesday fell short of profit and revenue expectations for the third quarter, weighed down by disappointing sales of its blockbuster weight loss drug Zepbound and diabetes treatment Mou… [+4328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annika Kim Constantino",
+            "title": "Biogen tops estimates, raises profit guidance as Alzheimer's drug Leqembi gains traction - CNBC",
+            "description": "Leqembi, along with rare disease and depression treatments, helped offset a year-over-year decline in revenue for the company's multiple sclerosis products.",
+            "url": "https://www.cnbc.com/2024/10/30/biogen-biib-earnings-q3-2024.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107371253-17074363572021-12-01t015552z_1514391558_rc2a5r9skh07_rtrmadp_0_biogen-results.jpeg?v=1713964541&w=1920&h=1080",
+            "publishedAt": "2024-10-30T10:50:27Z",
+            "content": "Biogen on Wednesday reported third-quarter revenue and adjusted earnings that topped expectations while raising its full-year profit guidance, as sales of its breakthrough Alzheimer's drug, Leqembi, … [+1992 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "Stocks have rarely been this expensive versus bonds. Now, UBS expects that to change. - MarketWatch",
+            "description": null,
+            "url": "https://www.marketwatch.com/story/stocks-have-rarely-been-this-expensive-versus-bonds-now-ubs-expects-that-to-change-24a76869",
+            "urlToImage": null,
+            "publishedAt": "2024-10-30T10:43:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "CNBC"
             },
-            "author": "Winnie Hsu",
-            "title": "Asian Stocks Fall as Caution Abounds, Japan Gains: Markets Wrap - Yahoo Finance",
-            "description": "(Bloomberg) -- Stocks in Asia declined as traders braced for volatility ahead of next week’s US election and the Federal Reserve’s rate decision. Most Read...",
-            "url": "https://finance.yahoo.com/news/asia-set-muted-open-mixed-222810642.html",
-            "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/89c0a6a67f7f7e34cfb58d35c870eeda",
-            "publishedAt": "2024-10-30T05:41:57Z",
-            "content": "(Bloomberg) -- Stocks in Asia declined as traders braced for volatility ahead of next weeks US election and the Federal Reserves rate decision.\r\nMost Read from Bloomberg\r\nBenchmarks in mainland China… [+4738 chars]"
+            "author": "Jenni Reid",
+            "title": "Euro zone growth hits two-year high of 0.4%, beating expectations - CNBC",
+            "description": "Economists polled by Reuters expected 0.2% growth following the bloc's 0.3% expansion in the second quarter.",
+            "url": "https://www.cnbc.com/2024/10/30/euro-zone-gdp-q3-2024.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108054676-1730280748957-gettyimages-1555315025-_per4262.jpeg?v=1730280804&w=1920&h=1080",
+            "publishedAt": "2024-10-30T10:03:03Z",
+            "content": "The euro zone economy grew 0.4% in the third quarter, flash figures published by the European Union's statistics agency showed Wednesday.\r\nEconomists polled by Reuters had expected growth of 0.2%. fo… [+2957 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NDTV News"
+                "name": "Fox Business"
             },
-            "author": "NDTV News Desk",
-            "title": "Elon Musk Buys $35 Million Mansion To House All 11 Children, Their Mothers - NDTV",
-            "description": "Elon Musk, a billionaire, is planning an unconventional family situation in which he will bring all 11 children and their mothers under one roof.",
-            "url": "https://www.ndtv.com/world-news/elon-musk-buys-35-million-mansion-for-his-11-children-their-mothers-report-6905178",
-            "urlToImage": "https://c.ndtvimg.com/2023-09/c5s8nqeg_elon-musk-with-tau-1200_625x300_11_September_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2024-10-30T03:55:35Z",
-            "content": "Elon Musk, a billionaire, is planning an unconventional family situation in which he will bring all 11 children and their mothers under one roof. He has acquired a 14,400-square-foot mansion and anot… [+1368 chars]"
+            "author": "Eric Revell",
+            "title": "What do betting markets say about control of Congress? - Fox Business",
+            "description": "Betting markets are weighing in on whether Democrats or Republicans will control Congress after the election, with both the House of Representatives and the Senate up for grabs.",
+            "url": "https://www.foxbusiness.com/politics/what-do-betting-markets-say-about-control-congress",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/election-polling-place-booths.jpg?ve=1&tl=1",
+            "publishedAt": "2024-10-30T10:00:00Z",
+            "content": "Election Day\r\n is less than a week away and voters are already heading to the polls and mailing in their ballots, and betting markets have weighed in on whether Republicans or Democrats are favored t… [+4427 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "TheStreet"
+                "name": "Barron's"
             },
-            "author": "Rob Lenihan",
-            "title": "Veteran analyst who predicted SoFi's stock rally updates forecast after earnings - TheStreet",
-            "description": "Here's what could happen to SoFi shares next",
-            "url": "https://www.thestreet.com/investing/stocks/veteran-fund-manager-who-predicted-sofis-stock-rally-updates-outlook-after-earnings",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTgxNDI4MjY4MDk0NzI3Mjcx/sofi-technologies_2_060121.jpg",
-            "publishedAt": "2024-10-30T02:12:56Z",
-            "content": "Veteran analyst Stephen Guilfoyle, whose career stretches back to the 1980s on the floor of the New York Stock Exchange, tries not to repeat himself, but when it comes to SoFi Technologies,  (SOFI) ,… [+5103 chars]"
+            "author": "Barron's",
+            "title": "Snap Earnings Beat Expectations. The Stock Is Jumping. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/snap-snapchat-stock-price-earnings-2700e2ab",
+            "urlToImage": null,
+            "publishedAt": "2024-10-30T09:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lara O'Reilly, Rob Price, Hugh Langley, Sydney Bradley",
+            "title": "Big Tech workers got too used to perks. The pampering is over. - Business Insider",
+            "description": "Meta's 'Grubhubgate' speaks to a bigger culture shift in Silicon Valley — and a festering distrust between employers and employees.",
+            "url": "https://www.businessinsider.com/big-tech-workers-pushed-limits-of-perks-benefits-pampering-over-2024-10",
+            "urlToImage": "https://i.insider.com/672147aca0a0cc14f224c63e?width=1200&format=jpeg",
+            "publishedAt": "2024-10-30T09:00:00Z",
+            "content": "For more than a decade, Big Tech companies doled out lavish perks to hire and retain a limited supply of technical talent and some workers pushed the limits of these benefits.\r\n\"Grubgate,\" where Meta… [+7748 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "pymnts.com"
+                "name": "[Removed]"
             },
-            "author": "PYMNTS",
-            "title": "Visa Direct Transactions Leap 38%, Tokens Pass 11.5 Billion Milestone - PYMNTS.com",
-            "description": "Visa’s fiscal fourth quarter results underscored the payment network’s traction beyond card payments, as new payment flows in particular gained momentum.",
-            "url": "https://www.pymnts.com/visa/2024/visa-direct-transactions-leap-38-tokens-pass-11-5-billion-milestone/",
-            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/10/Visa-earnings-1.jpg",
-            "publishedAt": "2024-10-30T01:39:39Z",
-            "content": "Visas fiscal fourth quarter results underscored the payment networks traction beyond card payments, as new payment flows in particular gained momentum. Commentary from the call and from the earnings … [+4714 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-30T07:54:51Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "pymnts.com"
+                "name": "[Removed]"
             },
-            "author": "PYMNTS",
-            "title": "Visa to Lay Off 1,400 as It Streamlines International Business - PYMNTS.com",
-            "description": "Visa will reportedly lay off 1,400 employees and contractors, including about 1,000 in technology positions, by the end of the year. The company aims to",
-            "url": "https://www.pymnts.com/visa/2024/visa-to-lay-off-1400-as-it-streamlines-international-business/",
-            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/10/Visa-lay-off.jpg",
-            "publishedAt": "2024-10-30T01:30:00Z",
-            "content": "Visa will reportedly lay off 1,400 employees and contractors, including about 1,000 in technology positions, by the end of the year.\r\nThe company aims to streamline its international business with th… [+1954 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-30T06:32:02Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "US economy seen shining on election eve amid robust consumer spending - Reuters",
+            "description": "The U.S. economy likely maintained a solid pace of growth in the third quarter as subsiding inflation and strong wage gains powered consumer spending ahead of a contentious presidential election set to turn on pocketbook issues.",
+            "url": "https://www.reuters.com/markets/us/us-economy-seen-shining-election-eve-amid-robust-consumer-spending-2024-10-30/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/QGU54JBXLJPWLOH6EINWB6TSDE.jpg?auth=1537e1968d1b676e5fc72bbe1e57ba132c237d4a2c3eabe53ba0dd1a24711b00&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-10-30T04:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "KEVIN McGILL",
+            "title": "Elon Musk wins court victory in a dispute over a 2018 post during a labor dispute - The Associated Press",
+            "description": "A federal appeals court says the National Labor Relations Board was wrong to order that Tesla CEO Elon Musk delete a 2018 social media post that union leaders saw as a threat to employee stock options. The 9-8 ruling by the 5th U.S. Circuit Court of Appeals v…",
+            "url": "https://apnews.com/article/elon-musk-uaw-twitter-nlrb-tesla-5fab2a42b9543f7702deed80d79c7d02",
+            "urlToImage": "https://dims.apnews.com/dims4/default/845f764/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F17%2Ff9%2F762fbabcf761109b0aefee299354%2Ff09c7ee2a651455dbcf09528321cc4e0",
+            "publishedAt": "2024-10-30T01:58:00Z",
+            "content": "NEW ORLEANS (AP) A federal agency was wrong to order that Tesla CEO Elon Musk delete a 2018 social media post that union leaders saw as a threat to employee stock options, a sharply divided federal a… [+2870 chars]"
         },
         {
             "source": {
@@ -95,42 +199,29 @@
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": null,
+                "name": "TheStreet"
             },
-            "author": "Ahjané Forbes",
-            "title": "Mega Millions winning numbers for October 29 drawing: Jackpot rises to $250 million - USA TODAY",
-            "description": "Mega Millions players, are you feeling lucky? The winning numbers are in for the Oct. 29 drawing! Here are the results.",
-            "url": "https://www.usatoday.com/story/money/lottery/2024/10/29/mega-millions-winning-numbers/75922989007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/22/USAT/73072171007-usatsi-22816449.jpg?crop=4031,2268,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2024-10-30T01:02:03Z",
-            "content": "The Mega Millions jackpot has grown to an estimated $250 million for Tuesday's drawing after no one claimed the top prize on Friday.\r\nThe winning numbers will be drawn just after 11 p.m. on Tuesday a… [+3051 chars]"
+            "author": "Patricia Battle",
+            "title": "McDonald’s US sales face major threat despite small progress - TheStreet",
+            "description": "The fast-food chain has another major problem on its hands.",
+            "url": "https://www.thestreet.com/restaurants/mcdonalds-us-sales-face-major-threat-despite-small-progress",
+            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA5ODY3NDcwMjgwODYxMzUz/mcdonalds-sues-its-top-suppliers-over-unsettled-beef.jpg",
+            "publishedAt": "2024-10-30T00:33:00Z",
+            "content": "McDonald’s (MCD) is facing a lot of headwinds, and the gusts are making it more challenging for the company to significantly repair its weak sales.\r\nThe fast-food chain just recently revealed its thi… [+3755 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Tipranks.com"
             },
-            "author": "Yeo Boon Ping",
-            "title": "CNBC Daily Open: Everyone loves Reddit - CNBC",
-            "description": "Our social media habits are so ingrained they're almost automatic and essential. Little surprise, then, that the companies behind them are flourishing.",
-            "url": "https://www.cnbc.com/2024/10/30/cnbc-daily-open-everyone-loves-reddit.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108054583-1730249846754-gettyimages-2023785321-porzycki-redditip240222_np5qf.jpeg?v=1730249875&w=1920&h=1080",
-            "publishedAt": "2024-10-30T01:02:00Z",
-            "content": "This report is from today's CNBC Daily Open, our international markets newsletter. CNBC Daily Open brings investors up to speed on everything they need to know, no matter where they are. Like what yo… [+3991 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Pia Singh",
-            "title": "S&P 500 futures rise after Alphabet posts earnings beat: Live updates - CNBC",
-            "description": "A slew of key quarterly reports kicked off the busiest week of earnings season.",
-            "url": "https://www.cnbc.com/2024/10/29/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108036819-17267845342024-09-19t203208z_22044217_rc2w3aau5wyl_rtrmadp_0_usa-stocks.jpeg?v=1726846198&w=1920&h=1080",
-            "publishedAt": "2024-10-30T00:40:00Z",
-            "content": "S&amp;P 500 futures rose on Tuesday night, as traders prepared for additional reports from major tech companies and looked ahead to a key reading on the economy's growth. \r\nFutures tied to the broad … [+1829 chars]"
+            "author": "Marty Shtrubel",
+            "title": "All Eyes on Microsoft Stock Ahead of Earnings — Here’s What Joel Fishbein Expects - TipRanks",
+            "description": "Microsoft (NASDAQ:MSFT) is set to lead the lineup of market giants reporting earnings this week, with its fiscal first-quarter (June quarter) results scheduled for ...",
+            "url": "https://www.tipranks.com/news/all-eyes-on-microsoft-stock-ahead-of-earnings-heres-what-joel-fishbein-expects",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/10/Joel-Fishbein-MSFT-750x406.jpg",
+            "publishedAt": "2024-10-30T00:29:58Z",
+            "content": "Microsoft (NASDAQ:MSFT) is set to lead the lineup of market giants reporting earnings this week, with its fiscal first-quarter (June quarter) results scheduled for release on Wednesday after market c… [+2895 chars]"
         },
         {
             "source": {
@@ -147,6 +238,97 @@
         },
         {
             "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Abigail Summerville",
+            "title": "Nasdaq hits record high as Alphabet earnings beat estimates - Reuters",
+            "description": "The Nasdaq scored a record closing high and the S&P 500 rose on Tuesday, while the Dow fell as investors digested a host of corporate earnings and awaited Google-parent Alphabet's results that came after the market close.",
+            "url": "https://www.reuters.com/markets/us/futures-tread-water-amid-earnings-deluge-ford-falls-2024-10-29/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/3QCBLA34KNPENKAHTWCENZN5MA.jpg?auth=918c956d7ec62ea967bce711467b0bf009f959bb5fef2fd1ecf009d4af012f3b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-10-29T23:34:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Matt G. Southern",
+            "title": "Google Q3 Report: AI Drives Growth Across Search, Cloud, & YouTube - Search Engine Journal",
+            "description": "Google reports 15% revenue growth as AI features expand across search and cloud services, driving record quarterly results.",
+            "url": "https://www.searchenginejournal.com/google-q3-report-ai-drives-growth-across-search-cloud-youtube/531196/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/10/img_2024-10-29-185322-32.jpeg",
+            "publishedAt": "2024-10-29T22:55:02Z",
+            "content": "Alphabet Inc. reported its third-quarter earnings, with revenues reaching $88.3 billion, a 15% increase from last year.\r\nThe Google parent company’s operating margin expanded to 32% from 27.8% year-o… [+3016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-29T22:06:31Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Ariel Zilber",
+            "title": "Dad of 11 Elon Musk buys $35M secret luxury compound for his children — and two of their moms - New York Post ",
+            "description": "Elon Musk reportedly wants to build a secret family compound for the two of the three mothers of his 11 children – even though just one has so far agreed to move in. The Tesla CEO has reportedly pu…",
+            "url": "https://nypost.com/2024/10/29/business/elon-musk-building-compound-for-his-11-kids-and-their-mothers-r/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/elon-musk-grimes-son-x-92641418.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-10-29T21:33:00Z",
+            "content": "Elon Musk reportedly wants to build a secret family compound for the two of the three mothers of his 11 children even though just one has so far agreed to move in.\r\nThe Tesla CEO has reportedly purch… [+4812 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Daily News"
+            },
+            "author": "David Matthews",
+            "title": "U.S. airlines required to give automatic refunds for canceled, delayed flights - New York Daily News",
+            "description": "The new rule requiring airlines to give passengers automatic cash refunds when a flight is significantly delayed or canceled went into full effect this week.",
+            "url": "http://www.nydailynews.com/2024/10/29/airlines-automatic-cash-refunds-canceled-delayed-flights/",
+            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/migration/2023/01/11/R4XIU5QHM5BO3EYQAQ3SQVSLJE.jpg?w=1024&h=670",
+            "publishedAt": "2024-10-29T21:32:41Z",
+            "content": "U.S.-based airlines are now required to give passengers automatic cash refunds when a flight is significantly delayed or canceled — even if the customer doesn’t ask for one — under a new Department o… [+1733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Josh Lipton",
+            "title": "Reddit, First Solar, Caesars, Chewy: Stocks In Focus - Yahoo Finance",
+            "description": "Shares of social media platform Reddit (RDDT) are soaring in extended hours on its third quarter earnings results. Energy company First Solar (FSLR), on the ...",
+            "url": "https://finance.yahoo.com/video/reddit-first-solar-caesars-chewy-213035785.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zEfn7kJTknGhoWJGXEyNLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/fb8ef930-963c-11ef-afbd-05952e661518",
+            "publishedAt": "2024-10-29T21:30:35Z",
+            "content": "Shares of social media platform Reddit (RDDT) are soaring in extended hours on its third quarter earnings results.\r\nEnergy company First Solar (FSLR), on the other hand, is taking a dip on its earnin… [+466 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "HARRISON MILLER, Investor's Business Daily",
+            "title": "Visa Beats Estimates With 'Stable' Volumes; Mastercard On Deck - Investor's Business Daily",
+            "description": "Visa topped Q4 2024 results late Tuesday as shares trade in a base. Rival Mastercard, near record highs, reports Thursday.",
+            "url": "https://www.investors.com/news/visa-stock-dow-jones-q4-2024-earnings-mastercard/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2020/02/Stock-CreditCards-09-shutt.jpg",
+            "publishedAt": "2024-10-29T21:27:00Z",
+            "content": "Dow Jones payments giant Visa cleared estimates for fourth-quarter results late Tuesday, prompting shares to surge after hours. Rival Mastercard (MA) reports its Q3 earnings early Thursday.\r\nXNOW PLA… [+3484 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Cointelegraph"
             },
@@ -156,7 +338,7 @@
             "url": "https://cointelegraph.com/news/bitcoin-hits-73-6-k-as-fundamentals-suggest-new-all-time-highs-are-programmed",
             "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-10/0192d994-f7e8-7831-8b25-03048c87afa9",
             "publishedAt": "2024-10-29T21:03:33Z",
-            "content": "Bitcoin (BTC) price sprinted toward its all-time high at $73,800, and this move differs from recent rallies as several fundamentals suggest that the bull market is shifting into a higher gear. \r\nHere… [+5227 chars]"
+            "content": "Bitcoin (BTC) price sprinted toward its all-time high at $73,800, and this move differs from recent rallies as several fundamentals suggest that the bull market is shifting into a higher gear. \r\nHere… [+5223 chars]"
         },
         {
             "source": {
@@ -166,10 +348,23 @@
             "author": "Daniel Howley",
             "title": "AMD Q3 earnings: Stock falls as Q4 outlook disappoints - Yahoo Finance",
             "description": "AMD stock fell Tuesday, after the company provided a Q4 forecast below expectations.",
-            "url": "https://finance.yahoo.com/news/amd-q3-earnings-stock-falls-as-q4-outlook-disappoints-170138497.html",
+            "url": "https://finance.yahoo.com/news/amd-q3-earnings-stock-tumbles-as-q4-outlook-disappoints-170138185.html",
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZzCTE5NQCJhOCFS_F0KFEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/bf355360-4f6c-11ef-8f7b-d59c26ffd5f2",
             "publishedAt": "2024-10-29T20:58:52Z",
-            "content": "AMD (AMD) reported its fiscal third quarter earnings on Tuesday, meeting expectations on earnings per share and beating on revenue. But Wall Street wasn't too keen on the company's Q4 revenue outlook… [+2427 chars]"
+            "content": "AMD (AMD) reported its fiscal third quarter earnings on Tuesday, meeting expectations on earnings per share and beating on revenue. But Wall Street wasn't too keen on the company's Q4 revenue outlook… [+2422 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OilPrice.com"
+            },
+            "author": "Julianne Geiger",
+            "title": "Unexpected Crude, Product Draws Send Oil Prices Up - OilPrice.com",
+            "description": "The U.S. API reported draws across the board this week, leading to a small jump in crude oil prices",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Unexpected-Crude-Product-Draws-Send-Oil-Prices-Up.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2024-10-29_kbufsgbpcr.jpg",
+            "publishedAt": "2024-10-29T20:51:42Z",
+            "content": "During a webinar on Wednesday hosted by…\r\nCoal still accounts for about…\r\nBy Julianne Geiger - Oct 29, 2024, 3:51 PM CDTCrude oil inventories in the United fell by 573,000 barrels for the week ending… [+1785 chars]"
         },
         {
             "source": {
@@ -187,41 +382,15 @@
         {
             "source": {
                 "id": null,
-                "name": "The Points Guy"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Caroline Tanner",
-            "title": "Here's what you need to know about the new airline refund rules - The Points Guy",
-            "description": "As of Oct. 28, U.S. travelers are entitled to compensation from airlines for canceled or significantly delayed flights, per the U.S. Department of Transportation.",
-            "url": "https://thepointsguy.com/news/new-automatic-airline-refund-rules/",
-            "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2024/10/GettyImages-2179655880.jpg",
-            "publishedAt": "2024-10-29T20:35:00Z",
-            "content": "As of Oct. 28, U.S. travelers are officially entitled to compensation from airlines for canceled or significantly delayed flights, per three new rules from the U.S. Department of Transportation.\r\nThe… [+3603 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "MarketWatch",
-            "title": "Chipotle’s new CEO maintains focus on faster service as sales fall short - MarketWatch",
-            "description": null,
-            "url": "https://www.marketwatch.com/story/chipotle-sales-trends-come-up-short-and-stock-falls-549ce9d9",
-            "urlToImage": null,
-            "publishedAt": "2024-10-29T20:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Alex Weprin",
-            "title": "Snapchat Adds 37M Active Users, Plans 2025 Launch for Revamped “Simple” App - Hollywood Reporter",
-            "description": "In its third-quarter earnings report, Snap warned investors of \"near term disruption\" connected to the launch of the new Snapchat.",
-            "url": "http://www.hollywoodreporter.com/business/business-news/simple-snapchat-app-launch-2025-q3-2024-earnings-1236048113/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/GettyImages-2172680802.jpg?crop=0px%2C156px%2C5000px%2C2798px&resize=1440%2C810",
-            "publishedAt": "2024-10-29T20:27:55Z",
-            "content": "Snap Inc. says that its Snapchat app added 37 million daily active users in its third quarter, giving it 443 million total, and that time spent watching content rose by 25 percent year over year.\r\nRe… [+2753 chars]"
+            "author": "Pras Subramanian",
+            "title": "Ford stock falls despite Q3 sales beat as the automaker guides to lower end of 2024 profit forecast - Yahoo Finance",
+            "description": "Ford reported third quarter earnings after the bell on Monday, beating on revenue but bringing down its full-year profit forecast to the lower end of its...",
+            "url": "https://finance.yahoo.com/news/ford-stock-falls-despite-q3-sales-beat-as-the-automaker-guides-to-lower-end-of-2024-profit-forecast-114411377.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CutWNybdolISlsMCVYhu7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/fd1750d0-2b26-11ef-af77-f939d2bd89b9",
+            "publishedAt": "2024-10-29T20:38:41Z",
+            "content": "Ford (F) reported third quarter earnings after the bell on Monday, beating on revenue but guiding to the lower end of its full-year forecast.\r\nThe automaker's results follow rival GMs (GM) blowout Q3… [+3859 chars]"
         },
         {
             "source": {
@@ -229,12 +398,12 @@
                 "name": "Benzinga"
             },
             "author": "Chris Katje",
-            "title": "Meta Platforms Q3 Earnings Preview: AI In Focus With New Search Engine Plans, Analyst Says Company 'Well Positioned' - Benzinga",
-            "description": "With a report that Meta Platforms is building its own search engine, an analyst sees the company's Q3 commentary hitting harder on AI.",
-            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/10/41610726/meta-platforms-q3-earnings-preview-ai-in-focus-with-new-search-engine-plans-analyst",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/10/29/High-Salary-Employee-Among-Those-Dismiss.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2024-10-29T20:12:40Z",
-            "content": "A new report that Meta Platforms IncMETA is building its own search engine could put a greater emphasis on AI growth when the company reports third-quarter results after market close Wednesday. \r\nEar… [+3630 chars]"
+            "title": "Chipotle Q3 Earnings Highlights: Revenue Miss, EPS Beat, Store Guidance Update, 'Strong Results Led By Transaction Growth' - Benzinga",
+            "description": "Chipotle beat earnings per share estimates from analysts but saw shares trade lower after missing revenue estimates in the third quarter.",
+            "url": "https://www.benzinga.com/news/earnings/24/10/41611783/chipotle-q3-earnings-highlights-revenue-miss-eps-beat-store-guidance-update-strong-results-led-by-t",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/10/29/Chipotle-Carne-Asada-2.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-10-29T20:36:13Z",
+            "content": "Restaurant stock Chipotle Mexican Grill CMG reported third-quarter financial results after the market close Tuesday.\r\nHere are the key highlights.\r\nWhat Happened: Chipotle reported third-quarter reve… [+2137 chars]"
         },
         {
             "source": {
@@ -248,6 +417,19 @@
             "urlToImage": null,
             "publishedAt": "2024-10-29T20:04:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "MICHAEL LARKIN, Investor's Business Daily",
+            "title": "Worried About A Trump Or Harris Election Win? Here's What To Do Now - Investor's Business Daily",
+            "description": "The election odds seem to be tipping in favor of Donald Trump, though Kamala Harris remains close. Should stock market investors worry?",
+            "url": "https://www.investors.com/research/donald-trump-kamala-harris-election-stock-market-reaction-sp500-nasdaq/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/08/marketdiem_TrumpHarris_split.jpg",
+            "publishedAt": "2024-10-29T20:02:00Z",
+            "content": "The election odds seem to be tipping in favor of former President Donald Trump. However, Democratic candidate Kamala Harris remains well within striking distance in what remains a razor-close race. B… [+7232 chars]"
         },
         {
             "source": {
@@ -278,15 +460,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "Investor's Business Daily"
             },
-            "author": "Eric Revell",
-            "title": "Job openings tumble more than expected to the lowest since January 2021 - Fox Business",
-            "description": "The Labor Department's JOLTS report for September showed fewer job openings than expected, with the number of unfilled positions at its lowest level since January 2021.",
-            "url": "https://www.foxbusiness.com/economy/job-openings-tumble-more-than-expected-lowest-since-january-2021",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/jobs-fair.jpg?ve=1&tl=1",
-            "publishedAt": "2024-10-29T19:40:00Z",
-            "content": "The number of job openings\r\n in the U.S. unexpectedly fell in September to the lowest level since January 2021, suggesting that the labor market is continuing to ease. \r\nJob openings declined by 418,… [+3159 chars]"
+            "author": "RYAN DEFFENBAUGH, Investor's Business Daily",
+            "title": "Meta Stock Rising Ahead Of Q3 Earnings. Investors Watching AI Spending, Ad Strength. - Investor's Business Daily",
+            "description": "Meta stock has rocketed more than 500% from its late-2022 nadir but faces a test of its strength Wednesday with its Q3 earnings report.",
+            "url": "https://www.investors.com/news/technology/meta-stock-q3-preview-2024-facebook-ai/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/12/Stock-metafacebook-01-shutt.jpg",
+            "publishedAt": "2024-10-29T19:48:00Z",
+            "content": "Meta Platforms (META) stock has rocketed more than 500% from its late-2022 nadir. But the Facebook parent's stock faces a test of its strength on Wednesday, when third-quarter results come due.\r\nXNOW… [+5105 chars]"
         },
         {
             "source": {
@@ -304,54 +486,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Benzinga"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Chris Katje",
-            "title": "Microsoft Q1 Earnings Preview: What Investors Should Watch In Cloud, AI, Azure On Wednesday - Benzinga",
-            "description": "Microsoft will likely highlight Azure, Cloud and AI growth when the company reports Q1 results Wednesday, Oct. 30.",
-            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/10/41608886/microsoft-q1-earnings-preview-what-investors-should-watch-in-cloud-ai-azure-on-wedn",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/10/29/Preference-Over-Microsoft-News.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2024-10-29T18:51:44Z",
-            "content": "Technology giant Microsoft CorporationMSFT is likely to highlight its expanding investments in artificial intelligence and growing revenue in the cloud sector when the company reports first-quarter f… [+3419 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Tess Martinelli",
-            "title": "My daughter ate at McDonald's and got sick 10 days later. Now she's hospitalized with E. coli and acute kidney failure. - Business Insider",
-            "description": "A young girl was diagnosed with a life-threatening complication from E. coli, around the same time as the McDonald's E. coli outbreak.",
-            "url": "https://www.businessinsider.com/daughter-hospitalized-e-coli-during-mcdonalds-outbreak-2024-10",
-            "urlToImage": "https://i.insider.com/672106b29b3250dbbceac771?width=1200&format=jpeg",
-            "publishedAt": "2024-10-29T18:48:00Z",
-            "content": "This as-told-to essay is based on a conversation with Brittany Randall, a 39-year-old from Mesa County, Colorado, whose 15-year-old daughter, Kamberlyn Bowler, contracted E. coli at the same time as … [+3727 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Taylor Herzlich",
-            "title": "McDonald’s broken ice cream machines can now be fixed faster — without breaking the law - New York Post ",
-            "description": "It may soon get quicker and easier to get your McFlurry fix — and McDonald’s franchisees won’t have to break the law to make it happen.",
-            "url": "https://nypost.com/2024/10/29/business/mcdonalds-broken-ice-cream-machines-can-now-be-fixed-faster/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/92633903.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-10-29T18:44:00Z",
-            "content": "It may soon get quicker and easier to get your McFlurry fix — and McDonald’s franchisees won’t have to break the law to make it happen.\r\nThe US Copyright Office has granted a long-anticipated exempti… [+3899 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Silin Chen",
-            "title": "Midday stock movers: AMD, Ford, PayPal, and more - TheStreet",
-            "description": "Here are the stocks making the biggest market moves midday.",
-            "url": "https://www.thestreet.com/investing/stocks/midday-stock-movers-amd-ford-paypal-and-more-",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjEwMTkyNTU2ODkyNDMxOTE5/f1-grand-prix-of-italy---qualifying.jpg",
-            "publishedAt": "2024-10-29T17:55:20Z",
-            "content": "The stock market is trading mixed midday. The S&amp;P 500 added 0.25% while the tech-heavy Nasdaq Composite gained 0.69%. The Dow Jones Industrial Average lost 0.17%. The Russell 2000 Index dropped 0… [+3725 chars]"
+            "author": "Brad Smith",
+            "title": "Home prices hit new high in August, Medicare changes: Wealth! - Yahoo Finance",
+            "description": "On today's episode of Wealth!, Host Brad Smith breaks down what you need to know about earnings this week, the housing market, changes to Medicare coverage, ...",
+            "url": "https://finance.yahoo.com/video/home-prices-hit-high-august-183000560.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Qix58qkZcRpcFc0wO1phqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/0f2913b0-9613-11ef-973f-e6ca83f3ffa7",
+            "publishedAt": "2024-10-29T18:30:00Z",
+            "content": "On today's episode of Wealth!, Host Brad Smith breaks down what you need to know about earnings this week, the housing market, changes to Medicare coverage, and budgeting.\r\nBond yields (^TYX, ^TNX, ^… [+2073 chars]"
         },
         {
             "source": {
@@ -382,45 +525,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Eric Revell",
-            "title": "Boeing looking to sell space business: report - Fox Business",
-            "description": "Boeing is reportedly exploring the sale of portions of its space business, such as its Starliner space vehicle and operations supporting the International Space Station.",
-            "url": "https://www.foxbusiness.com/markets/boeing-looking-sell-space-business-report",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/boeing-starliner-nasa.jpg?ve=1&tl=1",
-            "publishedAt": "2024-10-29T16:49:00Z",
-            "content": "Aerospace giant Boeing\r\n is reportedly exploring the sale of some portions of its space business as it considers ways to streamline its operations.\r\nThe Wall Street Journal reported\r\n Friday, citing … [+3042 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Philip Blenkinsop",
-            "title": "EU slaps tariffs on Chinese EVs, risking Beijing payback - Reuters",
-            "description": "The European Union has decided to increase tariffs on Chinese-built electric vehicles to as much as 45.3% at the end of its highest profile investigation that has divided Europe and prompted retaliation from Beijing.",
-            "url": "https://www.reuters.com/business/autos-transportation/eu-slaps-tariffs-chinese-evs-risking-beijing-payback-2024-10-29/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/4SFUGCKMX5ICLEAVBZNUMVR4OU.jpg?auth=1a1afbb2e0196b1fe7845303edc965984de0da7942dce2e0c410ee5cb9b6cbd3&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-10-29T16:48:33Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Pras Subramanian",
-            "title": "Ford stock falls despite Q3 sales beat, as the automaker guides to lower end of 2024 profit forecast - Yahoo Finance",
-            "description": "Ford reported third quarter earnings after the bell on Monday, beating on revenue but bringing down its full-year profit forecast to the lower end of its...",
-            "url": "https://finance.yahoo.com/news/ford-stock-falls-despite-q3-sales-beat-as-the-automaker-guides-to-lower-end-of-2024-profit-forecast-114411377.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CutWNybdolISlsMCVYhu7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/fd1750d0-2b26-11ef-af77-f939d2bd89b9",
-            "publishedAt": "2024-10-29T16:45:13Z",
-            "content": "Ford (F) reported third quarter earnings after the bell on Monday, beating on revenue but guiding to the lower end of its full-year forecast.\r\nThe automaker's results follow rival GMs (GM) blowout Q3… [+3859 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Benzinga"
             },
             "author": "Piero Cingari",
@@ -442,20 +546,33 @@
             "url": "https://techcrunch.com/2024/10/29/linkedin-launches-its-first-ai-agent-to-take-on-the-role-of-job-recruiters/",
             "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-597477264.jpg?resize=1200,800",
             "publishedAt": "2024-10-29T16:32:06Z",
-            "content": "LinkedIn, the social platform used by professionals to connect with others in their field, hunt for jobs, and develop skills, is taking the wraps off its latest effort to build artificial intelligenc… [+4837 chars]"
+            "content": "LinkedIn, the social platform used by professionals to connect with others in their field, hunt for jobs, and develop skills, is taking the wraps off its latest effort to build artificial intelligenc… [+4846 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "MyStateline.com"
             },
-            "author": "Tom Warren",
-            "title": "GitHub Copilot will support models from Anthropic, Google, and OpenAI - The Verge",
-            "description": "GitHub is going multi-model for its Copilot developer tool. GitHub Copilot will soon support Claude 3.5, Gemini 1.5 Pro, and OpenAI’s various models.",
-            "url": "https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/27i30xQlffk-nv8_fgpRlGJ1t9U=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23437369/acastro_220504_STK121_0001.jpg",
-            "publishedAt": "2024-10-29T16:10:00Z",
-            "content": "GitHub Copilot will support models from Anthropic, Google, and OpenAI\r\nGitHub Copilot will support models from Anthropic, Google, and OpenAI\r\n / GitHub is also launching Spark, an AI tool that helps … [+3040 chars]"
+            "author": "John Clark",
+            "title": "Pritzker calls on grid operator to address record-high electricity costs coming to Illinois - MyStateline.com",
+            "description": "CHICAGO, Ill. (WTVO) — Illinois Gov. JB Pritzker, along with governors from four other states, issued a letter to the electricity grid operator to address record-high electricity rates for the 2025-2026 delivery year. A record price spike at an electricity ca…",
+            "url": "https://www.mystateline.com/news/local-news/pritzker-calls-on-grid-operator-to-address-record-high-electricity-costs-coming-to-illinois/",
+            "urlToImage": "https://www.mystateline.com/wp-content/uploads/sites/17/2024/08/AP24234063910500-e1724205095903.jpg?w=1280",
+            "publishedAt": "2024-10-29T16:16:39Z",
+            "content": "CHICAGO, Ill. (WTVO) Illinois Gov. JB Pritzker, along with governors from four other states, issued a letter to the electricity grid operator to address record-high electricity rates for the 2025-202… [+2372 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Beth Pinsker",
+            "title": "Worried about the election and your investments? Here's what top brokerages advise - MarketWatch",
+            "description": "There’s a lot of messaging going on, but you still have to read between the lines",
+            "url": "https://www.marketwatch.com/story/tips-from-jpmorgan-chase-fidelity-and-other-retirement-portfolio-managers-on-managing-your-money-no-matter-who-wins-the-election-2ddc8cf6",
+            "urlToImage": "https://images.mktw.net/im-05733091/social",
+            "publishedAt": "2024-10-29T15:59:00Z",
+            "content": "Getting an email from your brokerage about what the election means for your wallet might sound about as personal and heartfelt as the birthday wishes you get from your dentists office. But you might … [+647 chars]"
         },
         {
             "source": {
@@ -463,12 +580,12 @@
                 "name": "Yahoo Entertainment"
             },
             "author": "Seana Smith",
-            "title": "Is an earnings beat enough for Big Tech investors? - Yahoo Finance",
-            "description": "Alphabet (GOOG, GOOGL) will report earnings after the bell, kicking off Big Tech earnings with Microsoft (MSFT), Amazon (AMZN), Meta Platforms (META), and...",
-            "url": "https://finance.yahoo.com/video/earnings-beat-enough-big-tech-160023398.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pfAfO6SGYZnytZRUHYzebA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/d391bf60-9602-11ef-94e3-0e02a7f58954",
-            "publishedAt": "2024-10-29T16:00:23Z",
-            "content": "Alphabet (GOOG, GOOGL) will report earnings after the bell, kicking off Big Tech earnings with Microsoft (MSFT), Amazon (AMZN), Meta Platforms (META), and Apple (AAPL) to follow. Barclays head of US … [+1144 chars]"
+            "title": "PayPal stock slides on mixed Q3 earnings, misses on revenue - Yahoo Finance",
+            "description": "PayPal (PYPL) reports better-than-expected earnings for its third quarter, but revenue fell short of Wall Street's estimates sending shares lower Tuesday...",
+            "url": "https://finance.yahoo.com/video/paypal-stock-slides-mixed-q3-153832741.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BT9ZUqoQoIVB7IYAMI.uAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/7307dff0-960a-11ef-b54b-fc2d15fe19e3",
+            "publishedAt": "2024-10-29T15:38:32Z",
+            "content": "PayPal (PYPL) reports better-than-expected earnings for its third quarter, but revenue fell short of Wall Street's estimates sending shares lower Tuesday morning. The online payment system's stock is… [+403 chars]"
         },
         {
             "source": {
@@ -482,6 +599,19 @@
             "urlToImage": "https://www.doi.gov/sites/default/files/styles/social_media_2_1/public/images/2024-10/offshore-wind.jpg?itok=Mc0aL3G3",
             "publishedAt": "2024-10-29T15:23:14Z",
             "content": "Date: Tuesday, October 29, 2024Contact: Interior_Press@ios.doi.gov\r\nWASHINGTON Today, the Biden-Harris administration completed its sixth offshore wind lease sale by offering areas in the Gulf of Mai… [+5571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "BP Stock Is falling After Earnings Beat. Why It's Trailing Exxon, Chevron. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/bp-earnings-stock-price-46affc20",
+            "urlToImage": null,
+            "publishedAt": "2024-10-29T15:23:00Z",
+            "content": null
         },
         {
             "source": {
@@ -524,6 +654,19 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Volvo and Polestar EVs are now getting Tesla Supercharger access - The Verge",
+            "description": "Volvo and Polestar are offering adapters to its EV customers to access Tesla’s Supercharger stations. Both companies are selling adapters for $230.",
+            "url": "https://www.theverge.com/2024/10/29/24282667/volvo-polestar-tesla-supercharger-adapter-nacs",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/XOcFNxTsBD7fT-jTvnjd2OhRUmg=/0x0:900x715/1200x628/filters:focal(450x358:451x359)/cdn.vox-cdn.com/uploads/chorus_asset/file/25704816/NACS_1_9900000000079e3c.jpg",
+            "publishedAt": "2024-10-29T14:51:22Z",
+            "content": "Volvo and Polestar EVs are now getting Tesla Supercharger access\r\nVolvo and Polestar EVs are now getting Tesla Supercharger access\r\n / NACS adapters are available to order today. \r\nByAndrew J. Hawkin… [+2552 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Tipranks.com"
             },
@@ -550,29 +693,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Tipranks.com"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": "Shrilekha Pethe",
-            "title": "PYPL Earnings: PayPal Posts Strong Q3 Earnings Beat Despite Revenue Miss - TipRanks",
-            "description": "PayPal Holdings ($PYPL) reported mixed results in the third quarter. The payments processing company’s adjusted earnings increased by 22% year-over-year to $1.20 pe...",
-            "url": "https://www.tipranks.com/news/pypl-earnings-paypal-posts-strong-q3-earnings-beat-despite-revenue-miss",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/10/shutterstock_2432104939-1-750x406.jpg",
-            "publishedAt": "2024-10-29T14:06:30Z",
-            "content": "PayPal Holdings (PYPL) reported mixed results in the third quarter. The payments processing company’s adjusted earnings increased by 22% year-over-year to $1.20 per share, above consensus estimates o… [+1739 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Seana Smith",
-            "title": "Dow leads stocks lower ahead of Alphabet's Q3 earnings - Yahoo Finance",
-            "description": "US stocks open Tuesday's session lower with the Dow Jones Industrial Average (^DJI) leading losses as it dips 0.4%. The tech-heavy Nasdaq Composite (^IXIC...",
-            "url": "https://finance.yahoo.com/video/dow-leads-stocks-lower-ahead-134734006.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xJLwya8l1oRHx19qVJ5bXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/64857b10-95ea-11ef-8bf7-49328b211346",
-            "publishedAt": "2024-10-29T13:47:34Z",
-            "content": "US stocks open Tuesday's session lower with the Dow Jones Industrial Average (^DJI) leading losses as it dips 0.4%. The tech-heavy Nasdaq Composite (^IXIC) and S&amp;P 500 (^GSPC) are lookng ahead to… [+498 chars]"
+            "author": "Jarrell Dillard",
+            "title": "US Job Openings Decline to Lowest Level Since Early 2021 - Bloomberg",
+            "description": "US job openings fell in September to the lowest since early 2021 and layoffs picked up, consistent with a slowdown in the labor market.",
+            "url": "https://www.bloomberg.com/news/articles/2024-10-29/us-job-openings-decline-to-lowest-level-since-early-2021",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5DzFDgn9Fgs/v1/1200x800.jpg",
+            "publishedAt": "2024-10-29T14:02:57Z",
+            "content": "US job openings fell in September to the lowest since early 2021 and layoffs picked up, consistent with a slowdown in the labor market.\r\nAvailable positions decreased to 7.44 million from a downwardl… [+230 chars]"
         },
         {
             "source": {
@@ -590,19 +720,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Lucidmotors.com"
-            },
-            "author": null,
-            "title": "Lucid Gravity Orders to Open November 7, 2024 - Lucid Motors",
-            "description": "Lucid Gravity Touring priced from $79,900, with Grand Touring trim priced from $94,900 and scheduled to start production in late 2024",
-            "url": "https://lucidmotors.com/media-room/lucid-gravity-orders-open-nov-7-2024",
-            "urlToImage": "https://lucidmotors.com/media/image/og.png",
-            "publishedAt": "2024-10-29T12:45:16Z",
-            "content": "The Lucid Gravity is designed to be the best SUV ever with space for up to seven adults plus all their gear. Lucid Gravity offers up to 120 cubic feet of total usable cargo space, including the frunk… [+4736 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNBC"
             },
             "author": "Ashley Capoot",
@@ -616,28 +733,41 @@
         {
             "source": {
                 "id": null,
-                "name": "Treasury.gov"
+                "name": "Barron's"
             },
-            "author": null,
-            "title": "U.S. Department of the Treasury Releases Inaugural National Strategy for Financial Inclusion - Treasury",
-            "description": "WASHINGTON – Today, the U.S. Department of the Treasury (Treasury) released the National Strategy for Financial Inclusion in the United States, which identifies objectives and recommendations for policymakers, industry, employers, and community organizations …",
-            "url": "https://home.treasury.gov/news/press-releases/jy2691",
-            "urlToImage": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
-            "publishedAt": "2024-10-29T12:00:00Z",
-            "content": "WASHINGTON Today, the U.S. Department of the Treasury (Treasury) released the National Strategy for Financial Inclusion in the United States, which identifies objectives and recommendations for polic… [+2714 chars]"
+            "author": "Barron's",
+            "title": "Meta Stock Is Up. Alphabet Is Down. What It Means for Big Tech Earnings. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/meta-stock-price-alphabet-apple-tech-earnings-9f542401",
+            "urlToImage": null,
+            "publishedAt": "2024-10-29T12:06:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Seeking Alpha"
             },
-            "author": null,
-            "title": "TikTok founder Zhang Yiming becomes China's richest man - BBC.com",
-            "description": "Zhang Yiming's fortune has leapt to almost $50bn, according to a newly published rich list.",
-            "url": "https://www.bbc.com/news/articles/c8dmql101dno",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7b16/live/0a908850-95dd-11ef-9eb7-7b7defb4f9e7.jpg",
-            "publishedAt": "2024-10-29T11:18:40Z",
-            "content": "The surging global popularity of TikTok has seen the co-founder of its parent company, ByteDance, become China's richest person.\r\nAccording to a rich list produced by the Hurun Research Institute, Zh… [+2194 chars]"
+            "author": "Millennial Dividends",
+            "title": "Crushed From $123 To $48: Super Micro Computer May Finally Be A Buy (NASDAQ:SMCI) - Seeking Alpha",
+            "description": "Super Micro Computer's expected strong revenue and EPS growth suggests potential for substantial returns. Read why SMCI stock is a Strong Buy.",
+            "url": "https://seekingalpha.com/article/4730153-crushed-from-123-to-48-super-micro-computer-may-finally-be-a-buy",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2028441828/image_2028441828.jpg?io=getty-c-w1536",
+            "publishedAt": "2024-10-29T11:15:00Z",
+            "content": "Analysts Disclosure:I/we have a beneficial long position in the shares of NVDA either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opin… [+729 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Wire"
+            },
+            "author": "Business Wire",
+            "title": "SoFi Technologies Reports Net Revenue of $697 Million and Net Income of $61 Million for Q3 2024, Demonstrating Durable Growth and Strong Returns - Business Wire",
+            "description": null,
+            "url": "https://www.businesswire.com/news/home/20241029800153/en/SoFi-Technologies-Reports-Net-Revenue-of-697-Million-and-Net-Income-of-61-Million-for-Q3-2024-Demonstrating-Durable-Growth-and-Strong-Returns",
+            "urlToImage": null,
+            "publishedAt": "2024-10-29T11:00:00Z",
+            "content": null
         },
         {
             "source": {
@@ -651,32 +781,6 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/previously-made-from-i.jpg",
             "publishedAt": "2024-10-29T08:30:01Z",
             "content": "Before it threatened biodiversity, the oceans and the global food chain, plastics saved lives and transformed societies as a durable, malleable and cheap material.\r\nFrom the 1950s, plastics enjoyed a… [+4208 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "THE ASSOCIATED PRESS",
-            "title": "Oil prices fall as reality of weak global demand overtakes risk of wider war in Middle East - The Associated Press",
-            "description": "Global oil prices are falling sharply after a retaliatory strike by Israel over the weekend targeted Iranian military sites rather than its energy infrastructure as had been feared. Prices for crude spiked globally on Oct. 2 after Iran fired nearly 200 missil…",
-            "url": "https://apnews.com/article/oil-prices-gasoline-israel-iran-6fb7f2e57072a09287374d67b4fda16a",
-            "urlToImage": "https://dims.apnews.com/dims4/default/a90a179/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F87%2F10%2F1ac4f8da81fdf166e39702d691c4%2Fe57740f747d242a5913c54b4be5c59ba",
-            "publishedAt": "2024-10-29T02:18:00Z",
-            "content": "Global oil prices are falling sharply after a retaliatory strike by Israel over the weekend targeted Iranian military sites rather than its energy infrastructure as had been feared.\r\nPrices for crude… [+5610 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Whitehouse.gov"
-            },
-            "author": "The White House",
-            "title": "FACT SHEET: Addressing U.S. Investments in Certain National Security Technologies and Products in Countries of Concern - The White House",
-            "description": "Cross-border investment flows and the United States’ open investment policy contribute to our economic vitality. Countries of concern, however, are",
-            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/28/fact-sheet-addressing-u-s-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/",
-            "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
-            "publishedAt": "2024-10-28T21:00:00Z",
-            "content": "Cross-border investment flows and the United States open investment policy contribute to our economic vitality. Countries of concern, however, are exploiting certain U.S. outbound investments in ways… [+2264 chars]"
         },
         {
             "source": {

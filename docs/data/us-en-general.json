@@ -1,266 +1,136 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "WTAE Pittsburgh"
             },
-            "author": "The Guardian US",
-            "title": "Trump indicates he is open to RFK Jr’s proposal to ban vaccines if elected - The Guardian US",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWxqdGQ2LU95RWFhT256V09wN3JSblBTaFNsdFlBVko1NjYzLVdvR2YxRUFRbll4amF5Q21hSnYyWEIyYUE4SnR4N19JQV8yNVEyQTI2TFZ5NmNmRlZTNUhHUUNLazdXbDlYcHVfOGZyMEtnUmFtS0tKSFFnSlFzZk03eEJnT2h4WFRXNjNxZDTSAZABQVVfeXFMT2oyVlpOYkpkMXRwck5aelM2V2ZLc3QwLUNGM3JvM216QkpZekVyTWtIZksySVRGWXNBRXZESVE4aXlwRjJxV3FnQjVfQWpMUDRGY3pmQnNxb0xxVTIxX0xzZEp1RktXcEdmUllqVF9QRGhxd215ajNGcDZrQ3E1S2F0NDZBY0N0WTVpQzAzaWVN?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-11-04T16:24:00Z",
+            "author": "Raquel Ciampi",
+            "title": "Vice President Kamala Harris holds campaign rally at Carrie Blast Furnaces - WTAE Pittsburgh",
+            "description": "Vice President Kamala Harris returns to the Pittsburgh area one more time before Election Day, in a final push for the battleground state of Pennsylvania and its 19 electoral votes.",
+            "url": "https://www.wtae.com/article/kamala-harris-rally-pittsburgh-carrie-furnaces/62802339",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-67297fdc0a562.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2024-11-05T02:20:00Z",
+            "content": "RANKIN, Pa. —Vice President Kamala Harris returned to the Pittsburgh area for a campaign rally at Carrie Blast Furnaces in Rankin on Monday night.\r\nAccording to the \"Vote for Freedom Rally\" website, … [+1480 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Rebecca Falconer",
+            "title": "Joe Rogan endorses Trump on eve of Election Day - Axios",
+            "description": "Rogan said Elon Musk made \"the most compelling case for Trump you'll hear\" as he shared an interview with the billionaire.",
+            "url": "https://www.axios.com/2024/11/05/joe-rogan-endorses-trump-on-eve-of-election-day",
+            "urlToImage": "https://images.axios.com/WuhzMiIYrOR09CkRadPdTjAKMVI=/0x139:3942x2356/1366x768/2024/11/05/1730771575037.jpg",
+            "publishedAt": "2024-11-05T02:05:47Z",
+            "content": "Joe Rogan endorsed former President Trump for president on Monday evening.\r\nWhy it matters: The podcaster's endorsement of the GOP presidential nominee on the eve of Election Day could be a major boo… [+1168 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Matthew Cappucci, Ben Noll",
+            "title": "Tropical storm Rafael has formed in the Caribbean. What to know. - The Washington Post",
+            "description": "The storm is expected to have minimal impact on the United States.",
+            "url": "https://www.washingtonpost.com/weather/2024/11/04/caribbean-storm-hurricane-forecast-rafael-path/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FPPZCT2ONFEG7ESAJPIIDIWI2I_size-normalized.jpeg&w=1440",
+            "publishedAt": "2024-11-05T01:52:29Z",
+            "content": "The tropics are heating up once again. Late Monday afternoon, Tropical Storm Rafael formed over the Caribbean Sea.\r\nAfter starting the day with a ragged, disorganized appearance, Rafaels structure or… [+3374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Samantha Subin",
+            "title": "Stock futures are little changed as Wall Street readies for presidential election: Live updates - CNBC",
+            "description": "Investors braced for a high-stakes U.S. presidential election.",
+            "url": "https://www.cnbc.com/2024/11/04/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108057244-1730749774772-Traders-Election-Photo-MW-20241104-PRESS-28.jpg?v=1730749936&w=1920&h=1080",
+            "publishedAt": "2024-11-05T00:55:00Z",
+            "content": "Stock futures were flat in overnight trading ahead of Tuesday's high-stakes U.S. presidential election.\r\nFutures tied to the Dow Jones Industrial Average slipped 17 points. S&amp;P 500 futures and Na… [+1838 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Scott Thompson",
+            "title": "Taylor Swift chooses to attend Chiefs game over Kamala Harris rally on eve of election - Fox News",
+            "description": "Taylor Swift is choosing football over Kamala Harris' election eve rally in Pennsylvania as she was spotted entering Arrowhead Stadium to watch Travis Kelce and the Chiefs.",
+            "url": "https://www.foxnews.com/sports/taylor-swift-choose-attend-chiefs-game-over-kamala-harris-pennsylvania-rally-eve-election",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/b440b18a-taylor-swift.jpg",
+            "publishedAt": "2024-11-05T00:28:00Z",
+            "content": "Taylor Swift chose football over Kamala Harriss pre-Election Day rally in Pennsylvania as the music megastar was spotted entering Arrowhead Stadium for the Kansas City Chiefs game against the Tampa B… [+2196 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jack Queen",
+            "title": "Pennsylvania judge allows Elon Musk's $1 million voter giveaway - Reuters",
+            "description": "A Pennsylvania state judge on Monday allowed Elon Musk’s $1 million-a-day giveaway to swing state voters to proceed, after a surprising day of testimony in which the billionaire's aide acknowledged his political group selected the contest's winners.",
+            "url": "https://www.reuters.com/legal/judge-weighs-challenge-elon-musks-1-million-voter-giveaway-2024-11-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/7CKS7VAWJRPEHEJUEYO2G7JTVY.jpg?auth=057f8f15868b67b04c681ebfd2de4c1f3b5563b283dbc83cd0f64081df5f94e2&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-05T00:19:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Joseph Zucker",
-            "title": "Report: Spurs' Gregg Popovich Out With Health Issue; Mitch Johnson to Be Interim HC - Bleacher Report",
-            "description": "San Antonio Spurs assistant coach Mitch Johnson is expected to serve as the interim coach indefinitely while Gregg Popovich is dealing with a \"health issue,\"…",
-            "url": "https://bleacherreport.com/articles/10142162-report-spurs-gregg-popovich-out-with-health-issue-mitch-johnson-to-be-interim-hc",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/x_106,y_67,w_1689,h_1125,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1730735070/adqg0q4c5atqwxzaeeiz.jpg",
-            "publishedAt": "2024-11-04T15:50:18Z",
-            "content": "Sam Hodde/Getty Images\r\nSan Antonio Spurs assistant coach Mitch Johnson is expected to serve as the interim coach indefinitely while Gregg Popovich is dealing with a \"health issue,\" according to ESPN… [+1415 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Aliza Chasan",
-            "title": "All the battleground states to watch during the 2024 election - CBS News",
-            "description": "Seven battleground states, any of which could swing to either the Democrats or Republicans, hold the keys to the 2024 election contest between Trump and Harris.",
-            "url": "https://www.cbsnews.com/news/battleground-states-2024-election/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/28/b7090d9a-e0d5-43a9-bb8f-e21f148ead4e/thumbnail/1200x630/86e084aee951818199f75679b8faa20a/gettyimages-2175666523.jpg?v=379420b9063a2aadbcd559df18e2d1ae",
-            "publishedAt": "2024-11-04T15:46:06Z",
-            "content": "Seven battleground states, any of which could potentially swing to either the Democrats or Republicans, hold the keys to the presidency in the 2024 election as voters make their choice between former… [+5910 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Hollywood Reporter"
             },
-            "author": "Frank Schwab",
-            "title": "Saints fire Dennis Allen after losing streak during his 3rd season leading team, name Darren Rizzi interim head coach - Yahoo Sports",
-            "description": "After a good start to this season, the losses piled up on the Saints.",
-            "url": "https://sports.yahoo.com/saints-fire-dennis-allen-after-losing-streak-during-his-3rd-season-leading-team-name-darren-rizzi-interim-head-coach-145933024.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/i1Vyqe8pUCj0rh_j5MzKqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjM-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/55f9fa70-9a28-11ef-aacf-18050aa5414d",
-            "publishedAt": "2024-11-04T15:18:50Z",
-            "content": "Dennis Allen survived a couple seasons of mediocrity. He couldn't survive a long losing streak that included dropping games to former Saints coach Sean Payton and a horrible Carolina Panthers team.\r\n… [+4313 chars]"
+            "author": "Lexy Perez",
+            "title": "Jason Kelce Addresses Viral Video of Smashing Heckler’s Phone: “I’m Not Proud of It” - Hollywood Reporter",
+            "description": "\"I'm not happy with anything that took place,\" the retired Eagles football player said after he threw a fan's phone when the fan taunted his brother, Travis Kelce, with a homophobic slur.",
+            "url": "http://www.hollywoodreporter.com/tv/tv-news/jason-kelce-addresses-smashing-phone-travis-taylor-swift-1236053593/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/GettyImages-2178010980-H-2024.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2024-11-05T00:13:06Z",
+            "content": "Jason Kelce is speaking out after a video of him throwing a college football fan’s phone when the fan taunted his brother Travis Kelce with a homophobic slur went viral online.\r\nAt the top of ESPN’s … [+1753 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "CNN",
-            "title": "Sirens sound again in tornado-damaged Oklahoma City as another tornado threat targets the area and the South - CNN",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDdPc0o0LTBYdG1tV1RSNkI2emlacDBFRUFNUWpwbUJtMm9tUk1iX2NXbFpYcm5hTTM2dDRmcXo2MXozOW1FdjJoQ3NSZGtjejJDSW5CTWFST3hONGtLbVZ6V1hmb3dZOEgxR25mZ3lqRGhpbFVuQzJNQVY4M1dNS1gxNTUyRlRiWDZXbFZVcGo0WEUwNlRpb0NoQUp1V0RoX1hKTjA3MHV3QdIBoAFBVV95cUxQYkppbndpcjNCZFVFbGJoQ0xSNUw5S24zVlh6STdSbjNlc3BfVXlqRURjMmxqNlF1Ujg4WmlNaDVnVGtGNmFlX09LWWtvUzJ0ams2M1RZbDhYd1FVb0RVYkpXVXFOSU5RZGdzM25VLTRmYzVVSnFxblBlRElrNzB2ak5fQml5RWw4YUhvTDhMY0FRcEl3SmJweUhzV0VzRTNj?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-11-04T15:07:00Z",
+            "author": "Jennifer Hassan",
+            "title": "Protesters hurl mud at Spain’s king, queen and prime minister after floods - The Washington Post",
+            "description": "King Felipe, Queen Letizia and Prime Minister Pedro Sánchez were met with anger in Paiporta, a town badly hit by the devastating floods in Valencia.",
+            "url": "https://www.washingtonpost.com/world/2024/11/04/spain-floods-king-queen-protest-paiporta/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/73GDQSW6BGI5DCH4KBG2WG34ZE.jpg&w=1440",
+            "publishedAt": "2024-11-04T23:57:49Z",
+            "content": "Protesters hurled mud at Spains king, queen and prime minister as they visited a town ravaged by deadly floods, with some going as far as calling them murderers.\r\nKing Felipe VI, Queen Letizia and Pr… [+198 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Dan Goodin",
+            "title": "JavaScript developers targeted by hundreds of malicious code libraries - Ars Technica",
+            "description": "These are not the the developer tools you think they are.",
+            "url": "https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
+            "publishedAt": "2024-11-04T23:28:49Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Biden says Moldova election results show \"Russia failed\" in efforts to undermine democracy - CBS News",
-            "description": "President Biden lauds Moldovan incumbent Maia Sandu's reelection, saying \"Russia sought to undermine\" the country's democratic institutions for months.",
-            "url": "https://www.cbsnews.com/news/moldova-election-results-2024-maia-sandu-russia-biden-eu-ukraine-war/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/04/379b2854-4ebc-4a82-969a-d2b16b89aaad/thumbnail/1200x630/f0348a79aca9a26f842ced27e4973216/maia-sandu-2182085909.jpg?v=379420b9063a2aadbcd559df18e2d1ae",
-            "publishedAt": "2024-11-04T15:05:50Z",
-            "content": "Moldova's pro-European Union incumbent President Maia Sandu won a tense presidential runoff election Sunday, beating a rival backed by a pro-Russian party in what she called as a \"lesson in democracy… [+5712 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "SCOTT LEHTONEN, Investor's Business Daily",
-            "title": "Dow Jones Falls As Election Looms; Nvidia Jumps On Dow Inclusion - Investor's Business Daily",
-            "description": "Nvidia jumped on inclusion in the Dow 30, while Tesla continued to slide.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-premarket-nasdaq-nvidia-stock-nvda/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/09/Stock-wallstreetflags-10-adobe.jpg",
-            "publishedAt": "2024-11-04T14:55:00Z",
-            "content": "The Dow Jones Industrial Average and the other major stock indexes traded lower Monday, as Wall Street looked toward Tuesday's presidential election as well as the Federal Reserve's interest rate dec… [+6097 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Caroline Blair",
-            "title": "Pete Davidson gives rare look at tattoo-free arms on ‘Saturday Night Live’ after ink removal - Page Six",
-            "description": "The “King of Staten Island” actor has been getting his plethora of tattoos removed over the last three years.",
-            "url": "https://pagesix.com/2024/11/04/style/pete-davidson-gives-rare-look-at-tattoo-free-arms-on-saturday-night-live-after-removal/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/11/93023309.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-11-04T14:49:00Z",
-            "content": "Pete Davidson gave fans a look into his tattoo removal process in a surprise guest appearance on “Saturday Night Live.”\r\nDuring the sketch, Davidson wore a short-sleeved graphic T-shirt that revealed… [+3086 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Foxweather.com"
-            },
-            "author": "Steven Yablonski",
-            "title": "Tropical Depression 18 forms in Caribbean as strengthening into Hurricane Rafael appears likely - Fox Weather ",
-            "description": "Millions of people from the Caribbean to the U.S. Gulf Coast are keeping their eyes on Tropical Depression Eighteen as the system becomes better organized and is forecast to become Hurricane Rafael in the coming days.",
-            "url": "https://www.foxweather.com/weather-news/tropical-depression-18-tropical-storm-hurricane-rafael",
-            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2024/11/1024/512/td-18-story-image-11.4.png?ve=1&tl=1",
-            "publishedAt": "2024-11-04T14:42:00Z",
-            "content": "MIAMI – Millions of people from the Caribbean to the U.S. Gulf Coast are keeping their eyes on Tropical Depression Eighteen as the system becomes better organized and is forecast to become Hurricane … [+1394 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Zach Schonfeld",
-            "title": "Supreme Court to review Louisiana congressional map post-election - The Hill",
-            "description": "The Supreme Court announced Monday it will take up the fight over Louisiana’s congressional map, which has erupted into a messy legal battle over how to fix a racially gerrymandered design. The court’s decision will not impact this week’s elections, as the ju…",
-            "url": "https://thehill.com/regulation/court-battles/4969638-supreme-court-louisiana-congressional-map/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/10/Zoom-In-SCOTUS_102924_AP_Scott-Applewhite.jpg?w=1280",
-            "publishedAt": "2024-11-04T14:42:00Z",
-            "content": "Skip to content\r\nThe Supreme Court announced Monday it will take up the fight over Louisiana’s congressional map, which has erupted into a messy legal battle over how to fix a racially gerrymandered … [+2993 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Ryan Christoffel",
-            "title": "New Apple Intelligence videos offer workplace solutions, including for stolen yogurt - 9to5Mac",
-            "description": "Apple has released a pair of new office-focused videos for Apple Intelligence, highlighting how the Mac’s AI can help you in the workplace.",
-            "url": "https://9to5mac.com/2024/11/04/new-apple-intelligence-videos-offer-workplace-solutions-including-for-stolen-yogurt/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-intelligence-pudding.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-11-04T14:27:00Z",
-            "content": "Apple has released a pair of new videos highlighting Apple Intelligences capabilities, this time in the office. Prior videos have focused on the iPhone 16, but the MacBook Pro is highlighted herefitt… [+1098 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jessie Yeung, Antoinette Radford, Michelle Shen, Maureen Chowdhury, Chelsea Bailey",
-            "title": "Harris and Trump to hold final campaign events day before election - CNN",
-            "description": "Tomorrow is Election Day, and Vice President Kamala Harris and former President Donald Trump are delivering their closing pitches to voters in key battleground states. Follow here for the latest live news updates.",
-            "url": "https://www.cnn.com/politics/live-news/trump-harris-election-11-04-24/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20241019-potus.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-11-04T14:09:00Z",
-            "content": "Former President Donald Trump and one of his most vocal supporters, tech billionaire Elon Musk, have alleged without evidence that the potential for voter fraud is a major threat.\r\nVoting is ultimate… [+1950 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": null,
-            "title": "Chiefs vs. Buccaneers odds, spread, line, prediction: Monday Night Football picks by NFL model on 13-5 run - CBS Sports",
-            "description": "SportsLine's model has simulated Tampa Bay vs. Kansas City on Monday Night Football 10,000 times and revealed its MNF picks and NFL predictions",
-            "url": "https://www.cbssports.com/nfl/news/chiefs-vs-buccaneers-odds-spread-line-prediction-monday-night-football-picks-by-nfl-model-on-13-5-run/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/02/01/2ad8ca46-b251-4da7-ad72-a0962d3c7f21/thumbnail/1200x675/ce7c64b6c6c9120648b856c387375bb3/travis-kelce-usatsi-cbs.jpg",
-            "publishedAt": "2024-11-04T14:06:19Z",
-            "content": "The Kansas City Chiefs (7-0) will host the Tampa Bay Buccaneers (4-4) on Monday Night Football. The Chiefs are the only undefeated team left in the NFL. In Week 8, Kansas City beat the Raiders, 27-20… [+4219 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Mike Wall",
-            "title": "Watch SpaceX launch 3 tons of cargo to ISS today - Space.com",
-            "description": "Liftoff is scheduled for 9:29 p.m. ET today (Nov. 4).",
-            "url": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-3-tons-of-cargo-to-iss-today",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MPD5d3y28BMGXNVYLf2iC-1200-80.jpg",
-            "publishedAt": "2024-11-04T13:56:25Z",
-            "content": "SpaceX plans to launch nearly 6,000 pounds (2,700 kilograms) of supplies to the International Space Station (ISS) today (Nov. 4), and you can watch the action live.\r\nA Falcon 9 rocket is scheduled to… [+2117 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "DAVID KOENIG",
-            "title": "Boeing machinists are holding a contract vote that could end their 7-week strike - The Associated Press",
-            "description": "Unionized factory workers at Boeing are voting whether to accept a contract offer or to continue their strike. The walkout has lasted more than seven weeks, shut down production of most Boeing passenger planes and cut off a key source of cash for the company.…",
-            "url": "https://apnews.com/article/boeing-contract-vote-strike-machinists-union-614c4d5afd97d1f50ab9cfe1f4f94255",
-            "urlToImage": "https://dims.apnews.com/dims4/default/b37b190/2147483647/strip/true/crop/3291x1851+0+171/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F36%2Fc8%2Fd1dbcbec7d1bfaedf4c97a677d7a%2F99121482b2294f209f1e798f8249533a",
-            "publishedAt": "2024-11-04T13:52:00Z",
-            "content": "Unionized factory workers at Boeing were voting Monday whether to accept a contract offer or to continue their strike, which has lasted more than seven weeks and shut down production of most Boeing p… [+4469 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Janna Brancolini",
-            "title": "Diddy Asks for Gag Order After Witness Says He Has Shocking Tapes - The Daily Beast",
-            "description": "Lawyers for the disgraced mogul filed the request after a grand jury witness said he had tapes of Sean Combs allegedly sexually assaulting celebrities.",
-            "url": "https://www.thedailybeast.com/sean-diddy-combs-requests-gag-order-after-witness-says-he-has-shocking-videos/",
-            "urlToImage": "https://www.thedailybeast.com/resizer/v2/QAP3JZLSFJE4HBKXKZM2GTOQZE.jpg?smart=true&auth=40fa6b2956e335f35482f5f04bd36c8f2f64e6babc382dbf6bfc191d2dbcb507&width=1200&height=630",
-            "publishedAt": "2024-11-04T13:49:00Z",
-            "content": "Sean Diddy Combs is asking the court to bar potential witnesses in his criminal case from speaking to the press after a particularly damning interview from a grand jury witness.\r\nLawyers for the disg… [+3497 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Rajesh Pandey",
-            "title": "Amazon stops Kindle Colorsoft shipments due to major display issues - Android Police",
-            "description": "A software fix is under development",
-            "url": "https://www.androidpolice.com/amazon-stops-kindle-colorsoft-shipments-major-display-issues/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/10/amazon-kindle-colorsoft.jpg",
-            "publishedAt": "2024-11-04T12:55:00Z",
-            "content": "Key Takeaways\r\n<ul><li> Amazon is delaying Kindle Colorsoft shipments due to screen issues. </li><li> Many early buyers report a yellowish bar at the screen's bottom. </li><li> Some users also compla… [+2417 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Isabel Keane",
-            "title": "Johnny Depp’s lawyer Camille Vasquez reveals why she never dated actor despite rumors - New York Post ",
-            "description": "Johnny Depp’s hotshot lawyer Camille Vasquez has publicly addressed long-running rumors that she dated her A-list client.",
-            "url": "https://nypost.com/2024/11/04/entertainment/johnny-depps-lawyer-camille-vasquez-reveals-why-she-never-dated-actor-despite-rumors/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/extra-s-billy-bush-sits-93020369.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-11-04T12:50:00Z",
-            "content": "Johnny Depp’s hotshot lawyer Camille Vasquez has firmly quashed long-running rumors that she dated her A-list client saying the Hollywood leading man is “not my type.”\r\n“I would never,” Vasquez told … [+2335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Pedro Goncalves",
-            "title": "Stocks to watch if Donald Trump wins the US election - Yahoo Finance UK",
-            "description": "What could a Donald Trump victory mean for sectors and stocks?",
-            "url": "https://uk.finance.yahoo.com/news/stocks-donald-trump-wins-us-election-124840446.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RaI3Cko6UcsCDlUDWDEe2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/9dc6cf10-9aa8-11ef-97ef-0b7d8c05cf12",
-            "publishedAt": "2024-11-04T12:48:40Z",
-            "content": "With the US election entering its final lap, the contest between Trump and Harris remains extremely close. The nation is preparing to vote on 5 November and a potential Trump victory could lead to si… [+4808 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "NICOLAS VAUX-MONTAGNY, SYLVIE CORBET",
-            "title": "Trial opens in France in the beheading of a teacher over prophet cartoons - The Associated Press",
-            "description": "The trial of eight people in Paris on terrorism charges started on Monday over the beheading of teacher Samuel Paty. He was killed in 2020 by an Islamic extremist after showing caricatures of Islam’s prophet to his middle school students for a lesson on freed…",
-            "url": "https://apnews.com/article/france-teacher-beheaded-trial-caricatures-d8311e6092e99b5fae3418e5b864f306",
-            "urlToImage": "https://dims.apnews.com/dims4/default/d184d10/2147483647/strip/true/crop/5472x3078+0+285/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8c%2F6d%2Fb53105ddd361955415bada853281%2Fc0b8c8ff26784af8859cf0c1d3d6e857",
-            "publishedAt": "2024-11-04T12:44:00Z",
-            "content": "PARIS (AP) The trial of eight people in Paris on terrorism charges started on Monday over the beheading of teacher Samuel Paty, who was killed by an Islamic extremist after showing caricatures of Isl… [+5952 chars]"
+            "author": "Tierney Sneed, Fredreka Schouten, Annie Grayer",
+            "title": "Last-minute challenges in battleground Pennsylvania target thousands of mail-in ballots - CNN",
+            "description": "Thousands of mail-in ballots in the battleground state of Pennsylvania have been targeted for rejection as part of a last-minute campaign that has set off alarms for voting rights groups and exasperated local election officials.",
+            "url": "https://www.cnn.com/2024/11/04/politics/pennsylvania-last-minute-mail-in-challenges/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap24309760517972.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-04T23:03:00Z",
+            "content": "Thousands of mail-in ballots in the battleground state of Pennsylvania have been targeted for rejection as part of a last-minute campaign that has set off alarms for voting rights groups and exaspera… [+5179 chars]"
         },
         {
             "source": {
@@ -268,128 +138,141 @@
                 "name": "ABC News"
             },
             "author": "ABC News",
-            "title": "Trump campaign defends his remarks about violence toward journalists - ABC News",
+            "title": "Best times to see the Taurid meteor shower - ABC News",
             "description": null,
-            "url": "https://abcnews.go.com/Politics/trump-campaign-defends-remarks-violence-journalists/story?id\\\\u003d115449625",
+            "url": "https://abcnews.go.com/US/taurid-meteor-shower-visible-eve-election-day/story?id\\\\u003d115466606",
             "urlToImage": null,
-            "publishedAt": "2024-11-04T12:02:10Z",
+            "publishedAt": "2024-11-04T22:54:24Z",
             "content": null
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "WOODTV.com"
             },
-            "author": "Andrew Webster",
-            "title": "Mario’s excellent run continues with Mario & Luigi: Brothership on the Switch - The Verge",
-            "description": "Nintendo is expanding the Mario RPG universe with Mario & Luigi: Brothership, which launches on the Switch on November 7th.",
-            "url": "https://www.theverge.com/24287092/mario-and-luigi-brothership-review-nintendo-switch",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/c6nUZMUfXybQLN33cAKwe2ypf5I=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25713430/Switch_Mario_LuigiBrothership_scrn_24.jpg",
-            "publishedAt": "2024-11-04T12:00:00Z",
-            "content": "Marios excellent run continues with Mario &amp; Luigi: Brothership on the Switch\r\nMarios excellent run continues with Mario &amp; Luigi: Brothership on the Switch\r\n / At the tail end of the Switchs l… [+4713 chars]"
+            "author": "Anna Skog, Matt Jaworowski",
+            "title": "Whooping cough numbers continue to increase in Michigan - WOODTV.com",
+            "description": "Cases of whooping cough are increasing in Michigan and the health department is urging people to get vaccinated.",
+            "url": "https://www.woodtv.com/news/michigan/whooping-cough-numbers-continue-to-increase-in-michigan/",
+            "urlToImage": "https://www.woodtv.com/wp-content/uploads/sites/51/2017/07/pertussis-cdc_35638157_ver1.0.png?w=1280",
+            "publishedAt": "2024-11-04T22:33:53Z",
+            "content": "GRAND RAPIDS, Mich. (WOOD) Cases of whooping cough are increasing in Michigan and the health department is urging people to get vaccinated.\r\nAs of Oct. 28, 830 confirmed or probable cases have been r… [+1891 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "the-hill",
+                "name": "The Hill"
             },
-            "author": "Sam Tupper",
-            "title": "Sugar in the first 1,000 days after conception linked to health issues later in life, study says - CNN",
-            "description": "The holiday season is nearly upon us and it’s easy for a child’s sweet tooth go wild. However, new research shows that it may be beneficial to cut back how much sugar young children consume.",
-            "url": "https://www.cnn.com/2024/11/04/health/sugar-reduce-disease-diabetes-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1457652288-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-11-04T11:32:00Z",
-            "content": "The holiday season is nearly upon us and its easy for a childs sweet tooth go wild. However, new research shows that it may be beneficial to cut back how much sugar young children consume.\r\nA study p… [+4778 chars]"
+            "author": "Ella Lee",
+            "title": "Georgia’s top court cancels extension for delayed ballots in Cobb County, siding with RNC - The Hill",
+            "description": "Georgia’s highest court on Monday ruled that thousands of Cobb County voters who received their ballots late will not have their votes immediately counted if their ballots are received by officials after Election Day, a decision that sided with national Repub…",
+            "url": "https://thehill.com/regulation/court-battles/4971013-georgia-supreme-court-cobb-county-voters-delayed-ballots-extension-canceled/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/10/049a64404e6a418aaafe2426dd5da27a.jpg?w=1280",
+            "publishedAt": "2024-11-04T22:18:00Z",
+            "content": "Georgia’s highest court on Monday ruled that thousands of Cobb County voters who received their ballots late will not have their votes immediately counted if their ballots are received by officials a… [+2816 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Exclusive | Russia Suspected of Plotting to Send Incendiary Devices on U.S.-Bound Planes - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/world/russia-plot-us-planes-incendiary-devices-de3b8c0a",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T21:59:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "Deadline"
             },
-            "author": "Carly Cassella",
-            "title": "Scientists Found a 'Yellow Brick Road' at The Bottom of The Pacific Ocean - ScienceAlert",
-            "description": "An expedition to a deep-sea ridge, just north of the Hawaiian Islands, revealed a surprise discovery back in 2022: an ancient dried-out lake bed paved with what looks like a yellow brick road.",
-            "url": "https://www.sciencealert.com/scientists-found-a-yellow-brick-road-at-the-bottom-of-the-pacific-ocean",
-            "urlToImage": "https://www.sciencealert.com/images/2022/12/YellowBrickRoadSeenByNautilus.jpeg",
-            "publishedAt": "2024-11-04T11:01:21Z",
-            "content": "An expedition to a deep-sea ridge, just north of the Hawaiian Islands, revealed a surprise discovery back in 2022: an ancient dried-out lake bed paved with what looks like a yellow brick road.\r\nThe e… [+1993 chars]"
+            "author": "Nellie Andreeva",
+            "title": "‘Outer Banks’ Renewed For Fifth & Final Season Ahead Of Season 4 Part 2 Debut On Netflix - Deadline",
+            "description": "Outer Banks has been renewed by Netflix for a fifth season, which will be its last. The pickup comes ahead of the Nov. 7 debut of Season 4 Part 2.",
+            "url": "http://deadline.com/2024/11/outer-banks-renewed-season-5-no-season-6-1236164521/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/OUTERBANKS_406_Unit_02193RC_53198e.jpg?w=1024",
+            "publishedAt": "2024-11-04T21:45:00Z",
+            "content": "EXCLUSIVE: The Pogues from OBX are headed for one final epic quest. In a case of good news-bad news for fans, the popular Netflix action-adventure YA series has been renewed for a fifth season, which… [+5227 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
+                "name": "NBCSports.com"
             },
-            "author": "Zak Doffman",
-            "title": "Apple’s New Update Surprises iPhone Users—This Completely Changes Your Phone - Forbes",
-            "description": "You should change your phone settings when you install—here’s what you need to know.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2024/11/04/apples-new-update-surprises-iphone-users-this-completely-changes-your-phone/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671bfbf115aaadfb4bbbd822/0x0.jpg?format=jpg&crop=2015,1140,x1451,y244,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-11-04T10:27:06Z",
-            "content": "Forget Apple Intelligencethis major change is confirmed.\r\nSOPA Images/LightRocket via Getty Images\r\nNo-one saw this coming from Applebut it is, and its also coming earlier than expected. Forget iOS 1… [+4102 chars]"
+            "author": "Josh Alper",
+            "title": "Mike McCarthy: We’ll have conversations about IR for Dak Prescott after more evaluation - NBC Sports",
+            "description": "A report on Monday indicated that quarterback Dak Prescott is going to be out for multiple weeks due to the hamstring injury he suffered in Sunday's loss to the Falcons, but head coach Mike McCarthy didn't confirm that at his Monday afternoon press conference.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mccarthy-well-have-conversations-about-ir-for-dak-prescott",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/951a376/2147483647/strip/true/crop/3600x2025+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2F41%2Fd330378e46f5be395f685872314d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2182094830",
+            "publishedAt": "2024-11-04T21:37:51Z",
+            "content": "A report on Monday indicated that quarterback Dak Prescott is going to be out for multiple weeks due to the hamstring injury he suffered in Sundays loss to the Falcons, but head coach Mike McCarthy d… [+662 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "newsweek",
+                "name": "Newsweek"
             },
-            "author": "Taylor Nicioli",
-            "title": "How to spot a fireball from the first branch of the Taurid meteor showers - CNN",
-            "description": "The Southern Taurid meteor shower is set to peak Monday night into Tuesday with a chance for sky-gazers to spot fireballs. Here’s how to see the celestial show.",
-            "url": "https://www.cnn.com/2024/11/04/science/meteor-shower-southern-taurids/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-5386934k-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-11-04T10:00:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA meteor shower known for blazing fireballs is set to … [+3948 chars]"
+            "author": "Joe Edwards",
+            "title": "Kamala Harris Will Win, According to Stock Market Election Indicator - Newsweek",
+            "description": "Kamala Harris is set to claim the White House based on the performance of the S&P 500.",
+            "url": "https://www.newsweek.com/stock-market-election-indicator-kamala-harris-will-win-1978394",
+            "urlToImage": "https://d.newsweek.com/en/full/2509568/harris-emhoff.jpg",
+            "publishedAt": "2024-11-04T21:31:15Z",
+            "content": "Vice President Kamala Harris will win the 2024 presidential election, at least according to one longstanding indicator based on market performance.\r\nKnown as the \"Presidential Predictor,\" this stock-… [+3361 chars]"
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": null,
+                "name": "Bengals.com"
             },
-            "author": "Al Jazeera",
-            "title": "Harris says will end Gaza war in final election appeal to Arab Americans - Al Jazeera English",
-            "description": "Harris risks losing support of Michigan’s 200,000-strong Arab Americans, who denounce the US handling of Israel’s war.",
-            "url": "https://www.aljazeera.com/news/2024/11/4/harris-says-will-end-gaza-war-in-final-election-appeal-to-arab-americans",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/2024-11-04T000146Z_870152983_RC2YXAAZPHRB_RTRMADP_3_USA-ELECTION-HARRIS-1730703875.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-11-04T09:43:03Z",
-            "content": "In her closing pitch for the presidency of the United States, Democrat aspirant Kamala Harris has promised to end the war in Gaza.\r\nCampaigning in the swing state of Michigan, home to many Arab Ameri… [+2849 chars]"
+            "author": null,
+            "title": "Bengals at Chargers Flexed Into Sunday Night Football - Bengals.com",
+            "description": "The Bengals Nov. 17 Week 11 game against the Los Angeles Chargers will now kick off at 8:20 pm on NBC.",
+            "url": "https://www.bengals.com/news/bengals-at-chargers-flexed-into-sunday-night-football",
+            "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bengals/f9uhracjhdrwcb0pdxcf",
+            "publishedAt": "2024-11-04T21:01:15Z",
+            "content": null
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": null,
+                "name": "CNET"
             },
-            "author": "Paul Steinhauser",
-            "title": "On Election Eve, Harris and Trump hold dueling rallies in the biggest of the battlegrounds - Fox News",
-            "description": "Vice President Kamala Harris and former President Donald Trump are crisscrossing battleground Pennsylvania on the final full day of campaigning ahead of Election Day 2024.",
-            "url": "https://www.foxnews.com/politics/election-eve-harris-trump-hold-dueling-rallies-biggest-battlegrounds",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/trump-and-harris-2.jpg",
-            "publishedAt": "2024-11-04T09:00:00Z",
-            "content": "PHILADELPHIA Vice President Kamala Harris is making a last-minute pitch to her supporters in the biggest of the battlegrounds.\r\n\"We need you to vote, Pennsylvania.  We need you to vote,\" Harris empha… [+6568 chars]"
+            "author": null,
+            "title": "Apple Reportedly Working on MacBook Pro Overhaul - CNET",
+            "description": "The 2026 model is expected to be thinner and lighter, with an OLED display.",
+            "url": "https://www.cnet.com/tech/apple-reportedly-working-on-macbook-pro-overhaul/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/205ed03134c18b7c81149d624442da3247a5d414/hub/2024/10/30/aee46f92-4201-4d36-bce2-04084e59f6f0/macbook-pro-2024-control.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-11-04T20:09:00Z",
+            "content": "Apple is reportedly working on a completely redesigned MacBook Pro, but it likely won't be released until 2026. While the company is still expected to launch the 2025 MacBook Pro featuring upgraded M… [+1243 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "[Removed]"
             },
-            "author": "HILLEL ITALIE",
-            "title": "Quincy Jones, music titan who worked with everyone from Frank Sinatra to Michael Jackson, dies at 91 - The Associated Press",
-            "description": "Quincy Jones has died at age 91. His publicist says he died Sunday night at his home in Los Angeles. Jones' historic career ranged from producing Michael Jackson’s record-setting “Thriller” to prize-winning film and television scores and collaborations with F…",
-            "url": "https://apnews.com/article/quincy-jones-dead-a9e31c7e39c448d8971519f47a22dd21",
-            "urlToImage": "https://dims.apnews.com/dims4/default/072ffdb/2147483647/strip/true/crop/5391x3032+0+282/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9b%2Fea%2F866a08e4ffa4b168e8f6bc8719ae%2F56d3e35a258f444fa8549af419916271",
-            "publishedAt": "2024-11-04T07:59:00Z",
-            "content": "Quincy Jones, the multitalented music titan whose vast legacy ranged from producing Michael Jacksons historic Thriller album to writing prize-winning film and television scores and collaborating with… [+11527 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T20:03:45Z",
+            "content": "[Removed]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "Page Six"
             },
-            "author": "Reuters",
-            "title": "Indonesia's Mount Lewotobi Laki-laki volcano erupts, killing 10 people - Reuters",
-            "description": "At least 10 people died after Mount Lewotobi Laki-laki in eastern Indonesia erupted near midnight on Sunday, spewing explosive plumes of lava and forcing authorities to evacuate several nearby villages, officials said on Monday.",
-            "url": "https://www.reuters.com/world/asia-pacific/indonesias-laki-laki-volcano-flores-island-erupts-killing-9-people-2024-11-04/",
-            "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/6728b676e4b03aa26b40a33b-1730721512015?height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-11-04T07:34:00Z",
+            "author": "Jacquelyn Kozak",
+            "title": "Celebrities who have voted in the 2024 presidential election: Lizzo, Ariana Grande, Blake Lively, more - Page Six",
+            "description": "Your fave celebs are doing their civic duty and stepping out to vote.",
+            "url": "https://pagesix.com/2024/11/04/photos/celebrities-who-have-voted-in-the-2024-presidential-election-lizzo-ariana-grande-blake-lively-more/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/11/celebs-vote-2024.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2024-11-04T20:03:00Z",
             "content": null
         },
         {
@@ -397,52 +280,169 @@
                 "id": null,
                 "name": "Phys.Org"
             },
-            "author": "Johns Hopkins University School of Medicine",
-            "title": "Fossil of huge terror bird offers new information about wildlife in South America 12 million years ago - Phys.org",
-            "description": "Researchers including a Johns Hopkins University evolutionary biologist report they have analyzed a fossil of an extinct giant meat-eating bird—which they say could be the largest known member of its kind—providing new information about animal life in norther…",
-            "url": "https://phys.org/news/2024-11-fossil-huge-terror-bird-wildlife.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/fossil-of-huge-terror.jpg",
-            "publishedAt": "2024-11-04T06:00:01Z",
-            "content": "Researchers including a Johns Hopkins University evolutionary biologist report they have analyzed a fossil of an extinct giant meat-eating birdwhich they say could be the largest known member of its … [+4561 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Paul Gutierrez",
-            "title": "Raiders, at league-worst 2-7, fire OC, two others - ESPN",
-            "description": "The Raiders have fired offensive coordinator Luke Getsy, offensive line coach James Cregg and quarterbacks coach Rich Scangarello, the team announced.",
-            "url": "https://www.espn.com/nfl/story/_/id/42182081/las-vegas-raiders-fire-offensive-coordinator-luke-getsy",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1104%2Fr1410191_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-11-04T05:17:00Z",
-            "content": "HENDERSON, Nev. -- The Las Vegas Raiders have fired offensive coordinator Luke Getsy after nine games, the team announced Sunday night.\r\nThe Raiders also fired offensive line coach James Cregg and qu… [+4083 chars]"
+            "author": "University of Pennsylvania",
+            "title": "The secrets of baseball's magic mud: Study quantifies its properties to show it's not simply a superstition - Phys.org",
+            "description": "The unique properties of baseball's famed \"magic\" mud have never been scientifically quantified—until now. In a paper in Proceedings of the National Academy of Sciences, researchers at the University of Pennsylvania School of Engineering and Applied Science (…",
+            "url": "https://phys.org/news/2024-11-secrets-baseball-magic-mud-quantifies.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/the-secrets-of-basebal.jpg",
+            "publishedAt": "2024-11-04T20:00:02Z",
+            "content": "The unique properties of baseball's famed \"magic\" mud have never been scientifically quantifieduntil now. In a paper in Proceedings of the National Academy of Sciences, researchers at the University … [+4490 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Boston.com"
+                "name": "9to5google.com"
             },
-            "author": "Molly Farrar",
-            "title": "Owner of South Shore spas accused of injecting clients with counterfeit Botox - Boston.com",
-            "description": "Rebecca Fadanelli, 38, is accused of ordering counterfeit and injecting Botox, Sculptra, and Juvederm from China and Brazil since 2021.",
-            "url": "https://www.boston.com/news/local-news/2024/11/03/owner-of-south-shore-spas-accused-of-injecting-patients-with-counterfeit-botox/",
-            "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2024/11/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2019_06_26_BostonGlobe.com_Business_Images_87760bb01dee4b359400793d382d391c-87760bb01dee4b359400793d382d391c-0-672802e0696dd-768x432.jpg",
-            "publishedAt": "2024-11-03T23:26:13Z",
-            "content": "Local News\r\nThe owner of spas in Randolph and South Easton is accused of earning nearly $1 million by injecting clients with counterfeit Botox and fillers, according to federal charges filed this wee… [+2041 chars]"
+            "author": "Abner Li",
+            "title": "Pixel Screenshots update adds grid density to homepage, app shortcuts - 9to5Google",
+            "description": "An update to Pixel Screenshots is rolling out with a number of UI tweaks, like doing away with the \"All screenshots\" view.",
+            "url": "http://9to5google.com/2024/11/04/pixel-screenshots-update/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-Screenshots-wide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-11-04T19:31:00Z",
+            "content": "An update to Pixel Screenshots is rolling out with a number of UI tweaks, like doing away with the “All screenshots” view. \r\nThe Pixel Screenshots homepage consists of two carousels for Reminders and… [+1491 chars]"
         },
         {
             "source": {
-                "id": "fortune",
-                "name": "Fortune"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
-            "author": "Ani Freedman",
-            "title": "How much protein you need depends on your exercise routine - Fortune",
-            "description": "Experts weigh in as many people in the online fitness community seem obsessed with protein.",
-            "url": "https://fortune.com/well/article/how-much-protein-you-need-workout-exercise/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-1611029341-e1730493334905.jpg?resize=1200,600",
-            "publishedAt": "2024-11-03T01:17:00Z",
-            "content": "For fitness enthusiasts, protein is important for muscle repair, recovery, and growth. But for many, eating high-protein has become such a focus of their diet, that they end up overdoing it on the nu… [+4643 chars]"
+            "author": "Marco Quiroz-Gutierrez",
+            "title": "Berkshire Hathaway is dumping Apple stock and building its cash stockpile to record highs because Warren Buffett believes the government will raise capital gains taxes soon - Yahoo Finance",
+            "description": "The company’s cash and short-term treasuries now outweigh the market value of its equities.",
+            "url": "https://finance.yahoo.com/news/berkshire-hathaway-dumping-apple-stock-190102086.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2mSv17kfdt3LsywXl0FU7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/ea1360eef24d7bd0272e5d24ce29e6f8",
+            "publishedAt": "2024-11-04T19:01:02Z",
+            "content": "Berkshire Hathaways cash reserves are at an all-time high of $325.2 billion as Warren Buffett quickly exits what has been one of his most profitable trades of the past decade.\r\nThe Oracle of Omaha an… [+3097 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Arathy Somasekhar",
+            "title": "Oil jumps nearly 3% after OPEC+ delays output hike, US election in focus - Reuters",
+            "description": "Oil prices climbed nearly 3% on Monday on OPEC+'s decision for a month's delay in plans to increase output, while investors also focused on the U.S. presidential election.",
+            "url": "https://www.reuters.com/markets/commodities/oil-prices-rise-by-over-1-opec-output-hike-delay-2024-11-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/6MN72RNQEFJSLAXYCNZIJ6KXQA.jpg?auth=c95b4e0b3c7178d7185f6c0ea80a4827048e3de445dea86c4a42402b6f5a40cc&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-04T18:27:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Marina Pitofsky, Karissa Waddick, Rachel Barber, Josh Meyer, Bart Jansen, Riley Beggin, Sudiksha Kochi, Joey Garrison",
+            "title": "Election 2024 live updates: Trump, Harris await Election Day results; new polls - USA TODAY",
+            "description": "Just one day until Election Day. Americans will make their voices heard on Tuesday, choosing between former President Donald Trump and Vice President Kamala Harris.",
+            "url": "https://www.usatoday.com/story/news/politics/elections/2024/11/04/election-2024-live-updates-trump-harris/76033477007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/11/USAT/75183810007-2171259225.jpg?crop=5752,3236,x0,y299&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-11-04T18:05:18Z",
+            "content": "Just one day until Election Day.\r\nAmericans across the country will make their voices heard on Tuesday, choosing between former President Donald Trump and Vice President Kamala Harris. The Republican… [+38607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Elena Giordano",
+            "title": "EU leaders exult at Moldovan president’s reelection as pro-Russian opposition whines - POLITICO Europe",
+            "description": "Incumbent Maia Sandu won a crucial vote Sunday with support from pro-West diaspora.",
+            "url": "https://www.politico.eu/article/pro-eu-moldova-president-maia-sandu-pro-russian-opposition-alexandr-stoianoglo/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/11/04/GettyImages-2182110407.jpg",
+            "publishedAt": "2024-11-04T18:04:00Z",
+            "content": "The people of Moldova have reaffirmed their trust in your leadership, stability and commitment to a European future, wrote European Council President Charles Michel.\r\nMoldova has found itself under e… [+1425 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "See what election workers in a critical swing state are doing before Election Day - CNN",
+            "description": "CNN’s Nick Valencia reports from an election center in Georgia where workers are processing absentee ballots ahead of Election Day.",
+            "url": "https://www.cnn.com/2024/11/04/politics/video/election-workers-georgia-preparation-election-day-nick-valencia-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/valencia.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-04T17:11:07Z",
+            "content": "CNN's Nick Valencia reports from an election center in Georgia where workers are processing absentee ballots ahead of Election Day."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T15:43:39Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "Andrew O'Hara",
+            "title": "Apple TV gains watch list, Apple hides Thread radios, and more new products on HomeKit Insider - AppleInsider",
+            "description": "On this episode of the HomeKit Insider Podcast we talk about Apple's continued use of hidden Thread radios, Apple TV's new watch list feature, and more new smart home products launching.",
+            "url": "https://appleinsider.com/articles/24/11/04/apple-tv-gains-watch-list-apple-hides-thread-radios-and-more-new-products-on-homekit-insider",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/46889-91403-HKI-Header-xl.jpg",
+            "publishedAt": "2024-11-04T14:37:25Z",
+            "content": "On this episode of the HomeKit Insider Podcast we talk about Apple's continued use of hidden Thread radios, Apple TV's new watch list feature, and more new smart home products launching.\r\nRecently, A… [+2177 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOCO Oklahoma City"
+            },
+            "author": "Jonathan Greco",
+            "title": "UPDATES: Oklahoma sees more storms amid another severe weather day - KOCO Oklahoma City",
+            "description": "Tornado-warned storms continue to move across Oklahoma on Monday after multiple were issued earlier in the morning and a day after the state saw several tornadoes.",
+            "url": "https://www.koco.com/article/oklahoma-storms-tornado-risk-severe-weather-timeline-hail-monday/62800488",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-image-2024-11-04t125323-050-6729182e1782e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2024-11-04T14:14:00Z",
+            "content": "Tornado-warned storms continue to move across Oklahoma on Monday after multiple were issued earlier in the morning and a day after the state saw several tornadoes. \r\n&gt;&gt; Check live radar | KOCO … [+13114 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Adriel Bettelheim",
+            "title": "Less than 1 in 6 health workers got COVID booster - Axios",
+            "description": "Fewer than 1 in 6 health care workers in hospitals and nursing homes reported getting COVID-19 boosters during the 2023-2024 season.",
+            "url": "https://www.axios.com/2024/11/04/health-workers-covid-booster-rates",
+            "urlToImage": "https://images.axios.com/Rxjl1bAMAXPkPxC6o8YuCGR6E_0=/0x0:1920x1080/1366x768/2024/11/03/1730646209480.jpg",
+            "publishedAt": "2024-11-04T11:54:27Z",
+            "content": "Fewer than 1 in 6 health care workers in hospitals and nursing homes reported getting COVID-19 boosters during the 2023-2024 respiratory virus season, a Centers for Disease Control and Prevention stu… [+1879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sci.news"
+            },
+            "author": "News Staff",
+            "title": "Fossil of Huge Terror Bird Found in Colombia - Sci.News",
+            "description": "Paleontologists have unearthed and examined a fossilized leg bone of a phorusrhacid bird that lived 12 million years ago in South America.",
+            "url": "https://www.sci.news/paleontology/terror-bird-fossil-colombia-13394.html",
+            "urlToImage": "https://cdn.sci.news/images/2024/11/image_13394_1-Paraphysornis.jpg",
+            "publishedAt": "2024-11-04T08:23:20Z",
+            "content": "Paleontologists have unearthed and examined a fossilized leg bone of a phorusrhacid bird that lived 12 million years ago in South America.\r\nA model of Paraphysornis at the Natural History Museum Vien… [+2724 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "David Nield",
+            "title": "Vitamin D Deficiency Can Trigger Autoimmune Conditions. Here's Why. - ScienceAlert",
+            "description": "Vitamin D is important to our overall health, and now scientists have made some notable discoveries about how deficiency early in life can trigger problems with the body's immune system.",
+            "url": "https://www.sciencealert.com/vitamin-d-deficiency-can-trigger-autoimmune-conditions-heres-why",
+            "urlToImage": "https://www.sciencealert.com/images/2024/10/VitaminSupplements.jpg",
+            "publishedAt": "2024-11-03T09:03:35Z",
+            "content": "Vitamin D is important to our overall health, and now scientists have made some notable discoveries about how deficiency early in life can trigger problems with the body's immune system.\r\nResearchers… [+2658 chars]"
         },
         {
             "source": {
@@ -456,6 +456,19 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdrv.com/content/tncms/assets/v3/editorial/c/94/c9416f7a-e859-5076-a7c2-3364968eb62f/6618410fb6933.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
             "publishedAt": "2024-11-03T00:33:00Z",
             "content": "JACKSON COUNTY, Ore.-- The U.S Department of Agriculture confirmed Highly Pathogenic Avian Influenza(HPAI) in a backyard flock of geese and chickens in Jackson County.\r\nThis is the first confirmed ca… [+2156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "K12dive.com"
+            },
+            "author": "Anna Merod",
+            "title": "USDA to eliminate school meal ‘junk fees’ for low-income families - K-12 Dive",
+            "description": "Schools will not be allowed to charge online processing fees to students eligible for free and reduced-price meals starting in the 2027-28 school year.",
+            "url": "https://www.k12dive.com/news/usda-school-meal-junk-fees-ban-reduced-price-meals/731741/",
+            "urlToImage": "https://imgproxy.divecdn.com/ywHN3lp8O9vWbS3Nn26IY4Idc0gQi4oDmzEQguXB21U/g:ce/rs:fit:770:435/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NTQyMDY2NTEuanBn.webp",
+            "publishedAt": "2024-11-01T15:38:14Z",
+            "content": "Starting in the 2027-28 school year, schools will be prohibited from charging junk fees to low-income families for meals served through the School Breakfast Program and the National School Lunch Prog… [+2010 chars]"
         }
     ]
 }

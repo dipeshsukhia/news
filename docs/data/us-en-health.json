@@ -4,16 +4,42 @@
     "articles": [
         {
             "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "David Oliver",
+            "title": "James Van Der Beek, Jenna Fischer and the rise of young people getting cancer - USA TODAY",
+            "description": "Why are young people getting cancer at higher rates? No one knows, but here's how to stay proactive and vigilant.",
+            "url": "https://www.usatoday.com/story/life/health-wellness/2024/11/04/james-van-der-beek-jenna-fischer-cancer-young/75576304007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/03/USAT/76033525007-gty-1176245187.JPG?crop=2666,1500,x0,y0&width=2666&height=1500&format=pjpg&auto=webp",
+            "publishedAt": "2024-11-06T10:10:04Z",
+            "content": "James Van Der Beek has colorectal cancer a shocking, scary diagnosis for anyone. And 47 years old is especially young for such a condition, right?\r\nNot exactly. Colorectal cancer is one of 17 differe… [+5358 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Alexa Mikhail",
+            "title": "Binge drinking is on the rise among older adults. Here’s why it’s more dangerous and how to spot the signs - Fortune",
+            "description": "Older adults are more susceptible to the effects of alcohol.",
+            "url": "https://fortune.com/well/article/binge-drinking-older-adults/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/GettyImages-140642189-e1730395475231.jpg?resize=1200,600",
+            "publishedAt": "2024-11-06T07:34:42Z",
+            "content": "Binge drinking is prevalent across generations, but the dangerous habit is growing among one age group in particular. Long associated with college students, binge drinking, defined as having four or … [+3875 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-11-06T03:48:00Z",
-            "content": "[Removed]"
+            "title": "Are Your Groceries Harming Your Pregnancy? Alarming Mold Toxins Found in Popular Everyday Foods - SciTechDaily",
+            "description": "Nearly all pregnant women may be exposed to the estrogen-mimicking toxin ZEN, which is prevalent in food and potentially increasing with climate change. Higher exposure levels correlate with certain diets and lifestyles, prompting calls for both dietary cauti…",
+            "url": "https://scitechdaily.com/?p=429181",
+            "urlToImage": "https://scitechdaily.com/images/Very-Pregnant-Woman.jpg",
+            "publishedAt": "2024-11-06T03:52:03Z",
+            "content": "A study found that nearly all pregnant women are exposed to the fungal toxin zearalenone (ZEN), an estrogen-mimicking mycoestrogen that contaminates many foods and may disrupt reproduction.\r\nNearly a… [+4584 chars]"
         },
         {
             "source": {
@@ -26,19 +52,6 @@
             "url": "https://removed.com",
             "urlToImage": null,
             "publishedAt": "2024-11-06T00:01:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-11-05T23:01:49Z",
             "content": "[Removed]"
         },
         {
@@ -65,6 +78,19 @@
             "url": "https://abcnews.go.com/GMA/Family/mom-defies-odds-recovers-brain-aneurysm-absolute-miracle/story?id\\\\u003d115511620",
             "urlToImage": null,
             "publishedAt": "2024-11-05T22:08:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "Joshua Hawkins, Joshua Hawkins",
+            "title": "Scientists can tweak one gene to extend lifespans by up to 30% - BGR",
+            "description": "A new study could help further attempts to slow human aging as gene tweaking experiments have improved the lifespans of fruit flies by 30%.",
+            "url": "https://bgr.com/science/scientists-can-tweak-one-gene-to-extend-lifespans-by-up-to-30/",
+            "urlToImage": "https://bgr.com/wp-content/uploads/2022/03/AdobeStock_141880562.jpeg?quality=82&strip=all",
+            "publishedAt": "2024-11-05T20:44:00Z",
             "content": null
         },
         {
@@ -96,19 +122,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Gut Bacteria Modulate Stress Responses Over Time - Neuroscience News",
-            "description": "New research has unveiled how gut bacteria play a key role in regulating stress by interacting with circadian rhythms, opening possibilities for microbiome-based therapies for mental health.",
-            "url": "https://neurosciencenews.com/circadian-microbiota-stress-27980/",
-            "urlToImage": "https://neurosciencenews.com/files/2024/11/gut-brain-stress-neurosicence.jpg",
-            "publishedAt": "2024-11-05T20:01:23Z",
-            "content": "Summary: New research has unveiled how gut bacteria play a key role in regulating stress by interacting with circadian rhythms, opening possibilities for microbiome-based therapies for mental health.… [+6573 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Newser"
             },
             "author": "Kate Seamons",
@@ -118,6 +131,32 @@
             "urlToImage": "https://img1-azrcdn.newser.com/image/1570804-12-20241105140331.jpeg",
             "publishedAt": "2024-11-05T19:57:00Z",
             "content": "Could eliminating mosquitoes' sense of hearing be the key to eliminating mosquito-borne diseases like dengue, yellow fever, and Zika? Possibly. The BBC reports researchers from the University of Cali… [+1455 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "The Most Dangerous Germs Without Effective Vaccines - Gizmodo",
+            "description": "Researchers at the World Health Organization have identified 17 pathogens most in need of new or improved vaccines, including threats like HIV, malaria, and influenza.",
+            "url": "https://gizmodo.com/the-most-dangerous-germs-without-effective-vaccines-2000520698",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/flu-virus.jpg",
+            "publishedAt": "2024-11-05T19:07:35Z",
+            "content": "The World Health Organization has put out a hit list of germs for future vaccines to tackle. In a report published this week, WHO scientists have identified 17 widely common pathogens that most need … [+4146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dayton Daily News"
+            },
+            "author": "Samantha Wildow",
+            "title": "Walking pneumonia, whooping cough increasing nationally and locally - Dayton Daily News",
+            "description": "",
+            "url": "https://www.daytondailynews.com/local/walking-pneumonia-whooping-cough-increasing-nationally-and-locally/FQE6WV3EOFCI7FDKG2BN3WHD4I/",
+            "urlToImage": "https://www.daytondailynews.com/resizer/v2/CV4YTUU4DF2EISCPGCS7IH6NM4.jpg?auth=4d62a38675314c799aeb820fe4e4c8dc9bee83fb6ca6bb646aad855ebb64208a&width=1200&height=630&smart=true",
+            "publishedAt": "2024-11-05T19:00:16Z",
+            "content": "We have been seeing increased numbers of patients with the infection due to Mycoplasma pneumoniae, which is the bacteria that causes walking pneumonia, said Dr. Michael Klatte, chief of pediatric inf… [+4767 chars]"
         },
         {
             "source": {
@@ -173,6 +212,32 @@
         },
         {
             "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Robby Berman",
+            "title": "Could eating a handful of pistachios daily help improve eye health? - Medical News Today",
+            "description": "Eating two ounces of unsalted pistachios daily for 12 days significantly improved the health of macular pigment optical density and improved participants' eye health, a new study found.",
+            "url": "https://www.medicalnewstoday.com/articles/eating-pistachios-unsalted-daily-help-improve-eye-health",
+            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/11/broken-pistachios-table-1200-628-facebook.jpg",
+            "publishedAt": "2024-11-05T16:07:30Z",
+            "content": "<ul><li>Adding pistachios to ones diet improves eyesight, according to a new study.</li><li>The study found that eating two ounces of pistachios daily for 12 days significantly improved the health of… [+5535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medical Xpress"
+            },
+            "author": "University College Cork",
+            "title": "Gut microbes play key role in regulating stress responsiveness throughout the day, research finds - Medical Xpress",
+            "description": "A pioneering study has uncovered the vital role that gut microbiota plays in regulating stress responses by interacting with the body's circadian rhythms.",
+            "url": "https://medicalxpress.com/news/2024-11-gut-microbes-play-key-role.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/gut-microbes-play-a-ke.jpg",
+            "publishedAt": "2024-11-05T16:00:01Z",
+            "content": "A pioneering study has uncovered the vital role that gut microbiota plays in regulating stress responses by interacting with the body's circadian rhythms.\r\nThe findings open the door for developing n… [+4533 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "IFLScience"
             },
@@ -225,29 +290,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": null,
-            "title": "Why Is Colon Cancer Becoming More Common in Young Adults? - Inside Edition",
-            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-            "url": "https://www.youtube.com/",
-            "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-            "publishedAt": "2024-11-05T13:25:34Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "The Wall Street Journal",
-            "title": "‘Walking Pneumonia’ Is Surging Ahead of Cold and Flu Season - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/health/wellness/walking-pneumonia-symptoms-8346732b",
-            "urlToImage": null,
-            "publishedAt": "2024-11-05T13:00:00Z",
-            "content": null
+            "author": "Rachel Hosie",
+            "title": "Lose Weight and Maintain Muscle by Eating More Carbs, Dietitian Says - Business Insider",
+            "description": "If you feel out of control when eating carbs, including them more regularly in your diet could help, a dietitian said.",
+            "url": "https://www.businessinsider.com/lose-weight-maintain-muscle-eat-more-carbs-whole-foods-dietitian-2024-11",
+            "urlToImage": "https://i.insider.com/672a0700192f525898560d1d?width=1200&format=jpeg",
+            "publishedAt": "2024-11-05T12:47:00Z",
+            "content": "Silvia, 45, submitted her eating routine to Business Insider's Nutrition Clinic, where qualified dietitians and registered nutritionists offer advice on readers' eating habits.\r\nShe said that her goa… [+3487 chars]"
         },
         {
             "source": {
@@ -287,6 +339,19 @@
             "urlToImage": "https://www.eatingwell.com/thmb/SKwnI_15TE9VrES8vj-HjuzTKtk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/You-Just-Found-Out-You-Have-Prediabetes-baee7fd9e35242efb7c89f2ea450a310.jpg",
             "publishedAt": "2024-11-05T12:04:48Z",
             "content": "If you recently received a prediabetes diagnosis, youre far from alone. According to the National Institutes of Health, more than 1 in 3 U.S. adults are living with prediabetes. The good news? Findin… [+4514 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Good News Network"
+            },
+            "author": "Andy Corbley",
+            "title": "Jordan Recognized as First in the World to Eradicate Leprosy - Good News Network",
+            "description": "Leprosy is considered a neglected tropical disease (NTD) that still occurs in about 200,000 cases in more than 120 countries.",
+            "url": "https://www.goodnewsnetwork.org/jordan-recognized-as-first-in-the-world-to-eradicate-leprosy/",
+            "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/jordan-becomes-first-country-to-receive-who-verification-for-eliminating-leprosy-who-e1730791393279.jpg",
+            "publishedAt": "2024-11-05T12:00:28Z",
+            "content": "Dr. Jamela Al-Raiby, WHO Representative to Jordan (left) and H.E Prof. Feras Ibrahim Hawari, Minister of Health, Jordan (right) – credit WHO, released.\r\nIt is a disease that has been plaguing commone… [+2260 chars]"
         },
         {
             "source": {
@@ -473,15 +538,15 @@
         {
             "source": {
                 "id": null,
-                "name": "World Health Organization"
+                "name": "SheFinds"
             },
-            "author": "World Health Organization: WHO",
-            "title": "WHO study lists top endemic pathogens for which new vaccines are urgently needed - World Health Organization (WHO)",
-            "description": "<p>A new World Health Organization (WHO) study published today in <a href=\"https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00460-2/fulltext\" data-sf-ec-immutable=\"\"><em>eBioMedicine</em></a><em> </em>names 17 pathogens that regularly cause d…",
-            "url": "https://www.who.int/news/item/05-11-2024-who-study-lists-top-endemic-pathogens-for-which-new-vaccines-are-urgently-needed",
-            "urlToImage": "https://cdn.who.int/media/images/default-source/topics/medicines-medical-devices-and-medical-care/medicines/tajikistan_central_lab_2023.tmb-1200v.jpg?sfvrsn=93b244db_1",
-            "publishedAt": "2024-11-05T00:26:13Z",
-            "content": "A new World Health Organization (WHO) study published today in eBioMedicinenames 17 pathogens that regularly cause diseases in communities as top priorities for new vaccine development. The WHO study… [+3660 chars]"
+            "author": "mariam qayum",
+            "title": "The 16 Best Anti-Inflammatory Foods That Reduce Bloating And Improve Digestion - SheFinds",
+            "description": "Discover the 16 different foods that can help with reduced bloating and better digestion, only on SheFinds.com",
+            "url": "https://www.shefinds.com/collections/best-anti-inflammatory-foods-bloating-digestion/",
+            "urlToImage": "https://www.shefinds.com/files/2024/11/a-bowl-of-yogurt-with-fruit-and-chia-seeds.jpg",
+            "publishedAt": "2024-11-04T23:30:18Z",
+            "content": "Bloating and digestive discomfort are common issues that can result from factors such as diet, stress, and inflammation in the gut. Poor digestion can lead to gas, bloating, and an overall heavy feel… [+11604 chars]"
         },
         {
             "source": {
@@ -564,32 +629,6 @@
         {
             "source": {
                 "id": null,
-                "name": "STAT"
-            },
-            "author": "Helen Branswell",
-            "title": "A Q&A with the FDA’s top vaccine regulator amid a fresh wave of disinformation - STAT",
-            "description": "A fresh wave of disinformation about vaccines is flaring amid the 2024 campaign. The FDA's top vaccine official believes transparency about the agency's regulatory role is crucial.",
-            "url": "https://www.statnews.com/2024/11/04/fda-vaccine-regulation-peter-marks-fight-disinformation-with-transparency/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/11/AdobeStock_388712674-1024x576.jpeg",
-            "publishedAt": "2024-11-04T20:53:12Z",
-            "content": "Vaccination policy in the United States could be in line for some fundamental changes, if Donald Trump is reelected and delivers on promises that long-time vaccine skeptic Robert Kennedy Jr. said the… [+13877 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medical Xpress"
-            },
-            "author": "Justin Jackson",
-            "title": "Meta-analysis links meal timing to modest weight loss - Medical Xpress",
-            "description": "Researchers at Bond University in Robina, Australia, have found that meal timing strategies such as time-restricted eating, reducing meal frequency, and consuming calories earlier in the day are associated with modest weight loss over 12 weeks.",
-            "url": "https://medicalxpress.com/news/2024-11-meta-analysis-links-meal-modest.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/weight.jpg",
-            "publishedAt": "2024-11-04T20:49:55Z",
-            "content": "Researchers at Bond University in Robina, Australia, have found that meal timing strategies such as time-restricted eating, reducing meal frequency, and consuming calories earlier in the day are asso… [+3089 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "PsyPost"
             },
             "author": "Eric W. Dolan",
@@ -612,6 +651,19 @@
             "urlToImage": "https://www.nih.gov/sites/default/files/news-events/research-matters/2024/20241105-aging.jpg",
             "publishedAt": "2024-11-04T20:07:32Z",
             "content": "At a Glance\r\n<ul><li>Researchers found that grip strength, knee strength, and balanceespecially the ability to stand on just one legdecline significantly in the decades after age 50.</li><li>Measurin… [+3518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nyu.edu"
+            },
+            "author": "NYU Web Communications",
+            "title": "Small Reductions to Meat Production in Wealthier Countries May Help Fight Climate Change, New Analysis Concludes - NYU",
+            "description": "Eliminating fraction of current beef production could remove three years’ worth of global fossil fuel emissions",
+            "url": "https://www.nyu.edu/about/news-publications/news/2024/november/small-reductions-to-meat-production-in-wealthier-countries-may-h.html",
+            "urlToImage": "http://www.nyu.edu/content/nyu/en/about/news-publications/news/2024/november/small-reductions-to-meat-production-in-wealthier-countries-may-h/jcr:content/page/image.img.480.high.jpg",
+            "publishedAt": "2024-11-04T20:03:37Z",
+            "content": "Even if two different areas can regrow the same amount of carbon in trees, we can now know how much pasture, hence beef production, we would have to lose in each area to grow those trees back, explai… [+2127 chars]"
         },
         {
             "source": {
@@ -641,16 +693,29 @@
         },
         {
             "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Pandora Dewan",
+            "title": "Common Snack May Reduce Dementia Risk - Newsweek",
+            "description": "Those who ate up to one handful of this snack a day had a 16 percent lower risk of developing dementia.",
+            "url": "https://www.newsweek.com/common-snack-nuts-dementia-risk-alzheimers-brain-health-1979973",
+            "urlToImage": "https://d.newsweek.com/en/full/2511914/woman-buying-nuts.jpg",
+            "publishedAt": "2024-11-04T18:58:19Z",
+            "content": "A simple snack might help you stave off dementia, new research suggests.\r\nDementia affects more than 5 million Americans over the age of 65, according to the U.S. Centers for Disease Control and Prev… [+4305 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "New York Post"
             },
             "author": "Joseph Golder",
-            "title": "Man dismissed as ‘fat’ and given Ozempic before doctors find 60-pound tumor in his belly - New York Post ",
-            "description": "Thomas Kraut, 59, was diagnosed as obese. After 12 years, a doctor finally realized that his rapidly growing belly actually had a nearly 21-inch tumor inside.",
-            "url": "https://nypost.com/2024/11/04/lifestyle/doctors-find-60-pound-tumor-in-belly-of-man-dismissed-as-fat/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/thomas-kraut-59-poses-undated-93028146.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-11-04T18:32:00Z",
-            "content": "Doctors were convinced that a Norwegian man was simply fat for 12 years but his growing belly was actually expanding with a 60-pound malignant tumor.\r\nHe was diagnosed with obesity and even got presc… [+3144 chars]"
+            "title": "Man dismissed as ‘fat’ and given Ozempic before doctors find 60-pound tumor in his belly - Yahoo! Voices",
+            "description": "Thomas Kraut, 59, was diagnosed as obese. After 12 years, a doctor finally realized that his rapidly growing belly actually had a nearly 21-inch tumor inside...",
+            "url": "https://nypost.com/2024/11/04/lifestyle/doctors-find-60-pound-tumor-in-belly-of-man-dismissed-as-fat/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cuhxuZjb_OfrF38H176.eQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ny_post_articles_869/27993f3d874d4ccb834fce7281469927",
+            "publishedAt": "2024-11-04T18:32:09Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nD… [+3324 chars]"
         },
         {
             "source": {
@@ -664,19 +729,6 @@
             "urlToImage": "https://studyfinds.org/wp-content/uploads/2023/08/AdobeStock_411863870-scaled.jpeg",
             "publishedAt": "2024-11-04T18:14:46Z",
             "content": "This study looked at the relationship between poor sleep habits in middle age and brain aging later in life. The researchers used data from the Coronary Artery Risk Development in Young Adults (CARDI… [+2524 chars]"
-        },
-        {
-            "source": {
-                "id": "the-jerusalem-post",
-                "name": "The Jerusalem Post"
-            },
-            "author": "By  REUTERS",
-            "title": "World Organisation for Animal Health: Turkey reports bird flu outbreak on poultry farm - The Jerusalem Post",
-            "description": "Turkey has reported an outbreak of the highly contagious H5N1 strain of avian influenza on a poultry farm for",
-            "url": "https://www.jpost.com/breaking-news/article-827543",
-            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
-            "publishedAt": "2024-11-04T17:26:00Z",
-            "content": "Turkey has reported an outbreak of the highly contagious H5N1 strain of avian influenza on a poultry farm for the first time in over a year, the World Organisation for Animal Health (WOAH) said on Mo… [+299 chars]"
         },
         {
             "source": {
@@ -733,6 +785,19 @@
         {
             "source": {
                 "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Alfonso Maruccia",
+            "title": "Stanford researchers develop molecule that forces cancer cells to kill themselves - TechSpot",
+            "description": "The researchers' recently published study describes a way to re-activate apoptosis in mutated cells, which would amount to forcing cancer to self-destruct through a bioengineered, bonding molecule.",
+            "url": "https://www.techspot.com/news/105420-new-approach-uses-cancer-own-mutated-proteins-trigger.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/11/2024-11-04-image-5.jpg",
+            "publishedAt": "2024-11-04T13:57:00Z",
+            "content": "In context: Every day, billions of cells in the human body die thanks to a natural process known as apoptosis. When apoptosis doesn't work by design, cells get cancerous and can cause a life-threaten… [+2470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "syracuse.com"
             },
             "author": "Kevin Tampone | ktampone@syracuse.com",
@@ -754,85 +819,20 @@
             "url": "https://www.yahoo.com/lifestyle/smoking-rates-declining-too-lung-120036320.html",
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eESpuo2h8u6226zq_6jIaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/ee1ac410-6dc1-11ec-bb2f-e6f27f443014",
             "publishedAt": "2024-11-04T12:00:36Z",
-            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nN… [+7540 chars]"
+            "content": "November is Lung Cancer Awareness Month, which brings both good news and bad. On the one hand, overall rates of the disease and deaths from it have declined precipitously as smoking rates have plumme… [+7138 chars]"
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "fortune",
+                "name": "Fortune"
             },
-            "author": "Adriel Bettelheim",
-            "title": "Less than 1 in 6 health workers got COVID booster - Axios",
-            "description": "Fewer than 1 in 6 health care workers in hospitals and nursing homes reported getting COVID-19 boosters during the 2023-2024 season.",
-            "url": "https://www.axios.com/2024/11/04/health-workers-covid-booster-rates",
-            "urlToImage": "https://images.axios.com/Rxjl1bAMAXPkPxC6o8YuCGR6E_0=/0x0:1920x1080/1366x768/2024/11/03/1730646209480.jpg",
-            "publishedAt": "2024-11-04T11:54:27Z",
-            "content": "Fewer than 1 in 6 health care workers in hospitals and nursing homes reported getting COVID-19 boosters during the 2023-2024 respiratory virus season, a Centers for Disease Control and Prevention stu… [+1879 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-11-04T11:32:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "STAT"
-            },
-            "author": "Kara Ayik",
-            "title": "My son’s rare disease was renamed ASMD. Why are people still calling it Niemann-Pick? - STAT",
-            "description": "Eponyms — diseases named after a person — can cause serious confusion. That is particularly true in one rare disease community.",
-            "url": "https://www.statnews.com/2024/11/04/asmd-niemann-pick-type-a-b-eponyms-confusion/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/11/EvandMom1-1024x576.jpg",
-            "publishedAt": "2024-11-04T09:30:35Z",
-            "content": "Recently, the smoldering embers of conflict in my familys rare disease community have burst into flames over the use of an eponym: Niemann-Pick.\r\nAn eponym is a name derived from a person who first d… [+8223 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ourworldindata.org"
-            },
-            "author": null,
-            "title": "HPV vaccination: How the world can eliminate cervical cancer - Our World in Data",
-            "description": "HPV vaccines offer a rare opportunity to effectively eliminate one type of cancer. By taking this opportunity, it’s possible to save hundreds of thousands of women each year.",
-            "url": "https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer",
-            "urlToImage": "https://ourworldindata.org/images/published/hpv-vaccines-thumbnail.png",
-            "publishedAt": "2024-11-04T06:39:55Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Noma Nazish",
-            "title": "10 Therapist-Approved Tips For Overcoming Stress And Anxiety - Forbes",
-            "description": "From digital detox to butterfly hugs, these simple coping strategies can help calm your mind in minutes.",
-            "url": "https://www.forbes.com/sites/nomanazish/2024/11/04/10-therapist-approved-tips-for-overcoming-stress-and-anxiety/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6728eef6291a12d0e7959e67/0x0.jpg?format=jpg&crop=2646,1488,x0,y41,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-11-04T05:29:12Z",
-            "content": "Stressed out? These therapist-approved tips can make you feel better.\r\ngetty\r\nBetween the 2024 U.S. presidential elections, economic uncertainties and the upcoming holiday season, stress levels are r… [+7581 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "yovenice"
-            },
-            "author": "Yo Venice Staff",
-            "title": "H5N1 Detected in LA County Wastewater, Health Officials Urge Precautions for Residents - yovenice",
-            "description": "Los Angeles County Investigates Low-Level H5 Avian Flu Detected in Wastewater The Los Angeles County Department of Public Health is...",
-            "url": "https://yovenice.com/2024/11/03/h5n1-detected-in-la-county-wastewater-health-officials-urge-precautions-for-residents/",
-            "urlToImage": "https://yovenice-enki.s3.amazonaws.com/wp-content/uploads/2024/11/GettyImages-2150341687.jpg",
-            "publishedAt": "2024-11-04T05:00:22Z",
-            "content": null
+            "author": "Ani Freedman",
+            "title": "Stop obsessing over protein. You’re likely getting more than enough, but missing out on this vital nutrient, experts say - Fortune",
+            "description": "If you're eating enough during the day, you're likely meeting or exceeding your protein needs, experts say.",
+            "url": "https://fortune.com/well/article/too-much-protein-not-enough-fiber/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/GettyImages-1391266159-e1730217841441.jpg?resize=1200,600",
+            "publishedAt": "2024-11-02T00:30:00Z",
+            "content": "If your social media algorithm has pointed you in the direction of diet, weight-loss, or even general nutrition content, its likely youve come across high-protein recipes or influencers who swear by … [+7924 chars]"
         }
     ]
 }

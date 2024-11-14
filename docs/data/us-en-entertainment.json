@@ -4,16 +4,68 @@
     "articles": [
         {
             "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Video Denzel Washington to retire from acting - ABC News",
+            "description": "Although the two-time Academy Award winner still has a few movies on the horizon, including \"Gladiator 2,\" he said he has a strategy in place for the end of his career.",
+            "url": "https://abcnews.go.com/GMA/Culture/video/denzel-washington-retire-acting-115806337",
+            "urlToImage": "https://i.abcnewsfe.com/a/12996dec-7820-41cf-8f96-ae1c25c3c15c/241113_gma_pop1_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2024-11-13T15:17:21Z",
+            "content": "<ul><li>President Biden welcomes President-elect Trump back to White House\r\n</li><li>Inflation accelerated in October, offering 1st look at prices since election\r\n</li><li>Musk, Ramaswamy to help way… [+4193 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Hollywood Reporter"
             },
-            "author": "Beatrice Verhoeven",
-            "title": "Steve McQueen Drops Out of Camerimage Over Controversial Comments - Hollywood Reporter",
-            "description": "The 'Blitz' director was supposed to be in attendance for his opening night film, and he was being honored with the outstanding director award.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/steve-mcqueen-camerimage-out-founder-controversy-1236059867/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/GettyImages-2181440731-H-2024.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2024-11-13T08:59:54Z",
-            "content": "Blitz director Steve McQueen has dropped out of Poland’s Camerimage Film Festival following a controversial editorial about female cinematographers written by the festival’s founder and CEO Marek Żyd… [+4768 chars]"
+            "author": "Hilary Lewis",
+            "title": "‘Full House’ Star Dave Coulier Reveals He Has Stage 3 Non-Hodgkin Lymphoma - Hollywood Reporter",
+            "description": "\"I went from, I got a little bit of a head cold to I have cancer,\" the actor and comedian says of his diagnosis, as he's trying to stay positive.",
+            "url": "http://www.hollywoodreporter.com/news/general-news/full-house-dave-coulier-cancer-non-hodgkin-lymphoma-stage-3-1236060572/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/GettyImages-6320172481.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2024-11-13T15:06:54Z",
+            "content": "Full House star Dave Coulier has been diagnosed with stage 3 non-Hodgkin lymphoma.\r\nThe actor and comedian tells People magazine that he was diagnosed in October after an upper respiratory infection … [+5074 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Yoonjung Seo",
+            "title": "South Korean actor Song Jae-lim dead at 39 - CNN",
+            "description": "South Korean actor Song Jae-lim, a former model who rose to prominence in K-dramas, was found dead in Seoul on Tuesday. He was 39.",
+            "url": "https://www.cnn.com/2024/11/12/asia/south-korea-song-jae-lim-dead-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-452992578.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-13T14:24:00Z",
+            "content": "South Korean actor Song Jae-lim, a former model who rose to prominence in K-dramas, was found dead in Seoul on Tuesday. He was 39.\r\nSongs body was found in his apartment by a friend, who had planned … [+2148 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Clare Mulroy",
+            "title": "Amazon Best Books of 2024 revealed: Top 10 span genres but all 'make you feel deeply' - USA TODAY",
+            "description": "Amazon's \"Best Books of the Year\" list is here. The Top 10 for 2024 include dark thrillers, American classic retellings and stories of unsung heroes.",
+            "url": "https://www.usatoday.com/story/entertainment/books/2024/11/13/best-books-of-the-year-amazon-2024/76226935007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/12/USAT/76227015007-amazon-best-books-of-the-year-2024.jpg?crop=1999,1124,x0,y0&width=1999&height=1124&format=pjpg&auto=webp",
+            "publishedAt": "2024-11-13T14:02:05Z",
+            "content": "It's a simple question without an easy answer: What makes a best book of the year? \r\nIs it a novel begging to become a contemporary classic or a retelling of the classics themselves? Is it a book tha… [+8596 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alli Rosenbloom",
+            "title": "John Krasinski named People magazine’s ‘Sexiest Man Alive’ - CNN",
+            "description": "People magazine has named former “The Office” star John Krasinski as the 2024 Sexiest Man Alive.",
+            "url": "https://www.cnn.com/2024/11/13/entertainment/john-krasinski-sexiest-man-alive/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2152828465.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-13T14:00:00Z",
+            "content": "People magazine has named John Krasinski the 2024 Sexiest Man Alive.\r\nKrasinski was revealed to be the newest winner of the honorable title on Tuesdays episode of The Late Show with Stephen Colbert. … [+1184 chars]"
         },
         {
             "source": {
@@ -25,34 +77,125 @@
             "description": "[Removed]",
             "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2024-11-13T08:01:00Z",
+            "publishedAt": "2024-11-13T13:30:00Z",
             "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Jesse Whittock",
+            "title": "Timothy West Dies: British Theater And Screen Actor Was 90 - Deadline",
+            "description": "British theater and screen actor Timothy West has died aged 90.",
+            "url": "http://deadline.com/2024/11/timothy-west-dead-theater-screen-actor-was-90-1236175108/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/Timothy-West.jpg?w=1024",
+            "publishedAt": "2024-11-13T11:32:00Z",
+            "content": "British theater and screen actor Timothy West died Tuesday. He was 90.\r\nHis children, Juliet, Samuel and Joseph, released a statement today that said he said died “peacefully yesterday evening” surro… [+1680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Tracy Brown",
+            "title": "In unearthed prison phone call, Charles Manson admits involvement in pre-1969 killings - Yahoo Entertainment",
+            "description": "A new docuseries about the cult leader features audio in which he admits to participating in multiple killings in Mexico before the notorious Manson family...",
+            "url": "https://www.yahoo.com/entertainment/unearthed-prison-phone-call-charles-110020948.html",
+            "urlToImage": "https://media.zenfs.com/en/la_times_articles_853/3fadecd6139305fd04d4f7cae76868d4",
+            "publishedAt": "2024-11-13T11:00:20Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nC… [+2499 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amarachi Orie",
+            "title": "Magic society launches hunt for first female member, expelled for posing as a man - CNN",
+            "description": "Deception, disguise and finally a disappearance. This might sound like the premise of a magic trick, but it’s actually the story of a woman who managed to fool a male-only, world-famous magic society into admitting her, before being unceremoniously kicked out…",
+            "url": "https://www.cnn.com/2024/11/13/uk/magic-circle-sophie-lloyd-search-intl-scli/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gkpna4.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-13T10:37:00Z",
+            "content": "Deception, disguise and finally a disappearance. This might sound like the premise of a magic trick, but its actually the story of a woman who managed to fool a male-only, world-famous magic society … [+3631 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Variety"
             },
-            "author": "Patrick Frater",
-            "title": "Song Jae-lim, South Korean Actor, Dies at 39 - Variety",
-            "description": "South Korean actor Song Jae-lim was found dead at his home in Seoul on Tuesday. He was 39.",
-            "url": "https://variety.com/2024/global/news/song-jae-lim-dead-korean-actor-1236208649/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2024/11/GettyImages-460535664-1.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2024-11-13T05:08:00Z",
-            "content": "South Korean actor Song Jae-lim was found dead at his home in Seoul on Tuesday. He was 39.\r\nPolice sources said that Song’s body was found in Seoul’s Seongdong Ward at around 12:30 p.m. by a friend w… [+1761 chars]"
+            "author": "Alison Herman",
+            "title": "‘Bad Sisters’ Season 2 Is a Lesser Redux, if Still a Fun Ride: TV Review - Variety",
+            "description": "Season 2 of the Apple TV+ drama is a lesser redux of the intricately structured original, if still a fun ride.",
+            "url": "https://variety.com/2024/tv/tv-reviews/bad-sisters-season-2-review-1236195327/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/10/Bad_Sisters_Photo_020101.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-11-13T08:00:00Z",
+            "content": "There’s only a single flash-forward in Season 2 of “Bad Sisters,” and it’s the very first scene. Four of the five Garvey sisters — eldest Eva (Sharon Horgan), nurse Ursula (Eva Birthistle), one-eyed … [+5739 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "TVLine"
+                "name": "HuffPost"
             },
-            "author": "Rebecca Iannucci",
-            "title": "Dancing With the Stars’ 500th Episode Brings the Show’s Wildest Challenge Ever — Who’s Going to the Semifinals? - TVLine",
-            "description": "'Dancing With the Stars' celebrated its 500th episode on Tuesday by revealing the Season 33 semifinalists — who made it through?",
-            "url": "https://tvline.com/lists/dancing-with-the-stars-recap-semifinalists-revealed-episode-500/",
-            "urlToImage": "https://tvline.com/wp-content/uploads/2024/11/dwts-episode-500.jpg?w=650",
-            "publishedAt": "2024-11-13T03:15:20Z",
-            "content": "Dancing With the Stars hit a major milestone on Tuesday night and I don’t mean its 500th episode.\r\nOK, that’s a lie. Episode 500 is a major milestone, and the ABC reality competition hit it in style … [+6286 chars]"
+            "author": "Ed Mazza",
+            "title": "Jimmy Kimmel Epically Trolls Trump With A Surprise ‘Appearance’ For The Ages - HuffPost",
+            "description": "The late night host brought out a “guest” that just might get under the president-elect’s skin.",
+            "url": "https://www.huffpost.com/entry/jimmy-kimmel-trump-rubio_n_67343d96e4b07ebab742e64c",
+            "urlToImage": "https://img.huffingtonpost.com/asset/673452b71e00001e00bcda8a.jpeg?cache=WjtsmeWPMf&ops=1200_630",
+            "publishedAt": "2024-11-13T07:39:32Z",
+            "content": "Jimmy Kimmel isnt impressed with President-elect Donald Trumps Cabinet picks so far.\r\nBut one of those selections left him absolutely baffled: Sen. Marco Rubio (R-Fla.) for secretary of state. \r\nKimm… [+1354 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jacob Brogan",
+            "title": "‘Orbital,’ by Samantha Harvey, wins the Booker Prize - The Washington Post",
+            "description": "The author’s fifth novel follows a group of astronauts over the course of a day on a space station.",
+            "url": "https://www.washingtonpost.com/books/2024/11/12/samantha-harvey-orbital-booker-prize-winner/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7HIFSVGCN2ER2TOWXO2CZSDYYM_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-11-13T06:38:39Z",
+            "content": "Orbital, the fifth novel by Samantha Harvey, won the 2024 Booker Prize for Fiction on Tuesday. The novel follows astronauts over the course of 24 hours on a space station. The prize comes with a cash… [+233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Wednesday, November 13, 2024 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/horoscopes/2024/11/13/horoscope-for-wednesday-november-13-2024",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+            "publishedAt": "2024-11-13T06:02:38Z",
+            "content": "Moon Alert\r\nAvoid shopping or important decisions from 10:30 to 11:15 p.m PST. After that, the moon moves from Aries into Taurus.\r\nAries (March 21-April 19)\r\nA better day! The moon is in your sign da… [+3893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Emily Longeretta",
+            "title": "‘Dancing With the Stars’ Semi-Finalists Revealed After One Team Gets a Perfect Score During Milestone 500th Episode - Variety",
+            "description": "The semi-finalists were revealed during the 500th episode of 'Dancing With the Stars.'",
+            "url": "https://variety.com/2024/tv/news/dancing-with-the-stars-dwight-howard-eliminated-semi-finalists-revealed-500-1236208571/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/11/466740095_1155842985906460_8327401690847701825_n.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-11-13T03:05:00Z",
+            "content": "“Dancing With the Stars” hit a new milestone on Nov. 12, and revealed who was heading to the semifinals for Season 33. The 500th episode opened with pros — including returning favorite Sharna Burgess… [+1952 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "'Wheel of Fortune' contestant speaks out after wrong answer goes viral - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/GMA/Culture/wheel-fortune-contestant-speaks-after-wrong-answer-viral/story?id\\\\u003d115764507",
+            "urlToImage": null,
+            "publishedAt": "2024-11-13T02:52:18Z",
+            "content": null
         },
         {
             "source": {
@@ -66,19 +209,6 @@
             "urlToImage": "https://tvline.com/wp-content/uploads/2024/11/st-denis-medical_9019e0.jpg?w=650",
             "publishedAt": "2024-11-13T02:00:00Z",
             "content": "Got a Superstore-shaped hole in your TV lineup? St. Denis Medical is here to fill it.\r\nNBC‘s new medical comedy — which hails from Superstore and American Auto creator Justin Spitzer — arrived to the… [+3098 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Pamela McClintock",
-            "title": "Box Office Preview: Dwayne Johnson-Chris Evans’ ‘Red One’ Kicks Off Year-End Tentpole Parade - Hollywood Reporter",
-            "description": "Amazon originally intended for the $250 million Christmas movie to go straight to Prime Video before it bought MGM.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/box-office-preview-red-one-1236060213/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/MEA1_2024_UT_230516_NEAKAR_30285_BRC2_3000-H-2024.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2024-11-13T00:33:45Z",
-            "content": "It’s Dwayne Johnson and Chris Evans to the rescue.\r\nThat’s the hope in any case as their new Christmas movie, Red One, opens across North America this weekend after a tough fall. Tracking suggests th… [+3044 chars]"
         },
         {
             "source": {
@@ -122,54 +252,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Hindustan Times"
+                "name": "Deadline"
             },
-            "author": "Dr J.N Pandey",
-            "title": "Pisces Daily Horoscope Today, November 13, 2024 predicts an inflow of wealth - Hindustan Times",
-            "description": "Pisces Daily Horoscope Today, November 13, 2024 to know your astrological predictions. Today is a day for introspection and building relationships. | Horoscope",
-            "url": "https://www.hindustantimes.com/astrology/horoscope/pisces-daily-horoscope-today-november-13-2024-predicts-an-inflow-of-wealth-101731439564973.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/11/12/1600x900/Pisces_1728478870554_1731439769785.jpg",
-            "publishedAt": "2024-11-12T22:41:10Z",
-            "content": "Pisces (19th February to 20th March)\r\nDaily Horoscope Prediction says, unleash Your Intuition and Foster New Connections\r\nToday is a day for introspection and building relationships. Trust your insti… [+3478 chars]"
+            "author": "Justin Kroll",
+            "title": "Lupita Nyong’o Latest To Join Christopher Nolan’s Next Movie At Universal - Deadline",
+            "description": "Lupita Nyong'o has joined the cast of Christopher Nolan's next event movie",
+            "url": "http://deadline.com/2024/11/christopher-nolan-new-movie-lupita-nyongo-1236174556/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/Lupita-Nyongo-and-Christopher-Nolan.jpg?w=1024",
+            "publishedAt": "2024-11-12T22:37:00Z",
+            "content": "Oscar-winner Lupita Nyong’o is set to star in Christopher Nolan’s next event film at Universal. She joins previously announced cast members Matt Damon, Tom Holland, Anne Hathaway and Zendaya.\r\nThe fi… [+662 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Hindustan Times"
+                "name": "Eater"
             },
-            "author": "Dr J.N Pandey",
-            "title": "Capricorn Daily Horoscope Today, November 13, 2024 predicts a positive shift - Hindustan Times",
-            "description": "Capricorn Daily Horoscope Today, November 13, 2024 to know your astrological predictions. Keep an open mind and welcome new ideas. | Horoscope",
-            "url": "https://www.hindustantimes.com/astrology/horoscope/capricorn-daily-horoscope-today-november-13-2024-predicts-a-positive-shift-at-work-101731438428432.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/11/12/1600x900/Capricorn_1728478974232_1731438911700.jpg",
-            "publishedAt": "2024-11-12T22:39:09Z",
-            "content": "Capricorn (22nd December to 19th January)\r\nDaily Horoscope Prediction says, capricorn's day of Insight and Opportunities\r\nToday, Capricorns will encounter enlightening experiences, paving the way for… [+3362 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Dr J.N Pandey",
-            "title": "Libra Daily Horoscope Today, November 13, 2024 predicts recognition at work - Hindustan Times",
-            "description": "Libra Daily Horoscope Today, November 13, 2024 to know your astrological predictions. You may find themselves balancing various aspects of life today. | Horoscope",
-            "url": "https://www.hindustantimes.com/astrology/horoscope/libra-daily-horoscope-today-november-13-2024-predicts-recognition-at-work-101731437080957.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/11/12/1600x900/Libra_1728479045617_1731437334762.jpg",
-            "publishedAt": "2024-11-12T22:36:09Z",
-            "content": "Libra - (23rd September to 22nd October)\r\nDaily Horoscope Prediction says, finding Balance Amidst Daily Challenges\r\nToday brings opportunities for growth; stay positive and adaptable, and balance per… [+3341 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Sara Nathan",
-            "title": "Exclusive | Jessica Simpson, husband no longer attending kids’ school events together: source - Page Six",
-            "description": "“As you can imagine, there’s been a lot of gossip among the parents,” a source told Page Six of Eric Johnson showing up at their kids’ events without wife Jessica Simpson.",
-            "url": "https://pagesix.com/2024/11/12/celebrity-news/jessica-simpson-husband-not-together-at-kids-events-source/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/11/screenshot_2024-11-12_at_4.17.06___pm_720.png?w=720",
-            "publishedAt": "2024-11-12T21:54:00Z",
-            "content": "Jessica Simpson has been MIA recently at the exclusive Los Angeles school her kids attend, prompting chatter among parents that she may have separated from husband Eric Johnson.\r\nThe “With You” singe… [+2400 chars]"
+            "author": "Nadia Chaudhury",
+            "title": "Austin’s 2024 Michelin Star Restaurants, Mapped - Eater Austin",
+            "description": "Here are the Michelin-starred restaurants in Austin, Texas",
+            "url": "https://austin.eater.com/maps/austin-michelin-star-restaurants-map-2024",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/aKKvvuMMPlZ3dRs7JVawss-1CUc=/0x180:2500x1489/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25729833/Shrimp_1.jpg",
+            "publishedAt": "2024-11-12T22:33:27Z",
+            "content": "Michelin announced the winners of its first-ever Texas guide in November 2024, covering five cities in the state, which includes Austin. The state capital did pretty well during the ceremony, racking… [+662 chars]"
         },
         {
             "source": {
@@ -200,119 +304,28 @@
         {
             "source": {
                 "id": null,
-                "name": "TMZ"
+                "name": "Yahoo Entertainment"
             },
-            "author": "TMZ Staff",
-            "title": "'Outer Banks' Stars Rudy Pankow, Madison Bailey Never Feuded, Despite Theories - TMZ",
-            "description": "\"Outer Banks\" returned with new season 4 episodes last week ... yet all people can talk about is a rumored feud between costars Rudy Pankow and Madison Bailey.",
-            "url": "https://www.tmz.com/2024/11/12/outer-banks-rudy-pankow-madison-bailey-no-feud/",
-            "urlToImage": "https://imagez.tmz.com/image/e9/16by9/2024/11/12/e9116ca0d23e4a88a0e7ff0a59451b2e_xl.jpg",
-            "publishedAt": "2024-11-12T20:19:09Z",
-            "content": "Warning: Spoilers for \"Outer Banks\" season 4 ahead ...\r\n\"Outer Banks\" returned with new season 4 episodes last week ... yet all people can talk about is a rumored feud between costars Rudy Pankow and… [+1785 chars]"
+            "author": "Taryn Ryder",
+            "title": "Megan Fox and Machine Gun Kelly expecting 1st baby together: A look at their 'intense,' 'twin flame' romance - Yahoo Entertainment",
+            "description": "After suffering a pregnancy loss last year, Megan Fox announces she's expecting. This will be her fourth child and Machine Gun Kelly's second.",
+            "url": "https://www.yahoo.com/entertainment/megan-fox-and-machine-gun-kelly-expecting-1st-baby-together-a-look-at-their-intense-twin-flame-romance-202047712.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yAiRMDkjRXuEH_U1XDUP_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzI-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/872e46d0-ab25-11ed-bfaf-f72ccf97c438",
+            "publishedAt": "2024-11-12T20:20:47Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nM… [+7381 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "Billboard"
             },
-            "author": "Steven J. Horowitz",
-            "title": "My Chemical Romance Announces ‘The Black Parade’ 2025 Tour With Openers Death Cab for Cutie, Pixies and More - Variety",
-            "description": "My Chemical romance has announced its 'The Black Parade' 2025 tour, celebrating its third album.",
-            "url": "https://variety.com/2024/music/news/my-chemical-romance-the-black-parade-2025-tour-1236207984/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2024/11/mcr.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2024-11-12T20:09:00Z",
-            "content": "My Chemical Romance is getting ready to wax nostalgic with the announcement that the group will hit the road in summer 2025 to celebrate its third album “‘Long Live’ The Black Parade” by performing i… [+2276 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YourTango"
-            },
-            "author": "YourTango",
-            "title": "3 Zodiac Signs Enter A Period Of Prosperity On November 13, 2024 - YourTango",
-            "description": null,
-            "url": "https://www.yourtango.com/2024379503/zodiac-signs-period-prosperity-november-13-2024",
-            "urlToImage": null,
-            "publishedAt": "2024-11-12T20:04:02Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Robb Report"
-            },
-            "author": "Tori Latham",
-            "title": "Texas’s First Michelin Guide Is Here, and 4 Barbecue Restaurants Got Stars - Robb Report",
-            "description": "Texas's first Michelin Guide includes 15 one-star restaurants, including four barbecue spots, the first American-style ones to be honored.",
-            "url": "http://robbreport.com/food-drink/dining/texas-first-michelin-guide-barbecue-1235988955/",
-            "urlToImage": "https://robbreport.com/wp-content/uploads/2024/11/Texas-Michelin-2025-Leroy-Lewis.jpg?w=681&h=383&crop=1",
-            "publishedAt": "2024-11-12T19:30:00Z",
-            "content": "Texas’s very first Michelin Guide honors the cuisine that the Lone Star State is perhaps best known for.\r\nWhen the inaugural list was announced on Monday evening in Houston, it included four barbecue… [+2976 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Lexi Carson",
-            "title": "‘The Bear’ Season 4, ‘Daredevil: Born Again,’ Glen Powell’s ‘Chad Powers’ and More 2025 Series Highlighted in Disney+/Hulu Teaser - Hollywood Reporter",
-            "description": "Ellen Pompeo in 'Good American Family' and 'Alien: Earth' also get sneak peeks.",
-            "url": "http://www.hollywoodreporter.com/tv/tv-news/the-bear-season-4-glen-powell-chad-powers-footage-disney-preview-1236059908/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/07/Bear-E302_.00_08_11_10.Still006-H-2024.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2024-11-12T19:28:46Z",
-            "content": "On the heels of HBO and Max’s 2025 preview earlier this week, Disney is also sharing footage for several TV series hitting its streaming platforms in 2025 including The Bear season four, the Glen Pow… [+2343 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-11-12T19:22:42Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Miami Herald"
-            },
-            "author": "Madeleine Marr",
-            "title": "Guest gives a look inside one of Diddy’s ‘freak offs’ in Miami Beach: ‘Pretty crazy’ - Yahoo Entertainment",
-            "description": "TMZ’s documentary on the embattled rapper is streaming now",
-            "url": "https://www.miamiherald.com/miami-com/miami-com-news/article295426474.html",
-            "urlToImage": "https://media.zenfs.com/en/miami_herald_mcclatchy_975/acec9e1a8126ab581be3a2aef532fa6f",
-            "publishedAt": "2024-11-12T19:15:22Z",
-            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nA… [+1718 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The A.V. Club"
-            },
-            "author": null,
-            "title": "John Mulaney \"very much tried to tell everyone\" that he was never perfect - The A.V. Club",
-            "description": "John Mulaney \"very much tried to tell everyone\" that he was never perfect",
-            "url": "https://www.avclub.com/john-mulaney-standup-controversy-comments",
-            "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2024/11/12121709/JMSS_Unit_03436R.jpg",
-            "publishedAt": "2024-11-12T18:29:00Z",
-            "content": "“Parasocial” wasn’t the Oxford dictionary’s word of the year in 2021 (that honor went to “vax”), but it very well could have been. That year, a lot of people acted as if John Mulaney was a close pers… [+2223 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TooFab"
-            },
-            "author": "Toofab Staff",
-            "title": "Brian Austin Green's Fiancée Sharna Burgess Reacts to Megan Fox Pregnancy - TooFab",
-            "description": "After Megan Fox announced her pregnancy, the Dancing with the Stars alum took to social media to congratulate her fiancé Brian Austin Green's ex on her baby-on-board with Machine Gun Kelly.",
-            "url": "https://toofab.com/2024/11/12/brian-austin-green-fiancee-sharna-burgess-megan-fox-pregnancy-reaction/",
-            "urlToImage": "https://images.toofab.com/image/b4/16by9/2024/11/12/b4b952e55c0a48c7ac347049465429aa_xl.jpg",
-            "publishedAt": "2024-11-12T16:47:00Z",
-            "content": "Sharna Burgessis excited about her growing blended family.\r\nAfter Megan Fox announced her pregnancy on Instagram on Monday, November 11, the Dancing with the Stars pro took to social media to congrat… [+2264 chars]"
+            "author": "Jason Lipshutz",
+            "title": "My Chemical Romance Announces 2025 Stadium Tour: See the Dates - Billboard",
+            "description": "My Chemical Romance's 2025 tour dates have been announced. See when and where the band is playing.",
+            "url": "http://www.billboard.com/music/rock/my-chemical-romance-2025-tour-dates-1235826748/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2024/11/My-Chemical-Romance-cr-Chapman-Baehler-press-2024-billboard-1548_bf0f86.jpg?w=1024",
+            "publishedAt": "2024-11-12T18:07:25Z",
+            "content": "A few weeks after performing the beloved 2006 album The Black Parade in its entirety at When We Were Young Festival, My Chemical Romance has announced a string of 2025 stadium shows where the band wi… [+2593 chars]"
         },
         {
             "source": {
@@ -326,6 +339,19 @@
             "urlToImage": "https://www.artnews.com/wp-content/uploads/2024/11/GettyImages-119937412.jpg?w=1024",
             "publishedAt": "2024-11-12T16:28:00Z",
             "content": "Frank Auerbach, a towering figure of British art history who plotted new paths for painting with his thick, smeary portraits, died on Monday in London at 93. His passing was announced on Tuesday by F… [+6943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CinemaBlend"
+            },
+            "author": "Dirk Libbey",
+            "title": "‘I Was At One Of What I Believe To Be P. Diddy’s Freak Offs.’ Woman Who Says She Was Flown By A Prince To Diddy’s Home In Miami Opens Up About What She Saw Inside - CinemaBlend",
+            "description": "A woman claims to have attended one of Diddy's famous parties and reveals what she saw inside.",
+            "url": "https://www.cinemablend.com/streaming-news/i-was-at-p-diddys-freak-offs-woman-flown-prince-miami-home-what-she-saw-inside",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PEPS45mimSZHWqipjqFPGd-1200-80.jpg",
+            "publishedAt": "2024-11-12T16:06:15Z",
+            "content": "A lot has been said about the alleged freak off parties that were hosted by Sean “Diddy” Combs. What is reported to have happened at those parties is at the center of the federal charges of racketeer… [+2747 chars]"
         },
         {
             "source": {
@@ -356,19 +382,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
-            },
-            "author": "Nada Aboul Kheir, Zac Ntim",
-            "title": "Denzel Washington Says He’s Set To Star In ‘Black Panther 3’: “Ryan Coogler Is Writing A Part For Me” - Deadline",
-            "description": "Denzel Washington Will Star In Ryan Coogler's 'Black Panther 3'",
-            "url": "http://deadline.com/2024/11/denzel-washington-heads-to-wakanda-in-black-panther-3-1236173774/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/GettyImages-634062874.jpg?w=1024",
-            "publishedAt": "2024-11-12T14:49:00Z",
-            "content": "Denzel Washington is heading for Wakanda. \r\nThe two-time Oscar winner, currently on a press run for Ridley Scott’s Gladiator sequel, told The Today Show Australia that Ryan Coogler is writing an unsp… [+1541 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Cageside Seats"
             },
             "author": "Sean Rueter",
@@ -378,19 +391,6 @@
             "urlToImage": "https://cdn.vox-cdn.com/thumbor/o7_p761OpjihuiyF0xu_vaX_KEc=/179x0:1913x908/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25728890/Screenshot_2024_11_12_at_9.37.00_AM.png",
             "publishedAt": "2024-11-12T14:40:00Z",
             "content": "With both the Thanksgiving holiday and Survivor Series on the horizon, WWE is giving the Raw team next Monday off. They still need an episode to air on Nov. 18, though. So they taped next weeks show … [+1804 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "https://www.facebook.com/peoplemag",
-            "title": "'Wheel of Fortune' Answer Goes Viral After Contestant Suffers Hilarious Fail: 'We Had a Little Missolve' - PEOPLE",
-            "description": "A 'Wheel of Fortune' answer went viral after a contestant suffered a hilarious fail. Social correspondent Maggie Sajak admitted 'we had a little missolve' in an Instagram clip",
-            "url": "https://people.com/wheel-of-fortune-answer-viral-contestant-suffers-hilarious-fail-8743420",
-            "urlToImage": "https://people.com/thmb/5AREJzOUdEq9XWjmLRd4qxVTMuw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(750x500:752x502)/wheel-of-fortune-round-of-sausage-5790-ea8241f75c9040f290b52ae812c409ea.jpg",
-            "publishedAt": "2024-11-12T12:24:31Z",
-            "content": "A Wheel of Fortune contestant has gone viral for his hilarious \"missolve.\"\r\nOn the Monday, Nov. 11 episode of the show, contestant Will attempted to solve the puzzle Give yourself a round of applause… [+2614 chars]"
         },
         {
             "source": {
@@ -407,16 +407,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CBR - Comic Book Resources"
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
             },
-            "author": "Monica Coman",
-            "title": "Ridley Scott's Gladiator II Debuts With Surprising Rotten Tomatoes Score - CBR",
-            "description": "Ridley Scott's Gladiator sequel gets its debut Rotten Tomatoes score.",
-            "url": "https://www.cbr.com/gladiator-2-rotten-tomatoes-score-higher-original/",
-            "urlToImage": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/09/gladiator-2.jpg",
-            "publishedAt": "2024-11-11T21:20:00Z",
-            "content": "The clock is ticking until Gladiator II hits theaters, and the buzz around the sequel is getting louder. The new excitement that follows Ridley Scott's genre-shifting masterpiece Gladiator is also hy… [+3308 chars]"
+            "author": "By  HANNAH BROWN",
+            "title": "'Emilia Perez': From Mexican cartel leader to Tel Aviv's operating table - The Jerusalem Post",
+            "description": "Emilia Perez tells a colorful story of cartels, gender, and redemption.",
+            "url": "https://www.jpost.com/israel-news/culture/article-828630",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/633557",
+            "publishedAt": "2024-11-11T21:40:11Z",
+            "content": "Emilia Perez, a movie now playing in theaters around Israel, is a mess of a movie that wants to provide the fun of a musical telenovela with a trendy story about a drug cartel leader undergoing what … [+6176 chars]"
         }
     ]
 }

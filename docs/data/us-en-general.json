@@ -1,97 +1,175 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 32,
     "articles": [
         {
             "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Haley Chi-Sing",
+            "title": "Who is Pam Bondi, Trump's new pick for attorney general? - Fox News",
+            "description": "Who is Pam Bondi? Here are some facts to know about President-elect Trump's newest pick to head the Justice Department as attorney general",
+            "url": "https://www.foxnews.com/politics/who-pam-bondi-trumps-new-pick-attorney-general",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/black-white-professional-30-days-sports-fitness-challenge-youtube-thumbnail-21.png",
+            "publishedAt": "2024-11-23T12:00:00Z",
+            "content": "Just hours after former Florida Congressman Matt Gaetz withdrew his name from consideration to be attorney general, President-elect Trump tapped former Florida Attorney General Pam Bondi as his AG no… [+3730 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katharina Krebs, Christian Edwards",
+            "title": "Russia will keep testing new ballistic missile, Putin says - CNN",
+            "description": "President Vladimir Putin said Friday that Russia will continue to test and start mass-producing the hypersonic ballistic missile that it fired at Ukraine Thursday.",
+            "url": "https://www.cnn.com/2024/11/23/europe/russia-testing-oreshnik-missile-putin-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-22t183335z-434049227-rc2iabaccj4z-rtrmadp-3-ukraine-crisis-russia-missiles-putin.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-23T10:51:00Z",
+            "content": "President Vladimir Putin said Friday that Russia will continue to test and start mass-producing the hypersonic ballistic missile that it fired at Ukraine Thursday.\r\nThe experimental strike Thursday m… [+1817 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Soph Warnes",
+            "title": "What to know about fluoride in drinking water - CNN",
+            "description": "President-elect Donald Trump has picked Robert F. Kennedy Jr. as his Health and Human Services secretary and while we don’t know what the policies will be, one thing Kennedy has signaled he would look at is fluoridation of water across the United States.",
+            "url": "https://www.cnn.com/2024/11/23/health/fluoride-drinking-water-dg/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20241121-data-fluoride-final.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-23T10:00:00Z",
+            "content": "President-elect Donald Trump has picked Robert F. Kennedy Jr. as his Health and Human Services secretary and pledged to let him go wild on health, putting health care high on the agenda for his secon… [+7615 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Mark Kaufman",
+            "title": "NASA spotted a very young planet. It could become a super-Earth. - Mashable",
+            "description": "A rare discovery.",
+            "url": "https://mashable.com/article/nasa-young-planet-exoplanet-discovery-super-earth",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/020k7kvkr5jULsx7Fm18lW8/hero-image.fill.size_1200x675.v1732290185.jpg",
+            "publishedAt": "2024-11-23T10:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Contorno, Kristen Holmes",
+            "title": "Fox hosts, cable news regulars and entertainment pros: Trump is casting a made-for-TV Cabinet - CNN",
+            "description": "A common thread weaves through many of Donald Trump’s picks for his incoming administration, a quality the president-elect values as highly as loyalty and perhaps even more than conventional qualifications: a flair for television.",
+            "url": "https://www.cnn.com/2024/11/23/politics/trump-tv-cabinet/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24311269337817-20241114165643474.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-23T09:00:00Z",
+            "content": "A common thread weaves through many of Donald Trumps picks for his incoming administration, a quality the president-elect values as highly as loyalty and perhaps even more than conventional qualifica… [+8139 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kaila Yu",
+            "title": "I moved to Dubai for a dream job and loved the glamorous life. Eventually, it took a toll. - Business Insider",
+            "description": "A former Emirates stewardess said living in Dubai was like a crash course in global interactions, but after six years she moved back to Phoenix.",
+            "url": "https://www.businessinsider.com/living-in-dubai-burnout-emirates-stewardess-job-2024-11",
+            "urlToImage": "https://i.insider.com/673fb0bcfa0140cdd564ce2f?width=960&format=jpeg",
+            "publishedAt": "2024-11-23T08:31:00Z",
+            "content": "This as-told-to essay is based on a conversation with Jessika Ros Malic, a former Emirates stewardess from Phoenix, about living in Dubai. It's been edited for length and clarity.\r\nMoving to Dubai wa… [+3735 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "BBC News"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-11-23T04:41:00Z",
-            "content": "[Removed]"
+            "title": "COP29 overruns as poor countries seethe over climate cash - BBC.com",
+            "description": "Developing nations said a new cash offer from rich nations showed \"contempt for our vulnerable people\".",
+            "url": "https://www.bbc.com/news/articles/c2l9y89v9jno",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f7c9/live/591b93b0-a8f8-11ef-8ab9-9192db313061.jpg",
+            "publishedAt": "2024-11-23T08:22:35Z",
+            "content": "UN climate talks have overrun into the weekend as a deep gulf formed between richer and poorer countries over cash to help those most vulnerable in a warming world.\r\nOn Friday, wealthier nations offe… [+3402 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "Athlon Sports"
             },
-            "author": "Kaitlan Collins, Katie Lobosco, Gregory Krieg",
-            "title": "Trump chooses Rep. Lori Chavez-DeRemer as his pick for Labor secretary - CNN",
-            "description": "President-elect Donald Trump on Friday threw a curveball to business-friendly conservatives by announcing Republican Rep. Lori Chavez-DeRemer of Oregon as his pick to serve as the next secretary of the Department of Labor.",
-            "url": "https://www.cnn.com/2024/11/22/politics/lori-chavez-deremer-labor-secretary-trump/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/lori-chavez-deremer-gettyimages-1243719332.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-11-23T04:24:00Z",
-            "content": "President-elect Donald Trump on Friday threw a curveball to business-friendly conservatives by announcing Republican Rep. Lori Chavez-DeRemer of Oregon as his pick to serve as the next secretary of t… [+5323 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Meridith McGraw, Michael Stratford, Sam Sutton",
-            "title": "Trump taps hedge fund manager Scott Bessent to lead Treasury - POLITICO",
-            "description": "Bessent has called for slashing regulation, reducing the deficit and increasing U.S. energy production.",
-            "url": "https://www.politico.com/news/2024/11/22/scott-bessent-treasury-secretary-trump-00188549",
-            "urlToImage": "https://static.politico.com/72/04/e4bda3c744b197129c915644ab14/election-2024-trump-11973.jpg",
-            "publishedAt": "2024-11-23T03:29:51Z",
-            "content": "In a statement, Trump praised Bessent, 62, as a widely respected investor and economic strategist. Scott will support my Policies that will drive U.S. Competitiveness, and stop unfair Trade imbalance… [+5890 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Katherine Dillinger",
-            "title": "72,000 pounds of ready-to-eat meat, poultry recalled amid deadly listeria outbreak - CNN",
-            "description": "A listeria outbreak linked with ready-to-eat meat and poultry products from Yu Shang Food Inc. has caused 11 illnesses in four states, with nine hospitalizations and one death, according to the US Centers for Disease Control and Prevention.",
-            "url": "https://www.cnn.com/2024/11/22/health/yu-shang-recall-listeria/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20241122-fsisrecallsplit.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-11-23T03:06:00Z",
-            "content": "A listeria outbreak linked with ready-to-eat meat and poultry products from Yu Shang Food Inc. has caused 11 illnesses in four states, with nine hospitalizations and the death of an infant, according… [+2531 chars]"
+            "author": "Angelo Guinhawa",
+            "title": "Taylor Swift Reacts To Jason Kelce and Kylie Kelce's Pregnancy Announcement - Athlon Sports",
+            "description": "Travis Kelce's girlfriend, pop star Taylor Swift, reacted to Jason Kelce and Kylie Kelce's pregnancy announcement.",
+            "url": "https://athlonsports.com/entertainment/taylor-swift-reacts-jason-kelce-and-kylie-kelce-pregnancy-announcement",
+            "urlToImage": "https://athlonsports.com/.image/t_share/MjEwMjU0OTM5NjgxNzI3Njky/usatsi_24188118.jpg",
+            "publishedAt": "2024-11-23T06:22:13Z",
+            "content": "Jason Kelce and his wife Kylie Kelce dropped a major announcement on Friday, revealing to their fans and followers that they are expecting their fourth child. Pop superstar Taylor Swift saw the news … [+1385 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Mark Maske",
-            "title": "Giants release quarterback Daniel Jones, at his request - The Washington Post",
-            "description": "The quarterback, benched this week by the Giants, will become a free agent if he clears waivers, as expected.",
-            "url": "https://www.washingtonpost.com/sports/2024/11/22/daniel-jones-released-giants/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GXV6MJGDF42ZPCNH5YUIMNNUHY.jpg&w=1440",
-            "publishedAt": "2024-11-23T02:55:28Z",
-            "content": "The New York Giants and quarterback Daniel Jones opted to move on, sooner rather than later. The Giants, after benching Jones as their starter this week, granted his request to be released Friday.\r\nJ… [+4806 chars]"
+            "author": "Dan Diamond, Rachel Roubein",
+            "title": "Trump picks Marty Makary to lead FDA, Dave Weldon to run CDC - The Washington Post",
+            "description": "Makary and Weldon, who have criticized the agencies they may soon run, were joined by Janette Nesheiwat, Trump’s pick to be surgeon general.",
+            "url": "https://www.washingtonpost.com/health/2024/11/22/marty-makary-fda-trump/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OVNRKDGHEMNYEJ572K5GMEZ6J4.jpg&w=1440",
+            "publishedAt": "2024-11-23T06:12:20Z",
+            "content": "President-elect Donald Trump on Friday night named three doctors to oversee the nations vaccine supply, disease response and other responsibilities central to Americas public health, plucking physici… [+11156 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Courtenay Brown",
+            "title": "Trump taps hedge fund manager Scott Bessent to run Treasury - Axios",
+            "description": "The process has been closely watched by financial markets for what it says about Trump's economic policy.",
+            "url": "https://www.axios.com/2024/11/22/donald-trump-treasury-secretary-scott-bessent",
+            "urlToImage": "https://images.axios.com/sT4gXCJw8ShvooS6Vr2BXGCJtJU=/0x107:4000x2357/1366x768/2024/11/22/1732316773977.jpg",
+            "publishedAt": "2024-11-23T05:39:12Z",
+            "content": "President-elect Trump will nominate Scott Bessentas Treasury secretary, positioning him as the top economic official representing the nation on the world stage.\r\nWhy it matters: The pick caps intense… [+2147 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "What to know about Trump's labor secretary nominee Lori Chavez-DeRemer - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/Politics/trumps-labor-secretary-nominee-lori-chavez-deremer/story?id\\\\u003d116156534",
+            "urlToImage": null,
+            "publishedAt": "2024-11-23T05:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Matt Erickson",
+            "title": "UFC Fight Night 248 live updates: Results, round-by-round coverage of every fight - MMA Junkie",
+            "description": "Check out live round-by-round updates and official results from UFC Fight Night 248 in Macau.",
+            "url": "https://mmajunkie.usatoday.com/2024/11/ufc-macau-yan-vs-figueiredo-live-updates-results",
+            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2024/11/Petr-Yan-vs.-Deiveson-Figueiredo-UFC-Fight-Night-248.png?w=1024&h=576&crop=1",
+            "publishedAt": "2024-11-23T04:00:00Z",
+            "content": "UFC Fight Night 248 (ESPN+) takes place Saturday, and you can join us for live round-by-round coverage and official results beginning at 3 a.m. ET (midnight PT). UFC Fight Night 248 (ESPN+) takes pla… [+1258 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Libertyballers.com"
+                "name": "PhillyVoice.com"
             },
-            "author": "Josh Grieb",
-            "title": "Maxey-McCain backcourt electric as Sixers finally get a win vs. Nets - Liberty Ballers",
-            "description": "Everything with the Sixers’ season has been a disaster, but Tyrese Maxey and Jared McCain provided hope Friday, taking over in the fourth quarter of a win over the Nets.",
-            "url": "https://www.libertyballers.com/2024/11/22/24303576/sixers-nets-final-score-game-recap-jared-mccain-tyrese-maxey-guerschon-yabusele",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/RXP_BBfmjrEj6B2-042xg14oqQc=/0x0:5281x2765/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25750564/2185452474.jpg",
-            "publishedAt": "2024-11-23T02:19:12Z",
-            "content": "Nearly a month into the regular season, the Sixers have notched their first win in regulation. \r\nPhiladelphia knocked off the Brooklyn Nets 113-98 to improve to 3-12 on the season and 1-2 in NBA Cup … [+5329 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Seattle Times"
-            },
-            "author": "Isabella Breda",
-            "title": "3 days later, still no power: The long tail of the Northwest’s bomb cyclone - The Seattle Times",
-            "description": "Tuesday's storm toppled trees, left half a million customers without power, injured dozens and killed two people.",
-            "url": "https://www.seattletimes.com/seattle-news/weather/bomb-cyclone-has-some-in-western-wa-waiting-for-power-3-days-later/",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/11/11222024_tzr_tzr_173901.jpg?d=1200x630",
-            "publishedAt": "2024-11-23T02:13:21Z",
-            "content": "Workers with Fall City Water District towed a generator between municipal wells Friday morning, pumping drinking water into storage tanks. Power was still out here in east-central King County, like i… [+6469 chars]"
+            "author": null,
+            "title": "Instant observations: Sixers finally nab third win of season behind Tyrese Maxey, Jared McCain - PhillyVoice.com",
+            "description": "The Sixers are -- finally -- back in the win column.",
+            "url": "https://www.phillyvoice.com/sixers-news-analysis-nets-box-score-stats-nick-nurse-joel-embiid-injury-tyrese-maxey-jared-mccain-ben-simmons/",
+            "urlToImage": "https://media.phillyvoice.com/media/images/USATSI_24824656.2e16d0ba.fill-1200x630-c0.jpg",
+            "publishedAt": "2024-11-23T02:17:52Z",
+            "content": "After a disastrous three-game road trip which included plenty of controversy and three losses, the Sixers returned to their home floor on Monday night looking to nab their third win of the first mont… [+10103 chars]"
         },
         {
             "source": {
@@ -108,55 +186,42 @@
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "politico",
+                "name": "Politico"
             },
-            "author": "Samantha Chery",
-            "title": "Kendrick Lamar surprise drops new album, ‘GNX’ - The Washington Post",
-            "description": "Capping a standout year, the Pulitzer-winning rapper dropped a new album on the world with zero warning.",
-            "url": "https://www.washingtonpost.com/style/2024/11/22/kendrick-lamar-gnx-new-album-released-streaming/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WGTJZT5ICJHTFOC6PFBX4QFWNU.jpg&w=1440",
-            "publishedAt": "2024-11-23T01:34:11Z",
-            "content": "Kendrick Lamar decided to pop out and show the world his sixth album, GNX, on Friday sans promotion or warning. Thisafter a highly successful year forthe critically acclaimed artist, which included d… [+105 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Gram Slattery, Tim Reid",
-            "title": "Trump taps key Project 2025 architect Russ Vought to head budget office - Reuters",
-            "description": "U.S. President-elect Donald Trump has chosen Russ Vought, a key architect of \"Project 2025,\" the controversial conservative plan to overhaul the government, to be director of the U.S. Office of Management and Budget, a powerful agency that helps decide the pr…",
-            "url": "https://www.reuters.com/world/us/trump-taps-key-project-2025-architect-russ-vought-head-budget-office-2024-11-23/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/2X57DRNAIZMGFH4GFQO5GCTWUE.jpg?auth=55b6310caca8e6b19a5a53a7d700a2058444b001bc8b78253e7750008cc749f1&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-11-23T00:57:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Trump picks Alex Wong for deputy national security adviser - Reuters.com",
-            "description": "U.S. President-elect Donald Trump said on Friday that he has choosing former State Department official Alex Wong to serve as deputy national security adviser.",
-            "url": "https://www.reuters.com/world/us/trump-picks-alex-wong-deputy-national-security-adviser-2024-11-23/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-11-23T00:57:00Z",
-            "content": null
+            "author": "Eric Bazail-Eimil",
+            "title": "Firebrand Gorka returns to Trump White House in NSC role - POLITICO",
+            "description": "Gorka was seen as a contender to be deputy national security adviser, though lost out to Alex Wong.",
+            "url": "https://www.politico.com/news/2024/11/22/sebastian-gorka-trump-administration-national-security-00191382",
+            "urlToImage": "https://static.politico.com/70/7e/07797f164ead8fe3efd780a660b7/election-2022-trump-40345.jpg",
+            "publishedAt": "2024-11-23T01:45:19Z",
+            "content": "Hes also known for his combative approach towards the press, with a penchant for telling reporters to take a long jump off a short pier.\r\nTrump also announced that Alex Wong will be deputy national s… [+812 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SFGate"
+                "name": "CBS Sports"
             },
-            "author": "Alec Regimbal",
-            "title": "SF crypto billionaire says he'll eat the $6.2M piece of art he just bought - SFGATE",
-            "description": "Justin Sun says he plans to eat the banana he bought as part of the 2019 artwork \"Comedian.\" Sun paid $6.2 million for the piece.",
-            "url": "https://www.sfgate.com/bayarea/article/sf-crypto-billionaire-plans-to-eat-art-piece-19937294.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/46/14/70/26791474/3/rawImage.jpg",
-            "publishedAt": "2024-11-23T00:16:58Z",
-            "content": "FILE: Tron CEO Justin Sun attends Consensus 2019 at the Hilton Midtown on May 15, 2019, in New York City. Sun said earlier this week that he plans to eat a part of an art piece he paid $6.2 million f… [+2202 chars]"
+            "author": "",
+            "title": "Giants release Daniel Jones: Former teammate Saquon Barkley reacts to QB leaving New York - CBS Sports",
+            "description": "Barkley hopes Jones can find similar success with a new team",
+            "url": "https://www.cbssports.com/nfl/news/giants-release-daniel-jones-former-teammate-saquon-barkley-reacts-to-qb-leaving-new-york/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/25/f5217270-f909-4a67-9db7-96e7168023f6/thumbnail/1200x675/8a642fca1408157570ddb430e407b544/daniel-jones-and-saquon-barkley-1400.jpg",
+            "publishedAt": "2024-11-23T01:26:14Z",
+            "content": "Two years ago, Saquon Barkley and Daniel Jones led the New York Giants to the franchise's first playoff win since winning Super Bowl XLVI. Barkley is currently enjoying a standout season with the Phi… [+1849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro",
+            "title": "'Wicked': How Jon M. Chu Revived Musical Into Box Office Movie Hit - Deadline",
+            "description": "Podcast interview with Jon M. Chu about the making of 'Wicked', why he divided into two-parts and the future of 'Crazy Rich Asians'",
+            "url": "http://deadline.com/2024/11/wicked-jon-m-chu-interview-1236185586/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/2551_D064_00144_0190R_COMP-e1732305549638.jpg?w=1024",
+            "publishedAt": "2024-11-23T00:48:00Z",
+            "content": "It’s a death-defying act to split one property into two movies. \r\nWarner Bros did it with the greatest of ease on the final film adaptation of Harry Potter, 2010 and 2011’s Deathly Hallows, which com… [+2838 chars]"
         },
         {
             "source": {
@@ -170,19 +235,6 @@
             "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/344e6cf/2147483647/strip/true/crop/4204x2365+0+250/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F1d%2F08d8646747148403c95a8efe5fea%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2181413232",
             "publishedAt": "2024-11-23T00:06:25Z",
             "content": "Brock Purdy will travel with the 49ers, but soreness in his right shoulder will keep him from playing in Sundays game against the Packers. \r\nInstead, Brandon Allen will make his first start since the… [+1468 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SFGate"
-            },
-            "author": "Madilynne Medina",
-            "title": "Entire city of San Francisco under 'life-threatening' flash flood warning - SFGATE",
-            "description": "The National Weather Service is urging the public to take precautions during intense flooding.",
-            "url": "https://www.sfgate.com/weather/article/entire-city-sf-now-life-threatening-flash-flood-19937062.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/46/14/60/26790936/5/rawImage.jpg",
-            "publishedAt": "2024-11-22T23:48:45Z",
-            "content": "Pedestrians shield themselves from the rain and wind crossing a street near Union Square in San Francisco on Nov. 22, 2204.\r\nDouglas Zimmerman/SFGATE\r\nLATEST Nov. 22, 5 p.m. A flash flood alert in Sa… [+4224 chars]"
         },
         {
             "source": {
@@ -212,29 +264,42 @@
         },
         {
             "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Kyle Wiggers",
-            "title": "OpenAI is funding research into ‘AI morality’ - TechCrunch",
-            "description": "OpenAI is funding academic research at Duke into algorithms that can predict humans' moral judgements.",
-            "url": "https://techcrunch.com/2024/11/22/openai-is-funding-research-into-ai-morality/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/pixta_94590765_L.jpg?resize=1200,675",
-            "publishedAt": "2024-11-22T22:25:27Z",
-            "content": "OpenAI is funding academic research into algorithms that can predict humans’ moral judgements.\r\nIn a filing with the IRS, OpenAI Inc., OpenAI’s nonprofit org, disclosed that it awarded a grant to Duk… [+3371 chars]"
+            "author": null,
+            "title": "Mpox in DR Congo: BBC visits mpox clinic as WHO says cases 'plateauing' - BBC.com",
+            "description": "Lwiro hospital was overrun when the BBC visited two months ago, now nurses say infections are easing.",
+            "url": "https://www.bbc.com/news/articles/cqxw1l05l1ro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d5b6/live/77902640-a8d9-11ef-a4fe-a3e9a6c5d640.jpg",
+            "publishedAt": "2024-11-22T22:59:29Z",
+            "content": "Nurse Jackson Murhula says Lwiro clinic is only receiving two or three mpox cases a day at the moment\r\nMedics at the epicentre of the mpox outbreak in eastern Democratic Republic of Congo have told t… [+6180 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "San Francisco Chronicle"
             },
-            "author": "JONEL ALECCIA",
-            "title": "At least 19 people are sick in Minnesota from ground beef tied to E. coli recall - The Associated Press",
-            "description": "U.S. health officials say at least 19 people in Minnesota have been sickened by E. coli poisoning tied to a national recall of more than 167,000 pounds of potentially tainted ground beef. Detroit-based Wolverine Packing Co. recalled the meat sent to restauran…",
-            "url": "https://apnews.com/article/e-coli-ground-beef-wolverine-packing-7f61432d13e7d9188f34e50badae86ca",
-            "urlToImage": "https://dims.apnews.com/dims4/default/2d23e0a/2147483647/strip/true/crop/1798x1011+0+94/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2Fe2%2Fcf97f2d23198797eda55ae8936a3%2Fceb54baa40dc4138bd6f32db5453f828",
-            "publishedAt": "2024-11-22T22:24:00Z",
-            "content": "At least 19 people in Minnesota have been sickened by E. coli poisoning tied to a national recall of more than 167,000 pounds of potentially tainted ground beef, federal health officials said. \r\nDetr… [+1848 chars]"
+            "author": "Greg Porter, Aldo Toledo",
+            "title": "‘Life-threatening situation’: San Francisco pounded by intense band of rain - San Francisco Chronicle",
+            "description": "San Francisco may well see several inches of rain on Friday, and some roadways are flooding.",
+            "url": "https://www.sfchronicle.com/weather/article/sf-rain-storm-19936809.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/46/14/64/26791207/5/rawImage.jpg",
+            "publishedAt": "2024-11-22T22:53:49Z",
+            "content": "San Francisco saw significant rainfall on Friday, enough to flood numerous small roads and some highwaysAnthony Edwards\r\nAn intense rain band battered San Francisco and a large part of the Bay Area o… [+5036 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-22T22:07:37Z",
+            "content": "[Removed]"
         },
         {
             "source": {
@@ -252,58 +317,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Ryan Bort, Asawin Suebsaeng",
-            "title": "Team Trump Is Furious Hegseth Hid Sex Assault Claim: ‘This Is the F–king Pentagon!’ - Rolling Stone",
-            "description": "Donald Trump's transition team was furious that Secretary of Defense nominee Pete Hegseth didn't inform them about a sexual assault claim against him.",
-            "url": "http://www.rollingstone.com/politics/politics-features/pete-hegseth-hiding-sex-assault-claim-trump-team-1235178188/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/11/trumpteam-on-hegseth-allegations-.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2024-11-22T22:04:15Z",
-            "content": "Matt Gaetz may have withdrawn his name from consideration to become Donald Trump’s attorney general over sexual misconduct accusations — but alleged sexual abuser Pete Hegseth is still fighting to pe… [+3430 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "ABC News",
-            "title": "Defense rests in Daniel Penny subway chokehold trial - ABC News",
-            "description": null,
-            "url": "https://abcnews.go.com/US/defense-rests-daniel-penny-subway-chokehold-trial/story?id\\\\u003d116003643",
-            "urlToImage": null,
-            "publishedAt": "2024-11-22T21:49:35Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "SIBI ARASU, MELINA WALLING, SETH BORENSTEIN, MICHAEL PHILLIS",
-            "title": "A proposed deal on climate cash at UN summit highlights split between rich and poor nations - The Associated Press",
-            "description": "A new draft of a deal on money to curb and adapt to climate change released Friday afternoon at the United Nations climate summit pledged $250 billion annually by 2035 from wealthy countries to poorer ones. The amount pleases the countries who will be doling …",
-            "url": "https://apnews.com/article/united-nations-cop29-climate-change-talks-baku-fossil-fuels-c0c88a55939837b6898df5cfbc640cfb",
-            "urlToImage": "https://dims.apnews.com/dims4/default/064918f/2147483647/strip/true/crop/3813x2145+0+199/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3c%2Fea%2F1246b6d5f8ee1dd90eecd431af5f%2F03b308a170ed4e43857d9ba76a2bee54",
-            "publishedAt": "2024-11-22T21:28:00Z",
-            "content": "BAKU, Azerbaijan (AP) A new draft of a deal on cash to curb and adapt to climate change released Friday at the United Nations climate summit pledged $250 billion annually by 2035 from wealthy countri… [+6278 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Kristen Holmes",
-            "title": "Matt Gaetz says he’s not returning to Congress next year - CNN",
-            "description": "Former Florida Rep. Matt Gaetz, who withdrew from consideration as President-elect Donald Trump’s pick for attorney general on Thursday, said Friday he will not be returning to Congress next year.",
-            "url": "https://www.cnn.com/2024/11/22/politics/gaetz-not-rejoining-congress/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-19t231721z-399516477-rc2xvaa9px89-rtrmadp-3-usa-trump-gaetz.JPG?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-11-22T21:27:00Z",
-            "content": "Former Florida Rep. Matt Gaetz, who withdrew from consideration as President-elect Donald Trumps pick for attorney general on Thursday, said Friday he will not be returning to Congress next year.\r\nIm… [+4703 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "KSDK.com"
             },
             "author": "Hunter Bassler",
@@ -317,93 +330,54 @@
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
+                "name": "Greater Baton Rouge Business Report"
             },
-            "author": "MarketWatch",
-            "title": "S&P 500 is on a 12-month tear as tariffs threaten 2025 outlook for U.S. stocks - MarketWatch",
-            "description": null,
-            "url": "https://www.marketwatch.com/story/s-p-500-is-on-a-12-month-tear-as-tariffs-threaten-2025-outlook-for-u-s-stocks-1b98477c",
+            "author": "Daily Report Staff",
+            "title": "Roundup: Community Coffee campaign / Delta Utilities / Honeywell - Greater Baton Rouge Business Report",
+            "description": "One cup at a time: Baton Rouge-based Community Coffee launched a new brand campaign on Friday dubbed “Generations.” The campaign aims to connect the 105-year-old brand with the new generation while paying respect to those that came before. Read more about the…",
+            "url": "https://www.businessreport.com/article/roundup-community-coffee-campaign-delta-utilities-honeywell",
             "urlToImage": null,
-            "publishedAt": "2024-11-22T20:12:00Z",
-            "content": null
+            "publishedAt": "2024-11-22T20:41:12Z",
+            "content": "One cup at a time: Baton Rouge-based Community Coffee launched a new brand campaign on Friday dubbed Generations. The campaign aims to connect the 105-year-old brand with the new generation while pay… [+888 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "Hollywood Reporter"
             },
-            "author": null,
-            "title": "NFL odds, lines, picks, spreads, bets, predictions, what to bet for Week 12, 2024: Model picking Bears, Eagles - CBS Sports",
-            "description": "SportsLine's advanced model has locked in its Week 12 NFL betting picks from 10,000 simulations",
-            "url": "https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-what-to-bet-for-week-12-2024-model-picking-bears-eagles/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/10/17/fe2a9818-9139-4799-a900-28d6a6065faf/thumbnail/1200x675/a9ba9f1a671aad6634b44e24bb5c0ae0/saquon-barkley-eagles-usatsi.jpg",
-            "publishedAt": "2024-11-22T20:04:40Z",
-            "content": "The Week 12 NFL schedule includes multiple divisional matchups like Cowboys vs. Commanders (-10.5, 45), Broncos vs. Raiders (+6, 41) and Cardinals vs. Seahawks (+1, 47.5). These rivalry games can end… [+5051 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Palmer Haasch",
-            "title": "'Wicked' vs. 'Gladiator II': If you see only one movie this weekend, the choice is clear - Business Insider",
-            "description": "\"Wicked\" and \"Gladiator II\" are both pretty good films, but if you only have time for one this weekend, see \"Wicked.\"",
-            "url": "https://www.businessinsider.com/wicked-vs-gladiator-2-better-movie-see-in-theaters-2024-11",
-            "urlToImage": "https://i.insider.com/6740bca7ede4eeae39290c61?width=1200&format=jpeg",
-            "publishedAt": "2024-11-22T19:43:00Z",
-            "content": "\"Gladiator II\" and \"Wicked\" are facing off at the box office this weekend.\r\n\"Glicked,\" a portmanteau of the dueling releases, may not live up to the \"Barbenheimer\" phenomenon of 2023 the two films wo… [+4032 chars]"
+            "author": "Pamela McClintock",
+            "title": "Box Office: ‘Wicked’ Heading for Record $120M Opening, ‘Gladiator II’ on Course for Stellar $61M - Hollywood Reporter",
+            "description": "The two tentpoles are kicking off what's expected to be the biggest Thanksgiving in history at the domestic box office, which welcomes 'Moana 2' on Wednesday.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-features/wicked-box-office-gladiator-previews-1236069327/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/Wicked-and-Gladiator-II-Split-1-Publicity-H-2024.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2024-11-22T20:21:24Z",
+            "content": "Call it whatever you want — Glicked, Wickiator or Barbienheimer 2.0. The only thing that matters is that the domestic box office is springing back to life in historic fashion thanks to the combo of U… [+2963 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "Jalopnik"
             },
-            "author": "Robert Lea",
-            "title": "2-million-mile-per-hour galactic crash reawakens a dangerous 'cosmic crossroads' - Space.com",
-            "description": "The speed outpaces a jet fighter by around 800 times.",
-            "url": "https://www.space.com/million-mph-galaxy-collision-stephans",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MsF7Qmectwr4VSAynAjMz7-1200-80.png",
-            "publishedAt": "2024-11-22T17:34:18Z",
-            "content": "Using one of the most powerful telescopes on Earth, astronomers have witnessed an intimidating 2-million-mile-per-hour (3.2-million-kilometer-per-hour) smash-up between galaxies at a dangerous \"cosmi… [+4384 chars]"
+            "author": "Bradley Brownell",
+            "title": "Pokémon Go Was A Plot To Use Your Data To Fast Track An AI-Slop Google Maps Competitor - Jalopnik",
+            "description": "Niantic is using scans of the real world from the game to create an AI-based navigation system",
+            "url": "https://jalopnik.com/pokemon-go-was-a-plot-to-use-your-data-to-fast-track-an-1851706279",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e586223e090d6593bc4e8b92ced5c09b.jpg",
+            "publishedAt": "2024-11-22T18:15:00Z",
+            "content": "Niantic, the privately-held PokémonGo app parent company, brought the augmented-reality app to the masses in July of 2016, and the game made it onto over a billion phones before 2019. Statistically y… [+1875 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Phys.Org"
             },
-            "author": null,
-            "title": "Putin says Russia will use new missile again in 'combat conditions' - BBC.com",
-            "description": "Ukraine's President Zelensky has urged a \"serious response\" to Moscow's use of its Oreshnik ballistic missile",
-            "url": "https://www.bbc.com/news/articles/cx28dzvxjyjo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bdba/live/ee750490-a90d-11ef-a659-5bb00cb05eae.jpg",
-            "publishedAt": "2024-11-22T17:19:03Z",
-            "content": "Russia has a stock of powerful new missiles \"ready to be used\", President Vladimir Putin has said, a day after his country fired a new ballistic missile at the Ukrainian city of Dnipro.\r\nIn an unsche… [+3618 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Quentyn Kennemer",
-            "title": "The newest Kindle and Kindle Paperwhite are on sale for the first time - The Verge",
-            "description": "Amazon’s 2024 Kindle and Kindle Paperwhite are on sale for Black Friday. It’s the first deal we’ve seen on the ebook readers and you can save as much as $25 on each of them.",
-            "url": "https://www.theverge.com/2024/11/22/24302590/amazon-kindle-paperwhite-2024-black-friday-deal-sale",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/XNogjXtt0Yz_8SKkqUSITHl2_J8=/0x0:4032x3024/1200x628/filters:focal(2016x1512:2017x1513)/cdn.vox-cdn.com/uploads/chorus_asset/file/25680732/IMG_1485_2.JPG",
-            "publishedAt": "2024-11-22T14:58:20Z",
-            "content": "The newest Kindle and Kindle Paperwhite are on sale for the first time\r\nThe newest Kindle and Kindle Paperwhite are on sale for the first time\r\n / You can save as much as $25 on each of them, and you… [+2693 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Mpox in DR Congo: BBC visits mpox clinic as WHO says cases 'plateauing' - BBC.com",
-            "description": "Lwiro hospital was overrun when the BBC visited two months ago, now nurses say infections are easing.",
-            "url": "https://www.bbc.com/news/articles/cqxw1l05l1ro",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d5b6/live/77902640-a8d9-11ef-a4fe-a3e9a6c5d640.jpg",
-            "publishedAt": "2024-11-22T08:54:46Z",
-            "content": "Nurse Jackson Murhula says Lwiro clinic is only receiving two or three mpox cases a day at the moment\r\nMedics at the epicentre of the mpox outbreak in eastern Democratic Republic of Congo have told t… [+6134 chars]"
+            "author": "Justin Jackson",
+            "title": "Ryugu asteroid sample rapidly colonized by terrestrial life despite strict contamination control - Phys.org",
+            "description": "Panspermia is the hypothesis that life can survive the transfer between planetary bodies as a secondary path for life to get started on planets throughout a solar system. The discovery of extraterrestrial life on asteroids or within meteorites would have prof…",
+            "url": "https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/terrestrial-life-found.jpg",
+            "publishedAt": "2024-11-22T16:40:01Z",
+            "content": "Panspermia is the hypothesis that life can survive the transfer between planetary bodies as a secondary path for life to get started on planets throughout a solar system. The discovery of extraterres… [+4892 chars]"
         },
         {
             "source": {
@@ -420,42 +394,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "pymnts.com"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "PYMNTS",
-            "title": "Report: OpenAI Considers Adding Web Browser and Search Partnerships - PYMNTS.com",
-            "description": "OpenAI reportedly has considered developing a web browser and powering search features for partners as it looks to expand its reach. The potential web",
-            "url": "https://www.pymnts.com/artificial-intelligence-2/2024/report-openai-considers-adding-web-browser-and-search-partnerships/",
-            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/11/OpenAI-web-browser.jpg",
-            "publishedAt": "2024-11-22T01:49:57Z",
-            "content": "OpenAI reportedly has considered developing a web browser and powering search features for partners as it looks to expand its reach.\r\nThe potential web browser would be combined with the companys cha… [+2289 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Alejandra O'Connell-Domenech",
-            "title": "National COVID-19 vaccination rate less than 20 percent: CDC survey - The Hill",
-            "description": "Just 17.9 percent of U.S. adults have gotten a COVID-19 vaccine, and 34.7 percent have received an influenza vaccine during the 2024-25 respiratory disease season, according to a new report from the Centers for Disease Control and Prevention (CDC).   The repo…",
-            "url": "https://thehill.com/policy/healthcare/5003450-cdc-report-covid-flu-vaccination/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/11/vaccine_covid_12292021_AP_AP21362674474082.jpg?w=1280",
-            "publishedAt": "2024-11-21T23:01:00Z",
-            "content": "Skip to content\r\nJust 17.9 percent of U.S. adults have gotten a COVID-19 vaccine, and 34.7 percent have received an influenza vaccine during the 2024-25 respiratory disease season, according to a new… [+1824 chars]"
+            "author": "Reuters",
+            "title": "OpenAI considers taking on Google with browser, the Information reports - Reuters",
+            "description": "ChatGPT-creator OpenAI has recently considered developing a web browser that would combine with its chatbot and separately discussed or struck deals to power search features, the Information reported on Thursday.",
+            "url": "https://www.reuters.com/technology/artificial-intelligence/openai-considers-taking-google-with-browser-information-reports-2024-11-21/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/32LDK536K5NDRN7T65FFK22EAM.jpg?auth=98b6b3e5c09042e8048749f135ec5f8ade09a6c56202f66bd103abf195249b7f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-21T22:37:58Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "The Conversation Africa"
+                "name": "Rockstarintel.com"
             },
-            "author": "Gemma Ware, Mike Herd",
-            "title": "Fifty years after the discovery of Lucy, it’s time to ‘decolonise paleoanthropology’ says leading Ethiopian fossil expert – podcast - The Conversation",
-            "description": "Yohannes Haile-Selassie is responsible for some of the most remarkable ancient human fossil discoveries in his home country.",
-            "url": "https://theconversation.com/fifty-years-after-the-discovery-of-lucy-its-time-to-decolonise-paleoanthropology-says-leading-ethiopian-fossil-expert-podcast-243642",
-            "urlToImage": "https://images.theconversation.com/files/632725/original/file-20241118-15-sjali9.jpg?ixlib=rb-4.1.0&rect=0%2C206%2C4758%2C2379&q=45&auto=format&w=1356&h=668&fit=crop",
-            "publishedAt": "2024-11-21T11:01:29Z",
-            "content": "On November 24 1974, renowned American paleoanthropologist Donald Johanson spotted a piece of elbow with humanlike anatomy poking out of a rocky hillside in northern Ethiopia. It was the first fossil… [+4036 chars]"
+            "author": "Aaron Trueman",
+            "title": "GTA 6 Wins Award And Is \"Absolutely Mind-Blowing\" According To Rockstar Games Dev - RockstarINTEL",
+            "description": "We’re not even into the release year that Rockstar Games are targeting with GTA 6 and it is still winning awards. Rockstar Games took to the stage on Thursday to accept yet another trophy for its endless collection before Trailer 2 for GTA 6 has even been tea…",
+            "url": "https://rockstarintel.com/gta-6-wins-award-and-is-absolutely-mind-blowing-according-to-rockstar-games-dev/",
+            "urlToImage": "https://rockstarintel.com/wp-content/uploads/2024/09/r-star-and-gta-vi-header.webp",
+            "publishedAt": "2024-11-21T20:02:30Z",
+            "content": "We’re not even into the release year that Rockstar Games are targeting with GTA 6 and it is still winning awards. Rockstar Games took to the stage on Thursday to accept yet another trophy for its end… [+2234 chars]"
         }
     ]
 }

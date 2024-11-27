@@ -1,58 +1,110 @@
 {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 22,
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN",
+            "title": "Microsoft says massive Outlook and Teams outage is mostly resolved - CNN",
+            "description": null,
+            "url": "https://www.cnn.com/2024/11/25/tech/microsofts-outlook-teams-outage/index.html",
+            "urlToImage": null,
+            "publishedAt": "2024-11-26T04:05:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nathaniel Meyersohn",
+            "title": "Walmart rolls back DEI programs after right-wing backlash - CNN",
+            "description": "Walmart, the largest private employer in the United States, will curb some diversity, equity and inclusion (DEI) efforts. It’s the latest company to backtrack on diversity initiatives in the face of right-wing pressure.",
+            "url": "https://www.cnn.com/2024/11/25/business/walmart-dei-rollback/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185293124.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-26T03:11:00Z",
+            "content": "Walmart, the largest private employer in the United States, will curb some diversity, equity and inclusion (DEI) efforts. Its the latest company to backtrack on diversity initiatives in the face of r… [+1731 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "The Detroit News"
+                "name": "Benzinga"
             },
-            "author": "Breana Noble, Kalea Hall, Candice Williams, Beth LeBlanc",
-            "title": "RenCen would lose two towers, add apartments, riverfront park under new proposal - Detroit News",
-            "description": "Dan Gilbert's real estate company envisions a rightsizing of Detroit's skyline icon for a new era of downtown living.",
-            "url": "https://www.detroitnews.com/story/business/2024/11/25/renaissance-center-general-motors-bedrock-detroit-dan-gilbert-redevelopment-riverfront-rencen-gm/76566223007/",
-            "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2024/11/25/PDTN/76569318007-aerial-courtesy-of-bedrock-gensler-1-jpg.jpg?crop=4479,2520,x0,y530&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2024-11-25T23:56:29Z",
-            "content": "Detroit The Renaissance Center would shrink to three towers with residential, office and hotel tenancy to create space for a six-acre riverfront park in a more than $1.6 billion redevelopment plan, d… [+18129 chars]"
+            "author": null,
+            "title": "As Nvidia Maintains Chip Supremacy, Jim Cramer Says Foes Of Semiconductor Giant 'Aren't Really Enemies' - Benzinga",
+            "description": "NVIDIA Corp. continues solidifying its dominance in the artificial intelligence semiconductor market, with CNBC's Jim Cramer emphatically declaring that no company can successfully challenge the tech giant's technological supremacy.",
+            "url": "https://www.benzinga.com/news/global/24/11/42179729/as-nvidia-maintains-chip-supremacy-jim-cramer-says-the-so-called-enemies-of-semiconductor-giant-arent-really-enemies",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/11/25/untitled_0.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-11-26T02:17:00Z",
+            "content": "NVIDIA Corp. NVDA continues solidifying its dominance in the artificial intelligence semiconductor market, with CNBC’s Jim Cramer emphatically saying that no company can successfully challenge the te… [+2915 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Joseph Menn, Aaron Gregg",
-            "title": "Microsoft outage disrupts Outlook and Teams, affecting many thousands - The Washington Post",
-            "description": "The company said a “recent change” impacted some of its services and it has deployed a fix.",
-            "url": "https://www.washingtonpost.com/business/2024/11/25/microsoft-outage-outlook-365-teams/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LACES6R4PT47EF3ZR6EMJS5WLY_size-normalized.jpg&w=1440",
-            "publishedAt": "2024-11-25T23:53:32Z",
-            "content": "A vast number of Microsoft users were unable to connect to Outlook email and the Teams collaboration tools for hours Monday after the software giant fumbled a change to its internal systems.\r\nHigher … [+296 chars]"
+            "author": "STEVE KARNOWSKI",
+            "title": "Couple charged in ring suspected of stealing $1 million in Lululemon clothes - The Associated Press",
+            "description": "A Connecticut couple has been charged in Minnesota with being part of a shoplifting ring suspected of stealing around $1 million in goods across the country from upscale athletic wear retailer Lululemon.Jadion Anthony Richards and Akwele Nickeisha Lawes-Richa…",
+            "url": "https://apnews.com/article/lululemon-shoplifting-ring-charges-minnesota-connecticut-fa8fb5d9112c0439768fd91382d4f10a",
+            "urlToImage": "https://dims.apnews.com/dims4/default/29f20dd/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff1%2F6e%2F41df72ba4168f13ea6f05c50ddfc%2F0efb233f7d4847e3ba3b9fbd72dadec0",
+            "publishedAt": "2024-11-26T02:11:00Z",
+            "content": "MINNEAPOLIS (AP) A Connecticut couple has been charged in Minnesota with being part of a shoplifting ring suspected of stealing around $1 million in goods across the country from the upscale athletic… [+3475 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kelsey Vlamis",
+            "title": "California proposes its own EV buyer credit — which could cut out Elon Musk's Tesla - Business Insider",
+            "description": "California Gov. Gavin Newsom said he'll restart a rebate program if Trump ends the federal EV tax credit, but Tesla models could be excluded.",
+            "url": "https://www.businessinsider.com/california-proposes-ev-buyer-credit-excludes-elon-musk-tesla-2024-11",
+            "urlToImage": "https://i.insider.com/674506b19f2901eb6036d14e?width=1200&format=jpeg",
+            "publishedAt": "2024-11-26T01:15:50Z",
+            "content": "California Gov. Gavin Newsom is preparing to step in if President-elect Donald Trump fulfills his promise to axe the federal electric-vehicle tax credit but one notable EV maker could be left out.\r\nN… [+3436 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "Deadline"
             },
-            "author": "Ariel Zilber",
-            "title": "Gay MSNBC host Jonathan Capehart said he’s ‘conflicted’ by Trump move to pick Scott Bessent for Treasury - New York Post ",
-            "description": "Jonathan Capehart is a Washington Post opinion writer who moonlights as host of “The Sunday Show with Jonathan Capehart” on Comcast-owned MSNBC.",
-            "url": "https://nypost.com/2024/11/25/media/msnbcs-jonathan-capehart-conflicted-by-trump-pick-scott-bessent/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/msnbc-star-jonathan-capehart-confessed-94307060.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-11-25T21:47:00Z",
-            "content": "A weekend anchor for left-leaning cable channel MSNBC said he was “conflicted” by President-elect Donald Trump’s decision to name the openly gay hedge fund manager Scott Bessent as the next Treasury … [+3733 chars]"
+            "author": "Dominic Patten",
+            "title": "Disney To Pay Out $43M In Pay Equity Class Action Deal; Mouse House To Bring Outside Consultants On Board To Check Practices - Deadline",
+            "description": "In a Deadline exclusive, we've learned Disney is writing a check for $43M to finally end a 5-year old pay equity class-action lawsuit",
+            "url": "http://deadline.com/2024/11/disney-pay-equity-suit-settlement-figure-1236187331/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/Disney.jpg?w=1024",
+            "publishedAt": "2024-11-26T00:44:00Z",
+            "content": "(Updated with plaintiffs’ lead lawyer statement) We now know how much Disney is writing a check for to end the pay equity class-action suit that has loomed over the company for the past five years.\r\n… [+3178 chars]"
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": "axios",
+                "name": "Axios"
             },
-            "author": "Curtis Heinzl",
-            "title": "Starbucks Using Pen and Paper to Track Pay After Vendor Hack - The Seattle Times",
-            "description": "Starbucks said a ransomware attack at a third-party software supplier has disrupted its system for tracking employee payments.",
-            "url": "https://www.bloomberg.com/news/articles/2024-11-25/starbucks-is-using-pens-and-paper-to-track-pay-amid-cyberattack",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/11/11252024_Starbucks_tzr_134348.jpg?d=1200x630",
-            "publishedAt": "2024-11-25T21:40:25Z",
-            "content": "(Bloomberg) — Starbucks Corp. said a ransomware attack at a third-party software supplier has disrupted its system for tracking employee schedules, forcing the coffee giant to manually tally workers’… [+3001 chars]"
+            "author": "Ben Berkowitz",
+            "title": "High-profile bond manager Ken Leech charged with $600M frraud - Axios",
+            "description": "Prosecutors allege Leech \"cherry-picked\" trades for favored clients.",
+            "url": "https://www.axios.com/2024/11/25/ken-leech-bond-fraud",
+            "urlToImage": "https://images.axios.com/0d7RBKTPH7Oe2DZgS_5WYjDCn6I=/0x278:3760x2393/1366x768/2024/11/25/1732576838939.jpg",
+            "publishedAt": "2024-11-25T23:38:18Z",
+            "content": "Federal prosecutors charged Ken Leech, one of the world's best-known bond fund managers, with a $600 million fraud on Monday.\r\nWhy it matters: Leech, the former co-chief investment officer of Western… [+1213 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Google and the DOJ make their final arguments in the ad tech monopoly case - The Verge",
+            "description": "Google and the Department of Justice met in a federal courtroom in Virginia to make their closing arguments in the case over Google’s alleged ad tech monopoly.",
+            "url": "https://www.theverge.com/2024/11/25/24305748/google-doj-ad-tech-monopoly-closing-arguments",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/BeGWm_Q0_1cnHzjDT9aK9d327z4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25606861/STK445_ADVERTISING_STK093_GOOGLE_B.jpg",
+            "publishedAt": "2024-11-25T23:18:25Z",
+            "content": "Google and the DOJ make their final arguments in the ad tech monopoly case\r\nGoogle and the DOJ make their final arguments in the ad tech monopoly case\r\n / Google is once, twice, three times a monopol… [+5698 chars]"
         },
         {
             "source": {
@@ -70,53 +122,40 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "Investor's Business Daily"
             },
-            "author": "Ed Cara",
-            "title": "Bird Flu Emerges as Key Reason Behind U.S. Egg Shortage - Gizmodo",
-            "description": "Grocery stores across the country have been experiencing egg shortages recently, thanks in no small part to bird flu.",
-            "url": "https://gizmodo.com/bird-flu-emerges-as-key-reason-behind-u-s-egg-shortage-2000529618",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/empty-eggs.jpg",
-            "publishedAt": "2024-11-25T20:20:33Z",
-            "content": "The big Thanksgiving family breakfast may be in serious danger for some Americans this year. Grocery stores across the country are reportedly experiencing a shortage of eggs, and the reason appears t… [+2741 chars]"
+            "author": "REINHARDT KRAUSE, Investor's Business Daily",
+            "title": "Zoom Earnings, Revenue Top Views, Guidance Slightly Above Estimates - Investor's Business Daily",
+            "description": "Amid rising expectations, Zoom Video reported Q3 earnings and revenue that topped estimates as enterprise sales growth beat views.",
+            "url": "https://www.investors.com/news/technology/zoom-stock-zoom-earnings-zm-stock-q32024/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/06/stock-Zoom-03-company.jpg",
+            "publishedAt": "2024-11-25T21:28:00Z",
+            "content": "Amid rising expectations, Zoom Video Communications (ZM) on Monday reported third-quarter earnings and revenue that topped estimates as enterprise sales growth beat views. Revenue guidance for Zoom s… [+2385 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Barron's"
+                "name": "BleepingComputer"
             },
-            "author": "Barron's",
-            "title": "Palantir Stock and 3 Others That Can Join the AI Party - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/palantir-stock-price-ai-software-snowflake-40a420a1",
-            "urlToImage": null,
-            "publishedAt": "2024-11-25T19:00:00Z",
-            "content": null
+            "author": "Bill Toulas",
+            "title": "Blue Yonder ransomware attack disrupts grocery store supply chain - BleepingComputer",
+            "description": "Supply chain management firm Blue Yonder is warning that a ransomware attack caused significant disruption to its services, with the outages impacting grocery store chains in the UK.",
+            "url": "https://www.bleepingcomputer.com/news/security/blue-yonder-ransomware-attack-disrupts-grocery-store-supply-chain/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/11/25/0_chains.jpg",
+            "publishedAt": "2024-11-25T21:11:09Z",
+            "content": "Supply chain management firm Blue Yonder is warning that a ransomware attack caused significant disruption to its services, with the outages impacting grocery store chains in the UK.\r\nBlue Yonder (fo… [+2346 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "WTOP"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "The Associated Press",
-            "title": "‘Busiest Thanksgiving ever’: How the TSA plans to handle record air travel - WTOP",
-            "description": "Just as there are good odds the turkey will taste dry, airports and highways are expected to be jam-packed during Thanksgiving week, a holiday period likely to end in another record day for air travel in the United States.",
-            "url": "https://wtop.com/thanksgiving-news/2024/11/busiest-thanksgiving-ever-how-the-tsa-plans-to-handle-record-air-travel/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2024/11/Thanksgiving_Travel_62546-scaled.jpg",
-            "publishedAt": "2024-11-25T18:56:15Z",
-            "content": "Read more:AAA forecasts record holiday travel, but will that actually mean more traffic?\r\nThis page contains a video which is being blocked by your ad blocker.In order to view the video you must disa… [+6943 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Barron's",
-            "title": "SMCI Stock Soars. What's Next for Super Micro Delisting Fears After Record Week. - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/super-micro-smci-stock-price-delisting-nasdaq-ce8a7045",
-            "urlToImage": null,
-            "publishedAt": "2024-11-25T18:53:00Z",
+            "author": "Jonathan Stempel",
+            "title": "Buffett refines plans for his fortune, donates more Berkshire shares - Reuters",
+            "description": "Warren Buffett, the legendary investor and chairman of Berkshire Hathaway , has made further preparations for giving away his fortune after his death.",
+            "url": "https://www.reuters.com/business/finance/buffett-refines-plans-his-fortune-donates-more-berkshire-shares-2024-11-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/B7XR4TADJFIXJE7DHEDL23NFMM.jpg?auth=74cc00322cc379a5ba3fe008b71c07ccfa4c8a1295fa783e38d6e79cad57e961&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-25T20:19:27Z",
             "content": null
         },
         {
@@ -147,45 +186,6 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Fortune",
-            "title": "This CEO fired 90% of his staff for missing a morning meeting. He stands by the choice - Fortune",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnaHQ2M0JPazlfeGt3Y1ZqVkZZNHI4bTZXV0pLR0d5NTFUOXNMenNHbUZpcm1qNTlzZWlIT0VfeDJqd1pRNTg4VnN0R3paVERSZ2NXWmdWemUyMC1kakplVVU3NWdwbXMxZnR6dWk0dnpMUQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-11-25T18:11:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "MATTHEW GALGANI, Investor's Business Daily",
-            "title": "Cracks Emerge In Nvidia's AI Armor. What's An Investor To Do? - Investor's Business Daily",
-            "description": "As Nvidia runs into pressure, how should investors handle the AI powerhouse?",
-            "url": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/nvidia-stock-sell-and-buy-rules/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/11/Stock-nvidia-logophone-02-adobe.jpg",
-            "publishedAt": "2024-11-25T18:09:00Z",
-            "content": "Nvidia (NVDA) has long symbolized the artificial intelligence revolution. And after a string of record highs and yet another earnings beat, Nvidia stock holds its spot on the IBD Leaderboard list of … [+2916 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Chris Matthews",
-            "title": "Will the Fed ‘weaponize’ the bond market to ‘teach Trump a lesson’? - MarketWatch",
-            "description": "One economist argues Fed Chair Powell would win in a showdown with incoming President Trump",
-            "url": "https://www.marketwatch.com/story/will-the-fed-weaponize-the-bond-market-to-teach-trump-a-lesson-ac2e6778",
-            "urlToImage": "https://images.mktw.net/im-26465726/social",
-            "publishedAt": "2024-11-25T18:07:00Z",
-            "content": "President-elect Donald Trump has made a habit of criticizing the Federal Reserve. During his campaign, he argued that as president \r\nhe should be consulted on the central banks interest-rate decision… [+265 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Benzinga"
             },
@@ -199,29 +199,16 @@
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "The Wall Street Journal",
-            "title": "Warren Buffett Donates Another $1 Billion. He Has Estate-Planning Advice for Everyone. - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/finance/investing/warren-buffett-donates-another-1-billion-he-has-estate-planning-advice-for-everyone-3c75b0c6",
-            "urlToImage": null,
-            "publishedAt": "2024-11-25T17:55:00Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Investor's Business Daily"
+                "name": "MarketWatch"
             },
-            "author": "ED CARSON, Investor's Business Daily",
-            "title": "Tesla Stock Falls As Analyst Says 'Animal Spirits' Spur Post-Election Rally, Not Fundamentals - Investor's Business Daily",
-            "description": "Elon Musk teased a big FSD update while Tesla China offered a new Model Y discount.",
-            "url": "https://www.investors.com/news/tesla-stock-animal-spirits-elon-musk-fsd-china-prices/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/05/Stock-elonmusk-2023-01-shutt.jpg",
-            "publishedAt": "2024-11-25T17:46:00Z",
-            "content": "Tesla (TSLA) stock's huge recent run reflects \"animal spirits\" vs. a change of fundamentals since Donald Trump's election win, according to UBS analysts. Tesla stock fell Monday, reversing from modes… [+3806 chars]"
+            "author": "MarketWatch",
+            "title": "How S&P 500 tends to perform during Thanksgiving week and into New Year’s Eve - MarketWatch",
+            "description": null,
+            "url": "https://www.marketwatch.com/story/how-s-p-500-tends-to-perform-during-thanksgiving-week-and-into-new-years-eve-8df02480",
+            "urlToImage": null,
+            "publishedAt": "2024-11-25T17:59:00Z",
+            "content": null
         },
         {
             "source": {
@@ -252,67 +239,15 @@
         {
             "source": {
                 "id": null,
-                "name": "The Daily Wire"
+                "name": "Rolling Stone"
             },
-            "author": "Amanda Harding",
-            "title": "Jaguar Exec Whines About ‘Vile Hatred And Intolerance’ Over Woke Rebrand - The Daily Wire",
-            "description": "As the mockery of Jaguar’s massive brand relaunch continues, one company exec is speaking out against the “intolerance” from the public.  Managing director Rawdon Glover said in a recent interview with the Financial Times that the campaign messaging was drown…",
-            "url": "https://www.dailywire.com/news/jaguar-exec-whines-about-vile-hatred-and-intolerance-over-woke-rebrand",
-            "urlToImage": "https://dw-wp-production.imgix.net/2024/11/Jaguar-1.jpg?w=1200&h=800&ixlib=react-9.3.0",
-            "publishedAt": "2024-11-25T17:04:26Z",
-            "content": "As the mockery of Jaguars massive brand relaunch continues, one company exec is speaking out against the intolerance from the public. \r\nManaging director Rawdon Glover said in a recent interview with… [+1978 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-11-25T16:27:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "George Budwell",
-            "title": "Nvidia's Growth May Be Cooling, but Here's Why I'm Still Buying - The Motley Fool",
-            "description": "",
-            "url": "https://www.fool.com/investing/2024/11/25/nvidias-growth-may-be-cooling-but-heres-why-im-sti/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/798921/ai-concept.jpg",
-            "publishedAt": "2024-11-25T15:30:00Z",
-            "content": "Nvidia Corporation's (NVDA -4.18%) shares dipped 3.4% in response to its fiscal 2025 third-quarter results last week, but I see this modest move lower as an opportunity to add to my position. While a… [+3967 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Barron's",
-            "title": "Cassava Sciences Stock Slides 84% as Alzheimer’s Trial Fails - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/cassava-sciences-stock-alzheimer-a1f1ff1e",
-            "urlToImage": null,
-            "publishedAt": "2024-11-25T15:06:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Investing.com",
-            "title": "Intel rises 2% on report of $8 billion Chips Act grant - Yahoo Finance",
-            "description": "Investing.com -- Intel Corporation (NASDAQ:INTC) shares rose 2% in premarket trading Monday following a CNBC report that the chipmaker was nearing a deal...",
-            "url": "https://finance.yahoo.com/news/intel-rises-2-report-8-145239639.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-            "publishedAt": "2024-11-25T14:52:39Z",
-            "content": "Investing.com -- Intel Corporation (NASDAQ:INTC) shares rose 2% in premarket trading Monday following a CNBC report that the chipmaker was nearing a deal with the U.S. Commerce Department for a nearl… [+1067 chars]"
+            "author": "Nikki McCann Ramirez",
+            "title": "Right-Wingers Are Fantasizing About Elon Musk Buying MSNBC - Rolling Stone",
+            "description": "Elon Musk has been teasing that he could buy MSNBC, causing right-wingers to fantasize about the left-leaning network becoming a MAGA megaphone.",
+            "url": "http://www.rollingstone.com/politics/politics-news/elon-musk-teasing-msnbc-purchase-right-wingers-1235179680/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/11/right-wing-elon-msnbc.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2024-11-25T16:48:51Z",
+            "content": "In the two years since Elon Musk bought Twitter, he managed to kill its value, hemorrhage huge swaths of revenue, alienated its advertisers, and triggered a user exodus to alternative platforms. Toda… [+4649 chars]"
         },
         {
             "source": {
@@ -329,6 +264,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Khyathi Dalal",
+            "title": "Why Bitcoin's Rally Is Stalling Below $100,000 - Benzinga",
+            "description": "Top cryptocurrencies like Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO:",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/24/11/42163156/why-bitcoins-rally-is-stalling-below-100000",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/11/25/Kamala-Harris-Focus-on-Cryptocurrency-an.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-11-25T13:46:02Z",
+            "content": "Top cryptocurrencies like BitcoinBTC/USD, EthereumETH/USD, Solana SOL/USD, and XRPXRP/USD are seeing declining bullish sentiment despite rising cost bases for holders.\r\nWhat Happened: Santiment data … [+1869 chars]"
+        },
+        {
+            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
@@ -339,71 +287,6 @@
             "urlToImage": "https://dims.apnews.com/dims4/default/1f3b845/2147483647/strip/true/crop/7299x4106+0+380/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb2%2F03%2Fc7377b3e02e9b8a76f26403b50cf%2Fc55d94521e254523bfeab02cd034b2a4",
             "publishedAt": "2024-11-25T13:04:00Z",
             "content": "Macys reported weaker-than-expected preliminary sales for the fiscal third quarter and said its delaying the release of its quarterly earnings results after it discovered an up to $154 million accoun… [+2223 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investopedia"
-            },
-            "author": "Terry Lane",
-            "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
-            "description": "U.S. stock futures rise on investor optimism of President-elect Trump's selection of Scott Bessent for Treasury Secretary, bitcoin stays close to $100,000 mark, and Super Micro Computer shares continue surge. Here's what investors need to know today.",
-            "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-november-25-2024-8750955",
-            "urlToImage": "https://www.investopedia.com/thmb/SIDawy5kAfzmODyEgr3e5RTf7pQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2183883819-8998f7fc158341e0a96e77dc9d82c35b.jpg",
-            "publishedAt": "2024-11-25T12:53:45Z",
-            "content": "U.S. stock futures are higher on optimism over President-elect Trump's selection of Scott Bessent for Treasury Secretary; bitcoin (BTCUSD) is above $98,000 and MicroStrategy (MSTR) shares are jumping… [+3359 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Information"
-            },
-            "author": "Steve LeVine",
-            "title": "The Electric: Northvolt’s Blunt Message to Fellow Battery Startups—Don’t Expect a Bailout - The Information",
-            "description": "Around a year ago, Swedish batterymaker Northvolt was feted in Europe and North America as the West’s answer to China’s dominance of lithium-ion battery production. The Quebec and Canadian governments committed $1.9 billion in subsidies toward a Northvolt bat…",
-            "url": "https://www.theinformation.com/articles/the-electric-northvolts-blunt-message-to-fellow-battery-startups-dont-expect-a-bailout",
-            "urlToImage": "https://tii.imgix.net/production/articles/14055/6228b2dc-534f-454d-9a3f-57429d3b476d-2i3yDz.png?fm=jpg&auto=compress&w=1200&frame=0",
-            "publishedAt": "2024-11-25T12:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "The Wall Street Journal",
-            "title": "Concrete-Maker Quikrete Strikes $9.2 Billion Deal for Summit Materials - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/business/deals/concrete-maker-quikrete-strikes-9-2-billion-deal-for-summit-materials-c6eb5536",
-            "urlToImage": null,
-            "publishedAt": "2024-11-25T12:22:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Who What Wear"
-            },
-            "author": "Erin Fitzpatrick",
-            "title": "I Usually Avoid Black Friday, But Even I Can't Resist Deals From These 3 Brands - Who What Wear",
-            "description": "Black Friday sales",
-            "url": "https://www.whowhatwear.com/fashion/shopping/most-stylish-black-friday-deals",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pSRUw4tEyFDExHXjQyUHP7-1200-80.jpg",
-            "publishedAt": "2024-11-25T09:00:50Z",
-            "content": "I usually stay away from Black Friday sales because I have a tendency to spend money on things I don't need. Sound familiar? This year, however, I have made a small exception strictly for three of my… [+826 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investopedia"
-            },
-            "author": "Timothy Smith",
-            "title": "Bitcoin Price Levels to Watch as Key $100K Level Remains in Sight - Investopedia",
-            "description": "Bitcoin remains in focus to start the week as the cryptocurrency sits on the precipice of crossing the $100,000 mark for the first time. Monitor these important chart levels.",
-            "url": "https://www.investopedia.com/bitcoin-price-levels-to-watch-as-key-usd100k-level-remains-in-sight-8750913",
-            "urlToImage": "https://www.investopedia.com/thmb/6HAj23xXP3ipf-B0BTc1fhUqv70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/BTCUSDChart-c26e5881ebc34f33910ad841d6c8862c.gif",
-            "publishedAt": "2024-11-25T03:56:56Z",
-            "content": "<ul><li>Bitcoin remains in focus to start the week as the cryptocurrency sits on the precipice of crossing the $100,000 mark for the first time. </li><li>Since Donald Trumps decisive election victory… [+3066 chars]"
         }
     ]
 }

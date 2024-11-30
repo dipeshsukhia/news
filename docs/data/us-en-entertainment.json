@@ -1,71 +1,318 @@
 {
     "status": "ok",
-    "totalResults": 41,
+    "totalResults": 48,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "Hollywood Reporter"
             },
-            "author": "Lex Harvey",
-            "title": "‘Sympathetic eyes and a muscly stature’: Vito the pug wins National Dog Show - CNN",
-            "description": "A pug named Vito has been crowned best in show at the 92nd annual National Dog Show – the first time a pug has won the title in at least two decades.",
-            "url": "https://www.cnn.com/2024/11/29/us/national-dog-show-vito-pug-intl-scli/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2186348652.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-11-29T10:38:00Z",
-            "content": "Vito the pug has been crowned best in show at the 92nd annual National Dog Show the first time a pug has won the title in at least two decades.\r\nA 2.5-year-old pug with sympathetic eyes and a muscly … [+863 chars]"
+            "author": "Seth Abramovitch",
+            "title": "How ‘Wicked’ Could Shock Everyone and Win Best Picture - Hollywood Reporter",
+            "description": "Too popular? Think again. Here's the recipe that could get Universal's cultural juggernaut the big Oscar entree.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-features/wicked-win-best-picture-oscars-shock-1236073471/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/2024-34Arep_race-wicked-01-web.jpg?w=1440&h=810&crop=1",
+            "publishedAt": "2024-11-29T17:35:06Z",
+            "content": "When The Lord of the Rings: The Return of the King dominated the 2004 Academy Awards, winning all 11 of its categories including best picture, it made history. Yes, it was the biggest Oscars sweep ev… [+5593 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Page Six"
+                "name": "Slate Magazine"
+            },
+            "author": "Hillary Frey",
+            "title": "Michael Fassbender’s New Spy Show Is Smart, Fast, and Star-Studded. Unfortunately, I’ve Seen the Better Version. - Slate",
+            "description": "There’s a nearly fatal flaw in The Agency, the American remake of Le Bureau des Légendes.",
+            "url": "https://slate.com/culture/2024/11/the-agency-tv-show-paramount-showtime-le-bureau-des-legendes-michael-fassbender.html",
+            "urlToImage": "https://compote.slate.com/images/7f89db3f-e81c-438a-8945-d9487ae7547d.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2024-11-29T17:00:00Z",
+            "content": "The Agency, Im sad to say, is missing that je ne sais quoi of Le Bureau des Légendes.\r\nIf only Id encountered Showtimes new spy thrillerhaving never seen its source material, the mid-2010s French dra… [+5462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Bhavika Rathore",
+            "title": "Inside Jennifer Lopez's solo Thanksgiving celebration without Ben Affleck - Hindustan Times",
+            "description": "Jennifer Lopez expressed gratitude to her followers, while Ben Affleck and Jennifer Garner were busy helping the homeless together.",
+            "url": "https://www.hindustantimes.com/entertainment/music/inside-jennifer-lopezs-solo-thanksgiving-celebration-without-ben-affleck-101732893520282.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/11/29/1600x900/AWARDS-GOVERNORS-OSCARS-256_1732896752307_1732896777261.JPG",
+            "publishedAt": "2024-11-29T16:17:54Z",
+            "content": "Jennifer Lopez seemed to have a happy Thanksgiving as she celebrated the occasion for the first time since parting ways with Ben Affleck. While the Batman actor celebrated the holiday with his ex-wif… [+2181 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Brent Lang",
+            "title": "Box Office: ‘Moana 2’ Earns Gigantic $28 Million on Thanksgiving Day, Shattering Holiday Records - Variety",
+            "description": "'Moana 2' continued its record-breaking box office run, earning $28 million on Thanksgiving, as 'Wicked' and 'Gladiator II' also performed well.",
+            "url": "https://variety.com/2024/film/news/thanksgiving-box-office-moana-2-breaks-holiday-records-wicked-1236230809/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/08/MOANA2-ONLINE-USE-trailer1_016.50_0004_2k.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-11-29T16:08:00Z",
+            "content": "Walt Disney Animation’s “Moana 2” continued on its record-shattering path, earning a massive $28 million on Thanksgiving, while lifting the fortunes of a movie business that hasn’t had much to celebr… [+3070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Scott Roxborough",
+            "title": "Native All-Stars Unite for ‘Brave’ Film (Exclusive) - Hollywood Reporter",
+            "description": "Dallas Goldtooth, Amber Midthunder, Wes Studi and Graham Greene will star in the new dramedy from Indigenous director Steven Paul Judd, the first-ever film that will be shot on Choctaw Nation land.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-features/brave-choctaw-nation-film-amber-midthunder-dallas-goldtooth-1236071582/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/Dallas-Goldtooth-Amber-Midthunder-Wes-Studi-and-Graham-Greene-Split-Getty-H-2024.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2024-11-29T15:21:33Z",
+            "content": "A who’s who of Indigenous film talent — including Dallas Goldtooth (Reservation Dogs, Echo), Amber Midthunder (Prey, Legion), Wes Studi (Heat, The Last of the Mohicans) and Graham Greene (Dances With… [+5176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "Max, Disney+, Hulu, Peacock, more offering major Black Friday streaming discounts - 9to5Mac",
+            "description": "Nearly every major TV streaming service is offering major discounts for Black Friday weekend, including Max, Disney+, Hulu, and more.",
+            "url": "https://9to5mac.com/2024/11/29/max-disney-hulu-peacock-more-offering-major-black-friday-streaming-discounts/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/disney-hulu-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-11-29T15:10:00Z",
+            "content": "There are so many streaming services these days, the cost really adds up if you subscribe to more than a few at once. But for Black Friday weekend, almost every streamer is offering huge discounts th… [+1635 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "https://www.facebook.com/peoplemag",
+            "title": "Jesse Tyler Ferguson’s Child Spends Thanksgiving in the Hospital: 'I Wasn't the Only One with a Kid in the ER' - Yahoo Entertainment",
+            "description": "Jesse Tyler Ferguson shared a snap on Thursday, Nov. 28 of one of his sons spending Thanksgiving in the emergency room",
+            "url": "https://people.com/jesse-tyler-ferguson-child-spends-thanksgiving-in-the-emergency-room-8753288",
+            "urlToImage": "https://people.com/thmb/CFgMnZ5XB61qOKBeZCLZNmlnB6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/jesse-tyler-ferguson-child-thanksgiving-ER-112924-tout-233d0ca51ce34e818af372547069aee6.jpg",
+            "publishedAt": "2024-11-29T15:07:31Z",
+            "content": "Jesse Tyler Ferguson is choosing gratitude.\r\nOn Thursday, Nov. 28, the actor, 49, revealed that one of his sons spent Thanksgiving in the ER.\r\nFerguson who shares sons Beckett Mercer, 4, and Sullivan… [+2198 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France",
+            "title": "Billboard apologizes to Taylor Swift for video snafu - CNN",
+            "description": "Billboard magazine is “deeply sorry” to Taylor Swift after an attempt to celebrate her.",
+            "url": "https://www.cnn.com/2024/11/29/entertainment/billboard-apologizes-taylor-swift-video/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/tweet-taylor-swift-20241009060424725.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-29T14:25:00Z",
+            "content": "Billboard magazine is deeply sorry to Taylor Swift after an attempt to celebrate her.\r\nThe music magazine is naming the greatest pop stars of the 21st century and clocked the 34-year-old singer/songw… [+1499 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France",
+            "title": "Bruce Willis seen in touching Thanksgiving family photos - CNN",
+            "description": "Bruce Willis spent his Thanksgiving with those who love him most.",
+            "url": "https://www.cnn.com/2024/11/29/entertainment/bruce-willis-thanksgiving-family-photos/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1140470742.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-29T14:04:00Z",
+            "content": "Bruce Willis spent his Thanksgiving with those who love him most.\r\nOn Thanksgiving, his daughters Tallulah and Scout shared photos on social media with their father, where he is seen holding a desk p… [+708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Reuters",
+            "title": "Taylor Swift's exclusive offerings at Target drive shoppers to its stores - Hindustan Times",
+            "description": "RETAIL-HOLIDAYSHOPPING/TARGET-SWIFT (PIX):Taylor Swift's exclusive offerings at Target drive shoppers to its stores",
+            "url": "https://www.hindustantimes.com/entertainment/music/taylor-swift-s-exclusive-offerings-at-target-drive-shoppers-to-its-stores-101732888790483.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/09/30/1600x900/Entertainment_4_1727681230046_1727681268389.jpg",
+            "publishedAt": "2024-11-29T13:59:50Z",
+            "content": "* \r\nTaylor Swift's exclusive offerings at Target drive shoppers to its stores\r\nTarget's exclusive Swift merchandise attracts early Black Friday shoppers \r\n * \r\n Swift's Eras Tour book and album boost… [+2992 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Alan Sepinwall",
+            "title": "Keira Knightley Goes Undercover in the Darkly Comic ‘Black Doves’ - Rolling Stone",
+            "description": "The actress shines as an undercover operative married to an unsuspecting politician, with Ben Whishaw as her hitman partner in crime.",
+            "url": "http://www.rollingstone.com/tv-movies/tv-movie-reviews/black-doves-keira-knightley-1235182652/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/11/BlackDoves_FirstLook_Image_132.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2024-11-29T13:53:46Z",
+            "content": "When we meet Helen Webb in the first episode of the new Netflix miniseries Black Doves, she seems a picture-perfect example of a politician’s wife: impeccably styled, cheerful, tending to home and ch… [+4314 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "KANIS LEUNG",
+            "title": "Cryptocurrency entrepreneur who bought banana art for $6.2 million eats the fruit in Hong Kong - The Associated Press",
+            "description": "A cryptocurrency entrepreneur who had bought a piece of conceptual art consisting of a simple banana, duct-taped to a wall, for $6.2 million last week ate the fruit in Hong Kong on Friday. Justin Sun peeled off the duct tape and enjoyed the banana in a press …",
+            "url": "https://apnews.com/article/hong-kong-banana-art-justin-sun-eat-cryptocurrency-ea246755028e74b87a2ecd8a27af16bf",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c742c26/2147483647/strip/true/crop/3500x1969+0+183/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2F28%2F1d230043a1ba759996a8df0a8119%2F66b736db13224c9fa28ef544269580ba",
+            "publishedAt": "2024-11-29T13:53:00Z",
+            "content": "HONG KONG (AP) A cryptocurrency entrepreneur who bought a piece of conceptual art consisting of a simple banana, duct-taped to a wall, for $6.2 million last week ate the fruit in Hong Kong on Friday.… [+2110 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Ziya Jaffrey",
+            "title": "Travis Kelce's Ex Kayla Nicole Broke Down About Their \"Public Breakup\" On A Reality Show - BuzzFeed",
+            "description": "Kayla is set to appear in a new reality series, and it looks like she isn't holding back when it comes to her split from Travis.",
+            "url": "https://www.buzzfeed.com/ziyajaffrey/travis-kelce-ex-kayla-nicole-broke-down-about-breakup",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-11/28/16/enhanced/5d60353cd171/original-3999-1732812882-2.jpg?crop=3001:1575;0,0%26downsize=1250:*",
+            "publishedAt": "2024-11-29T13:45:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Stephanie Webber",
+            "title": "Nick Cannon admits he 'needs help' as he reveals his narcissistic personality disorder diagnosis - New York Post ",
+            "description": "“I still don’t understand it all the way, but I kind of always wanted to get tested for it. I did a bunch of tests.” — Nick Cannon",
+            "url": "https://nypost.com/2024/11/29/entertainment/nick-cannon-admits-he-needs-help-as-he-reveals-his-narcissistic-personality-disorder-diagnosis/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/adam-rose-prime-video-94474561.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-11-29T13:08:00Z",
+            "content": "Nick Cannon is getting candid about his mental health. The “Masked Singer” host recently admitted that he “needs help” after revealing that hes been diagnosed with Narcissistic Personality Disorder (… [+3026 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "K.J. Yossman",
+            "title": "Timothée Chalamet Told 'You Don't Have the Right Body' For Action Film - Variety",
+            "description": "Timothée Chalamet says he lost out on roles in ‘Maze Runner’ and ‘Divergent’ after being told ‘you don’t have the right body’ for action films.",
+            "url": "https://variety.com/2024/film/global/timothee-chalamet-maze-runner-dont-have-the-right-body-action-films-1236230664/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/11/Timothee-Chalamet.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-11-29T12:15:00Z",
+            "content": "Timothée Chalamet has revealed he lost out on roles in action franchises like “Maze Runner” and “Divergent” after being told “You don’t have the right body.”\r\nThe film star, who now plays the lead ro… [+2186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TVLine"
+            },
+            "author": "Nick Caruso",
+            "title": "What to Watch: Blue Bloods Special, Beatles Docu, The Agency Premiere and More - TVLine",
+            "description": "Friday's top TV picks include 'Blue Bloods: Celebrating a Family Legacy,' 'The Agency' and 'Beatles '64' — see full schedule.",
+            "url": "https://tvline.com/what-to-watch/blue-bloods-celebrating-a-family-legacy-special-cbs/",
+            "urlToImage": "https://tvline.com/wp-content/uploads/2024/11/blue-bloods-special-tom-selleck.jpg?w=650",
+            "publishedAt": "2024-11-29T12:00:27Z",
+            "content": "On ABC, Oklahoma State vs. Colorado (12 pm), Mississippi State vs. Ole Miss (3:30 pm) and Georgia Tech vs. Georgia (7:30 pm) on CBS, Minnesota vs. Wisconsin (12 pm) and Stanford vs. San José State (4… [+149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
             },
             "author": "Nika Shakhnazarova",
-            "title": "Nick Cannon admits he 'needs help' after receiving narcissistic personality disorder diagnosis - Page Six",
-            "description": "The father of 12 previously said he displayed nearly all the markers for the disorder, and opened up about how it has affected his daily life.",
-            "url": "https://pagesix.com/2024/11/29/celebrity-news/nick-cannon-admits-he-needs-help-after-receiving-narcissistic-personality-disorder-diagnosis/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/11/94469078.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-11-29T08:58:00Z",
-            "content": "Nick Cannon has admitted that he “needs help” after revealing that he’s been diagnosed with Narcissistic Personality Disorder (NPD). WireImage\r\nNick Cannon has admitted that he “needs help” after rev… [+3882 chars]"
+            "title": "Alexis Ohanian, Serena Williams' husband and Reddit co-founder, reveals he had 'half' his thyroid removed - New York Post ",
+            "description": "The father of two, 41, said he underwent preventative surgery after “tracking some suspicious nodules” in the last four years.",
+            "url": "https://nypost.com/2024/11/29/business/alexis-ohanian-serena-williams-husband-and-reddit-co-founder-reveals-he-had-half-his-thyroid-removed/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/94469326.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-11-29T10:11:00Z",
+            "content": "Serena Williams husband and Reddit founder Alexis Ohanian has revealed that he had half his thyroid removed.\r\nOn Thanksgiving, the father of two, 41, shared an update on his health with fans on socia… [+2572 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "The Cut"
+            },
+            "author": "Claire Comstock-Gay",
+            "title": "Your Daily Horoscope by Madame Clairevoyant: November 29, 2024 - The Cut",
+            "description": "Every weekday, the Cut’s astrology expert, Claire Comstock-Gay (aka Madame Clairevoyant) reads the horoscope for every zodiac sign.",
+            "url": "http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-nov-29-2024.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/f7c/50e/d464b48bb4a51001a219e8e3300ccc6d48-lucy-liu-1.1x.rsocial.w1200.jpg",
+            "publishedAt": "2024-11-29T10:00:36Z",
+            "content": "The moon continues to wane as it moves through Scorpio, heading toward the weekends Sagittarius new moon. It opposes unpredictable Uranus in the evening, so expect a curveball or two, and be prepared… [+6693 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "K-Pop group NewJeans split from agency in mistreatment row - BBC.com",
-            "description": "The split is the latest in a year-long controversy that has involved a workplace harassment hearing.",
-            "url": "https://www.bbc.com/news/articles/cwy94jrrzm2o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7043/live/320ebd10-ad8f-11ef-8ab9-9192db313061.jpg",
-            "publishedAt": "2024-11-29T08:43:07Z",
-            "content": "Chart-topping K-pop group NewJeans have said they are leaving their agency after accusing it of \"mistreatment\" and \"manipulation\".\r\nThe five-member girl band announced their departure from Ador, a su… [+4771 chars]"
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-29T09:13:52Z",
+            "content": "[Removed]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "nbc-news",
+                "name": "NBC News"
             },
-            "author": "Mauricio Torres, Lex Harvey",
-            "title": "Actress Silvia Pinal, legend of Mexican film and television, dies at 93 - CNN",
-            "description": "Silvia Pinal, a legendary Mexican actress who starred in Luis Buñuel’s iconic “Viridiana,” died on Thursday, according to the Televisa-Univision network and government officials. She was 93.",
-            "url": "https://www.cnn.com/2024/11/28/entertainment/silvia-pinal-mexican-actress-dies-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1248855651.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-11-29T04:35:00Z",
-            "content": "Silvia Pinal, a legendary Mexican actress who starred in Luis Buñuels iconic Viridiana, died on Thursday, according to the Televisa-Univision network and government officials. She was 93.\r\nBorn in 19… [+2511 chars]"
+            "author": "Rob Wile",
+            "title": "Vito the pug wins best in show at annual National Dog Show competition - Yahoo Entertainment",
+            "description": "America has an unlikely breed as its new national dog champion.",
+            "url": "https://www.nbcnews.com/news/us-news/vito-pug-wins-best-show-annual-national-dog-show-competition-rcna182129",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9oIzVZlp1sNd7k33hsqLZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/nbc_news_122/f9799108a484681927c1a8f34d04b5b5",
+            "publishedAt": "2024-11-29T07:42:00Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nA… [+2856 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Beast"
+                "name": "Creative Bloq"
             },
-            "author": "Lily Mae Lazarus",
-            "title": "Bruce Willis Seen With Family in Touching Thanksgiving Snaps - The Daily Beast",
-            "description": "Daughter Tallulah added the caption “Grateful” to the snaps of her looking adoringly at sibling Scout and her father touching noses as he held a “Best Dad Ever” plaque.",
-            "url": "https://www.thedailybeast.com/obsessed/bruce-willis-seen-with-family-in-touching-thanksgiving-snaps/",
-            "urlToImage": "https://www.thedailybeast.com/resizer/v2/ONRAXXY2HVARDGAH7DO6EZ2QGI.jpg?smart=true&auth=b80b206f12fc8fd9e0e2ac8015cadb36fd8b1c6c29587bf294ae1a5cf29ee9d9&width=1200&height=630",
-            "publishedAt": "2024-11-29T03:36:00Z",
-            "content": "Bruce Willis was pictured with his family as he celebrated Thanksgiving amid his battle with frontotemporal dementia (FTD). \r\nThe former movie star, 69, was seen smiling on Thursday alongside his dau… [+1525 chars]"
+            "author": "Natalie Fear",
+            "title": "Call me Sherlock, I think I’ve decoded the new cryptic Spotify wrapped logos - Creative Bloq",
+            "description": "I know BRAT branding when I see it.",
+            "url": "https://www.creativebloq.com/design/logos-icons/call-me-sherlock-i-think-ive-decoded-the-new-cryptic-spotify-wrapped-logos",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XSZFNeUqTsQcxprCgNDZLn-1200-80.jpg",
+            "publishedAt": "2024-11-29T07:00:09Z",
+            "content": "'Tis the season for Spotify Wrapped, that special time of year when I reflect on how I've only listened to one album for the entirety of 2025. To mark the occasion (Spotify Wrapped, not my embarrassi… [+1983 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lim Hui Jie",
+            "title": "South Korea's largest K-pop agency loses $423 million in value as girl group NewJeans set to part ways - CNBC",
+            "description": "The group claimed that there was a breach of contract by their label ADOR, which is a sublabel of K-pop powerhouse Hybe.",
+            "url": "https://www.cnbc.com/2024/11/29/hybe-loses-over-420-million-in-value-after-newjeans-announces-contract-termination.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108069255-1732842725715-gettyimages-2187282971-csj_7159_rkxe1nav.jpeg?v=1732842748&w=1920&h=1080",
+            "publishedAt": "2024-11-29T03:06:00Z",
+            "content": "South Korea's largest K-pop agency Hybe lost over $423 million in market cap on Friday after rookie group NewJeans announced it was terminating its contract with Hybe sub-label ADOR.\r\nThe announcemen… [+2789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Washington Examiner"
+            },
+            "author": "Tiana Lowe Doescher",
+            "title": "When reality TV gets too real for TV - Washington Examiner",
+            "description": "The next generation of Vanderpump Rules stars should stay off social media.",
+            "url": "https://www.washingtonexaminer.com/news/entertainment/3242687/when-reality-tv-gets-too-real-for-tv/",
+            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/11/YL.Vanderpump.webp",
+            "publishedAt": "2024-11-29T03:00:00Z",
+            "content": "A decade into its run, when most reality TV series have either died an ignoble death or are simply awaiting the axe of cancellation, Bravo’s Vanderpump Rules stumbled upon a late-career renaissance.W… [+3801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TooFab"
+            },
+            "author": "Toofab Staff",
+            "title": "Viral Grandma and Jamal Hinton Spend Thanksgiving Apart for First Time in 9 Years Amid Breast Cancer Diagnosis - TooFab",
+            "description": "Jamal and viral grandma, Wanda Dench opted to reunite over Instagram Live this year, following Dench's breast cancer diagnosis.",
+            "url": "https://toofab.com/2024/11/28/viral-grandma-and-jamal-hinton-spend-thanksgiving-apart/",
+            "urlToImage": "https://images.toofab.com/image/f7/16by9/2024/11/28/f798d22a45024ee689233eea33719f2f_xl.jpg",
+            "publishedAt": "2024-11-29T02:39:00Z",
+            "content": "Wanda Dench and Jamal Hinton are celebrating Thanksgiving apart for the first time in nine years.\r\nThe former strangers, who met eight years ago in a mistaken text message exchange, reunited to for T… [+3139 chars]"
         },
         {
             "source": {
@@ -83,15 +330,15 @@
         {
             "source": {
                 "id": null,
-                "name": "YourTango"
+                "name": "Deadline"
             },
-            "author": "Kate Rose",
-            "title": "Love Horoscopes Are Here For Each Zodiac Sign During The Scorpio Moon On November 29 - YourTango",
-            "description": "The love horoscope for November 29, 2024 is here for each zodiac sign in astrology, during the Scorpio Moon.",
-            "url": "https://www.yourtango.com/2024380777/love-horoscope-november-29-2024",
-            "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2024-11/love-horoscopes-november-29-scorpio-moon.png",
-            "publishedAt": "2024-11-29T02:04:21Z",
-            "content": "What will the astrology of November 29, 2024 reveal about each zodiac sign's love horoscope? When you understand what matters most, you realize that the greatest joy isnt found in the gifts or the gl… [+10031 chars]"
+            "author": "Armando Tinoco",
+            "title": "Mexico Remembers Silvia Pinal: Sylvia Pasquel, Lucero & More - Deadline",
+            "description": "The Mexican entertainment industry is mourning the death of legendary actress Silvia Pinal, who died at the age of 93.",
+            "url": "http://deadline.com/2024/11/mexico-remembers-silvia-pinal-dead-tribute-1236189731/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/silvia-pinal-dead-reactions.jpg?w=1024",
+            "publishedAt": "2024-11-29T02:12:00Z",
+            "content": "The Mexican entertainment industry is mourning the death of legendary actress Silvia Pinal, who died at the age of 93. \r\nMany stars have taken to social media to pay tribute and remember the late sta… [+2971 chars]"
         },
         {
             "source": {
@@ -109,28 +356,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "Billboard"
             },
-            "author": "The Deadline Team",
-            "title": "Ben Affleck Reunites With Jennifer Garner To Feed Homeless On Thanksgiving - Deadline",
-            "description": "A charity event in downtown Los Angeles on Thankgiving attracted a celebrity turnout that included a reunion between Ben Affleck and Jennifer Garner.",
-            "url": "http://deadline.com/2024/11/ben-affleck-reunites-with-jennifer-garner-to-feed-homeless-on-thanksgiving-1236189721/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/08/GettyImages-1474484431.jpg?w=1024",
-            "publishedAt": "2024-11-29T01:53:00Z",
-            "content": "A charity event in downtown Los Angeles on Thankgiving attracted a celebrity turnout that included a reunion between Ben Affleck and Jennifer Garner. \r\nThe couple, who were married from 2005 to 2018,… [+721 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Alejandra Gularte",
-            "title": "‘Wicked: Part Two’: Everything We Know, Including New Songs - Vulture",
-            "description": "More like wicked cool: ‘Wicked: Part Two’ will feature two new songs written by Stephen Schwartz. Here’s everything we know about the second half so far.",
-            "url": "http://www.vulture.com/article/wicked-part-two-new-songs-cast-trailer-release-date.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/ca1/bce/a93573027304ec5ee30c11aa0870bfc5ac-wicked.1x.rsocial.w1200.jpg",
-            "publishedAt": "2024-11-29T00:00:39Z",
-            "content": "Mild spoilers ahead for Wicked.\r\nIts giving Wicked. This years holiday hot topics include whats next for Ariana Grande and what we should invent for Ariana Grande okay, Ill admit it: were just talkin… [+1718 chars]"
+            "author": "Katie Atkinson",
+            "title": "Jelly Roll Crashes Lainey Wilson’s Thanksgiving Cowboys Halftime Show - Billboard",
+            "description": "Lainey Wilson got a little help from her friend for her Thanksgiving halftime show at the Cowboys vs. Giants game, enlisting Jelly Roll for \"Save Me.\"",
+            "url": "http://www.billboard.com/music/country/jelly-roll-lainey-wilsons-thanksgiving-cowboys-halftime-show-1235841147/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2024/11/lainey-wilson-jelly-roll-cowboys-thanksgiving-2024-billboard-1548.jpg?w=1024",
+            "publishedAt": "2024-11-29T00:20:05Z",
+            "content": "Lainey Wilson got a little help from her friend for her Thanksgiving halftime show at the Cowboys vs. Giants game, enlisting Jelly Roll to perform their hit duet “Save Me.”\r\nThe duet — which topped B… [+1604 chars]"
         },
         {
             "source": {
@@ -144,19 +378,6 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/robert-irwin-tearful-reaction-seeing-94457123.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-11-28T22:55:00Z",
             "content": "Robert Irwin was “overcome with emotion” after seeing the wax figure of his dad, the late Steve Irwin, at Madame Tussauds for the first time. \r\nA conservationist and zookeeper like his father, the 20… [+2477 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Kimberly Nordyke",
-            "title": "Actor Julien Arnold Dies During Performance of ‘A Christmas Carol’ - Hollywood Reporter",
-            "description": "The Canadian, who was 59, is a stage veteran, appearing in numerous productions throughout his home country.",
-            "url": "http://www.hollywoodreporter.com/lifestyle/arts/julien-arnold-dead-actor-dies-performance-a-christmas-carol-1236073500/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/GettyImages-1971566365.jpg?w=1440&h=810&crop=1",
-            "publishedAt": "2024-11-28T22:49:04Z",
-            "content": "Veteran stage actor Julien Arnold died after suffering a medical emergency onstage during a performance of A Christmas Carol at the Citadel Theatre in Edmonton, Canada.\r\nArnold, who died Sunday, was … [+2899 chars]"
         },
         {
             "source": {
@@ -183,19 +404,6 @@
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/11/28/1600x900/Aquarius_1728478944944_1732830605894.jpg",
             "publishedAt": "2024-11-28T22:40:14Z",
             "content": "Aquarius (20th January to 18th February)\r\nDaily Horoscope Prediction says, you love challenges\r\nSmooth love life is what youll experience today. Consider challenges at work as they will make you stro… [+2910 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": null,
-            "title": "Photos from Stars Celebrate Thanksgiving 2024 - E! NEWS",
-            "description": "Photos from Stars Celebrate Thanksgiving 2024",
-            "url": "https://www.eonline.com/photos/37402/stars-celebrate-thanksgiving-2024",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20241028/cr_1200x1200-241128104437-468496055_18470851174061828_9074174985204978142_n.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2024-11-28T22:40:00Z",
-            "content": "The cookbook author baked a total of 35 pies, including chocolate pecan, brown butter maple rum pecan, pumpkin phyllo, apple crumb and cranberry.\r\n\"Took two days,\" she noted on Instagram. \"100 eggs, … [+174 chars]"
         },
         {
             "source": {
@@ -255,6 +463,19 @@
                 "name": "Hindustan Times"
             },
             "author": "Dr J.N Pandey",
+            "title": "Cancer Daily Horoscope Today, November 29, 2024 predicts triumph in business - Hindustan Times",
+            "description": "Cancer Daily Horoscope Today, November 29, 2024 to know your astrological predictions. Keep the relationship free from tremors today. | Horoscope",
+            "url": "https://www.hindustantimes.com/astrology/horoscope/cancer-daily-horoscope-today-november-29-2024-predicts-triumph-in-business-101732826746344.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/11/28/1600x900/Cancer_1728477955472_1732827091585.jpg",
+            "publishedAt": "2024-11-28T22:33:12Z",
+            "content": "Cancer (21st June to 22nd July)\r\nDaily Horoscope Prediction says, do not compromise on ethics!\r\nKeep the relationship free from tremors today. Avoid arguments at work and focus on productivity. Finan… [+2914 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Dr J.N Pandey",
             "title": "Leo Daily Horoscope Today, November 29, 2024 predicts family tidings - Hindustan Times",
             "description": "Leo Daily Horoscope Today, November 29, 2024 to know your astrological predictions. Today, the love life will see mesmerizing moments. | Horoscope",
             "url": "https://www.hindustantimes.com/astrology/horoscope/leo-daily-horoscope-today-november-29-2024-predicts-family-tidings-101732827186777.html",
@@ -264,29 +485,42 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "JONATHAN LANDRUM JR.",
-            "title": "Jon Batiste, Ledisi, Trombone Shorty and Lauren Daigle to perform during Super Bowl pregame - The Associated Press",
-            "description": "The Super Bowl will have some Louisiana flavor: Multi-talented performer Jon Batiste will hit the pregame stage to sing the national anthem, while Trombone Shorty and Lauren Daigle are to perform “America the Beautiful.” The performances will take place Feb. …",
-            "url": "https://apnews.com/article/super-bowl-pregame-performers-2025-4584247698968dc2619e65901d74764e",
-            "urlToImage": "https://dims.apnews.com/dims4/default/1a1efe5/2147483647/strip/true/crop/3674x2067+0+191/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0e%2F5e%2Fa1b67716bfe2e4c405a3712dd429%2F7c74b1b8fa744223a354af9fe64e9722",
-            "publishedAt": "2024-11-28T21:31:00Z",
-            "content": "LOS ANGELES (AP) The Super Bowl pregame will have some Louisiana flavor: Multi-talented performer Jon Batiste will hit the stage to sing the national anthem, while Trombone Shorty and Lauren Daigle a… [+1881 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Deadline"
             },
             "author": "Denise Petski",
-            "title": "Cynthia Erivo Weighs In On ‘Wicked’ Fans Singing Along In Theaters - Deadline",
-            "description": "Wicked star Cynthia Erivo says she's perfectly fine with fans singing along to the musical in movie theaters.",
-            "url": "http://deadline.com/2024/11/cynthia-erivo-wicked-fans-sing-along-theaters-debate-1236189663/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/MCDWICK_UV060.jpg?w=1024",
-            "publishedAt": "2024-11-28T20:33:00Z",
-            "content": "Wicked star Cynthia Erivo says she’s perfectly fine with fans singing along to the musical in movie theaters. \r\n“Good! I’m OK with it,” she said during a chat with Today‘s Hoda Kotb, Al Roker and Sav… [+1684 chars]"
+            "title": "Actor Julien Arnold Dies Onstage During Performance Of ‘A Christmas Carol’ - Yahoo Entertainment",
+            "description": "Veteran stage actor Julien Arnold died suddenly Sunday, Nov. 24, midway through a performance of A Christmas Carol, after experiencing a medical emergency...",
+            "url": "https://deadline.com/2024/11/julien-arnold-dead-collapsed-onstage-a-christmas-carol-during-performance-1236189669/",
+            "urlToImage": "https://media.zenfs.com/en/deadline.com/19957e3a3e54f3a27cb3aa729168b31a",
+            "publishedAt": "2024-11-28T21:29:27Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nV… [+2288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Kris Holt",
+            "title": "NYT ‘Connections’ Hints And Answers For November 29 (#537) - Forbes",
+            "description": "Looking for some help with Friday's NYT Connections? Some hints and the answers for today's game are right here.",
+            "url": "https://www.forbes.com/sites/krisholt/2024/11/28/nyt-connections-today-help-hints-answers-friday-november-29-537-black-friday/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64de654d82fd643c3ad8ae1f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-11-28T21:00:00Z",
+            "content": "Find the links between the words to win today's game of Connections.\r\ngetty\r\nLooking for Thursdays Connections hints and answers instead? You can find them here:\r\nForbesTodays NYT Connections Hints A… [+6256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Kimberly Nordyke",
+            "title": "Cynthia Erivo Weighs In on ‘Wicked’ Sing-Along Debate: “It’s Time for Everyone Else to Join In” at the Theater - Hollywood Reporter",
+            "description": "The issue has divided fans online.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/cynthia-erivo-wicked-fans-sing-along-debate-1236073481/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/WickedMCDWICK_UV038.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2024-11-28T19:50:46Z",
+            "content": "Cynthia Erivo has no problem with moviegoers singing along during screenings of Wicked.\r\nIn fact, she fully supports it.\r\nOn Thursday, the film’s star was at the Macy’s Thanksgiving Day Parade in New… [+2072 chars]"
         },
         {
             "source": {
@@ -303,81 +537,42 @@
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Megan Cerullo",
-            "title": "Taylor Swift's Eras Tour book hits stores Friday. Here's what to know. - CBS News",
-            "description": "Taylor Swift's Eras Tour book goes on sale Friday. Here's the only place to buy it, how much it costs and what you'll get.",
-            "url": "https://www.cbsnews.com/news/taylor-swift-eras-tour-book-black-friday-target-where-to-buy/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/11/28/b858de6f-262d-4c9b-9e2b-668cfce27b63/thumbnail/1200x630/13f09079e9486ffe18ccfecb4ea08552/taylor-product-1.jpg?v=e3aa8b4a58817620ee227c79202c9709",
-            "publishedAt": "2024-11-28T17:25:00Z",
-            "content": "Swifties react to Taylor Swift concert in Miami Gardens \r\nSwifties react to Taylor Swift concert in Miami Gardens06:37\r\nTaylor Swift's latest release isn't a new song or album — it's a book hitting s… [+3215 chars]"
+            "author": "Elizabeth Stanton",
+            "title": "Diddy’s Thanksgiving meal options in jail include peanut butter and jelly sandwiches after bail denied - Fox News",
+            "description": "Sean \"Diddy\" Combs is spending Thanksgiving in jail after his third bail attempt was denied, with limited meal options for the holiday.",
+            "url": "https://www.foxnews.com/entertainment/diddys-thanksgiving-meal-options-jail-include-peanut-butter-jelly-sandwiches-after-bail-denied",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/diddyjailext.jpg",
+            "publishedAt": "2024-11-28T17:16:00Z",
+            "content": "NEW YORK Sean \"Diddy\" Combs' Thanksgiving dinner will look a little different this year.\r\nOn Wednesday, the disgraced hip-hop mogul and Bad Boy Records founder was denied bail on sex trafficking and … [+2546 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "Lambgoat.com"
             },
-            "author": "Brent Lang",
-            "title": "Box Office: ‘Moana 2’ Easily Toppling Thanksgiving Week Records After Scoring Massive $57.5 Million Opening Day - Variety",
-            "description": "'Moana 2' is set to destroy Thanksgiving box office records after earning $57.5 million on Wednesday, while 'Wicked' and 'Gladiator II' draw crowds.",
-            "url": "https://variety.com/2024/film/news/box-office-moana-2-wednesday-thanksgiving-wicked-gladiator-2-1236225866/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2024/11/MOANA2-ONLINE-USE-160.0_016.00_0001_2K.jpg-e1732743785568.webp?w=1000&h=563&crop=1",
-            "publishedAt": "2024-11-28T16:33:00Z",
-            "content": "The movie business hasn’t had much to be thankful for in recent years, but that’s changing this holiday week as a trio of splashy new releases are bringing audiences back to cinemas in a big way. \r\nT… [+4547 chars]"
+            "author": null,
+            "title": "Fans demand formal apology from Jimmy Kimmel following KNOCKED LOOSE performance - Lambgoat",
+            "description": "Jimmy Kimmel's recent Live! episode has ignited backlash among viewers after the show's taping featured performances by Knocked Loose and Poppy. Fans of the show have flooded social media and forums demanding a form...",
+            "url": "https://lambgoat.com/news/45032/fans-demand-formal-apology-from-jimmy-kimmel-following-knocked-loose-performance/",
+            "urlToImage": "https://lambgoat.com/cdn/2024/knocked-loose-jkl-20241126191526.jpg",
+            "publishedAt": "2024-11-28T16:35:00Z",
+            "content": "Jimmy Kimmel's recent Live! episode has ignited backlash among viewers after the show's taping featured performances by Knocked Loose and Poppy. Fans of the show have flooded social media and forums … [+2090 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Cord Cutters News, LLC"
+                "name": "The Daily Wire"
             },
-            "author": "James Guttman",
-            "title": "5 Popular “Thanksgiving” Movies to Watch on Thanksgiving Day - Cord Cutters News",
-            "description": "Thanksgiving is upon us and what better movies to stream than those literally named “Thanksgiving.” Over the years, several films have taken the holiday’s name as their own. Each Thanksgiving below brings its unique turkey-flavor to the holiday spirit. Whethe…",
-            "url": "https://cordcuttersnews.com/5-popular-thanksgiving-movies-to-watch-on-thanksgiving-day/",
-            "urlToImage": "https://cordcuttersnews.com/wp-content/uploads/2019/09/family-large.jpg",
-            "publishedAt": "2024-11-28T16:22:10Z",
-            "content": "Thanksgiving is upon us and what better movies to stream than those literally named “Thanksgiving.” Over the years, several films have taken the holiday’s name as their own. Each Thanksgiving below b… [+4594 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Louder"
-            },
-            "author": "Matt Mills",
-            "title": "“People who listen to this have no room to complain about crying babies or screaming two-year-olds!” Knocked Loose’s Jimmy Kimmel performance annoyed all the boring Facebook parents you’d expect it to - Louder",
-            "description": "Metalheads loved it when Knocked Loose and Poppy destroyed Jimmy Kimmel Live! this week. These people didn’t…",
-            "url": "https://www.loudersound.com/news/knocked-loose-jimmy-kimmel-annoyed-people-2024",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WPifHkfKA8wdeVAsTXozoM-1200-80.jpg",
-            "publishedAt": "2024-11-28T16:04:12Z",
-            "content": "Pearl-clutching viewers have expressed their anger at Knocked Loose playing Jimmy Kimmel Live! this week.\r\nUK newspaper The Mirror has collected a number of incensed reactions to Tuesday’s (November … [+3066 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Graham Hurley and Chris Boyette, CNN",
-            "title": "Cancer means 9th-annual dinner will look different for Thanksgiving Grandma and the stranger she once texted who’s now family - Yahoo Life",
-            "description": "Despite a breast cancer diagnosis, Thanksgiving Grandma and the young man she met nearly a decade ago via an accidental text will continue their holiday...",
-            "url": "https://www.cnn.com/2024/11/28/us/arizona-grandma-stranger-thanksgiving-tradition-cancer/index.html",
-            "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/9e54079a12051d3f4e10a028d9706bf3",
-            "publishedAt": "2024-11-28T16:02:45Z",
-            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nD… [+3605 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Caroline Darney",
-            "title": "Billboard issues apology to Taylor Swift after including distasteful Kanye West clip in video package - Yahoo Entertainment",
-            "description": "Billboard has been rolling out its ranking of the Greatest Pop Stars of the 21st Century, naming Taylor Swift in the No. 2 spot on Tuesday. In the video...",
-            "url": "https://ftw.usatoday.com/2024/11/taylor-swift-kanye-west-billboard-apology",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ix5dSpsKJoMgLYRtUryvAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ftw_outdoors_usa_today_article_609/d602504afadadf01b982a04a9f45aefa",
-            "publishedAt": "2024-11-28T15:22:09Z",
-            "content": "Billboard has been rolling out its ranking of the Greatest Pop Stars of the 21st Century, naming Taylor Swift in the No. 2 spot on Tuesday.\r\nIn the video created to celebrate the 34-year-old's achiev… [+1488 chars]"
+            "author": "Amanda Harding",
+            "title": "5 Classic Thanksgiving Movies To Watch On Turkey Day - The Daily Wire",
+            "description": "Thanksgiving is a time for family, food, and a lot of downtime, inevitably leading to spending more hours in front of a screen. That can be a good thing when you’re tuning in to classic holiday movies. Not only are they (mostly) devoid of the Leftist propagan…",
+            "url": "https://www.dailywire.com/news/5-classic-thanksgiving-movies-to-watch-on-turkey-day",
+            "urlToImage": "https://dw-wp-production.imgix.net/2024/11/Planes-Trains-and-Automobiles.jpg?w=1200&h=800&ixlib=react-9.3.0",
+            "publishedAt": "2024-11-28T15:11:12Z",
+            "content": "Thanksgiving is a time for family, food, and a lot of downtime, inevitably leading to spending more hours in front of a screen. That can be a good thing when youre tuning in to classic holiday movies… [+3387 chars]"
         },
         {
             "source": {
@@ -395,19 +590,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Tom's Guide"
-            },
-            "author": "Alix Blackburn",
-            "title": "Hulu and Disney Plus $2.99 Black Friday streaming bundle live — here's how to claim this deal - Tom's Guide",
-            "description": "The Hulu and Disney Plus bundle is now over 72% off for Black Friday",
-            "url": "https://www.tomsguide.com/entertainment/hulu/hulu-and-disney-plus-usd2-99-streaming-bundle-live-heres-how-to-claim-this-deal",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tiFyjvjVrXMoJtpX9zYWL4-1200-80.jpg",
-            "publishedAt": "2024-11-28T13:14:27Z",
-            "content": "Hulu and Disney Plus have just teamed up for one of the best Black Friday streaming deals you’ll find this year. For a limited time, you can get both services (with ads) for just $2.99 a month — a ja… [+2369 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Vulture"
             },
             "author": "Louis Peitzman",
@@ -421,119 +603,28 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "/FILM"
+            },
+            "author": "Ryan Scott",
+            "title": "When Does Skeleton Crew Take Place On The Star Wars Timeline? - SlashFilm",
+            "description": "Disney-era Star Wars projects have hopped all over the franchise's timeline. Here's when the latest Star Wars series, Skeleton Crew, takes place.",
+            "url": "https://www.slashfilm.com/1724452/skeleton-crew-star-wars-timeline/",
+            "urlToImage": "https://www.slashfilm.com/img/gallery/when-does-skeleton-crew-take-place-on-the-star-wars-timeline/l-intro-1732797493.jpg",
+            "publishedAt": "2024-11-28T12:45:44Z",
+            "content": "\"Star Wars: Skeleton Crew\" follows four kids as they make a mysterious discovery on their seemingly safe home planet, only to end up lost in a strange and dangerous galaxy. To find their way home, th… [+1561 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-11-28T12:44:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Hollywood Gossip"
-            },
-            "author": "Kay D. Rhodes",
-            "title": "Kayla Nicole, Travis Kelce's Ex-Girlfriend, Loses It Over \"Public Breakup\" - The Hollywood Gossip",
-            "description": "Kayla Nicole is under the gun. The influence is garnering backlash for her public reaction to having split from Travis Kelce.",
-            "url": "http://www.thehollywoodgossip.com/2024/11/kayla-nicole-travis-kelces-ex-girlfriend-loses-it-over-public-breakup/",
-            "urlToImage": "https://cdn.thehollywoodgossip.com/uploads/2024/11/GettyImages-1369854537.jpg",
-            "publishedAt": "2024-11-28T12:23:39Z",
-            "content": "Kayla Nicole is under the social media gun at the moment.\r\nA social media influencer with over 800,000 Instagram followers, Nicole is best known for having dated Travis Kelce prior to his relationshi… [+3348 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Soumi Pyne",
-            "title": "Horoscope for November 28, 2024: Today's cosmic shift will likely bring luck to these zodiac signs - Hindustan Times",
-            "description": "With the Sun and Moon aligned in Scorpio, the cosmos encourages you to embrace your passion and dive deep into what truly matters. | Horoscope",
-            "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-for-november-28-2024-todays-cosmic-shift-will-likely-bring-luck-to-these-zodiac-signs-101732784533529.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/11/28/1600x900/zodiac_house_1717856290728_1732788960944.jpg",
-            "publishedAt": "2024-11-28T10:17:39Z",
-            "content": "November 28, 2024, brings a wave of transformative energy. With the Sun and Moon aligned in Scorpio, the cosmos encourages you to embrace your passion and dive deep into what truly matters. Thursday'… [+1759 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Jacki Thrapp",
-            "title": "Oliver Hudson reveals why he and sister Kate Hudson rejected Kurt Russell’s offer to adopt them - New York Post ",
-            "description": "“When you don’t have your biological around, it’s hard to replace that no matter what.”",
-            "url": "https://nypost.com/2024/11/28/entertainment/why-kate-and-oliver-hudson-rejected-kurt-russells-offer-to-adopt-them/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/94432691.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-11-28T07:41:00Z",
-            "content": "Kate Hudson and her brother, Oliver Hudson, had no interest in having Kurt Russell adopt them when they were kids.\r\nDuring an episode of their Sibling Revelry podcast, Oliver revealed that Russell ha… [+2814 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The A.V. Club"
-            },
-            "author": null,
-            "title": "Court filings say Wendy Williams now \"cognitively impaired\" and \"permanently disabled\" - The A.V. Club",
-            "description": "Court filings say Wendy Williams now \"cognitively impaired\" and \"permanently disabled\"",
-            "url": "https://www.avclub.com/wendy-williams-permanently-disabled-cognitively-impaired-lawsuit",
-            "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2024/11/27225725/williams-feature.jpg",
-            "publishedAt": "2024-11-28T05:01:00Z",
-            "content": "The ugly lawsuit currently raging between Wendy Williams’ legal guardian and the producers of Lifetime’s Where Is Wendy Williams? docuseries continues to kick up sad little chunks of debrisincluding … [+2421 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Rudie Obias",
-            "title": "Where and When to Stream 'Conclave' Online - Hollywood Reporter",
-            "description": "The thriller starring Ralph Fiennes, Stanley Tucci and John Lithgow is now available to watch at home.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/watch-stream-conclave-online-1236072048/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/08/Conclave-still-publicity-H-2024.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2024-11-27T21:45:14Z",
-            "content": "If you purchase an independently reviewed product or service through a link on our website, The Hollywood Reporter may receive an affiliate commission.\r\nEven if it’s still playing on a screen near yo… [+1580 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The-sun.com"
-            },
-            "author": "Nicole Chenoweth",
-            "title": "DWTS pros feel producers ‘favor’ Jenna Johnson after partner Joey Graziadei wins season 33 on ‘te... - The US Sun",
-            "description": "THE DANCING With the Star pros have felt show producers ‘favor’ Jenna Johnson after her and her partner, Joey Graziadei, won season 33, a source exclusively told The U.S. Sun. Though the other fina…",
-            "url": "https://www.the-sun.com/tv/12980540/dwts-producers-favor-jenna-johnson-joey-graziadei-winner-finale/",
-            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2024/11/SC-Jenna-Favored-Off-Plat-copy.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-            "publishedAt": "2024-11-27T20:43:02Z",
-            "content": "THE DANCING With the Star pros have felt show producers favor Jenna Johnson after her and her partner, Joey Graziadei, won season 33, a source exclusively told The U.S. Sun.\r\nThough the other finalis… [+5108 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "JAKE COYLE",
-            "title": "To play Maria Callas, Angelina Jolie had to learn how to breathe again - The Associated Press",
-            "description": "Angelina Jolie never expected to hit all the notes. But finding the breath of Maria Callas was enough to bring things out of Jolie that she didn’t even know were in her. In Pablo Larrain’s “Maria,” Jolie gives, if not the performance of her career, then certa…",
-            "url": "https://apnews.com/article/angelina-jolie-maria-callas-pablo-larrain-interview-0a578b5ec16ca6e12a3422fe9b334c57",
-            "urlToImage": "https://dims.apnews.com/dims4/default/9122782/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F48%2F4d%2Fcba3d1a28821854b6c554e79274e%2F2dfe40af984e464298e650085c410ac9",
-            "publishedAt": "2024-11-27T20:12:00Z",
-            "content": "NEW YORK (AP) Angelina Jolie never expected to hit all the notes. But finding the breath of Maria Callas was enough to bring things out of Jolie that she didnt even know were in her.\r\nAll of us, we r… [+6990 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Winston Cho",
-            "title": "Charlie Rose Settles Sexual Harassment Suit on Eve of Trial - Hollywood Reporter",
-            "description": "A trio of women claimed Rose caressed them and made unwanted sexual advances. In a statement, they said \"different people could interpret the conduct in different ways.\"",
-            "url": "http://www.hollywoodreporter.com/business/business-news/charlie-rose-settles-sexual-harassment-suit-1236072778/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/GettyImages-633462210.jpg?w=1440&h=810&crop=1",
-            "publishedAt": "2024-11-27T19:26:30Z",
-            "content": "Charlie Rose has settled a lawsuit from three former CBS employees who accused the former anchor of repeated sexual harassment.\r\nLawyers for the accusers and Rose moved to dismiss the case on the eve… [+3442 chars]"
+            "title": "‘Yacht Rock: A Dockumentary’ Review: Smooth-Sailing Tunes on HBO - The Wall Street Journal",
+            "description": "Michael McDonald, Christopher Cross and other representatives of the easygoing if nebulously defined genre appear in this nonfiction film from director Garret Price.",
+            "url": "https://www.wsj.com/arts-culture/television/yacht-rock-a-dockumentary-review-smooth-sailing-tunes-on-hbo-52caee46",
+            "urlToImage": "https://opinion-images.wsj.net/im-48682686/social",
+            "publishedAt": "2024-11-28T12:00:00Z",
+            "content": "A nonfiction music film based on a web series that was based on a joke, Yacht Rock: A Dockumentary isnt really about a genre of music as much as it is a bunch of highly skilled musicians who helped m… [+1839 chars]"
         }
     ]
 }

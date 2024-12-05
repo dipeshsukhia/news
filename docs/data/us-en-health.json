@@ -4,6 +4,97 @@
     "articles": [
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "Research shows more than 150 million mental diagnoses may be linked to lead in gasoline - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVkybUFheGVEeHlmSVdVbkl2TTMwMzFjZ2ZhTUlLZGJ5aVgxSFJLWFVSb2N1XzYzM19uSVRqNlNoZWY5U3NTcUJCUkhTSm9pNHBKZlFTVzE1cERmYXlaZ1BjMmdTQ2NSbzVsclg1UWIwS0ktUG9mNmpfNjhGRVhxcE00M3llRF9PZ1lCOTJn0gGEAUFVX3lxTE1oczR5clZRRjJnaVhUVGI3U3JZWkdvcFJLVnZnY3V1UmZ0M0U0d0RsR3p4V2lZWUw5QW4tTUJHNG5PdUFfNml2WGJ4Vlh4RkVEZFl4bG0ydEpLcV9SMWRyS0ptZVJQNHA3TjZqOVItb3FjMVZOZmZvX3JlcXA5enhkck8yRQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-04T08:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'Controversial brain surgery stopped my migraines' - BBC.com",
+            "description": "A woman who defied mainstream advice to have risky brain surgery says her symptoms have gone.",
+            "url": "https://www.bbc.com/news/articles/cx2l9gyevjdo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c4d3/live/b46630f0-b090-11ef-9088-7f9a7dab39a5.jpg",
+            "publishedAt": "2024-12-04T06:12:25Z",
+            "content": "Anna Hill used to suffer from debilitating migraines \r\nA woman who suffered debilitating migraines for nine years says her symptoms have gone, after paying for \"risky\" surgery.\r\nNeurologists told Ann… [+6145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Earth.com"
+            },
+            "author": null,
+            "title": "Study declaring Alzheimer's to be a \"brain disease\" proven to be fabricated - Earth.com",
+            "description": "New theories suggest Alzheimer's may involve autoimmunity, with beta-amyloid linked to immune response misfires.",
+            "url": "https://www.earth.com/news/alzheimers-may-not-be-a-brain-disease/",
+            "urlToImage": "https://cff2.earth.com/uploads/2024/11/30064201/Alzheimers-brain.jpg",
+            "publishedAt": "2024-12-04T06:04:32Z",
+            "content": "The battle against Alzheimers has recently taken a controversial turn. Long-held theories about its cause are being challenged, which is sparking heated debates.\r\nNow, emerging research points to the… [+5413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Tessa Koumoundouros",
+            "title": "Alarming Rise in Cancers of The Gut Linked With These Deadly Diets - ScienceAlert",
+            "description": "The number of people under the age of 50 diagnosed with bowel cancer has increased at an alarming rate in recent decades.",
+            "url": "https://www.sciencealert.com/alarming-rise-in-cancers-of-the-gut-linked-with-these-deadly-diets",
+            "urlToImage": "https://www.sciencealert.com/images/2024/12/teen_eating_burger.jpg",
+            "publishedAt": "2024-12-04T05:05:37Z",
+            "content": "The number of people under the age of 50 diagnosed with bowel cancer has increased at an alarming rate in recent decades. Two new studies from Flinders University suggest this rapid surge may be due … [+3184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "The Associated Press",
+            "title": "California teacher dies after she was bitten by a bat inside a classroom - KSL.com",
+            "description": "A central California teacher died last month after she was bitten by a bat inside her classroom that presumably had rabies.",
+            "url": "https://www.ksl.com/article/51203445/california-teacher-dies-after-she-was-bitten-by-a-bat-inside-a-classroom",
+            "urlToImage": "https://img.ksl.com/slc/3029/302920/30292036.jpeg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2024-12-04T04:42:35Z",
+            "content": "DOS PALOS, Calif. A central California teacher died last month after she was bitten by a bat inside her classroom that presumably had rabies, officials and the woman's friend said.\r\nIn the wake of Le… [+1497 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Michelle Starr",
+            "title": "Roman Era Barbarians Carried Tiny Spoons That May Have Helped in Battle - ScienceAlert",
+            "description": "Tiny spoon-shaped implements carried by Roman era Germanic warriors may be evidence they used stimulants on the field of war.",
+            "url": "https://www.sciencealert.com/roman-era-barbarians-carried-tiny-spoons-that-may-have-helped-in-battle",
+            "urlToImage": "https://www.sciencealert.com/images/2024/12/germanic_warrior_charging.jpg",
+            "publishedAt": "2024-12-04T03:27:36Z",
+            "content": "Tiny spoon-shaped implements carried by Roman era Germanic warriors may be evidence they used stimulants on the field of war.\r\nAccording to a new analysis of the mysterious artifacts and their contex… [+3942 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Lifestyle Desk",
+            "title": "Bleeding eye disease caused by Marbug virus with 50 pc survival rate a cause of concern, spreads through - The Times of India",
+            "description": "The fast-spreading Marburg virus, also known as the bleeding eye disease, has raised global concerns due to its high fatality rate of up to 88%. The v",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/bleeding-eye-disease-caused-by-marbug-virus-with-50-pc-survival-rate-a-cause-of-concern-spreads-through-human-contact-full-report/articleshow/115955444.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-115955535,width-1070,height-580,imgsize-35254,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-12-04T03:26:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "New York Post"
             },
@@ -17,32 +108,6 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": null,
-            "title": "California teacher dies after she was bitten by a bat inside a classroom - The Associated Press",
-            "description": "A central California teacher died last month after she was bitten by a bat inside her classroom that presumably had rabies. In the wake of Leah Seneng’s death on Nov. 22, public health officials are warning the public about the dangers of bats, which are the …",
-            "url": "https://apnews.com/article/california-bat-bite-merced-county-766b61dc26673afc3c4e24df66df80cf",
-            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-            "publishedAt": "2024-12-04T00:26:00Z",
-            "content": "DOS PALOS, Calif. (AP) A central California teacher died last month after she was bitten by a bat inside her classroom that presumably had rabies, officials and the womans friend said.\r\nIn the wake o… [+1490 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Tom Metcalfe",
-            "title": "5,000-year-old artifacts in Iraq hint at mysterious collapse of one of the world's 1st governments - Livescience.com",
-            "description": "Newly analyzed 5,000-year-old clay bowls unearthed in Iraq may be evidence of early government-like rule, a new study finds.",
-            "url": "https://www.livescience.com/archaeology/5000-year-old-artifacts-in-iraq-hint-at-mysterious-collapse-of-one-of-the-worlds-1st-governments",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2KnAEXXb7Sfa2Pbk6VL5kV-1200-80.jpg",
-            "publishedAt": "2024-12-04T00:01:00Z",
-            "content": "Dozens of clay bowls may be evidence of one of the earliest government institutions in the world, a new study finds. The bowls, which were unearthed at an early archaeological site in Iraq, are thoug… [+5631 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "[Removed]"
             },
@@ -53,6 +118,19 @@
             "urlToImage": null,
             "publishedAt": "2024-12-03T23:30:00Z",
             "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Flu jab: Wrexham man with asthma in coma nearly died twice - BBC.com",
+            "description": "Scott Blackwell urges eligible people to get their winter vaccines, as peak flu season approaches.",
+            "url": "https://www.bbc.com/news/articles/cnv3y82q1rjo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a5ca/live/34d95c70-b0c9-11ef-b2d5-1f470ee03eb2.jpg",
+            "publishedAt": "2024-12-03T23:12:01Z",
+            "content": "Scott Blackwell's family were told they had half an hour to say their \"last goodbyes\"\r\nA man who was left in a coma and nearly died twice after catching flu says he feels \"selfish\" for not getting hi… [+5522 chars]"
         },
         {
             "source": {
@@ -121,6 +199,32 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Eatthis.com"
+            },
+            "author": "Julie Upton",
+            "title": "9 Healthiest Whole Grain Breads on Grocery Shelves - Eat This, Not That",
+            "description": "Looking for the best whole-grain bread? Learn why it's a healthy choice and get recommendations from dietitians on the top picks.",
+            "url": "https://www.eatthis.com/best-whole-grain-breads/",
+            "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2024/12/best-healthy-whole-grain-bread.jpg?quality=82&strip=all",
+            "publishedAt": "2024-12-03T21:52:23Z",
+            "content": "The product recommendations in this post are recommendations by the writer and/or expert(s) interviewed and do not contain affiliate links. Meaning: If you use these links to buy something, we will n… [+7424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Gut Microbes May Have Powered Evolution of Larger Brains - Neuroscience News",
+            "description": "A new study suggests that gut microbes played a key role in the evolution of larger brains in primates by influencing energy production and usage.",
+            "url": "https://neurosciencenews.com/microbiome-brain-size-evolution-28166/",
+            "urlToImage": "https://neurosciencenews.com/files/2024/12/microbiome-brain-size-evolution-neurosicence.jpg",
+            "publishedAt": "2024-12-03T21:31:34Z",
+            "content": "Summary: A new study suggests that gut microbes played a key role in the evolution of larger brains in primates by influencing energy production and usage. Researchers implanted microbes from humans,… [+6352 chars]"
+        },
+        {
+            "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
@@ -135,15 +239,54 @@
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
+                "name": "PsyPost"
             },
-            "author": "Neuroscience News",
-            "title": "High Blood Sugar Impacts Brain Health, Even Without Diabetes - Neuroscience News",
-            "description": "New research reveals that elevated blood sugar levels may harm brain health, even in people without diabetes.",
-            "url": "https://neurosciencenews.com/brain-health-blood-sugar-28164/",
-            "urlToImage": "https://neurosciencenews.com/files/2024/12/blood-sugar-brain-health-neurosicence.jpg",
-            "publishedAt": "2024-12-03T20:36:36Z",
-            "content": "Summary: New research reveals that elevated blood sugar levels may harm brain health, even in people without diabetes. The study showed decreased connectivity in brain networks linked to cognition, m… [+5300 chars]"
+            "author": "Jacqueline Boyd",
+            "title": "Gazing at your dog can connect your brain with theirs, research shows - PsyPost",
+            "description": "Research shows that when dogs and humans gaze at each other, their brain activity synchronizes, strengthening bonds and enhancing connection. Familiarity deepens this effect, highlighting the unique, neural-based relationship between humans and their canine c…",
+            "url": "https://www.psypost.org/gazing-at-your-dog-can-connect-your-brain-with-theirs-research-shows/",
+            "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/12/man-with-dog.jpg",
+            "publishedAt": "2024-12-03T21:03:05Z",
+            "content": "It might sound far-fetched, but recent research suggests that dogs and humans brains synchronise when they look at each other.\r\nThis research, conducted by researchers in China, is the first time tha… [+4278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Dot"
+            },
+            "author": "Stacy Fernandez",
+            "title": "‘I NEVER recommend’: Woman warns against LASIK, says it ‘ruined’ her life - The Daily Dot",
+            "description": "'There's a reason why the doctor performing the LASIK is wearing eyeglasses.'",
+            "url": "https://www.dailydot.com/news/lasik-ruined-my-life/",
+            "urlToImage": "https://uploads.dailydot.com/2024/12/Woman_Warns_Against_LASIK_Ruined_Life.jpg?auto=compress&fm=pjpg",
+            "publishedAt": "2024-12-03T21:00:00Z",
+            "content": "In her 40 years of life, getting LASIK is the one thing this woman truly regrets. Heres why.\r\nLASIK is a popular type of eye surgery that permanently reshapes your cornea to improve vision (ideally b… [+4727 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-12-03T20:25:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Endpoints News"
+            },
+            "author": "Kyle LaHucik",
+            "title": "GSK terminates Phase 2 trial of HBV therapeutic vaccine - Endpoints News",
+            "description": "GSK has axed a Phase 2 study of a chronic hepatitis B therapeutic vaccine, adding to a string of treatment R&D hurdles for the liver infection.",
+            "url": "https://endpts.com/gsk-terminates-phase-2-trial-of-hbv-therapeutic-vaccine/",
+            "urlToImage": "https://endpts.com/wp-content/uploads/2024/10/GSK-shutterstock-social3.jpg",
+            "publishedAt": "2024-12-03T20:23:00Z",
+            "content": null
         },
         {
             "source": {
@@ -170,6 +313,19 @@
             "urlToImage": "https://img.huffingtonpost.com/asset/674f5ab518000028009dd78d.jpeg?ops=1200_630",
             "publishedAt": "2024-12-03T20:12:40Z",
             "content": "A California producer of unpasteurized raw milk, the preferred milk of Department of Health and Human Services secretary nominee Robert F. Kennedy Jr., has been forced by the state to suspend operati… [+3107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Multiple Sclerosis News Today"
+            },
+            "author": "Margarida Maia, PhD",
+            "title": "HSCT in MS challenging; patients need multidisciplinary care: Study - Multiple Sclerosis News Today",
+            "description": "MS patients undergoing hematopoietic stem cell transplant (HSCT) face physical and emotional challenges at each treatment stage, per a study.",
+            "url": "https://multiplesclerosisnewstoday.com/news-posts/2024/12/03/hsct-ms-challenging-multidisciplinary-care-needed-study/",
+            "urlToImage": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/03/StemCellTherapy.png",
+            "publishedAt": "2024-12-03T19:48:53Z",
+            "content": "People with multiple sclerosis (MS) who undergo an autologous hematopoietic stem cell transplant (HSCT) which uses a patient’s own stem cells face unique physical and emotional challenges at every st… [+6805 chars]"
         },
         {
             "source": {
@@ -225,19 +381,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "Health Utah",
-            "title": "New study finds fat has memory: Here are the keys to overcome it - KSL.com",
-            "description": "A new study found that fat cells have memory. The research showed you can lose the weight but a memory of your former weight is stored in the nucleus of fat cells exerting influence on your metabolism and driving weight gain.",
-            "url": "https://www.ksl.com/article/51198616/new-study-finds-fat-has-memory-here-are-the-keys-to-overcome-it",
-            "urlToImage": "https://img.ksl.com/slc/3028/302899/30289951.jpeg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2024-12-03T18:33:44Z",
-            "content": "\"The fat always comes back,\" says Dr. Whit Roberts of Health Utah. \"Unless you do one very important thing. It doesn't seem to matter how you lose the weight. Lose weight with shots, fad diets, clean… [+6856 chars]"
-        },
-        {
-            "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
@@ -264,55 +407,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
+                "id": "vice-news",
+                "name": "Vice News"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-12-03T15:58:08Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "POPSUGAR"
-            },
-            "author": "Alisa Hrustic",
-            "title": "How to Get Out of \"Functional Freeze,\" According to a Trauma Therapist - POPSUGAR",
-            "description": "Functional freeze is a type of psychological immobilization that occurs as a response to stress or trauma. Here, an expert explains how to stop it.",
-            "url": "https://www.popsugar.com/health/functional-freeze-49416867",
-            "urlToImage": "https://media1.popsugar-assets.com/files/thumbor/bwDOeh-5TRRZeqcQnPpnBPF9DyA=/0x987:7705x5032/fit-in/7728x5152/top/filters:format_auto():quality(85):upscale()/2024/12/02/018/n/49351082/a65a11ab674e4231ec2909.18940744_.jpg",
-            "publishedAt": "2024-12-03T15:30:02Z",
-            "content": "For so many of us, productivity is king. But if you keep your game face on at work only to zone out as soon as you get home, hitting pause on feeling anything at all let's talk. \r\nThis idea of behavi… [+8987 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Liam Drew",
-            "title": "Scientists reveal 'neural tourniquet' that can stop bleeding with nerve stimulation - Livescience.com",
-            "description": "Researchers stimulated the vagus nerve in healthy volunteers and showed it triggered blood clot formation, which they say could be used to prevent blood loss after surgery.",
-            "url": "https://www.livescience.com/health/surgery/scientists-reveal-neural-tourniquet-that-can-stop-bleeding-with-nerve-stimulation",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uE6crdke5UePWVVgobeeL-1200-80.jpg",
-            "publishedAt": "2024-12-03T15:30:00Z",
-            "content": "Zapping the vagus nerve promotes blood clotting, new research suggests.\r\nThese findings are the first evidence in humans of a \"neural tourniquet\r\n,\" or a brain-based pathway that could reduce bleedin… [+5012 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Emily Cooke",
-            "title": "Doctors discover live worms growing under a woman's eyelid in China - Livescience.com",
-            "description": "An office worker in Beijing developed a parasitic infection that caused worms to grow under her right eyelid.",
-            "url": "https://www.livescience.com/health/viruses-infections-disease/doctors-discover-live-worms-growing-under-a-womans-eyelid-in-china",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eY5Hq3rQ5qYvVJpipewK4H-1200-80.png",
-            "publishedAt": "2024-12-03T15:02:54Z",
-            "content": "In a rare medical case, parasitic worms grew underneath a woman's upper eyelid.\r\nThe woman, who was 41 and lived in Beijing, went to the hospital in June 2022 after feeling like she had something in … [+3813 chars]"
+            "author": "Sammi Caramela",
+            "title": "Parkinson’s Disease Could Have a Simple Treatment, Study Finds - VICE",
+            "description": "New research has found that Parkinson’s disease might just be linked to bacteria in the gut, suggesting promising treatment options.",
+            "url": "http://www.vice.com/en/article/parkinsons-disease-could-have-simple-treatment-study-finds/",
+            "urlToImage": "https://www.vice.com/wp-content/uploads/sites/2/2024/12/parkinsons-disease-could-have-simple-treatment-study-finds.jpg?w=2000",
+            "publishedAt": "2024-12-03T16:05:36Z",
+            "content": "New research has found that Parkinsons disease might just be linked to bacteria in the gut, suggesting promising treatment options. \r\nParkinsons disease is a neurodegenerative disorder that leads to … [+1852 chars]"
         },
         {
             "source": {
@@ -330,19 +434,6 @@
         {
             "source": {
                 "id": null,
-                "name": "KSL.com"
-            },
-            "author": "Ivy Farguheson, KSL.com",
-            "title": "Children can have arthritis, and these Utah teens want to spread the word - KSL.com",
-            "description": "Gabby and Sophia Rond are among the nearly 30,000 children in Utah diagnosed with arthritis. The sisters have found that it is important to educate everyone about their disease.",
-            "url": "https://www.ksl.com/article/51202583/children-can-have-arthritis-and-these-utah-teens-want-to-spread-the-word",
-            "urlToImage": "https://img.ksl.com/slc/3028/302897/30289790.jpeg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2024-12-03T13:23:51Z",
-            "content": "SALT LAKE CITY In Utah, close to 30,000 people under the age of 18 have been diagnosed with arthritis. Candace Rond is mother to two of them.\r\nWhen her children were younger and suffering with intens… [+4037 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "IFLScience"
             },
             "author": "Laura Simmons",
@@ -352,6 +443,19 @@
             "urlToImage": "https://assets.iflscience.com/assets/articleNo/77058/aImg/80633/inhaler-meta.jpg",
             "publishedAt": "2024-12-03T13:11:45Z",
             "content": "For the first time in half a century, scientists have hit on a new treatment for asthma attacks. Clinical trial results have shown that a drug called benralizumab is effective at treating acute attac… [+3548 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newsmax"
+            },
+            "author": "by Daniel Lawler",
+            "title": "Brain Stimulation Restores Walking After Injury - Newsmax",
+            "description": "Scientists say that electrically stimulating a particular region in the brain could help people with injured spinal cords walk more easily, with one patient describing how the technique allowed him to conquer his fear of stairs. The new technique is intended …",
+            "url": "https://www.newsmax.com/health/health-news/brain-stimulation-spinal-cord/2024/12/03/id/1190142/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=33124175-9711-4e5c-a17f-1aeaadeb9d29&SiteName=Newsmax",
+            "publishedAt": "2024-12-03T12:35:10Z",
+            "content": "Scientists say that electrically stimulating a particular region in the brain could help people with injured spinal cords walk more easily, with one patient describing how the technique allowed him t… [+3614 chars]"
         },
         {
             "source": {
@@ -382,15 +486,15 @@
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "Medscape"
             },
-            "author": "Tessa Koumoundouros",
-            "title": "Parkinson's Link to Gut Bacteria Suggests an Unexpected, Simple Treatment - ScienceAlert",
-            "description": "Researchers have suspected for some time that the link between our gut and brain plays a role in the development of Parkinson's disease.",
-            "url": "https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-an-unexpected-simple-treatment",
-            "urlToImage": "https://www.sciencealert.com/images/2023/04/microbes_epithelium_gut_AD.jpg",
-            "publishedAt": "2024-12-03T11:01:28Z",
-            "content": "Researchers have suspected for some time that the link between our gut and brain plays a role in the development of Parkinson's disease.\r\nA recent study identified gut microbes likely to be involved … [+3801 chars]"
+            "author": "Edited by Satish Kumar M",
+            "title": "BCG Vaccine May Protect Against Long COVID Symptoms - Medscape",
+            "description": "A clinical trial with long-term follow-up found that administering BCG vaccine during the active phase of COVID-19 appeared to offer protection against long COVID symptoms.",
+            "url": "https://www.medscape.com/viewarticle/bcg-vaccine-may-protect-against-long-covid-symptoms-2024a1000m14",
+            "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_230222_vaccination_injection_800x450.jpg",
+            "publishedAt": "2024-12-03T11:46:59Z",
+            "content": "TOPLINE:\r\nAdministering the Bacillus Calmette-Guérin (BCG) vaccine during the active phase of COVID-19 may help protect against the development of long COVID.\r\nMETHODOLOGY:\r\n<ul><li>A phase 3 clinica… [+2965 chars]"
         },
         {
             "source": {
@@ -434,28 +538,15 @@
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "ScienceAlert"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-12-03T04:10:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-12-03T03:04:00Z",
-            "content": "[Removed]"
+            "author": "The Conversation",
+            "title": "Lockdowns Did Something to Teen Brains, And We Need to Talk About It - ScienceAlert",
+            "description": "A recent study reported the somewhat alarming observation that the social disruptions of COVID lockdowns caused significant changes in teenagers' brains.",
+            "url": "https://www.sciencealert.com/lockdowns-did-something-to-teen-brains-and-we-need-to-talk-about-it",
+            "urlToImage": "https://www.sciencealert.com/images/2024/12/TeenageGirlCloseup.jpg",
+            "publishedAt": "2024-12-03T02:59:55Z",
+            "content": "A recent study reported the somewhat alarming observation that the social disruptions of COVID lockdowns caused significant changes in teenagers' brains.\r\nUsing MRI data, researchers at the Universit… [+3833 chars]"
         },
         {
             "source": {
@@ -485,55 +576,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "The Denver Post"
-            },
-            "author": "Seth Klamann",
-            "title": "CU Anschutz researchers launch “moonshot” to cure blindness through eye transplants - The Denver Post",
-            "description": "As part of a national “moonshot” to cure blindness, researchers at the University of Colorado’s Anschutz Medical Campus will receive as much as $46 million in federal funding over…",
-            "url": "https://www.denverpost.com/2024/12/02/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/",
-            "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/12/TDP-L-CUANSCHUTZBLINDNESS245x.jpg?w=1024&h=663",
-            "publishedAt": "2024-12-02T21:16:52Z",
-            "content": "As part of a national “moonshot” to cure blindness, researchers at the CU Anschutz Medical Campus will receive as much as $46 million in federal funding over the next five years to pursue a first-of-… [+5566 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "De Gruyter",
-            "title": "Barbarian warriors in Roman times used stimulants in battle, findings suggest - Phys.org",
-            "description": "Small, spoon-shaped objects found on the end of warriors' belts at archaeological sites across northern Europe could have been used to dispense stimulants before battle, a study suggests.",
-            "url": "https://phys.org/news/2024-12-barbarian-warriors-roman.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/barbarian-warriors-in.jpg",
-            "publishedAt": "2024-12-02T20:52:17Z",
-            "content": "Small, spoon-shaped objects found on the end of warriors' belts at archaeological sites across northern Europe could have been used to dispense stimulants before battle, a study suggests.\r\nThe widesp… [+3223 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Personal Gut Environments Shape How We Digest, Absorb Food - Neuroscience News",
-            "description": "Individual differences in gut physiology and environment play a major role in shaping our gut microbiome and how we process food.",
-            "url": "https://neurosciencenews.com/individual-microbiome-metabolism-28155/",
-            "urlToImage": "https://neurosciencenews.com/files/2024/12/microbiome-ingestion-neurosicence.jpg",
-            "publishedAt": "2024-12-02T20:26:19Z",
-            "content": "Summary: Individual differences in gut physiology and environment play a major role in shaping our gut microbiome and how we process food. Using a smart capsule to measure pH, temperature, and pressu… [+7727 chars]"
-        },
-        {
-            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
             "author": "Deidre McPhillips",
-            "title": "Respiratory illness season begins to ramp up now. Here’s what’s already starting to hit - CNN",
-            "description": "Respiratory disease season is off to a relatively slow start in the United States, but low vaccination rates threaten that trend and the rapid rise of some illnesses is already putting children at increased risk.",
+            "title": "Respiratory illness season begins to ramp up now. Here’s what’s already starting to hit - Yahoo! Voices",
+            "description": "Respiratory disease season is off to a relatively slow start in the United States, but low vaccination rates threaten that trend and the rapid rise of some...",
             "url": "https://www.cnn.com/2024/12/02/health/respiratory-disease-season-start-vaccination-children/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-525444523.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-12-02T18:47:00Z",
-            "content": "Despite a relatively slow start to respiratory disease season, low vaccination rates threaten that trend and the rapid rise of some illnesses is already putting children at increased risk.\r\nOverall, … [+5994 chars]"
+            "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/31bd709479db04bd7c34903116f9a8cf",
+            "publishedAt": "2024-12-02T18:47:57Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nD… [+6218 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ian McMahan",
+            "title": "With more active lifestyle, average adult could live 5.3 years longer - The Washington Post",
+            "description": "The least active Americans appear to have the most to gain.",
+            "url": "https://www.washingtonpost.com/wellness/2024/12/02/exercise-lifespan-american-life-expectancy/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XHZDBPQCRBAN5ILIKB55HVY6AQ.jpg&w=1440",
+            "publishedAt": "2024-12-02T18:30:55Z",
+            "content": "Americans over age 40 could live an extra 5.3 years if they were as active as the top 25 percent of the population, according to just-published research in the British Journal of Sports Medicine.\r\nTo… [+1779 chars]"
         },
         {
             "source": {
@@ -560,19 +625,6 @@
             "urlToImage": "https://neurosciencenews.com/files/2024/12/visceral-fat-alzheimers-neuroscience.jpg",
             "publishedAt": "2024-12-02T17:26:48Z",
             "content": "Summary: A new study links visceral fat, a deep layer of abdominal fat, to increased brain amyloid and tau proteinskey markers of Alzheimers diseasedecades before dementia symptoms arise. Researchers… [+7123 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Conversation Africa"
-            },
-            "author": "James Goodwin",
-            "title": "COVID lockdowns affected adolescents’ brain structures, says research - The Conversation",
-            "description": "Social isolation can have serious adverse effects on young people’s brain development – effects that are long lasting.",
-            "url": "https://theconversation.com/covid-lockdowns-affected-adolescents-brain-structures-says-research-244714",
-            "urlToImage": "https://images.theconversation.com/files/635053/original/file-20241128-16-81y3qg.jpg?ixlib=rb-4.1.0&rect=0%2C416%2C5561%2C2776&q=45&auto=format&w=1356&h=668&fit=crop",
-            "publishedAt": "2024-12-02T17:19:02Z",
-            "content": "A recent study reported the somewhat alarming observation that the social disruptions of COVID lockdowns caused significant changes in teenagers brains.\r\nUsing MRI data, researchers at the University… [+3547 chars]"
         },
         {
             "source": {
@@ -625,45 +677,6 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/94630015.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-12-02T16:26:00Z",
             "content": "It was a fun night but you wake up the next morning with a sense of dread, feeling anxious about what you said and did the night before.\r\nYou may not have even done anything to be embarrassed about, … [+3822 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Daniel Lawler",
-            "title": "Brain stimulation can help injured people walk: study - Yahoo! Voices",
-            "description": "Scientists said Monday that electrically stimulating a particular region in the brain could help people with injured spinal cords walk more easily, with one ...",
-            "url": "https://www.yahoo.com/news/brain-stimulation-help-injured-people-161957996.html",
-            "urlToImage": "https://media.zenfs.com/en/afp.com/65f3d3bc533b96a543d24ec3cfd17e0a",
-            "publishedAt": "2024-12-02T16:19:57Z",
-            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nS… [+3837 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ALS News Today"
-            },
-            "author": "Esteban Dominguez Cerezo, MS",
-            "title": "Phase 1 trial now testing 2 new QRL-201 doses in ALS patients - ALS News Today",
-            "description": "The Phase 1 trial ANQUR, now testing two new doses of the ALS therapy QRL-201, is enrolling patients at 12 sites in Canada and across Europe.",
-            "url": "https://alsnewstoday.com/news/anqur-phase-1-trial-testing-2-new-qrl-201-doses-als-patients/",
-            "urlToImage": "https://alsnewstoday.com/wp-content/uploads/2024/12/Survey_paperwork-2.png",
-            "publishedAt": "2024-12-02T15:47:16Z",
-            "content": "A Phase 1 clinical trial of QRL-201, Quralis‘ therapy candidate for amyotrophic lateral sclerosis (ALS), has successfully completed its dose-escalation phase, with the two doses tested reaching thera… [+4022 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-12-02T15:44:07Z",
-            "content": "[Removed]"
         },
         {
             "source": {
@@ -759,6 +772,32 @@
         {
             "source": {
                 "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-12-02T12:45:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crikey"
+            },
+            "author": "Jason Murphy",
+            "title": "Long COVID is becoming a serious social and economic issue for Australia - Crikey",
+            "description": "Addressing this health challenge is vital to getting many people back participating fully in their lives.",
+            "url": "https://www.crikey.com.au/2024/12/02/long-covid-symptoms-viruses-health-labour-australia/",
+            "urlToImage": "https://www.crikey.com.au/wp-content/uploads/2024/12/20220719001681006525-original-copy.jpg?quality=70",
+            "publishedAt": "2024-12-02T12:00:00Z",
+            "content": "Among the current generation of kids, many are growing up with their mother or father confined to bed or confined to bed themselves. According to a study by ANU, long COVID is hitting up to an estima… [+7576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Yahoo Entertainment"
             },
             "author": "Maxine Yeung",
@@ -768,45 +807,6 @@
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/G6HpujtdPjhH5VsZnakzsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/2e65fbf0-b0a6-11ef-8dfd-bebf4e27a162",
             "publishedAt": "2024-12-02T10:00:17Z",
             "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nC… [+6805 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-12-02T07:51:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medscape"
-            },
-            "author": "Medscape",
-            "title": "Cognitive Decline in AF Not Reduced by Anticoagulation - Medscape",
-            "description": null,
-            "url": "https://www.medscape.com/viewarticle/cognitive-decline-af-not-reduced-anticoagulation-2024a1000lvq",
-            "urlToImage": null,
-            "publishedAt": "2024-12-02T07:24:23Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "The Conversation",
-            "title": "Mysterious Driving Factor Behind Long COVID May Have Been Identified - ScienceAlert",
-            "description": "Around 5–10% of people with COVID infections go on to experience long COVID, with symptoms lasting three months or more.",
-            "url": "https://www.sciencealert.com/mysterious-driving-factor-behind-long-covid-may-have-been-identified",
-            "urlToImage": "https://www.sciencealert.com/images/2024/09/BrainScanLongCOVID.jpg",
-            "publishedAt": "2024-12-02T06:20:28Z",
-            "content": "Around 510% of people with COVID infections go on to experience long COVID, with symptoms lasting three months or more.\r\nResearchers have proposed several biological mechanisms to explain long COVID.… [+6080 chars]"
         },
         {
             "source": {

@@ -1,31 +1,70 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "The Wall Street Journal",
-            "title": "Trump Picks Paul Atkins to Run SEC - The Wall Street Journal",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc1VabUlTMXlISElIY0hPYm50WlcxUENRekJfNk5DZ0J4MzVPZENMclNFUWlHMVVEdjRBcnFfaHk2NUdaOWtSM2d4QUt0TXR2aVFsWGpPX3Jtbkl4YjR6eVh3am1GVU11QUxQNGxSRGx1NnRqbWdtcDNqQ1BBQnJOdXMzeUdTNXI2Znc?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-04T18:06:00Z",
-            "content": null
+            "author": "Ramon Sanchez, Pete Muntean",
+            "title": "‘Not much went right’: How a stowaway avoided identity and boarding pass checks on a flight from New York to Paris - CNN",
+            "description": "At the largest terminal at New York’s John F. Kennedy International Airport on one of the busiest travel days of the year, security lapses enabled an unticketed passenger to board a plane to Paris in a shocking breach that one aviation expert said should serv…",
+            "url": "https://www.cnn.com/2024/12/04/us/delta-stowaway-airport-tsa/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24332069861414.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-12-05T00:35:00Z",
+            "content": "At the largest terminal at New Yorks John F. Kennedy International Airport on one of the busiest travel days of the year, security lapses enabled an unticketed passenger to board a plane to Paris in … [+8757 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gerrit De Vynck",
+            "title": "OpenAI partners with weapons start-up Anduril on military AI - The Washington Post",
+            "description": "Defense startup Anduril will partner with OpenAI to integrate the ChatGPT maker’s AI technology into drone-defense systems it sells to the Pentagon.",
+            "url": "https://www.washingtonpost.com/technology/2024/12/04/openai-anduril-military-ai/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3POLXUW4AI6ZOZROT6ANQFDUU.jpg&w=1440",
+            "publishedAt": "2024-12-04T23:31:13Z",
+            "content": "SAN FRANCISCO ChatGPT creator OpenAI and high-tech military manufacturer Anduril Industries will codevelop new artificial-intelligence technology for the Pentagon, adding to a trend for leading tech … [+340 chars]"
         },
         {
             "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "Reuters",
-            "title": "Trump picks Musk ally Jared Isaacman to head NASA - Reuters",
+            "author": "Hollywood Reporter",
+            "title": "Jeff Bezos Says He Is “Proud” of Decision to End Endorsements at Washington Post, “Very Optimistic” About Second Trump Term - Hollywood Reporter",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDdtZzNOTEZON0lyNGlHMmNjQmNHSFFvVERqbFd3VlNBZG9LN1FvUFh1cEVFeGp4TV9QTXJRNEh2SXJRN0pTM1RyX0lwN3dNT2FROUR4aVNKWU84R0IycjB4QmNqS3pzcTBlSk8tSERLU1RJY2hKZXM2UkkyUkozTFFEUUM3RkJU?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm1PTlQxRFozYWNzaXNDQmctQXBMV2JBSkZoRXJDa2FQUF9pWUoyWWpqUXl3ZHFUc29mS3VzS1hDWk52TVdJQm5IMmFHbXBlQ2MzMkh1S01yWjBCc01LTFo0NU9CUW5EaW16U3pYQVg1X01TOFZxaXJRWGpJT1EyRWlLOWl4UXR3N0JXM2poaVllemV5NllwWmMtMW1fS1dyVVM4bW5VNTg0TDM1?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-12-04T17:00:20Z",
+            "publishedAt": "2024-12-04T22:52:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "JetBlue cuts more unprofitable routes, tweaks Europe flights - CNBC",
+            "description": "JetBlue is in the middle of a new plan to return to consistent profitability and cut costs.",
+            "url": "https://www.cnbc.com/2024/12/04/jetblue-cuts-routes-europe-flights.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107403141-1713445374566-gettyimages-2147827677-economou-jetbluea240411_npwJI.jpeg?v=1713445401&w=1920&h=1080",
+            "publishedAt": "2024-12-04T22:32:02Z",
+            "content": "JetBlue Airways told staff Wednesday that it is axing more unprofitable flights, redeploying aircraft outfitted with its high-value business class and tweaking Europe service, the carrier's latest mo… [+2053 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Howard Schneider",
+            "title": "Powell says Fed can afford to be a little more cautious - Reuters",
+            "description": "U.S. Federal Reserve Chair Jerome Powell on Wednesday said the economy is stronger now than the central bank had expected in September when it began reducing interest rates, and appeared to signal his support for a slower pace of interest-rate cuts ahead.",
+            "url": "https://www.reuters.com/markets/us/powell-remarks-watched-sign-pushback-or-support-fed-rate-cut-2024-12-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/SQQKOU4TUFIT3FI43PHJK7KFEA.jpg?auth=3cc4472ca739777c409dc0860424ead519598c23cc079ba0a2e0e40a38c71204&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-12-04T22:01:41Z",
             "content": null
         },
         {
@@ -34,64 +73,298 @@
                 "name": "Barron's"
             },
             "author": "Barron's",
-            "title": "Fed Powell Speech Today: What to Watch - Barron's",
+            "title": "Nvidia Stock Rises as Amazon Ramps Up Rival AI Chip Plans - Barron's",
             "description": null,
-            "url": "https://www.barrons.com/articles/fed-powell-speech-dealbook-summit-today-c5569ccc",
+            "url": "https://www.barrons.com/articles/nvidia-stock-amazon-ai-chips-edf64a95",
             "urlToImage": null,
-            "publishedAt": "2024-12-04T16:55:00Z",
+            "publishedAt": "2024-12-04T22:01:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Reuters",
+            "title": "Dow closes above 45K for first time as Nasdaq, S&P 500 all hit all-time highs after Powell remarks - New York Post ",
+            "description": "Powell “was very upbeat about economy, and he said we’re making progress on inflation… that’s good news for stocks in general,” an economist said.",
+            "url": "https://nypost.com/2024/12/04/business/dow-closes-above-45k-for-first-time-as-nasdaq-sampp-500-all-hit-all-time-highs/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/dow-stocks-fed.jpg?quality=75&strip=all&1733331022&w=1024",
+            "publishedAt": "2024-12-04T21:59:53Z",
+            "content": "All three major US stock indexes scored record closing highs on Wednesday as technology shares rallied after upbeat results from Salesforce and as comments by Federal Reserve Chair Jerome Powell gave… [+2511 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-12-04T21:51:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Investor's Business Daily"
             },
-            "author": "ALLISON GATLIN, ED CARSON, Investor's Business Daily",
-            "title": "Battle Of The Weight-Loss Behemoths: Eli Lilly Whomps Novo Nordisk - Investor's Business Daily",
-            "description": "Lilly touted findings from a head-to-head study of Zepbound and Wegovy.",
-            "url": "https://www.investors.com/news/technology/eli-lilly-zepbound-beats-novo-nordisk-wegovy-in-head-to-head-weight-loss-trial/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/09/Stock-EliLilly-building-04-shutt.jpg",
-            "publishedAt": "2024-12-04T16:10:00Z",
-            "content": "Eli Lilly (LLY) said Wednesday its obesity drug Zepbound spurred more weight loss than Novo Nordisk's (NVO) Wegovy in the first-ever head-to-head study.\r\nXNOW PLAYINGThe Weight-Loss Drug Market Is Ho… [+2914 chars]"
+            "author": "BENJAMIN PIMENTEL, Investor's Business Daily",
+            "title": "Intel Board Blasted For Handling Of CEO's Sudden Exit As Stock Falls Again - Investor's Business Daily",
+            "description": "Intel stock fell again Wednesday prompting an industry analyst to accuse the chip giant's board of mishandling its CEO's sudden exit.",
+            "url": "https://www.investors.com/news/technology/intel-stock-intc-analyst-blasts-board/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/10/Stock-Intel-NoyceBldg-company.jpg",
+            "publishedAt": "2024-12-04T21:42:00Z",
+            "content": "Intel stock fell again Wednesday prompting an industry analyst to accuse the chipmaker's board of badly mishandling the sudden exit of CEO Pat Gelsinger.\r\nThe shares had rallied early Monday when new… [+2364 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Investor's Business Daily"
             },
-            "author": "Variety",
-            "title": "OpenAI CEO Sam Altman Says Arrival of AI ‘Superintelligence’ Will Be ‘More Intense Than People Think’ - Variety",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3dVbVpMclZqMVFxMVZtU0x0Sk1hczlYUWNGcE4tc1hMRDY3VXFaSkY5TXFEeXN5azdkbkNrY3BDZkJwNTJhYkxrRXZ5RXFyZGprR3l4UlIyX2pfckZ0aTlLYVBhX29Ed1lnTE4ta3JseW9rRV84Nm5iaHFsX3NYUzlmVk1Kc2lIbE1TOC12LXVab1Ex?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-04T15:45:00Z",
+            "author": "RYAN DEFFENBAUGH, Investor's Business Daily",
+            "title": "Pure Storage Stock Soars 20% On Earnings Beat, 'First-Ever' Flash Hyperscaler Cloud Win - Investor's Business Daily",
+            "description": "Pure Storage stock jumped 20% Wednesday, after the enterprise data storage company reported Q3 earnings and sales that beat expectations.",
+            "url": "https://www.investors.com/news/technology/pure-storage-stock-earnings-q3-2024-ai/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/05/Stock-PureStorage-01-shutt.jpg",
+            "publishedAt": "2024-12-04T21:14:00Z",
+            "content": "Pure Storage (PSTG) stock rocketed higher Wednesday after the enterprise data storage company reported third-quarter earnings and sales that beat expectations. The company also said it had won a \"des… [+4009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Juveria Tabassum",
+            "title": "American Eagle Outfitters lowers annual sales growth forecast - Yahoo Finance",
+            "description": "(Reuters) -American Eagle Outfitters cut its target for annual comparable sales growth on Wednesday, in signs that apparel demand could be erratic during the...",
+            "url": "https://finance.yahoo.com/news/american-eagle-outfitters-lowers-annual-211315683.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/6c12800d8fa2536baf43326dfa232db2",
+            "publishedAt": "2024-12-04T21:13:15Z",
+            "content": "By Juveria Tabassum\r\n(Reuters) -American Eagle Outfitters cut its target for annual comparable sales growth on Wednesday, in signs that apparel demand could be erratic during the critical holiday sea… [+1907 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "John Hendel",
+            "title": "Trump taps Vance staffer to head DOJ’s antitrust division - POLITICO",
+            "description": "Gail Slater worked as a special assistant to Donald Trump during his first term.",
+            "url": "https://www.politico.com/live-updates/2024/12/04/congress/vance-staffer-picked-for-dojs-antitrust-job-00192599",
+            "urlToImage": "https://www.politico.com/dims4/default/8e70051/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff9%2Fae%2F0c327ee6456db44b9b673bdbcdc4%2Fslater.jpg",
+            "publishedAt": "2024-12-04T20:43:49Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Mackenzie Tatananni",
+            "title": "Chewy Stock Falls as Adjusted Earnings Miss Estimates but Sales Beat - Barron's",
+            "description": "",
+            "url": "https://www.barrons.com/articles/chewy-earnings-stock-price-47662eab",
+            "urlToImage": "https://images.barrons.com/im-318145/social",
+            "publishedAt": "2024-12-04T20:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Henry Khederian",
+            "title": "What's Going On With Super Micro Computer (SMCI) Stock? - Benzinga",
+            "description": "Super Micro Computer shares are trading higher by 25% since Monday's open. The company this week released findings from an internal investigation led by its Special Committee.",
+            "url": "https://www.benzinga.com/news/24/12/42324060/whats-going-on-with-super-micro-computer-smci-stock-2",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/12/04/matrix-2953883.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-12-04T19:16:57Z",
+            "content": "Super Micro Computer IncSMCI shares are trading higher by 25% to $41.47 since Monday’s open. The company this week released findings from an internal investigation led by its Special Committee conclu… [+2585 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "The Associated Press",
+            "title": "Sam Altman says it would be 'profoundly un-American' if Elon Musk uses Trump role to 'hurt' OpenAI - Fortune",
+            "description": "OpenAI CEO Sam Altman is “not that worried” about Musk's influence in the incoming Trump administration.",
+            "url": "https://fortune.com/2024/12/04/openai-ceo-sam-altman-tesla-ceo-elon-musk-feud-trump-admin/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/12/GettyImages-2087343447_3645c1-e1733339108760.jpg?resize=1200,600",
+            "publishedAt": "2024-12-04T19:12:00Z",
+            "content": "OpenAI CEO Sam Altman, who is in a legal dispute with rival Elon Musk, said he is not that worried about Musks influence in the incoming Trump administration.Altman told a New York Times conference W… [+2997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Arthur Sullivan",
+            "title": "What China gains from ban on rare mineral exports to US - DW (English)",
+            "description": "China has announced export restrictions on some rare minerals and metals to the United States. It's the latest salvo in the ongoing battle for high-tech supremacy between the world's two biggest economic powers.",
+            "url": "https://www.dw.com/en/what-china-gains-from-ban-on-rare-mineral-exports-to-us/a-70961836",
+            "urlToImage": "https://static.dw.com/image/56813466_6.jpg",
+            "publishedAt": "2024-12-04T18:56:37Z",
+            "content": "On Tuesday, China's Commerce Ministry announced that it was banning the export of certain minerals and metals to the United States.\r\nThe products, such as gallium, germanium and antimony, are so-call… [+5396 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "ALEX VEIGA",
+            "title": "Trump nominates cryptocurrency advocate Paul Atkins as SEC chair - The Associated Press",
+            "description": "President-elect Donald Trump says he intends to nominate cryptocurrency advocate Paul Atkins to chair the Securities and Exchange Commission. Atkins is the CEO of Patomak Partners and a former SEC commissioner. Trump calls Atkins a “proven leader for common s…",
+            "url": "https://apnews.com/article/sec-chair-atkins-gensler-investors-financial-markets-d1c544f1846071b33c75b9f2dd0c1ba4",
+            "urlToImage": "https://dims.apnews.com/dims4/default/72e71b8/2147483647/strip/true/crop/3998x2249+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe5%2Fd3%2F3c8094fde7ef13a434a4163320b4%2F5cb751d63ddc4b808ea4469a68ae1bdd",
+            "publishedAt": "2024-12-04T18:49:00Z",
+            "content": "President-elect Donald Trump announced Wednesday that he intends to nominate cryptocurrency advocate Paul Atkins to chair the Securities and Exchange Commission.\r\nTrump said Atkins, the CEO of Patoma… [+3717 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Chipotle Raises U.S. Prices by 2% to Offset Inflation Costs - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/business/chipotle-raises-u-s-prices-by-2-to-offset-inflation-costs-fdb6b996",
+            "urlToImage": null,
+            "publishedAt": "2024-12-04T18:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Delaware struggles with Tesla investors’ disregard for governance - Financial Times",
+            "description": "Elon Musk’s pay package case is heading for the state’s Supreme Court",
+            "url": "https://www.ft.com/content/b741b967-42c4-4078-9992-4dcea91cb4cc",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5544de4-03e0-482a-8963-970bbe0fd6d3.jpg?source=next-barrier-page",
+            "publishedAt": "2024-12-04T18:29:11Z",
+            "content": "Try unlimited access\r\nOnly $1 for 4 weeks\r\nThen $75 per month.\r\nComplete digital access to quality FT journalism on any device. \r\nCancel anytime during your trial."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Louisiana.gov"
+            },
+            "author": null,
+            "title": "Landry Announces Meta Selects North Louisiana as Site of $10 Billion Artificial Intelligence Optimized Data Center - Governor John Bel Edwards",
+            "description": "The Office of Governor Jeff Landry. Welcome Home!",
+            "url": "https://gov.louisiana.gov/news/4697",
+            "urlToImage": "https://gov.louisiana.gov/assets/images/office-of-the-governor-landry.png",
+            "publishedAt": "2024-12-04T18:24:30Z",
+            "content": "Landry Says Investment ‘A Game Changer for Our State’\r\n<ul><li> Project is expected to result in 500 or more direct new jobs, more than 1,000 indirect jobs and 5,000 construction workers at peak.</li… [+6788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mySA"
+            },
+            "author": "Priscilla Aguirre",
+            "title": "ERCOT: 80% chance of Texas blackouts amid severe winter storm - mySA",
+            "description": "ERCOT says there is a chance for extreme winter weather similar to Winter Storm Uri that collapsed the power grid leading to millions without power in Texas.",
+            "url": "https://www.mysanantonio.com/news/weather/article/texas-winter-snow-storm-blackouts-19959189.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/16/57/27/20641228/6/rawImage.jpg",
+            "publishedAt": "2024-12-04T17:49:32Z",
+            "content": "Umair Iqbal watches the snow fall early in the morning on Feb. 15 in San Antonio. The rolling blackouts around the state have triggered lawsuits against the Electric Reliability Council of Texas Inc.… [+3640 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Shashwat Chauhan, Purvi Agarwal",
-            "title": "Wall St opens higher as investors await economic data, Powell comments - Reuters",
-            "description": "Wall Street's main indexes climbed on Wednesday, with the S&P 500 and the Nasdaq touching record highs driven by gains in technology stocks, while investors awaited comments from U.S. Federal Reserve Chair Jerome Powell later in the day.",
-            "url": "https://www.reuters.com/markets/us/futures-tick-up-with-focus-fed-commentary-economic-data-2024-12-04/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ANLDLFTWQFLS3KH5CNDFYAK6B4.jpg?auth=dcaad5e9b22f970c4c2764e32e23054c3812139396aec73376378720b916849e&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-12-04T14:33:07Z",
+            "author": "Nate Raymond",
+            "title": "Texas judge blocks anti-money laundering law's enforcement nationwide - Reuters.com",
+            "description": "A federal judge in Texas has issued a nationwide injunction blocking the enforcement of an anti-money laundering law that requires corporate entities to disclose to the U.S. Treasury Department the identities of their real beneficial owners.",
+            "url": "https://www.reuters.com/legal/government/texas-judge-blocks-anti-money-laundering-laws-enforcement-nationwide-2024-12-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/HUHZISUW3NNMFL67FKPQULVBUI.jpg?auth=0d6fa6af078110f2c6d8145ef9e5e5dcd296fc519eaed8a574742e1998f47960&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-12-04T17:39:41Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Annika Kim Constantino, Gabrielle Fonrouge",
-            "title": "UnitedHealthcare CEO Brian Thompson fatally shot in New York - CNBC",
-            "description": "UnitedHealth Group canceled its investor day after reports that the CEO of its insurer unit, Brian Thompson, was fatally shot in Manhattan.",
-            "url": "https://www.cnbc.com/2024/12/04/unitedhealth-cancels-investor-day-after-reports-of-executive-shot-in-manhattan.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071191-17333247152024-12-04t150318z_1147773125_rc2eibaesij3_rtrmadp_0_unitedhealth-ceo.jpeg?v=1733324774&w=1920&h=1080",
-            "publishedAt": "2024-12-04T14:17:52Z",
-            "content": "UnitedHealthcare (UHC) health insurance company signage is displayed on an office building in Phoenix, Arizona on July 19, 2023.\r\nBrian Thompson, the CEO of UnitedHealth Group's insurance unit, was f… [+4660 chars]"
+            "author": "Lauren Feiner",
+            "title": "Amazon secretly excluded neighborhoods from Prime delivery, DC AG alleges - The Verge",
+            "description": "DC Attorney General Brian Schwalb filed suit against Amazon for allegedly deceiving Prime customers about the delivery benefits they were receiving.",
+            "url": "https://www.theverge.com/2024/12/4/24313142/amazon-allegedly-excluded-dc-neighborhoods-prime-delivery",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qwYo7XAE3Loy8QPMmJjRKrCLWAY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935561/acastro_STK103__04.jpg",
+            "publishedAt": "2024-12-04T17:16:09Z",
+            "content": "Amazon secretly excluded neighborhoods from Prime delivery, DC AG alleges\r\nAmazon secretly excluded neighborhoods from Prime delivery, DC AG alleges\r\n / Amazon says it was a response to protect worke… [+2301 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "DAVID KOENIG",
+            "title": "US senators grill officials from 5 airlines over fees for seats and checked bags - The Associated Press",
+            "description": "A U.S. Senate subcommittee is taking aim at airlines and their growing use of fees for things like early boarding and better seats. Members of the Senate Permanent on Investigations say airlines have raised billions of dollars by imposing fees that are gettin…",
+            "url": "https://apnews.com/article/senate-hearing-airlines-fees-seats-bags-3cd4a1fc1b29fc04f9607adea7b5bdf4",
+            "urlToImage": "https://dims.apnews.com/dims4/default/2734316/2147483647/strip/true/crop/6000x3375+0+318/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F39%2Fa7%2Ffd1f67a78141d1f940f792d3d6ad%2F7939c7f6e11e4c6289377f18990f930f",
+            "publishedAt": "2024-12-04T17:02:00Z",
+            "content": "Members of a U.S. Senate subcommittee took aim at airline executives Wednesday for using an expanding menu of fees to charge customers for early boarding, better seats and other comforts that used to… [+4184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Claire Shefchik",
+            "title": "Musk's $119 Billion Wealth Increase Outpaces Dell and Zuckerberg, But Guess Who's Catching Up - Yahoo Finance",
+            "description": "Elon Musk is on another level this year. The Tesla and SpaceX CEO added $119 billion to his fortune in 2024. This pushed his net worth to $348 billion...",
+            "url": "https://finance.yahoo.com/news/musks-119-billion-wealth-increase-164519274.html",
+            "urlToImage": "https://media.zenfs.com/en/Benzinga/77430c347a92023bffff874ebf62bad6",
+            "publishedAt": "2024-12-04T16:45:19Z",
+            "content": "Musk's $119 Billion Wealth Increase Outpaces Dell and Zuckerberg, But Guess Who's Catching Up\r\nElon Musk is on another level this year. The Tesla and SpaceX CEO added $119 billion to his fortune in 2… [+2363 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ashley Stewart",
+            "title": "Marc Benioff ruptured his Achilles tendon. He doesn't give a 'Fakarava' as Agentforce hope sends Salesforce stock to record. - Business Insider",
+            "description": "The CEO was in an upbeat mood on Salesforce's earnings call as AI promise drives the stock up to a record high.",
+            "url": "https://www.businessinsider.com/marc-benioff-ruptured-achilles-tendon-fakarava-salesforce-agentforce-ai-agents-2024-12",
+            "urlToImage": "https://i.insider.com/6750b205ef9a5d904789ee2c?width=1200&format=jpeg",
+            "publishedAt": "2024-12-04T15:16:00Z",
+            "content": "There's nothing like an AI-powered stock surge to take your mind off other problems.\r\nLate on Tuesday, Salesforce CEO Marc Benioff described a painful injury he sustained recently while visiting Faka… [+3583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "REINHARDT KRAUSE, Investor's Business Daily",
+            "title": "Nvidia Rival Marvell's Custom AI Chip Business Drives Earnings Beat. Shares Jump. - Investor's Business Daily",
+            "description": "Marvell posted fiscal Q3 earnings and revenue that topped estimates amid strong demand for its custom chips for artificial intelligence applications.",
+            "url": "https://www.investors.com/news/technology/marvell-stock-marvel-earnings-custom-ai-chips-q32024/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/08/Stock-MarvellTech-AlaskaChips-company.jpg",
+            "publishedAt": "2024-12-04T15:03:00Z",
+            "content": "Chipmaker Marvell Technology (MRVL) posted better-than-expected sales in its fiscal third quarter thanks to strong demand for its custom chips for artificial intelligence applications. MRVL stock pop… [+3511 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jordan Valinsky",
+            "title": "Chi-Chi’s is making a comeback 20 years after its last restaurant closed - CNN",
+            "description": "Chi-Chi’s, the Mexican restaurant chain that closed 20 years ago, is staging a comeback.",
+            "url": "https://www.cnn.com/2024/12/04/food/chi-chis-restaurant-relaunch/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2y83gkx.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-12-04T14:37:00Z",
+            "content": "Chi-Chis, the Mexican restaurant chain that closed 20 years ago, is staging a comeback.\r\nHormel Foods, current owner of the Chi-Chis trademark, announced Tuesday its letting Michael McDermott, son of… [+2494 chars]"
         },
         {
             "source": {
@@ -109,80 +382,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Tipranks.com"
+                "name": "TheStreet"
             },
-            "author": "William White",
-            "title": "Palantir Technologies Stock Rises After U.S. Government Upgrades Its Authorization - TipRanks",
-            "description": "Palantir Technologies stock is rising higher today as investors celebrate the company being granted FedRAMP High Authorization by the U.S. government.",
-            "url": "https://www.tipranks.com/news/palantir-technologies-rises-after-u-s-government-upgrades-its-authorization",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/12/pltrstock-750x406.jpg",
-            "publishedAt": "2024-12-04T13:57:01Z",
-            "content": "Story HighlightsPalantir Technologies stock is rising higher today as news of it securing FedRAMP High Authorization by the U.S. government has investors excited."
+            "author": "Martin Baccardax",
+            "title": "ADP Jobs report data add to case for December Fed interest rate cut - TheStreet",
+            "description": "Private-sector hiring continues to slow, but workers are finding pay increases for remaining in their current positions.",
+            "url": "https://www.thestreet.com/economy/adp-jobs-report-data-add-to-case-for-december-fed-interest-rate-cut",
+            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAyMDAxMTQ5NjMxNDA3NjIz/fed-chair-powell-holds-news-conference-following-fomc-rate-decision.jpg",
+            "publishedAt": "2024-12-04T13:34:14Z",
+            "content": "The U.S. economy saw softening private-sector job creation last month, adding to evidence of a slowing labor market heading into December that could boost the case for a final Federal Reserve rate cu… [+2307 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WTOP"
+                "name": "Lilly.com"
             },
-            "author": "The Associated Press",
-            "title": "DC lawsuit says Amazon secretly stopped fast deliveries to 2 predominantly Black zip codes - WTOP",
-            "description": "D.C. is suing Amazon, saying the company secretly stopped providing its fastest delivery service to residents who live in two predominantly Black Washington neighborhoods but is still charging residents millions of dollars for a service that provides speedy d…",
-            "url": "https://wtop.com/dc/2024/12/dc-lawsuit-says-amazon-secretly-stopped-fast-deliveries-to-2-predominantly-black-zip-codes/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2024/12/GettyImages-1241748013.jpg",
-            "publishedAt": "2024-12-04T13:54:40Z",
-            "content": "The District of Columbia sued Amazon on Wednesday, alleging the company secretly stopped providing its fastest delivery service to residents of two predominantly Black neighborhoods while still charg… [+4457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Barron's",
-            "title": "Pure Storage Earnings Beat Expectations. That’s Not Why the Stock Is Soaring. - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/pure-storage-earnings-stock-price-895d4ff9",
-            "urlToImage": null,
-            "publishedAt": "2024-12-04T13:43:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Barron's",
-            "title": "Nvidia Stock Rises as Amazon Ramps Up Rival AI Chip Plans - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/nvidia-stock-amazon-ai-chips-edf64a95",
-            "urlToImage": null,
-            "publishedAt": "2024-12-04T13:33:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Barron's",
-            "title": "Chewy Stock Falls After Pet-Goods Retailer Posts Earnings Miss - Barron's",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Mnpfa1VWQnNyQzlhQmxmWC1qckxYN25BdHE0dFFtVTJUZm5ERVdUb1h6Wm16WWNLcjJoMndiX1lvY1lSeU5TVlFLaEl2cnE4djRfZ0tyRGczc0NQRURsX1BFUXFJdzNjVFFVUkpwZExqakpaSnpN0gF8QVVfeXFMTUNfeTdWRThQNWFLc0lORkhSRkhLSFY2REJLeXhMQ3h6LU9HM0lVNTRUR0o4T2hONGgyVFNXaTlYMmFIekV5ck54aTZDY1hsOVdaeldDOU5SWFhLZkJkZDZpOTdKa3Z4aHdTVjdfeDdmaVBoMGFEWDJ2RGVySQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-04T13:09:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Nathan Bomey",
-            "title": "Elon Musk's net worth balloons despite court rejecting Tesla pay package - Axios",
-            "description": "Tesla has seen its share price jump about $100, or 40%, since the election.",
-            "url": "https://www.axios.com/2024/12/03/elon-musk-tesla-trump-election",
-            "urlToImage": "https://images.axios.com/ImxMdS2ZpAbNZVDAnOZ2arCDtOc=/0x0:7743x4355/1366x768/2024/12/03/1733262336096.jpg",
-            "publishedAt": "2024-12-04T12:00:12Z",
-            "content": "A Delaware judge's ruling rejecting Elon Musk's Tesla compensation package for the second time is but a small setback for his finances as his net worth soars in the immediate aftermath of Donald Trum… [+2975 chars]"
+            "author": null,
+            "title": "Lilly's Zepbound® (tirzepatide) superior to Wegovy® (semaglutide) in head-to-head trial showing an average weight loss of 20.2% vs. 13.7% - Investors | Eli Lilly and Company",
+            "description": "The Investor Relations website contains information about Eli Lilly and Company's business for stockholders, potential investors, and financial analysts.",
+            "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-zepboundr-tirzepatide-superior-wegovyr-semaglutide-head",
+            "urlToImage": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98",
+            "publishedAt": "2024-12-04T11:50:16Z",
+            "content": "Participants using Zepbound lost 50.3 lbs (22.8 kg) and participants on Wegovy lost 33.1 lbs (15.0 kg)\r\nSURMOUNT-5 compared Zepbound, a dual GIP and GLP-1 receptor agonist, to Wegovy, a mono GLP-1 re… [+22623 chars]"
         },
         {
             "source": {
@@ -190,90 +411,25 @@
                 "name": "CNBC"
             },
             "author": "Gabrielle Fonrouge",
-            "title": "Foot Locker shares tumble 15% as it issues gloomy holiday outlook, sees 'softness' at Nike - CNBC",
+            "title": "Foot Locker shares tumble as it issues gloomy holiday outlook, sees 'softness' at Nike - CNBC",
             "description": "Foot Locker fell short of Wall Street expectations and cut its guidance after sales declined more than expected.",
             "url": "https://www.cnbc.com/2024/12/04/foot-locker-fl-earnings-q3-2024.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108037369-1726860624722-34th_Street_10_.jpg?v=1726861141&w=1920&h=1080",
             "publishedAt": "2024-12-04T11:48:04Z",
-            "content": "Foot Locker slashed its full-year guidance Wednesday after reporting a rough set of quarterly results that could be a warning sign for its largest brand partner Nike.\r\nThe sneaker giant fell short of… [+5616 chars]"
+            "content": "Foot Locker slashed its full-year guidance Wednesday after reporting a rough set of quarterly results that could be a warning sign for its largest brand partner Nike.\r\nThe sneaker giant fell short of… [+5591 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Barron's"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Barron's",
-            "title": "XRP Is Up 400% Since Trump Won the Election. Why the Crypto Is Beating Bitcoin. - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/xrp-price-bitcoin-trump-election-6a6e565a",
-            "urlToImage": null,
-            "publishedAt": "2024-12-04T11:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Barron's",
-            "title": "Super Micro Stock Falls. What Wall Street Thinks Happens Next. - Barron's",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFTDV0c2hUQmZnUmdVVHZnTlNtWWVVZFNvOVF0ZlFjc1VrRjlPSF9pdU9YVnVMYV8zX2g5VmFoZnR6OU4zdDI5eGswUm4tRHJFYWN1enZYZlE1andhcTgzQVI4RU5LS1IzX1lESXhTcGZOMzNoS2c0MtIBfkFVX3lxTE44ZE8td2ZtcktzUVFHM29hTDNkMmNZYU9PWlJweGhSbl93WG1uV0xfTDNWbWUwWFU5c2hqZlNjUDlRLU9vakozdUMtVy15THlqb2JXZS1Eb3pjSXdRd3owSFZQR0NTTm1fZXVUSnA0OG0zSmNjYlNXSkU1SDhnQQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-04T10:58:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "CNBC",
-            "title": "Airline executives defend seat fees before Senate panel - CNBC",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRE1uaXlmRV8xaWVObkxtZWREZ196elJHUm51V2hab2haTF9LMzFIMlR3UFFZNGFLQVVsSHZqNWtLVjhfRm1Dc3dnUVo1UzVEVlBqSkhfbzNDbk4zckRvZ1I4MjJlRlVFYU9TQnRGZDhEM1RxaVBfQnZXQ1FaTzd0V2ZMeXjSAYoBQVVfeXFMTWptejNsRFgwOU84V2dWeGd3MXhDcEFZd1BYVmhVSFhpeTRlUm9WdlVjLXNCRUM1ZkVvWkFHMDZQWHZDaEhReDBrWkZjbWFLUjFQZE9rLTA3YkRrU1dWVVlpRjBrZGcybFp6SGEyVHlSX1g3ZUI1bFVTRkJGQkZuWGhLQmhUTjI4cjVB?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-04T10:00:01Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Ben Geman",
-            "title": "Meta joins other tech giants in turning to nuclear power - Axios",
-            "description": "It's seeking developers that can bring reactors online starting in the early 2030s to support data centers and communities.",
-            "url": "https://www.axios.com/2024/12/03/meta-facebook-nuclear-power-ai-data-centers",
-            "urlToImage": "https://images.axios.com/aIVKjjm2-Ro1MxKlm-aq4ATcALM=/0x0:1920x1080/1366x768/2024/12/03/1733251026377.jpg",
-            "publishedAt": "2024-12-04T07:22:48Z",
-            "content": "Facebook parent Meta is seeking developers that can bring nuclear reactors online starting in the early 2030s to support data centers and communities around them.\r\nWhy it matters: Meta is joining Ama… [+2317 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Rob Lenihan",
-            "title": "Analysts reset Intel stock forecasts after CEO exits - TheStreet",
-            "description": "This is what could happen next to Intel shares.",
-            "url": "https://www.thestreet.com/investing/stocks/analysts-revise-intel-stock-price-target-after-ceo-exit",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA5MDI5MzI0MDU2MDQ1NDEy/key-speakers-at-computex-taipei.jpg",
-            "publishedAt": "2024-12-04T00:47:00Z",
-            "content": "It was a sign of the times.\r\nOn Nov. 1 S&amp;P Global said that AI-chip heavyweight Nvidia  (NVDA)  would replace Intel  (INTC)  in the Dow Jones Industrial Average \"to ensure a more representative e… [+7348 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Nicki Jhabvala",
-            "title": "Commanders hire Campbell’s Company CEO Mark Clouse as team president - The Washington Post",
-            "description": "Food industry executive will oversee the team’s business operations and lead the planning and development of its next stadium.",
-            "url": "https://www.washingtonpost.com/sports/2024/12/03/mark-clouse-washington-commanders-campbells/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UWYNHQ24M5FJBD4PXS5VAT737Y.jpg&w=1440",
-            "publishedAt": "2024-12-04T00:16:31Z",
-            "content": "The Washington Commanders hired Mark Clouse, the president and chief executive of the Campbells Company, as team president, filling one of the top executive positions for a franchise that has been ov… [+225 chars]"
+            "author": "Reuters",
+            "title": "Stellantis chairman to pick Apple CFO Maestri as carmaker's new CEO - paper - Yahoo Finance",
+            "description": "Stellantis' Chairman John Elkann plans to name Luca Maestri, the outgoing CFO of Apple, as the new CEO of the Italian-French carmaker after Sunday's shock...",
+            "url": "https://finance.yahoo.com/news/stellantis-chairman-pick-apple-cfo-071550012.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/f02a6dae1655ddc470510044526e518b",
+            "publishedAt": "2024-12-04T07:15:50Z",
+            "content": "MILAN (Reuters) - Stellantis' Chairman John Elkann plans to name Luca Maestri, the outgoing CFO of Apple, as the new CEO of the Italian-French carmaker after Sunday's shock resignation of Carlos Tava… [+179 chars]"
         },
         {
             "source": {
@@ -290,19 +446,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Bloombergtax.com"
-            },
-            "author": "John Woolley",
-            "title": "Corporate Transparency Act Blocked Nationwide by Texas Court - Bloomberg Tax",
-            "description": "The Corporate Transparency Act and its implementing regulations, which require US business entities to report stakeholder information to the Treasury Department, were preliminarily blocked nationwide by a Texas federal court on Tuesday.",
-            "url": "https://news.bloombergtax.com/daily-tax-report/corporate-transparency-act-blocked-nationwide-by-texas-court",
-            "urlToImage": "https://db0ip7zd23b50.cloudfront.net/dims4/default/20d25c3/2147483647/strip/false/crop/4439x1711+4+71/resize/960x370!/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F8f%2Fd3%2Fa12c5ed448938bfae6b8fb17b3d6%2F394832488.jpg",
-            "publishedAt": "2024-12-03T23:41:00Z",
-            "content": "The Corporate Transparency Act and its implementing regulations, which require US business entities to report stakeholder information to the Treasury Department, were preliminarily blocked nationwide… [+1799 chars]"
-        },
-        {
-            "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
@@ -316,120 +459,42 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "DEE-ANN DURBIN, JONEL ALECCIA",
-            "title": "US closes investigation into E. coli outbreak linked to onions in McDonald's Quarter Pounders - The Associated Press",
-            "description": "The federal government has closed its investigation into an E. coli outbreak tied to McDonald’s Quarter Pounder hamburgers after determining there is no longer a safety risk. The outbreak began in late October and sickened at least 104 people in 14 states, in…",
-            "url": "https://apnews.com/article/mcdonalds-e-coli-outbreak-quarter-pounder-11cade2b0593c52c957fcf12c894c65f",
-            "urlToImage": "https://dims.apnews.com/dims4/default/9ed7ba8/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F77%2F21%2F3601d15636f8aae606dc3613395f%2F871d921bfe5e4dbd88b33859b73b73d7",
-            "publishedAt": "2024-12-03T23:07:00Z",
-            "content": "The U.S. government said Tuesday it has closed its investigation into an E. coli outbreak tied to McDonalds Quarter Pounder hamburgers after determining there is no longer a safety risk.\r\nThe outbrea… [+3400 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Benzinga"
+                "name": "NBCSports.com"
             },
-            "author": "Adam Eckert",
-            "title": "Amazon Stock Moves Higher As AWS Unveils New AI Advancements: What You Need To Know - Benzinga",
-            "description": "Amazon.com Inc (NASDAQ:AMZN) shares are trading higher Tuesday. Amazon Web Services made a slew of announcements at its re:Invent 2024 conference, including the general availability of Trainium2, new database capabilities, Bedrock updates and new foundation m…",
-            "url": "https://www.benzinga.com/24/12/42301222/amazon-stock-moves-higher-as-aws-unveils-new-ai-advancements-what-you-need-to-know",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/12/03/AWSCompany.png?width=1200&height=800&fit=crop",
-            "publishedAt": "2024-12-03T20:38:08Z",
-            "content": "Amazon.com IncAMZN shares are trading higher Tuesday. Amazon Web Services made a slew of announcements at its re:Invent 2024 conference, including the general availability of Trainium2, new database … [+3595 chars]"
+            "author": "Mike Florio",
+            "title": "Commanders hire Mark Clouse as new team president - NBC Sports",
+            "description": "The Commanders continue their overhaul.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-hire-mark-clouse-as-new-team-president",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/938b7f2/2147483647/strip/true/crop/3500x1969+0+183/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F55%2F62%2Ffc7e06994e7bba6454084f69e4b3%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2186895855",
+            "publishedAt": "2024-12-03T23:25:39Z",
+            "content": "The Commanders continue their overhaul.\r\nNew owner Josh Harris has hired Campbells Company CEO Mark Clouse to serve as the new team president, according to Nicki Jhabvala of the Washington Post.\r\nClo… [+1221 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "TribLIVE",
-            "title": "'Gut punch': Trump upsets local union leaders by opposing U.S. Steel-Nippon deal - TribLIVE",
+            "author": "Reuters",
+            "title": "Meta seeks nuclear power developers for reactors to start in early 2030s - Reuters",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmtUTjBXS0UxRldIWXZyVVJ5NExjdTUyREMtblRwZml4TF8tVk5WZndNcnBkY29oSjJ3R21jVFVBVk1TUDBpT1liTm9ULUJkTWlmWmN1ZTJYLTZNc2xVRVdjUC1uRkFDdW56b2RDN0pKd3M4N3JkaHhvMnEteEpwX19VUFBDenRBM3NDSHpZRkFKeDJIeGFyZDJMbkJ5SVFUbk9SRTlYYTBNSExWRWxGdnM2V3d1UkJDWHREaw?oc=5",
+            "url": "https://www.reuters.com/business/energy/meta-seeks-nuclear-power-developers-reactors-start-early-2030s-2024-12-03/",
             "urlToImage": null,
-            "publishedAt": "2024-12-03T19:28:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The Verge",
-            "title": "Stellantis and Samsung to get $7.54 billion federal loan for two EV battery factories - The Verge",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcjFwRU9rVmVYelN3R1dlVWZDVlBVVTllaW5XSjFZOTNoSnBHN29KSDBCZklKYjF5Q1cwZlJDbXFkeU13aEpRdUlpejBVc0ZXdTZfTE1ldEtwVFdybXhVMjQyUFFYU2Zhb1V5X0tNcDRyZlBNVnlKOXVUYlRxQWZxRm1mM2w4YzFaNmJ1RC1rZEY?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-03T18:42:45Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Salon",
-            "title": "Cucumbers and Costco eggs recalled amid growing food safety alarms - Salon",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS05TVmNseHk5bjdWSzdfRXpDeTdQZUNISTFZamdoNFhYRE1uZDBmVEoxaFdOOWxXUmR3aHFZUmstR1RobHJNcVdUdU1QSXp0dFd1TEUzWlFlSTdOeDBZSFlPVDk5QmtqRlBIbHlaQU5rQnRoNkVVV25UaV9DdGh4QWJ3c1BwT3NGWnNiY1JId1NkM0Q0ZmE2amZTcw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-03T17:10:00Z",
+            "publishedAt": "2024-12-03T23:20:40Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Paddle Your Own Kanoo"
+                "name": "Real Simple"
             },
-            "author": "Mateusz Maszczynski",
-            "title": "Delta Air Lines Reportedly Refused to Transport Paris Stowaway Suspect Back to the US On Tuesday - paddleyourownkanoo.com",
-            "description": "Delta Air Lines reportedly refused to transport the now infamous Paris stowaway suspect back to the United States on a Tuesday afternoon flight after she had already boarded the plane at Charles de Gaulle Airport. The 57-year-old Russian woman managed to snea…",
-            "url": "https://www.paddleyourownkanoo.com/2024/12/03/delta-air-lines-reportedly-refused-to-transport-paris-stowaway-suspect-back-to-the-us-on-tuesday/",
-            "urlToImage": "https://www.paddleyourownkanoo.com/wp-content/uploads/2021/10/shutterstock_506395699-scaled.jpg",
-            "publishedAt": "2024-12-03T16:47:03Z",
-            "content": "Delta Air Lines reportedly refused to transport the now infamous Paris stowaway suspect back to the United States on a Tuesday afternoon flight after she had already boarded the plane at Charles de G… [+2555 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Wire"
-            },
-            "author": "Amanda Harding",
-            "title": "New Jaguar Concept Car Revealed, Mocked For Being ‘Pink Batmobile’ - The Daily Wire",
-            "description": "The new Jaguar concept car has been revealed, and just like the woke advertising that preceded its debut, the electric vehicle is being mercilessly mocked online. The Type 00 two-door coupe has an extra long hood and a low roof with no rear window. Jaguar chi…",
-            "url": "https://www.dailywire.com/news/new-jaguar-concept-car-revealed-mocked-for-being-pink-batmobile",
-            "urlToImage": "https://dw-wp-production.imgix.net/2024/12/JAGUAR_TYPE00_SIDEPROFILE_16x9_021224.jpg?w=1200&h=800&ixlib=react-9.3.0",
-            "publishedAt": "2024-12-03T16:17:46Z",
-            "content": "The new Jaguar concept car has been revealed, and just like the woke advertising that preceded its debut, the electric vehicle is being mercilessly mocked online.\r\nThe Type 00 two-door coupe has an e… [+2444 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-12-03T14:40:05Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Britt Ross",
-            "title": "These Cyber Monday deals are still live at Amazon, Apple, Macy's, Walmart, Target, Wayfair and more - Yahoo Life",
-            "description": "Know your ABCs: Deals on Apple, Bissell, Cuisinart and beyond can be yours — right now!",
-            "url": "https://www.yahoo.com/lifestyle/these-cyber-monday-deals-are-still-live-at-amazon-apple-macys-walmart-target-wayfair-and-more-092930620.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/C9ZNqdzjExR2upa_cS5yzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/0e311750-b16b-11ef-ae7e-3715bbabc80b",
-            "publishedAt": "2024-12-03T11:43:12Z",
-            "content": "In the event that you spent the long holiday weekend relaxing rather than taking advantage of the Black Friday-Cyber Monday sales extravaganza, we've got some good news for you: Many of those spectac… [+25262 chars]"
+            "author": "https://www.facebook.com/realsimple/",
+            "title": "Cucumbers Recalled Nationwide From Costco, Walmart, Wegmans, and More Due to Salmonella Outbreak - Real Simple",
+            "description": "Cucumbers sold at Costco, Walmart, and Wegmans have been recalled because of a Salmonella outbreak. The products—sold by SunFed Produce LLC—have caused approximately 68 documented cases of Salmonella across 19 states, and the numbers continue to grow.",
+            "url": "https://www.realsimple.com/cucumbers-recalled-nationwide-salmonella-8754463",
+            "urlToImage": "https://www.realsimple.com/thmb/Gxle5Fgzpf8fsajKS9Qp02ul-fs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cucumber-recall-GettyImages-1483760058-d16648b2a9634a839fad3616913e332a.jpg",
+            "publishedAt": "2024-12-03T21:01:01Z",
+            "content": "If youve noticed an uptick in recalls lately, youre not imagining thingsand cucumbers are next on the list of produce recalled for their potential health risks. According to a statement released by t… [+1568 chars]"
         }
     ]
 }

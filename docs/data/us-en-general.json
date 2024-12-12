@@ -1,58 +1,383 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Melissa Repko",
-            "title": "Macy's ends delivery expense investigation, saying employee hid $151 million - CNBC",
-            "description": "The department store operator slightly raised its full-year forecast, while still projecting a sales decline.",
-            "url": "https://www.cnbc.com/2024/12/11/macys-m-earnings-q3-2024.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108063268-1731605780134-gettyimages-2184035718-US_RETAIL_SALES.jpeg?v=1731606023&w=1920&h=1080",
-            "publishedAt": "2024-12-11T12:00:49Z",
-            "content": "Macy's on Wednesday said it has wrapped up an investigation into an employee who intentionally hid about $151 million of delivery expenses on its accounting books for nearly three years and has revis… [+5123 chars]"
+            "author": "The New York Times",
+            "title": "Real Estate Brothers, Oren and Tal Alexander, Arrested and Charged With Sex Trafficking - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnZBR2s2dWJvdkNwdlhTcjR5ZUFybGhmX19TR0ZGZjZ4TlJmZE5yRGI2VWMzcDM3MmtYYU5zV1MtQU9zblRZREdPTjlNTHF3WVVDbkFxNzByM0tmaHlWcUI4VGlwSUN3aC04dmk5OUxaczFfNDRqMXNIM3NMczY5V1hxZ1FTOVEtTDczeEVHbXd5QTRQYmhYNF9GN29zX2ZJWjQ4?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T18:11:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "NASA believes it understands why Ingenuity crashed on Mars - Ars Technica",
+            "description": "Engineers are already beginning to plan for possible follow-on missions.",
+            "url": "https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/1_PIA26238_ingentuity-ripples_cropped.width-1320-1152x648-1733936851.jpg",
+            "publishedAt": "2024-12-11T17:44:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Washington Post",
+            "title": "Afghan blast kills key minister, shocking Taliban - The Washington Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWxDVlpwNFZXMkxzR0RUa3FWWWVmRXpzZzBsbmNSS0I1Z0RNb2R1R2NhTF9yRGVQUmNDXzRaT05oZWdHdHN0cVNtSk10S0xKdGlGZmhhR1gwa2k2cUxLdUpjQ1FsOFJySU11cXE2bFZFbWpISV9TMlNJM2tKRFBMTWlOZTk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T17:41:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Washington Post",
+            "title": "What to know about iOS 18.2′s new AI tools, from Genmoji to ChatGPT - The Washington Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVlIdEQ1eEl5TTNPSGJfSk9HU1JUZ2xVbnVObkVSTG9jWjBQNjUwUkg1QVgwQ19vLWEyLUl6QW9DeVhENVpKaE11MWE0TjBUb0RyVjdac2J1aGd3QTRKRXM0NlVWV2c3SV9VRWFkb0p3XzVfNjNaSk4xVXEwSzkwS1N0T0JfN3NFMk5pbXdVaHpsOHM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T17:32:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Eric Todisco",
+            "title": "‘Golden Bachelor’ Gerry Turner has cancer, says diagnosis had ‘huge bearing’ on Theresa Nist split - New York Post ",
+            "description": "Gerry Turner revealed that he has a form of blood cancer called Waldenström’s macroglobulinemia.",
+            "url": "https://nypost.com/2024/12/11/entertainment/golden-bachelor-gerry-turner-reveals-he-has-cancer/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/newspress-collage-fqi87agm1-1733936876626.jpg?quality=75&strip=all&1733918914&w=1024",
+            "publishedAt": "2024-12-11T17:14:00Z",
+            "content": "“The Golden Bachelor” star Gerry Turner has cancer. \r\nThe 72-year-old shared the health news in an interview with People magazine published Wednesday.\r\nTurner received his diagnosis weeks before he s… [+3729 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Associated Press",
+            "title": "Albertsons gives up on Kroger merger and sues the grocery chain for failing to secure deal - The Associated Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjQ5Zm80SzUxVUtiZ3BpLUdmcFdkZ0dIUTdDNGxsTUo5TmFGeVhKWjluOHc5dl9FSDFaQWJVc2J0MFVwdzZSUXB4TkpYVVhpX25hN3l3cWZ5Ul9kNVBGSlFjMHo1bFZibzNEbjJoRjRGSU1MZm82Z0h2TjR4NTV6aWFnSQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T17:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro, Dominic Patten",
+            "title": "Sundance 2025: JLo, Sly Stone, Putin, Ayo Edebiri, André Holland, & Ex-NZ PM Jacinda Ardern Films Among Park City Festival Offerings - Deadline",
+            "description": "Sundance 2025's just released feature film & episodic programs reveal a changing festival full of stars, politics & possibly the next big thing",
+            "url": "http://deadline.com/2024/12/sundance-film-festival-lineup-2025-movies-1236200107/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/Sundance-2025-.jpg?w=1024",
+            "publishedAt": "2024-12-11T17:00:00Z",
+            "content": "The Sundance Film Festival is considering a big move for 2027, but the 2025 feature film and episodic programs find the Robert Redford founded gathering very much in its traditional wheelhouse with a… [+51246 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hollywood Reporter",
+            "title": "Super Bowl Halftime Headache? How Jay-Z in the Headlines Could Impact Roc Nation’s NFL Deal - Hollywood Reporter",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2RzaHZnaTZGbXRWWlNFYVFybXdMMEtUQ01pSE5lbTdqU2pUSm05MGFUUUxJUG16RUNsTjlhSDZ0Zm4yXzBkOHltSHNpTjh1dk1peUw5MTZJeUJUamg2UEVMa0IxcHhXRlJwX01JcFd4SnNjRVY4cWkyXzVtNkVSeWJzaXg4eDFhbDZ0T1IyVzhHb3dlRUVOT0VONTNKd0lFb0ZhTEtPUHZjUQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T16:46:11Z",
+            "content": null
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Ben Morse",
-            "title": "‘You hurt me’: Former Jets pass rusher Mark Gastineau confronts Brett Favre about controversial NFL sack record grudge - CNN",
-            "description": "Former New York Jets pass rusher Mark Gastineau says Brett Favre “hurt” him after he confronted the Pro Football Hall of Fame quarterback about the controversial NFL sack record grudge involving the two of them.",
-            "url": "https://www.cnn.com/2024/12/11/sport/mark-gastineau-brett-favre-nfl-sack-record-spt/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1494269.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-12-11T11:43:00Z",
-            "content": "Former New York Jets pass rusher Mark Gastineau says Brett Favre hurt him after he confronted the Pro Football Hall of Fame quarterback about the controversial NFL sack record grudge involving the tw… [+3973 chars]"
+            "author": "Ashley Strickland",
+            "title": "The surprising reason ‘Conan the Bacterium’ can withstand radiation that could kill a human - CNN",
+            "description": "A type of bacteria dubbed “Conan the Bacterium” can withstand radiation thousands of times stronger than what can kill a human. Now, scientists have figured out why.",
+            "url": "https://www.cnn.com/2024/12/11/science/conan-the-bacterium-antioxidant/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/conan-800x600.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-12-11T16:43:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA type of bacteria called Deinococcus radiodurans, nic… [+4656 chars]"
         },
         {
             "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
+            "author": "Bloomberg",
+            "title": "Elon Musk’s Net Worth Tops $400 Billion, a Historic First - Bloomberg",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnI5V1ltclotN01SanNLakRRXzMxZER5NTQwZjM5WTRrM1NVREU1VmZVazFNbS1yRmJHeUZ4TTUzbHphR2pZMXN1SFRpMlAydXJyZ212MlEyczNGaUlXeFM2dkJ5anllQ0JtM09GM1IyUTVqYVFFVWpzNk1sSVlIS0l3OVRDU0VWcUhRZ201a2t0a2w4TTJGclFGaVdSU2pjdG4xazFUcw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T16:41:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Maya Gebeily, Timour Azhari",
+            "title": "Syria's Golani vows to punish those responsible for torture under Assad - Reuters",
+            "description": "The main commander of the fighters who toppled Bashar al-Assad said on Wednesday that anyone involved in the torture or killing of detainees during the ousted Syrian president's rule would be hunted down, and pardons were out of the question.",
+            "url": "https://www.reuters.com/world/middle-east/refugees-return-syria-caretaker-prime-minister-appointed-2024-12-11/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/56KVSFWYOFLQBCUUC5DO6D6YYA.jpg?auth=e45d13170ac6c00c32bcd4a61cb31f22fb662455001fecafee71e44ad354b466&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-12-11T16:31:04Z",
+            "content": "DAMASCUS, Dec 11 (Reuters) - The main commander of the fighters who toppled Bashar al-Assad said on Wednesday that anyone involved in the torture or killing of detainees during the ousted Syrian pres… [+5386 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Saudi Arabia named FIFA World Cup 2034 host; Morocco to co-stage 2030 - Al Jazeera English",
+            "description": "FIFA Congress confirms the Middle East nation’s bid for 2034 – with Morocco, Spain and Portugal to co-host 2030 edition.",
+            "url": "https://www.aljazeera.com/sports/2024/12/11/saudi-arabia-named-fifa-world-cup-2034-host-morocco-to-co-stage-2030",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AFP__20241211__36Q348K__v1__HighRes__FblSaudiFifaWc2034-1733933719.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-12-11T15:54:52Z",
+            "content": "The world footballing body, FIFA, has officially named Saudi Arabia as the host nation of the FIFA World Cup 2034.\r\nThe Extraordinary FIFA Congress meeting, held on Wednesday, also confirmed Morocco,… [+1859 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Yahoo Finance",
+            "title": "Is Google’s (GOOG) New Quantum Chip A Bitcoin and NVDA Killer? - Yahoo Finance",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWFiTldYTzJkcDgzRzkwWFRINXJDRE1sbVpodzBodXVSWHBRZ0UtUjI3RXBzMnVRek1ITkthOHo4SkJpNzJOdlRFbldwOG5DR25jR0FEVFZBU3dMQUUwWGVwQ3pOdFNXQXg0anFIVTdpRExXelllUjgwb04zUFNZN1lzVFI?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T15:47:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Verge",
+            "title": "Google is testing Gemini AI agents that help you in video games - The Verge",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajVWQXVYZmdwLVZxSTh1eE1MMFNBQWVOVEJvbEhCaUdUYjVjVUVnRk9LTUdGUkdmbFg1eDZhaGFFTWdpMHZLcE5VMmNtQnB6Nm4xbDZ2alVQdHNzRGlja1Iwa1pBYUlXUk9OVTV2dU9hRC1KT0x3VEtCQnBjRExNR3JRUHhQOG5rMjNvcmdPRG1VQkwyMTRSaTNGdFJVUQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T15:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "California child suspected of getting bird flu after drinking raw milk - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/Health/california-child-suspected-bird-flu-drinking-raw-milk/story?id\\\\u003d116675407",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T15:26:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "US consumer prices post largest gain in seven months; cost of rent subsides - Reuters",
+            "description": "U.S. consumer prices increased in November by the most in seven months, but the Federal Reserve was still expected to deliver a third consecutive interest rate cut next week to support a labor market that has been cooling.",
+            "url": "https://www.reuters.com/markets/us/us-consumer-prices-post-largest-gain-seven-months-november-2024-12-11/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/FW3VB6V6UBORLADFA55YIH72NI.jpg?auth=1f3b5d5d89d70052d3d141f094be12a1c0124cf0eeda6ed643f2fedcdf24f502&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-12-11T15:21:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Kyle Cheney, Megan Messerly",
+            "title": "Trump outran the law. His allies haven’t. - POLITICO",
+            "description": "Dozens of Trump allies face criminal charges in lingering cases over efforts to overturn the 2020 election.",
+            "url": "https://www.politico.com/news/2024/12/11/trump-allies-state-legal-challenges-000246",
+            "urlToImage": "https://static.politico.com/6c/38/ff99fc5d4abcb6ccc04b98707389/trump-hush-money-64055.jpg",
+            "publishedAt": "2024-12-11T15:00:00Z",
+            "content": "The two most broad and perilous cases, in Arizona and Georgia, allege Trump helped direct a sweeping plot to overturn his loss to Joe Biden. Dozens of alleged co-conspirators face wide-ranging felony… [+9485 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Michael David Smith",
+            "title": "NFL will play its first regular-season game in Berlin in 2025 - NBC Sports",
+            "description": "Berlin is the latest city confirmed as a host of the NFL's series of international games.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-play-its-first-regular-season-game-in-berlin-in-2025",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b14534a/2147483647/strip/true/crop/4465x2512+0+233/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F53%2F7af9c7df4371a52332ede7dd9da5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2187729315",
+            "publishedAt": "2024-12-11T14:52:09Z",
+            "content": "Berlin is the latest city confirmed as a host of the NFLs series of international games.\r\nThe NFL announced today that a regular-season game in 2025 will be played at Berlin Olympic Stadium. The leag… [+669 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times",
+            "title": "Dick Van Dyke and Cher Flee Their Malibu Homes as Franklin Fire Burns - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT25YMVNaWjBNX1RVZGEzalNUTDNLODVHZEFhVzhtU05LRzBwVm9jOW1DV21BaWRMQnRVbjRIanVsOUdsZ09BWHZuSWdsNzlaUGhFNi1vdTEwcm1FdlVqcm1ackpwbjlsd3UxamdzRjY3MUFrZkZ1RU5IbDVnM21nQXkySWQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T14:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Guy",
+            "title": "Stuck squirrel wins 2024 Comedy Wildlife Photography award - CNN",
+            "description": "An image of a squirrel stuck in a tree has been named the winner of this year’s Nikon Comedy Wildlife Photography Awards.",
+            "url": "https://www.cnn.com/2024/12/11/travel/comedy-wildlife-photography-awards-2024-scli-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/1-overall-winner-and-mammal-category-winner-milko-marchetti-stuck-squirrel.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-12-11T14:16:00Z",
+            "content": "An image of a squirrel stuck in a tree has been named the overall winner of this years Nikon Comedy Wildlife Photography Awards, with a frog in a bubble and a bream chasing a bald eagle among the cat… [+1859 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Who is Kimberly Guilfoyle, Trump's pick for US ambassador to Greece? - BBC.com",
+            "description": "A close connection of Trump, the one-time Fox News host was once married to Democrat Gavin Newsom.",
+            "url": "https://www.bbc.com/news/articles/cwypgq2gp0po",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd2c/live/f3180fb0-b7c7-11ef-a9d0-3bb2d253170d.jpg",
+            "publishedAt": "2024-12-11T13:52:33Z",
+            "content": "US President-elect Donald Trump's appointments for his second term have followed a handful of themes. Many of them are long-time loyalists, or one-time Fox News hosts - or they are part of, or connec… [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T13:45:32Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Guardian US",
+            "title": "Book climbs bestseller list after title was apparently cited on bullet casings at scene of CEO’s death - The Guardian US",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlMtU1NoeGVfLXlmQzFZM04yUzVHa3BJTUoyOXRzUF9scFozXzdQaWZuMklxZHo4RVJjR1lMc3A3NDJXZmVZb0VacDlDcU5md0ppQndrUWdDdk5ZX1lNTkdwWDE0ZHVxTXVLeklGS3hzZDdBaUkxTXlLV0ZIRmJzYWNkMFQ3WnlwWUNDSGJTejc3UUM1UFlIVGZpUdIBmwFBVV95cUxOQ3NJTE1fWkIwQzg0Wl9BZU1VU2dzem9OU2lLcDI5SmZZakhPbUtoX2lVNnFiMDdfUmFlMEdhRkZTWTE2ZUV5dDkxdWM0QXc0NmF4RmZrbXVZSjZhOHRrNnBzeHBFbWZRTjc5X3VHRzFYNGgzV255VnZ6d3A1M3doZl9wQy1ja2pSQng0eFFscmdwM0xsTFBpRk9SRQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T13:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC.com",
+            "title": "Syria latest: Syrian rebel fighters set fire to tomb of Bashar al-Assad's father - BBC.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWQjNRTUQxZURKR0kzV250YTBMeXN3cXBwVWZZRlA4Nk5xV2lUXzctRjJPbzExVl9vakRrMzRTOE8tSzFRR0dYdVhDcy1nWWNlZ0JfNg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T12:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Kim Bellware, Niha Masih",
+            "title": "Judge rejects sale of Infowars to satirical news site the Onion - The Washington Post",
+            "description": "Alex Jones was forced to sell the platform to help pay the roughly $1.5 billion in damages he owes families of the victims of the Sandy Hook Elementary School shooting, which he called a “hoax.”",
+            "url": "https://www.washingtonpost.com/style/media/2024/12/11/infowars-onion-alex-jones-bankruptcy-ruling/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76DAX6H5PYI6RIL6CYVXCLUPYI.jpg&w=1440",
+            "publishedAt": "2024-12-11T12:40:23Z",
+            "content": "A federal bankruptcy judge has rejected the sale of Alex Joness Infowars platform to satirical news website the Onion, ruling Tuesday that the November court-ordered auction of Joness website lacked … [+149 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Associated Press",
+            "title": "Israeli strikes on Gaza kill at least 29, Palestinian medics say - The Associated Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdTVMaFpyY051R0JfVFFQVWdpR25nYzRMX0pQak9GdUVlVXZYdTh0c21sRHFIaHkxWUNNS256U042ek9wSGp3UTFCTmpGWFZHVk56WXBVQWhuZnY3YzFzeVhTVVpiYzJ3OTgyN2czMjJrYmhJc0tJWWlpZlN5VFJtcUh3MVl4Mkx3MjNJRDRQakZVc2xLZXBkTzFNOHdyVkNxV0lnNnAtMC0?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T12:18:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wccftech"
+            },
+            "author": null,
+            "title": "Future Apple Watch Models Will Reportedly Ditch Intel Modems, And Transition To MediaTek’s Solutions, Which Will Make These Devices 5G-Ready - Wccftech",
+            "description": "Intel models are currently being used in current Apple Watch models, but future releases might start featuring solutions from MediaTek",
+            "url": "https://wccftech.com/future-apple-watch-models-to-switch-to-mediatek-modems-and-ditch-intel/",
+            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/12/Apple-Watch-Ultra-teardown.jpg",
+            "publishedAt": "2024-12-11T11:58:00Z",
+            "content": "Current-generation Apple Watch models are probably the only devices whose internals comprise of Intels modems. However, it appears that this alliance will come to an end, with the California-based gi… [+2313 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
             "author": "ABC News",
             "title": "UnitedHealthcare CEO killing latest: Suspect Luigi Mangione to fight extradition to New York - ABC News",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzJiai12MDA2TkJUU2Q3YkZ1SUMxS282dXFwdVdFeGFCbm15bDM3R0pzUnlieG51MkZEUEd0anJPdTJDQy03V0ZadEhLMXpqSjF5ZVpybXhoQ2I3eE11M1Z2WGdNcml1X3dwWFNWUFBwUmpTWFJDNmxNUkVsQkdhUmlpdHk1NG1PTDF1Y1V1QWRDbnBvNHRCNjhRaEpQMUdHOENsVkx0TzREaElO0gGyAUFVX3lxTE9oNlhOc2xvMWFaOHQ1U3pIaUlEdWtiVVR6bm1CQWVJd2ttbElRRU9zeXhTb1IySVY3SjRNSDRSekxIVXFNR0U2czZYYktoVHFiaTA3ZnR5SjdmM09PVU40R1NwLTZYclZxV19XQ3cwVXRaeG5KOWdURkhVa2NWS1lHUXRpNk8tMDBDS18xWU5SWG5aUmZUZGcxRXdjMldfanNfUGN4d0stUXM2TnRPaVZhNlE?oc=5",
+            "url": "https://abcnews.go.com/US/unitedhealthcare-ceo-killing-luigi-mangiones-fights-extradition/story?id\\\\u003d116670461",
             "urlToImage": null,
             "publishedAt": "2024-12-11T11:21:32Z",
             "content": null
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "The Times of Israel",
-            "title": "Khamenei says US, Israel were behind fall of Syrian regime, also alludes to Turkey - The Times of Israel",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnA3aGZVeWJXZDlrYmZLVTRRZFN0T0RhTV95YUVSNGNiT19iMktLRUdiWExkT2Nha3U5VWY5aVE5RHp5V1pxQkxVRTZvMmgteFJ0VUtZZG5nZmZ2SmNCLUdXT0hzTFN6ZUNJZkpRUTFibUxSdG1lM2pGNW5VWUd3TkQ2eHd2bFdSdktXSXkzVmY5SUhjcHo1NG45cFY0bjVNMU5ZS09PZW1wdGZWMGVUWNIBtgFBVV95cUxObUJsSlBiMFRFVWhMQWk1R3BzclVJQ3FPdHNYUEJCdVlSb2xvOE5McUVscEFkUWJtNFJ4VXZCX2xwT1lRSTFOWWxNUU14aldKLWwzOHhQZXZDUXFQQXhtc2oxLUpUMWFNSlEtZzc3WjhXYjhpdUlldDNpMlhMRHdablB5U3JjY1JfSFRsdmd5TXFkTjQ3YmRmblB4YTRNdG54QjY5VWhYQ3BKV1o1RElxVmE4SWJNZw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-11T11:21:11Z",
-            "content": null
+            "author": "KIM TONG-HYUNG, HYUNG-JIN KIM",
+            "title": "Ex-defense chief in South Korea tried to kill himself after being arrested over martial law - The Associated Press",
+            "description": "South Korea’s previous defense minister was stopped from attempting suicide while in detention over last week’s martial law declaration. Officials say former Defense Minister Kim Yong Hyun tried to kill himself at a detention center in Seoul. Correctional off…",
+            "url": "https://apnews.com/article/south-korea-martial-law-3210438b8663fe609bfe4cb8b748a114",
+            "urlToImage": "https://dims.apnews.com/dims4/default/01ea0c2/2147483647/strip/true/crop/5000x2813+0+261/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F50%2Fdf%2Fef6187d6f32b060927680cb0c0b6%2Fe5bb4552d5de44fdbd898213c27bafea",
+            "publishedAt": "2024-12-11T11:14:00Z",
+            "content": "SEOUL, South Korea (AP) South Koreas previous defense minister was stopped from attempting suicide while in detention over last weeks martial law declaration, officials said Wednesday, as President Y… [+5964 chars]"
         },
         {
             "source": {
@@ -69,159 +394,16 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The A.V. Club",
-            "title": "Dream Productions is a meta, slightly muddled Inside Out spin-off - The A.V. Club",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzallxbHRMY2gxMWhlUGxKWHVNbTdmNXhFeDcxWXM2dGNvSDZGNkZDVTA1eWg2VWhGZUdxQlZDUUtpT2RuM2FxR05OSEY1RGNuWGR4WGdqQTZzdV9sZ0duaDNrSE03cFFaN09udEwtcw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-11T09:01:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "Xi Readies Bargaining Chips for US Trade War After Biden Curbs - Bloomberg",
-            "description": "China got a head start on a looming trade war with the US by showcasing a new range of tools it’s prepared to use if Donald Trump makes good on his threat to punish the world’s second-biggest economy with tariffs.",
-            "url": "https://www.bloomberg.com/news/articles/2024-12-11/xi-readies-bargaining-chips-for-us-trade-war-after-biden-curbs",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU.hJLFHILpU/v0/1200x800.jpg",
-            "publishedAt": "2024-12-11T08:47:53Z",
-            "content": "China got a head start on a looming trade war with the US by showcasing a new range of tools its prepared to use if Donald Trump makes good on his threat to punish the worlds second-biggest economy w… [+456 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Jaclyn Peiser",
-            "title": "Kroger-Albertsons merger blocked by federal judge - The Washington Post",
-            "description": "Kroger-Albertsons merger blocked by federal judge",
-            "url": "https://www.washingtonpost.com/business/2024/12/10/kroger-albertsons-merger-blocked/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CKC5ZXGQIMI6TJRABKIWK3L5WY_size-normalized.jpg&w=1440",
-            "publishedAt": "2024-12-11T07:18:45Z",
-            "content": "A federal judgein Oregon blocked Krogers$24.6 billion acquisition of grocery rival Albertsons on Tuesday, marking the possible end ofwhat would have been the largest supermarket merger in U.S. histor… [+9659 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The New York Times",
-            "title": "North Korea Breaks Silence on South Korea’s Martial Law Declaration - The New York Times",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUdmOXNlVnp5MFA2ejYyWnRVTTJJTkhXR3hjcndablFibTBRNU5Ib3kxUGxaeE9wUEloUUczSW9pVzFGenpPek1fRnhPaTlCSkl1Z3UtMnZjY2NQdnVuS1NTT19pNFBfYnp0dm5qLXlfTV9JS2FWcms0SmtlTEs5OG1rTDJDWFdIN2VR?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-11T07:02:00Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Daily Beast"
+                "name": "World Health Organization"
             },
-            "author": "Yasmeen Hamadeh, Matt Young",
-            "title": "Trump Sends Don Jr.’s Fiancée Kimberly Guilfoyle Abroad After Split Rumors - The Daily Beast",
-            "description": "Kimberly Guilfoyle has a new job opportunity—just hours after photos surfaced of her fiancé, Donald Trump Jr., hand-in-hand with another woman.",
-            "url": "https://www.thedailybeast.com/trump-sends-don-jrs-fiancee-kimberly-guilfoyle-abroad-after-split-rumors/",
-            "urlToImage": "https://www.thedailybeast.com/resizer/v2/2PRYSJHD7ZDK7KUXVBXJK7CT5Y.jpg?smart=true&auth=f335d2f128e0293a27241bf81083ac8cc48b415d24aef77062870feb075daac0&width=1200&height=630",
-            "publishedAt": "2024-12-11T06:32:00Z",
-            "content": "Donald Trump has appointed former Fox News host Kimberly Guilfoyle as his ambassador to Greecejust hours after pictures published by the Daily Mail showed her fiancé, Donald Trump Jr., hand-in-hand w… [+2905 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Syria: Israel confirms attack on naval fleet in Latakia - BBC.com",
-            "description": "The BBC has verified videos showing blasts in the Syrian port of Latakia, as Israel conducts strikes across Syria.",
-            "url": "https://www.bbc.com/news/articles/cqx808q7lrno",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7366/live/8ec6f250-b70f-11ef-aff0-072ce821b6ab.jpg",
-            "publishedAt": "2024-12-11T06:21:35Z",
-            "content": "Israel has confirmed it carried out attacks on Syria's naval fleet, as part of its efforts to neutralise military assets in the country after the fall of the Assad regime. \r\nIn a statement, the Israe… [+5036 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The New York Times",
-            "title": "A Ghastly Search for Loved Ones Who Disappeared in Syria - The New York Times",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa28ydHlTSzlQMm1WdlU2UHdOeW5NYjkwTThpV2FfaU16a283dkctTnlHdTJzZTBTVFlFSFFNSW9ycG1yY2dLLXZRMWIwQTNQaG5GLTNoelN5V2g3c3gydFFQdXVGREhHdWVLQmRZT2VCTDZlbzQ1QzgzLWM5Z0Y1anVVWQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-11T06:20:22Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Hadas Gold",
-            "title": "Judge blocks The Onion’s purchase of Alex Jones’ Infowars - CNN",
-            "description": "A bankruptcy judge has blocked The Onion’s winning bid for Alex Jones’ Infowars conspiracy platform, citing concerns with the auction process which he says left money on the table.",
-            "url": "https://www.cnn.com/2024/12/11/media/infowars-onion-lawsuit-block-hnk-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24179548034986.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-12-11T05:58:00Z",
-            "content": "A bankruptcy judge has blocked The Onions winning bid for Alex Jones Infowars conspiracy platform, citing concerns with the auction process which he says left money on the table.\r\nIm going to not app… [+4749 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The Wall Street Journal",
-            "title": "Inside Assad’s Ransacked Palace: Anxiety Pills, Graffiti and Shredded Posters - The Wall Street Journal",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcm5TSlY0WDV1N2dBelJtT2xsMmZrYzMxMXM0QlFIXzI5dGhnTHFFN3pFNzJTUDRlWDBheE1VRmttYlRpY0ZyamE0YnI3c1QxNWZmRk5VZlpyV0hvVjdqMTBoSlpyNnlOSkM5SU80VzdkYTAwbFI1Wl9GVEZRZWFsbTAtWWZRZHgzYVV3WQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-11T05:29:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Tatiana Siegel",
-            "title": "J.J. Abrams Sets New TV and Film Production Pact With Warner Bros., Signaling the End of the Mega-Deal Era - Variety",
-            "description": "J.J. Abrams has set a new film and TV production pact with Warner Bros. on terms that signal the end of the mega-deal era for brand-name producers.",
-            "url": "https://variety.com/2024/tv/news/j-j-abrams-new-film-tv-production-warner-bros-1236245474/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2024/10/jj-BUC_0728.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2024-12-11T05:10:00Z",
-            "content": "Back in June 2019, J.J. Abrams struck a massive overall deal that would keep him in the fold of Warner Bros., his home studio since 2006. \r\nThe five-year pact, pegged at $500 million at the time, had… [+5557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Armando Tinoco",
-            "title": "‘The Voice’ Season 26 Crowns Winner On NBC - Deadline",
-            "description": "SPOILER ALERT: This article contains details of the winner of The Voice Season 25.",
-            "url": "http://deadline.com/2024/12/the-voice-season-26-winner-nbc-1236199946/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/IMG_1044.jpeg?w=1024",
-            "publishedAt": "2024-12-11T03:59:00Z",
-            "content": "SPOILER ALERT: This article contains details of the winner of The Voice Season 26.\r\nNBC‘s The Voice wraps up another season by crowning one more winner who made it through the blind auditions, the ba… [+2544 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Sabrina Picou",
-            "title": "Jay-Z's ex-protégé Foxy Brown posts cryptic messages after his rape lawsuit - Page Six",
-            "description": "Brown posted the words “WOW” and “WAIT” on her Instagram Story after the Roc Nation founder was named in a civil lawsuit.",
-            "url": "https://pagesix.com/2024/12/10/celebrity-news/jay-zs-ex-protege-foxy-brown-posts-cryptic-messages-after-his-rape-lawsuit/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/12/95147472.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-12-11T03:43:00Z",
-            "content": "Foxy Brown shared a series of cryptic messages one day after Jay-Z was accused of raping a 13-year-old girl with Sean “Diddy” Combs in 2000.\r\nThe “Get Me Home” rapper posted the words “WOW” and “WAIT… [+3016 chars]"
+            "author": "World Health Organization: WHO",
+            "title": "Reinvigorated global efforts needed to curb rising malaria threat - World Health Organization",
+            "description": "<p>New data from the World Health Organization (WHO) reveal that an estimated 2.2 billion cases of malaria and 12.7 million deaths have been averted since 2000, but the disease remains a serious global health threat, particularly in the WHO African Region.</p…",
+            "url": "https://www.who.int/news/item/11-12-2024-reinvigorated-global-efforts-needed-to-curb-rising-malaria-threat",
+            "urlToImage": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/malaria/malaria-testing-at-health-clinic-in-kenya.tmb-1200v.jpg?sfvrsn=80067702_6",
+            "publishedAt": "2024-12-11T07:50:11Z",
+            "content": "New data from the World Health Organization (WHO) reveal that an estimated 2.2 billion cases of malaria and 12.7 million deaths have been averted since 2000, but the disease remains a serious global … [+4828 chars]"
         },
         {
             "source": {
@@ -232,165 +414,35 @@
             "title": "NJ state senator calls for 'limited state of emergency' over mysterious drone sightings - WPVI-TV",
             "description": "The drones are larger than the type typically used by hobbyists, officials and eyewitnesses have said.",
             "url": "https://6abc.com/post/new-jersey-state-senator-calls-limited-emergency-drone-sightings/15638416/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/15638794_121024-wpvi-drone-concerns-sharifa-11pm-CC-vid.jpg?w=1600",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/15639972_121124-wpvi-drone-concerns-430a-pkg-video--vid.jpg?w=1600",
             "publishedAt": "2024-12-11T02:42:30Z",
             "content": "TRENTON, N.J. -- A New Jersey state senator is calling for a limited state of emergency over the mysterious drones that have been seen flying over the region in recent weeks.\r\n\"The State of New Jerse… [+2806 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Semafor.com"
+                "name": "KOIN.com"
             },
-            "author": "David Weigel, Kadia Goba",
-            "title": "Democrats, once vocal, all but silent on New York subway verdict - Semafor",
-            "description": "Congressional Democrats avoid talking about New York’s high-profile verdict.",
-            "url": "https://www.semafor.com/article/12/10/2024/democrats-once-vocal-all-but-silent-on-new-york-subway-verdict",
-            "urlToImage": "https://img.semafor.com/c73586b05619243dc9752387656c3f6677a1dd37-3000x2000.jpg?rect=0,213,3000,1575&w=1200&h=630&q=75&auto=format",
-            "publishedAt": "2024-12-11T02:42:00Z",
-            "content": "Democrats who represent New York City in the House and Senate had muted, mixed reactions to Mondays acquittal of Daniel Penny a break from progressive and racial justice activists back home, and a si… [+2114 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Fox News",
-            "title": "Malibu wildfire surrounds Dick Van Dyke's home; 98-year-old star 'safely evacuated' - Fox News",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHdseVp2OFN5VDhxcWUtYzVSOXFvN1hUd3lpSVZXOU15MENkNWljbmczWXhXX0JYNmxHa2hlaUVBSHVXNjdPSUh0Y2I5OHNWMmsxdERCQnZudHhVUTJkZEE2TWFUZ1hQTml3LVQ5ZElDaWIybU1NYTlHaXRuUGEzbFNoYnlNOE00TURvWGIxa2VWRTE5QTc3ZV9ES0xKVjM2MWEtcnpsdlplMVhJRnF0dXN3YXVjazRu0gG-AUFVX3lxTE44SUpFSEtSOExic1ZJOFJ5dWV2T2stS3lfUlpRNExvY0djVmJBcC12NTc3clBHOVpqYTI1UTExMHVRcmg4UnhvV0EzTEZxTDVBaFd3aURjVzlaTVpUdDRVdUhpWm5JZjkyanV3d3VUMUtxYzBYMURRQmE5V0I3N2RjUTdadlE5QkhtcC1lSjFwYVMzNzZvSWFPdHV3OVB0VDhTNF9md1JKMmVEbm5YeDdYbGVNT1VDdDNibDRLd1E?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-11T01:35:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "BBC.com",
-            "title": "Syria's new transitional PM calls for stability and calm - BBC.com",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sdjZaTkFhWG1Wc2VJRi1mckNNTDdkTjR1d2d6OXBtWWhpYUFoOUl4TGZUSm45YUNvQVc2Vi03SFNSLTVVN3JWUlAtRUdBM3NnSldWa3N0WHZLZ9IBX0FVX3lxTE94UVZfcjZweUdVQW56TjczUmFxOXFxRnlMLXJmTC1xTUkxXzc5VUpwblFkWU05UmVkd3hkVEdYMjVNVkFCVUZnRUF6WnFkeU96Q2ZSQ2xBZjNnekxRejNj?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-11T00:33:45Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Lena H. Sun",
-            "title": "Bird flu in California child linked to virus in dairy cows, CDC says - The Washington Post",
-            "description": "There is no evidence the youngster was exposed to livestock or any infected animals, deepening the mystery about the spread of H5N1 bird flu.",
-            "url": "https://www.washingtonpost.com/health/2024/12/10/bird-flu-california-child/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SE5LQCOLXOZQCQ4FYPNYVAMB4E.JPG&w=1440",
-            "publishedAt": "2024-12-10T23:30:16Z",
-            "content": "Federal disease trackers reported Tuesday that the first child diagnosed with bird flu in an ongoing U.S. outbreak was infected with a virus strain moving rapidly through dairy cattle, even though th… [+361 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "ABC News",
-            "title": "MAGA pressure on senators over Trump Cabinet picks shows early signs of paying off - ABC News",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDRPQkNMMGw0V2k3cV9KUTBTa1BJWVBxTHJNOElmR2lWQnMyWjhLSWR3azZNaGs2ejI3WWEzcUlPZEl5Q0hCNFM2elR4UjBEbGFMZktzSmItSkU4SGs2X3pDanltZ2hNUEhhbDRqc0dWTzZSX0VCa2dnRzZ1RlZPSVpWd0s1cU9rZ1ZuQjNPMnFYejYwZ2hxSEZFWnJOcVNsOGxlRGJQZGvSAa4BQVVfeXFMTTlINE1EYkIzN0pHM1kxUVdqblh5RENFa3lteEJ0NEd5OXZqR2UwUGhnNm1Fd2RTTDdNTktERk1NTWc0bUdwR1Z0Q0p3N3hqU2xjQ2FLdzNzNUJQVkNmVy1ZMWtScXRxbHVLMDFyM1E4MkxzcnVkR05xSktLN1NwdmxZcS1waUxYWGFKeGtLVkJuOG1HWTJld00zblk1NUwtY3g5MTBEcEFVRHBlSUpR?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T23:24:05Z",
-            "content": null
+            "author": "Matt Rawlings",
+            "title": "Oregon Ducks ‘screwed’ by CFP committee, Fox Sports analyst says - KOIN.com",
+            "description": "The unbeaten Oregon football squad earned the top spot in the final College Football Playoff rankings after winning the Big Ten Championship on Saturday. However, multiple college football experts believe the Ducks did not get properly rewarded for their hist…",
+            "url": "https://www.koin.com/news/oregon/oregon-ducks-screwed-by-cfp-committee-fox-sports-analyst-says/",
+            "urlToImage": "https://www.koin.com/wp-content/uploads/sites/10/2024/12/GettyImages-2188795530.jpg?w=1280",
+            "publishedAt": "2024-12-11T02:39:59Z",
+            "content": "PORTLAND, Ore. (KOIN) — The unbeaten Oregon football squad earned the top spot in the final College Football Playoff rankings after winning the Big Ten Championship on Saturday. However, multiple col… [+2368 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NASASpaceflight.com"
+                "name": "Live Science"
             },
-            "author": "Ryan Weber",
-            "title": "Ship 33 prepares for engine testing, Booster 14 Completes Static Fire - NASASpaceflight.com",
-            "description": "Three weeks after Flight 6, SpaceX has static fired Booster 14 and is preparing to…",
-            "url": "https://www.nasaspaceflight.com/2024/12/engine-testing-booster-14-static-fire/",
-            "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2024/12/Booster-14-Static-Fire-525x350.jpg",
-            "publishedAt": "2024-12-10T23:12:39Z",
-            "content": "16Three weeks after Flight 6, SpaceX has static fired Booster 14 and is preparing to roll Ship 33 to Masseys to complete its own engine testing. Once both vehicles are tested, SpaceX will begin the f… [+7338 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Jeff Passan",
-            "title": "Sources: Yanks get Fried for $218M, record for LHP - ESPN",
-            "description": "Max Fried and the Yankees agreed to an eight-year, $218 million contract, sources told ESPN on Tuesday, the largest guarantee for a left-handed pitcher.",
-            "url": "https://www.espn.com/mlb/story/_/id/42899687/max-fried-new-york-yankees-agree-8-year-218-million-contract",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1210%2Fr1426446_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-12-10T22:50:00Z",
-            "content": "Two-time All-Star Max Fried and the New York Yankees agreed to an eight-year, $218 million contract, sources told ESPN on Tuesday, the largest guarantee for a left-handed pitcher.\r\nThe deal, which is… [+3206 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Umn.edu"
-            },
-            "author": null,
-            "title": "Initial samples in DR Congo unexplained outbreak positive for malaria - University of Minnesota Twin Cities",
-            "description": null,
-            "url": "https://www.cidrap.umn.edu/malaria/initial-samples-dr-congo-unexplained-outbreak-positive-malaria",
-            "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/52845764709_8f86047f10_c.jpg?itok=sDp68H0Y",
-            "publishedAt": "2024-12-10T22:00:52Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The New York Times",
-            "title": "Video: Uncertainty and Hope on the Road to and from Damascus - The New York Times",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTU03bjFIcFhSNmYxcVQtSHZEd19UYlRxdFF0bmQxc2VFd2FHRHFtYkZIcW1iOE5kREtWSzJkeWhhckN4UEVMbTlHM3pwQVFLcDFWb0NQNmdvaW83YWVLYm4wM1hjMXdrZ0xPTXJtdUs1VV9DMkVZbVlHaXpzdnBoZnRjUVZFOGU4dUJVVnJGUVVOb0xfczRDNUV1MkVZVFF3R0R6dGpubTd2Q1phLUxETmRNaktYQTFsS0pQcGxn?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T21:09:13Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Angie Orellana Hernandez",
-            "title": "A new pair of satellites are set to create ‘solar eclipses on demand’ - The Washington Post",
-            "description": "Two satellites from the European Space Agency are designed to create eclipses on demand, which scientists hope will lead to breakthroughs in solar studies.",
-            "url": "https://www.washingtonpost.com/technology/2024/12/10/proba3-satellites-solar-eclipses/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XX4XEEFFQTBTRWBXPDDOOCUGKU.jpg&w=1440",
-            "publishedAt": "2024-12-10T20:35:32Z",
-            "content": "A space-exploration organization solved a technological feat more than a decade in the making launching a pair of satellites capable of creating artificial solar eclipses.\r\nIt is considered a breakth… [+334 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Jeff Borzello",
-            "title": "The top 25 recruiting classes of 2025: Where does BYU land? - ESPN",
-            "description": "With A.J. Dybantsa, the country's No. 1 prospect, headed to Provo, who is on top of our new class rankings?",
-            "url": "https://www.espn.com/mens-college-basketball/insider/story/_/id/42893261/mens-college-basketball-recruiting-class-rankings-2025",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1210%2Fr1426262_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-12-10T19:20:00Z",
-            "content": "From the moment Kevin Young was hired as BYU's men's basketball coach in the spring, it was clear the Cougars would have the resources to compete at the highest levels of the sport.\r\n\"It got obvious … [+932 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Gabby Landsverk",
-            "title": "Scientists identify ultra-processed foods that fuel colon cancer and healthy alternatives that may offset the damage - Business Insider",
-            "description": "Scientists have found a new link between diet and colon cancer risk that could change how we fight the disease with more targeted treatments.",
-            "url": "https://www.businessinsider.com/scientists-uncover-processed-foods-fuel-colon-cancer-how-offset-damage-2024-12",
-            "urlToImage": "https://i.insider.com/67576722dc8b666017f2259d?width=1200&format=jpeg",
-            "publishedAt": "2024-12-10T18:15:00Z",
-            "content": "Ultra-processed foods may be fueling a rise in colon cancer cases but healthy foods could unlock new ways to prevent or treat the disease, new research suggests.\r\nResearchers from the University of S… [+3159 chars]"
+            "author": "Stephanie Pappas",
+            "title": "Infamous 'sofa problem' that boggled mathematicians for decades may finally have a solution - Livescience.com",
+            "description": "A math problem delineating the largest-size sofa that can fit around a corner has finally been solved, though it may not help you move.",
+            "url": "https://www.livescience.com/physics-mathematics/mathematics/infamous-sofa-problem-that-boggled-mathematicians-for-decades-may-finally-have-a-solution",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/c2FV9kkkGU64EEUrfAKSBV-1200-80.jpg",
+            "publishedAt": "2024-12-10T22:14:30Z",
+            "content": "Twenty-five years too late to help Ross get his new couch into his apartment in \"Friends,\"\r\n a mathematician has finally solved the pesky \"sofa problem.\"\r\nThe math problem delineates the largest-size… [+2753 chars]"
         },
         {
             "source": {
@@ -407,55 +459,16 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "OpenAI releases AI video generator Sora but limits how it depicts people - The Associated Press",
-            "description": "OpenAI has publicly released its new artificial intelligence video generator Sora but won’t let most users depict people as it monitors for patterns of misuse. Users of a premium version of OpenAI’s flagship product ChatGPT can now use Sora to instantly creat…",
-            "url": "https://apnews.com/article/openai-sora-generative-ai-texttovideo-214d578d048f39c9c7b327f870dc6df8",
-            "urlToImage": "https://dims.apnews.com/dims4/default/b5eaab9/2147483647/strip/true/crop/4000x2250+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc0%2F6a%2F74ef9352a3b8be0681d03213404f%2F72edfbd38dfb4e7fbdc954febe770eee",
-            "publishedAt": "2024-12-10T16:03:00Z",
-            "content": "SAN FRANCISCO (AP) OpenAI has publicly released its new artificial intelligence video generator Sora but the company wont let most users depict people as it monitors for patterns of misuse.\r\nUsers of… [+1631 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": null,
-            "title": "The iPhone in 2025: Apple May Have More Up Its Sleeve Than Usual Next Year - CNET",
-            "description": "Between the rumored iPhone 17 Slim and expected iPhone SE 4, there's a chance we could see more than Apple's routine batch of iPhones next year.",
-            "url": "https://www.cnet.com/tech/mobile/the-iphone-in-2025-apple-may-have-more-up-its-sleeve-than-usual-next-year/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/caf61ae1f5459fa108830f6e9ad568c15975adac/hub/2024/05/06/4d14c079-68c9-43a1-9416-4efaece51346/iphone-17-rumors-00000.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-12-10T13:00:00Z",
-            "content": "Next year could end up being a big moment for the iPhone, potentially marking a few significant firsts for Apple's 16-year-old device. \r\nApple may release its first \"slim\" iPhone model, put its own 5… [+10187 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Ynetnews",
-            "title": "Universe expanding faster than scientists predicted, Web telescope shows - Ynetnews",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CR0MwRS12V2FRWmEycVBob21PYzFES1NzUWwxaE15N0JlM09sTmlSLTVvQmcxZnZJQ1NocXh3YVRJblFPWVhLcExLQllqckZkeUdEeTQyMXM1V0QyeXpwM3FSQTRwR1lYb3c?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T09:13:18Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Korin Miller",
-            "title": "Exercise can boost your memory — and a new study says the short-term cognitive benefits can last for 24 hours - Yahoo Life",
-            "description": "Should you exercise more to boost your memory? What a new study says about the cognitive benefits of working out.",
-            "url": "https://www.yahoo.com/lifestyle/exercise-can-boost-your-memory--and-a-new-study-says-the-short-term-cognitive-benefits-can-last-for-24-hours-000110765.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Z.P8kYyk5OxIPDUOj._3DA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/a3e94080-7566-11ed-bb7b-a706bc57088b",
-            "publishedAt": "2024-12-10T00:01:00Z",
-            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nD… [+5262 chars]"
+            "author": "Jacqueline Howard",
+            "title": "HPV testing preferred over Pap for cervical cancer screening starting at age 30, task force’s draft recommendation says - CNN",
+            "description": "Testing for high-risk human papillomaviruses every five years – even with a self-collected sample – is the “preferred screening strategy” for cervical cancer starting at age 30, according to a new draft recommendation from the US Preventive Services Task Forc…",
+            "url": "https://www.cnn.com/2024/12/10/health/hpv-testing-preferred-for-cervical-cancer-screening-draft-recommendation-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2172700578.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-12-10T15:39:00Z",
+            "content": "Testing for high-risk human papillomaviruses every five years even with aself-collected sample is the preferred screening strategy for cervical cancer starting at age 30, according to a new draft rec… [+6105 chars]"
         }
     ]
 }

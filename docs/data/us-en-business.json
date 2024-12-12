@@ -1,45 +1,97 @@
 {
     "status": "ok",
-    "totalResults": 61,
+    "totalResults": 44,
     "articles": [
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNBC",
+            "title": "Stock futures are little changed as investors brace for key inflation data: Live updates - CNBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50Njh5cFVHV0JncVZ1OE9tdjFHYVp4M3hsZVU3ZnA4T1BMRkdSVk02aDNGbTI0NXpFTk5XOWlKVnpzSElSSTFTS3g4bWZzSEJVTnFUSl9ER2xONFNQVU1Fb2ZOTmJINHlsdHByNDZ4Wm1QdFhBcVdJ0gF8QVVfeXFMTTNiUDRIWGVJeTZRWWVpMDFDR3R3ZE10X01KX0RxUy1tRDVzd0ZKRTR1emN2ZWphUWg0elRZVlJuZHYtZzVhR0hveVJHY3RmUDdRQm02S2J5TlNWY3N0TGdyaEwzMV9JWG8wRjVLZUs1amthU1Itbkx1NVE0SQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T00:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "GM is pulling the plug on its robotaxi efforts - CNN",
+            "description": "General Motors is pulling the plug on its efforts to develop a fleet of driverless taxis and will focus on driver-assistance features that require a driver to be ready to take control of the car, the company said Tuesday.",
+            "url": "https://www.cnn.com/2024/12/10/business/gm-general-motors-robotaxi/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1756345925.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-12-10T23:03:45Z",
+            "content": "General Motors is pulling the plug on its efforts to develop a fleet of driverless taxis and will focus on driver-assistance features that require a driver to be ready to take control of the car, the… [+3404 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNBC",
+            "title": "Adidas' German headquarters raided in connection with tax investigation - CNBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPREZCWlRGZmFSY1BYeGJ1NnRldTlHcWhfM0xMM2twUW1aWmF2aXEzdXpjYWJmRXpfd0xCbVpCcUF6NzROWUlnUHlsTTZJRzJWR1NQaXBfVlJ4UWVhdXd4bFBlS08tNFFaSWJVRFd0NXg1S0FTWVdEdnlGeHNEdEUyMmhfRThMbndBR0xZRmVMcjNpNkHSAZgBQVVfeXFMT19VdHRqOWJQcjVnZEEwTW4yV1UzMktVUWVnR2lxVWtLMjJnWFhOcW1tXzZBZ1RjY0VEV2FaWDFuVTladzVuOFFHc25lX1MtM2pqamN5S2pLdzY3Q1dZNVdRMUhZWHhCWnltVkY1NV80NzNHNDFZdjNaNUc5STFBV05XaFI4Z3dEbDR0UlhmNlVzLXA1NUEtM28?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-10T22:02:57Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Investopedia"
             },
-            "author": "Annika Kim Constantino",
-            "title": "Walgreens shares pop on report pharmacy chain could sell itself to PE firm Sycamore - CNBC",
-            "description": "Walgreens and Sycamore have been discussing a deal that could be completed early next year, The Wall Street Journal reported.",
-            "url": "https://www.cnbc.com/2024/12/10/walgreens-shares-pop-on-report-pharmacy-chain-could-sell-itself-to-pe-firm-sycamore.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108057955-1730829903270-IMG_9262.jpg?v=1733855532&w=1920&h=1080",
-            "publishedAt": "2024-12-10T17:42:09Z",
-            "content": "Shares of Walgreens jumped about 20% on Tuesday on a report that the company is in talks to sell itself to private equity firm Sycamore Partners. \r\nWalgreens and Sycamore have been discussing a deal … [+1701 chars]"
+            "author": "Andrew Kessel",
+            "title": "Alphabet Stock Jumps After Google Touts 'Breakthrough' Quantum Chip - Investopedia",
+            "description": "Shares of Google parent Alphabet surged to their highest level since July on Tuesday after the company unveiled a chip it said can complete computations in minutes that would take some of today's fastest supercomputers 10 septillion years.",
+            "url": "https://www.investopedia.com/alphabet-stock-jumps-google-touts-breakthrough-quantum-chip-willow-8759223",
+            "urlToImage": "https://www.investopedia.com/thmb/SW3A0h_QICWk4St-WH8dTroOKBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_Google_Logo_GettyImages-1919903732-8109061505044f9fa70845e3707d3bfb.jpg",
+            "publishedAt": "2024-12-10T21:47:35Z",
+            "content": "<ul><li>Google parent Alphabet's shares rose more than 5% Tuesday after the company unveiled a \"breakthrough\" quantum computing chip called Willow.</li><li>Willow can complete computations in minutes… [+1471 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Andrew Kessel",
+            "title": "GameStop Swings to a Profit Despite Revenue Dip - Investopedia",
+            "description": "GameStop swung to a profit in the third quarter, even as revenue fell year-over-year.",
+            "url": "https://www.investopedia.com/gamestop-q3-fy-2024-earnings-8758127",
+            "urlToImage": "https://www.investopedia.com/thmb/ZlygzF9uQu6ZEdfRT0Nw66qU-jE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2187616165-00410617954743d087aae11feff0b678.jpg",
+            "publishedAt": "2024-12-10T21:39:05Z",
+            "content": "GameStop (GME) swung to a profit in the third quarter, even as revenue fell year-over-year. Shares surged in extended trading Tuesday on the news.\r\nThe video game retailer posted a profit of $17.4 mi… [+1002 chars]"
         },
         {
             "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "BBC.com",
-            "title": "Luigi Mangione: Who is the suspect in the shooting of UnitedHealthcare CEO Brian Thompson? - BBC.com",
+            "author": "The New York Times",
+            "title": "Wall Street’s Titans Can’t Wait for Trump 2.0 - The New York Times",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSS3BxWV9XaEpQc01TXzdidjNLbmhFcEZkNTFrc1Nydjk1NW5uYW5JTU1NSlFqaVdWMlRFRUxSb0NEQTU4eG9GQ3FGUG14NVpYRktVSlh3bDBlZw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNW1yMWVTWGpmTzVmNkZsaU9XT0tyRmIta0QxMkczQ2hqNWp4eXRJZHdoYVNwbHhRWVU1TER6TURPeVpjSVFKOTBjM21ES3g0RnlkQjVvNTRlOFhPUl9ReFJXUEhkcnhEdzFNYVBMVUNhNGo3?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-12-10T17:39:19Z",
+            "publishedAt": "2024-12-10T21:25:48Z",
             "content": null
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Investor's Business Daily"
             },
-            "author": "MarketWatch",
-            "title": "Traders are pretty sure of a Fed rate cut. What happens if inflation data is too hot? - MarketWatch",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzRhZ3FIeXhPZDRQRzdDbVJrVUQtNC1reDZTTTRuUWR4bE5KS190UGlrcjhoazVieG45ZWVkSmtrcW1sU2Vrc2lyaUhEREF4Z3VndWk3S0NWTFRHQUJOWVdoTUdQUUxmamg3dmcxN3Naa2NmdmdLQzFJOWZ2a1NBZGl2aDQ3WHVBRUxKQXFDN1V2OGZtYzFuUl9vbUhNT3RucmJ2X3gybHZQQ2tranBSVDJHLVJrVEtDN1AxVncyTUMyWGs40gHKAUFVX3lxTE8wdFItTDVfUGRmZWptVjJqTm9oNFRWd0M2eEdTcFVyOVlMRnI2SGJfbkFyUm1ZdHc0N05aVTMyaENnOHZ1b3R6cG84WS1WNEZpaGEtU1dLZlhPNm1YR016WE55TC1LbWk3QjhCak1qRFFYZWJfX2JsRENyU284b2RCdlN5RkViUC1oXzNza01vekVfQ0FVdU5kd1lOMnYtUEl4NEQ5Q3M1T3RCRUp1RUIzRTRXbnhqSHVmMUhsdlMtUndUTFRtMkpzQVE?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T16:42:00Z",
-            "content": null
+            "author": "PATRICK SEITZ, Investor's Business Daily",
+            "title": "SMCI Stock: Supermicro Customers Staying Put While Investors Flee - Investor's Business Daily",
+            "description": "Customers appear to be sticking with Super Micro Computer as the AI server maker deals with financial reporting issues. But SMCI stock fell.",
+            "url": "https://www.investors.com/news/technology/smci-stock-supermicro-customers-staying-put/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/01/Stock-Supermicro-servers-2023-company.jpg",
+            "publishedAt": "2024-12-10T21:25:00Z",
+            "content": "Data center operators appear to be sticking with Super Micro Computer (SMCI) as the AI server maker deals with issues related to its accounting and financial reporting. Meanwhile, many investors are … [+2747 chars]"
         },
         {
             "source": {
@@ -47,11 +99,11 @@
                 "name": "Google News"
             },
             "author": "Yahoo Finance",
-            "title": "Google parent Alphabet jumps on quantum chip breakthrough - Yahoo Finance",
+            "title": "Walgreens in talks to be taken private by Sycamore Partners, source says - Yahoo Finance",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHJZZUxLMEM5TktXZmlDSS1UVlYyN0MxX0JBTWUwRlBJTjk5T2czVGp4bUV6RXlwU1ZJZk9VT2lTUUVmb3kyQ3Q5LXcyaWFpQV9UNnBnV2lmT3lWWGdHS3lsTVFuaHJmTDctUWNiN0hRWURKWlh1TFdjWmNDVGUwN2pvVUNYSnFMM0E?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMkVwZDhxNkt0UHk4eHlNZExzRlgtcWFvQ1BqMko5Y0phWmtjV1Z1NHJaOGNWMmlna19zbkpxRWNnN1pGQ040aVpJOWZjQmdJWFlVa3dFZlZmT1dOdUNkQXQ1VWV4bmg0WElhcVNzZzBCVEVFeWlFcVh1dmJ2V0NpWmVn?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-12-10T16:31:58Z",
+            "publishedAt": "2024-12-10T21:08:25Z",
             "content": null
         },
         {
@@ -59,13 +111,91 @@
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "Yahoo Finance",
-            "title": "Super Micro CEO confident stock will not be delisted - Yahoo Finance",
+            "author": "Bloomberg",
+            "title": "Biden Plans to Finally Kill Nippon Steel Bid for US Steel - Bloomberg",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTg0S1p3Sl81d3RnSTljcVRoLTA4Q0hUUDUyWkl5Y2V5UFpmenozY0p4UHNYYndnV0YyRHFyNFpNVkEtMWJpS1U0LUJYc1JIOVVTclR0cGN5MURxT1ZER3lPa0dDR3k4c2hPREFVZnlvSGxWMjNSaTlVakpZYV8tRl9kcw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdm05bU9rLU1BRXhMTXpHeXVDTndJOS1zb2I1VU9YR21saG16bFFPUDlBWHVwSjN4VkJDdE5YV1RGd1dIZERGVTlBaEtuaUJnNUZMWDB0N01zTUIwdy1YandqUUoxWm1YWnYzVG9FNzVsLTBWdVhRRk8zajhGSzJ1VDA5TDlUWVBfdjRUUlljbExxQzJ4aU1tMmZYbDl0OXZyTERONWd5WTk4cmZVVkZHQ1JSWTd3REZ6SDExM2Zn?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-12-10T16:21:05Z",
+            "publishedAt": "2024-12-10T20:28:50Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TheStreet",
+            "title": "Here's what a veteran trader who forecast Palantir's stock rally says now - TheStreet",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT0FvSHJwQjhzNkVqWUZjVmFJeEVLR3cwMDdFZDRSUXhxN1haZnh0LVdYN0hjTlZnaml6aTVHRV96dXVmdGFrWW1TNjF3X1FNemx2Q1V2ak9UbFFpbFBBTDgyTDBQdHhMQkc4d0VHS09RTGdpblF4cGc1bjFjdC12U2ZEY2pNWmVkUEJTckNLRC1Mc0k1cDZlcURhcjdyNGZfV1Jnd0ZXWlhzZHROQzlMTzZZYVA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-10T20:15:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Aaron Rennie",
+            "title": "Tesla Stock Hits Three-Year High as Morgan Stanley Lifts Price Target - Investopedia",
+            "description": "Tesla stock surged to an all-time high Tuesday after Morgan Stanley analyst Adam Jonas increased his price target for the carmaker and affirmed it as his \"Top Pick.\"",
+            "url": "https://www.investopedia.com/tesla-stock-three-year-high-morgan-stanley-price-target-adam-jonas-8759059",
+            "urlToImage": "https://www.investopedia.com/thmb/HTlcFs8OM9kkoh6_oDImA3ZHNuY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_TeslaSign_GettyImages-2148753423-17fa140585064069bbb9b47c7ecde76f.jpg",
+            "publishedAt": "2024-12-10T20:00:20Z",
+            "content": "<ul><li>Shares of Tesla rose to a three-year high Tuesday, lifted by an optimistic report from Morgan Stanley analyst Adam Jonas. </li><li>The stock earlier rose to near $410, touching their highest … [+1477 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "Amazon starts selling Hyundai cars, more brands next year - Ars Technica",
+            "description": "Amazon Autos has gone live in 48 US cities.",
+            "url": "https://arstechnica.com/cars/2024/12/amazon-gets-into-the-car-sales-game-starting-with-hyundai/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/hero001-aboutamazon-hyundai-autos-amazon-autos-pr-blog-hero-2000x1125a-2000x1127-1-1152x648-1733856477.jpg",
+            "publishedAt": "2024-12-10T19:20:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNYcentral.com",
+            "title": "Micron's award from CHIPS act signed, securing federal funding for CNY facility - CNYcentral.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDVBTHZoTTVrcDd0NEZuV08taG00TFVtcHVsUzhYM1BoQVJDWmN4MEpXNWk0U0trdjRnWXoyZDdlOHNuMm40Y2pMRTdwNGc5ZE81eFZPajRWSU5KV0hqcFczaEZBLUdBSi0tVXJocGNObC1lVXZGelpsZXJtc3pPdVhReVd2aVpBeERBNDRDQllSU3hPbUlRVWpKbDlXbWcwakNjck1pTjRxbmd4bkpCaG00bHh0QdIBtgFBVV95cUxPSkJDV2YzZUdfWlZmQkRkYm9TTHpVWGJGTGNCYzZ3VmlKVU90TjZBX2ZjRnFldnNvLUptX01KUTFRdm5JcUItMGE1a0hSNmp2Yy04Zk9RbWFOQ3oxM1ByajdfWlJxNXZCYjRaRUNPUDhBVWpoUnZTY2taajJKdFJOaklQX1VZbHduMXZjaVBVSTY0czlXc3N1bnVCMkJhdW5NSnMwYjl5NlVEM2pNaUJlVG1mcmVEZw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-10T18:33:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Taylor Herzlich",
+            "title": "Google removes bad McDonald's reviews after worker reports Luigi Mangione - New York Post ",
+            "description": "The one-star reviews cropped up in an episode of “review bombing,” when users leave tons of unrelated negative reviews at an establishment tied to political issues.",
+            "url": "https://nypost.com/2024/12/10/business/google-removes-bad-mcdonalds-reviews-after-worker-reports-luigi-mangione/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/2024-pennsylvania-department-corrections-handout-95118813.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-12-10T18:22:00Z",
+            "content": "Google removed a torrent of negative McDonalds reviews that flooded the search engine after a fast-food employee in Altoona, Pa. reported Luigi Mangione, the suspect charged with UnitedHealthcare CEO… [+2893 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "Lucid’s Gravity SUV gets an EPA-estimated range of 450 miles - The Verge",
+            "description": "Lucid started production of its electric three-row Gravity SUV that now has a higher range estimate.",
+            "url": "https://www.theverge.com/2024/12/10/24318002/lucid-gravity-ev-suv-epa-estimated-range-production-start",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/HTJ8IWoBOrF8yZRBf1uC-I12ISQ=/0x0:3240x2160/1200x628/filters:focal(1620x1080:1621x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25783776/lucid_gravity_desktop_hero_2x.jpeg",
+            "publishedAt": "2024-12-10T18:18:17Z",
+            "content": "Lucids Gravity SUV gets an EPA-estimated range of 450 miles\r\nLucids Gravity SUV gets an EPA-estimated range of 450 miles\r\n / Lucid started production on its electric three-row last week.\r\nByUmar Shak… [+1387 chars]"
         },
         {
             "source": {
@@ -73,37 +203,128 @@
                 "name": "Barron's"
             },
             "author": "Barron's",
-            "title": "Tesla Stock Heads for Its 5th Straight Day of Gains. What Is Fueling the Rally. - Barron's",
+            "title": "Boeing Stock Is Taking Off. Here’s Why. - Barron's",
             "description": null,
-            "url": "https://www.barrons.com/articles/tesla-stock-price-target-sales-c87aad64",
+            "url": "https://www.barrons.com/articles/boeing-stock-max-jet-production-90582e7d",
             "urlToImage": null,
-            "publishedAt": "2024-12-10T15:46:00Z",
+            "publishedAt": "2024-12-10T17:27:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Cointelegraph"
             },
-            "author": "Attiya Zainib",
-            "title": "Dan Niles on Nvidia (NVDA): People Just Want to Believe ‘Santa Claus Rally’ - Yahoo Finance",
-            "description": "We recently published a list of 10 Buzzing AI Stocks This Week. In this article, we are going to take a look at where Nvidia Corp (NASDAQ:NVDA) stands...",
-            "url": "https://finance.yahoo.com/news/dan-niles-nvidia-nvda-people-152959730.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-            "publishedAt": "2024-12-10T15:29:59Z",
-            "content": "We recently published a list of 10 Buzzing AI Stocks This Week. In this article, we are going to take a look at where Nvidia Corp (NASDAQ:NVDA) stands against other buzzing AI stocks this Week.\r\nPaul… [+5205 chars]"
+            "author": "Cointelegraph",
+            "title": "Microsoft shareholders vote ‘no’ on Bitcoin reserve - Cointelegraph",
+            "description": null,
+            "url": "https://cointelegraph.com/news/microsoft-shareholders-vote-no-bitcoin-reserve",
+            "urlToImage": null,
+            "publishedAt": "2024-12-10T17:17:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "RYAN DEFFENBAUGH, Investor's Business Daily",
+            "title": "Oracle AI Push Lands Meta As Customer. But Stock Falls On Narrow Earnings Miss. - Investor's Business Daily",
+            "description": "Oracle stock fell on an earnings miss but analysts highlighted continued momentum for it AI push, with some debate about its cost.",
+            "url": "https://www.investors.com/news/technology/oracle-stock-meta-ai-cloud-earnings-dec-2024/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2018/12/stock-oracle-07-shutter.jpg",
+            "publishedAt": "2024-12-10T17:15:00Z",
+            "content": "Oracle (ORCL) stock fell Tuesday as investors digested fiscal second quarter earnings results that missed estimates. But analysts were mostly positive on the stock following the report, citing its mo… [+5886 chars]"
         },
         {
             "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "WFAA.com",
-            "title": "A new airline is coming to DFW Airport, bringing to new destination with it - WFAA.com",
+            "author": "Investopedia",
+            "title": "C3.ai Stock Volatile as CEO Puts Some Shares for Sale, Offsetting Strong Results - Investopedia",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOVVrckcxbVNROVA1YkdLRk1yR0RyRE5RckU2WW5LSVNYcUNFV3IzOXVfWWU0cnp1Nm9aR0ZQaG9jdml5OXVKNzJEd05tQlRoQXU2YmFqQzJSMFBFRGZOWVVDVHQwb2tKTjBxVDAtdUE0Q0draVVsS2I5UkY4T0lvWlBwT1Ftd3N5RFFrVmNWWTUwZXRCZTlxWDg5ckF4YjZIeHc1Z3ZGYXdTMU9Da0NTUERDMF9hZUthVU54VXNpMS1Db29lNlFmSUVOYXZJbHN4TW53a2RUTDJlbWM2S0NVVXNEXy1IZw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd3B5QmFwU1ItTlFDd19rS3A1eUVnOWdLOUE3OGlqaWNUTUItYXFEUFpjM1RDd2FBUm5COHRrWTF1VWJVcEZYWnhyUUxPTXcwM2VPMk95dkZQSG1GTzZhdHhybWRWaGtVc1ExU0g4Z2VHSDJtWS1uODc0MHFOQ3R4b2tqbGtaWlhsbV8tZ3VBM0RoNUcxSGE3ZzVNcklrZ2stUlZKMldxY3VKazN2cHFsVi1TMTNFV28?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-12-10T15:13:31Z",
+            "publishedAt": "2024-12-10T16:56:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Verdict"
+            },
+            "author": "GlobalData",
+            "title": "Nvidia faces antitrust probe in China - Yahoo Finance",
+            "description": "Chipmaker Nvidia is being scrutinised for its recent activities and its acquisition of Mellanox Technologies.",
+            "url": "https://www.verdict.co.uk/nvidia-antitrust-china/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/C.vDK02.Hd5GWldRim.jJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODc-/https://media.zenfs.com/en/verdict_626/4829bbe0fb01eed839a34be7299451cd",
+            "publishedAt": "2024-12-10T16:43:42Z",
+            "content": "China's State Administration for Market Regulation has initiated an antitrust investigation into American chipmaker Nvidia over potential anti-monopoly violations, reported Bloomberg.\r\nThe American c… [+2217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "Traders are pretty sure of a Fed rate cut. What happens if inflation data is too hot? - MarketWatch",
+            "description": null,
+            "url": "https://www.marketwatch.com/story/traders-are-pretty-sure-of-a-fed-rate-cut-what-happens-if-inflation-data-is-too-hot-3ee3b8a4",
+            "urlToImage": null,
+            "publishedAt": "2024-12-10T16:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoinist"
+            },
+            "author": "Ronaldo Marquez",
+            "title": "Former US Treasury Secretary Calls Trump's National Bitcoin Reserve Proposal 'Crazy' | - Bitcoinist",
+            "description": "President-elect Donald Trump's proposal to establish a national Bitcoin reserve has ignited a wave of criticism from economic experts.",
+            "url": "https://bitcoinist.com/trumps-national-bitcoin-reserve-proposal-crazy/",
+            "urlToImage": "https://bitcoinist.com/wp-content/uploads/2024/07/Screenshot_316.jpg",
+            "publishedAt": "2024-12-10T16:30:43Z",
+            "content": "President-elect Donald Trump’s proposal to establish a national Bitcoin reserve has ignited a wave of criticism from economic experts, including former Treasury Secretary Larry Summers. \r\nSummers, wh… [+3368 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Adi Robertson",
+            "title": "Character.AI sued again over ‘harmful’ messages sent to teens - The Verge",
+            "description": "Chatbot service Character.AI is facing a second lawsuit accusing it of defective design for allowing chatbots to discuss topics like self-harm.",
+            "url": "https://www.theverge.com/2024/12/10/24317839/character-ai-lawsuit-teen-harmful-messages-mental-health",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/dbHdsMpHeDCoKHlvMKG0VZunO34=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25557385/STK278_character_ai_D.jpg",
+            "publishedAt": "2024-12-10T16:28:11Z",
+            "content": "Character.AI sued again over harmful messages sent to teens\r\nCharacter.AI sued again over harmful messages sent to teens\r\n / A second suit accuses bots of encouraging underage users to hurt themselve… [+4643 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Steve Banker",
+            "title": "Rare Earth Ban Fuels Doubt About The Viability Of The US Auto Industry - Forbes",
+            "description": "The transition to electric vehicles will happen far faster than is commonly understood. The Chinese bans on rare earth adds headwinds for US EV manufacturers.",
+            "url": "https://www.forbes.com/sites/stevebanker/2024/12/10/rare-earth-ban-fuels-doubt-about-the-viability-of-the-us-auto-industry/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/675865e84921c30950b24835/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-12-10T16:03:50Z",
+            "content": "TOPSHOT - People look at a BYD Seagull car by Chinese electric vehicle (EV) manufacturer BYD Auto at ... [+] the Bangkok International Motor Show in Nonthaburi on March 27, 2024. (Photo by Lillian SU… [+6977 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBS News",
+            "title": "Rupert Murdoch is blocked from amending trust to place son in charge of Fox News media empire - CBS News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlJoazF3bG5IYWJlcFIyWmJtTVRiemRDdHBhaktvakhJM3FvcGZ2bF92c25pMzZXaC1KVlRLY3lrQVFKUnJ4R1BNdU5YdmZoaHp1Uk5xWWZ4NEpRWWcyWFdJV2VJMmlhMzYweWs0VllKeE56Qms4eDZXdFNaWGNfUtIBhgFBVV95cUxOeHVOSzBkX3V5RlVOeFM3Qld5NVVrc2p2cTc4UnJtejlYNmdhUnF4TWRRVnh5N2ZydHdtQ1d5QVBJZV8zYks0OVVINk1tdEMwck1oa1dCU1F3REcteGFKN3JSRjcyR3hQek9JZWJRUEp2ZUM2b1FFd2FnT2diM29acjRIdl9iUQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-10T15:43:04Z",
             "content": null
         },
         {
@@ -124,12 +345,12 @@
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "Reuters",
-            "title": "Wall Street mixed, dollar climbs ahead of inflation report - Reuters",
+            "author": "Department of Justice",
+            "title": "China-Based Hacker Charged for Conspiring to Develop and Deploy Malware That Exploited Tens of Thousands of Firewalls Worldwide - Department of Justice",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xSGg5amd3ejJTTUlUVkM4OG1Bd2syMXFIU0p6Y0V0dzFaRHJDTDlvSC1EOXh6UVd0SlZnNk5kSXA3bzhIRWFJWGJDNFBpYVNaYlVlZ2hVYktETkpRZG9LY1VmX0VfXzVleFY2SHYxbG1hREJjVUE?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmhaaEdSczhuZW1ZMmEyUkNObTV0YllSOGtoaEE0RTdYdXJocmRNZ2tjS0lKX2pBRXVSZUpaMHR1eTdzQ3dxR0x4TTNnY2RxejliYXA0NzJKcGtNQ21FdDNRSTlWRUdNbjFqQWxtdmhDVmpyeGxZMlpSWHJrQ0dFbjc4TWdFYkNTVlVfT3NCcG1BR1R6aU1YV21yNUJLM1U3RFRaMW16cjdzVTIwRkFEekw2eThUUmE5MFlIRQ?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-12-10T15:06:31Z",
+            "publishedAt": "2024-12-10T14:05:00Z",
             "content": null
         },
         {
@@ -137,13 +358,26 @@
                 "id": "google-news",
                 "name": "Google News"
             },
-            "author": "Barron's",
-            "title": "Bitcoin Price Rises. MicroStrategy Buys $2.1 Billion of the Crypto. - Barron's",
+            "author": "Canary Media",
+            "title": "Google plans to build gigawatts of clean power and data centers together - Canary Media",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUZxVEVlc0wxd01oQXBMSllQNnlEdktzV0NjYWF1dGstVlZaQlg0eC0wUko5Smd6YXI1aHhoYkxjWEVTcEE4bFh0LXdvN1g2UkRLMVBEZU1fN0RVX09GdUl6RnhQOFpWWGVqYXdsYTBaNGtYZC1SWmlCcDlHNkNKOUlWQkFZX1pDeEHSAY8BQVVfeXFMTUhxdE55aXEtd2NtaVRvN2x0R0dBaEZBcXNhR0dtZmtYdGpMU1dpc2Zac0o1TndTbFJFcG1mendzUzlFME95NlQzQ0xld2xwZjBTclVNcC0tZGZxcEl6VkFFanNDZFdjQVpYWGdSUlBub0dLOFBjeEczSHB5SDd5YmpsOFUyTTQzck83UXpwOVk?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObkFUcld4TGlfNUxUaTVhc1ltYzJxT1BrV0tzVDYtSHFpaFptT01VdFp5TXdGOXVObl96SDJkak82MTd2OTJIWFBIZXMtVS0zeExZZ0JRUkI3UmJCc3dQMkx6QjV6bnMxQXZqLVdBYzFvTEJnQmQtYlhqd01rbnFFbUpCdFljQWtqY28xVmVNelZiR3dNOEpDQWFjVTZ3RVg4ZjkzNlhBRVVYbTRYODNwN1VUclNoZ1FDZEE?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-12-10T14:56:00Z",
+            "publishedAt": "2024-12-10T14:00:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "Harsh Chauhan, The Motley Fool",
+            "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Is Going to Skyrocket After Dec. 12 - Yahoo Finance",
+            "description": "There is no doubt that Nvidia (NASDAQ: NVDA) is the dominant player in the market for artificial intelligence (AI) chips, as its graphics processing units...",
+            "url": "https://www.fool.com/investing/2024/12/10/prediction-this-ai-chip-stock-will-soar-soon/?source=eptyholnk0000202&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=cd9b987b-f382-4a1e-935e-751ca7392669",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Gh9XiQWYSc0sA0E.Slr2Zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://media.zenfs.com/en/motleyfool.com/44d588435a745bb7c3a59c5ba93043a3",
+            "publishedAt": "2024-12-10T13:07:00Z",
+            "content": "There is no doubt that Nvidia(NASDAQ: NVDA) is the dominant player in the market for artificial intelligence (AI) chips, as its graphics processing units (GPUs) have played a central role in training… [+5912 chars]"
         },
         {
             "source": {
@@ -151,103 +385,25 @@
                 "name": "Google News"
             },
             "author": "Yahoo Finance",
-            "title": "Google invests in Intersect Power in over $800 million funding round amid AI race - Yahoo Finance",
+            "title": "Air passenger numbers to top five billion in 2025: IATA - Yahoo Finance",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYlBneW1OZ2pwTFZOSEdDLVdkOUNmeUhZS1E0WTJNVzlmdGk4aGVEWjNkMFFtZmNEdXVpTWhzYWMzUTkySXBtdkZ0OThCenBDV0tJU19qUDZDR3p4djRJbkFfWl84Znl5clcwNmwxczBKVE5JUTZuYVhCOUs5Yk5SaC1obWpxNHhN?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmhmME16TWNVT3FVZFdWRVRMamprUlNXQUkyUU1KZGZ1dnZkdV9XZVlyVnc1TVI0X2M4VjhQYlVGUVREdWZxaFRBM1hiZG0tMlBRcWJGMUFqNnFTZ0xMY3hPSTVjM3ZkSUduUF8zMmpSQ3JtcFViRGtUMDRaaWlWOXRR?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-12-10T14:09:46Z",
+            "publishedAt": "2024-12-10T12:49:25Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Barron's",
-            "title": "Nvidia, Oracle, Tesla, C3.ai, Planet Labs, MongoDB, Yext, and More Stock Market Movers - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/stock-market-movers-5d1c1327",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T14:07:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Electrek.co",
-            "title": "We finally got to test drive the Lucid Gravity which just nabbed an EPA range of 450 miles - Electrek.co",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1EzVzYtRFlrajdpSzlFczZjN21ZLU84d2xzamVNZzV2VWtUbVV2NGJ4Ym9RemNENnZaS3llTzFoSlJlOU5oaWxKZTRqTUU0bDU3Q0N2bkRNWjhESmtoQnp3UVl3ZXd2ZG5PMUphZXN0bG1sSEFqaDlJZFRyZ0FEQTRn?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T14:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Investor's Business Daily",
-            "title": "MongoDB Posts Big Earnings Beat But Stock Falls After Recent Software Rally - Investor's Business Daily",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmNyV0VyTFlTeU02aVgyTlZRSFRRM1BEY1ROanAzM3ZicVpudDdvZGZQcmV3dnc1VTdiZmtfdXhEWTByWDlkZFY2cGxGcVJ1bUhqTXEwOFlFckQxSVJEQ3VRbVE3X001WHhtbWNoVzFodHhSRjBjaTlDWWJuNWhuY0xESmVFd0U1Wmc5cnVRdkNMMDV5dkFHa21R?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T13:44:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Nitasha Tiku",
-            "title": "An AI companion suggested he kill his parents. Now his mom is suing. - The Washington Post",
-            "description": "A new Texas lawsuit against Character.ai, alleging its chatbots poisoned a son against his family, is part of a push to increase oversight of AI companions.",
-            "url": "https://www.washingtonpost.com/technology/2024/12/10/character-ai-lawsuit-teen-kill-parents-texas/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P2TAA35MBJPIWFLLYD4DZLDWYA_size-normalized.JPG&w=1440",
-            "publishedAt": "2024-12-10T13:25:40Z",
-            "content": "In just six months, J.F., a sweet 17-year-old kidwith autismwho liked attending church and going on walks with his mom, had turned into someone his parents didnt recognize.\r\nHe began cutting himself,… [+155 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
             "author": "The Wall Street Journal",
-            "title": "Who Is David Sacks, Trump’s Pick for AI and Crypto Czar? - The Wall Street Journal",
+            "title": "Hershey Shareholders Shouldn’t Count on a Mondelez Jackpot - The Wall Street Journal",
             "description": null,
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SWXdnM1hRSU1aM1hod1dyWnhQQ3FPZ2R1RDN2Q0JaN3pteHVFWDA2WXV1S0owc1UxYkt3VjZxcGNORE9pZ2x1OTk4UUhLRUJ2X1BLQmtqUEx6QzhHaWlwNklhWFVtNlRHNjR3RlFtUW56S01R?oc=5",
+            "url": "https://www.wsj.com/finance/hershey-shareholders-shouldnt-count-on-a-mondelez-jackpot-8c22e3ed",
             "urlToImage": null,
-            "publishedAt": "2024-12-10T13:00:00Z",
+            "publishedAt": "2024-12-10T12:00:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Tangi QUEMENER",
-            "title": "Air passenger numbers to top five billion in 2025: IATA - Yahoo Finance",
-            "description": "Air passenger numbers are forecast to top five billion for the first time next year and the sector's revenues will break the trillion-dollar barrier, the...",
-            "url": "https://finance.yahoo.com/news/air-passenger-numbers-top-five-124925072.html",
-            "urlToImage": "https://media.zenfs.com/en/afp.com/bbbb9396b53a63d1bc7d7cf1b716170c",
-            "publishedAt": "2024-12-10T12:49:25Z",
-            "content": "Air passenger numbers are soaring (Roslan RAHMAN)\r\nAir passenger numbers are forecast to top five billion for the first time next year and the sector's revenues will break the trillion-dollar barrier… [+3044 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investopedia"
-            },
-            "author": "Terry Lane",
-            "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
-            "description": "U.S. stock futures are flat after markets pull back from record highs, GameStop to report earnings after the bell, and Oracle shares dive as its quarterly revenue misses expectations. Here's what investors need to know today.",
-            "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-december-10-2024-8758727",
-            "urlToImage": "https://www.investopedia.com/thmb/_RprHovPMUXrvuw5DoHZ25UefXs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2188497636-1597a406ac8f4ce3b9b4978f5b54ed88.jpg",
-            "publishedAt": "2024-12-10T12:46:45Z",
-            "content": "U.S. stock futures are little changed after markets stepped back from record highs on tech sector jitters; GameStop (GME) reports earnings after markets close today; Oracle (ORCL) shares drop as the … [+3107 chars]"
         },
         {
             "source": {
@@ -264,42 +420,42 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Benzinga"
             },
-            "author": "Jess Weatherbed",
-            "title": "Yelp’s new AI-powered review filters will show more of what you want to know - The Verge",
-            "description": "Yelp is introducing some new AI features that aim to help users discover new establishments and narrow down customer reviews.",
-            "url": "https://www.theverge.com/2024/12/10/24317749/yelp-ai-powered-review-insights-filters-availability",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/7QucAKb_BAR4EMvjSrGuyFYU_Ns=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25783155/Yelp_AI_review_insights.jpg",
-            "publishedAt": "2024-12-10T12:00:00Z",
-            "content": "Yelps new AI-powered review filters will show more of what you want to know\r\nYelps new AI-powered review filters will show more of what you want to know\r\n / Review Insights provide a quick overview o… [+2113 chars]"
+            "author": "Murtuza Merchant",
+            "title": "EXCLUSIVE: Bitcoin To End The Year Above $100,000? 'Bulls Failed Again' At This Key Level, Experts Say - Benzinga",
+            "description": "Bitcoin (CRYPTO: BTC) faces mounting pressure to hold above the critical $100,000 mark, with market participants divided over whether the cryptocurrency will sustain its momentum or retreat",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/24/12/42408907/exclusive-bitcoin-to-end-the-year-above-100000-bulls-failed-again-at-this-key-level-experts-say",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/12/10/What-Happened.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-12-10T11:42:58Z",
+            "content": "Bitcoin BTC/USD faces mounting pressure to hold above the critical $100,000 mark, with market participants divided over whether the cryptocurrency will sustain its momentum or retreat further before … [+2740 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investopedia"
+                "name": "Realtor.com News"
             },
-            "author": "Nisha Gopalan",
-            "title": "Apple, Nvidia Supplier TSMC Posts 34% Jump in November Sales - Investopedia",
-            "description": "Taiwan Semiconductor Manufacturing Co. posted a 34% year-over-year jump in November sales, showing that demand for its artificial intelligence (AI)-focused chips remains strong.",
-            "url": "https://www.investopedia.com/apple-nvidia-supplier-tsmc-posts-34-percent-jump-in-november-sales-8758713",
-            "urlToImage": "https://www.investopedia.com/thmb/vbr13KPFBSB8Ts7aa6uMmAs2vtg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2188589861-b522ce8233574becbfbc26bda5e29e98.jpg",
-            "publishedAt": "2024-12-10T11:21:25Z",
-            "content": "<ul><li>Taiwan Semiconductor Manufacturing Co. posted a 34% year-over-year jump in November sales, showing that demand for its artificial intelligence (AI)-focused chips remains strong.</li><li>Howev… [+1385 chars]"
+            "author": "Danielle Hale, Ralph McLaughlin, Jiayi Xu, Joel Berner, Hannah Jones, Sabrina Speianu",
+            "title": "Top Housing Markets for 2025 - Realtor.com News",
+            "description": "At a national level, we expect that housing inventory will continue to improve as gradually dropping mortgage rates and time help ease the lock-in effect on existing homeowners and builders continue to ramp up production. Nationwide sales and prices are expec…",
+            "url": "https://www.realtor.com/research/top-housing-markets-2025/",
+            "urlToImage": "https://rdceconomics.wpengine.com/wp-content/uploads/2024/12/top-markets-article-thumb-2.jpg",
+            "publishedAt": "2024-12-10T11:18:23Z",
+            "content": "As noted in our 2025 National Housing Forecast, at a national level, we expect that housing inventory will continue to improve as gradually dropping mortgage rates and time help to ease the lock-in e… [+25940 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Alaskaair.com"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Alaska Airlines",
+            "author": "Alaska Airlines Blog",
             "title": "Alaska Air Group launches new global gateway in Seattle with unveiling of nonstop routes on Hawaiian Airlines to Tokyo Narita and Seoul Incheon - Alaska Airlines Blog",
-            "description": "Alaska Air Group is launching Seattle as a global gateway for widebody flights with new nonstop service on Hawaiian Airlines between Seattle and Tokyo Narita, Japan (NRT), and Seoul Incheon, South Korea (ICN) beginning in 2025. We're also enhancing our domest…",
-            "url": "https://news.alaskaair.com/destinations/alaska-air-group-seattle-nonstop-routes-hawaiian-airlines-to-tokyo-and-seoul/",
-            "urlToImage": "https://news.alaskaair.com/wp-content/uploads/2024/12/hero-tokyo.jpg?resize=1600,900",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUw1LTBhNzNPZjRjWTJIWlBpNFlDVF9BNUMxODVmNlhNRkIwZ1dLZ3Z3dWRSczlrTDJEWDRFN0J3OXJ5dWVXUEZxaF9Nc2ZTb0VSMkY4V3c4MFFtaXgwdXVnODU0clNmRU9GVjRsLWtzT2xBQmphbHd5NXcxMFY5aktIOG9WZVZaVG53S3BBc2ZxUmhJMC01Q1RPbXp2cmtaUkdxclcxMkpkNlh2bFFEaERFUWlPTERC?oc=5",
+            "urlToImage": null,
             "publishedAt": "2024-12-10T11:05:29Z",
-            "content": "Daily nonstop flights between Seattle and Tokyo Narita start on May 12, 2025, offering guests an enticing option when traveling between the Pacific Northwest and Japan on Hawaiian’s Airbus A330-200 a… [+783 chars]"
+            "content": null
         },
         {
             "source": {
@@ -329,45 +485,6 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "CBS News",
-            "title": "U.S. \"fondness for tall SUVs and pickups\" compounding risks for pedestrians in crashes, IIHS study finds - CBS News",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUo4NDNSUVdCVzRsNlJySUFna3BPcnc3N3lJWFQtdHBPc1dwTXQ3aDE4N1g4c0VTY2c1bHJvMy1SaFhDLTNvdEkyT3lyczlsQTdpZ0JiWjd3c3hlRTIzX1dsdkNoVkt6WTQtaEZvbE5Xa2tHbE84V0phRXhrUkEyNnhUQUQ2V04wNll2R1VxaVlXR1hzbG4wUFZKRHB3enJ0SExWQ9IBqgFBVV95cUxQc1NlN0V2MGtvbWJLRUM3MzExazYyOGRBbFdScWxGNEJRZzBqQTRmVWhncmVjeEl2VG5yZHRTZVBHN0dPZ1kyQlExSkdabkVqblV6bHFWZ0V6dnNhTEcxMzE4aTRrR3VYZ2hPanB6djBRZ2VXTkNOVmFGNENneERqaEtENE9QZmpnUWl2V0NRbG4wcFUtb1h4bVVtM3dYeEo4My02Zk1BTlI0QQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T10:45:24Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "The Wall Street Journal",
-            "title": "Wall Street Is Betting Billions on Rental Homes as Ownership Slips Out of Reach - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/real-estate/build-to-rent-single-family-home-investments-d6e57200",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T10:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Recharge"
-            },
-            "author": "Andrew Lee",
-            "title": "BP offshore wind chief Bausenwein leaving as Looney's 'renewables rock star' era ends - Recharge",
-            "description": "Former Orsted Asia chief to depart oil supermajor as it prepares to merge sector operations with JERA",
-            "url": "https://www.rechargenews.com/wind/bp-offshore-wind-chief-bausenwein-leaving-as-looneys-renewables-rock-star-era-ends/2-1-1751195",
-            "urlToImage": "https://images.dngroup.com/image/eyJ3IjoxMjAwLCJrIjoiMGEzM2U1MDFhY2E3YjkwMDlhZTk5YTk5NmU2OTViOGMiLCJmIjoid2VicCIsImNyb3AiOlswLDk1LDE2MDAsNzk1XSwiciI6MiwibyI6Imdsb2JhbCJ9",
-            "publishedAt": "2024-12-10T10:02:18Z",
-            "content": "Unrivalled renewable energy news\r\nRecharge is the worlds leading business intelligence source for the renewable energy industries. We provide award-winning international coverage of breaking news, in… [+150 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "CNBC"
             },
@@ -381,16 +498,29 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "WKRC TV Cincinnati",
+            "author": "Lucia Moses, Lara O'Reilly",
+            "title": "After the Omnicom-IPG merger, these are the ad M&A deals industry insiders think could be next - Business Insider",
+            "description": "The $13.25 billion acquisition by the ad holding company Omnicom of Interpublic Group has industry insiders speculating about more M&A to come.",
+            "url": "https://www.businessinsider.com/after-omnicom-ipg-merger-advertising-deals-mergers-could-happen-next-2024-12",
+            "urlToImage": "https://i.insider.com/675771d5dc8b666017f23464?width=1024&format=jpeg",
+            "publishedAt": "2024-12-10T09:01:00Z",
+            "content": "Omnicom's planned $13.25 billion takeover of Interpublic Group has advertising insiders speculating: Who's next?\r\nOther agency giants face similar conditions that led two of the six big ad-holding co… [+5141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WKRC TV Cincinnati"
+            },
+            "author": "WKRC",
             "title": "U.S. News names 5 Cincinnati hospitals in '2025 Best Hospitals for Maternity Care' list - WKRC TV Cincinnati",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQRkQwb20wamVTS0UtNEQwVFNOdzdJMU9odlkzWG1WME5FSEZFcDdzSEEyTGxFV1pDb1RQZXRFT1NFUnhjS2dqbTMyMnotVERQR3I2S1VGdHFxSjdfbXUzQWN4ZzU4OW1ZY0NURnB3MzdmZ3FaV2s4R09kaGRab2Z5emJhbjBDLTY3VVB6QkZEMHpsZWNaUmMwVl80emVwelEtY2V3dVBGNWxXc0kyY3A0Mzl4M3REVkl2d2llNFlkcUZWci0xcVc5S1VIdmYxMDVTRW1Xb3JUMnFHb1BZOGFlaU5nYVB3dlNUTExoTDhpeVlRRmhvVmZJYnZ5cDJYaGZmQTV3bnVqLW5TdXR4cktUNldXX1BhX3J4aXNKTXR5VklLdVN1akpBSEd6ajBCNmQ3TWpBX1RrOGtKenotQnNuUENCNzV4TmhWWDVnZXVONjN0SFh0UWNhNmlKOA?oc=5",
-            "urlToImage": null,
+            "description": "Only half of the evaluated hospitals received the \"Best\" designation.",
+            "url": "https://local12.com/news/local/us-news-names-5-cincinnati-hospitals-2025-best-hospitals-for-maternity-care-list-ratings-mothers-expecting-where-to-go-safest-healthy-clean-doctors-world-renowned-labor-delivery-services-trusted-voted-america",
+            "urlToImage": "https://local12.com/resources/media/6547e723-05a2-4f1b-8d75-71b9940712a4-large16x9_ee39b5b92d6549c5bcf107bb50443e64downtown.png",
             "publishedAt": "2024-12-10T07:15:46Z",
-            "content": null
+            "content": "CINCINNATI (WKRC) - U.S. News &amp; World Report has announced its 2025 Best Hospitals for Maternity Care ratings, highlighting hospitals that excel in providing labor and delivery services. Only hal… [+1408 chars]"
         },
         {
             "source": {
@@ -407,123 +537,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Hershey shares jump on Cadbury owner buyout report - BBC.com",
-            "description": "A deal between Mondelez and Hershey could create a food giant with sales of almost $50bn a year.",
-            "url": "https://www.bbc.com/news/articles/c62w62vydnvo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4cd9/live/08623f50-b69a-11ef-b2b4-d1ff134ae67f.jpg",
-            "publishedAt": "2024-12-10T05:18:39Z",
-            "content": "Shares in US chocolate maker Hershey have jumped by more than 10% after a report that Mondelez International, which owns UK-based Cadbury, has approached the firm about a potential buyout.\r\nA deal co… [+1797 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "The Associated Press",
-            "title": "Rupert Murdoch’s attempt to change his family’s trust over Fox News media empire control rejected - ABC News",
-            "description": "A sealed document obtained by The New York Times says a Nevada commissioner has ruled against Rupert Murdoch’s effort to change his family’s trust to give his son Lachlan Murdoch control of his media empire and ensure Fox News maintains its conservativ...",
-            "url": "https://abcnews.go.com/US/wireStory/rupert-murdochs-attempt-change-familys-trust-fox-news-116625133",
-            "urlToImage": "https://i.abcnewsfe.com/a/39e408d2-9589-40a2-94c2-6cd432c8c78c/wirestory_d50b2e3c3e3c19d71cd6f605aacf509e_16x9.jpg?w=1600",
-            "publishedAt": "2024-12-10T04:51:26Z",
-            "content": "RENO, Nev. -- A probate commissioner has ruled against Rupert Murdochs effort to change his familys trust to give one of his sons control of his media empire and ensure Fox News maintains its conserv… [+2376 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Fortune",
-            "title": "New York prosecutors charge Luigi Mangione, 26, with UnitedHealthcare CEO’s murder - Fortune",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFVoNjBxNTBVWk8zUVFacDJ1d2pabG9tS0pJc2kxcnNQekxhMFp2S1ZSTmMyUVBrTW1fMjJDTXk5cGlleHB1dnYtN2dOQ2t0V1RPYVR1bmxuSkpOMWE2cHR4VGVQTVFHZEt0OC1vOGJhd1JVQ1Utd0Z4dHk2Yk5PeWhPbmtRYnk4b0VzVWNLNExFRUR6bVlxV09MTVBQc2ExTTBtVg?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T04:45:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bitcoinist"
-            },
-            "author": "Ronaldo Marquez",
-            "title": "Eric Trump Advocates For 'Sensible' Crypto Regulation To Position US As Global Superpower | - Bitcoinist",
-            "description": "Eric Trump, executive vice president of the Trump Organization articulated a vision for the United States to become the leading global hub for crypto.",
-            "url": "https://bitcoinist.com/eric-trump-advocates-for-sensible-crypto-regulation/",
-            "urlToImage": "https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot_482.jpg",
-            "publishedAt": "2024-12-10T04:30:42Z",
-            "content": "In a recent interview with CNBC, Eric Trump, executive vice president of the Trump Organization and son of president-elect Donald Trump, articulated a vision for the United States to become the leadi… [+3047 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The Associated Press",
-            "title": "Nvidia's stock dips after China opens probe of the AI chip company for violating anti-monopoly laws - The Associated Press",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEI1MC0wbzU5ellYN1ZNS1hiZG5BQ2FzTXluRHhtcGl3ZENaaVdXQzBpdGRzR0pObkVNdUpGcE4zamVQazhJSUwwa2hObFdBLTZYRkN4d2k1RC0tMkNQZ2JpbGx0N3d6TlhwZ2NFUi1jUXNISGRGR0d4b2ctZHVYakcyWldQN3BTRWdkWTVvQUx4a19zMTRKOFVBTXJvakZOZmRNU2hOTVl2SnYyMTZOTDdjYklIZw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T03:55:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T03:34:03Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "CNBC",
-            "title": "China's November imports post surprise drop; sharpest decline in 14 months - CNBC",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WYm9VakNNbHdCV2RVMGRoaUdnUEowQ2hrb3NjMXRnMHc1Z2FYTHNhcFBkeHh0ODdSX0pxUGE3UnUzR2p4bjdwMU9kMEN2NmVUaC11SmpWYXljSHpQdmNuZ3ZxVjNtMU9feTl3LTlFd3NweVlSZmlILXo2cllNcjTSAYQBQVVfeXFMTUZvWTZoVXlhWXlTYS1wRW5PQ3RoMWpWTk9WQXdLb3l2Z2ljUHVrWFNHQk1HNEdCOS01blhLMU5WT1puWEc4OVE5OGpPNzRTQUN6OE5KS0xCaXdnSUIxOENMZ3ZSVE1UOEFPa3J5WkRpdE1sNXNrLVZYQkpfTXZjUUNTbm5O?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T03:26:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "Gabe Ross",
-            "title": "‘Time to Wave Bye-Bye,’ Says Top Investor About Intel Stock - TipRanks",
-            "description": "Intel (NASDAQ:INTC) has seen its fair share of shakeups, but few as pivotal as the recent exit of CEO Pat Gelsinger. His departure earlier this month wasn’t a quiet...",
-            "url": "https://www.tipranks.com/news/time-to-wave-bye-bye-says-top-investor-about-intel-stock",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/10/INTC-1018-750x406.jpg",
-            "publishedAt": "2024-12-10T03:01:05Z",
-            "content": ""
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Turn to 10",
-            "title": "FDA considering ban on popular artificial red dye found in candy, drinks - Turn to 10",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPU0JzLWphbGRKdF9rZHoyTTEwRFJBM0I1MHlfeTdWSHd4MEVOVHltRDFTZkZUR2RCWUQ5UnIxb0RxTzB1cTBWV0pJT3o3RGhoTlJzR3RERVZPRnpVM1UwOWRzVDBhUjdpM0NfUjRKSV84MzZTUHhtOG01dU9YeHdRbkNnQlk5UlhjMUcyX0pHUEpNcjhBTUZTZGxRd0JmWUVMUlFmdVR2RE9SYXp1ejAtVldyWDVHMWFFaURQQUtUNWFnY0VlRE1qbWJQUXFyR1Q2cW9DQ2psMVhPczJyaXVIRGhhdm81X0NKUF8zYmFMZVNvUm9GVUMwTEItVW4yNVZZcTNGcVZSRzJsdE9faFlxckoyaEN5SW4yN0w3aW5YOTByMlotQVJMYTNEVHBiUFBVYlBYd2o4N1RCRkZw0gHCAkFVX3lxTE1wbjJjSHNadGdraW9KUlV4eURCN3MzWm9scDlHSGpfZDliSnNJQkFIby1lQWxqYzJsaHFaTUx6Y0owZ1B5VWZKUDNVdW1rcmcwTzhtNG92N2ZTb2RzRlV0RktSSThyYktHdF9LRU92N0tmbHNjVUZody1ZZmV2M2dQQkc3X01TR1VDdVFCa0F3LUNqb013TGlsRTNoRk0wajNWTFVLZnVNc29pU1hJWHZNWUlQLXBRUndOREpQWnBMRVZmejBTRnkzalI3T2xBcmVobDQwclBENVBzbFpPZ0dZRTdOeWtmbVhCb20zZmo4QVZUc185aXk3QkQtRnRrYTl3bjVQMS1RNlU0N0x4cXJHQk9lZHNtWDg4NmxVMVpQcWFCVUJOeVpMc2ViOUEzZmpfZm5mZDhTNzZtR241OUdaSXc?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T02:57:45Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
@@ -537,263 +550,29 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Epa.gov"
             },
-            "author": "TipRanks",
-            "title": "‘Time to Pull the Trigger,’ Says Benchmark About Rivian Stock - TipRanks",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONTBXYWxPUi1fVllqRFlXVm4zWG0zbTdzcW9ZRjM3d3VUQ1JNRUJTeUF6bEV1WmNBaFd0OGR3X2tzZUNBb19PVjJsaXBKcEhJZUo2dlU1MC1MdU96Uks5NXoxV0Jxdmota3pLM2E3STIyemJQa2hZX2NBOUdKZ3p2dUlNZUdNemxQcHJQR0NkNjA2UQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-10T01:32:56Z",
-            "content": null
+            "author": null,
+            "title": "Biden-Harris Administration Announces Latest Actions under Nation’s Chemical Safety Law to Protect People from Cancer-Causing Chemicals Trichloroethylene and Perchloroethylene - U.S. EPA.gov",
+            "description": "EPA News Release: Biden-Harris Administration Announces Latest Actions under Nation’s Chemical Safety Law to Protect People from Cancer-Causing Chemicals Trichloroethylene and Perchloroethylene",
+            "url": "https://www.epa.gov/newsreleases/biden-harris-administration-announces-latest-actions-under-nations-chemical-safety-law",
+            "urlToImage": "https://www.epa.gov/sites/all/themes/epa/img/epa-news-releases-og.jpg",
+            "publishedAt": "2024-12-09T14:59:36Z",
+            "content": "Final EPA rules ban all uses of TCE, all consumer uses and many commercial uses of PCE, require worker protections for all remaining uses under the Toxic Substances Control Act\r\nDecember 9, 2024\r\nWAS… [+10794 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "FX Empire"
+                "name": "The Boston Globe"
             },
-            "author": "Bob Mason",
-            "title": "XRP News Today: XRP Price Hangs on SEC Appeal and Senate Vote; BTC Sees Sub-$95k - FX Empire",
-            "description": "Ripple case drama unfolds with SEC appeal and Senate vote on Commissioner Crenshaw. XRP’s trajectory hinges on political and legal outcomes.",
-            "url": "https://www.fxempire.com/forecasts/article/xrp-news-today-xrp-price-hangs-on-sec-appeal-and-senate-vote-btc-sees-sub-95k-1482157",
-            "urlToImage": "https://responsive.fxempire.com/v7/_fxempire_/2024/01/XRP-Money-1.jpg?func=cover&q=70&width=700",
-            "publishedAt": "2024-12-10T01:30:00Z",
-            "content": "Uncertainty about whether the SEC will file its opening brief has likely contributed to XRPs retreat from the December 3 high of $2.9070.\r\nInternal SEC rules mandate that an agency vote, not the Chai… [+4571 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Themountaineer.com"
-            },
-            "author": "Vicki Hyatt vhyatt@themountaineer.com",
-            "title": "Pactiv to sell out; impact on Canton mill is uncertain - The Mountaineer",
-            "description": "CANTON — Haywood residents who took a chance on investing in Pactiv Evergreen when it went public in 2020 can cash out at a significant profit, as the company is",
-            "url": "https://www.themountaineer.com/news/pactiv-to-sell-out-impact-on-canton-mill-is-uncertain/article_bd0829fa-b650-11ef-abff-8fd9ee39c85d.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/themountaineer.com/content/tncms/assets/v3/editorial/7/87/78713b32-0ba3-11ee-9ed2-5b6125532448/648b4ca252ee1.image.jpg?crop=1762%2C925%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2024-12-10T01:28:00Z",
-            "content": "CANTON Haywood residents who took a chance on investing in Pactiv Evergreen when it went public in 2020 can cash out at a significant profit, as the company is about to be sold.\r\nPactiv Evergreen wil… [+5172 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Investopedia",
-            "title": "AMD Stock Falls After Downgrade From BofA, Citing Risks From Competition - Investopedia",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHhodmlpcjZSZ2FPR2dHcGoyLS1VV09OQ3BJV05pa3d0dDFndFNhc0FCNFBuMXlaRWdLby1QVlo5X1lMN2x2Y2lkdWpjZGZ2ZEQ5NXJWSkxoQzN2SzJOUi1LTFpKeHFubFVRYlE3NVJVaVBTZ3FtekFKXzFQMVdaRDlpR3dlRGlocHFOWVVVRUVPeUlYeTdzR0NsYVpZendxSnJsUXpQcmhwZnBr?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-09T22:04:57Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Investopedia",
-            "title": "Oracle Stock Slides as Revenue Falls Short of Expectations - Investopedia",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NT2V0TThoLUE2N3pVelRiYVVpVjNjcWJZVUtuWFE1bUFoTHhGZ25wUzNEQy1YSVl5ak9GOHFQc0F2VExzN2o0T2d6eEt2dHNmTjk4a0tPOG05RHFTX3U5SXJGRXVYRmU5ek9Cdm1Ubzk?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-09T21:39:56Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Barron's",
-            "title": "Boeing Was on 60 Minutes Last Night. Here's What We Learned. - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/boeing-stock-60-minutes-nbc-ad2f8a31",
-            "urlToImage": null,
-            "publishedAt": "2024-12-09T21:36:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Benzinga",
-            "title": "C3.ai Stock Rallies After Q2 Results, 'Seventh Consecutive Quarter Of Accelerating Revenue Growth' - Benzinga",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbkxOckJoZll0ZjNpaEZMaFNYLWp1LVdvLXM1STJLN1FoaGJONFk0TW9xcVpUN1JOSEp3VDF0TXYyeHMyX2FINExPR2ZNZXkydWFoWnNjSXFPYTEzS2I4Y2RVdWpxSWpBRDM2U2NGXzgyZzdqYmdsZ3dyamhZQk5IYWN6ajFrX2hxZk9ldWJybnRkY1BySjdVVmV4RGxoUjBSdkE3U1ZsZmNNUkVqVlhSVFYtN3M0cTJUR2ZDQnU4Z2lXZVRVNFptY21vNnVWQlJSNnQtLUtWSHVINkt1eEVib19n?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-09T21:24:51Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Yahoo Finance",
-            "title": "MicroStrategy Buys More Bitcoin as Funding Draws Scrutiny - Yahoo Finance",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWZMY2lUcUpBOTdUaFlPbmR2Z0djVkw4dVBDWVJtTl9GdFRNaWdpRWJTRnhmRXNFZkFYU1h1MzNzNE4xZ2NoaEY3bG9yRkgwM25JTDVIT1VrY0hwUzZmTGZ2YnJqSnlYcnF6OWZfU295RExLdFFsSkN1UUUwamE5d1A4T3FuQ3hOaGhGdjZn?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-09T21:19:45Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Yahoo! Voices",
-            "title": "Protest planned after Cracker Barrel refuses to serve autistic students - Yahoo! Voices",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUVyWXJpVTMwcUJnNjktTjM2WUZyOG9FWUs4b2NaUUlYdzhwTmVRMzdydWVzUzhqdlRsVXYta1RyLXk1eXk2aWVqVWptVVRsTE42cU5OcndUbW5Ecl9pbmNlc1B4UXQzLUxsdXIwNkNNcUVqdVRXd2s0dFJzYzNQcm1RblZlV0U?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-12-09T21:15:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "APARNA NARAYANAN, Investor's Business Daily",
-            "title": "Advertising Industry To Hit $1 Trillion Led By The New 'Big 5' - Investor's Business Daily",
-            "description": "Just five companies are set to grab more than half of global advertising revenue.",
-            "url": "https://www.investors.com/news/advertising-industry-to-hit-1-trillion-dominated-by-the-new-big-5/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2016/04/5SECRET-041416-shutterstock.jpg",
-            "publishedAt": "2024-12-09T21:07:00Z",
-            "content": "Just five companies are expected to grab more than half of global ad dollars this year, with the advertising industry set to exceed $1 trillion in revenue for the first time.\r\nThose companies include… [+4250 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "RYAN DEFFENBAUGH, Investor's Business Daily",
-            "title": "Reddit's Growth 'Still Early' After 200% Post-IPO Run, Analyst Says - Investor's Business Daily",
-            "description": "Reddit stock touched new highs Monday following a bullish upgrade from analysts at Morgan Stanley. Shares are up more than 220% from its IPO.",
-            "url": "https://www.investors.com/news/technology/reddit-stock-rddt-stock-upgrade-ai-morgan-stanley/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/02/Stock-reddit-01-adobe.jpg",
-            "publishedAt": "2024-12-09T21:04:00Z",
-            "content": "Reddit (RDDT) stock hit a record high Monday following an analyst upgrade. Morgan Stanley turned bullish on the stock, after analyst Brian Nowak wrote that he was \"wrong on the sidelines,\" as Reddit'… [+2911 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Barron's",
-            "title": "Oppenheimer Is Now the Biggest Bull on Wall Street. Thank AI. - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/oppenheimer-s-p-500-forecast-bull-run-acede006",
-            "urlToImage": null,
-            "publishedAt": "2024-12-09T19:37:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Emily Peck",
-            "title": "Gas prices are the lowest since 2021 - Axios",
-            "description": "Gas prices haven't been this low since spring 2021.",
-            "url": "https://www.axios.com/2024/12/09/gas-prices-us-average-lowest-biden",
-            "urlToImage": "https://images.axios.com/0CLP3We3_ZzmjY9t6XFVdohKspM=/0x0:1600x900/1366x768/2024/12/09/1733766884008.png",
-            "publishedAt": "2024-12-09T18:53:53Z",
-            "content": "Gas prices haven't been this low since spring 2021.\r\nWhy it matters: Displayed prominently on big signs everywhere you drive, prices at the pump are a key economic indicator for the general public.\r\n… [+1282 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Benzinga"
-            },
-            "author": "Erica Kollmann",
-            "title": "Oil Prices Move Higher As Syrian Rebels Take Control Of Damascus - SPDR S&P 500 (ARCA:SPY) - Benzinga",
-            "description": "The situation remains fluid and the United Nations Security Council is set to discuss the developments and implications for regional stability on Monday afternoon. Financial markets are reacting to the increased uncertainty in the region, as well.",
-            "url": "https://www.benzinga.com/24/12/42396181/whats-going-on-in-syria-how-financial-markets-are-faring",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/12/09/Damascus--Syria.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2024-12-09T17:47:27Z",
-            "content": "Syrian President Bashar Assad’s 24-year rule came to an abrupt end Sunday following a 12-day offensive by rebel forces. \r\nThe Details: Assad fled the country after rebels gained control and has repor… [+1572 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Pritam Biswas, Arasu Basil",
-            "title": "Gallagher's $13.5 bln AssuredPartners deal strengthens its US insurance broker business - Reuters",
-            "description": "Arthur J Gallagher will buy insurance broker AssuredPartners in a $13.45 billion all-cash deal, it said on Monday, as it deepens focus on property and casualty and employee benefits across the U.S.",
-            "url": "https://www.reuters.com/markets/deals/arthur-j-gallagher-buy-assuredpartners-1345-bln-deal-2024-12-09/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/IRFS374BGBNHJFO6OU3JRLARAE.jpg?auth=c76dddf19bab1ea6b13453ef4c718bdf0c543652557e608ae0cc863bc6b93d9a&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-12-09T16:28:28Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Taylor Herzlich",
-            "title": "Activist investor pushes Macy’s to expand Bloomingdale’s business, create real estate unit - New York Post ",
-            "description": "Barington Capital partnered with real estate firm Thor Equities on its investment, according to a presentation for Macy’s shareholders.",
-            "url": "https://nypost.com/2024/12/09/business/activist-investor-pushes-macys-to-expand-bloomingdales-business-create-real-estate-unit/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/95070179.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-12-09T15:34:00Z",
-            "content": "Activist investor Barington Capital on Monday revealed a stake in Macys and pushed the retailer to consider options for its Bloomingdales and Bluemercury businesses and create a separate real estate … [+5022 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "Bernard Zambonin",
-            "title": "Broadcom Pre-Earnings: The Key to Bullish Momentum Lies in Guidance - TipRanks",
-            "description": "The semiconductor giant Broadcom ($AVGO) is set to report its Q4 earnings on December 12th, after the closing bell. My bullish outlook on the stock is driven by the...",
-            "url": "https://www.tipranks.com/news/broadcom-pre-earnings-the-key-to-bullish-momentum-lies-in-guidance",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2023/12/Broadcom-shutterstock_1968970042-750x406.jpg",
-            "publishedAt": "2024-12-09T13:37:03Z",
-            "content": "Story HighlightsBroadcom is set to report Q4 earnings, and given its strong track record of beating estimates, this trend is likely to continue. The near-term investor reaction will likely hinge on r… [+26 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "As.com"
-            },
-            "author": "Greg Heilman",
-            "title": "Goodbye to retirement age of 66 years and 8 months: here is the new retirement age from January 1, 2025 - AS USA",
-            "description": "Every year the age when American retirees can begin to claim Social Security benefits without a penalty has been getting higher. Here’s what it is in 2025.",
-            "url": "https://en.as.com/latest_news/goodbye-to-retirement-age-of-66-years-and-8-months-here-is-the-new-retirement-age-from-january-1-2025-n/",
-            "urlToImage": "https://img.asmedia.epimg.net/resizer/v2/EEKBMOY3QRDBFJRVZXDHPBWUAM.jpg?auth=190476dd66e8626ef41b438fb4b54ad329f2a25f864b42262399f913aae09bd5&width=1472&height=828&smart=true",
-            "publishedAt": "2024-12-09T11:30:19Z",
-            "content": "The new year will bring a series of changes to Social Security. Every year the Social Security Administration announces a cost-of-living adjustment (COLA) which applies to beneficiaries payments star… [+3095 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WABC-TV"
-            },
-            "author": "Eyewitness News",
-            "title": "NYC lottery: Powerball ticket worth $256M sold at Queens supermarket - ABC7 New York",
-            "description": "The New York Lottery has revealed that the state has its first Powerball winner since 2020.",
-            "url": "https://abc7ny.com/post/nyc-lottery-powerball-ticket-worth-256m-sold-queens-supermarket/15630173/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/15630203_120924-wabc-powerball-winning-ticket-in-queens-img.jpg?w=1600",
-            "publishedAt": "2024-12-09T11:13:12Z",
-            "content": "FLUSHING, Queens -- If you recently played the Powerball lottery, check your tickets,\r\nA winning ticket, worth a staggering $256 million, was sold on Saturday night at a supermarket in Queens.\r\nAccor… [+605 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Lionel Lim",
-            "title": "BYD could near Honda and Ford in cars sold this year as EV giant looks set to surpass its 4 million sales target - Yahoo Finance",
-            "description": "BYD sold around 3.8 million cars in the first 11 months of 2024, a 40% year-on-year jump.",
-            "url": "https://finance.yahoo.com/news/byd-could-near-honda-ford-095154731.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TAYdE7nqeVQIrwzlw2OTmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/e889907c9fdf58c77dad3da63dfd3cbd",
-            "publishedAt": "2024-12-09T09:51:54Z",
-            "content": "BYD, Chinas EV giant, is on course to zoom past its 2024 sales target of 4 million vehicles after selling more than half a million cars last month.\r\nThe Chinese carmaker sold 506,804 vehicles in Nove… [+2770 chars]"
+            "author": null,
+            "title": "How much more do we want to pay for T-shirts? - The Boston Globe",
+            "description": "President-elect Donald Trump’s new tack on tariffs comes with its own set of costs, says Michael Froman, who served as Barack Obama’s top trade negotiator.",
+            "url": "https://www.bostonglobe.com/2024/12/09/business/trump-trade-tariffs-costs-michael-froman/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/DVCVV5XQRNGAJP7Z765XJ3KWOU.jpg?auth=eaff0752f71fb6b8d2e93b5f27d0802eb1e5cb49c9e66347dccde985b198cdff&width=1440",
+            "publishedAt": "2024-12-09T14:29:27Z",
+            "content": "The withdrawal marked a decisive move away from the post-World War II free-trade priorities of increasing competitiveness, growth, and efficiency.\r\nFroman, who is now president of the Council on Fore… [+4673 chars]"
         }
     ]
 }

@@ -1,19 +1,305 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 34,
     "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "1 dead, 15 hurt after small plane crashes into building in Southern California - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/18-hurt-after-small-plane-crashes-building-southern/story?id\\\\u003d117284216",
+            "urlToImage": null,
+            "publishedAt": "2025-01-03T00:05:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "US President Biden awards presidential medal to Trump critic Liz Cheney - Al Jazeera English",
+            "description": "A total of 20 recipients were honoured, including two who had investigated the attack on the US Capitol in January 2021.",
+            "url": "https://www.aljazeera.com/news/2025/1/2/us-president-biden-awards-presidential-medal-to-trump-critic-liz-cheney",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/AP25002430570419-1735856510.jpg?resize=1200%2C630",
+            "publishedAt": "2025-01-02T23:38:08Z",
+            "content": "Outgoing President Joe Biden has awarded the Presidential Citizens Medal, the second-highest civilian honour in the United States, to members of a congressional committee that investigated the attack… [+5464 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gawon Bae, Mitchell McCluskey, Simone McCarthy",
+            "title": "Investigators arrive at South Korean president’s residence to carry out arrest warrant - CNN",
+            "description": "The suspended President Yoon Suk Yeol has remained defiant, vowing to “fight to the end” for the country.",
+            "url": "https://www.cnn.com/2025/01/02/asia/south-korea-president-arrest-warrant-hnk-latam-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2191612506.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-01-02T23:06:00Z",
+            "content": "South Korean investigators have entered the residential compound of impeached President Yoon Suk Yeol to enforce an arrest warrant for him, Yonhap News Agency reported on Friday morning local time.\r\n… [+2815 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "FBI releases new video, information in hunt for Jan. 6 pipe bomber - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/Politics/fbi-releases-new-video-information-hunt-jan-6/story?id\\\\u003d117275361",
+            "urlToImage": null,
+            "publishedAt": "2025-01-02T23:04:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aliza Chasan",
+            "title": "A grieving orca carried her dead calf for 17 days in 2018. Now she's again carrying the body of her latest child. - CBS News",
+            "description": "An endangered orca who carried her dead calf for over two weeks in 2018 is doing so once again following the death of her new calf.",
+            "url": "https://www.cbsnews.com/news/orca-carrying-dead-calf-tahlequah-killer-whale/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/01/02/80140699-81e1-4c75-8053-6dae9aa1b586/thumbnail/1200x630/d896b3fd780e392d7d26b6a5b534ecde/54242488066-bdc2a21b9a-c.jpg?v=fa9977353833f46f40b07abcd9d5240b",
+            "publishedAt": "2025-01-02T23:00:28Z",
+            "content": "An orca who made headlines in 2018 after she carried her dead calf for more than two weeks was again spotted carrying the body of her newborn, just days after researchers confirmed she'd given birth.… [+3617 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Claire Parker, Kareem Fahim, Hazem Balousha, Amanda Coletta, Lior Soroka",
+            "title": "Live Briefing: More than 40 dead in strikes on Gaza City, civil defense says - The Washington Post",
+            "description": "Israeli Prime Minister Benjamin Netanyahu has authorized a delegation to continue talks in Qatar on a ceasefire and hostage release deal, his office said Thursday.",
+            "url": "https://www.washingtonpost.com/world/2025/01/02/israel-hamas-war-news-syria-gaza-palestine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYF3ETGRRR4EJRCKSQBTQEMTM4_size-normalized.jpg&w=1440",
+            "publishedAt": "2025-01-02T22:25:36Z",
+            "content": "The Palestinian Authority has suspended the operations of the Al Jazeera news channel in the Israeli-occupied West Bank, citing unspecified breaches of laws and regulations, according to a statement … [+2250 chars]"
+        },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "LAURAN NEERGAARD, LAURA UNGAR, MIKE STOBBE",
-            "title": "5 things we know and still don’t know about COVID, 5 years after it appeared - The Associated Press",
-            "description": "Five years after the virus that causes COVID emerged in China it still holds some mysteries. The disease has killed an estimated 20 million people globally, according to the World Health Organization, and thousands are still dying every year. But scientists s…",
-            "url": "https://apnews.com/article/covid-vaccine-variant-omicron-deaths-wuhan-lab-1ae8a7b3e6e034e03722f17e7aad34cb",
-            "urlToImage": "https://dims.apnews.com/dims4/default/43252f8/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2F22%2F345bcecaa8cfe7a06efd8eee5e0d%2Fab578f1bb37340ebbe3d8044a4ccfb55",
-            "publishedAt": "2025-01-02T18:20:00Z",
-            "content": "Five years ago, a cluster of people in Wuhan, China, fell sick with a virus never before seen in the world.\r\nThe germ didnt have a name, nor did the illness it would cause. It wound up setting off a … [+7546 chars]"
+            "author": "THE ASSOCIATED PRESS",
+            "title": "Live updates: FBI now says New Orleans truck attacker acted alone in an ‘act of terrorism’ - The Associated Press",
+            "description": "Bourbon Street has reopened after an attacker drove a truck through a crowd on New Year's Day. The attacker has been identified as Shamsud-Din Jabbar, a Texas native who was inspired by the Islamic State group.",
+            "url": "https://apnews.com/live/new-orleans-truck-attack-updates",
+            "urlToImage": "https://dims.apnews.com/dims4/default/d4dd44d/2147483647/strip/true/crop/3000x1688+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2F05%2Fd1c6ad74466b89fc6ce23e26cc7d%2Fap25001621942381.jpg",
+            "publishedAt": "2025-01-02T22:12:00Z",
+            "content": "Heaven Sensky-Kirsch says her father, Jeremi Sensky, endured 10 hours of surgery for injuries from the truck attack that included two broken legs. He was taken off a ventilator Thursday.\r\nJeremi Sens… [+901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "247Sports"
+            },
+            "author": "Anna Adams",
+            "title": "Four-star WR Donovan Murph commits to South Carolina over Clemson at Under Armour All-America Game - 247Sports",
+            "description": "South Carolina kicked off the new year by landing prized instate wide receiver recruit Donovan Murph in a headtohead battle with Clemson at the Under Armour AllAmerica Game",
+            "url": "https://247sports.com/college/south-carolina/article/four-star-wr-donovan-murph-commits-to-south-carolina-over-clemson-at-under-armour-all-america-game-243350196/",
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/196/851/12851196.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
+            "publishedAt": "2025-01-02T21:56:15Z",
+            "content": "During pregame of the Under Armour All-America Game Thursday afternoon, four-star senior wide receiver Donovan Murph of Irmo (S.C.) High announced his South Carolina commitment. The 6-foot-2, 190 pou… [+4349 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Ashima Grover",
+            "title": "Golden Globes 2025: When and where to watch the season-opening new year awards event - Hindustan Times",
+            "description": "Golden Globes 2025 will usher in a new era as Sunday's show marks the New Year's first big awards night. Presenters include Viola Davis &amp; Andrew Garfield.&nbsp; | Hollywood",
+            "url": "https://www.hindustantimes.com/entertainment/hollywood/golden-globes-2025-when-and-where-to-watch-the-season-opening-new-year-awards-event-101735851686116.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/01/02/1600x900/US-ENTERTAINMENT-FILM-TELEVISION-GLOBES-PREVIEW-9_1735854261610_1735854285956.jpg",
+            "publishedAt": "2025-01-02T21:45:12Z",
+            "content": "The 82nd Annual Golden Globes' live ceremony is merely days away from opening the New Year awards season. Presenters for the star-studded night of cinematic revelry that serves as the first major awa… [+2975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "David Welch",
+            "title": "Hindenburg Shorts Carvana, Alleging ‘Grift for the Ages’ - Yahoo Finance",
+            "description": "(Bloomberg) -- Carvana Co. was accused by prominent short-seller Hindenburg Research of impropriety in a report alleging that the auto retailer’s subprime...",
+            "url": "https://finance.yahoo.com/news/hindenburg-shorts-carvana-accusing-firm-181246154.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JFvWWQgm4D1l2InSb4rfpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/f397246d31e0d3d19aae975e275dcd71",
+            "publishedAt": "2025-01-02T21:27:25Z",
+            "content": "(Bloomberg) -- Carvana Co. was accused by prominent short-seller Hindenburg Research of impropriety in a report alleging that the auto retailers subprime loan portfolio carries substantial risk and i… [+2819 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "xAI’s next-gen AI model didn’t arrive on time, adding to a trend - TechCrunch",
+            "description": "xAI aimed to release its next major model, Grok 3, in 2024 — but missed that deadline. It adds to a trend among AI companies.",
+            "url": "https://techcrunch.com/2025/01/02/xais-next-gen-grok-model-didnt-arrive-on-time-adding-to-a-trend/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?resize=1200,800",
+            "publishedAt": "2025-01-02T21:24:03Z",
+            "content": "The list of flagship AI models that missed their promised launch windows continues to grow.\r\nLast summer, billionaire Elon Musk, the founder and CEO of AI company xAI, said that Grok 3, xAI’s next ma… [+2919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Georgia vs. Notre Dame where to watch: TV channel, live stream, Sugar Bowl odds, spread, prediction, pick - CBS Sports",
+            "description": "The Bulldogs and Fighting Irish prepare for a heavyweight battle in the CFP quarterfinal",
+            "url": "https://www.cbssports.com/college-football/news/georgia-vs-notre-dame-where-to-watch-tv-channel-live-stream-sugar-bowl-odds-spread-prediction-pick/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/12/30/4b15f031-ed62-4e61-ab83-03437a12298c/thumbnail/1200x675/ce5038af55540ba6322a9b4138ce854e/jeremiyah-love-getty.jpg",
+            "publishedAt": "2025-01-02T20:50:00Z",
+            "content": "After first-round on-campus games, the College Football Playoff shifts to traditional bowl sites for the quarterfinal round. For Georgia, it's a familiar scene. The Bulldogs haven't lost a bowl game … [+5816 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Pulisic return gives U.S. big presence in Super Cup - ESPN",
+            "description": "United States attacker Christian Pulisic appears to be healthy again following injuries to his calf and ankle and could return for AC Milan against Juventus in the Italian Super Cup semifinals on Friday.",
+            "url": "https://www.espn.com/soccer/story/_/id/43261822/christian-pulisic-return-milan-super-cup",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1017%2Fr1401710_1296x729_16%2D9.jpg",
+            "publishedAt": "2025-01-02T20:49:00Z",
+            "content": "Christian Pulisic appears to be healthy again following injuries to his calf and ankle and could return for AC Milan against Juventus in the Italian Super Cup semifinals on Friday.\r\nThe United States… [+1297 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Mychael Schnell, Emily Brooks",
+            "title": "Conservatives seek commitments as Johnson scrambles for Speaker votes - The Hill",
+            "description": "Roughly a dozen hard-line House conservatives are demanding a host of amorphous commitments from Speaker Mike Johnson (R-La.) to win their support Friday, throwing his leadership tenure into uncertainty less than 24 hours before the vote. The holdouts are lar…",
+            "url": "https://thehill.com/homenews/house/5064018-house-conservatives-demand-speaker-mike-johnson/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/01/johnsonmike_041124gn01_w.jpg?w=1280",
+            "publishedAt": "2025-01-02T20:48:00Z",
+            "content": "Skip to content\r\nRoughly a dozen hard-line House conservatives are demanding a host of amorphous commitments from Speaker Mike Johnson (R-La.) to win their support Friday, throwing his leadership ten… [+6668 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "US appeals court blocks Biden administration effort to restore net-neutrality rules - Reuters",
+            "description": "A U.S. appeals court ruled on Thursday the Federal Communications Commission did not have legal authority to reinstate landmark net neutrality rules.",
+            "url": "https://www.reuters.com/legal/us-appeals-court-blocks-biden-administration-net-neutrality-rules-2025-01-02/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/63F3RRLF3JO6FEOTSQKU5BF32U.jpg?auth=6bc01ae560875eee6bb1f651ec2c0c91832fdd53d8f76a1a1bf11381ddc7454d&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-01-02T20:22:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "The last of Fossil’s Wear OS smartwatches are finally dead - 9to5Google",
+            "description": "A year after it announced its departure, the last Wear OS smartwatch from Fossil, the Citizen CZ Smart, is finally dead.",
+            "url": "http://9to5google.com/2025/01/02/fossil-wear-os-citizen-cz-smart-end-of-sales/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/01/Citizen-CZ-smart-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-01-02T20:10:00Z",
+            "content": "Roughly a year ago Fossil announced that it was done with Wear OS smartwatches, and to start 2025, the last remaining of the brand’s smartwatches has officially been pulled from the market.\r\nFossil w… [+2595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "‘Dinosaur highway’ dating back 166 million years discovered in England - PBS NewsHour",
+            "description": "Researchers in England have unearthed nearly 200 dinosaur tracks that date back 166 million years.",
+            "url": "https://www.pbs.org/newshour/science/dinosaur-highway-dating-back-166-million-years-discovered-in-england",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/01/AP25002465581569-1024x683.jpg",
+            "publishedAt": "2025-01-02T19:34:14Z",
+            "content": "LONDON (AP) A worker digging up clay in a southern England limestone quarry noticed unusual bumps that led to the discovery of a dinosaur highway and nearly 200 tracks that date back 166 million year… [+2915 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lucia Moses",
+            "title": "5 big takeaways from Justin Baldoni's lawsuit against The New York Times over its Blake Lively story - Business Insider",
+            "description": "The libel lawsuit accuses the Times of relying \"almost entirely\" on what it describes as \"Lively's unverified and self-serving narrative.\"",
+            "url": "https://www.businessinsider.com/justin-baldoni-blake-lively-nyt-lawsuit-takeaways-2025-1",
+            "urlToImage": "https://i.insider.com/67759e3fe5726ab18d0e3db3?width=1200&format=jpeg",
+            "publishedAt": "2025-01-02T19:18:00Z",
+            "content": "Justin Baldoni sued The New York Times over its bombshell story on his \"It Ends With Us\" costar Blake Lively's sexual-harassment claims against him.\r\nThe libel lawsuit, filed Tuesday and reviewed by … [+2086 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": null,
+            "title": "Migrating bats “surf” on storms, study finds - Salon",
+            "description": "The Doors have nothing on these “Riders on the Storm”",
+            "url": "https://www.salon.com/2025/01/02/bats-surf-on-storms-study-finds/",
+            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/12/common_noctule_bat_nyctalus_noctula_1623044959.jpg",
+            "publishedAt": "2025-01-02T19:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2025-01-02T18:26:41Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": "Ryan Clarke | The Oregonian/OregonLive",
+            "title": "Inside the Oregon locker room after the No. 1 Ducks’ stunning Rose Bowl loss to Ohio State - OregonLive",
+            "description": "The Ducks are not unique in their relationship with the unforgiving, but it doesn't make the sting less painful.",
+            "url": "https://www.oregonlive.com/ducks/2025/01/inside-the-oregon-locker-room-after-the-no-1-ducks-stunning-rose-bowl-loss-to-ohio-state.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/v2/PX7NDC7XIVCCVITWJM3M5D7SBM.jpg?auth=b15d99295c68b455b8ed1dc84181e26915f15680984d041e2babdb45d0ffe976&width=1280&quality=90",
+            "publishedAt": "2025-01-02T18:12:00Z",
+            "content": "PASADENA, Calif. Players and staff members shuffle out of the Oregon football locker room and collect pre-prepared meals as coach Dan Lanning and athletic director Rob Mullens pull up on a golf cart.… [+3519 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Brooke Steinberg",
+            "title": "Meteor showers, northern lights and supermoons: Here's what 2025 has in store if you look up - New York Post ",
+            "description": "The skies are looking bright in the new year.",
+            "url": "https://nypost.com/2025/01/02/science/meteor-showers-northern-lights-and-supermoons-heres-what-2025-has-in-store-if-you-look-up/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/long-exposure-photo-streak-appears-96111245.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-01-02T17:31:00Z",
+            "content": "See you crater, 2024!\r\nAfter a year of out-of-this-world solar events — including a total solar eclipse and sightings of the northern lights — 2025 will bring even more reasons to look up at the sky.… [+2843 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "PAUL WISEMAN AP economics writer",
+            "title": "Average rate on a 30-year U.S. mortgage hits 6.91%, according to Freddie Mac, the highest since July - ABC News",
+            "description": "U.S. mortgage rates rose this week to the highest level since July",
+            "url": "https://abcnews.go.com/Business/wireStory/average-rate-30-year-us-mortgage-hits-691-117273148",
+            "urlToImage": "https://i.abcnewsfe.com/a/88626ea2-fe26-4b46-a09a-352c5109deeb/wirestory_1f593f0c22cb44be15fe38a1692a2638_16x9.jpg?w=1600",
+            "publishedAt": "2025-01-02T17:30:52Z",
+            "content": "WASHINGTON -- U.S. mortgage rates rose this week to the highest level since July.\r\nThe benchmark 30-year fixed rate loan rate rose to 6.91% from 6.85% last week, according to mortgage giant Freddie M… [+870 chars]"
         },
         {
             "source": {
@@ -31,19 +317,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Variety"
-            },
-            "author": "Ellise Shafer",
-            "title": "'With Love, Meghan' Trailer: Meghan Markle's Netflix Cooking Series - Variety",
-            "description": "Just a day after returning to Instagram, Meghan Markle has shared the first trailer for her upcoming Netflix lifestyle series \"With Love, Meghan.\"",
-            "url": "https://variety.com/2025/tv/global/with-love-meghan-trailer-meghan-markle-netflix-series-cooking-1236263976/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2025/01/With_Love_Meghan_u_S1_E5_00_08_54_01R.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2025-01-02T17:22:00Z",
-            "content": "Just a day after returning to Instagram, Meghan Markle took to the platform to share the first trailer for her upcoming Netflix lifestyle series “With Love, Meghan.”\r\nIn the trailer, the Duchess of S… [+1394 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "mlive.com"
             },
             "author": "Matt Durr | mattdurr@mlive.com",
@@ -56,107 +329,29 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Elisabeth Buchwald",
-            "title": "Mortgage rates inch closer to 7% to close out 2024 - CNN",
-            "description": "Mortgage rates are climbing again, in yet another unwelcome sign to homebuyers.",
-            "url": "https://www.cnn.com/2025/01/02/economy/mortgage-rates-2024/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230328085913-us-home-for-sale-file-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-01-02T17:14:00Z",
-            "content": "Mortgage rates are climbing again, in yet another unwelcome sign to homebuyers.\r\nThe standard, 30-year fixed-rate mortgage averaged just shy of 7% in the final week of 2024 ending on January 2, accor… [+3172 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "NBCSports.com"
+                "name": "MarketWatch"
             },
-            "author": "Mike Florio",
-            "title": "PFT’s Week 18 2024 NFL picks: Florio vs.Simms - NBC Sports",
-            "description": "Last week of regular season is here . . . and here are our picks for every game.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-18-2024-nfl-picks-florio-vs-simms",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/ccd4ad4/2147483647/strip/true/crop/4501x2532+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2F69%2Fa56151e54189adaf0460b37d2854%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2179930907",
-            "publishedAt": "2025-01-02T17:04:22Z",
-            "content": "Its time to finish strong.\r\nLast week, I went 14-2 straight up but only 8-8 against the spread. Simms was 13-3 and 10-6, respectively.\r\nIve got a three-game straight-up lead, at 178-78-0. Simms is 17… [+2653 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Lucia Mutikani",
-            "title": "US weekly jobless claims hit eight-month low as labor market remains resilient - Reuters",
-            "description": "The number of Americans filing new applications for unemployment benefits dropped to an eight-month low last week, pointing to low layoffs at the end of 2024 and consistent with a healthy labor market.",
-            "url": "https://www.reuters.com/markets/us/us-weekly-jobless-claims-unexpectedly-fall-2025-01-02/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/AYUAAVK7KVL55M4WU2DT6WOYIA.jpg?auth=0cbea2dd96d439abf6d96da94e5922fd98159f5ad5126a9569d23004e431eb62&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-01-02T17:00:46Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "PATRICK SEITZ, Investor's Business Daily",
-            "title": "AI Everywhere At CES 2025 With Spotlight On Nvidia CEO Jensen Huang - Investor's Business Daily",
-            "description": "The CES 2025 tech trade show will showcase advancements in artificial intelligence, robotics, wearable devices and other hot areas.",
-            "url": "https://www.investors.com/news/technology/ces-2025-ai-robots-wearables-smart-glasses-rings/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/12/Stock-CES-2024opening-01-company.jpg",
-            "publishedAt": "2025-01-02T16:54:00Z",
-            "content": "The CES 2025 technology trade show in Las Vegas promises to showcase advancements in key areas led by artificial intelligence, robotics and wearable devices.\r\nBut AI likely will be the key theme at t… [+7336 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "ABC News",
-            "title": "New Orleans attack latest: Police don't believe any other suspects involved, FBI says - ABC News",
+            "author": "MarketWatch",
+            "title": "What stocks’ worst stumble since 1952 in final days of 2024 may mean for 2025 - MarketWatch",
             "description": null,
-            "url": "https://abcnews.go.com/US/new-orleans-attack-latest-police-probe-suspect-motive/story?id\\\\u003d117262459",
+            "url": "https://www.marketwatch.com/story/what-stocks-worst-stumble-since-1952-in-the-final-days-of-2024-may-mean-for-2025-07403aa8",
             "urlToImage": null,
-            "publishedAt": "2025-01-02T16:52:30Z",
+            "publishedAt": "2025-01-02T17:05:00Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Whitehouse.gov"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "The White House",
-            "title": "President Biden Announces Recipients of the Presidential Citizens Medal - The White House",
-            "description": "WASHINGTON – Today, President Biden named twenty recipients of the Presidential Citizens Medal. The Presidential Citizens Medal is awarded to citizens of",
-            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/02/president-biden-announces-recipients-of-the-presidential-citizens-medal/",
-            "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
-            "publishedAt": "2025-01-02T16:28:59Z",
-            "content": "WASHINGTON Today, President Biden named twenty recipients of the Presidential Citizens Medal.\r\nThe Presidential Citizens Medal is awarded to citizens of the United States of America who have performe… [+8071 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Brian Stelter",
-            "title": "Trump falsely links New Orleans terror attack to migrants after erroneous Fox News report - CNN",
-            "description": "﻿An erroneous early Fox News report about the New Orleans terror attack is warping the political dialogue in the aftermath of the deadly rampage.",
-            "url": "https://www.cnn.com/2025/01/02/media/trump-new-orleans-attack-migrants-fox-news/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2191488828-20250102153157620.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-01-02T16:18:00Z",
-            "content": "An erroneous early Fox News report about the New Orleans terror attack is warping the political dialogue in the aftermath of the deadly rampage.\r\nThe false report from Fox, which was attributed to an… [+3265 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "BRIAN MELLEY Associated Press",
-            "title": "'Dinosaur highway' tracks dating back 166 million years are discovered in England - ABC News",
-            "description": "Researchers in England have unearthed nearly 200 dinosaur tracks that date back 166 million years",
-            "url": "https://abcnews.go.com/International/wireStory/dinosaur-highway-tracks-dating-back-166-million-years-117269418",
-            "urlToImage": "https://i.abcnewsfe.com/a/e3a09837-55f1-4421-824e-c080a76a7be8/wirestory_9fd0499419db0950099e6413a1936488_16x9.jpg?w=1600",
-            "publishedAt": "2025-01-02T15:33:23Z",
-            "content": "LONDON -- A worker digging up clay in a southern England limestone quarry noticed unusual bumps that led to the discovery of a dinosaur highway and nearly 200 tracks that date back 166 million years,… [+2515 chars]"
+            "author": "Emma Roth",
+            "title": "Samsung’s cheap Galaxy Fit 3 fitness tracker is coming to the US - The Verge",
+            "description": "Samsung is bringing its affordable Galaxy Fit 3 fitness tracker to the US. It will cost $59.99 when it launches on January 9th, 2025.",
+            "url": "https://www.theverge.com/2025/1/2/24334199/samsung-cheap-galaxy-fit3-fitness-tracker-a16-us-launch",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/6OMh9_Uc3_GSwqXRitggj_ZOlwo=/0x0:1440x1018/1200x628/filters:focal(720x509:721x510)/cdn.vox-cdn.com/uploads/chorus_asset/file/25813807/galaxy_fit_3.jpg",
+            "publishedAt": "2025-01-02T16:56:49Z",
+            "content": "Samsungs cheap Galaxy Fit 3 fitness tracker is coming to the US\r\nSamsungs cheap Galaxy Fit 3 fitness tracker is coming to the US\r\n / The Galaxy Fit 3 will cost $59.99 when it launches on January 9th.… [+1233 chars]"
         },
         {
             "source": {
@@ -174,249 +369,80 @@
         {
             "source": {
                 "id": null,
-                "name": "Hindustan Times"
+                "name": "Forbes"
             },
-            "author": "Bhavika Rathore",
-            "title": "Justin Baldoni's former agency refutes dropping him under Blake Lively and Ryan Reynolds' pressure - Hindustan Times",
-            "description": "WME claims it did not drop Justin Baldoni due to Blake Lively and Ryan Reynolds after Lively accused him of harassment. | Hollywood",
-            "url": "https://www.hindustantimes.com/entertainment/hollywood/justin-baldonis-former-agency-refutes-dropping-him-under-blake-lively-and-ryan-reynolds-pressure-101735821498389.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/01/02/1600x900/TOPSHOT-US-ENTERTAINMENT-MOVIE-0_1724347733487_1735831246421.jpg",
-            "publishedAt": "2025-01-02T15:22:23Z",
-            "content": "Justin Baldonis former agency, WME, insisted that they did not drop the actor and director because of Blake Lively and Ryan Reynolds. After the Gossip Girl alum filed a lawsuit accusing Baldoni of se… [+3307 chars]"
+            "author": "Paul Tassi",
+            "title": "The Exact ‘Squid Game’ Season 3 Release Date May Have Been Leaked By Netflix - Forbes",
+            "description": "Netflix may have accidentally just revealed the season 3 release date of Squid Game in 2025.",
+            "url": "https://www.forbes.com/sites/paultassi/2025/01/02/the-exact-squid-game-season-3-release-date-may-have-been-leaked-by-netflix/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67700fe3b33fde67058af5a3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-01-02T13:46:35Z",
+            "content": "Squid Game\r\nNetflix\r\nWhile Netflix has established that season 3 of Squid Game is coming in 2025 in multiple promos for its content in the coming year, they may have accidentally let the exact date s… [+2467 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "2025 Pro Bowl rosters: Ravens lead all teams with nine selections; Patrick Mahomes misses cut - CBS Sports",
-            "description": "The full rosters for the 2025 Pro Bowl",
-            "url": "https://www.cbssports.com/nfl/news/2025-pro-bowl-rosters-ravens-lead-all-teams-with-nine-selections-patrick-mahomes-misses-cut/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/01/02/62229493-2f0b-46dc-b5d7-462c516b4ebd/thumbnail/1200x675/54131069393ed7feb2b425051b5a4581/ravens-jpeg.jpg",
-            "publishedAt": "2025-01-02T14:47:00Z",
-            "content": "© 2004-2024 CBS Interactive. ALL RIGHTS RESERVED.\r\nCBS Sports is a registered trademark of CBS Broadcasting Inc. Commissioner.com is a registered trademark of CBS Interactive Inc.\r\nThe content on thi… [+358 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ashley Strickland",
-            "title": "How to watch the Quadrantids, one of the strongest meteor showers of the year - CNN",
-            "description": "The Quadrantid meteor shower is one of the strongest, and quickest, meteor showers of the year. Here’s what you need to know to observe it during peak activity.",
-            "url": "https://www.cnn.com/2025/01/02/science/quadrantid-meteor-shower-january/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1237540990.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-01-02T13:39:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe new year kicks off with the peak of the Quadrantid… [+5009 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nextbestpicture.com"
-            },
-            "author": "Matt Neglia",
-            "title": "Presenters Announced For The 82nd Annual Golden Globe Awards - Next Best Picture",
-            "description": "Today, the Golden Globes announced the star-studded lineup of presenters for the highly-anticipated 82nd Annual Golden Globes airing live on Sunday, January 5th, 2025, at 5 p.m. PT/8 p.m. ET on CBS and streaming on Paramount+ in the U.S. (live and on-demand f…",
-            "url": "https://nextbestpicture.com/presenters-announced-for-the-82nd-annual-golden-globe-awards/",
-            "urlToImage": "https://nextbestpicture-com.b-cdn.net/wp-content/uploads/2025/01/Golden-Globes-Presenters-2025.jpg",
-            "publishedAt": "2025-01-02T13:24:30Z",
-            "content": "Today, the Golden Globes announced the star-studded lineup of presenters for the highly-anticipated 82nd Annual Golden Globes airing live on Sunday, January 5th, 2025, at 5 p.m. PT/8 p.m. ET on CBS a… [+2129 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OregonLive"
-            },
-            "author": "James Crepea | The Oregonian/OregonLive",
-            "title": "What they’re saying nationally, in Columbus after No. 1 Oregon football lost to No. 8 Ohio State in Rose Bowl - OregonLive",
-            "description": "Roundup of what was written nationally and in Columbus after the game",
-            "url": "https://www.oregonlive.com/ducks/2025/01/what-theyre-saying-nationally-in-columbus-after-no-1-oregon-football-lost-to-no-8-penn-state-in-rose-bowl.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/v2/WIS2RVE6X5CM3I5NONXO3D7EZQ.jpg?auth=a42b4afb9b5eccfc3663a08f754a0e94f54fdfe89dc7fa69ae6476688520abf7&width=1280&quality=90",
-            "publishedAt": "2025-01-02T13:20:00Z",
-            "content": "PASADENA, Calif. No. 1 Oregon lost to No. 8 Ohio State 41-21 in a College Football Playoff quarterfinal game at the Rose Bowl Wednesday night.\r\nHeres a roundup of what was written nationally and in C… [+1483 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
+                "name": "National Institutes of Health"
             },
             "author": null,
-            "title": "Hamas police chief killed in Israeli strike on Gaza, medics say - BBC.com",
-            "description": "Three children and two women were also reportedly among the 11 killed at a tent camp.",
-            "url": "https://www.bbc.com/news/articles/cq62dver40yo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/049c/live/e774c000-c8ec-11ef-87df-d575b9a434a4.jpg",
-            "publishedAt": "2025-01-02T13:13:38Z",
-            "content": "The chief of Gaza's Hamas-run police force and his deputy have been killed in an Israeli strike on a tent camp sheltering displaced families.\r\nThe Hamas-run interior ministry condemned what it called… [+4594 chars]"
+            "title": "Aging may change some brain cells more than others - National Institutes of Health",
+            "description": "NIH-funded mouse study provides roadmap for how aging may alter brain cell genetic activity.",
+            "url": "https://www.nih.gov/news-events/news-releases/aging-may-change-some-brain-cells-more-others",
+            "urlToImage": "https://www.nih.gov/sites/default/files/news-events/news-releases/2025/20250102-mouse-brain.jpg",
+            "publishedAt": "2025-01-02T13:28:36Z",
+            "content": null
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "ign",
+                "name": "IGN"
             },
-            "author": "Tom Warren",
-            "title": "Asus, Samsung, and MSI announce world’s first 27-inch 4K OLED 240Hz monitors - The Verge",
-            "description": "The first 27-inch 4K OLED 240Hz monitors are arriving soon. Asus, Samsung, and MSI are ready with them, but nobody has a release date or price yet.",
-            "url": "https://www.theverge.com/2025/1/2/24334049/asus-samsung-msi-27-inch-4k-oled-240hz-monitors",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/kvp0UfsoAsd6sgLbNfQhCkZxFe0=/0x0:1200x724/1200x628/filters:focal(600x362:601x363)/cdn.vox-cdn.com/uploads/chorus_asset/file/25813556/msioled27inch.jpg",
-            "publishedAt": "2025-01-02T13:08:34Z",
-            "content": "Asus, Samsung, and MSI announce worlds first 27-inch 4K OLED 240Hz monitors\r\nAsus, Samsung, and MSI announce worlds first 27-inch 4K OLED 240Hz monitors\r\n / New gaming monitors promise high refresh r… [+1886 chars]"
+            "author": "Wesley Yin-Poole",
+            "title": "Nintendo Switch 2 Leaks Ramp Up as New Patent Suggests AI Image Upscaling Tech - IGN",
+            "description": "2025 has kicked off with even more Nintendo Switch 2 leaks, although this time they’re accompanied by a fresh patent that suggests the console includes exciting new tech.",
+            "url": "https://www.ign.com/articles/nintendo-switch-2-leaks-ramp-up-as-new-patent-suggests-ai-image-upscaling-tech",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/08/14/switch-blogroll-1656326807534-1656337488233-1660451221826.jpeg?width=1280",
+            "publishedAt": "2025-01-02T12:54:10Z",
+            "content": "2025 has kicked off with even more Nintendo Switch 2 leaks, although this time theyre accompanied by a fresh patent that suggests the console includes exciting new tech.\r\nLets start with the patent, … [+2118 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
             },
-            "author": null,
-            "title": "'Catwoman' socialite Jocelyn Wildenstein dies, reports say: See her through the years - USA TODAY",
-            "description": "Socialite Jocelyn Wildenstein, dubbed \"Catwoman,\" died on New Year's Eve in Paris, according to reports. See her through the years.",
-            "url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2025/01/02/jocelyn-wildenstein-dies-socialite-plastic-surgery-photos/77397276007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/01/02/USAT/77397322007-1422378809.jpg?crop=2687,1512,x0,y604&width=2687&height=1512&format=pjpg&auto=webp",
-            "publishedAt": "2025-01-02T13:02:52Z",
-            "content": "Socialite Jocelyn Wildenstein, dubbed \"Catwoman,\" died Dec. 31, 2024, on New Year's Eve in Paris, according to reports from AFP and People.\r\nSee the Swiss socialite, who became well known for her not… [+258 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Polar vortex to bring freezing weather to US - BBC.com",
-            "description": "A shift in cold air is set to bring heavy snow and sub-zero conditions in the first half of January.",
-            "url": "https://www.bbc.com/news/articles/c77jgeex62zo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f185/live/7eac3b80-c909-11ef-b64d-9d290e039e0a.jpg",
-            "publishedAt": "2025-01-02T12:52:06Z",
-            "content": "Freezing weather is expected to hit the eastern US in the coming days as the polar vortex moves.\r\nTemperatures are expected to remain below average for the south-east and East Coast through the first… [+2131 chars]"
+            "author": "By  RAQUEL GUERTZENSTEIN FROHLICH,  JERUSALEM POST STAFF",
+            "title": "Yellowstone’s volcanic activity could be shifting northeast, study finds - The Jerusalem Post",
+            "description": "The basalt regions within the caldera are slowly shifting to the upper crust, where heat is being diffused northeast.",
+            "url": "https://www.jpost.com/science/article-835794",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/641821",
+            "publishedAt": "2025-01-02T06:50:00Z",
+            "content": "Magma underneath the Yellowstone Caldera — one of Earth’s biggest volcanic complexes — may be moving northeast, according to a study released by the United States Geological Survey (USGS) on Wednesda… [+1298 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "FARNOUSH AMIRI",
-            "title": "Why Mike Johnson's bid to remain House speaker could be a struggle despite Trump's support - The Associated Press",
-            "description": "Mike Johnson is fighting for his political life, again. The Louisiana Republican’s hold on the House speaker's gavel and his position as second in line to the presidency will be tested Friday when a new Congress convenes. The challenge for Johnson is that he …",
-            "url": "https://apnews.com/article/house-speaker-mike-johnson-trump-mccarthy-0e0b5613f1d39f4e1405a475fdfea8ea",
-            "urlToImage": "https://dims.apnews.com/dims4/default/9a5e03f/2147483647/strip/true/crop/3975x2236+0+207/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F38%2Fc2e4b3957ac2fa3c31a91a173ed9%2F014c5738b02a4041adbbcf13f4b252dc",
-            "publishedAt": "2025-01-02T12:42:00Z",
-            "content": "WASHINGTON (AP) Mike Johnson is fighting for his political life, again. \r\nThe Louisiana Republicans hold on the House speakers gavel and his position as second in line to the presidency will be teste… [+5068 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sam Meredith",
-            "title": "Ukraine just stopped Russian gas flows to Europe. Here's who's most at risk - CNBC",
-            "description": "Austria has insisted it is well prepared for the stoppage, but Slovakia has threatened to cut electricity supplies to neighboring Ukraine.",
-            "url": "https://www.cnbc.com/2025/01/02/ukraine-stopped-russian-gas-reaching-europe-heres-whos-most-at-risk.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108081442-1735832411333-gettyimages-2191064621-_pmt4874_1f851e66-5c7a-40f9-8c89-0f7ffb57d9e0.jpeg?v=1735832443&w=1920&h=1080",
-            "publishedAt": "2025-01-02T12:39:56Z",
-            "content": "The Mitte Combined Heat and Power (CHP) natural gas power plant, operated by Vattenfall AB, in Berlin, Germany, on Wednesday, Jan. 1, 2025.\r\nUkraine halted the flow of Russian gas to several European… [+5866 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Gretchen Reynolds",
-            "title": "To boost fitness, try this simple, science-backed trick - The Washington Post",
-            "description": "‘Fartleks’ are an effective way to add intensity to activities, which a growing body of science indicates can make your workouts more beneficial.",
-            "url": "https://www.washingtonpost.com/wellness/2025/01/02/fartlek-interval-training-exercise/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UROHZVUOCQI6TNXUAMZVMUBNZY.jpg&w=1440",
-            "publishedAt": "2025-01-02T12:11:55Z",
-            "content": "If youve resolved to get more fit in 2025, youre in luck, because almost any exercise will steer you toward that goal. But of all your exercise options, few will be as effective, simple, adaptable an… [+4930 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Hatty Willmoth",
-            "title": "Bird Flu Warning Over New Virus Risk: 'Significant Public Health Concern' - Newsweek",
-            "description": "Public health officials have warned that new mutations of bird flu with human flu could have dangerous consequences.",
-            "url": "https://www.newsweek.com/bird-flu-warning-virus-mutation-public-health-2008528",
-            "urlToImage": "https://d.newsweek.com/en/full/2554744/bird-flu-image.png",
-            "publishedAt": "2025-01-02T11:56:10Z",
-            "content": "Combined infection with bird flu and human flu could lead to mutations of new viruses that could have dangerous public health consequences, agencies have warned.\r\nThis is following the news that muta… [+4207 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sammyfans.com"
-            },
-            "author": "Camila Foster",
-            "title": "Samsung updates Galaxy Clock ahead of One UI 7 Beta 3 - Sammy Fans",
-            "description": "Samsung is preparing to release a new One UI 7 Beta update for the Galaxy S24 series. Ahead of the One UI 7 Beta 3 release, Samsung has pushed a fresh update for its exclusive Clock app with version 12.4.02.58. The new Samsung Clock app version has been spott…",
-            "url": "https://www.sammyfans.com/2025/01/02/samsung-updates-galaxy-clock-ahead-of-one-ui-7-beta-3/",
-            "urlToImage": "https://www.sammyfans.com/wp-content/uploads/2024/12/Samsung-One-UI-7-Beta-update-1000x576.jpg",
-            "publishedAt": "2025-01-02T11:44:09Z",
-            "content": "Samsung is preparing to release a new One UI 7 Beta update for the Galaxy S24 series. Ahead of the One UI 7 Beta 3 release, Samsung has pushed a fresh update for its exclusive Clock app with version … [+1143 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Athlon Sports"
-            },
-            "author": "Athlon Sports",
-            "title": "Cam Skattebo’s Girlfriend Flexes Outfit for Arizona State-Texas Game - Athlon Sports",
-            "description": null,
-            "url": "https://athlonsports.com/college/arizona-state-sun-devils/cam-skattebo-girlfriend-flexes-outfit-arizona-state-texas-game",
-            "urlToImage": null,
-            "publishedAt": "2025-01-02T11:07:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Sabrina Malhi",
-            "title": "More children are getting kidney stones. Experts think it’s their diet. - The Washington Post",
-            "description": "It’s a diagnosis more commonly associated with older adults.",
-            "url": "https://www.washingtonpost.com/health/2025/01/02/kidney-stones-children-adolescents/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQC4XFGD3MRQ7DEOLPOENYM3RM.JPG&w=1440",
-            "publishedAt": "2025-01-02T10:11:22Z",
-            "content": "When Annabelle Pleskoff was 15, she woke up before school one morning with severe pain radiating from her right side.\r\nAfter hours of persistent throbbing, she went to the emergency room, where docto… [+9490 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cirium.com"
-            },
             "author": null,
-            "title": "Most On-Time Airlines and Airports of 2024 Revealed by Cirium - Cirium",
-            "description": "Aeromexico Named the Most On-Time Global Airline in 2024: View all of the Results for the Best On-Time Airlines and Airports of 2024.",
-            "url": "https://www.cirium.com/thoughtcloud/most-on-time-airlines-airports-2024-revealed-cirium/",
-            "urlToImage": "https://assets.fta.cirium.com/wp-content/uploads/2025/01/01224436/cirium_OTP_gears-hero-1.jpg",
-            "publishedAt": "2025-01-02T09:57:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "ABC News",
-            "title": "10 injured in shooting outside Queens music venue, suspects at large, NYPD says - ABC News",
-            "description": null,
-            "url": "https://abcnews.go.com/US/10-injured-shooting-queens-music-venue-suspects-large/story?id\\\\u003d117262797",
-            "urlToImage": null,
-            "publishedAt": "2025-01-02T08:33:38Z",
-            "content": null
+            "title": "Meghan, the Duchess of Sussex, returns to Instagram and posts a New Year’s video - The Associated Press",
+            "description": "Meghan, the Duchess of Sussex, is starting the new year with her first Instagram account since 2020. The Associated Press confirmed Wednesday that @meghan belongs to the Duchess of Sussex, whose first post is a black and white video of herself at the beach, w…",
+            "url": "https://apnews.com/article/meghan-markle-duchess-sussex-instagram-2025-06fc46f446f079aec0d90a2dcfe0713a",
+            "urlToImage": "https://dims.apnews.com/dims4/default/7eb0056/2147483647/strip/true/crop/3370x1896+0+172/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2F73%2Fd2287fd9a6b84870c5170f6d8075%2F20129764f36f47ba92d9a28cd7e03e2b",
+            "publishedAt": "2025-01-01T20:03:00Z",
+            "content": "NEW YORK (AP) Meghan, the Duchess of Sussex, is starting the new year with her first Instagram account since 2020.\r\nThe Associated Press confirmed Wednesday that @meghan belongs to the Duchess of Sus… [+1184 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Android Central"
+                "name": "Medical Xpress"
             },
-            "author": "Brady Snyder",
-            "title": "The OnePlus 13R could get a main camera boost and a telephoto lens - Android Central",
-            "description": "OnePlus is making big changes to its next midranger's camera hardware.",
-            "url": "https://www.androidcentral.com/phones/the-oneplus-13r-could-get-a-main-camera-boost-and-a-telephoto-lens",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hsSZGjH78VGUUKLWj6xAUD-1200-80.jpg",
-            "publishedAt": "2025-01-01T19:51:38Z",
-            "content": "What you need to know\r\n<ul><li>The OnePlus 13R is expected to receive not one, but two camera upgrades according to the latest leaks</li><li>The midranger's main camera is tipped to be a 50MP Sony LY… [+3131 chars]"
+            "author": "Cornell University",
+            "title": "Pupil size in sleep reveals how memories are processed - Medical Xpress",
+            "description": "Cornell University researchers have found that the pupil is key to understanding how, and when, the brain forms strong, long-lasting memories.",
+            "url": "https://medicalxpress.com/news/2024-12-pupil-size-reveals-memories.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/pupil.jpg",
+            "publishedAt": "2025-01-01T16:00:02Z",
+            "content": "Cornell University researchers have found that the pupil is key to understanding how, and when, the brain forms strong, long-lasting memories.\r\nBy studying mice equipped with brain electrodes and tin… [+2993 chars]"
         }
     ]
 }

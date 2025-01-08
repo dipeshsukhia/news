@@ -1,7 +1,85 @@
 {
     "status": "ok",
-    "totalResults": 27,
+    "totalResults": 29,
     "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "2 found dead in JetBlue landing gear compartment after flight, airline says - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/dead-jetblue-landing-gear-compartment-florida/story?id\\\\u003d117410409",
+            "urlToImage": null,
+            "publishedAt": "2025-01-07T12:26:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brooke Singman",
+            "title": "Meta ends fact-checking program as Zuckerberg vows to restore free expression on Facebook, Instagram - Fox News",
+            "description": "FIRST ON FOX: Meta is ending its fact-checking program and lifting restrictions on speech to “restore free expression\" across Facebook, Instagram and Meta platforms, admitting its current content moderation practices have “gone too far.\"",
+            "url": "https://www.foxnews.com/politics/meta-ends-fact-checking-program-zuckerberg-vows-restore-free-expression-facebook-instagram",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/zuckerberg.jpg",
+            "publishedAt": "2025-01-07T12:02:00Z",
+            "content": "FIRST ON FOX Meta is ending its fact-checking program and lifting restrictions on speech to \"restore free expression\" across Facebook, Instagram and Meta platforms, admitting its current content mode… [+4787 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Stellantis reveals redesigned Ram heavy-duty trucks - CNBC",
+            "description": "Stellantis has redesigned its large Ram heavy-duty trucks, which are expected to arrive at dealers in the first quarter of this year and will start at $47,560.",
+            "url": "https://www.cnbc.com/2025/01/07/stellantis-redesigned-ram-heavy-duty-pickup-trucks.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108082581-1736185825756-Ram.JPG?v=1736185981&w=1920&h=1080",
+            "publishedAt": "2025-01-07T11:17:46Z",
+            "content": "DETROIT Stellantis has redesigned its large Ram heavy-duty trucks and it's betting those updates will help reverse three consecutive years of sales declines for the brand.\r\nThe new Ram 2500 and 3500 … [+1823 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "Suction-Cup TV, Sock-Clearing Robot and More Wild New Products From CES 2025 - CNET",
+            "description": "The wave of the future or the stuff dreams are made of? Get your eyeballs all over these top finds from one of the largest tech shows on the planet.",
+            "url": "https://www.cnet.com/home/smart-home/suction-cup-tv-sock-clearing-robot-and-more-weird-and-wild-new-products-from-ces-2025/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/03983fe9677336d640f9f14faf153fe7610c58c7/hub/2025/01/06/25208b6b-ab0e-41ab-843e-ab260de99a43/displace-tv-5194.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-01-07T11:15:00Z",
+            "content": "CES 2025 has just begun, and right on time comes the flood of wild, weird and wonderful new products. We'll keep updating this curated list of the coolest stuff that delights, inspires and maybe even… [+454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Steve Goldstein",
+            "title": "Deutsche Bank says it's now overweight Europe stocks vs. the U.S. - MarketWatch",
+            "description": "Deutsche Bank says it’s overweight Europe stocks vs.  the U.S. for the first time since June",
+            "url": "https://www.marketwatch.com/story/the-valuation-gap-between-u-s-and-european-stocks-has-never-been-more-extreme-says-deutsche-bank-52120887",
+            "urlToImage": "https://images.mktw.net/im-03544117/social",
+            "publishedAt": "2025-01-07T10:54:00Z",
+            "content": "Steven Goldstein is based in London and responsible for MarketWatch's coverage of financial markets in Europe, with a particular focus on global macro and commodities. Previously, he was Washington b… [+121 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tami Luhby",
+            "title": "Medical debt soon will be banned on credit reports - CNN",
+            "description": "Americans won’t have to worry about unpaid medical bills damaging their credit reports and scores much longer.",
+            "url": "https://www.cnn.com/2025/01/07/business/medical-debt-credit-reports-ban-biden/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/200129141340-20200129-healthcare-gfx.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-01-07T10:00:00Z",
+            "content": "Americans wont have to worry about unpaid medical bills damaging their credit reports and scores much longer.\r\nThe Biden administration is finalizing a rule Tuesday that will end the inclusion of med… [+4601 chars]"
+        },
         {
             "source": {
                 "id": "the-washington-post",
@@ -12,21 +90,34 @@
             "description": "Meta tapped long-time Trump backer Dana White to join its board of directors at at time when Republicans will soon control congress and the White House.",
             "url": "https://www.washingtonpost.com/technology/2025/01/06/dana-white-meta-board-directors-trump/",
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2LQPBKU5FYZRZIOJWQPXWIVUL4_size-normalized.JPG&w=1440",
-            "publishedAt": "2025-01-07T05:52:01Z",
+            "publishedAt": "2025-01-07T07:33:01Z",
             "content": "Meta tapped longtime Trump ally Dana White to join its board of directors, furthering a company push to add Republican-aligned advisers that will likely appeal to the incoming administration.\r\nThe co… [+2706 chars]"
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "techcrunch",
+                "name": "TechCrunch"
             },
-            "author": "Will Knight",
-            "title": "Nvidia’s $3,000 ‘Personal AI Supercomputer’ Will Let You Ditch the Data Center - WIRED",
-            "description": "Nvidia CEO Jensen Huang also announced new AI tools for creating autonomous agents during a keynote address at CES.",
-            "url": "https://www.wired.com/story/nvidia-personal-supercomputer-ces/",
-            "urlToImage": "https://media.wired.com/photos/677c706039874df966f54d82/191:100/w_1280,c_limit/BIZ_Nvidia_Project%20DIGITS%20Press%20Image.%20v2.jpg",
-            "publishedAt": "2025-01-07T04:24:50Z",
-            "content": "Nvidia already sells boatloads of computer chips to every major company building proprietary artificial intelligence models. But now, at a moment when public interest in open source and do-it-yoursel… [+2844 chars]"
+            "author": "Brian Heater",
+            "title": "Nvidia is helping humanoid robots learn through Apple Vision Pro instruction - TechCrunch",
+            "description": "Robotics have been a foundational element of Nvidia’s stratospheric growth in recent years. When the chip maker announced GR00T in March of last year, it",
+            "url": "https://techcrunch.com/2025/01/06/nvidia-is-helping-humanoid-robots-learn-through-apple-vision-pro-instruction/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/nvidia-gr00t-teleop-e1736229585137.jpg?w=936",
+            "publishedAt": "2025-01-07T04:03:00Z",
+            "content": "Robotics have been a foundational element of Nvidias stratospheric growth in recent years. When the chip maker announced GR00T in March of last year, it was heralded as a watershed moment from humano… [+1186 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Toyota’s next-generation cars will be built with Nvidia supercomputers and operating system - TechCrunch",
+            "description": "Toyota announced at CES 2025 that its next-generation vehicles will have automated driving capabilities powered by Nvidia’s Drive AGX Orin supercomputer",
+            "url": "https://techcrunch.com/2025/01/06/toyotas-next-generation-cars-will-be-built-with-nvidia-supercomputers-and-operating-system/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/2025_Toyota-Camry_XSE_008.jpg?resize=1200,900",
+            "publishedAt": "2025-01-07T03:53:00Z",
+            "content": "Toyota announced at CES 2025 that its next-generation vehicles will have automated driving capabilities powered by Nvidias Drive AGX Orin supercomputer and safety-focused operating system, DriveOS.\r\n… [+1740 chars]"
         },
         {
             "source": {
@@ -43,32 +134,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lee Ying Shan",
-            "title": "Nippon Steel CEO doubles down on pledge to acquire U.S. Steel after suing Biden administration - CNBC",
-            "description": "Japan's Nippon Steel emphasized that it is not giving up on its takeover of U.S. Steel, a day after suing the Joe Biden administration over blocking the proposed merger.",
-            "url": "https://www.cnbc.com/2025/01/07/nippon-steel-ceo-doubles-down-on-pledge-to-acquire-us-steel.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107387257-1710383954336-gettyimages-2008856498-AFP_34JH6RE.jpeg?v=1725583135&w=1920&h=1080",
-            "publishedAt": "2025-01-07T03:02:00Z",
-            "content": "This picture taken on Feb. 16, 2024 shows a logo of Nippon Steel Corp. at the company's Kyushu manufacturing base in Kitakyushu city of Fukuoka Prefecture. U.S. President Joe Biden plans to express c… [+3475 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Rae Wee",
-            "title": "Asia shares rise on prospect of softer Trump tariffs - Reuters.com",
-            "description": "Asia shares rose on Tuesday, tracking Wall Street's positive lead and as some investors hoped incoming U.S. President-elect Donald Trump could adopt a less aggressive tariff stance than promised when he takes office.",
-            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2025-01-07/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ORXHSK4HT5OA3BOCQDUT2GXETA.jpg?auth=25b0093c5c8621c153a52e95cece50897677be1aade4fb31ad0ece36cb772113&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-01-07T02:29:00Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -82,29 +147,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Max A. Cherney and Stephen Nellis",
-            "title": "Nvidia CEO set to take stage at CES just after shares hit record high - Yahoo Finance",
-            "description": "(Reuters) -Nvidia on Monday took the wraps off new products such as artificial intelligence to better train robots and cars, souped-up gaming chips and its...",
-            "url": "https://finance.yahoo.com/news/nvidia-ceo-set-stage-ces-002616904.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/d90c3fa1bc5842bcd37b0e3345b5039e",
-            "publishedAt": "2025-01-07T00:27:53Z",
-            "content": "By Max A. Cherney and Stephen Nellis\r\n(Reuters) -Nvidia on Monday took the wraps off new products such as artificial intelligence to better train robots and cars, souped-up gaming chips and its first… [+3832 chars]"
-        },
-        {
-            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "DEE-ANN DURBIN",
-            "title": "McDonald’s is the latest company to roll back diversity goals - The Associated Press",
-            "description": "McDonald’s is ending some of its diversity practices, citing a U.S. Supreme Court decision that outlawed affirmative action in college admissions. McDonald’s is the latest company to shift its tactics in the wake of the 2023 ruling and a conservative backlash…",
-            "url": "https://apnews.com/article/mcdonalds-diversity-dei-goals-845d94cd46511341a43e98e057b0fa8e",
-            "urlToImage": "https://dims.apnews.com/dims4/default/2b26e9f/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2F8a%2F0f041d4f31c803e3c332dd218256%2Fa8e28726a5694c34a9a506e178f3d2a4",
-            "publishedAt": "2025-01-06T23:55:00Z",
-            "content": "Four years after launching a push for more diversity in its ranks, McDonalds is ending some of its diversity practices, citing a U.S. Supreme Court decision that outlawed affirmative action in colleg… [+3618 chars]"
+            "author": "YURI KAGEYAMA",
+            "title": "Nippon Steel stands firm on a US Steel takeover and denies risks cited by Biden - The Associated Press",
+            "description": "Nippon Steel Chief Executive Eiji Hashimoto says the top Japanese steelmaker is standing firm on its proposed $15 billion acquisition of U.S. Steel. He told reporters Tuesday in Tokyo there is no reason or need to give up. President Joe Biden has blocked the …",
+            "url": "https://apnews.com/article/steelmakers-nippon-takeoversteel-bidentrump-3dbaea0e12f80ab9f42d5472e7e4ab1d",
+            "urlToImage": "https://dims.apnews.com/dims4/default/68636ce/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F63%2Fb4%2F3dd007561f5b9f59e220c9ea52de%2Fab719d32246e404eabd093a4f4ec6b12",
+            "publishedAt": "2025-01-07T01:25:00Z",
+            "content": "TOKYO (AP) Nippon Steel was standing firm on its proposed $15 billion acquisition of U.S. Steel, Chief Executive Eiji Hashimoto said Tuesday after President Joe Bidens blocked the top Japanese steelm… [+2450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "McDonald’s is latest to ax DEI policies — cites ‘shifting legal landscape’ - New York Post ",
+            "description": "The fast food chain also intends to end a program that encourages its suppliers to develop diversity training and increase the number of minorities in their own leadership ranks.",
+            "url": "https://nypost.com/2025/01/06/business/mcdonalds-is-latest-to-ax-dei-policies-cites-shifting-legal-landscape/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/mcdonalds-dei.jpg?quality=75&strip=all&1736178732&w=1024",
+            "publishedAt": "2025-01-07T00:21:21Z",
+            "content": "Four years after launching a push for more diversity in its ranks, McDonalds is ending some of its diversity practices, citing a US Supreme Court decision that outlawed affirmative action in college … [+4225 chars]"
         },
         {
             "source": {
@@ -118,6 +183,32 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/107185031-1674823397968-gettyimages-1457390897-grk7383722.jpeg?v=1736203164&w=1920&h=1080",
             "publishedAt": "2025-01-06T23:20:38Z",
             "content": "LAS VEGAS Toyota Motor is exploring the development and production of orbital rockets, Chairman Akio Toyoda said Monday.\r\nThe automaker, through its \"Woven by Toyota\" mobility company, is investing 7… [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Anirban Sen",
+            "title": "Device maker Stryker strikes $4.9 billion deal for Inari Medical - Reuters",
+            "description": "Medical-device maker Stryker on Monday agreed to acquire Inari Medical , which makes devices that treat patients with venous diseases, in an all-cash deal worth $4.9 billion.",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/medical-device-maker-stryker-nearing-deal-buy-inari-medical-sources-say-2025-01-06/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/SUZ6E546EZPZ7CO5X27CQHHRMU.jpg?auth=06e00cd9a3710697735d577768107646f0934adcf00bacfd6750eb60e4752809&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-01-06T23:12:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Chibuike Oguh",
+            "title": "Stocks rise, dollar drops after Trump denies tariff policy pullback - Yahoo Canada Finance",
+            "description": "NEW YORK (Reuters) -Global stocks rose while the U.S. dollar index dropped on Monday after President-elect Donald Trump denied a newspaper report that his...",
+            "url": "https://ca.finance.yahoo.com/news/asia-shares-wary-dollar-upbeat-002753350.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/69c2aa0c1b67ee8fb1ce7d08fa4aec1d",
+            "publishedAt": "2025-01-06T22:53:31Z",
+            "content": "By Chibuike Oguh\r\nNEW YORK (Reuters) -Global stocks rose while the U.S. dollar index dropped on Monday after President-elect Donald Trump denied a newspaper report that his incoming administration wo… [+3110 chars]"
         },
         {
             "source": {
@@ -135,41 +226,28 @@
         {
             "source": {
                 "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "US says technology giant Tencent works with Chinese military - BBC.com",
+            "description": "China's embassy in Washington branded the move as an \"unreasonable suppression\" of its firms.",
+            "url": "https://www.bbc.com/news/articles/c9q78wn9g8zo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a880/live/70689690-ccc9-11ef-955a-3f10763e3070.jpg",
+            "publishedAt": "2025-01-06T22:35:37Z",
+            "content": "The US has added several Chinese technology companies, including gaming and social media giant Tencent and battery maker CATL, to a list of businesses it says work with China's military.\r\nThe list se… [+2350 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Barron's"
             },
-            "author": "Karishma Vanjani",
+            "author": "Barron's",
             "title": "Bond Selloff Accelerates. 5% Yields Loom, Forecaster Warns. - Barron's",
-            "description": "",
+            "description": null,
             "url": "https://www.barrons.com/articles/bond-selloff-yield-forecast-trump-160222b9",
-            "urlToImage": "https://images.barrons.com/im-45015799/social",
+            "urlToImage": null,
             "publishedAt": "2025-01-06T22:02:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Travis Hoium",
-            "title": "Why Bitcoin, Ethereum, and Dogecoin Jumped Today - The Motley Fool",
-            "description": "",
-            "url": "https://www.fool.com/investing/2025/01/06/why-bitcoin-ethereum-and-dogecoin-jumped-today/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/803077/bitcoin-as-a-bait-blockchain-cryptocurrency-trap.jpg",
-            "publishedAt": "2025-01-06T21:59:36Z",
-            "content": "Bitcoin(BTC 3.91%) is climbing again on Monday after MicroStrategy continued its massive buying spree. This time, the company announced another 1,070 Bitcoin acquired over the past week and said it w… [+2978 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "MICHAEL LARKIN, Investor's Business Daily",
-            "title": "Stock Market Today: Dow Jones Firm As Jensen Huang CES Speech Looms; Palantir Mauled On This (Live Coverage) - Investor's Business Daily",
-            "description": "The Dow Jones fell on the stock market today amid Trump tariff news. Nvidia rallied ahead of a CES appearance by CEO Jensen Huang.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-trump-tariffs-nvidia-chip-stocks/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/08/TECH1_jensen_081924_shutter.jpg",
-            "publishedAt": "2025-01-06T21:48:00Z",
-            "content": "The Dow Jones Industrial Average inched lower while other indexes saw gains fade Monday after President-elect Donald Trump denied a report that said he planned to pare back his tariff policy. Nvidia … [+11127 chars]"
         },
         {
             "source": {
@@ -187,19 +265,6 @@
         {
             "source": {
                 "id": null,
-                "name": "GlobeNewswire"
-            },
-            "author": "Stryker Corporation",
-            "title": "Stryker announces definitive agreement to acquire Inari - GlobeNewswire",
-            "description": "Portage, Michigan and Irvine, California, Jan.  06, 2025  (GLOBE NEWSWIRE) --  Stryker (NYSE: SYK), a global leader in medical technologies, announced......",
-            "url": "https://www.globenewswire.com/news-release/2025/01/06/3004972/0/en/Stryker-announces-definitive-agreement-to-acquire-Inari-Medical-Inc-providing-entry-into-high-growth-peripheral-vascular-segment.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c24fe8bd-9db6-4f42-8a52-06a4e1b673b5",
-            "publishedAt": "2025-01-06T21:09:32Z",
-            "content": "Portage, Michigan and Irvine, California, Jan. 06, 2025 (GLOBE NEWSWIRE) --  Stryker (NYSE: SYK), a global leader in medical technologies, announced today a definitive agreement to acquire all of the… [+10616 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Investor's Business Daily"
             },
             "author": "ALLISON GATLIN, Investor's Business Daily",
@@ -212,29 +277,16 @@
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Jon Brodkin",
-            "title": "“I’m getting dizzy”: Man films Waymo self-driving car driving around in circles - Ars Technica",
-            "description": "Waymo software fix addressed “looping events” after car kept circling parking lot.",
-            "url": "https://arstechnica.com/tech-policy/2025/01/im-getting-dizzy-man-films-waymo-self-driving-car-driving-around-in-circles/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/waymo-dashboard-1152x648-1736193197.jpg",
-            "publishedAt": "2025-01-06T20:43:50Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Benzinga"
             },
-            "author": null,
-            "title": "The Most Innovative Products From CES 2025 That You Can Actually Get Your Hands On - CNET",
-            "description": "You don't have to wait to lock in your order for advanced tech like new chargers from Anker, a cute cat to keep your drink cool and more from CES 2025.",
-            "url": "https://www.cnet.com/deals/the-most-innovative-products-from-ces-2025-that-you-can-actually-get-your-hands-on/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/eb9d68d61dc2bac2cfb9be791d3214898d49e210/hub/2025/01/06/ee931e9a-b65a-424d-bfa9-2a265a19b18f/anker-charger-ces.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-01-06T20:42:00Z",
-            "content": "It's our favorite time of the year. No, it's not the holidays -- it's CES 2025, the annual tech show in Las Vegas. Tons of new products will be showcased during this events in dozens of categories, i… [+901 chars]"
+            "author": "Khyathi Dalal",
+            "title": "Bitcoin, Ethereum, XRP, Dogecoin See 'Another Monday Open Pump,' Trader Predicts Next Move After 'Unemployment Data On Friday' - Benzinga",
+            "description": "Cryptocurrency markets are trading higher on Monday after MicroStrategy and Metaplanet announced having acquired more BTC.",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42828625/bitcoin-ethereum-xrp-dogecoin-see-another-monday-open-pump-trader-predicts-next-move-after-unemployment-data-on-friday",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/01/06/Dogecoin-Doge--Ethereum-Eth--Bitcoin-Btc.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-01-06T20:13:44Z",
+            "content": "Cryptocurrency markets are trading higher on Monday after MicroStrategy and Metaplanet announced having acquired more BTC.\r\n<table><tr><td>Cryptocurrency</td><td>Price   </td><td>Gains +/-</td></tr><… [+2991 chars]"
         },
         {
             "source": {
@@ -248,32 +300,6 @@
             "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/01/gettyimages-2192140121.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2025-01-06T20:10:07Z",
             "content": "In what is likely to be one of her final actions as the federal governments top Supreme Court litigator, Solicitor General Elizabeth Prelogar asked the justices last week to significantly diminish th… [+10301 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": "Steff Chávez",
-            "title": "Tencent and CATL added to Pentagon list of companies working with China’s military - Financial Times",
-            "description": "Shares of WeChat owner and EV battery maker fall after defence department discloses designation",
-            "url": "https://www.ft.com/content/27abe77e-af9d-4c61-abbf-22964de7b0bb",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F69bec954-b667-4a5f-a2b8-7c4c4e76afa7.jpg?source=next-barrier-page",
-            "publishedAt": "2025-01-06T19:22:31Z",
-            "content": "Try unlimited access\r\nOnly $1 for 4 weeks\r\nThen $75 per month.\r\nComplete digital access to quality FT journalism on any device. \r\nCancel anytime during your trial."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "JED GRAHAM, Investor's Business Daily",
-            "title": "Trump Tariffs Shift? Trump Denies, But Nucor, FCX Lead S&P 500 Rally - Investor's Business Daily",
-            "description": "President-elect Trump denied a report that his tariffs may focus narrowly on strategic industries.",
-            "url": "https://www.investors.com/news/economy/trump-tariffs-strategic-industries-sp-500-nucor-enphase-ford-fcx-mp/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2018/08/Stock-FordEkso-01-company.jpg",
-            "publishedAt": "2025-01-06T19:20:00Z",
-            "content": "Trump tariffs may focus narrowly on industries and resources key to national security, including defense-related industries, energy and critical medical supplies, The Washington Post reported early M… [+4127 chars]"
         },
         {
             "source": {
@@ -303,6 +329,19 @@
         },
         {
             "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sasha Rogelberg",
+            "title": "Sam Altman says Airbnb’s CEO and a ‘legendary’ VC saved OpenAI and ‘stopped me from making several mistakes’ after he was briefly fired in 2023 - Fortune",
+            "description": "Immediately following his brief firing from OpenAI, Altman considered starting another AI company, something Chesky and Conway helped talk him out of.",
+            "url": "https://fortune.com/2025/01/06/sam-altman-airbnb-ceo-brian-chesky-sv-angel-ron-conway-saved-openai/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/01/GettyImages-2188228027-e1736182757382.jpg?resize=1200,600",
+            "publishedAt": "2025-01-06T17:39:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "The Park Record"
             },
@@ -326,19 +365,6 @@
             "urlToImage": "https://www.investopedia.com/thmb/k6BpvTEIKmPkhy40leIo_kz_Jl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2159852326-b98c4362c57343d49f031b733c0b5ff6.jpg",
             "publishedAt": "2025-01-06T15:54:26Z",
             "content": "<ul><li>Plug Power shares surged for a second straight session on new tax credit rules for clean hydrogen production.</li><li>Last week, the Treasury Department issued the final rules for the tax cre… [+1637 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Harvard Business Review"
-            },
-            "author": null,
-            "title": "Why “Living Intelligence” Is the Next Big Thing - HBR.org Daily",
-            "description": "AI is merely one facet of a sweeping technological change underway, and companies that fail to recognize the importance of other converging technologies risk being left behind. Two other technologies — advanced sensors and biotechnology — are less visible, th…",
-            "url": "https://hbr.org/2025/01/why-living-intelligence-is-the-next-big-thing",
-            "urlToImage": "https://hbr.org/resources/images/article_assets/2025/01/Jan25_06_1264687716.jpg",
-            "publishedAt": "2025-01-06T13:11:03Z",
-            "content": "AI is merely one facet of a sweeping technological change underway, and companies that fail to recognize the importance of other converging technologies risk being left behind. Two other technologies… [+736 chars]"
         },
         {
             "source": {

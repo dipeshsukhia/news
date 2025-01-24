@@ -1,84 +1,344 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 33,
     "articles": [
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Russell Contreras, Emily Peck, Delano Massey",
-            "title": "Trump guts DEI, sending legal shockwaves across government, companies, schools - Axios",
-            "description": "His executive order revokes one that President Johnson signed in 1965.",
-            "url": "https://www.axios.com/2025/01/23/dei-trump-diversity-affirmative-action",
-            "urlToImage": "https://images.axios.com/bAcUG6sYqqSYKJjJdDzhkKho4r4=/0x479:5427x3532/1366x768/2025/01/22/1737555020884.jpg",
-            "publishedAt": "2025-01-23T12:10:28Z",
-            "content": "President Trump's sweeping executive order revoking decades of federal diversity and affirmative action practices and potentially making private sector DEI programs illegal augurs a fundamental chang… [+3996 chars]"
+            "author": "Tierney Sneed",
+            "title": "Judge says he will block Trump’s ‘blatantly unconstitutional’ executive order that aims to end birthright citizenship - CNN",
+            "description": "A federal judge said Thursday that President Donald Trump’s executive order ending birthright citizenship was “blatantly unconstitutional,” and that he was issuing a temporary restraining order to block it.",
+            "url": "https://www.cnn.com/2025/01/23/politics/birthright-citizenship-lawsuit-hearing-seattle/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-01-21t013333z-1270679308-rc21ecase3t1-rtrmadp-3-usa-trump-inauguration.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-01-23T18:29:00Z",
+            "content": "A federal judge said Thursday that President Donald Trumps executive order ending birthright citizenship was blatantly unconstitutional and that he was issuing a temporary restraining order to block … [+706 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Leslie Josephs",
-            "title": "American Airlines shares tumble as outlook falls short - CNBC",
-            "description": "American forecast a wider than expected loss for the first quarter, sending shares lower.",
-            "url": "https://www.cnbc.com/2025/01/23/american-airlines-aal-4q-2024-earnings.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108038262-1727179744560-gettyimages-2172439835-20240919_lax_ka_015.jpeg?v=1727179828&w=1920&h=1080",
-            "publishedAt": "2025-01-23T12:02:20Z",
-            "content": "American Airlines' first-quarter earnings outlook on Thursday fell short of analysts' estimates, sending shares down roughly 10%.\r\nThe carrier forecast an adjusted loss per share of 20 cents to 40 ce… [+1873 chars]"
+            "author": "The Independent",
+            "title": "California National Guard Releases Aerial Footage Of Hughes Fire - Yahoo! Voices",
+            "description": "California national guard releases aerial footage of Hughes fireSource TMX",
+            "url": "https://www.yahoo.com/news/california-national-guard-releases-aerial-182551879.html",
+            "urlToImage": "https://media.zenfs.com/en/the_independent_video_us_628/7cfa1d236ccc765ccbb9b2dea43db691",
+            "publishedAt": "2025-01-23T18:25:51Z",
+            "content": "California national guard releases aerial footage of Hughes fireSource TMX"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Lananh Nguyen",
+            "title": "Trump accuses Bank of America, JPM of not doing business with conservatives - Yahoo Finance",
+            "description": "U.S. President Donald Trump on Thursday accused the CEOs of Bank of America and JPMorgan Chase of not providing banking services to conservatives.  Trump...",
+            "url": "https://finance.yahoo.com/news/trump-accuses-bank-america-jpm-174323116.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/65c41211e3c85499120abc6e6169f5b9",
+            "publishedAt": "2025-01-23T17:43:23Z",
+            "content": "By Lananh Nguyen\r\n(Reuters) - U.S. President Donald Trump on Thursday accused the CEOs of Bank of America and JPMorgan Chase of not providing banking services to conservatives.\r\nTrump, who returned t… [+2238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": "James Politi, Sam Fleming, Ben Hall",
+            "title": "Donald Trump calls on Opec to push down global oil prices - Financial Times",
+            "description": "US president tells World Economic Forum he will insist central banks lower interest rates ‘immediately’ afterwards",
+            "url": "https://www.ft.com/content/af9a3a17-cf32-4d4c-b2e1-97ea7c5e2bb1",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ec09101-9f92-429e-a9a9-b4edab539741.jpg?source=next-barrier-page",
+            "publishedAt": "2025-01-23T17:36:13Z",
+            "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Will Dunham",
+            "title": "Where did dinosaurs first evolve? Scientists are proposing a surprising location - The Globe and Mail",
+            "description": "Expert says research suggests that ‘they likely originated in the low-latitude regions of Gondwana near the equator, an area that today includes northern South America and northern Africa’",
+            "url": "https://www.theglobeandmail.com/world/article-where-did-dinosaurs-first-evolve-scientists-are-proposing-a-surprising/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/WIZMJYK7YJED3G6GRHWRMC5RWE.JPG?auth=09fc99d38dddd39eab11611b15023d4772bdbe18b0b29f2e00922902433250e8&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2025-01-23T17:12:01Z",
+            "content": "Open this photo in gallery:The Triassic Period creature Nyasasaurus, considered either an early dinosaur or a close relative, is seen in this illustration.Mark Witton/The Trustees of the/Reuters\r\nDin… [+4786 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Kocha Olarn, Chris Lau",
-            "title": "Hundreds of same-sex couples wed as Thailand’s landmark marriage bill takes effect - CNN",
-            "description": "Hundreds of same-sex couples are tying the knot across Thailand on Thursday as the country becomes the first in Southeast Asia to recognize marriage equality.",
-            "url": "https://www.cnn.com/2025/01/22/asia/same-sex-couples-marriage-equality-thailand-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2194758433.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-01-23T11:15:00Z",
-            "content": "Hundreds of same-sex couples are tyingthe knot across Thailand on Thursday as the country becomes the first in Southeast Asia to recognize marriage equality.\r\nThe landmark bill marks a momentous win … [+6433 chars]"
+            "author": "Sandra Gonzalez",
+            "title": "Oscars 2025: See the full list of nominees - CNN",
+            "description": "The nominations for the 97th Academy Awards were announced Thursday and it was a big morning for “Emilia Pérez,” “The Brutalist” and “Wicked.”",
+            "url": "https://www.cnn.com/2025/01/23/entertainment/oscar-nominations-academy-awards/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2054035318-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-01-23T17:07:00Z",
+            "content": "The nominations for the 97th Academy Awards were announced Thursday and it was a big morning for Emilia Pérez, The Brutalist and Wicked.\r\nAfter acknowledgement of the impact of ongoing wildfires in L… [+4444 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Purdue Pharma, Sackler families boost contribution in opioid settlement to $7.4 billion - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/Health/purdue-pharma-sackler-families-boost-contribution-opioid-settlement/story?id\\\\u003d118015777",
+            "urlToImage": null,
+            "publishedAt": "2025-01-23T17:01:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Top European court backs woman whose husband got a divorce because she stopped having sex with him - CBS News",
+            "description": "\"I hope that this decision will mark a turning point in the fight for women's rights in France,\" the woman said.",
+            "url": "https://www.cbsnews.com/news/divorcee-stopped-having-sex-husband-wins-court-appeal-france/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/01/23/a0bbbecb-be78-4af4-b265-84350644c819/thumbnail/1200x630g8/bba47c35c4314fd94ece61ef9ee11238/gettyimages-2144464912.jpg?v=e306e7b9fefc168c00baa623d76d1eaf",
+            "publishedAt": "2025-01-23T16:50:38Z",
+            "content": "Europe's top rights court on Thursday ruled in favor of a 69-year-old French woman whose husband obtained a divorce on the grounds that she stopped having sex with him.\r\nThe European Court of Human R… [+4718 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "KSAT San Antonio"
             },
-            "author": null,
-            "title": "Trump tells Putin to end 'ridiculous war' in Ukraine or face new sanctions - BBC.com",
-            "description": "The US president says he is offering Moscow a \"big favour\" by helping Russia and Ukraine reach a deal.",
-            "url": "https://www.bbc.com/news/articles/cjw4q7v7ez1o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cea/live/5c1d9080-d905-11ef-b3df-5b8de1cd53ce.jpg",
-            "publishedAt": "2025-01-23T10:43:35Z",
-            "content": "Sarah RainsfordEastern Europe correspondent in Kyiv\r\nDonald Trump has warned he will impose high tariffs and further sanctions on Russia if Vladimir Putin fails to end the war in Ukraine.\r\nWriting on… [+5669 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Israel says it killed Palestinian attackers as Jenin raid continues - BBC.com",
-            "description": "Twelve Palestinians are reported to have been killed since the operation began in Jenin on Tuesday.",
-            "url": "https://www.bbc.com/news/articles/cq8k5je1dwvo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ab90/live/8889ee00-d970-11ef-a37f-eba91255dc3d.jpg",
-            "publishedAt": "2025-01-23T10:01:08Z",
-            "content": "Lucy WilliamsonBBC Middle East correspondent\r\nPalestinians say Israeli forces demolished the house where the men had been after taking their bodies\r\nIsrael says it has killed two armed men, suspected… [+3824 chars]"
+            "author": "Halee Powers, Garrett Brnger, Dillon Collier, Rebecca Salinas",
+            "title": "What we know about Brandon Poulos, the man accused of shooting 7 SAPD officers in Stone Oak - KSAT San Antonio",
+            "description": "San Antonio police have identified the man accused of shooting seven San Antonio Police Department officers in Stone Oak. Here's what we know.",
+            "url": "https://www.ksat.com/news/local/2025/01/23/what-we-know-about-brandon-poulos-the-man-accused-of-shooting-7-sapd-officers-in-stone-oak/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5QPVR6KBGVCGRPMMVY6THR2LOA.png?_a=DATAdtfiZAA0",
+            "publishedAt": "2025-01-23T16:49:59Z",
+            "content": "SAN ANTONIO San Antonio police have identified the man accused of shooting seven San Antonio Police Department officers Wednesday night at a North Side apartment complex.\r\n&gt;&gt; WHAT WE KNOW: 7 SA… [+3377 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "MARI YAMAGUCHI",
-            "title": "Masahiro Nakai, a TV host and former pop star in Japan, retires after sexual assault report - The Associated Press",
-            "description": "Masahiro Nakai, one of Japan's top TV hosts and a former pop star, says he is retiring to take responsibility over sexual assault allegations. One of the networks where he worked, Fuji TV, has seen an avalanche of lost advertising over concerns about its tran…",
-            "url": "https://apnews.com/article/japan-smap-sex-assault-nakai-fuji-07a9afba447ff0a2d0387d8b783fae8d",
-            "urlToImage": "https://dims.apnews.com/dims4/default/d448e96/2147483647/strip/true/crop/2000x1125+0+104/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2F5e%2F2b64e4a822a46587eb0a2fb77a85%2F0e85474b7dfb44ccb217249773c1a382",
-            "publishedAt": "2025-01-23T09:31:00Z",
-            "content": "TOKYO (AP) Masahiro Nakai, one of Japans top TV hosts and a former pop star, said Thursday he was retiring to take responsibility over sexual assault allegations that are part of a wave roiling Japan… [+3458 chars]"
+            "author": "ZEKE MILLER, JOSH BOAK, JAMEY KEATEN",
+            "title": "Trump tells Davos elite to invest in US or face tariffs - The Associated Press",
+            "description": "President Donald Trump promised global elites lower taxes if they bring manufacturing to the U.S. and threatened to impose tariffs if they don’t. The president made the remarks Thursday in an address to the World Economic Forum. Trump spoke by video from the …",
+            "url": "https://apnews.com/article/trump-davos-tariffs-taxes-world-economic-forum-85aa42fb7751bedc1643c5a0e465a053",
+            "urlToImage": "https://dims.apnews.com/dims4/default/830d42f/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2F83%2F9eeb03f5a099a117f0743780ee57%2F5f2ae90b5a1d4f90ab219609d18a7c4c",
+            "publishedAt": "2025-01-23T16:40:00Z",
+            "content": "WASHINGTON (AP) President Donald Trump used an address Thursday to the World Economic Forum to promise global elites lower taxes if they bring manufacturing to the U.S. and threatened to impose tarif… [+3133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "James Hibberd",
+            "title": "Trace Cyrus Begs Dad Billy Ray Cyrus to Seek Help: “I Barely Recognize You Now” - Hollywood Reporter",
+            "description": "The country singer's son wrote a heartfelt open letter on Instagram after that viral inauguration performance: \"You’re not healthy Dad and everyone is noticing it.\"",
+            "url": "http://www.hollywoodreporter.com/news/music-news/trace-cyrus-billy-ray-cyrus-performance-disaster-1236116033/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/Billy-Ray-Cyrus-Main-2025.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2025-01-23T16:33:27Z",
+            "content": "Billy Ray Cyrus‘ son Trace wrote a heartfelt open letter to his father on Instagram a few days after the country singer’s live performance at President Trump’s Liberty Ball celebration. \r\nThe 63-year… [+2819 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "CHALIDA EKVITTHAYAVECHNUKUL",
+            "title": "Thai LGBTQ+ couples register marriages as law gives them equal status - The Associated Press",
+            "description": "Hundreds of LGBTQ+ couples in Thailand have experienced a life-changing occasion, registering their marriages legally on the first day a law took effect granting them the same rights as heterosexual couples. The enactment of the Marriage Equality Act makes Th…",
+            "url": "https://apnews.com/article/thailand-lgbtq-marriage-law-c2162f07cd103ea86631a137d6b6d193",
+            "urlToImage": "https://dims.apnews.com/dims4/default/ab8d52b/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2F12%2Fcb90c55628c60c46a8ccccb57c90%2Fe400220e44af49ce9414585e5a50137b",
+            "publishedAt": "2025-01-23T16:24:00Z",
+            "content": "BANGKOK (AP) Hundreds of LGBTQ+ couples in Thailand made Thursday a life-changing occasion, registering their marriages legally on the first day a law took effect granting them the same rights as het… [+5352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "ICC prosecutor seeks arrest of Taliban leaders for 'persecuting Afghan girls and women' - BBC.com",
+            "description": "Karim Khan is seeking arrest warrants for the Taliban government's Supreme Leader and chief justice.",
+            "url": "https://www.bbc.com/news/articles/c20kn0d7d30o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1259/live/926cb210-d99b-11ef-8794-69ac9a4eccd4.jpg",
+            "publishedAt": "2025-01-23T15:35:20Z",
+            "content": "Anna Holligan\r\nThe top prosecutor at the International Criminal Court (ICC) says he will seek arrest warrants against senior leaders of the Taliban government in Afghanistan over the persecution of w… [+3617 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Long Island farm forced to euthanize more than 100,000 ducks after bird flu detected - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/long-island-farm-forced-euthanize-100000-ducks-after/story?id\\\\u003d118015774",
+            "urlToImage": null,
+            "publishedAt": "2025-01-23T15:22:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Julian Mark, Taylor Telford, Susan Svrluga",
+            "title": "In first days, Trump deals ‘death blow’ to DEI and affirmative action - The Washington Post",
+            "description": "The president moved to end diversity, equity and inclusion programs throughout the federal government with a flurry of executive orders, upending decades of policy.",
+            "url": "https://www.washingtonpost.com/business/2025/01/23/trump-dei-affirmative-action/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QWDRJCLUVMPVRAWJJ3IYESS24.JPG&w=1440",
+            "publishedAt": "2025-01-23T15:20:40Z",
+            "content": "In the first 48 hours of his second term, President Donald Trump moved to eviscerate the surviving remnants of affirmative action, swiftly upending decades of policy actions observers say are sure to… [+11297 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hadas Gold",
+            "title": "CNN announces layoffs as it revamps its schedule and digital strategy - CNN",
+            "description": "CNN is laying off around 6% of its workforce, the company announced Thursday morning, as it institutes sweeping new changes to the 45-year-old news network, including a new weekday show lineup and digital strategy.",
+            "url": "https://www.cnn.com/2025/01/23/business/cnn-layoffs-digital-strategy/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2153092202-copy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-01-23T15:19:00Z",
+            "content": "CNN is laying off around 6% of its workforce, the company announced Thursday morning, as it institutes sweeping new changes to the 45-year-old news network, including a new weekday show lineup and di… [+3021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Patrick Mahomes doesn’t believe Chiefs get favorable calls - NBC Sports",
+            "description": "Many feel otherwise. Are they right?",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-doesnt-believe-chiefs-get-favorable-calls",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/7f7c819/2147483647/strip/true/crop/4249x2390+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2F78%2Fdb0c177143a49a0d6dda555b4527%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2191237803",
+            "publishedAt": "2025-01-23T14:30:26Z",
+            "content": "Many are saying the officials help the Chiefs. Kansas City quarterback Patrick Mahomes is not one of the many.\r\nI dont feel that way,' Mahomes told reporters on Wednesday, via Adam Teicher of ESPN.co… [+2047 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phoronix"
+            },
+            "author": null,
+            "title": "NVIDIA GeForce RTX 5090 Linux Benchmarks: Stay Tuned - Phoronix",
+            "description": "Following the unboxing embargo earlier this week for the NVIDIA GeForce RTX 5090, today the review embargo lifts for the GeForce RTX 5090 Founders Edition.",
+            "url": "https://www.phoronix.com/news/GeForce-RTX-5090-Linux-Driver",
+            "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=rtx_5090_ubuntu",
+            "publishedAt": "2025-01-23T14:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Robert Purchese",
+            "title": "Xbox Developer Direct live report January 2025 - we're promised a mystery reveal - Eurogamer",
+            "description": "Microsoft's Xbox portfolio of games is under the spotlight this evening as it airs a new Developer Direct at 6pm UK tim…",
+            "url": "https://www.eurogamer.net/xbox-developer-direct-live-report-january-2025-were-promised-a-mystery-reveal",
+            "urlToImage": "https://assetsio.gnwcdn.com/xbox_developer_direct_2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2025-01-23T13:43:24Z",
+            "content": "Microsoft's Xbox portfolio of games is under the spotlight this evening as it airs a new Developer Direct at 6pm UK time. We'll be covering everything live as it happens, right here, as well as talki… [+14959 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ben Rohrbach",
+            "title": "NBA 2024-25 Midseason Power Rankings: Let's grade all 30 teams on their first-half performances - Yahoo Sports",
+            "description": "How well have teams performed against expectations? It's time to hand out report cards!",
+            "url": "https://sports.yahoo.com/nba-2024-25-midseason-power-rankings-lets-grade-all-30-teams-on-their-first-half-performances-192705881.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/W6poNG6DG7YqZiP0Ef3XQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzk-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/a340be50-d82a-11ef-bb9e-03b1fd1652c1",
+            "publishedAt": "2025-01-23T13:28:48Z",
+            "content": "(Amy Monks/Yahoo Sports Illustration)\r\nWhat do you get when you cross the internet's most accurate NBA power rankings with the world's best midseason report card? A completely inarguable NBA Midseaso… [+358 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Tara Suter",
+            "title": "Trump lists ‘number of reasons’ for pardoning violent Jan. 6 rioters - The Hill",
+            "description": "President Trump listed a “number of reasons” for pardoning violent Jan. 6 rioters during an interview that aired Wednesday night with Fox News’s Sean Hannity. “The only criticism or pushback I’ve seen is about people that were convicted or involved in inciden…",
+            "url": "https://thehill.com/homenews/administration/5102120-trump-jan-6-rioters-pardons/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/01/AP25021626888441-e1737487377278.jpg?w=1280",
+            "publishedAt": "2025-01-23T13:13:00Z",
+            "content": "Skip to content\r\nPresident Trump listed a “number of reasons” for pardoning violent Jan. 6 rioters during an interview that aired Wednesday night with Fox News’s Sean Hannity.\r\n“The only criticism or… [+2223 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hppr.org"
+            },
+            "author": "Jon Hamilton",
+            "title": "Blasts from military weapons may injure the brain through its blood vessels - HPPR",
+            "description": "When military personnel fire certain powerful weapons, they may be exposed to blast waves that damage blood vessels in the brain.",
+            "url": "https://www.hppr.org/2025-01-23/blasts-from-military-weapons-may-injure-the-brain-through-its-blood-vessels",
+            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/dd0e36d/2147483647/strip/true/crop/2121x1114+0+40/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F2121x1193%200%20110%2Fresize%2F2121x1193%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F40%2F2b%2Ff4aba8804eb5b2a668561698a116%2Fgettyimages-532102727.jpg",
+            "publishedAt": "2025-01-23T13:02:49Z",
+            "content": "When military personnel fire certain powerful weapons, they are exposed to a blast wave that sends blood surging from the body to the brain.\r\nThis \"tsunami in the body\" is one way a blast can injure … [+5375 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "BR NFL Staff",
+            "title": "Bleacher Report's Expert AFC and NFC Championship NFL Picks - Bleacher Report",
+            "description": "We're down to the home stretch, and it's time to cash in on the conference championship games. Bleacher Report NFL analysts Brad Gagnon, Gary Davenport, Brent…",
+            "url": "https://bleacherreport.com/articles/10151752-bleacher-reports-expert-afc-and-nfc-championship-nfl-picks",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1737580074/csogi2nwqweybuxxoenu.jpg",
+            "publishedAt": "2025-01-23T12:57:45Z",
+            "content": "Chiefs QB Patrick MahomesPerry Knotts/Getty Images\r\nHanford: I hope I'm wrong and Josh Allen gets it done on the road, but this just feels like the Chiefs' game to lose. The Bills have been a differe… [+3596 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Trump sits down with 'Hannity' for first exclusive White House interview and more top headlines - Fox News",
+            "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+            "url": "https://www.foxnews.com/us/trump-sits-down-hannity-exclusive-white-house-interview-more-top-headlines",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/trump-hannity.jpg",
+            "publishedAt": "2025-01-23T12:08:02Z",
+            "content": "Good morning and welcome to Fox News morning newsletter, Fox News First. And here's what you need to know to start your day ...\r\nTOP 3\r\n1. Trump sits down with Hannity.\r\n2. Why Trump pardoned Jan 6 d… [+2902 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Adveith Nair, Mark Bergen",
+            "title": "The Abu Dhabi Fund Helping Bankroll Trump’s $100 Billion AI Plan - Bloomberg",
+            "description": "A day after his inauguration as US President, Donald Trump unveiled a $100 billion venture to fund artificial intelligence infrastructure, backed by three of the biggest names in tech - OpenAI, SoftBank Group Corp. and Oracle Corp. Then there was an Abu Dhabi…",
+            "url": "https://www.bloomberg.com/news/articles/2025-01-23/the-abu-dhabi-fund-helping-bankroll-trump-s-100-billion-ai-plan",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGwtvRU.jF34/v0/1200x899.jpg",
+            "publishedAt": "2025-01-23T11:37:58Z",
+            "content": "A day after his inauguration as US President, Donald Trump unveiled a $100 billion venture to fund artificial intelligence infrastructure, backed by three of the biggest names in tech - OpenAI, SoftB… [+437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Sabrina Ortiz",
+            "title": "Samsung Unpacked 2025: Everything you might've missed, Galaxy S25 Edge, AR glasses, more - ZDNet",
+            "description": "Yesterday's launch event saw the unveiling of the Galaxy S25 series, new Galaxy AI features, and a fresh One UI 7 upgrade. Oh, and the S25 Edge made a surprise appearance.",
+            "url": "https://www.zdnet.com/article/samsung-unpacked-2025-everything-you-mightve-missed-galaxy-s25-edge-ar-glasses-more/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/b9f9552fd9781b486ee9184772bb1a5e3963d0b5/2025/01/22/a99e22f1-a013-4148-b2e4-9d7c14943607/img-9994.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-01-23T11:00:00Z",
+            "content": "Like past January Unpacked events, Samsung released three new Galaxy S models, with the base models getting some subtle but meaningful upgrades, including a thinner and lighter design. \r\nOther change… [+2108 chars]"
         },
         {
             "source": {
@@ -96,340 +356,54 @@
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Joel Corry",
-            "title": "Agent's Take: Aaron Rodgers, Maxx Crosby among 15 players who could be traded or released in 2025 offseason - CBS Sports",
-            "description": "These big names are likely heading to different teams",
-            "url": "https://www.cbssports.com/nfl/news/agents-take-aaron-rodgers-maxx-crosby-among-15-players-who-could-be-traded-or-released-in-2025-offseason/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/01/22/efa3691e-7758-4800-bbd5-ee3a61cf330a/thumbnail/1200x675/862222d4dfada9c4da367b05e2bcc858/maxx-crosby-g.jpg",
-            "publishedAt": "2025-01-23T07:02:00Z",
-            "content": "An offseason roster purge is an annual NFL occurrence because long-term contracts aren't fully guaranteed. Players are often released when salaries aren't deemed to match production.\r\nTrades can occu… [+15986 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Nick Miroff, Dan Lamothe, Maria Sacchetti, Marianne LeVine",
-            "title": "Trump shuts off access to asylum, plans to send 10,000 troops to border - The Washington Post",
-            "description": "A briefing document provides an early glimpse into the practical application of Trump’s executive orders on immigration and the border.",
-            "url": "https://www.washingtonpost.com/immigration/2025/01/22/trump-asylum-border-troops-immigration/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SFRDP4JUK3PPOENMJIK6PIDQ4I.jpg&w=1440",
-            "publishedAt": "2025-01-23T06:40:11Z",
-            "content": "President Donald Trump is preparing to send around 10,000 troops to the southern border, where they will support Border Patrol agents under new orders to shut off access to asylum, according to a U.S… [+7922 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Helen Regan",
-            "title": "Coral bleaching on Australia’s Great Barrier Reef reaches ‘catastrophic’ levels, study finds - CNN",
-            "description": "Record-breaking ocean heat has taken a devastating toll on one of the world’s greatest natural wonders, with coral bleaching on Australia’s Great Barrier Reef reaching “catastrophic” levels, a new study has found.",
-            "url": "https://www.cnn.com/2025/01/23/australia/great-barrier-reef-coral-bleaching-catastrophe-climate-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/one-tree-island-research-station-credit-university-of-sydney.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-01-23T05:32:00Z",
-            "content": "Record ocean heat has taken a devastating toll on one of the worlds greatest natural wonders, with coral bleaching on Australias Great Barrier Reef reaching catastrophic levels, a new study has found… [+4047 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Kwan Wei Kevin Tan",
-            "title": "As it unfolded — 24 hours of Elon Musk and Sam Altman's public exchanges since Trump announced Stargate - Business Insider",
-            "description": "\"I genuinely respect your accomplishments and think you are the most inspiring entrepreneur of our time,\" Altman wrote in an X post to Musk.",
-            "url": "https://www.businessinsider.com/24-hours-of-elon-musk-and-sam-altmans-stargate-debate-2025-1",
-            "urlToImage": "https://i.insider.com/6791a27f2fcded5e907460e0?width=1024&format=jpeg",
-            "publishedAt": "2025-01-23T05:31:00Z",
-            "content": "Elon Musk took to X to post a jab at Sam Altman after President Donald Trump announced a new joint venture between Altman's OpenAI, SoftBank, and Oracle.\r\nOn Tuesday, Trump announced Stargate, a $500… [+3570 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Ben Brasch",
-            "title": "Ex-‘MAGA Granny’ is turning down Trump’s pardon of her Jan. 6 conviction - The Washington Post",
-            "description": "She was at the Capitol on Jan. 6, 2021. She pleaded guilty. Now, she doesn’t want President Donald Trump’s pardon because she wants to own what she did.",
-            "url": "https://www.washingtonpost.com/nation/2025/01/22/maga-trump-reject-jan6-pardon/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LCXHNAM6STDGDKCDY4CYKAL5QE_size-normalized.JPG&w=1440",
-            "publishedAt": "2025-01-23T05:20:03Z",
-            "content": "A woman who once called herself the MAGA Granny has spent the past few years criticizing Donald Trump after she was sentenced to 60 days in prison for being part of the mob that stormed the U.S. Capi… [+5726 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Frank Scheck",
-            "title": "‘Star Trek: Section 31’ Review: Not Even Michelle Yeoh Can Save Paramount+’s Subpar Spinoff Movie - Hollywood Reporter",
-            "description": "The Oscar-winning actress reprises her role from 'Star Trek: Discovery' in the franchise's first non-theatrical film.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-reviews/star-trek-section-31-review-michelle-yeoh-1236113083/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/Section31_JT_0205_05106_RT1copy-H-2025.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2025-01-23T05:00:33Z",
-            "content": "Scientists say that our universe is constantly expanding. But some universes should know when to quit, as evidenced by the first television film (well, technically streaming film) and the fourteenth … [+3563 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Daniel Dale",
-            "title": "Fact check: Trump litters Oval Office interview with false claims - CNN",
-            "description": "President Donald Trump littered a Wednesday interview on Fox News with many of the same false claims he made earlier in his first three days back in the White House.",
-            "url": "https://www.cnn.com/2025/01/22/politics/fact-check-trump-litters-oval-office-interview-with-false-claims/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21312104-479201-954-still.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-01-23T04:50:00Z",
-            "content": "President Donald Trump littered a Wednesday interview on Fox News with many of the same false claims he made earlier in his first three days back in the White House.\r\nSpeaking with Fox News host and … [+10340 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Brett Samuels",
-            "title": "Trump names agent Sean Curran as Secret Service director - The Hill",
-            "description": "President Trump on Wednesday tapped Sean Curran to serve as the director of the Secret Service, elevating a long-time agent who was protecting Trump during an assassination attempt last July. “Sean is a Great Patriot, who has protected my family over the past…",
-            "url": "https://thehill.com/homenews/administration/5101878-trump-secret-service-director/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/08/GettyImages-2161922289-e1723227925169.jpg?w=1280",
-            "publishedAt": "2025-01-23T04:00:00Z",
-            "content": "Skip to content\r\nPresident Trump on Wednesday tapped Sean Curran to serve as the director of the Secret Service, elevating a long-time agent who was protecting Trump during an assassination attempt l… [+1350 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Rebecca Falconer, Andrew Freedman",
-            "title": "LA-area fire prompts evacuations after exploding in size, as California faces fresh threats - Axios",
-            "description": "The out-of-control Hughes Fire exploded to 9,400 acres over 2 counties within hours of igniting today.",
-            "url": "https://www.axios.com/2025/01/23/hughes-fire-california-wildfires-la-county",
-            "urlToImage": "https://images.axios.com/vXnCfIW7jK75PC94GsaKVx8LBHw=/0x604:5673x3795/1366x768/2025/01/22/1737588631457.jpg",
-            "publishedAt": "2025-01-23T03:38:30Z",
-            "content": "A fresh California wildfire erupted north of Los Angeles Wednesday during critical fire weather and triggered evacuations as it quickly exploded in size across two counties on Wednesday  and forecast… [+2521 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "David Nield",
-            "title": "Earth's Magnetic North Pole Is Officially Moving – Scientists Just Updated Its Location - ScienceAlert",
-            "description": "It's time to recalibrate the navigation systems on ships, airplanes, as the position of the magnetic North Pole is officially being changed, continuing its shift away from Canada and towards Siberia.",
-            "url": "https://www.sciencealert.com/earths-magnetic-north-pole-is-officially-moving-scientists-just-updated-its-location",
-            "urlToImage": "https://www.sciencealert.com/images/2022/12/BlueMarblePhotoOfEarthOnBlackRectangle.jpg",
-            "publishedAt": "2025-01-23T02:49:24Z",
-            "content": "It's time to recalibrate the navigation systems on ships, airplanes, as the position of the magnetic North Pole is officially being changed, continuing its shift away from Canada and towards Siberia.… [+3327 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Anthony Robledo, Mike Snider",
-            "title": "Over 100,000 ducks to be euthanized at New York farm after bird flu outbreak - Yahoo News",
-            "description": "A Long Island farm will reportedly euthanize more than 100,000 ducks after a bird flu outbreak transpired at the eastern New York facility.",
-            "url": "https://www.usatoday.com/story/news/health/2025/01/22/duck-farm-bird-flu-long-island/77890379007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/01/23/USAT/77891949007-getty-images-945423670.jpg?crop=5342,3005,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2025-01-23T02:14:00Z",
-            "content": "<ul><li>The outbreak is a significant blow to the region's duck farming industry, as Crescent Duck Farm is one of the last remaining commercial duck farms in Long Island.</li><li>The farm's president… [+4153 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KCENTV.com"
-            },
-            "author": "Jacob Wallin",
-            "title": "How to see the 'planetary alignment' this January - KCENTV.com",
-            "description": "Skywatchers can spot Venus, Saturn, Jupiter and Mars in the night sky with the naked eye, but two other planets might need a telescope to be seen.",
-            "url": "https://www.kcentv.com/article/tech/science/aerospace/six-planets-align-in-sky-january/500-4c8f5542-2161-41a1-b117-6452f7a1931d",
-            "urlToImage": "https://media.kcentv.com/assets/KCEN/images/bae2a88d-a2ad-4915-896e-bac155464013/20250123T010107/bae2a88d-a2ad-4915-896e-bac155464013_1140x641.jpg",
-            "publishedAt": "2025-01-23T01:25:10Z",
-            "content": "TEMPLE, Texas A 'planetary parade' is making its way across the sky this January, with four planets, six if you have a telescope, visible in a planetary alignment.\r\nAccording to NASA, Venus, Saturn, … [+1865 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ZDNet"
-            },
-            "author": "Allison Murray",
-            "title": "Best Samsung Galaxy S25 deals: $200 gift cards and free offers at T-Mobile and Verizon - ZDNet",
-            "description": "At its Unpacked event yesterday, Samsung unveiled its new Galaxy S25 lineup. We've got the scoop on where you can preorder the new devices.",
-            "url": "https://www.zdnet.com/article/best-samsung-galaxy-s25-deals-200-gift-cards-and-free-offers-at-t-mobile-and-verizon/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/3d9e535a4cc4ae6351d5a91d18918d5c3e0c8b11/2025/01/22/f0dfd04a-7866-417e-be39-ffc86e7a8c5a/b0ef447c-382c-462d-a250-763624931a93-1-201-a.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-01-23T01:22:00Z",
-            "content": "Sabrina Ortiz/ZDNET\r\nArguably Samsung's biggest event of the year is here, with the company announcing new smartphones in the Galaxy S25 series: the Galaxy S25, the Galaxy S25+, and the Galaxy S25 Ul… [+6532 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Eric He",
-            "title": "California AG pushes back on Trump threat to prosecute officials who don’t comply with ICE - POLITICO",
-            "description": "Rob Bonta, poised to be a top antagonist to the administration, called a recent immigration memo a “scare tactic.\"",
-            "url": "https://www.politico.com/news/2025/01/22/ag-blasts-trump-threat-prosecute-officials-immigration-00200112",
-            "urlToImage": "https://static.politico.com/fc/d9/5306eb7943f8be6be2f26a7ae571/california-attorney-general-70983.jpg",
-            "publishedAt": "2025-01-23T00:35:29Z",
-            "content": "White House principal deputy press secretary Harrison Fields told POLITICO that radical Leftists can either choose to swim against the tide and reject the overwhelming will of the people, or they can… [+911 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
+                "name": "Earth.com"
             },
             "author": null,
-            "title": "Oscar nominations 2025: Demi Moore and Ariana Grande among predicted contenders - BBC.com",
-            "description": "Ariana Grande, Selena Gomez, Kieran Culkin and Colman Domingo are among the stars in the running.",
-            "url": "https://www.bbc.com/news/articles/c62zxeg53gxo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3e51/live/02125d90-d96f-11ef-a37f-eba91255dc3d.jpg",
-            "publishedAt": "2025-01-23T00:10:57Z",
-            "content": "Steven McIntosh\r\nRelative newcomer Mikey Madison could be nominated for her performance in Anora\r\nThe Oscar nominations will be announced later, in an exciting year for the film awards race where the… [+10965 chars]"
+            "title": "Deep space radio burst is detected from a 'dead galaxy,' baffling scientists - Earth.com",
+            "description": "Instead of finding the radio burst in a region of young stars, researchers traced its origin to the outskirts of a “dead” elliptical galaxy.",
+            "url": "https://www.earth.com/news/fast-radio-burst-frb-20240209a-detected-from-dead-galaxy-should-not-be-possible/",
+            "urlToImage": "https://cff2.earth.com/uploads/2025/01/22133047/Radio-bursts-.jpg",
+            "publishedAt": "2025-01-23T02:04:09Z",
+            "content": "Fast radio bursts are sudden flashes of radio waves, often lasting mere milliseconds. The first appeared on astronomers’ radar in 2007, and for the most part, still remain a complete mystery. \r\nScien… [+5748 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "DW (English)"
+                "name": "Vulture"
             },
-            "author": "Deutsche Welle",
-            "title": "India: 12 killed by train after fire rumor triggers panic - DW (English)",
-            "description": "Authorities reported \"sparks inside one of the coaches\" which the passengers mistook for fire, causing panic. India's antiquated railway system is subject to deadly accidents annually, despite investment to modernize it.",
-            "url": "https://www.dw.com/en/india-train-panic-12-dead-fire-rumor/a-71377483",
-            "urlToImage": "https://static.dw.com/image/70065929_6.jpg",
-            "publishedAt": "2025-01-23T00:01:38Z",
-            "content": "A rumor that a fire had started on a moving train in western India led to panic and the deaths of at least 12 people. Some passengers jumped off the train with the supposed fire and were hit by anoth… [+1855 chars]"
+            "author": "Bethy Squires",
+            "title": "Blake Lively and Ryan Reynolds Request Gag Order Against Justin Baldoni’s Lawyer - Vulture",
+            "description": "The Blake Lively/Ryan Reynolds legal team are requesting a gag order against Justin Baldoni’s lawyer, Bryan Freedman. This after Freedman leaked footage to the press.",
+            "url": "http://www.vulture.com/article/it-ends-with-us-gag-order-footage-leak.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/700/4eb/579f8e583d998ae3d4bb82c4f565365ff5-it-ends-with-us-gag-order.1x.rsocial.w1200.jpg",
+            "publishedAt": "2025-01-22T23:46:18Z",
+            "content": "Blake Lively and Ryan Reynolds are requesting a gag order against Justin Baldonis lawyer, Bryan Freedman. In a letter written to judge Lewis J. Liman and obtained by E! News, their legal team says th… [+2909 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "Phys.Org"
             },
-            "author": "Andrew Battifarano",
-            "title": "Heat suspending Jimmy Butler again as roller coaster season takes latest turn - New York Post ",
-            "description": "Groundhog Day came early in Miami this year.",
-            "url": "https://nypost.com/2025/01/22/sports/heat-suspending-jimmy-butler-again-in-sagas-latest-turn/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/newspress-collage-5ahhkgpvr-1737584784661.jpg?quality=75&strip=all&1737566795&w=1024",
-            "publishedAt": "2025-01-22T23:53:00Z",
-            "content": "Groundhog Day came early in Miami this year.\r\nThe Heat are planning to suspend Jimmy Butler again.\r\nThis time it will be for two games after he missed a team flight on Wednesday, the team announced W… [+1885 chars]"
+            "author": "Adithi Ramakrishnan",
+            "title": "Scientists detect chirping cosmic waves in an unexpected part of space - Phys.org",
+            "description": "Scientists have detected cosmic waves that sound like birds chirping in an unexpected place.",
+            "url": "https://phys.org/news/2025-01-scientists-chirping-cosmic-unexpected-space.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/scientists-detect-chir.jpg",
+            "publishedAt": "2025-01-22T20:34:25Z",
+            "content": "Scientists have detected cosmic waves that sound like birds chirping in an unexpected place.\r\nThese bursts of plasma, called chorus waves, ripple at the same frequency as human hearing. When converte… [+2473 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Detroit News"
-            },
-            "author": "Nolan Bianchi",
-            "title": "Lions will get two extra draft picks from Jets' hiring of Aaron Glenn - Detroit News",
-            "description": "The loss of Lions defensive coordinator Aaron Glenn comes with a silver lining.",
-            "url": "https://www.detroitnews.com/story/sports/nfl/lions/2025/01/22/detroit-lions-will-get-two-draft-picks-new-york-jets-hiring-aaron-glenn/77841108007/",
-            "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2024/12/06/PDTN/76814259007-20241205-dmlionspackers-1734.jpg?crop=2655,1495,x0,y326&width=2655&height=1495&format=pjpg&auto=webp",
-            "publishedAt": "2025-01-22T23:52:41Z",
-            "content": "The loss of Detroit Lions defensive coordinator Aaron Glenn comes with a silver lining.\r\nDetroit will be awarded third-round compensatory picks in the 2025 and 2026 drafts thanks to an NFL rule rewar… [+984 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "UN News"
+                "name": "Indiandefencereview.com"
             },
             "author": null,
-            "title": "Support for Haiti needed now ‘more than ever’, Security Council hears - UN News",
-            "description": "Haiti is showing signs of progress on the political front despite serious setbacks in terms of security, the Special Representative and Head of the UN office in the country, BINUH, told the Security Council on Wednesday.",
-            "url": "https://news.un.org/en/story/2025/01/1159341",
-            "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/22-01-2025-UN-Photo-Maria-Salvador.jpg/image770x420cropped.jpg",
-            "publishedAt": "2025-01-22T23:00:28Z",
-            "content": "Maria Isabel Salvador updated ambassadors on the situation in the Caribbean country, where a political transition process to restore democratic institutions continues against a backdrop of ongoing ga… [+4611 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "David Morgan",
-            "title": "Sundance 2025 film lineup features Jennifer Lopez, John Malkovich, Lily Gladstone and more - CBS News",
-            "description": "The 41st edition of the Sundance Film Festival returns to Park City and Salt Lake City in Utah, with world premiere documentaries and narrative films, presented in-person and streaming online.",
-            "url": "https://www.cbsnews.com/news/sundance-film-festival-2025/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/01/22/2f8e44cc-c048-431f-9c17-d0b81cce11e4/thumbnail/1200x630/04ee58937a546e611112655b726e3a67/sundance-2025-1280-getty-2195208824.jpg?v=e306e7b9fefc168c00baa623d76d1eaf",
-            "publishedAt": "2025-01-22T22:32:00Z",
-            "content": "The 41st Sundance Film Festival, one of the world's leading festivals for independent and documentary filmmakers, opens Thursday, with in-person screenings in Park City and Salt Lake City in Utah, an… [+12154 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Beth Mole",
-            "title": "Florida man eats diet of butter, cheese, beef; cholesterol oozes from his body - Ars Technica",
-            "description": "High cholesterol is considered 240 mg/dL. The man’s was over 1,000 mg/dL.",
-            "url": "https://arstechnica.com/health/2025/01/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-486885317-1152x648.jpg",
-            "publishedAt": "2025-01-22T21:49:49Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deseret News"
-            },
-            "author": "Lois M. Collins",
-            "title": "Four viruses circulating: The looming 'quademic' - Deseret News",
-            "description": "What is a quademic? What viruses are circulating? Can you prevent flu, COVID-19, RSV and norovirus? How do you stop virus spread? Read more",
-            "url": "https://www.deseret.com/lifestyle/2025/01/22/quademic-viruses-covid-flu-rsv-norovirus/",
-            "urlToImage": "https://www.deseret.com/resizer/v2/2BL3CVLXQ5GLTCXKILYKBGEO7U.jpg?focal=1340%2C665&auth=9f01e4f18b119322580205612789debe005757e7400d6f18c804cbe73f4417e4&width=1200&height=630",
-            "publishedAt": "2025-01-22T21:15:43Z",
-            "content": "<ul><li>Influenza, COVID-19, RSV and norovirus are all circulating at high levels in the U.S.</li><li>Officials say the norovirus is especially nasty and a new strain to which there's little immunity… [+4029 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Andrew Romero",
-            "title": "Gorilla Armor 2 debuts on Galaxy S25 Ultra after everyone else ignored the first generation - 9to5Google",
-            "description": "One of the coolest parts of the Galaxy S25 Ultra was the anti-reflective front display, thanks to Gorilla Armor. Now,...",
-            "url": "http://9to5google.com/2025/01/22/gorilla-armor-2-debuts-on-galaxy-s25-ultra/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/samsung-galaxy-s25-ultra-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2025-01-22T18:20:00Z",
-            "content": "One of the coolest parts of the Galaxy S25 Ultra was the anti-reflective front display, thanks to Gorilla Armor. Now, Gorilla Armor 2 makes its debut on the next-generation Galaxy S25 Ultra a mere ye… [+1699 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Greg Evans",
-            "title": "Bishop Mariann Edgar Budde On 'The View': No Apologies - Deadline",
-            "description": "The bishop who publicly urged Donald Trump to “have mercy” on immigrants and LGBTQ people – and was dismissed as “a Radical Left hard line Trump hater” by the president – responded with an appearance, remotely, on ABC’s The View today, giving a full-throated …",
-            "url": "http://deadline.com/2025/01/bishop-mariann-edgar-budde-the-view-trump-1236263502/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2025/01/Screenshot-2025-01-22-at-11.58.37 AM.png?w=1024",
-            "publishedAt": "2025-01-22T17:03:00Z",
-            "content": "The bishop who publicly urged Donald Trump to “have mercy” on immigrants and LGBTQ people – and was dismissed as “a Radical Left hard line Trump hater” by the president – responded with an appearance… [+4473 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ZDNet"
-            },
-            "author": "Ed Bott",
-            "title": "7 reasons Windows 11 Pro is worth the upgrade - and the best way to do it - ZDNet",
-            "description": "PC makers love to sell new computers loaded with Windows Home edition. You can pay extra for Windows Pro, but is the upgrade worth the higher price?",
-            "url": "https://www.zdnet.com/article/7-reasons-windows-11-pro-is-worth-the-upgrade-and-the-best-way-to-do-it/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/1e054f0750127968f53e7115ad53c7c56fd44900/2025/01/22/9a874f12-7d1a-44c3-8f24-709c71a5e5db/gettyimages-1327431236.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-01-22T15:09:00Z",
-            "content": "Ilona Nagy/Getty Images\r\nAnyone who's shopped for a new PC in recent years is familiar with this phenomenon: The majority of computers you see for sale at local retail outlets (or in online stores ai… [+4524 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SpaceNews"
-            },
-            "author": "Jeff Foust",
-            "title": "Finland signs Artemis Accords - SpaceNews",
-            "description": "Finland signed the Artemis Accords Jan. 21, the first country to do so this year amid questions about the future of the agreement in the new administration.",
-            "url": "http://spacenews.com/finland-signs-artemis-accords/",
-            "urlToImage": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvc3BhY2VuZXdzLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDFcL2ZpbmxhbmQtYWFzaWduaW5nLTEwMjR4NjgzLmpwZWciLCJ0eHQiOiJGaW5sYW5kIHNpZ25zIEFydGVtaXMgQWNjb3JkcyIsInRlbXBsYXRlIjoiZG9pcyIsImJsb2dfaWQiOjgwNjgxOTc5fQ.GlHnuf-6UQlulM1SzScYjohVYs8Y6TLHjwBB1fMn9e8MQ",
-            "publishedAt": "2025-01-22T00:40:54Z",
-            "content": "WASHINGTON Finland signed the Artemis Accords Jan. 21, the first country to do so this year amid questions about the future of the agreement in the new Trump administration.\r\nNASA said in a statement… [+3571 chars]"
+            "title": "A half-ton metal ring fell from the sky in Kenya. The country's space agency confirmed what many suspected - Indian Defence Review",
+            "description": "A metallic ring weighing over 1,100 pounds crashed near Nairobi, sparking wild theories about its origin. With millions of pieces of space junk orbiting Earth, this incident raises urgent questions about our safety. What does it mean for the future?",
+            "url": "https://indiandefencereview.com/a-half-ton-metal-ring-fell-from-the-sky-in-kenya-the-countrys-space-agency-confirmed-what-many-suspected/",
+            "urlToImage": "https://indiandefencereview.com/wp-content/uploads/2025/01/space20debris-kenya20space20agency-environmental20impact.png",
+            "publishedAt": "2025-01-22T13:30:00Z",
+            "content": "On December 30, something pretty wild happened in a little village southeast of Nairobi, Kenya. A big metallic ring unexpectedly dropped into a local field, grabbing everyone’s attention and sparking… [+3187 chars]"
         }
     ]
 }

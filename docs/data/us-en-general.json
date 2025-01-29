@@ -4,6 +4,97 @@
     "articles": [
         {
             "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "3 dead, 2 police officers injured in grocery store shooting in Indiana - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/3-dead-2-police-officers-injured-grocery-store/story?id\\\\u003d118166208",
+            "urlToImage": null,
+            "publishedAt": "2025-01-28T04:18:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jeff Stein, Jacob Bogage, Emily Davies",
+            "title": "White House pauses all federal grants, sparking confusion - The Washington Post",
+            "description": "The Trump administration has put a hold on all federal financial grants and loans, affecting tens of billions of dollars in payments.",
+            "url": "https://www.washingtonpost.com/business/2025/01/27/white-house-pauses-federal-grants/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C4AIDOFN3RVECQ5AKEJZZGOPHU_size-normalized.jpg&w=1440",
+            "publishedAt": "2025-01-28T03:35:29Z",
+            "content": "The White House budget office is ordering a pause to all grants and loans disbursed by the federal government, according to an internal memo sent to agencies Monday, creating significant confusion ac… [+5300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whitehouse.gov"
+            },
+            "author": null,
+            "title": "The National Day of Remembrance of the 80th Anniversary of the Liberation of Auschwitz, 2025 - The White House",
+            "description": "Today marks the 80th anniversary of the liberation of Auschwitz-Birkenau, the Nazi concentration camp in Poland that stood at the center of the Holocaust",
+            "url": "https://www.whitehouse.gov/presidential-actions/2025/01/871/",
+            "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/01/WH47-Social-Share-Card-Navy-1200x628-1.png",
+            "publishedAt": "2025-01-28T03:27:13Z",
+            "content": "Today marks the 80th anniversary of the liberation of Auschwitz-Birkenau, the Nazi concentration camp in Poland that stood at the center of the Holocaust and focus for their systematic slaughter of t… [+3569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "The Hacker News",
+            "title": "Apple Patches Actively Exploited Zero-Day Affecting iPhones, Macs, and More - The Hacker News",
+            "description": "Apple addresses a zero-day flaw (CVE-2025-24085) and fixes 9 vulnerabilities in iOS 18.3, macOS Sequoia 15.3, and more.",
+            "url": "https://thehackernews.com/2025/01/apple-patches-actively-exploited-zero.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33T88lsVhxa4XrrH02qPJ5GN6Ls8iw0UEWeDANYOC7FdQpQQhPHfptxH9jPoaCtJT3Qvxih7IC7UE10hiWrWNcyzpY3CA8SMWPSg5ouWi83L0g9y08WQ-z_ytmLyM3OmDHwoMCjwLPg8qWf5bD-TVd28-iE7iJGyx8b0fz9u72Fhe4z4QZHW5-uWQs0t6/s728-rw-e365/apple.png",
+            "publishedAt": "2025-01-28T03:23:00Z",
+            "content": "Apple has released software updates to address several security flaws across its portfolio, including a zero-day vulnerability that it said has been exploited in the wild.\r\nThe vulnerability, tracked… [+2008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Pamela McClintock, Winston Cho",
+            "title": "Blake Lively Moves to Depose Key Player in ‘It Ends With Us’ Justin Baldoni Feud; Court Sets First Hearing - Hollywood Reporter",
+            "description": "A New York court has also set a March 2026 trial date and intends to consolidate the crisscrossing lawsuits between Lively and her director and co-star, who is suing both Lively and husband Ryan Reynolds.",
+            "url": "http://www.hollywoodreporter.com/business/business-news/blake-lively-justin-baldoni-first-court-hearing-1236119834/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/08/It-Ends-With-Us-publicity-H-2024-1.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2025-01-28T03:20:24Z",
+            "content": "Blake Lively has moved to depose a key player whose crisis management firm Street Relations allegedly played a part in the smear campaign initiated by Justin Baldoni.\r\nLively filed a petition in Texa… [+6274 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Stephanie Lai, Josh Wingrove",
+            "title": "Trump Says Microsoft Eyeing TikTok Bid With App’s Future in US Unclear - Bloomberg",
+            "description": "Microsoft Corp. is in talks to acquire the US arm of ByteDance Ltd.’s TikTok, President Donald Trump said Monday night, without elaborating.",
+            "url": "https://www.bloomberg.com/news/articles/2025-01-28/trump-says-microsoft-eyeing-tiktok-bid-with-app-s-future-unclear",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAUVtbQTpnv8/v1/1200x800.jpg",
+            "publishedAt": "2025-01-28T02:44:00Z",
+            "content": "Microsoft Corp. is in talks to acquire the US arm of ByteDance Ltd.s TikTok, President Donald Trump said Monday night, without elaborating.\r\nI would say yes, Trump told reporters aboard Air Force One… [+124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tomahawk Nation"
+            },
+            "author": "Tomahawk Nation News",
+            "title": "2025 FSU football schedule released: Dates, opponents - Tomahawk Nation",
+            "description": "Seminoles looking to bounce back after disappointing 2024",
+            "url": "https://www.tomahawknation.com/florida-state-football-fsu-seminoles-college-cfb-acc-norvell-team-roster-schedule-game/2025/1/27/24353321/finalized-miami-gators-alabama-clemson-carolina-virginia-pitt-schedule-release-dates-opponents",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/8i-Lcn1glRWVnx4qmcb5-6aaOqE=/0x387:5400x3214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25849864/1749586296.jpg",
+            "publishedAt": "2025-01-28T02:27:37Z",
+            "content": "The 2025 Florida State schedule has been finalized, with the ACC announcing the dates for all of its conference members Monday night.\r\nFSU opens the year at home vs. the Alabama Crimson Tide, set to … [+1883 chars]"
+        },
+        {
+            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -18,67 +109,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Phys.Org"
             },
-            "author": "CBS News Videos",
-            "title": "Heavy rains cause mudslides around fire-ravaged Los Angeles - Yahoo! Voices",
-            "description": "Several mudslides have been reported around Los Angeles as the city saw rainfall for the first time in more than eight months. The wet weather is bringing...",
-            "url": "https://www.yahoo.com/news/heavy-rains-cause-mudslides-around-013538901.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KwG0a7Vf68.nDQCdgaZM7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/video.cbsnewsvideos.com/8da6f5fda3a1c456f46ddccd851cc319",
-            "publishedAt": "2025-01-28T01:35:00Z",
-            "content": "Several mudslides have been reported around Los Angeles as the city saw rainfall for the first time in more than eight months. The wet weather is bringing some relief to crews who are still working t… [+74 chars]"
+            "author": "International Centre for Radio Astronomy Research (ICRAR)",
+            "title": "Advanced radio telescope technology 'sifts' space for mysteries - Phys.org",
+            "description": "The first trial of an Australian-developed technology has detected mysterious objects by sifting through signals from space like sand on a beach.",
+            "url": "https://phys.org/news/2025-01-advanced-radio-telescope-technology-sifts.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/australian-innovation.jpg",
+            "publishedAt": "2025-01-28T00:30:06Z",
+            "content": "The first trial of an Australian-developed technology has detected mysterious objects by sifting through signals from space like sand on a beach.\r\nAstronomers and engineers at CSIRO, Australia's nati… [+3851 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Barron's"
+                "name": "Deadline"
             },
-            "author": "Barron's",
-            "title": "'Tell The World': Holocaust Survivors Entrust Memories To AI - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/tell-the-world-holocaust-survivors-entrust-memories-to-ai-40e0eefe",
-            "urlToImage": null,
-            "publishedAt": "2025-01-28T01:18:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Derek Saul, Mary Whitfill Roeloffs",
-            "title": "DeepSeek Panic Live Updates: Trump Calls AI Development ‘Positive’ Despite Tech Stock Plunge - Forbes",
-            "description": "The president spoke Monday afternoon about the new AI model that roiled the U.S. tech industry.",
-            "url": "https://www.forbes.com/sites/dereksaul/2025/01/27/deepseek-panic-live-updates-trump-calls-ai-development-positive-despite-tech-stock-plunge/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67982500e0cb580293a43bc8/0x0.jpg?format=jpg&crop=2570,1445,x0,y52,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-01-28T00:31:00Z",
-            "content": "The release of a less capital-intensive artificial intelligence model from Chinas DeepSeek sent a chill through the U.S. stock market Monday, initiating a massive selloff led by Nvidia and hitting bi… [+9682 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Julie Bort",
-            "title": "Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo - TechCrunch",
-            "description": "The tech industry's reaction to AI model DeepSeek R1 has been wild. Pat Gelsinger, for instance, is elated and thinks it will make AI better for everyone.",
-            "url": "https://techcrunch.com/2025/01/27/former-intel-ceo-pat-gelsinger-is-already-using-deepseek-instead-of-openai-at-his-startup-gloo/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-871704844.jpg?w=1024",
-            "publishedAt": "2025-01-28T00:06:17Z",
-            "content": "DeepSeeks new open source AI reasoning model, R1, sparked a sell-off of Nvidias stock and caused its consumer app to soar to the top of the app stores.\r\nLast month DeepSeek said it trained a model us… [+3732 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "LARRY NEUMEISTER, ANDREW DALTON",
-            "title": "Blake Lively and Justin Baldoni get March 2026 trial date for her ‘It Ends With Us’ lawsuit - The Associated Press",
-            "description": "A federal judge has set a March 2026 trial date for actors Blake Lively and Justin Baldoni to resolve their claims stemming from their work on the movie “It Ends With Us.” Judge Lewis J. Liman set the date Monday and ordered a conference next week after Livel…",
-            "url": "https://apnews.com/article/justin-baldoni-blake-lively-9f40635a679b8e505fd403a337e1ad85",
-            "urlToImage": "https://dims.apnews.com/dims4/default/f8bf72a/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2F4c%2F12ce13d7c3d9a3ac81e9e44f28a7%2F5c4b5a681c0245a0a46c4e56682dd680",
-            "publishedAt": "2025-01-27T23:47:00Z",
-            "content": "NEW YORK (AP) A New York judge set a March 2026 trial date on Monday and moved an initial conference from mid-February to next week as the public feud between Blake Lively and her It Ends With Us cos… [+4551 chars]"
+            "author": "Dominic Patten, Anthony D'Alessandro",
+            "title": "Sundance: Quentin Tarantino Reveals Why He Hasn’t Been Directing Lately - Deadline",
+            "description": "Quentin Tarantino revealed why he hasn't been directing lately in a surprise appearance at the Sundance Film Festival.",
+            "url": "http://deadline.com/2025/01/quentin-tarantino-sundance-appearance-reservoir-dogs-1236268796/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2025/01/Quentin-Tarantino.jpg?w=1024",
+            "publishedAt": "2025-01-28T00:03:00Z",
+            "content": "EXCLUSIVE: Thirty-three years after Quentin Tarantino‘s Reservoir Dogs premiered at the Sundance Film Festival, the two-time Oscar winning filmmaker was back in Park City today.\r\nRarely at a loss of … [+2459 chars]"
         },
         {
             "source": {
@@ -95,45 +147,6 @@
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Sarah Rumpf-Whitten",
-            "title": "Gun used in Vermont border agent shootout linked to double murder suspect, prosecutors say - Fox News",
-            "description": "The woman accused of killing U.S. Border Agent David Maland allegedly used a gun bought by someone who was a person of interest in a double murder, prosecutors said.",
-            "url": "https://www.foxnews.com/us/gun-used-vermont-border-agent-shootout-linked-double-murder-suspect-prosecutors-say",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/davidmaland.jpg",
-            "publishedAt": "2025-01-27T23:45:00Z",
-            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+3166 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Charean Williams",
-            "title": "Brian Schottenheimer will call the offensive plays for the Cowboys - NBC Sports",
-            "description": "Brian Schottenheimer will call the Cowboys' offensive plays this season, a request of Jerry Jones before the team hired the longtime NFL assistant coach.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-will-call-the-offensive-plays-for-the-cowboys",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/732dfa4/2147483647/strip/true/crop/3886x2186+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2F4d%2Fed41128841899005128ec6a71423%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2195718596",
-            "publishedAt": "2025-01-27T23:44:35Z",
-            "content": "Brian Schottenheimer will call the Cowboys offensive plays this season, a request of Jerry Jones before the team hired the longtime NFL assistant coach.\r\nWe wanted Brian to call the plays, Cowboys ow… [+1725 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Piper Hudspeth Blackburn, Morgan Rimmer",
-            "title": "Senate confirms Scott Bessent as Treasury secretary - CNN",
-            "description": "The Senate confirmed Scott Bessent as Treasury secretary on Monday, elevating the hedge fund manager to the new administration’s top financial job as President Donald Trump forges ahead on an ambitious economic agenda.",
-            "url": "https://www.cnn.com/2025/01/27/politics/senate-confirms-scott-bessent-treasury-secretary/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2193614509.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-01-27T23:32:00Z",
-            "content": "The Senate confirmed Scott Bessent as Treasury secretary on Monday, elevating the hedge fund manager to the new administrations top financial job as President Donald Trump forges ahead on an ambitiou… [+2007 chars]"
-        },
-        {
-            "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
             },
@@ -144,19 +157,6 @@
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/timeround1-1152x648.jpg",
             "publishedAt": "2025-01-27T23:28:53Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "STEPHANY MATAT, KATE PAYNE",
-            "title": "Florida Republicans defy DeSantis to push their own immigration bill - The Associated Press",
-            "description": "Florida Republican lawmakers have defied Gov. Ron DeSantis' call for a special session on immigration by tossing out the governor's proposals and convening their own special legislative session to carry out President Donald Trump's federal immigration orders.…",
-            "url": "https://apnews.com/article/florida-ron-desantis-donald-trump-republican-legislature-878ef5458b8815d455f60674587b3347",
-            "urlToImage": "https://dims.apnews.com/dims4/default/e57fe8f/2147483647/strip/true/crop/4899x2756+0+255/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2F2a%2F6527881fe9b6e139bc62a8766141%2Fd845fa42d5824d04816d630d1d8e65fe",
-            "publishedAt": "2025-01-27T23:28:00Z",
-            "content": "TALLAHASSEE, Fla. (AP) In Florida, its game on between Gov. Ron DeSantis and the states Republican lawmakers.\r\nIn a stunning rebuke to DeSantis, who was once floated as the Republican successor to Pr… [+6237 chars]"
         },
         {
             "source": {
@@ -173,94 +173,133 @@
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": null,
+                "name": "Turn to 10"
             },
-            "author": "Ivana Saric",
-            "title": "Quakers challenge Trump order allowing immigration raids at religious sites - Axios",
-            "description": "The Quakers said the policy violates their religious freedom, which requires them to welcome everyone.",
-            "url": "https://www.axios.com/2025/01/27/quakers-trump-immigration-raid-churches-lawsuit",
-            "urlToImage": "https://images.axios.com/GExSVc8d-6yTijG7qKLgbH5rolc=/0x417:4000x2667/1366x768/2025/01/27/1738012213758.jpg",
-            "publishedAt": "2025-01-27T22:52:29Z",
-            "content": "A collection of Quaker groups sued the Trump administration Monday over a policy allowing federal officials to arrest undocumented immigrants in \"sensitive\" spaces, like houses of worship.\r\nWhy it ma… [+2377 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Lorenzo Franceschi-Bicchierai",
-            "title": "How to switch off Apple Intelligence on your iPhone, iPad, and Mac - TechCrunch",
-            "description": "Here's a step-by-step guide on how to turn off and disable Apple Intelligence from your devices.",
-            "url": "https://techcrunch.com/2025/01/27/how-to-switch-off-apple-intelligence-on-your-iphone-ipad-and-mac/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
-            "publishedAt": "2025-01-27T22:34:04Z",
-            "content": "Apple released new software updates on Monday, including iOS 18.3, which automatically opts users into Apple Intelligence, at least for newer devices. \r\nUnlike what the tech industry seems to think, … [+1582 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "THE ASSOCIATED PRESS",
-            "title": "Middle East latest: Israel lets displaced Palestinians return to northern Gaza - The Associated Press",
-            "description": "Israel is letting hundreds of thousands of Palestinians return to heavily destroyed northern Gaza as part of a fragile ceasefire. It's the first time they're allowed back since the early weeks of the 15-month war with Hamas. The U.N. said over 200,000 people …",
-            "url": "https://apnews.com/article/israel-hamas-war-syria-lebanon-news-01-27-2025-96d8db221390c0579cb58e35a1695ae7",
-            "urlToImage": "https://dims.apnews.com/dims4/default/7f43f83/2147483647/strip/true/crop/7565x4255+0+394/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2Fc1%2F70f431e9953047e30b1273da4b51%2F413606fa0e6449b489ea21d4f18e0a1b",
-            "publishedAt": "2025-01-27T21:49:00Z",
-            "content": "Israel began allowing hundreds of thousands of Palestinians to return on Monday to the heavily destroyed northern Gaza Strip for the first time since the early weeks of the 15-month war with Hamas.\r\n… [+20908 chars]"
+            "author": "MOLLY LEVINE, NBC 10 NEWS",
+            "title": "Restaurants raise menu prices amid egg cost spike - Turn to 10",
+            "description": "Southern New England restaurant owners are feeling the impacts of rising egg prices, causing some to adjust their menus.The ongoing bird flu outbreak in the Uni",
+            "url": "https://turnto10.com/news/local/restaurant-raise-menu-prices-amid-egg-cost-spike-owners-jefferson-diner-cozy-grill-food-meals-prices-breakfast-shopping-consumer-january-27-2025",
+            "urlToImage": "https://turnto10.com/resources/media2/16x9/1280/986/center/90/656ae024-b328-4053-8e16-589c595a7f02-3c19a97ffa024e2e88ab03fe86495698.png",
+            "publishedAt": "2025-01-27T23:18:11Z",
+            "content": "WARWICK, R.I. (WJAR) Southern New England restaurant owners are feeling the impacts of rising egg prices, causing some to adjust their menus.\r\nThe ongoing bird flu outbreak in the United States is to… [+929 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
+                "name": "WLS-TV"
             },
-            "author": "Max Planck Society",
-            "title": "Dwarf planet Ceres may have received organic material from space objects - Phys.org",
-            "description": "The organic material found in a few areas on the surface of dwarf planet Ceres is probably of exogenic origin. Impacting asteroids from the outer asteroid belt may have brought it with them.",
-            "url": "https://phys.org/news/2025-01-dwarf-planet-ceres-material-space.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/dwarf-planet-ceres-bui.jpg",
-            "publishedAt": "2025-01-27T21:44:05Z",
-            "content": "The organic material found in a few areas on the surface of dwarf planet Ceres is probably of exogenic origin. Impacting asteroids from the outer asteroid belt may have brought it with them.\r\nIn the … [+6512 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AZFamily"
-            },
-            "author": "azfamily staff, Associated Press",
-            "title": "Immigration raids underway across US, including Arizona - Arizona's Family",
-            "description": "Federal officials touted hundreds of arrests as immigration enforcement ramped up across the county, including Arizona.",
-            "url": "https://www.azfamily.com/2025/01/27/immigration-raids-underway-across-us-including-arizona/",
-            "urlToImage": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/26KCCUYYYVCYVKOIY4HUXULVTQ.jpg?auth=862a2b900b18e7ed47c1d171a7f374300537a594dfe21a4b67ed455694dde431&width=1200&height=600&smart=true",
-            "publishedAt": "2025-01-27T20:34:19Z",
-            "content": "PHOENIX (AZFamily/AP) Federal officials touted hundreds of arrests as immigration enforcement ramped up across the county, including Arizona.\r\nOn Sunday, the U.S. Drug Enforcement Administrations Pho… [+3245 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Penn State poaching Jim Knowles sends clear message: James Franklin, Nittany Lions ready to take next step - CBS Sports",
-            "description": "Knowles helped guide Ohio State to a national title, now he'll try to do the same for Penn State",
-            "url": "https://www.cbssports.com/college-football/news/penn-state-poaching-jim-knowles-sends-clear-message-james-franklin-nittany-lions-ready-to-take-next-step/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/01/27/2fb060c7-409c-4cdd-960b-86a01879685b/thumbnail/1200x675/026c237cafe611e9b40f0bbca31f3434/james-franklin.png",
-            "publishedAt": "2025-01-27T20:24:00Z",
-            "content": "James Franklin has picked up his first win over Ohio State since 2016.\r\nPenn State poached Ohio State defensive coordinator Jim Knowles over the weekend. While Ryan Day and the Buckeyes were busy cel… [+3545 chars]"
+            "author": "Rob Hughes",
+            "title": "Jasper County Sheriff's Office shooting: Officer kills Hobart man Matthew W. Huttle, pardoned by Trump, IN State Police say - ABC7 Chicago",
+            "description": "A northwest Indiana sheriff's deputy shot and killed a 42-year-old man during a traffic stop Sunday afternoon, Indiana State Police said.",
+            "url": "https://abc7chicago.com/post/jasper-county-sheriffs-office-shooting-officer-shoots-kills-hobart-man-matthew-huttle-indiana-state-police-say/15840984/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/15841693_012725-wls-rob-in-shooting-430p-vid.jpg?w=1600",
+            "publishedAt": "2025-01-27T23:03:45Z",
+            "content": "JASPER COUNTY, Ind. (WLS) -- A northwest Indiana sheriff's deputy shot and killed a 42-year-old man during a traffic stop Sunday afternoon, Indiana State Police said.\r\nThe Jasper County Sheriff's Dep… [+2506 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Ashley Strickland",
-            "title": "Earth’s recent ‘mini-moon’ may be an actual piece of the moon, astronomers say - CNN",
-            "description": "An asteroid that orbited near Earth for a few months as a mini-moon may be a chunk of the moon that was blasted off by an impact thousands of years ago.",
-            "url": "https://www.cnn.com/2025/01/27/science/earth-lunar-asteroid-mini-moon/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/1-asteroid-illo-width-1600.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-01-27T19:03:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA small space rock that lingered near Earth last year … [+7660 chars]"
+            "author": "Lauren Izso, Dana Karni, Tim Lister",
+            "title": "Israel says eight of the remaining hostages to be released by Hamas in phase one of deal are dead - CNN",
+            "description": "Eight of the remaining hostages set to be released by Hamas in the first phase of a ceasefire agreement with Israel are dead, according to an Israeli government spokesperson.",
+            "url": "https://www.cnn.com/2025/01/27/middleeast/israel-hamas-eight-hostages-dead-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2107845362.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-01-27T23:03:00Z",
+            "content": "Eight of the remaining hostages set to be released by Hamas in the first phase of a ceasefire agreement with Israel are dead, according to an Israeli government spokesperson.\r\nThe rest of the 33 host… [+3597 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Andrew Cunningham",
+            "title": "New FPGA-powered retro console re-creates the PlayStation One, CD-ROM drive optional - Ars Technica",
+            "description": "Works with original PS1 accessories, and supports other MiSTer FPGA cores.",
+            "url": "https://arstechnica.com/gadgets/2025/01/new-fpga-powered-retro-console-re-creates-the-playstation-one-cd-rom-drive-optional/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/SS1-BackProduct.28_855549e2-476c-4348-99cb-40ded8a8e78e-990x648.jpeg",
+            "publishedAt": "2025-01-27T23:00:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Josh Allen \"extremely confident\" Sean McDermott can get Bills over the hump - NBC Sports",
+            "description": "McDermott and Allen are 7-6 in the playoffs after Sunday's loss.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-extremely-confident-sean-mcdermott-can-get-bills-over-the-hump",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/43e9802/2147483647/strip/true/crop/3292x1852+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2F37%2F88149a1447f9ac9bd2b394ec28c8%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2195589780",
+            "publishedAt": "2025-01-27T22:06:52Z",
+            "content": "Josh Allen and Sean McDermott have won a lot of games together in Buffalo, but the biggest wins continue to elude them. \r\nTheir latest miss came in Kansas City on Sunday when the Chiefs closed the do… [+1111 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Morning Call"
+            },
+            "author": "Elizabeth DeOrnellas",
+            "title": "Pennsylvania sees first 2025 case of bird flu in domestic poultry at Lehigh County farm - The Morning Call",
+            "description": "A commercial poultry farm in Lehigh County has Pennsylvania’s first confirmed 2025 case of bird flu in domestic poultry, the state Department of Agriculture said, noting the case affected a 5…",
+            "url": "http://www.mcall.com/2025/01/27/lehigh-county-sees-states-first-2025-case-of-bird-flu-in-domestic-poultry/",
+            "urlToImage": "https://www.mcall.com/wp-content/uploads/2025/01/9b57480f9d64128979b0d2b4ded05c3b.jpg?w=1024&h=682",
+            "publishedAt": "2025-01-27T22:01:44Z",
+            "content": "A commercial poultry farm in Lehigh County has the state’s first confirmed 2025 case of bird flu in domestic poultry, the Pennsylvania Department of Agriculture said Monday, noting the case affected … [+2167 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alayna Treene, Pamela Brown, Haley Britzky, Oren Liebermann",
+            "title": "Trump expected to sign executive orders to reshape the military, including banning transgender troops - CNN",
+            "description": "President Donald Trump on Monday is expected to sign three executive orders that would reshape the military, including banning transgender service members from serving in the US armed forces, gutting the military’s Diversity, Equity and Inclusion programs, an…",
+            "url": "https://www.cnn.com/2025/01/27/politics/donald-trump-military-executive-orders/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2195559537.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-01-27T20:14:00Z",
+            "content": "President Donald Trump on Monday is expected to sign four executive orders that would reshape the military, including banning transgender service members from serving in the US armed forces, gutting … [+5527 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "Lee Mohon",
+            "title": "Black Holes Can Cook for Themselves, Chandra Study Shows - NASA",
+            "description": "Astronomers have taken a crucial step in showing that the most massive black holes in the universe can create their own meals. Data from NASA’s Chandra X-ray",
+            "url": "https://www.nasa.gov/image-article/black-holes-can-cook-for-themselves-chandra-study-shows/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2025/01/filaments-centaurus.jpg",
+            "publishedAt": "2025-01-27T19:22:59Z",
+            "content": "Astronomers have taken a crucial step in showing that the most massive black holes in the universe can create their own meals. Data from NASAs Chandra X-ray Observatory and the Very Large Telescope (… [+4934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Ethan Shanfeld",
+            "title": "2024’s Most-Streamed Series Revealed: ‘Bluey,’ ‘Grey’s Anatomy,’ ‘Family Guy’ and More - Variety",
+            "description": "'Bluey,' 'Grey's Anatomy' and 'Family Guy' were the most-streamed series of 2024. 'Moana' and 'The Super Mario Bros. Movie' topped the movie chart.",
+            "url": "https://variety.com/2025/tv/news/most-streamed-shows-2024-bluey-greys-anatomy-1236287267/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2025/01/MixCollage-27-Jan-2025-12-28-PM-3733-e1737998956178.jpg?crop=0px%2C52px%2C2960px%2C1665px&resize=1000%2C563",
+            "publishedAt": "2025-01-27T19:00:00Z",
+            "content": "“Bluey” and “Grey’s Anatomy” were the most-streamed programs of 2024, according to a year-end Nielsen report. The Australian preschool program racked up 55.62 billion viewing minutes on Disney+, whil… [+2476 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Falcoholic"
+            },
+            "author": "Dave Choate",
+            "title": "Jeff Ulbrich vows to fix pass rush, confirms he will call plays for Falcons in 2025 - The Falcoholic",
+            "description": "In his opening press conference, Ulbrich stresses that experience will make him a better coordinator than he was in 2020.",
+            "url": "https://www.thefalcoholic.com/2025/1/27/24353105/jeff-ulbrich-vows-to-fix-pass-rush-confirms-he-will-call-plays-for-falcons-in-2025-raheem-morris",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/BDbC7mpr7yoLY9n72pnOJuTZWvo=/0x153:3952x2222/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25849057/1168217732.jpg",
+            "publishedAt": "2025-01-27T18:59:52Z",
+            "content": "Jeff Ulbrich met local media for the first time since being hired as the Atlanta Falcons defensive coordinator, but he likely saw a ton of familiar faces. The longtime Falcons linebackers coach and 2… [+2719 chars]"
         },
         {
             "source": {
@@ -277,16 +316,16 @@
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": null,
+                "name": "Financial Times"
             },
-            "author": "Eric Lagatta",
-            "title": "Fast radio burst detected in 'dead' galaxy raises questions about mysterious signals - USA TODAY",
-            "description": "A fast radio burst, or a strong pulse of energy, was tracked to a distant long-dead galaxy that astronomers never thought could produce such a signal.",
-            "url": "https://www.usatoday.com/story/news/nation/2025/01/27/fast-radio-burst-dead-galaxy-astronomy-magnetar/77966214007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/01/27/USAT/77966460007-kv-img-0995.jpeg?crop=1439,811,x0,y134&width=1439&height=811&format=pjpg&auto=webp",
-            "publishedAt": "2025-01-27T18:39:56Z",
-            "content": "<ul><li>With their extremely strong magnetic fields, magnetars have long been considered the prime culprit capable of producing the powerful bursts of energy known as fast radio bursts.</li><li>The r… [+5935 chars]"
+            "author": "Mehul Srivastava",
+            "title": "In pictures: Gazans march north after Israel-Hamas ceasefire - Financial Times",
+            "description": "Opening of military corridor allows hundreds of thousands to start returning home, finding devastation along the way",
+            "url": "https://www.ft.com/content/b95f0e3b-9ac1-4efd-b067-6cdfbd69e62a",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbab87064-6287-4e74-ab5f-de259ada017f.jpg?source=next-barrier-page",
+            "publishedAt": "2025-01-27T17:57:03Z",
+            "content": "Rs19000 for your first year\r\nFT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>F… [+134 chars]"
         },
         {
             "source": {
@@ -316,32 +355,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Nicole Fell",
-            "title": "Lady Gaga Announces New Album ‘Mayhem’ - Hollywood Reporter",
-            "description": "The third single and music video from the singer’s highly anticipated album will premiere during a Grammy Awards commercial break.",
-            "url": "http://www.hollywoodreporter.com/news/music-news/lady-gaga-new-album-mayhem-1236119151/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/Lady-Gaga-Mayhem-Main-2025.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2025-01-27T16:58:10Z",
-            "content": "Following a slew of teasers, including a website countdown and cross country billboards, Lady Gaga has announced her highly anticipated seventh studio album.\r\nThe new album, Mayhem, will mark Gaga’s … [+1591 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Hayden Field",
-            "title": "DeepSeek hit with large-scale cyberattack, says it's limiting registrations - CNBC",
-            "description": "DeepSeek on Monday said it would temporarily limit user registrations \"due to large-scale malicious attacks\" on its services.",
-            "url": "https://www.cnbc.com/2025/01/27/deepseek-hit-with-large-scale-cyberattack-says-its-limiting-registrations.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108092650-17379831282025-01-27t125916z_1171719196_rc2cica8vist_rtrmadp_0_deepseek-markets.jpeg?v=1737983192&w=1920&h=1080",
-            "publishedAt": "2025-01-27T16:26:34Z",
-            "content": "DeepSeek on Monday said it would temporarily limit user registrations \"due to large-scale malicious attacks\" on its services, though existing users will be able to log in as usual.\r\nThe Chinese artif… [+2298 chars]"
-        },
-        {
-            "source": {
                 "id": "medical-news-today",
                 "name": "Medical News Today"
             },
@@ -352,45 +365,6 @@
             "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/01/reflection-young-businessman-1200-628-facebook.jpg",
             "publishedAt": "2025-01-27T16:25:09Z",
             "content": "<ul><li>A new study estimates the life expectancy of adults with attention-deficit and hyperactivity disorder (ADHD).</li><li>The researchers conclude that, on average, people with an ADHD diagnosis … [+6926 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Andrew Osborn",
-            "title": "Russia issues school textbook saying it was 'forced' to march into Ukraine - Yahoo News Canada",
-            "description": "A new school textbook that likens Russia's war in Ukraine to the Soviet struggle against the Nazis and says Russia was \"forced\" to send troops into Ukraine...",
-            "url": "https://ca.news.yahoo.com/russia-issues-school-textbook-saying-155054699.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/9ecfd85b93cc4bef2620c5e73346352b",
-            "publishedAt": "2025-01-27T15:50:54Z",
-            "content": "By Andrew Osborn\r\n(Reuters) - A new school textbook that likens Russia's war in Ukraine to the Soviet struggle against the Nazis and says Russia was \"forced\" to send troops into Ukraine was presented… [+2150 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Democracy Now!"
-            },
-            "author": null,
-            "title": "Trump Accused of Backing Ethnic Cleansing After Calling for “Clean Out” of Gaza - Democracy Now!",
-            "description": "President Trump is facing accusations of supporting ethnic cleansing in Gaza after saying he wants to “clean out the whole thing.” Trump made the remark while speaking to reporters aboard Air Force One on Saturday.\n\nPresident Donald Trump: “I’d like Egypt to …",
-            "url": "https://www.democracynow.org/2025/1/27/headlines/trump_accused_of_backing_ethnic_cleansing_after_calling_for_clean_out_of_gaza",
-            "urlToImage": "https://www.democracynow.org/images/headlines/10/75510/full_hd/hl1-Gaza.jpg",
-            "publishedAt": "2025-01-27T15:23:49Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digital Trends"
-            },
-            "author": "Patrick Hearn",
-            "title": "Gurman calls Apple’s new smart device “the most significant new Apple product” of 2025 - Digital Trends",
-            "description": "Apple’s new smart hub could look like a HomePod with a seven-inch screen attached to it, and a higher-end version of the same device could even have a robot arm that lets it track users around the room. In his latest Power On! newsletter, Mark Gurman lays out…",
-            "url": "https://www.digitaltrends.com/home/gurman-calls-apples-new-smart-device-most-significant-new-apple-product-of-2025/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/01/apple-homepod-2023-review-11.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2025-01-26T17:07:56Z",
-            "content": "Apple’s new smart hub could look like a HomePod with a seven-inch screen attached to it, and a higher-end version of the same device could even have a robot arm that lets it track users around the ro… [+1509 chars]"
         }
     ]
 }

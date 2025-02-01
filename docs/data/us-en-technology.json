@@ -1,32 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 44,
+    "totalResults": 37,
     "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Google quietly announces its next flagship AI model - TechCrunch",
+            "description": "Google has quietly announced Gemini 2.0 Pro Experimental, a flagship model, in a changelog for the company's Gemini chatbot app.",
+            "url": "https://techcrunch.com/2025/01/30/google-quietly-announces-its-next-flagship-ai-model/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/getty-gemini-laptop.jpg?resize=1200,800",
+            "publishedAt": "2025-01-30T22:55:25Z",
+            "content": "Update: Some users on social media report that the changelog has been updated to remove mention of Gemini 2.0 Pro Experimental. The references have disappeared for this reporter as well. A Google spo… [+2553 chars]"
+        },
         {
             "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
             },
-            "author": "Andrew Cunningham",
-            "title": "Microsoft updates Intel-based Surface PCs, but regular people still can’t buy them - Ars Technica",
-            "description": "Businesses often use hardware and software that still needs x86 to run properly.",
-            "url": "https://arstechnica.com/gadgets/2025/01/microsoft-updates-intel-based-surface-pcs-but-regular-people-still-cant-buy-them/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/surface-lunar-lake-1152x648.jpeg",
-            "publishedAt": "2025-01-30T15:00:25Z",
+            "author": "Kyle Orland",
+            "title": "How one YouTuber is trying to poison the AI bots stealing her content - Ars Technica",
+            "description": "Specialized garbage-filled captions are invisible to humans, confounding to AI.",
+            "url": "https://arstechnica.com/ai/2025/01/how-one-youtuber-is-trying-to-poison-the-ai-bots-stealing-her-content/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2045444477-1152x648.jpg",
+            "publishedAt": "2025-01-30T22:52:39Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "YouTube Premium’s 4x speed and other experimental features now available to subscribers - The Verge",
+            "description": "All YouTube Premium subscribers can now test out experimental features like 4x playback speed, picture-in-picture mode for Shorts, and higher quality audio.",
+            "url": "https://www.theverge.com/news/603581/youtube-premium-experimental-test-4x-speed-now-available",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK092_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-01-30T22:16:53Z",
+            "content": "Paying members can test out some bleeding-edge features.\r\nAfter announcing some new experimental features for YouTube Premium subscribers earlier this month and that multiple experiments can be teste… [+1558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Ryan S. Gladwin",
+            "title": "'Deadrop' Game Studio Shutting Down Following Dr. Disrespect Dismissal - Decrypt",
+            "description": "Midnight Society, the developer behind Deadrop, confirmed Thursday that it's closing up shop after splitting with its famous co-founder.",
+            "url": "https://decrypt.co/303662/deadrop-game-studio-shutting-down-following-dr-disrespect-dismissal",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/08/deadrop-hanging-gID_7.png",
+            "publishedAt": "2025-01-30T20:47:17Z",
+            "content": "Seven months after controversial streamer Dr. Disrespect was booted from his own game studio for alleged misconduct, Deaddrop game developer Midnight Society confirmed Thursday that it is shutting do… [+4247 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tipranks.com"
+            },
+            "author": "Steve Anderson",
+            "title": "Intel (NASDAQ:INTC) Powers Two New Microsoft Surfaces - TipRanks",
+            "description": "The good news about chip stock Intel ($INTC) is that it can still get high-profile clients interested in using Intel’s processors to drive new laptops and the like....",
+            "url": "https://www.tipranks.com/news/intel-nasdaqintc-powers-two-new-microsoft-surfaces",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/01/intel-shutterstock_2154408955-750x406.jpg",
+            "publishedAt": "2025-01-30T20:05:25Z",
+            "content": "Story HighlightsIntel lands a slot in Microsoft’s Surface lineup, but loses out over a lack of flexibility."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Lawrence Hodge",
+            "title": "New BMW M3 CS Touring Gets 550 Horsepower And Lots Of Carbon Fiber - Jalopnik",
+            "description": "BMW applies its CS formula to the M3 wagon to create one of the most powerful grocery getters around",
+            "url": "https://jalopnik.com/new-bmw-m3-cs-touring-gets-550-horsepower-and-lots-of-c-1851751784",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7362ca34792f956feb4b52670bfc9a16.jpg",
+            "publishedAt": "2025-01-30T19:00:00Z",
+            "content": "Wagon fans and enthusiasts rejoice! Following in the footsteps of the M2 CS pocket rocket, the hardcore M3 CS and the excellent M4 CS, BMW is adding another track-focused CS model to its portfolio. W… [+1787 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Forza Horizon 5 is coming to the PS5 this spring - The Verge",
+            "description": "Forza Horizon 5 will launch on PlayStation 5 sometime this spring. It will have crossplay between PS5, Xbox consoles, and PC.",
+            "url": "https://www.theverge.com/news/603420/forza-horizon-5-ps5",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/ss_b65236b365315ebb6da6114ce42cd74b59cab3c8.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-01-30T18:35:31Z",
+            "content": "The game is also getting a new content update on all platforms.\r\nThe game is also getting a new content update on all platforms.\r\nForza Horizon 5 is the next Xbox Game Studios title making the jump t… [+855 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "New Mario Strikers Is Out Now... On Xbox, Wait A Minute... - Kotaku",
+            "description": "Folks, I don't think Mariostro Strikers: Soccer League is an official Nintendo game",
+            "url": "https://kotaku.com/new-mario-strikers-xbox-clone-knock-off-ai-art-nintendo-1851751729",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6d51ad8670ef3fc434503e1094ab0683.jpg",
+            "publishedAt": "2025-01-30T18:35:00Z",
+            "content": "Over on the Xbox Store you can currently find Mariostro Strikers: Soccer League, a newly released game that is clearly a knock-off of the popular Nintendo-published Mario Strikers series. And yes, th… [+2088 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Abner Li",
+            "title": "Google Search’s new ‘Ask for me’ calls local businesses for availability, pricing - 9to5Google",
+            "description": "Following Daily Listen in early January, Google is launching a new Search Lab called “Ask for me.” Google will use “AI to call businesses...",
+            "url": "http://9to5google.com/2025/01/30/google-ask-for-me-lab/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-app-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-01-30T18:28:00Z",
+            "content": "Following Daily Listen in early January, Google is launching a new Search Lab called Ask for me.\r\nGoogle will use AI to call businesses on your behalf when youre looking for the availability and pric… [+1349 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Brooke Kato",
+            "title": "Gmail warns users to secure accounts after ‘malicious’ AI hack confirmed - New York Post ",
+            "description": "Sophisticated scams fueled by artificial intelligence are threatening the security of billions of Gmail users.",
+            "url": "https://nypost.com/2025/01/30/tech/gmail-warns-users-to-secure-accounts-after-malicious-ai-hack-confirmed/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/97616426.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-01-30T18:22:00Z",
+            "content": "Sophisticated scams fueled by artificial intelligence are threatening the security of billions of Gmail users. security warning issued\r\nAs AI-powered phone calls mimicking human voices have become in… [+3609 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Diego Nicolás Argüello",
+            "title": "In Citizen Sleeper 2, your crew is your survival - Polygon",
+            "description": "Diego Nicolás Argüello reviews the sequel to Citizen Sleeper, set in a far-future gig economy that’s more poignant than ever.",
+            "url": "https://www.polygon.com/review/515847/citizen-sleeper-2-starward-vector-review",
+            "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/citizen-sleeper-2-1.jpg?quality=90&strip=all&crop=0%2C1.2448844280848%2C100%2C97.51023114383&w=1200",
+            "publishedAt": "2025-01-30T18:00:00Z",
+            "content": "Two hundred and thirty cycles. Enough time to drift and wither away in an asteroid belt. To leave footprints, both big and small, in the places we visit and the people we meet. Amending past mistakes… [+11350 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Chris Plante",
+            "title": "Read 1,500 classic game magazines online for free — including EGM and GamePro - Polygon",
+            "description": "The Video Game History Foundation has uploaded issues of magazines like GamePro, EGM, and Game Informer to its massive database.",
+            "url": "https://www.polygon.com/news/516837/classic-video-game-magazines-free-vghf",
+            "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/polygon-mosaic-6.png?quality=90&strip=all&crop=0%2C10.666203654237%2C100%2C78.667592691527&w=1200",
+            "publishedAt": "2025-01-30T17:27:22Z",
+            "content": "Long before Polygon, video game lovers relied on print magazines to pass time at school, on commutes, and during slow days at work when the boss wasnt looking. In the 90s, I checked the mailbox each … [+1518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tipranks.com"
+            },
+            "author": "William White",
+            "title": "Nintendo Switch 2 Release Date & Price Leaks - TipRanks",
+            "description": "Nintendo Switch 2 leaks and rumors continue with a new release date and price for the upcoming video game console.",
+            "url": "https://www.tipranks.com/news/nintendo-switch-2-release-date-price-leaks",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/01/switch2-1-750x406.png",
+            "publishedAt": "2025-01-30T16:55:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Eric Song",
+            "title": "The New Alienware Area 51 Gaming PC Equipped with an RTX 5080 GPU Is Up for Preorder - IGN",
+            "description": "Warning: it's very expensive and very delayed.",
+            "url": "https://www.ign.com/articles/new-alienware-area-51-gaming-pc-with-an-rtx-5080-gpu-up-for-preorder",
+            "urlToImage": "https://assets-prd.ignimgs.com/2025/01/30/alienwarearea51pc-1738254221419.jpg?width=1280",
+            "publishedAt": "2025-01-30T16:30:54Z",
+            "content": "Dell just launched its new Alienware Area-51 lineup of gaming PCs today. Currently, it's available in only two configurations - both paired with an Intel Core Ultra 9 285K and GeForce RTX 5080 GPU - … [+4315 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Sayem Ahmed",
+            "title": "Nvidia RTX 5090 and 5080 Sell Out Instantly and Scalpers Are Already Cashing in With $6,000 eBay Listings - IGN",
+            "description": "Looking to get your hands on Nvidia's RTX 5090 or RTX 5080? Too bad, you’re already too late. Both new RTX 50-series 'Blackwell' GPUs went up for sale earlier today, and many went in a flash. Now, scalpers are having their fun.",
+            "url": "https://www.ign.com/articles/nvidia-rtx-5090-and-5080-sell-out-instantly-and-scalpers-are-already-cashing-in-with-6000-ebay-listings",
+            "urlToImage": "https://assets-prd.ignimgs.com/2025/01/29/rtx5090-1738116639095.jpg?width=1280",
+            "publishedAt": "2025-01-30T16:07:47Z",
+            "content": "Looking to get your hands on Nvidia's RTX 5090 or RTX 5080? Too bad, youre already too late. Both new RTX 50-series Blackwell GPUs went up for sale earlier today, and many went in a flash.\r\nThis wasn… [+3070 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "ZDNet"
             },
-            "author": "David Gewirtz",
-            "title": "The best AI for coding in 2025 (and what not to use - including DeepSeek R1) - ZDNet",
-            "description": "I've been subjecting chatbots to a set of real-world programming tests for two years now. There are two I recommend if you're looking for AI coding help - and several to avoid.",
-            "url": "https://www.zdnet.com/article/the-best-ai-for-coding-in-2025-and-what-not-to-use-including-deepseek-r1/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/5976c01b6d906b976b78d5c01533e23a9218a6a5/2025/01/30/3564cd39-9585-47fb-bf3f-993aed0ed133/gettyimages-545799860.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-01-30T14:04:00Z",
-            "content": "maciek905/Getty Images\r\nI've been around technology for long enough that very little excites me, and even less surprises me. But shortly after Open AI's ChatGPT was released, I asked it to write a Wo… [+7650 chars]"
+            "author": "Lance Whitney",
+            "title": "Microsoft's latest optional patch is a bug-fix bonanza for Windows 11 24H2 - ZDNet",
+            "description": "The new preview update resolves some persistent and annoying problems with Windows 24H2, but you may need to download and install it manually.",
+            "url": "https://www.zdnet.com/article/microsofts-latest-optional-patch-is-a-bug-fix-bonanza-for-windows-11-24h2/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/2831eaf0d4b83f370b4e5341cf9f3034e6560ec2/2025/01/30/2fd5f96c-5493-4229-bbd3-5c8f49ad5828/windows-11-desktop-and-start-menu.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-01-30T15:34:00Z",
+            "content": "Microsoft has released a preview update designed to fix a number of bugs that have plagued the 2024 version of Windows 11.\r\nAlso: Microsoft is forcing Windows 11 24H2 update on all eligible PCs, but … [+3661 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Robert Purchese",
+            "title": "Dune: Awakening's \"early 2025\" release date is looser than you might think - Eurogamer",
+            "description": "I went to see Funcom's survival MMO Dune: Awakening last week and one thing I expected while there was a specific relea…",
+            "url": "https://www.eurogamer.net/dune-awakenings-early-2025-release-date-is-looser-than-you-might-think",
+            "urlToImage": "https://assetsio.gnwcdn.com/dune-awakening-desert.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2025-01-30T15:00:00Z",
+            "content": "I went to see Funcom's survival MMO Dune: Awakening last week and one thing I expected while there was a specific release date. The game has an \"early 2025\" date, currently, which is the time period … [+2475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "Kevin Okemwa",
+            "title": "Microsoft AI CEO: Copilot users can access \"OpenAI’s world-class o1 reasoning model\" for free following backlash over previously degraded user experience by insiders - Windows Central",
+            "description": "Microsoft makes Think Deeper free for all Copilot users.",
+            "url": "https://www.windowscentral.com/microsoft/microsoft-copilot-users-can-access-openais-world-class-o1-reasoning-model-for-free",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KPSWjb5r2W2R9a2726LjBQ-1200-80.jpg",
+            "publishedAt": "2025-01-30T14:23:55Z",
+            "content": "Microsoft AI CEO Mustafa Suleyman announced that Copilot users will now have free access to Think Deeper. The feature includes access to OpenAI's o1 reasoning model's capabilities across math, scienc… [+2683 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PhoneArena"
+            },
+            "author": "Adrian Diaconescu",
+            "title": "New iPhone 16 sales analysis reveals an unusual new problem Apple is facing all of a sudden - PhoneArena",
+            "description": "Apple is reportedly having trouble convincing iPhone 16, 16 Plus, 16 Pro, and 16 Pro Max buyers to snub the cheapest variants with the lowest amount of storage, which is weirdly not the case for ...",
+            "url": "https://www.phonearena.com/news/iphone-16-sales-analysis-storage-upgrades-big-problem-for-apple_id167134",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/167134-wide-two_1200/New-iPhone-16-sales-analysis-reveals-an-unusual-new-problem-Apple-is-facing-all-of-a-sudden.jpg",
+            "publishedAt": "2025-01-30T14:22:23Z",
+            "content": "A discussion is a place, where people can voice their opinion, no matter if it\r\n is positive, neutral or negative. However, when posting, one must stay true to the topic, and not just share some\r\n ra… [+760 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gematsu"
+            },
+            "author": "Sal Romano",
+            "title": "Hello Kitty Island Adventure physical Deluxe Edition announced for Switch - Gematsu",
+            "description": "Sunblink will release a special physical Deluxe Edition of open-world adventure game Hello Kitty Island Adventure for Switch this spring for $59.99 / £52.99 / €59.99, the developer announced. Pre-o…",
+            "url": "https://www.gematsu.com/2025/01/hello-kitty-island-adventure-physical-deluxe-edition-announced-for-switch",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/01/Hello-Kitty-Island-Adventure-Physical_01-30-25.jpg",
+            "publishedAt": "2025-01-30T14:15:57Z",
+            "content": "Sunblink will release a special physical Deluxe Edition of open-worldadventure gameHello Kitty Island Adventure for Switch this spring for $59.99 / £52.99 / 59.99, the developer announced. Pre-orders… [+3053 chars]"
         },
         {
             "source": {
@@ -40,19 +274,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343231/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-01-30T14:01:11Z",
             "content": "The RTX 50 series launches today, but Nvidia is giving existing RTX owners some exciting updates.\r\nThe RTX 50 series launches today, but Nvidia is giving existing RTX owners some exciting updates.\r\nN… [+2428 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Kyle Wiggers",
-            "title": "Ai2 says its new AI model beats one of DeepSeek’s best - TechCrunch",
-            "description": "Move over, DeepSeek. Seattle-based nonprofit AI lab Ai2 has released a benchmark-topping model called Tulu3-405B.",
-            "url": "https://techcrunch.com/2025/01/30/ai2-says-its-new-ai-model-beats-one-of-deepseeks-best/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1308719817.jpg?resize=1200,800",
-            "publishedAt": "2025-01-30T14:00:00Z",
-            "content": "Move over, DeepSeek. There’s a new AI champion in town and they’re American. \r\nOn Thursday, Ai2, a nonprofit AI research institute based in Seattle, released a model that it claims outperforms DeepSe… [+2228 chars]"
         },
         {
             "source": {
@@ -78,7 +299,7 @@
             "url": "https://www.eurogamer.net/bioware-veteran-writer-among-those-looking-for-work-after-post-dragon-age-the-veilguard-downsizing",
             "urlToImage": "https://assetsio.gnwcdn.com/Untitled-2_81p0NEm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
             "publishedAt": "2025-01-30T12:53:02Z",
-            "content": "Dragon Age and Mass Effect veteran Trick Weekes is among a group of BioWare veterans who have announced they are now looking for work, following the news that BioWare is downsizing. \r\nPosting on soci… [+2495 chars]"
+            "content": "Dragon Age and Mass Effect veteran Trick Weekes is among a group of BioWare veterans who have announced they are now looking for work, following the news that BioWare is downsizing. \r\nPosting on soci… [+2720 chars]"
         },
         {
             "source": {
@@ -96,28 +317,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
+                "name": "PlayStation LifeStyle"
             },
-            "author": "Davey Winder",
-            "title": "Gmail Security Warning For 2.5 Billion Users—AI Hack Confirmed - Forbes",
-            "description": "Described by one victim as the most sophisticated attack ever seen, all Gmail users are warned to take this hacking threat very seriously indeed.",
-            "url": "https://www.forbes.com/sites/daveywinder/2025/01/30/gmail-security-warning-for-25-billion-users-ai-hack-confirmed/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6708d84f24ab7e6166bd9fa8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-01-30T12:35:46Z",
-            "content": "Another Gmail AI hack attack has been confirmed. \r\nSOPA Images/LightRocket via Getty Images\r\nHackers hiding in plain sight, avatars being used in novel attacks, and even perpetual 2FA-bypass threats … [+3242 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Dominic Preston",
-            "title": "LG might save us from the misery of hotel TVs - The Verge",
-            "description": "LG is adding Google Cast support to its recent hotel TVs, joining existing support for Apple AirPlay.",
-            "url": "https://www.theverge.com/news/602955/lg-google-cast-hotel-tvs",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/LG_B4_Series_OLED_TV_Lifestyle_Press_Image.webp?quality=90&strip=all&crop=0,10.353592837089,100,79.292814325821",
-            "publishedAt": "2025-01-30T12:28:36Z",
-            "content": "LGs hotel TVs are the worlds first to support both Google Cast and Apple AirPlay.\r\nLGs hotel TVs are the worlds first to support both Google Cast and Apple AirPlay.\r\nLG is adding Google Cast support … [+1497 chars]"
+            "author": "Zarmena Khan",
+            "title": "PS Plus Essential Got 2 Flops in a Row, Members Unhappy - PlayStation LifeStyle",
+            "description": "PS Plus Essential users are criticizing Sony over its decision to include widely-panned live service games in the lineup two months in a row.",
+            "url": "https://www.playstationlifestyle.net/2025/01/30/ps-plus-essential-monthly-games-2-flops-in-a-row/",
+            "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/01/ps-plus-games.jpg?resize=1200,630",
+            "publishedAt": "2025-01-30T12:09:02Z",
+            "content": "PS Plus Essential users are criticizing Sony over its decision to include two widely-panned live service games in the lineup two months in a row. 2025 is off to an arguably poor start in terms of mon… [+1171 chars]"
         },
         {
             "source": {
@@ -148,41 +356,28 @@
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
+                "name": "SpaceNews"
             },
-            "author": "Tim Hardwick",
-            "title": "Windows 11 Now Lets You Access Your iPhone from the Start Menu - MacRumors",
-            "description": "Microsoft has announced an update to Windows 11 that allows iPhone users to access their devices directly from the Start menu, bringing feature...",
-            "url": "https://www.macrumors.com/2025/01/30/iphone-integration-windows-11-start-menu/",
-            "urlToImage": "https://images.macrumors.com/t/RtyZVinyat0SbEceP35fnHoDeIo=/1920x/article-new/2025/01/windows-11-iphone-start-menu.jpg",
-            "publishedAt": "2025-01-30T09:21:30Z",
-            "content": "Microsoft has announced an update to Windows 11 that allows iPhone users to access their devices directly from the Start menu, bringing feature parity with its existing Android phone integration.\r\nTh… [+1029 chars]"
+            "author": "Jason Rainbow",
+            "title": "Europe awards $900 million contract for Argonaut lunar lander development - SpaceNews",
+            "description": "Thales Alenia Space announced a contract worth nearly $900 million Jan. 30 to develop and deliver the Lunar Descent Element for Argonaut, the European Space Agency’s cargo lander slated for mission…",
+            "url": "http://spacenews.com/europe-awards-900-million-contract-for-argonaut-lunar-lander-development/",
+            "urlToImage": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zcGFjZW5ld3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8wMVwvQXJnb25hdXQtY29weXJpZ2h0LVRoYWxlcy1BbGVuaWEtU3BhY2VfRS5CcmlvdF8uanBnP2ZpdD0xMDI0JTJDNTEyJnF1YWxpdHk9ODkmc3NsPTEiLCJ0eHQiOiJFdXJvcGUgYXdhcmRzICQ5MDAgbWlsbGlvbiBjb250cmFjdCBmb3IgQXJnb25hdXQgbHVuYXIgbGFuZGVyIGRldmVsb3BtZW50IiwidGVtcGxhdGUiOiJkb2lzIiwiYmxvZ19pZCI6ODA2ODE5Nzl9.8aWhcihqXv_90BaW0vy-auUVijTPHxn7WzoNGXpHUKIMQ",
+            "publishedAt": "2025-01-30T09:00:00Z",
+            "content": "ORLANDO, Fla. Thales Alenia Space announced a contract worth nearly $900 million Jan. 30 to develop and deliver the Lunar Descent Element (LDE) for Argonaut, the European Space Agencys cargo lander s… [+2086 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gematsu"
+                "name": "SpaceNews"
             },
-            "author": "Sal Romano",
-            "title": "Capcom Spotlight + Monster Hunter Wilds Showcase set for February 4 - Gematsu",
-            "description": "Capcom will host a Capcom Spotlight broadcast followed directly by a Monster Hunter Wilds Showcase on February 4 at 2:00 p.m. PT / 5:00 p.m. ET / February 5 at 7:00 JST, the company announced. You …",
-            "url": "https://www.gematsu.com/2025/01/capcom-spotlight-monster-hunter-wilds-showcase-set-for-february-4",
-            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/01/Capcom-Spotlight_01-29-25.jpg",
-            "publishedAt": "2025-01-30T01:07:11Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Notebookcheck.net"
-            },
-            "author": "Anil Ganti",
-            "title": "Marvel's Spider-Man 2 PC system requirements revealed ahed of January 30 launch - Notebookcheck.net",
-            "description": "The PC hardware requirements for Marvel's Spider-Man 2 have finally been revealed. It isn't much without ray tracing, but can quickly skyrocket with the feature enabled, especially at higher resolutions.",
-            "url": "https://www.notebookcheck.net/Marvel-s-Spider-Man-2-PC-system-requirements-revealed-ahed-of-January-30-launch.954362.0.html",
-            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/marvels-spider-man-2-pc-system-requirements-have-been-revealed.png",
-            "publishedAt": "2025-01-30T00:18:00Z",
-            "content": "Looking at the Sony's complete lack of marketing, one might rightfully infer it forgot about Marvel Spider-Man 2 and its grand PC release on January 31. Thankfully, Nixxes and Insomniac have finally … [+767 chars]"
+            "author": "Jason Rainbow",
+            "title": "iPhone Starlink compatibility sends direct-to-smartphone stocks sliding - SpaceNews",
+            "description": "Shares in direct-to-smartphone satellite players tumbled Jan. 29 after Apple enabled iPhones with a T-Mobile cellular plan to join beta tests for SpaceX’s rival service in the United States.",
+            "url": "http://spacenews.com/iphone-starlink-compatibility-sends-direct-to-smartphone-stocks-sliding/",
+            "urlToImage": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvc3BhY2VuZXdzLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMDNcL09TX01UTl8yMjcwNjMwOTEzLTEtMTAyNHg2NTAuanBnIiwidHh0IjoiaVBob25lIFN0YXJsaW5rIGNvbXBhdGliaWxpdHkgc2VuZHMgZGlyZWN0LXRvLXNtYXJ0cGhvbmUgc3RvY2tzIHNsaWRpbmdcdTAwYTAiLCJ0ZW1wbGF0ZSI6ImRvaXMiLCJibG9nX2lkIjo4MDY4MTk3OX0.7BIbf7AXc8eVdmqhPbEpvKK7CE9k6T_Q1-QVVtUC8qsMQ",
+            "publishedAt": "2025-01-30T01:40:27Z",
+            "content": "ORLANDO, Fla. Shares in direct-to-smartphone satellite players tumbled Jan. 29 after Apple enabled iPhones with a T-Mobile cellular plan to join beta tests for SpaceXs rival Starlink service in the U… [+3410 chars]"
         },
         {
             "source": {
@@ -199,94 +394,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Motor1 "
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Adrian Padeanu",
-            "title": "BMW M3 CS Touring: This Is It - Motor1 ",
-            "description": "BMW is dialing the not-for-America M3 Touring up a notch with a Competition Sport (CS) special edition featuring more power and less weight.",
-            "url": "https://www.motor1.com/news/748914/bmw-m3-cs-touring-debut-specs/",
-            "urlToImage": "https://cdn.motor1.com/images/mgl/NGgXm2/s1/bmw-m3-cs-touring-2025.jpg",
-            "publishedAt": "2025-01-29T23:01:00Z",
-            "content": "We don't get the M3 Touring in America, which is a shame. Because the current 3 Series and M3 wagons have not been homologated for the United States, the hotter M3 CS Touring isn't coming here either… [+3541 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Lauren Forristal",
-            "title": "Threads adds another 20M monthly users since December, reaching 320M - TechCrunch",
-            "description": "Threads, Meta's microblogging service, is growing at a fast pace as users gravitate to the app over rivals like X. During the company's fourth-quarter During the Meta's fourth-quarter earnings call, CEO Mark Zuckerberg revealed that Threads now has 320 millio…",
-            "url": "https://techcrunch.com/2025/01/29/threads-adds-another-20m-users-since-december-reaching-320m/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?resize=1200,800",
-            "publishedAt": "2025-01-29T22:49:44Z",
-            "content": "Threads, Meta’s microblogging service, is growing at a fast pace as users gravitate to the app over rivals like X. During the company’s fourth-quarter earnings presentation on Wednesday, CEO Mark Zuc… [+1522 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "David Nield",
-            "title": "Surprising Link Between Menthol And Alzheimer's Discovered in Mice - ScienceAlert",
-            "description": "A study found something strange in 2023: When mice with Alzheimer's disease inhale menthol, their cognitive abilities improve.",
-            "url": "https://www.sciencealert.com/surprising-link-between-menthol-and-alzheimers-discovered-in-mice",
-            "urlToImage": "https://www.sciencealert.com/images/2023/05/OldWomanSmellingMintLeaves.jpg",
-            "publishedAt": "2025-01-29T22:28:56Z",
-            "content": "A study found something strange in 2023: When mice with Alzheimer's disease inhale menthol, their cognitive abilities improve.\r\nIt seems the chemical compound can stop some of the damage done to the … [+3469 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Lorenzo Franceschi-Bicchierai",
-            "title": "Hackers are hijacking WordPress sites to push Windows and Mac malware - TechCrunch",
-            "description": "A cybersecurity company says hackers are pushing Mac and Windows malware through sites that are using outdated versions of WordPress.",
-            "url": "https://techcrunch.com/2025/01/29/hackers-are-hijacking-wordpress-sites-to-push-windows-and-mac-malware/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v2.jpg?resize=1200,675",
-            "publishedAt": "2025-01-29T22:03:45Z",
-            "content": "Hackers are exploiting outdated versions of WordPress and plug-ins to alter thousands of websites in an attempt to trick visitors to download and install malware, security researchers have found.\r\nTh… [+3992 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Ryan Christoffel",
-            "title": "iPhone SE 4 release date: When to expect Apple’s powerful upgrade - 9to5Mac",
-            "description": "Apple is launching a new iPhone SE 4 soon, bringing modern features in a budget-friendly package, here’s the expected release date.",
-            "url": "https://9to5mac.com/2025/01/29/iphone-se-4-release-date-when-to-expect-apples-new-upgrade/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/2025-iPhone-SE.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2025-01-29T21:43:00Z",
-            "content": "Apples flagship iPhone 16 line launched last fall with a heavy focus on Apple Intelligence. But another new iPhone is coming soon, offering some of the same modern tech but at a much lower cost. Here… [+2000 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "Richard Devine",
-            "title": "Stop playing Call of Duty: Black Ops 6 and Warzone on PC and jump to console, your sanity will thank you - Windows Central",
-            "description": "Obviously if you only have a PC, sorry, this doesn't help you, but the experience on console, especially in Ranked Play is night and day better.",
-            "url": "https://www.windowscentral.com/gaming/stop-playing-call-of-duty-black-ops-6-and-warzone-on-pc-and-jump-to-console",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JwvnMTMpUAkyXffzDTCdZW-1200-80.jpg",
-            "publishedAt": "2025-01-29T21:19:15Z",
-            "content": "Since Call of Duty: Black Ops 6 first launched, I've played it exclusively on PC, be that a laptop, my desktop, or even my ROG Ally. Almost 400 hours, and all of it on PC. But now I've finally tried … [+4075 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "David Phelan",
-            "title": "Apple Suddenly Reveals The Best Way To Update AirPods. Oh, Finally - Forbes",
-            "description": "AirPods get regular software updates from Apple, but until now, how you ensure your buds are up-to-date has been a puzzle. Now, we know how to do it right.",
-            "url": "https://www.forbes.com/sites/davidphelan/2025/01/29/apple-suddenly-reveals-the-best-way-to-update-airpods-oh-finally/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/679a995f661876c1a03ed6af/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-01-29T21:15:01Z",
-            "content": "Apple regularly updates the features and capabilities of its products. But for its headphonesAirPods, AirPods Pro and AirPods Maxensuring your product was bang up-to-date has been a haphazard mystery… [+2553 chars]"
+            "author": "Umar Shakir",
+            "title": "Destiny 2 is getting Star Wars-themed armor next month - The Verge",
+            "description": "Destiny 2: Heresy Act I is getting Star Wars inspired items and armor that let you dress up like Imperial Royal Guards and more.",
+            "url": "https://www.theverge.com/news/602085/destiny-2-is-getting-star-wars-themed-armor-next-month",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/unnamed-3.png?quality=90&strip=all&crop=0,3.5026456994597,100,92.994708601081",
+            "publishedAt": "2025-01-29T21:37:28Z",
+            "content": "Stormtrooper armor and other Star Wars items will be available when Destiny 2: Heresy Act I launches on February 4.\r\nStormtrooper armor and other Star Wars items will be available when Destiny 2: Her… [+1228 chars]"
         },
         {
             "source": {
@@ -303,81 +420,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "polygon",
+                "name": "Polygon"
             },
-            "author": "Jorge Jimenez",
-            "title": "Sony Finally Gets Rid of Pesky PlayStation Network Login Requirement for Its Biggest PC Games - Gizmodo",
-            "description": "The move comes just in time for the release of Marvel's Spider-Man 2 on PC.",
-            "url": "https://gizmodo.com/sony-finally-gets-rid-of-pesky-playstation-network-login-requirement-for-its-biggest-pc-games-2000556637",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/10/17ed43fa59ed6d8ddf0c798716b5e406-e1738182816585.jpg",
-            "publishedAt": "2025-01-29T20:41:06Z",
-            "content": "Sonys biggest single-player games on PC will no longer require you to link to a PlayStation Network account to play them. In a press release Wednesday, the company said that linking a PlayStation Acc… [+1706 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Abner Li",
-            "title": "Pixel Buds Pro 2 update gets Google changelog - 9to5Google",
-            "description": "Firmware version 3.144 started rolling out to the Pixel Buds Pro 2 on Monday, and Google is now out with an official update changelog...",
-            "url": "http://9to5google.com/2025/01/29/pixel-buds-pro-2-update-changelog/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Google-Pixel-Buds-Pro-2-review-10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2025-01-29T20:35:00Z",
-            "content": "Firmware version 3.144 started rolling out to the Pixel Buds Pro 2 on Monday, and Google is now out with an official changelog for the update.\r\nOn Wednesday afternoon, Google said firmware update rel… [+1732 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "Netflix adds one-click full-season downloads on iPhones and iPads - The Verge",
-            "description": "Netflix users can now download full seasons of shows with one click on iOS devices.",
-            "url": "https://www.theverge.com/news/601914/netflix-adds-easy-full-season-downloads-on-iphones-and-ipads",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-01-29T19:24:31Z",
-            "content": "Android users had it first.\r\nAndroid users had it first.\r\nNetflix users on iOS no longer need to download episodes of their favorite shows one by one. The streamer just introduced a way to download a… [+876 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Brittany Vincent",
-            "title": "Vizio’s Latest Soundbar Sees a Huge Price Cut to Upgrade Your Super Bowl Day Sound - Gizmodo",
-            "description": "Create a romantic atmosphere at home just in time for your Valentine's Day date night next month.",
-            "url": "https://gizmodo.com/vizios-latest-soundbar-sees-a-huge-price-cut-to-upgrade-your-super-bowl-day-sound-2000555622",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/vizisoundbar.jpg",
-            "publishedAt": "2025-01-29T19:20:39Z",
-            "content": "If you’ve been circling the idea of upgrading your home theater audio, the Vizio Elevate might be the soundbar that finally convinces you to make the leap. While most soundbars remain static, content… [+2379 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Wesley Yin-Poole",
-            "title": "Warhammer 40,000: Space Marine 2 Publisher Addresses Community Complaints About a Lack of Content, Reveals What’s Coming Down the Line - IGN",
-            "description": "Warhammer 40,000: Space Marine 2 publisher Focus Entertainment has addressed growing frustration over a lack of content and outlined what players can expect in the coming months.",
-            "url": "https://www.ign.com/articles/warhammer-40000-space-marine-2-publisher-addresses-community-complaints-about-a-lack-of-content-reveals-whats-coming-down-the-line",
-            "urlToImage": "https://assets-prd.ignimgs.com/2025/01/29/sm2-1738174077882.jpg?width=1280",
-            "publishedAt": "2025-01-29T18:22:30Z",
-            "content": "Warhammer 40,000: Space Marine 2 publisher Focus Entertainment has addressed growing frustration over a lack of content and outlined what players can expect in the coming months.\r\nSpace Marine 2 enjo… [+6345 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eurogamer.net"
-            },
-            "author": "Matt Wales",
-            "title": "PlayStation Plus shifting focus to PS5 games next year, will only \"occasionally\" include PS4 titles - Eurogamer",
-            "description": "Sony has announced it's shifting the focus of its PlayStation Plus monthly games and Game Catalog updates toward PlaySt…",
-            "url": "https://www.eurogamer.net/playstation-plus-shifting-focus-to-ps5-games-next-year-will-only-occasionally-include-ps4-titles",
-            "urlToImage": "https://assetsio.gnwcdn.com/playstation-plus_QpqQucj.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2025-01-29T18:08:18Z",
-            "content": "Sony has announced it's shifting the focus of its PlayStation Plus monthly games and Game Catalog updates toward PlayStation 5 titles starting early next year, and that PlayStation 4 games will only … [+1549 chars]"
+            "author": "Michael McWhertor",
+            "title": "Sony drops PSN account requirement for PC versions of PlayStation games - Polygon",
+            "description": "Marvel’s Spider-Man 2 and The Last of Us Part 2 on Steam will no longer require a PSN account, Sony announced.",
+            "url": "https://www.polygon.com/news/515965/god-of-war-ragnarok-spider-man-2-psn-account-required-steam-pc",
+            "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/ss_03d59d4e4a6638b1e0200bc3dde2a0b0d1a43ada-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-01-29T17:29:01Z",
+            "content": "Sony Interactive Entertainment is eliminating the need for a PlayStation Network account for certain single-player games on PC, the company announced Wednesday. That includes this weeks release of Ma… [+1908 chars]"
         },
         {
             "source": {
@@ -395,132 +447,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Niche Gamer"
+                "name": "Eurogamer.net"
             },
-            "author": "Brandon Lyttle",
-            "title": "Xbox uses uncensored NINJA GAIDEN II Black trailer trailer on store page, side by side comparison - Niche Gamer",
-            "description": "Last week we reported on how the NINJA GAIDEN II Black trailer on the official Xbox YouTube channel was censored by removing any appearance of female characters…",
-            "url": "https://nichegamer.com/xbox-uses-uncensored-ninja-gaiden-ii-black-trailer-trailer-on-store-page-side-by-side-comparison/",
-            "urlToImage": "https://media.nichegamer.com/wp-content/uploads/2025/01/ninja-gaiden-2-black-1-29-2025.webp",
-            "publishedAt": "2025-01-29T15:30:00Z",
-            "content": "Last week we reported on how the NINJA GAIDEN II Black trailer on the official Xbox YouTube channel was censored by removing any appearance of female characters, now we can see that the Xbox Store pa… [+960 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Jalopnik"
-            },
-            "author": "Logan Carter",
-            "title": "Why Don’t Turbocharged Cars Need Hood Scoops Anymore? - Jalopnik",
-            "description": "Eye-catching hood scoops used to adorn the front of turbocharged cars, but now that more cars are turbocharged than ever, where are the hood scoops?",
-            "url": "https://jalopnik.com/why-don-t-turbocharged-cars-need-hood-scoops-anymore-1851749964",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7d48d88d18b094c577da1a4c6d78ed67.jpg",
-            "publishedAt": "2025-01-29T15:00:00Z",
-            "content": "You never know what you have until its gone, and the proliferation of hood scoops on turbocharged cars is a perfect example of that. Looking back in time a decade or two, it was more common for turbo… [+3216 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Ellie Conley",
-            "title": "Samsung's famous Frame TV for 40% off, plus 10 more stellar sales today - Yahoo Life",
-            "description": "Don't miss Jennifer Aniston's go-to collagen powder, Bissell's Little Green cleaner, a timeless J.Crew sweater and more.",
-            "url": "https://www.yahoo.com/lifestyle/samsungs-famous-frame-tv-for-40-off-plus-10-more-stellar-sales-today-220529585.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yPgnc1jyupCG73YwbpHLMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/7fe5da00-ddaf-11ef-affd-2eb5beb2f327",
-            "publishedAt": "2025-01-29T14:46:51Z",
-            "content": "Your stained carpets and upholstery are no match for Bissell's Little Green Machine, according to Yahoo home and garden writer Kristin Granero. You can use it on rugs, couches, mattresses and more to… [+889 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Headlines"
-            },
-            "author": "Kristijan Lucic",
-            "title": "Exclusive: Two Nothing phones are coming, here's more info - Android Headlines",
-            "description": "Two new Nothing phones are coming on March 4, and we have more information to share about both of those devices.",
-            "url": "https://www.androidheadlines.com/2025/01/exclusive-two-nothing-phones-coming-more-info.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/01/Nothing-Phone-3a-5G-teaser.jpg",
-            "publishedAt": "2025-01-29T14:19:56Z",
-            "content": "Nothing has recently announced a launch event for March 4. The company did not confirm whats coming, though. Well, we have some exclusive info to share with you. Two Nothing phones are coming, and he… [+1717 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BleepingComputer"
-            },
-            "author": "Sergiu Gatlan",
-            "title": "Windows 11 KB5050094 update fixes bugs causing audio issues - BleepingComputer",
-            "description": "​Microsoft has released the optional KB5050094 Preview cumulative update for Windows 11 24H2 with 28 bug fixes and changes, including fixes for bugs causing audio playback issues on systems with USB audio device drivers.",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5050094-update-fixes-bugs-causing-audio-issues/",
-            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows--11.jpg",
-            "publishedAt": "2025-01-29T13:00:29Z",
-            "content": "​Microsoft has released the optional KB5050094 Preview cumulative update for Windows 11 24H2 with 28 bug fixes and changes, including fixes for bugs causing audio playback issues on systems with USB … [+3126 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "The Hacker News",
-            "title": "New SLAP & FLOP Attacks Expose Apple M-Series Chips to Speculative Execution Exploits - The Hacker News",
-            "description": "SLAP & FLOP attacks exploit Apple M-series speculative execution flaws, leaking emails, location data, and credit cards via Safari and Chrome.",
-            "url": "https://thehackernews.com/2025/01/new-slap-flop-attacks-expose-apple-m.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvBVAybIB85F469Aaok9DQ4M2OOyKK_rEoXhBgPBnnWCED5WLOQgR7L1kxcXYG57Q7A48sLN2XsZBaHs5ySVNwvIhrtlxwniOmjFt6qnOaeXXorgoNWvKRlrIxe3ZlCYhd26UixkIsbl1_6lyIsKWXk4qPvohnOSswtfxSZWgzyexqzTDbSe4XLuHLbSo/s728-rw-e365/apple-chip.png",
-            "publishedAt": "2025-01-29T10:49:00Z",
-            "content": "A team of security researchers from Georgia Institute of Technology and Ruhr University Bochum has demonstrated two new side-channel attacks targeting Apple silicon that could be exploited to leak se… [+4544 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Push Square"
-            },
-            "author": "Sammy Barker",
-            "title": "Silent Hill 2 Has Been Massively Successful on PS5, PC - Push Square",
-            "description": "Tops two million sales in three months",
-            "url": "https://www.pushsquare.com/news/2025/01/silent-hill-2-has-been-massively-successful-on-ps5-pc",
-            "urlToImage": "https://images.pushsquare.com/74e5dbfc3600f/1280x720.jpg",
-            "publishedAt": "2025-01-29T07:00:00Z",
-            "content": "Konami has announced that digital sales and physical shipments of Silent Hill 2 have now topped two million units, making the survival horror remake a big success.\r\nThe game brilliantly developed by … [+619 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lifehacker.com"
-            },
-            "author": "Jake Peterson",
-            "title": "How to Try DeepSeek AI (and Why You Might Not Want To) - Lifehacker",
-            "description": "The buzzy new Chinese chatbot isn't exactly a ChatGPT replacement.",
-            "url": "https://lifehacker.com/tech/how-to-try-deepseek-ai-and-why-you-might-not-want-to",
-            "urlToImage": "https://lifehacker.com/imagery/articles/01JJPV8GYX4DGR2M4M98BFPJ3W/hero-image.fill.size_1200x675.jpg",
-            "publishedAt": "2025-01-28T22:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Mike Wall",
-            "title": "Blue Origin scrubs landmark New Shepard moon-gravity launch due to weather, rocket glitch - Space.com",
-            "description": "The company has not yet announced a new target date for the NS-29 mission.",
-            "url": "https://www.space.com/space-exploration/human-spaceflight/blue-origin-scrubs-landmark-new-shepard-moon-gravity-launch-due-to-weather-rocket-glitch",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ojUXru2yyPg67GpnZ7B2JD-1200-80.jpg",
-            "publishedAt": "2025-01-28T18:23:22Z",
-            "content": "Blue Origin will have to wait a bit longer to get its first-ever moon-gravity mission off the ground.\r\nThe company, which was founded by Amazon's Jeff Bezos, had planned to launch its New Shepard sub… [+2068 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pokemon.com"
-            },
-            "author": null,
-            "title": "Explore Pokémon TCG Pocket’s Newest Expansion, Space-Time Smackdown - Pokemon.com",
-            "description": "Dimensions swirl in the upcoming Pokémon TCG Pocket expansion, Space-Time Smackdown.",
-            "url": "https://www.pokemon.com/us/pokemon-news/explore-pokemon-tcg-pockets-newest-expansion-space-time-smackdown",
-            "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/tcg-pocket/2025/01/23/01/pokemon-tcg-pocket-169-en.png",
-            "publishedAt": "2025-01-23T13:08:40Z",
-            "content": "Notice: If you click on the YouTube video above, you will leave Pokemon.com. The Pokémon Company International is not responsible for the content of any linked website that is not operated by The Pok… [+906 chars]"
+            "author": "Tom Phillips",
+            "title": "Pokémon TCG Pocket players brand trading system \"a joke\" and \"downright greedy\" - Eurogamer",
+            "description": "A new update to Pokémon TCG Pocket has added the ability for players to trade cards, but the mechanics of the system ha…",
+            "url": "https://www.eurogamer.net/pokemon-tcg-pocket-players-brand-trading-system-a-joke-and-downright-greedy",
+            "urlToImage": "https://assetsio.gnwcdn.com/Untitled-2_FrWD0Gt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2025-01-29T16:36:32Z",
+            "content": "A new update to Pokémon TCG Pocket has added the ability for players to trade cards, but the mechanics of the system have come under intense criticism from fans. \r\nTrading require players use up valu… [+3337 chars]"
         }
     ]
 }

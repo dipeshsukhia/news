@@ -1,7 +1,20 @@
 {
     "status": "ok",
-    "totalResults": 16,
+    "totalResults": 20,
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Mozilla is already revising its new Firefox terms to clarify how it handles user data - The Verge",
+            "description": "Mozilla is revising its recently-announced Terms of Use for Firefox to emphasize the limited ways the company interacts with user data. The original terms had been criticized over seemingly broad language.",
+            "url": "https://www.theverge.com/news/622080/mozilla-revising-firefox-terms-of-use-data",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/firefox_logo.jpg.webp?quality=90&strip=all&crop=0,10.970966206568,100,78.058067586863",
+            "publishedAt": "2025-03-01T00:12:00Z",
+            "content": "The terms had been criticized for appearing to give Mozilla broad ownership of user data, but the company now wants to emphasize the limited ways it uses your data.\r\nThe terms had been criticized for… [+2282 chars]"
+        },
         {
             "source": {
                 "id": "the-washington-post",
@@ -30,16 +43,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "Zack Zwiezen",
-            "title": "Nintendo Switch Online Losing Its First Retro Game Proves Why We Need Virtual Console - Kotaku",
-            "description": "Super Formation Soccer won't be playable on Switch after March 28 in Japan",
-            "url": "https://kotaku.com/nintendo-switch-online-classics-removed-losing-snes-1851767125",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/966cdb8dcc2b5e599385cc40938d7a5b.jpg",
-            "publishedAt": "2025-02-28T21:15:00Z",
-            "content": "Nintendo is doing something the company has never done before: Next month, it will remove a retro game from its the Nintendo Switch Onlines classic catalog.\r\nSince launching the Nintendo Switch Onlin… [+1757 chars]"
+            "author": "Julian Chokkattu",
+            "title": "So You Bought a Humane Ai Pin. Here’s What You Can Do Next - WIRED",
+            "description": "Humane Ai’s Pins stopped working today, turning the year-old wearable into a paperweight. Here are some ideas for what to do with yours if you want to avoid e-waste.",
+            "url": "https://www.wired.com/story/what-to-do-with-your-humane-ai-pin/",
+            "urlToImage": "https://media.wired.com/photos/67c0c67c7ca1aba355075703/191:100/w_1280,c_limit/Human-Ai-Pin-(in-hand)-Reviewer-Photo-SOURCE-Julian-Chokkattu.jpg",
+            "publishedAt": "2025-02-28T20:00:00Z",
+            "content": "As of today, the Humane Ai Pin is deadless than a year since its launch. Following an acquisition by HP, Humane shut down many of the core features of the artificial-intelligence-powered wearable and… [+2980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Margherita Bassi",
+            "title": "Scientists Develop a Device That Lets You Taste Video Games - Gizmodo",
+            "description": "e-Taste sits on your lower teeth and delivers flavors directly into your mouth in response to remote stimuli.",
+            "url": "https://gizmodo.com/scientists-develop-a-device-that-lets-you-taste-video-games-2000569242",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/02/remote-tasting-device.jpg",
+            "publishedAt": "2025-02-28T19:02:32Z",
+            "content": "Imagine slipping on a VR headset and finding yourself sitting in front of a gorgeous ice cream sundae. Using your motion controllers, you eat a large spoonful of this virtual vanilla ice creamand whi… [+2527 chars]"
         },
         {
             "source": {
@@ -56,6 +82,32 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "How Fast is Apple's First-Ever 5G Modem? The Results Are Surprising - MacRumors",
+            "description": "iPhone 16e reviews are now out, and Apple's custom-designed C1 modem has been put to the test. The results so far are quite surprising, as the...",
+            "url": "https://www.macrumors.com/2025/02/28/apple-c1-modem-5g-speed-tests/",
+            "urlToImage": "https://images.macrumors.com/t/EkjTVJZYdYPl0hMzUeKzRfGotas=/1600x/article-new/2025/02/apple-c1.jpg",
+            "publishedAt": "2025-02-28T18:08:28Z",
+            "content": "iPhone 16e reviews are now out, and Apple's custom-designed C1 modem has been put to the test. The results so far are quite surprising, as the C1's speeds are not as slow compared to Qualcomm modems … [+3259 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Wire"
+            },
+            "author": null,
+            "title": "Nintendo of Japan announces title will be removed from NSO library, first time since launch - Nintendo Wire",
+            "description": "In a rather surprising bit of news today, Nintendo of Japan has announced that one of the retro titles available through its Switch Online subscription",
+            "url": "https://nintendowire.com/news/2025/02/28/nintendo-of-japan-announces-title-will-be-removed-from-nso-library-first-time-since-launch/",
+            "urlToImage": "https://nintendowire.com/wp-content/uploads/2025/02/Banner-NintendoSwitchOnline-SuperFamicom.jpg",
+            "publishedAt": "2025-02-28T17:39:14Z",
+            "content": "In a rather surprising bit of news today, Nintendo of Japan has announced that one of the retro titles available through its Switch Online subscription service will actually be getting delisted soon.… [+1632 chars]"
+        },
+        {
+            "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
             },
@@ -66,19 +118,6 @@
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/generals-1152x648.jpg",
             "publishedAt": "2025-02-28T17:05:46Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Sarah Perez",
-            "title": "Mozilla responds to backlash over new terms, saying it’s not using people’s data for AI - TechCrunch",
-            "description": "Mozilla has responded to user backlash over the Firefox web browser's new Terms of Use, which critics have called out for using overly broad language that",
-            "url": "https://techcrunch.com/2025/02/28/mozilla-responds-to-backlash-over-new-terms-saying-its-not-using-peoples-data-for-ai/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/firefox.jpeg?w=1200",
-            "publishedAt": "2025-02-28T16:48:48Z",
-            "content": "Mozilla has responded to user backlash over the Firefox web browser’s new Terms of Use, which critics have called out for using overly broad language that appears to give the browser maker the rights… [+4852 chars]"
         },
         {
             "source": {
@@ -112,12 +151,12 @@
                 "name": "IGN"
             },
             "author": "Wesley Yin-Poole",
-            "title": "Palworld Dev Pocketpair Gives Employees Monster Hunter Wilds Launch Day Off After Receiving ‘Mysterious’ Notes From Staff Who Said They’d Probably Be Too Unwell to Work - IGN",
-            "description": "The developer of Palworld has given its staff the day off to play Monster Hunter Wilds after receiving a number of “mysterious” notices from employees who claimed they would “probably be feeling unwell” and unable to work.",
-            "url": "https://www.ign.com/articles/palworld-dev-pocketpair-gives-employees-monster-hunter-wilds-launch-day-off-after-receiving-mysterious-notes-from-staff-who-said-theyd-probably-be-too-unwell-to-work",
-            "urlToImage": "https://assets-prd.ignimgs.com/2025/02/28/ghyub-1740742832838.jpg?width=1280",
-            "publishedAt": "2025-02-28T11:43:13Z",
-            "content": "The developer of Palworld has given its staff the day off to play Monster Hunter Wilds.\r\nAs reported by Automaton, yesterday Japanese studio Pocketpair said on social media that it had received a num… [+2165 chars]"
+            "title": "Amid 'Mixed' Steam User Review Rating, Capcom Issues Monster Hunter Wilds PC Troubleshooting Guide - IGN",
+            "description": "Capcom has issued official advice for PC via Steam players of Monster Hunter Wilds after the game launched to a ‘mixed’ user review rating due to performance issues.",
+            "url": "https://www.ign.com/articles/amid-mixed-steam-user-review-rating-capcom-issues-monster-hunter-wilds-pc-troubleshooting-guide",
+            "urlToImage": "https://assets-prd.ignimgs.com/2025/02/28/mhw2-1740738836591.jpg?width=1280",
+            "publishedAt": "2025-02-28T10:36:23Z",
+            "content": "Capcom has issued official advice for PC via Steam players of Monster Hunter Wilds after the game launched to a mixed user review rating due to performance issues.\r\nThe Japanese games company said St… [+5134 chars]"
         },
         {
             "source": {
@@ -135,15 +174,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Nintendo Life"
+                "name": "Rockstargames.com"
             },
-            "author": "Liam Doolan",
-            "title": "Pokémon Champions Limited To \"Select Pokémon\" At Launch - Nintendo Life",
-            "description": "There'll also be Pokémon HOME restrictions",
-            "url": "https://www.nintendolife.com/news/2025/02/pokemon-champions-limited-to-select-pokemon-at-launch",
-            "urlToImage": "https://images.nintendolife.com/ef34b3813742b/1280x720.jpg",
-            "publishedAt": "2025-02-28T02:30:00Z",
-            "content": "Yeah this seems fine. I keep thinking of Pokemon Stadium/Coliseum/Revolution and their Battle Pass system, where there were preset Pokemon teams that you could choose from, or bring your own via the … [+1154 chars]"
+            "author": "Rockstar Games",
+            "title": "Pre-Load the Free Grand Theft Auto V PC Upgrade Now - Rockstar Games",
+            "description": "The upcoming free upgrade for Grand Theft Auto V on PC is now available to pre-load from the Rockstar Games Launcher and Steam. This new version — with highly-requested features previously only available in the PS5 and Xbox Series X|S versions...",
+            "url": "https://www.rockstargames.com/newswire/article/89953o1153a39a/pre-load-the-free-grand-theft-auto-v-pc-upgrade-now",
+            "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/89953o1153a39a/7605447a5de6d01bc62fc0ee04c97b37ccaa7e6b.jpg",
+            "publishedAt": "2025-02-27T22:01:31Z",
+            "content": null
         },
         {
             "source": {
@@ -157,6 +196,19 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSCF4656.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-02-27T21:56:36Z",
             "content": "The new hardware will go along with Amazons AI-upgraded Alexa.\r\nThe new hardware will go along with Amazons AI-upgraded Alexa.\r\nAmazon is gearing up to launch new hardware to go along with its AI-upg… [+1060 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Rebekah Valentine",
+            "title": "Pokémon Fans Are Frantically Trying to Work Out How Pokémon Legends: Z-A Connects to Other Pokémon Games - IGN",
+            "description": "This morning, we got our first lengthy look at Pokemon Legends: Z-A, and we still have loads of questions about exactly when Pokémon Legends Z-A takes place relative to the other Pokémon games, and which returning characters we might see in Lumiose City. That…",
+            "url": "https://www.ign.com/articles/pokemon-fans-are-frantically-trying-to-work-out-how-pokemon-legends-z-a-connects-to-other-pokemon-games",
+            "urlToImage": "https://assets-prd.ignimgs.com/2025/02/27/pokmon-legends-z-a-releases-in-late-2025-1-1740688799132.jpeg?width=1280",
+            "publishedAt": "2025-02-27T20:43:13Z",
+            "content": "This morning, we got our first lengthy look at Pokemon Legends: Z-A, Game Freak's futuristic new Pokémon game set in the familiar Pokémon X/Y locale of Lumiose City. But even though we saw a number o… [+5881 chars]"
         },
         {
             "source": {
@@ -174,15 +226,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Anime News Network"
+                "name": "TweakTown"
             },
-            "author": null,
-            "title": "Pokémon Legends Z-A Game's Trailer Reveals Late 2025 Launch, Real-Time Battles - Anime News Network",
-            "description": "Video previews starters, Wild Zones, characters, Lumiose City",
-            "url": "https://www.animenewsnetwork.com/news/2025-02-27/pokemon-legends-z-a-game-trailer-reveals-late-2025-launch-real-time-battles/.221728",
-            "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIO/youtube/3VH7kQgM4Mo.jpg",
-            "publishedAt": "2025-02-27T16:39:50Z",
-            "content": "The Pokémon Presents stream on Thursday unveiled a new trailer for the Pokémon Legends Z-Agame, and it reveals that the game will launch in late 2025. The video previews the starter Pokémon, Wild Zon… [+2468 chars]"
+            "author": "Jak Connor",
+            "title": "Full backstory revealed on why WB Games axed Monolith Productions - TweakTown",
+            "description": "WB Games announced the closure of several game studios, with the biggest axing being Monolith Productions, the studio behind Middle-Earth Shadow of Mordor.",
+            "url": "https://www.tweaktown.com/news/103578/full-backstory-revealed-on-why-wb-games-axed-monolith-productions/index.html",
+            "urlToImage": "https://static.tweaktown.com/news/1/0/103578_561561615_jason-schreier-gives-full-backstory-on-wb-games-axing-monolith_full.png",
+            "publishedAt": "2025-02-27T13:11:02Z",
+            "content": "TL;DR: WB Games announced the closure of several game studios, including Monolith Productions, known for Middle-Earth: Shadow of Mordor.\r\nWB Games recently announced the closure of several studios un… [+2790 chars]"
         },
         {
             "source": {

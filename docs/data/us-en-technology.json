@@ -4,42 +4,133 @@
     "articles": [
         {
             "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Google Search’s new ‘AI Mode’ lets users ask complex, multi-part questions - TechCrunch",
+            "description": "Google is launching a new “AI Mode” experimental feature in Search that looks to take on Perplexity AI and OpenAI’s ChatGPT Search",
+            "url": "https://techcrunch.com/2025/03/05/google-searchs-new-ai-mode-lets-users-ask-complex-multi-part-questions/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/google-ai-mode.jpg?resize=1200,675",
+            "publishedAt": "2025-03-05T17:00:00Z",
+            "content": "Google is launching a new AI Mode experimental feature in Search that looks to take on popular services like Perplexity AI and OpenAIs ChatGPT Search. The tech giant announced on Wednesday that the n… [+4189 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Apple launches new Mac Studios with M4 Max and M3 Ultra chips - The Verge",
+            "description": "Apple is now taking preorders for a new Mac Studio, either with an M4 Max chip or an M3 Ultra. They ship March 12.",
+            "url": "https://www.theverge.com/news/624193/apple-mac-studio-m4-max-m3-ultra-launch-price-specs-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257601_mac_studio_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-03-05T14:44:46Z",
+            "content": "Two generations of Apple silicon, one computer.\r\nTwo generations of Apple silicon, one computer.\r\nAfter over a year and a half, Apple is updating the Mac Studio with a curious new quirk: it straddles… [+2113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Paul Tassi",
+            "title": "‘Monster Hunter Wilds’ Dethroned In 2025’s Top 10 List By A New Game - Forbes",
+            "description": "Here's what new game has knocked Monster Hunter Wilds off the #1 spot in 2025's top 10 list.",
+            "url": "https://www.forbes.com/sites/paultassi/2025/03/05/monster-hunter-rise-dethroned-in-2025s-top-10-list-by-a-new-game/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a8dbfb861c4ef3849e57bf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-03-05T14:13:07Z",
+            "content": "monster hunter wilds\r\nCapcom\r\nYeah, I did it. What can I say. Monster Hunter Wilds had about a week or so as 2025s best-scored video game, but now a new, much smaller title has come along to tick by … [+2322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Rich Edmonds",
+            "title": "AMD's Radeon RX 9070 XT is the most exciting GPU to launch in years - XDA Developers",
+            "description": "It&#039;s here. It&#039;s brilliant. Go and buy one.",
+            "url": "https://www.xda-developers.com/amd-radeon-rx-9070-xt-review/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/asrock-radeon-rx-9070-xt-steel-legend-infront-of-box.jpg",
+            "publishedAt": "2025-03-05T14:05:00Z",
+            "content": "It's a terrible time to be a PC gamer. Prices have skyrocketed since before the worldwide lockdowns, and one has to cast one's thoughts back almost a decade to when graphics cards launched at reasona… [+16847 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Apple Newsroom"
+            },
+            "author": null,
+            "title": "Apple introduces the new MacBook Air with the M4 chip and a sky blue color - Apple Newsroom",
+            "description": "Apple announced the new MacBook Air, featuring the M4 chip, up to 18 hours of battery life, a 12MP Center Stage camera, and a lower starting price.",
+            "url": "https://www.apple.com/newsroom/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/",
+            "urlToImage": "https://www.apple.com/newsroom/images/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/tile/Apple-MacBook-Air-hero-250305-lp.jpg.og.jpg?202503051400",
+            "publishedAt": "2025-03-05T14:00:37Z",
+            "content": "March 5, 2025\r\nPRESS RELEASE\r\nApple introduces the new MacBook Air with the soaring performance of the M4 chip, a gorgeous new sky blue color, and a lower starting price of $999\r\nThe worlds most popu… [+15417 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Ed Nightingale",
+            "title": "Sony's PS3 gets new system software update, 19 years after release - Eurogamer",
+            "description": "Sony has just released a new update for its PS3 console, which turns 19 this year.",
+            "url": "https://www.eurogamer.net/sonys-ps3-gets-new-system-software-update-19-years-after-release",
+            "urlToImage": "https://assetsio.gnwcdn.com/ps3-console-updating.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2025-03-05T11:30:01Z",
+            "content": "Sony has just released a new update for its PS3 console, which turns 19 this year.\r\nThe system software update 4.92 improves system performance, according to the patch notes, and also renews the Blu-… [+1151 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "MacRumors"
             },
             "author": "Tim Hardwick",
-            "title": "Apple Removes Audio Feature From New 13-Inch iPad Air With M3 Chip - MacRumors",
-            "description": "Apple on Tuesday announced new 11-inch and 13-inch iPad Air models with the M3 chip, and while the processor upgrade and updated Magic Keyboard are...",
+            "title": "New 13-Inch iPad Air Specs Lack Audio Feature From Last-Gen Model [Update] - MacRumors",
+            "description": "Update: While Apple has not publicly commented on any changes to the speaker system in the new 13-inch iPad Air with M3, a representative with...",
             "url": "https://www.macrumors.com/2025/03/05/13-inch-ipad-air-m3-chip-no-double-bass/",
             "urlToImage": "https://images.macrumors.com/t/n8uKVgvfhZ6YJOytHxoojM6b0IM=/1960x/article-new/2025/03/M3-iPad-Air.jpg",
             "publishedAt": "2025-03-05T11:03:56Z",
-            "content": "Apple on Tuesday announced new 11-inch and 13-inch iPad Air models with the M3 chip, and while the processor upgrade and updated Magic Keyboard are the biggest changes, there's another apparent diffe… [+1649 chars]"
+            "content": "Update: While Apple has not publicly commented on any changes to the speaker system in the new 13-inch iPad Air with M3, a representative with knowledge of the matter has indicated that the model ret… [+1927 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Push Square"
+                "name": "Gamingbible.com"
             },
-            "author": "Sammy Barker",
-            "title": "Tony Hawk's Pro Skater Fans Sceptical of Seismic Changes to Fourth Game on PS5, PS4 - Push Square",
-            "description": "\"Please keep it civil\"",
-            "url": "https://www.pushsquare.com/news/2025/03/tony-hawks-pro-skater-fans-sceptical-of-seismic-changes-to-fourth-game-on-ps5-ps4",
-            "urlToImage": "https://images.pushsquare.com/0d8cacd333aca/1280x720.jpg",
-            "publishedAt": "2025-03-05T05:30:00Z",
-            "content": "You perhaps had to be there, but Tony Hawks Pro Skater was the Call of Duty of the early PlayStation era. The franchise was unfathomably huge, and its impact reached beyond just video games: it had g… [+1950 chars]"
+            "author": "Richard Lee Breslin",
+            "title": "GTA 6 trailer 2 is leaving fans with their heads in their hands - GAMINGbible",
+            "description": "GTA 6 fans have their heads in hands waiting for Rockstar Games to release trailer 2",
+            "url": "https://www.gamingbible.com/news/gta-6-trailer-2-fans-heads-hands-063655-20250305",
+            "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltcb31b78d8e736bd1/67c82dac97250b2bcba7d927/GTA.png",
+            "publishedAt": "2025-03-05T10:55:50Z",
+            "content": "Fans of Rockstar Games Grand Theft Auto series are feeling tormented that weve still not seen trailer two for GTA VI and I dont blame them.\r\nWhen Rockstar Games dropped the first trailer for GTA VI i… [+2244 chars]"
         },
         {
             "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
+                "id": null,
+                "name": "9to5google.com"
             },
-            "author": "Kyle Wiggers",
-            "title": "Key ex-OpenAI researcher subpoenaed in AI copyright case - TechCrunch",
-            "description": "GPT architect Alec Radford has been subpoenaed in a copyright case against OpenAI, according to a court filing.",
-            "url": "https://techcrunch.com/2025/03/04/key-ex-openai-researcher-subpoenaed-in-ai-copyright-case/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675",
-            "publishedAt": "2025-03-05T02:14:01Z",
-            "content": "Alec Radford, a researcher who helped develop many of OpenAI’s key AI technologies, has been subpoenaed in a copyright case against the AI startup, according to a court filing Tuesday. \r\nThe filing, … [+1785 chars]"
+            "author": "Ben Schoon",
+            "title": "Samsung extends One UI 7 beta to Galaxy Z Fold 6, Flip 6, S23, and Tab S10 - 9to5Google",
+            "description": "Samsung has officially expanded its One UI 7 beta to more Galaxy devices including foldables, Galaxy S23, and more.",
+            "url": "http://9to5google.com/2025/03/05/samsung-one-ui-7-beta-galaxy-device-list/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/galaxy-z-fold-6-31.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-03-05T10:30:00Z",
+            "content": "Samsung isn’t releasing One UI 7 to all Galaxy users just yet as the company has just announced an extended beta program that now includes the latest Galaxy foldables and more.\r\nStarting on March 6, … [+1560 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Patricia Battle",
+            "title": "T-Mobile customers threaten to leave after latest warning - TheStreet",
+            "description": "The phone carrier has hinted that is making some major changes, which has become the last straw for some customers.",
+            "url": "https://www.thestreet.com/technology/t-mobile-customers-threaten-to-leave-after-latest-warning",
+            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA4MTI4MTY0MjE4NTQ1NjA1/t-mobile-kicks-off-3-billion-bond-sale-to-buy-5g-spectrum.jpg",
+            "publishedAt": "2025-03-05T01:07:00Z",
+            "content": "T-Mobile, one of the largest phone carriers in the U.S. with over 130 million customers nationwide, recently experienced a significant boost in profits during the last few months of 2024.\r\nIn its fou… [+2828 chars]"
         },
         {
             "source": {
@@ -47,38 +138,12 @@
                 "name": "Nintendo Life"
             },
             "author": "Liam Doolan",
-            "title": "Mario Day Celebrations Begin With Free Switch Online Trial (US) - Nintendo Life",
+            "title": "Nintendo Begins Mario Day Celebrations With Free Switch Online Trial (US) - Nintendo Life",
             "description": "Available for a limited-time",
             "url": "https://www.nintendolife.com/news/2025/03/mario-day-celebrations-begin-with-free-switch-online-trial-us",
             "urlToImage": "https://images.nintendolife.com/fa361328868e5/1280x720.jpg",
             "publishedAt": "2025-03-05T00:55:00Z",
             "content": "Image: Nintendo\r\nAhead of MAR10 Day next week, Nintendo has announced multiple Mario Day discounts on select Nintendo Switch titles.\r\nIf you're wanting even more Mario action, you can also check out … [+1560 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Benj Edwards",
-            "title": "Users report emotional bonds with startlingly realistic AI voice demo - Ars Technica",
-            "description": "Sesame’s new AI voice model features uncanny imperfections, and it’s willing to act like an angry boss.",
-            "url": "https://arstechnica.com/ai/2025/03/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/bluedigitalface1-1152x648.jpg",
-            "publishedAt": "2025-03-04T23:35:01Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Samsung.com"
-            },
-            "author": "Samsung U.S. Newsroom",
-            "title": "Samsung One UI 7 Beta Rolls Out to More Galaxy Devices - Samsung",
-            "description": "Samsung continues its global expansion of mobile AI, equipping previous models with Galaxy AI capabilities",
-            "url": "https://news.samsung.com/us/samsung-one-ui-7-beta-rolls-out-to-more-galaxy-devices",
-            "urlToImage": "https://img.us.news.samsung.com/us/wp-content/uploads/2025/03/04171020/Z-Fold6_Navy_Openfront115_Z-Flip6_Blue_TabletopL30_RGB.png",
-            "publishedAt": "2025-03-04T23:00:08Z",
-            "content": "Samsung Electronics today announced the availability of Galaxy AI1 features on more Galaxy devices through the One UI 7 beta program, designed to offer the most natural and seamless mobile AI experie… [+775 chars]"
         },
         {
             "source": {
@@ -95,16 +160,42 @@
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
+                "id": null,
+                "name": "PhoneArena"
             },
-            "author": "Ryan Whitwam",
-            "title": "Google’s AI-powered Pixel Sense app could gobble up all your Pixel 10 data - Ars Technica",
-            "description": "The app will reportedly offer contextual suggestions as you use the phone.",
-            "url": "https://arstechnica.com/google/2025/03/googles-ai-powered-pixel-sense-app-could-gobble-up-all-your-pixel-10-data/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/PXL_20240821_140155033.MP-1-1-scaled-1152x648-1741117427.jpg",
-            "publishedAt": "2025-03-04T20:31:33Z",
-            "content": null
+            "author": "Peter Kostadinov",
+            "title": "Xiaomi 15 Ultra vs Galaxy S25 Ultra: Sample photos comparison! - PhoneArena",
+            "description": "Here's how the new Xiaomi 15 Ultra fares against the Galaxy S25 Ultra.",
+            "url": "https://www.phonearena.com/news/Xiaomi-15-Ultra-vs-Galaxy-S25-Ultra-Sample-photos-comparison_id168112",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/168112-wide-two_1200/Xiaomi-15-Ultra-vs-Galaxy-S25-Ultra-Sample-photos-comparison.jpg",
+            "publishedAt": "2025-03-04T21:26:54Z",
+            "content": "A discussion is a place, where people can voice their opinion, no matter if it\r\n is positive, neutral or negative. However, when posting, one must stay true to the topic, and not just share some\r\n ra… [+760 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Droid Life"
+            },
+            "author": "Kellen",
+            "title": "OnePlus Clarifies Update Policy (Updated) - Droid Life",
+            "description": "UPDATE MARCH 5: We sort of suspected this might be the case, which is why we asked the head of OnePlus’ North America PR team multiple times and explained to them that no one in the industry counts out-of-box software as an update, and as it turns out, they w…",
+            "url": "https://www.droid-life.com/2025/03/04/oneplus-clarifies-update-policy-only-provides-3-android-os-updates-counts-the-out-of-box-build/",
+            "urlToImage": "https://www.droid-life.com/wp-content/uploads/2025/01/OnePlus-13-2-1200x628-cropped.jpg",
+            "publishedAt": "2025-03-04T20:50:31Z",
+            "content": "UPDATE MARCH 5: We sort of suspected this might be the case, which is why we asked the head of OnePlus’ North America PR team multiple times and explained to them that no one in the industry counts o… [+4798 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Jeremy Gray",
+            "title": "Escura’s $50 InstantSnap Toy Camera Looks Like an Instant Photo Print - PetaPixel",
+            "description": "You've never seen a digital camera quite like this one.",
+            "url": "https://petapixel.com/2025/03/04/escuras-50-instantsnap-toy-camera-looks-like-an-instant-photo-print/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2025/03/escura-instantsnap-featured.jpg",
+            "publishedAt": "2025-03-04T20:30:33Z",
+            "content": "Credits: Escura (left) and DC.Watch (right). Additional photos of the Escura InstantSnap can be seen on DC.Watch.\r\nPhotography company Escura showed off a fascinating InstantSnap camera at the 2025 C… [+2845 chars]"
         },
         {
             "source": {
@@ -148,58 +239,6 @@
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Joe Rossignol",
-            "title": "Apple Expected to Announce New MacBook Air 'Tomorrow' - MacRumors",
-            "description": "Apple CEO Tim Cook yesterday teased that there was \"something in the air\" this week, and it turns out that could be \"things\" plural....",
-            "url": "https://www.macrumors.com/2025/03/04/new-macbook-air-tomorrow-says-gurman/",
-            "urlToImage": "https://images.macrumors.com/t/wfpTkRv288HH42AFS73EUHDMpiU=/1600x/article-new/2025/03/cook-tweet-air-upscale.jpg",
-            "publishedAt": "2025-03-04T16:09:48Z",
-            "content": "Apple CEO Tim Cook yesterday teased that there was \"something in the air\" this week, and it turns out that could be \"things\" plural. Following today's announcement of a new iPad Air with an M3 chip, … [+743 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Katcy Stephan",
-            "title": "‘Split Fiction’ Is a Mind-Bending 2 Player Triumph: Video Game Review - Variety",
-            "description": "“Split Fiction” pushes the limits of genre and co-op gameplay in an imaginative adventure through two wildly different worlds.",
-            "url": "https://variety.com/2025/gaming/reviews/split-fiction-review-1236326926/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2024/12/Split-Fiction.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2025-03-04T16:00:00Z",
-            "content": "When Hazelight Studios founder Josef Fares first announced “Split Fiction” at last year’s Game Awards, he wasn’t exactly humble: “We say, ‘We fuck shit up without fucking up.’ This time, it’s some ne… [+5334 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Arjun Kharpal",
-            "title": "Samsung to launch its Apple Vision Pro rival headset this year - CNBC",
-            "description": "Samsung showed off the headset, dubbed 'Project Moohan' this week, confirming that it will launch officially in 2025.",
-            "url": "https://www.cnbc.com/2025/03/04/samsung-project-moohan-to-launch-this-year-to-rival-apple-vision-pro.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108110522-1741101270990-Project_Moohan.jpg?v=1741101340&w=1920&h=1080",
-            "publishedAt": "2025-03-04T15:50:58Z",
-            "content": "Samsung's extended reality 'Project Moohan' headset on display at the Mobile World Congress 2025 in Barcelona.\r\nSamsung will launch its extended reality headset this year, a spokesperson for the comp… [+3085 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Timothy Green",
-            "title": "AMD Has a Golden Opportunity in the Graphics Card Market - The Motley Fool",
-            "description": "",
-            "url": "https://www.fool.com/investing/2025/03/04/amd-has-a-golden-opportunity-in-the-graphics-card/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/809766/gettyimages-1460761187.jpg",
-            "publishedAt": "2025-03-04T15:30:00Z",
-            "content": "The graphics card market is dominated by Nvidia(NVDA 1.69%). The gaming and AI powerhouse has a 90% unit market share, according to Jon Peddie Research, with Advanced Micro Devices (AMD 2.56%) in a d… [+3941 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Stratechery.com"
             },
             "author": null,
@@ -226,54 +265,15 @@
         {
             "source": {
                 "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Andrew Romero",
-            "title": "Nothing Phone (3a) series gets 6 years of updates, but only 3 Android OS upgrades - 9to5Google",
-            "description": "The Nothing Phone (3a) series is live, and it comes with 6 years of security updates. Only half of that will include Android OS upgrades.",
-            "url": "http://9to5google.com/2025/03/04/nothing-phone-3a-3-years-android-updates/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/nothing-phone-3a-series-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2025-03-04T12:00:00Z",
-            "content": "The Nothing Phone (3a) series has gone official, and with it, Nothing promises an extended 6 years of updates, the longest it has offered to date. This promise is slightly different than we’ve been s… [+2242 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eurogamer.net"
-            },
-            "author": "Tom Phillips",
-            "title": "Monster Hunter Wilds patch notes warn of network error when firing SOS flares - Eurogamer",
-            "description": "Capcom has released details of today's Monster Hunter Wilds patch, which fixes the game's progression-blocking bug in t…",
-            "url": "https://www.eurogamer.net/monster-hunter-wilds-patch-notes-warn-of-network-error-when-firing-sos-flares",
-            "urlToImage": "https://assetsio.gnwcdn.com/monster-hunter-wilds-alle-monster-gp_6292889.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2025-03-04T11:03:48Z",
-            "content": "Capcom has released details of today's Monster Hunter Wilds patch, which fixes the game's progression-blocking bug in the main mission Chapter 5-2 \"A World Turned Upside Down\".\r\nThe update, numbered … [+2403 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "ZDNet"
             },
-            "author": "Kerry Wan",
-            "title": "I saw Samsung's thinnest Galaxy phone ever at MWC - and it made my devices feel outdated - ZDNet",
-            "description": "Following its recent Unpacked event, the company showcased the Galaxy S25 Edge model in Barcelona.",
-            "url": "https://www.zdnet.com/article/i-saw-samsungs-thinnest-galaxy-phone-ever-at-mwc-and-it-made-my-devices-feel-outdated/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/a334f66365bbaad171f89b1086bcf3c86840992b/2025/03/03/4662c451-b6c8-4995-8d25-ee89b4c9e650/samsung-galaxy-s25-edge.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-03-04T10:12:00Z",
-            "content": "Kerry Wan/ZDNET\r\nThere it was: the unreleased Samsung Galaxy S25 Edge hanging on wires at the Mobile World Congress (MWC) show floor. Going into the morning of the Barcelona trade show, I knew I had … [+2296 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nilay Patel",
-            "title": "Alexa’s AI overhaul has been a long time coming - The Verge",
-            "description": "The Alexa AI overhaul is just the start of what Panay wants to do with ambient computing and generative AI.",
-            "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/621232/amazon-panos-panay-interview-alexa-plus-ai-smart-home",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DCD_Panos-Panay_Decoder-2.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-            "publishedAt": "2025-03-03T17:16:02Z",
-            "content": "Amazons Panos Panay on the long road to Alexas AI overhaul\r\nAfter nearly 20 years at Microsoft, Panay was ready to dive in.\r\nAmazons Panos Panay on the long road to Alexas AI overhaul\r\nAfter nearly 2… [+67247 chars]"
+            "author": "Cesar Cadenas",
+            "title": "Nothing's new budget Android phones make Samsung and Apple look bad - ZDNet",
+            "description": "Nothing's Phone (3a) Series, including a new Pro model, deliver great value, design, and performance.",
+            "url": "https://www.zdnet.com/article/nothings-new-budget-android-phones-make-samsung-and-apple-look-bad/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/3b35423262b2f08fbc84271a5929ffc84628c651/2025/03/03/ba3f42e7-464f-4f24-9359-c0598551a2b5/dsc04376.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-03-04T10:30:00Z",
+            "content": "Nothing Phone (3a) and (3a) Pro at MWC 2025.\r\nKerry Wan/ZDNET\r\nPhone brand Nothing creates some of the most aesthetically striking mobile devices on the market. That pattern will continue into 2025, … [+2947 chars]"
         }
     ]
 }

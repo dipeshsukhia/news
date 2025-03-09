@@ -4,16 +4,29 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Alex Harring, Brian Evans",
-            "title": "S&P 500 is flat Friday, heads for worst week of the year: Live updates - CNBC",
-            "description": "The major averages resumed their sell-off on Thursday, with the Nasdaq Composite slumping into correction territory.",
-            "url": "https://www.cnbc.com/2025/03/06/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108109979-1741023330698-gettyimages-2203071763-wallst594636_bkvzujwy.jpeg?v=1741023367&w=1920&h=1080",
-            "publishedAt": "2025-03-07T14:41:00Z",
-            "content": "The S&amp;P 500 advanced on Friday, regaining some ground with the benchmark headed for its worst week since September as the salvo of trade policy actions unnerved investors.\r\nThe broad index added … [+2394 chars]"
+            "author": "The Wall Street Journal",
+            "title": "Stock Market Today: Dow, S&P Trim Losses to End a Tough Week - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/livecoverage/jobs-report-stock-market-today-dow-nasdaq-sp500-03-07-2025",
+            "urlToImage": null,
+            "publishedAt": "2025-03-07T22:14:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Lucinda Shen",
+            "title": "Sam Bankman-Fried hints at becoming a Republican - Axios",
+            "description": "His parents have been angling for a pardon from President Trump.",
+            "url": "https://www.axios.com/2025/03/06/sam-bankman-fried-tucker-carlson",
+            "urlToImage": "https://images.axios.com/fAIV1fKxEWgizEJARKcNNNkfmYs=/0x0:1920x1080/1366x768/2025/03/06/1741294515577.jpg",
+            "publishedAt": "2025-03-07T15:41:56Z",
+            "content": "Sam Bankman-Fried today reiterated his belief that he was not a criminal and highlighted his affinity for Republicans, in an interview with Tucker Carlson.\r\nWhy it matters: His parents have been angl… [+1265 chars]"
         },
         {
             "source": {
@@ -21,25 +34,38 @@
                 "name": "Barron's"
             },
             "author": "Barron's",
-            "title": "Walgreens Stock Jumps. The Struggling Drugstore Chain Is Going Private. - Barron's",
+            "title": "Broadcom Stock Soars After Chip Maker Beats Earnings. The AI Trade Isn’t Dead. - Barron's",
             "description": null,
-            "url": "https://www.barrons.com/articles/walgreens-boots-alliance-private-equity-sycamore-stock-price-79e1f173",
+            "url": "https://www.barrons.com/articles/broadcom-avgo-earnings-stock-price-4a06d06f",
             "urlToImage": null,
-            "publishedAt": "2025-03-07T14:12:00Z",
+            "publishedAt": "2025-03-07T15:29:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Lex Harvey",
-            "title": "Elbows up: How Canadians are fighting back against Trump’s tariffs - CNN",
-            "description": "California tomatoes for Italian tomatoes. Ohio-made pepperoni for meats produced in Ontario and Quebec. Coca Cola for sparkling water, sweetened with Canadian maple syrup.",
-            "url": "https://www.cnn.com/2025/03/06/us/canada-trump-tariffs-reactions-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25063776715319.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-03-07T12:27:00Z",
-            "content": "Replacing Californian tomatoes with Italian tomatoes. Ohio-made pepperoni with meats produced in Ontario and Quebec. Coca Cola with sparkling water, sweetened with Canadian maple syrup.\r\nAt the end o… [+9131 chars]"
+            "author": "Joseph Walker",
+            "title": "Walgreens Goes From $100 Billion Health Giant to Private-Equity Salvage Project - The Wall Street Journal",
+            "description": "Sycamore’s deal to take Walgreens private follows chain’s decline amid e-commerce and health-industry changes",
+            "url": "https://www.wsj.com/business/retail/walgreens-private-equity-sale-rise-fall-42ac5db6",
+            "urlToImage": "https://images.wsj.net/im-91744862/social",
+            "publishedAt": "2025-03-07T15:27:00Z",
+            "content": "Not much has gone right for Walgreens Boots AllianceWBA7.45%increase; green up pointing triangle\r\nin the past decade. \r\nCustomers bought more and more household items online at sites such as Amazon.c… [+429 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nahb.org"
+            },
+            "author": null,
+            "title": "NAHB Secures Lumber Inclusion in Delay of Mexican and Canadian Tariffs - National Association of Home Builders",
+            "description": "The situation surrounding tariffs remains fluid, with a flurry of activity in Washington this week. On March 4, President Trump imposed tariffs of 25% on Canadian and Mexican goods entering the U.S. and slapped an additional 10% tariff on Chinese products, wh…",
+            "url": "https://www.nahb.org/blog/2025/03/canada-mexico-tariffs-delayed-higher-lumber-prices-still-likely",
+            "urlToImage": "https://www.nahb.org/-/media/NAHB/blog/1600x900-images/1_generic/us-canada-mexico-flags-tariffs-trade-16x9.jpg?rev=b618287e84fd4c41ab88f43fac71a255",
+            "publishedAt": "2025-03-07T14:07:22Z",
+            "content": "This post is updated as of 9 a.m. ET on March 7, 2025. \r\nThe situation surrounding tariffs remains fluid, with a flurry of activity in Washington this week. On March 4, President Trump imposed tariff… [+6596 chars]"
         },
         {
             "source": {
@@ -69,32 +95,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Jeremy Bowman, The Motley Fool",
-            "title": "Nvidia Is Down 27% From Its Peak. History Says This Is What Happens Next. - Yahoo Finance",
-            "description": "Nvidia (NASDAQ: NVDA) has been the unquestionable leader of the artificial intelligence (AI) boom of the past two-plus years with the stock up more than 600%...",
-            "url": "https://www.fool.com/investing/2025/03/07/nvidia-stock-down-27-from-peak-history-says-this/?source=eptyholnk0000202&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=117c6ffa-87d5-4cf3-9641-cebfaff8befd",
-            "urlToImage": "https://media.zenfs.com/en/motleyfool.com/20da071f50d0d4f0679ab7ec71d99a45",
-            "publishedAt": "2025-03-07T10:07:00Z",
-            "content": "Nvidia (NASDAQ: NVDA) has been the unquestionable leader of the artificial intelligence (AI) boom of the past two-plus years with the stock up more than 600% since the start of 2023 and its market ca… [+5746 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Steve Goldstein",
-            "title": "JPMorgan says the stock market may need more time to get to its year-end target - MarketWatch",
-            "description": "",
-            "url": "https://www.marketwatch.com/story/jpmorgan-says-the-stock-market-may-need-more-time-to-get-to-its-year-end-target-2031453b",
-            "urlToImage": "https://images.mktw.net/im-44988927/social",
-            "publishedAt": "2025-03-07T08:34:00Z",
-            "content": "Steven Goldstein is based in London and responsible for MarketWatch's coverage of financial markets in Europe, with a particular focus on global macro and commodities. Previously, he was Washington b… [+121 chars]"
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -121,19 +121,6 @@
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Terry Dickerson",
-            "title": "Woman strips naked and walks screaming down the aisle on Southwest flight to Phoenix - AOL",
-            "description": "A Southwest Airlines flight from Houston to Phoenix was forced to return to the gate after a passenger stripped naked and began screaming before takeoff on M...",
-            "url": "https://www.nbcnews.com/news/us-news/woman-strips-naked-walks-screaming-aisle-southwest-flight-phoenix-rcna195186",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Mbo1PF6yCB0W9U21SXKmmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/aol_nbc_universal_184/1f3f53ff4f8d60faf8ee68a5762b1d49",
-            "publishedAt": "2025-03-07T04:49:37Z",
-            "content": "A Southwest Airlines flight from Houston to Phoenix was forced to return to the gate after a passenger stripped naked and began screaming before takeoff on Monday afternoon.\r\nVideo taken by a passeng… [+1682 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -147,29 +134,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Motley Fool Transcribing",
-            "title": "Broadcom (AVGO) Q1 2025 Earnings Call Transcript - The Motley Fool",
-            "description": "AVGO earnings call for the period ending December 31, 2024.",
-            "url": "https://www.fool.com/earnings/call-transcripts/2025/03/06/broadcom-avgo-q1-2025-earnings-call-transcript/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template-2023-01-12.jpg",
-            "publishedAt": "2025-03-07T02:30:16Z",
-            "content": "AVGO earnings call for the period ending December 31, 2024.Image source: The Motley Fool.\r\nBroadcom(AVGO -6.33%)Q1 2025 Earnings CallMar 06, 2025, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</l… [+41663 chars]"
-        },
-        {
-            "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "Becky Peterson, Sean McLain",
-            "title": "Tesla’s Fortunes Fall as Musk Rises in Trump World - The Wall Street Journal",
-            "description": "CEO’s politics erode brand’s appeal among some core buyers of electric vehicles; ‘I used to idolize the guy’",
+            "author": "The Wall Street Journal",
+            "title": "Tesla’s Fortunes Fall as Musk Rises in Trump World - WSJ - The Wall Street Journal",
+            "description": null,
             "url": "https://www.wsj.com/business/autos/tesla-elon-musk-consumer-backlash-19326a57",
-            "urlToImage": "https://images.wsj.net/im-60681094/social",
+            "urlToImage": null,
             "publishedAt": "2025-03-07T02:00:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Oregon police investigate nighttime gunshots that shattered windows at a Tesla dealership - The Associated Press",
+            "description": "Police in Oregon say they are working with the FBI to investigate gunshots fired at a Tesla dealership overnight. It is the latest instance of vandalism at one of the company’s retail stores. No one was injured in the shooting in the town of Tigard outside Po…",
+            "url": "https://apnews.com/article/tesla-dealership-gunshots-oregon-police-investigate-7d9f90f177645305671b134556c2ea82",
+            "urlToImage": "https://dims.apnews.com/dims4/default/3610a52/2147483647/strip/true/crop/960x540+0+141/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2F5c%2F604cae758c3622863613deea11b2%2Fa9177f5ebe2c4ee38367c4ecde213ba4",
+            "publishedAt": "2025-03-07T01:31:00Z",
+            "content": "PORTLAND, Ore. (AP) Police in Oregon said Thursday they are working with the FBI to investigate gunshots fired at a Tesla dealership overnight in the latest instance of vandalism at one of the compan… [+1357 chars]"
         },
         {
             "source": {
@@ -186,41 +173,41 @@
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": null,
+                "name": "Forbes"
             },
-            "author": "Brady Dale",
-            "title": "State officials come out in favor of Senate debanking bill - Axios",
-            "description": "The FIRM act would would seek to rein in regulators' abilities to deny banking services to disfavored industries.",
-            "url": "https://www.axios.com/2025/03/07/debanking-senate-crypto",
-            "urlToImage": "https://images.axios.com/9IuvoT3aWxw9QIsmDWleER4TLyc=/0x340:4000x2590/1366x768/2025/03/06/1741299185538.jpg",
-            "publishedAt": "2025-03-07T00:17:57Z",
-            "content": "Political forces are lining up behind legislation that would rein in regulators' abilities to pressure banks into denying services to legal but disfavored industries.\r\nThe big picture: The case that … [+2846 chars]"
+            "author": "Sandy Carter",
+            "title": "Everyone Wants To Know About Trump’s Crypto Summit - Forbes",
+            "description": "President Donald Trump will convene the Crypto Summit, marking a notable shift toward proactive, collaborative policymaking in the crypto space.",
+            "url": "https://www.forbes.com/sites/digital-assets/2025/03/06/everyone-wants-to-know-about-trumps-crypto-summit/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67695172c2a016a4f6b2c302/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-03-07T00:20:21Z",
+            "content": "The Crypto Summit is viewed to be a key moment for the Crypto Industry. (Photo illustration by Dan ... [+] Kitwood/Getty Images)\r\nGetty Images\r\nA Landmark Crypto Summit\r\nEveryone wants to know about … [+7763 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investopedia"
+                "name": "Deadline"
             },
-            "author": "Andrew Kessel",
-            "title": "Trump To Hold Crypto Summit Friday—What You Need To Know - Investopedia",
-            "description": "President Trump plans to host cryptocurrency executives at the White House on Friday, a crypto summit that could offer new insight into the administration’s agenda regarding digital assets.",
-            "url": "https://www.investopedia.com/trump-to-hold-crypto-summit-friday-what-you-need-to-know-11692575",
-            "urlToImage": "https://www.investopedia.com/thmb/aqXMIxzzGE1M_OabAbt4XpANRJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2163296066-d0da11b3e04447599369fc8965b798df.jpg",
-            "publishedAt": "2025-03-06T22:57:03Z",
-            "content": "<ul><li>President Trump plans to hold a crypto summit Friday, hosting the executives of several major crypto companies at the White House.</li><li>Trump last weekend said the U.S. could launch a stra… [+1783 chars]"
+            "author": "Ted Johnson",
+            "title": "Judge Declines To Block Paramount-Skydance Merger But Sets Pension Fund Lawsuit On Expedited Schedule - Deadline",
+            "description": "A Delaware judge said that a pension fund lawsuit will determine if a rival bid for Paramount must be considered.",
+            "url": "http://deadline.com/2025/03/paramount-skydance-merger-sharehold-lawsuit-1236313214/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/07/National-Amusements-Paramount-Global-Skydance-Red-Bird-Capital.jpg?w=1024",
+            "publishedAt": "2025-03-06T23:07:00Z",
+            "content": "A Delaware judge on Thursday declined to order an immediate halt to Skydance‘s proposed acquisition of Paramount Global, but has set an expedited schedule for considering a shareholder lawsuit to for… [+1844 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "Barron's"
             },
-            "author": "The Wall Street Journal",
-            "title": "Costco Revenue Misses, But Same-Store Sales Higher Than Expected - The Wall Street Journal",
+            "author": "Barron's",
+            "title": "Costco’s Earnings Missed Expectations. The Stock Falls. - Barron's",
             "description": null,
-            "url": "https://www.wsj.com/business/earnings/costco-revenue-misses-same-store-sales-higher-than-expected-e2e4608c",
+            "url": "https://www.barrons.com/articles/costco-earnings-stock-8d0829fe",
             "urlToImage": null,
-            "publishedAt": "2025-03-06T22:57:00Z",
+            "publishedAt": "2025-03-06T22:48:00Z",
             "content": null
         },
         {
@@ -238,19 +225,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Gene Maddaus",
-            "title": "Judge Declines to Block Paramount-Skydance Merger, but Accelerates Investor Suit - Variety",
-            "description": "A judge on Thursday declined to issue a restraining order to block the Paramount-Skydance merger, but agreed to accelerate an investor lawsuit.",
-            "url": "https://variety.com/2025/biz/news/paramount-skydance-merger-restraining-order-denied-tro-1236330752/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/12/Shari-Redstone.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2025-03-06T22:29:00Z",
-            "content": "A Delaware judge on Thursday declined to issue an order to temporarily halt the merger between Paramount Global and Skydance Media.\r\nBut in the ruling, Chancellor Kathaleen McCormick agreed to set a … [+2795 chars]"
-        },
-        {
-            "source": {
                 "id": "axios",
                 "name": "Axios"
             },
@@ -264,29 +238,42 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": null,
+                "name": "Investopedia"
             },
-            "author": "Jacob Shamsian",
-            "title": "SBF's crisis manager quit after the crypto scammer's surprise Tucker Carlson interview - Business Insider",
-            "description": "The crisis PR manager told Business Insider he wasn't aware Bankman-Fried arranged a jailhouse interview with Tucker Carlson.",
-            "url": "https://www.businessinsider.com/sam-bankman-fried-crisis-pr-manager-resigns-tucker-carlson-interview-2025-3",
-            "urlToImage": "https://i.insider.com/67ca194b69253ccddf9888a0?width=846&format=jpeg",
-            "publishedAt": "2025-03-06T22:12:00Z",
-            "content": "Tucker Carlson's jailhouse interview with Sam Bankman-Fried came as a surprise to everyone including the crypto scammer's crisis manager.\r\nMark Botnick, who had represented Bankman-Fried since the co… [+3212 chars]"
+            "author": "Michael Bromberg",
+            "title": "S&P 500 Gains and Losses Today: AI Stocks Fall After Soft Outlook From Marvell Technology - Investopedia",
+            "description": "The S&P 500 dropped 1.8% on Thursday, March 6, 2025, as investors reacted to the back-and-forth around U.S. trade policies and awaited Friday's jobs report.",
+            "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-ai-stocks-fall-after-soft-outlook-from-marvell-technologies-11692470",
+            "urlToImage": "https://www.investopedia.com/thmb/2LS31arj39kQpRw49L9Sx9i6M-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_MarvellHQ_GettyImages-2169879324-09f1c754fedc468cb36f13803b6fbe9c.jpg",
+            "publishedAt": "2025-03-06T22:09:15Z",
+            "content": "<ul><li>The S&amp;P 500 dropped 1.8% on Thursday, March 6, 2025, as investors reacted to the back-and-forth surrounding U.S. trade policies and awaited Friday's jobs report.</li><li>AI-related stocks… [+3618 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "Viewfromthewing.com"
             },
-            "author": "Taylor Herzlich",
-            "title": "Treasury’s Scott Bessent says ‘access to cheap goods’ is not the ‘American dream’ - New York Post ",
-            "description": "Treasury Secretary Scott Bessent stood by President Trump’s policy plans during a speech delivered to top economists on Thursday.",
-            "url": "https://nypost.com/2025/03/06/business/treasurys-scott-bessent-defends-trump-tariffs-for-putting-america-first/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/03/99887507.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2025-03-06T21:36:00Z",
-            "content": "Treasury Secretary Scott Bessent staunchly defended President Trumps tariffs on Thursday, arguing that trade policy should focus less on getting the lowest possible prices and more on putting America… [+4045 chars]"
+            "author": "Gary Leff",
+            "title": "‘I Want Off!’ Southwest Passenger Strips Naked, Bangs Cockpit Door, Rubs Against Crew Before Flight Turns Back - View from the Wing",
+            "description": "The woman removed all her clothing and proceeded to walk up and down the aisle. She even tried to gain access to the cockpit, banging on its door, and rubbed up against a female flight attendant.",
+            "url": "https://viewfromthewing.com/i-want-off-southwest-passenger-strips-naked-bangs-cockpit-door-rubs-against-crew-before-flight-turns-back/",
+            "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2025/03/southwest-passenger-without-clothes.jpg",
+            "publishedAt": "2025-03-06T22:04:50Z",
+            "content": "On Monday March 3, Southwest Airlines flight 733 had to return to the gate and faced a delay when a passenger on board the Houston Hobby to Phoenix flight approached the front of the cabin while the … [+1659 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Vinamrata Chaturvedi, Josh Fellman",
+            "title": "Nvidia stock falls 6% into a correction as the Nasdaq bleeds - Quartz",
+            "description": "The AI chip giant's market cap has now dropped by almost a fifth this year. Other semiconductor stocks also plunged",
+            "url": "https://qz.com/nvidia-falls-correction-nasdaq-bleeds-tariff-war-1851768225",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2382c044e58444ac7c7e3483e90446e7.jpg",
+            "publishedAt": "2025-03-06T21:55:00Z",
+            "content": "In This Story\r\nNvidia (NVDA-0.11%\r\n) stock fell 5.7% on Thursday, bringing its decline this year to more than 17% amid concerns about declines in spending on AI, amid a general selloff in that took t… [+1559 chars]"
         },
         {
             "source": {
@@ -303,16 +290,16 @@
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
+                "id": null,
+                "name": "Upexciseportal.in"
             },
-            "author": "Stephen Clark",
-            "title": "When Europe needed it most, the Ariane 6 rocket finally delivered - Ars Technica",
-            "description": "“For this sovereignty, we must yield to the temptation of preferring SpaceX.”…",
-            "url": "https://arstechnica.com/space/2025/03/when-europe-needed-it-most-the-ariane-6-rocket-finally-delivered/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG-1152x648.jpg",
-            "publishedAt": "2025-03-06T21:19:14Z",
-            "content": null
+            "author": null,
+            "title": "CFPB Backs Down: No Lawsuit for JPMorgan, BofA, and Wells Fargo Over Zelle Fraud - UP Excise Portal",
+            "description": "The CFPB has dropped its lawsuit against JPMorgan Chase, Bank of America, and Wells Fargo over Zelle fraud, sparking concerns about consumer protection. With over $870 million lost to scams since 2017, experts warn that P2P payments remain risky. Learn how to…",
+            "url": "https://www.upexciseportal.in/cfpb-backs-down/",
+            "urlToImage": "https://www.upexciseportal.in/wp-content/uploads/2025/03/CFPB-Backs-Down-No-Lawsuit-for-JPMorgan-BofA-and-Wells-Fargo-Over-Zelle-Fraud.jpg",
+            "publishedAt": "2025-03-06T21:16:00Z",
+            "content": "CFPB Backs Down: The Consumer Financial Protection Bureau (CFPB) has officially dropped its lawsuit against JPMorgan Chase, Bank of America, and Wells Fargo over alleged fraud on the Zelle payment pl… [+5428 chars]"
         },
         {
             "source": {
@@ -330,28 +317,54 @@
         {
             "source": {
                 "id": null,
-                "name": "Ftc.gov"
+                "name": "CoinDesk"
             },
-            "author": null,
-            "title": "FTC Challenges Medical Device Coatings Deal - Federal Trade Commission News",
-            "description": "The Federal Trade Commission today sued to block GTCR BC Holdings, LLC’s (GTCR) acquisition of Surmodics, Inc.",
-            "url": "https://www.ftc.gov/news-events/news/press-releases/2025/03/ftc-challenges-medical-device-coatings-deal",
-            "urlToImage": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
-            "publishedAt": "2025-03-06T20:50:36Z",
-            "content": "The Federal Trade Commission today sued to block GTCR BC Holdings, LLCs (GTCR) acquisition of Surmodics, Inc. (Surmodics), alleging that the deal, which seeks to combine the two largest manufacturers… [+4238 chars]"
+            "author": "Helene Braun",
+            "title": "Texas Surges in U.S. States' Race to Put Public Funds Into Crypto, Bitcoin (BTC) - CoinDesk",
+            "description": "Texas' bitcoin strategic reserve bill clears its senate, while New Hampshire marks a committee win and Utah teeters on a deadline this week.",
+            "url": "https://www.coindesk.com/policy/2025/03/06/texas-surges-in-u-s-states-race-to-put-public-funds-into-crypto",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/df8d76eb5e365ce30a957a09ac0056dfac81b8cb-5636x3723.jpg?auto=format",
+            "publishedAt": "2025-03-06T20:33:00Z",
+            "content": "Several U.S. states are getting closer to putting public money into cryptocurrencies effort, spurred by President Donald Trump since he announced plans to do the same on a federal level. And Texas is… [+2422 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Bitcoin Magazine"
+                "name": "Gizmodo.com"
             },
-            "author": "Nik",
-            "title": "Texas Strategic Bitcoin Reserve Bill Passes The Senate - Bitcoin Magazine",
-            "description": "In a vote of 25-5, Texas’ bitcoin reserve legislation has been approved by the Senate. It will now advance to the House.",
-            "url": "https://bitcoinmagazine.com/news/texas-strategic-bitcoin-reserve-bill-passes-the-senate",
-            "urlToImage": "https://bitcoinmagazine.com/wp-content/uploads/2025/03/Texas-Strategic-Bitcoin-Reserve-Bill-Passes-The-Senate.png",
-            "publishedAt": "2025-03-06T19:35:14Z",
-            "content": "Today, the Texas Senate has passed SB 21, a bill aimed at creating a strategic Bitcoin reserve for the state, by a vote of 25-5. The bill will now advance to the Texas House for further consideration… [+2717 chars]"
+            "author": "Lucas Ropek",
+            "title": "Senate Votes to Strip CFPB of Ability to Regulate Platforms Like X - Gizmodo",
+            "description": "Conservative activist and friend of Donald Trump, Laura Loomer, is freaking out.",
+            "url": "https://gizmodo.com/senate-votes-to-strip-cfpb-of-ability-to-regulate-platforms-like-x-2000572567",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/elon-musk-dec-5-2024-capitol-hill.jpg",
+            "publishedAt": "2025-03-06T20:30:30Z",
+            "content": "A key federal watchdog is being stripped of its power to oversee potential fraud and abuse in online payment platforms just as Elon Musk’s site, X, attempts to become one.\r\nLate last year, the Consum… [+4301 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Leada Gore | lgore@al.com",
+            "title": "Social Security pays billions in retroactive payments averaging $6,710 - AL.com",
+            "description": "The Social Security Administration is moving aggressively to issue retroactive payments for more than 3 billion Americans.",
+            "url": "https://www.al.com/news/2025/03/social-security-pays-billions-in-retroactive-payments-averaging-6710.html",
+            "urlToImage": "https://www.al.com/resizer/v2/TSGW2V5SEREA5HUFNOQKFWJ2TI.jpg?auth=63d23ac90cfa3ae53516d43de4bc59e8bb64cb90e0be4570c39f046a2fc29744&width=1280&quality=90",
+            "publishedAt": "2025-03-06T20:09:00Z",
+            "content": "The Social Security Administration is moving aggressively to issue retroactive payments to more than 1 million Americans.\r\nThe payments are a result of the passage of Social Security Fairness Act tha… [+1740 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Julia Shapero",
+            "title": "CFPB allowing some offices to resume functions - The Hill",
+            "description": "The Consumer Financial Protection Bureau (CFPB) is allowing some offices to resume their functions, as the Trump administration faces a legal challenge over its stop work order and other efforts to overhaul the consumer watchdog.  Mark Paoletta, the CFPB’s ch…",
+            "url": "https://thehill.com/business/5180578-cfpb-offices-resume-functions/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/cfpb_021025gn02_w.jpg?w=1280",
+            "publishedAt": "2025-03-06T19:33:00Z",
+            "content": "The Consumer Financial Protection Bureau (CFPB) is allowing some offices to resume their functions, as the Trump administration faces a legal challenge over its stop work order and other efforts to o… [+5392 chars]"
         },
         {
             "source": {
@@ -368,45 +381,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Luisa Beltran",
-            "title": "As JPMorgan Chase enforces a 5-day RTO, staffers complain about too few desks, spotty Wi-Fi, and sneezing, sick coworkers - Yahoo Finance",
-            "description": "The nation’s biggest bank is committed to getting everyone back in the office, but some workers say the conditions aren’t ideal.",
-            "url": "https://finance.yahoo.com/news/jpmorgan-chase-enforces-5-day-185703089.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VpYrjiVGPsSSrfMg3Wcycg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/a7015a9fc626929e271cf49386a6a4c2",
-            "publishedAt": "2025-03-06T18:57:03Z",
-            "content": "Its the first week of JPMorgan Chases return-to-office mandate that obliges thousands of people to come back in five days a week, and so far the adjustment has been less than smooth. Tensions are hig… [+5601 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Alex Veiga",
-            "title": "Mortgage rates have declined but could stay at a level that makes it tough to afford a home - The Associated Press",
-            "description": "Mortgage rates eased this week for the seventh week in a row, a trend that gives prospective home shoppers more financial flexibility just as the spring homebuying season gets going. The average rate on a 30-year mortgage in the U.S. fell to 6.63% from 6.76% …",
-            "url": "https://apnews.com/article/mortgage-rates-housing-interest-financing-home-loan-990c0affee58009fcd34b4685e859f53",
-            "urlToImage": "https://dims.apnews.com/dims4/default/58c3de3/2147483647/strip/true/crop/8551x4810+0+446/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F36%2Fb8%2F908fae2af5e6a62871a092ce303b%2F5bbcefaf350447979ecf2eb410db6522",
-            "publishedAt": "2025-03-06T17:26:00Z",
-            "content": "LOS ANGELES (AP) Mortgage rates have been mostly declining in recent weeks, helping encourage prospective home shoppers just as the spring homebuying season gets going. \r\nBut the same factors that ha… [+3927 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bloomberglaw.com"
-            },
-            "author": "Evan Weinberger",
-            "title": "The Reality Behind CFPB Contradictions That Raised Judge's Ire - Bloomberg Law",
-            "description": "A lawsuit challenging the Trump administration’s efforts to kneecap the Consumer Financial Protection Bureau exposed top officials attempting to freeze the agency’s work while assuring a judge the watchdog is still doing tasks mandated by Congress.",
-            "url": "https://news.bloomberglaw.com/banking-law/the-reality-behind-cfpb-contradictions-that-raised-judges-ire",
-            "urlToImage": "https://db0ip7zd23b50.cloudfront.net/dims4/default/d06eb0f/2147483647/strip/false/crop/2995x1154+2+196/resize/960x370!/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fbd%2F4f%2F560cfada40e289efe5719a7acec1%2Fgettyimages-945974602.jpg",
-            "publishedAt": "2025-03-06T17:21:00Z",
-            "content": "A lawsuit challenging the Trump administrations efforts to kneecap the Consumer Financial Protection Bureau exposed top officials attempting to freeze the agencys work while assuring a judge the watc… [+8296 chars]"
-        },
-        {
-            "source": {
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
@@ -417,6 +391,32 @@
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD78WbDDFpcQ/v0/1200x800.jpg",
             "publishedAt": "2025-03-06T17:15:16Z",
             "content": "An eye-popping imports surge that has driven the US trade deficit to a record and elevated anxiety about the economy largely has its roots in a frantic scramble by international gold traders to rush … [+361 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Prashant Gopal",
+            "title": "US Mortgage Rates Post Biggest Weekly Drop Since Mid-September - Bloomberg",
+            "description": "Mortgage rates in the US fell for a seventh straight week, posting the biggest weekly drop since the middle of September.",
+            "url": "https://www.bloomberg.com/news/articles/2025-03-06/us-mortgage-rates-post-biggest-weekly-drop-since-mid-september",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.5kya9wRhSQ/v1/1200x800.jpg",
+            "publishedAt": "2025-03-06T17:00:00Z",
+            "content": "Mortgage rates in the US fell for a seventh straight week, posting the biggest weekly drop since the middle of September.\r\nThe average for 30-year loans was 6.63%, down from 6.76% last week, Freddie … [+32 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Kosaku Narioka, Megumi Fujikawa",
+            "title": "7-Eleven to Split U.S. Stores and Buy Back Shares to Prevent Takeover - The Wall Street Journal",
+            "description": "Tokyo-based convenience-store chain names first American CEO and plans $13 billion share buyback",
+            "url": "https://www.wsj.com/business/7-eleven-new-ceo-stock-buyback-split-bc92c5dd",
+            "urlToImage": "https://images.wsj.net/im-39578634/social",
+            "publishedAt": "2025-03-06T16:53:00Z",
+            "content": null
         },
         {
             "source": {
@@ -447,6 +447,19 @@
         {
             "source": {
                 "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "European Central Bank cuts eurozone interest rates - BBC.com",
+            "description": "The bank cuts rates to 2.5% but faces pressures from threatened US tariffs and plans to boost military funding.",
+            "url": "https://www.bbc.com/news/articles/c30mz648nyno",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1f98/live/7db08610-fa90-11ef-a24f-f97f794e18ea.jpg",
+            "publishedAt": "2025-03-06T16:28:16Z",
+            "content": "The European Central Bank (ECB) has cut interest rates for the sixth time in nine months as it seeks to bolster eurozone economic growth.\r\nThe bank stuck to its plan to lower rates in the face of eco… [+2055 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Motley Fool"
             },
             "author": "Jon Quast",
@@ -459,16 +472,16 @@
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": "Tom Fairless",
-            "title": "ECB Cuts Rates to Guard Stalled Economy Against Tariff Threats - The Wall Street Journal",
-            "description": "Central bank drops borrowing costs at a time when European capitals are setting out ambitious military spending plans",
-            "url": "https://www.wsj.com/economy/central-banking/ecb-cuts-rates-to-guard-stalled-economy-against-tariff-threats-b2f9c8eb",
-            "urlToImage": "https://images.wsj.net/im-08842061/social",
-            "publishedAt": "2025-03-06T15:33:00Z",
-            "content": null
+            "author": "Claire Ballentine",
+            "title": "Americans Fall Behind on Car Payments at Highest Rate in Decades - Bloomberg",
+            "description": "Delinquencies on auto loans among subprime borrowers are spiking as consumers continue grappling with higher interest rates.",
+            "url": "https://www.bloomberg.com/news/articles/2025-03-06/late-car-loan-payments-auto-delinquencies-spike-to-highest-level-in-decades",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inJbj_E.oTRw/v1/1200x800.jpg",
+            "publishedAt": "2025-03-06T15:00:00Z",
+            "content": "Car owners are missing their monthly payments at the highest rate in more than 30 years.\r\nIn January, the share of subprime auto borrowers at least 60 days past due on their loans rose to 6.56%, the … [+72 chars]"
         },
         {
             "source": {
@@ -486,54 +499,41 @@
         {
             "source": {
                 "id": null,
-                "name": "Cstoredive.com"
+                "name": "PRNewswire"
             },
-            "author": "Jessica Loder",
-            "title": "7-Eleven parent company appoints new CEO, plans US IPO - C-Store Dive",
-            "description": "Stephen Dacus, current lead outside director of the board, will take over as the company evaluates a buyout bid from Alimentation Couche-Tard.",
-            "url": "https://www.cstoredive.com/news/7-eleven-seven-and-i-new-ceo-ipo-united-states/741535/",
-            "urlToImage": "https://imgproxy.divecdn.com/VQoCCO4fuZRxKzZVzxMHKS53ono-hX1PU5RjK1sy93w/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83LWVsZXZlbl9za3lfcGljLkpQRw==.webp",
-            "publishedAt": "2025-03-06T14:02:29Z",
-            "content": "Seven &amp; i Holdings, parent company of international c-store giant 7-Eleven, has named Stephen Dacus, currently lead independent outside director, as its next CEO. This move is part of a larger re… [+2952 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Nina Trentmann",
-            "title": "US Executives Turn More Pessimistic as Trump Tariff Policies Sink In - Bloomberg",
-            "description": "Uncertainty around tariffs and inflation has hurt US business optimism since Donald Trump’s return to the White House in January, marking a sharp reversal from the buoyant mood among executives after his win in the presidential election, a survey shows.",
-            "url": "https://www.bloomberg.com/news/articles/2025-03-06/us-executives-turn-more-pessimistic-as-trump-tariff-policies-sink-in",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1HaZng82aoQ/v1/1200x800.jpg",
-            "publishedAt": "2025-03-06T13:56:12Z",
-            "content": "Uncertainty around tariffs and inflation has hurt US business optimism since Donald Trumps return to the White House in January, marking a sharp reversal from the buoyant mood among executives after … [+425 chars]"
+            "author": null,
+            "title": "The Home Depot Introduces Magic Apron, a Suite of Advanced AI Tools to Help Customers with their Home Improvement Needs - PR Newswire",
+            "description": "/PRNewswire/ -- The Home Depot®, the world's leading home improvement retailer, is rolling out Magic Apron, a proprietary suite of generative AI tools that...",
+            "url": "https://www.prnewswire.com/news-releases/the-home-depot-introduces-magic-apron-a-suite-of-advanced-ai-tools-to-help-customers-with-their-home-improvement-needs-302393862.html",
+            "urlToImage": "https://mma.prnewswire.com/media/118058/THE_HOME_DEPOT_LOGO_v1.jpg?p=facebook",
+            "publishedAt": "2025-03-06T13:00:00Z",
+            "content": "ATLANTA, March 6, 2025 /PRNewswire/ -- The Home Depot®, the world's leading home improvement retailer, is rolling out Magic Apron, a proprietary suite of generative AI tools that helps customers answ… [+3228 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Motley Fool"
+                "name": "CNBC"
             },
-            "author": "Katie Brockman",
-            "title": "Social Security Prediction: This Move by President Trump Could Hurt Retirees the Most - The Motley Fool",
-            "description": "",
-            "url": "https://www.fool.com/retirement/2025/03/06/social-security-prediction-trump-hurt-retirees/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/809899/social-security-card-with-clock.jpg",
-            "publishedAt": "2025-03-06T08:30:00Z",
-            "content": "Social Security is a lifeline for millions of people. Close to 70 million Americans will receive a Social Security check in 2025, with benefits making up nearly one-third of the income of adults over… [+3839 chars]"
+            "author": "Gabrielle Fonrouge",
+            "title": "Macy's turnaround hinges on revamping some stores and closing others. It appears to be working - CNBC",
+            "description": "Macy's is in the midst of an aggressive strategy to close underperforming stores and invest in better performing locations as it looks to reverse sales slump.",
+            "url": "https://www.cnbc.com/2025/03/06/macys-m-q4-2024-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106994202-1644609684532-abc.jpg?v=1675099724&w=1920&h=1080",
+            "publishedAt": "2025-03-06T11:55:32Z",
+            "content": "Macy's delivered another quarter of mixed results on Thursday as investors wait and see how quickly CEO Tony Spring can pull off a turnaround of the business with yet another activist investor lookin… [+6487 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "POLITICO.eu"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Jordyn Dahl",
-            "title": "Europe’s automakers caught up in Trump’s trade war - POLITICO Europe",
-            "description": "U.S. tariffs on Mexico and Canada undercut automakers’ highly integrated supply chains.",
-            "url": "https://www.politico.eu/article/eu-automakers-caught-up-in-trumps-trade-war/",
-            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/04/GettyImages-2199727373-scaled.jpg",
-            "publishedAt": "2025-03-06T03:17:00Z",
-            "content": "Trumps move also offsets a Monday win for carmakers when European Commission President Ursula von der Leyen announced leniency on this year's EU emission targets, which the industry said would have c… [+1031 chars]"
+            "author": "Aditi Bharade",
+            "title": "A top Jack Daniel's exec says Canadians removing US liquor from store shelves is a 'disproportionate' response to Trump tariffs - Business Insider",
+            "description": "The CEO of Brown-Forman said Canada pulling US alcohol off its shelves was \"worse than a tariff.\"",
+            "url": "https://www.businessinsider.com/jack-daniels-exec-canada-barring-their-liquor-disproportionate-response-tariffs-2025-3",
+            "urlToImage": "https://i.insider.com/67c9256eb8b41a9673f9d3ac?width=1200&format=jpeg",
+            "publishedAt": "2025-03-06T09:01:00Z",
+            "content": "A top Jack Daniel's executive isn't happy about how some Canadian provinces responded to President Donald Trump's tariffs.\r\nOntario and New Brunswick instructed provincially owned alcohol retailers t… [+2751 chars]"
         }
     ]
 }

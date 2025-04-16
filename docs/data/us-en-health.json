@@ -4,6 +4,45 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Living hell for 'forgotten' South West skin patients - BBC",
+            "description": "Patients with diseases such as eczema and acne are waiting up to two years for appointments.",
+            "url": "https://www.bbc.com/news/articles/c3rq2g248ydo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5627/live/2c4da040-08ab-11f0-8723-3171587fdebe.jpg",
+            "publishedAt": "2025-04-15T05:00:47Z",
+            "content": "Amy GladwellBBC South West Investigations Team\r\nElle Jones, 19, says she lost periods of her teens to eczema\r\n\"It's taken a big toll on my life,\" says Elle Jones, 19, reflecting on her severe eczema.… [+8095 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mindbodygreen.com"
+            },
+            "author": "https://www.mindbodygreen.com/wc/ava-durgin-writer",
+            "title": "Research Shows Muscle Recovery Gets Better With Age (Yes, Really) - MindBodyGreen",
+            "description": "Here's the science of muscle recovery (and it's not what you think).",
+            "url": "https://www.mindbodygreen.com/articles/built-to-bounce-back-how-aging-bodies-recover-smarter",
+            "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/jlc33ucu3m9d1xxwu.jpeg",
+            "publishedAt": "2025-04-15T04:53:48Z",
+            "content": "Forget everything you thought you knew about getting older and exercise. A recent study just flipped the script on a longstanding belief that aging bodies are more prone to soreness, fatigue, and slo… [+2776 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "New Study Shakes Up Heart Disease Theory: High Cholesterol May Not Mean High Risk - SciTechDaily",
+            "description": "A one-year prospective study found no correlation between atherosclerosis and extremely high cholesterol levels in 100 otherwise metabolically healthy individuals who had followed a ketogenic diet for an average of five years. A new study from The Lundquist I…",
+            "url": "https://scitechdaily.com/?p=468532",
+            "urlToImage": "https://scitechdaily.com/images/Human-Heart-Anatomy-1.jpg",
+            "publishedAt": "2025-04-15T03:17:47Z",
+            "content": "A year-long study of 100 lean, metabolically healthy individuals on a ketogenic diet found that high LDL and apolipoprotein B levels were not linked to plaque buildup, as shown by CT angiograms. Inst… [+5537 chars]"
+        },
+        {
+            "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
             },
@@ -18,15 +57,93 @@
         {
             "source": {
                 "id": null,
+                "name": "NPR"
+            },
+            "author": "NPR",
+            "title": "Vaccine expert worries child measles deaths are being 'normalized' - NPR",
+            "description": "Measles is an extremely contagious disease. It's also extremely preventable. There's a vaccine. It's highly effective. <br><br>For decades it has made measles outbreaks in the U.S. relatively rare, and measles deaths rarer still. But the U.S. has now seen mor…",
+            "url": "https://www.npr.org/2025/04/14/1244690933/vaccine-expert-worries-child-measles-deaths-are-being-normalized",
+            "urlToImage": "https://media.npr.org/assets/img/2025/04/14/gettyimages-1231790708-resize_wide-875a8b6c20c04a348a0ca5fbe4411f981fadbe80.jpg?s=1400&c=100&f=jpeg",
+            "publishedAt": "2025-04-14T22:04:23Z",
+            "content": "Dr. Peter Marks testifies during a Senate Health, Education, Labor and Pensions Committee hearing on the federal coronavirus response on Capitol Hill in 2021.\r\nSusan Walsh/Getty Images\r\nMeasles is an… [+1089 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ani Freedman",
+            "title": "The latest scientific breakthrough in how probiotics impact mental health - Fortune",
+            "description": "The gut-brain connection deepens with new research.",
+            "url": "https://fortune.com/well/2025/04/14/probiotics-breakthrough-gut-health-mental-health-anxiety-mood/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/04/GettyImages-1226994187-e1744656224350.jpg?resize=1200,600",
+            "publishedAt": "2025-04-14T21:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Women's Health"
+            },
+            "author": "Korin Miller",
+            "title": "Do You Need To Eat More Protein? 5 Signs You're Not Getting Enough - Women's Health",
+            "description": "There's a lot of emphasis on having enough protein in your life. These are the biggest signs you should be aware of when it comes to eating protein, per experts.",
+            "url": "https://www.womenshealthmag.com/health/a64477938/5-signs-not-enough-protein/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/measuring-spoon-with-collagen-powder-or-whey-royalty-free-image-1736523334.pjpeg?crop=1.00xw:0.752xh;0,0.209xh&resize=1200:*",
+            "publishedAt": "2025-04-14T20:59:00Z",
+            "content": "Protein has always been important, but it's especially hot right now, and for good reason. It's not just an essential macronutrient, but also the building blocks for muscle strength, metabolism, and … [+5727 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Neurosciencenews.com"
             },
             "author": "Neuroscience News",
-            "title": "LSD-Inspired Drug Reverses Psychosis Brain Damage Without Hallucinations - Neuroscience News",
-            "description": "A new LSD-derived compound called JRT shows promise for treating schizophrenia and other brain disorders without inducing hallucinations.",
-            "url": "https://neurosciencenews.com/jrt-psychopharmacology-psychosis-28639/",
-            "urlToImage": "https://neurosciencenews.com/files/2025/04/psychosis-psychopharmacology-neurosicence.jpg",
-            "publishedAt": "2025-04-14T20:09:26Z",
-            "content": "Summary: A new LSD-derived compound called JRT shows promise for treating schizophrenia and other brain disorders without inducing hallucinations. Developed by researchers who altered just two atoms … [+7789 chars]"
+            "title": "Digital Tech May Reduce Dementia Risk - Neuroscience News",
+            "description": "Contrary to fears of \"digital dementia,\" new research finds that using digital technology is linked to a reduced risk of cognitive decline in older adults.",
+            "url": "https://neurosciencenews.com/digital-tech-dementia-28638/",
+            "urlToImage": "https://neurosciencenews.com/files/2025/04/digital-tech-dementia-neuroscience.jpg",
+            "publishedAt": "2025-04-14T19:53:24Z",
+            "content": "Summary: Contrary to fears of “digital dementia,” new research finds that using digital technology is linked to a reduced risk of cognitive decline in older adults. A large-scale meta-analysis of ove… [+9686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Umn.edu"
+            },
+            "author": null,
+            "title": "More H5N1 detections in US dairy cows and poultry; WHO unveils H5 surveillance guide - CIDRAP",
+            "description": "In other H5N1 developments, the WHO releases surveillance guidance for human cases, and the USDA announces new funding to mitigate livestock diseases.",
+            "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/more-h5n1-detections-us-dairy-cows-and-poultry-who-unveils-h5-surveillance",
+            "urlToImage": "https://www.cidrap.umn.edu/themes/custom/cidrap_theme/images/cidrap-og-image.jpg",
+            "publishedAt": "2025-04-14T19:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Brain Region Found to Regulate Social Generosity - Neuroscience News",
+            "description": "A new study reveals that the basolateral amygdala (BLA) plays a key role in calibrating prosocial behavior based on emotional closeness.",
+            "url": "https://neurosciencenews.com/brain-social-generosity-28627/",
+            "urlToImage": "https://neurosciencenews.com/files/2025/04/social-generosity-brain-neuroscience.jpg",
+            "publishedAt": "2025-04-14T19:26:28Z",
+            "content": "Summary: A new study reveals that the basolateral amygdala (BLA) plays a key role in calibrating prosocial behavior based on emotional closeness. Researchers studied individuals with Urbach-Wiethe di… [+5145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News12.com"
+            },
+            "author": null,
+            "title": "Health officials: Dead raccoon found in Amityville tests positive for rabies - News 12",
+            "description": "This marks the fourth case of \"locally acquired terrestrial rabies\" reported in the Amityville area this year.",
+            "url": "https://longisland.news12.com/health-officials-dead-raccoon-found-in-amityville-tests-positive-for-rabies",
+            "urlToImage": "https://images-cf.news12static.com/3kqcuzntcg31/6rNUQwBmkrz2G3ghnxE1fE/8319ec8c3e2abbf79eb467e0e7a3546c/Rabidraccoon.png?fit=thumb&w=600&h=340&q=80&fm=webp",
+            "publishedAt": "2025-04-14T19:17:24Z",
+            "content": "Topics you care about, straight to your inbox"
         },
         {
             "source": {
@@ -44,6 +161,32 @@
         {
             "source": {
                 "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Scientists Flip Two Atoms in LSD – And Unlock a Game-Changing Mental Health Treatment - SciTechDaily",
+            "description": "A team at UC Davis has created a new drug called JRT that mimics LSD’s brain-healing effects without the hallucinogenic side effects. By flipping just two atoms in LSD’s structure, researchers made a version that promotes neuroplasticity and enhances cognitio…",
+            "url": "https://scitechdaily.com/scientists-flip-two-atoms-in-lsd-and-unlock-a-game-changing-mental-health-treatment/",
+            "urlToImage": "https://scitechdaily.com/images/Brain-Boost-Healing-Art-Concept.jpg",
+            "publishedAt": "2025-04-14T19:00:44Z",
+            "content": "Scientists redesigned LSD into a non-hallucinogenic drug that heals brain circuits and improves symptoms of schizophrenia, with results showing it’s safer and possibly more effective than current tre… [+6893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Good News Network"
+            },
+            "author": "Andy Corbley",
+            "title": "Fish Oil Supplements Shown to Be More Effective Than Fish for Getting Optimal Omega-3 Intake - Good News Network",
+            "description": "It was for years the norm, and likely still is in some quarters, for physicians to recommend trying to get all vital nutrients from foods.",
+            "url": "https://www.goodnewsnetwork.org/fish-oil-supplements-shown-to-be-more-effective-than-fish-for-getting-optimal-omega-3-intake/",
+            "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/04/fish-oil-Towfiqu-barbhuiya-on-Unsplash-1-e1744636699361.jpg",
+            "publishedAt": "2025-04-14T18:30:46Z",
+            "content": "credit – Towfiqu Barbhuiya on Unsplash\r\nReprinted with permission from World at Large.\r\nIn a fascinating new study, several dozen participants were separated into groups and fed either a fish oil sup… [+3827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "KSL.com"
             },
             "author": "Sandee LaMotte, CNN",
@@ -53,6 +196,19 @@
             "urlToImage": "https://img.ksl.com/slc/3080/308076/30807609.jpg?filter=kslv2/responsive_story_lg",
             "publishedAt": "2025-04-14T17:59:59Z",
             "content": "ATLANTA Find yourself yawning a lot? Do you need that third or fourth cup of coffee to make it through the afternoon at work? Such signs of sleepiness may be a red flag of a serious sleep deficit tha… [+5964 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Jess Thomson",
+            "title": "'Flesh-eating' vulva infections reported in three cases — gynecologists should know the signs, experts warn - Live Science",
+            "description": "Doctors in the U.K. have warned gynecologists of the risks of necrotizing fasciitis in the external genitalia after seeing several cases.",
+            "url": "https://www.livescience.com/health/viruses-infections-disease/flesh-eating-vulva-infections-reported-in-three-cases-gynecologists-should-know-the-signs-experts-warn",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gxU6AgRQZik5CM4vNs3UJX.png",
+            "publishedAt": "2025-04-14T17:30:00Z",
+            "content": "Necrotizing fasciitis is a dangerous bacterial infection that quickly kills soft tissues of the body. A new series of case reports highlights how the infection can affect the external female genitali… [+5746 chars]"
         },
         {
             "source": {
@@ -69,6 +225,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Glassalmanac.com"
+            },
+            "author": "Brian Foster",
+            "title": "Study Reveals Declining Cognitive Function from Eating This Fruit - Glass Almanac",
+            "description": "We all know that eating a balanced diet is crucial for maintaining overall health, but new research highlights the surprising effect that certain foods can have ... Continue Reading →",
+            "url": "https://glassalmanac.com/study-reveals-declining-cognitive-function-from-eating-this-fruit/",
+            "urlToImage": "https://glassalmanac.com/wp-content/uploads/2025/04/Study-Reveals-Declining-Cognitive-Function-from-Eating-This-Fruit.jpg",
+            "publishedAt": "2025-04-14T16:30:14Z",
+            "content": "We all know that eating a balanced diet is crucial for maintaining overall health, but new research highlights the surprising effect that certain foods can have on brain health and cognitive function… [+4306 chars]"
+        },
+        {
+            "source": {
                 "id": "nbc-news",
                 "name": "NBC News"
             },
@@ -79,6 +248,45 @@
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250414-gonorrhea-se-1005a-61aae7.jpg",
             "publishedAt": "2025-04-14T16:21:39Z",
             "content": "A pill developed by GSK was found to be safe and effective in treating gonorrhea in a late-stage clinical trial, according to a study published Monday in The Lancet. If approved, it would become the … [+3611 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Multiple Sclerosis News Today"
+            },
+            "author": "Lindsey Shapiro, PhD",
+            "title": "2 researchers win Breakthrough Prize for MS discoveries - Multiple Sclerosis News Today",
+            "description": "Two researchers win the Breakthrough Prize in Life Sciences for their discoveries related to multiple sclerosis disease mechanisms.",
+            "url": "https://multiplesclerosisnewstoday.com/news-posts/2025/04/07/stephen-hauser-wins-breakthrough-prize-for-role-in-redefining-ms/",
+            "urlToImage": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/01/GiantCheck.png",
+            "publishedAt": "2025-04-14T16:12:55Z",
+            "content": "A pair of scientists have been awarded a 2025 Breakthrough Prize in Life Sciences for their work uncovering factors that give rise to multiple sclerosis (MS), paving the way for new therapeutic devel… [+4682 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Justin Stebbing",
+            "title": "Fat in common cooking oils is linked to aggressive breast cancer - but here’s why you shouldn’t panic - The Conversation",
+            "description": "A study has linked linoleic acid — a fat found in many everyday oils — with aggressive breast cancer, reigniting the debate about how our diets affect our health.",
+            "url": "https://theconversation.com/fat-in-common-cooking-oils-is-linked-to-aggressive-breast-cancer-but-heres-why-you-shouldnt-panic-254255",
+            "urlToImage": "https://images.theconversation.com/files/661437/original/file-20250412-56-l4gt5f.jpg?ixlib=rb-4.1.0&rect=0%2C345%2C4200%2C2100&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2025-04-14T15:58:30Z",
+            "content": "Theres now lots of evidence which shows that our own diets and the foods we eat can influence the outcome if we are unlucky enough to suffer from cancer. \r\nScientists are especially interested in how… [+5161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sjogrenssyndromenews.com"
+            },
+            "author": "Lindsey Shapiro, PhD",
+            "title": "MicroRNA may be therapeutic target for Sjögren’s: Study - Sjogren's Syndrome News",
+            "description": "Mimicking the activity of a microRNA molecule eased inflammation and scarring in Sjögren’s rats, pointing to a potential therapeutic target.",
+            "url": "https://sjogrenssyndromenews.com/news/microrna-therapeutic-target-sjogrens-study/",
+            "urlToImage": "https://sjogrenssyndromenews.com/wp-content/uploads/2022/05/MouseHand.png",
+            "publishedAt": "2025-04-14T15:47:13Z",
+            "content": "A naturally occurring molecule that has the ability to regulate gene activity may represent a promising therapeutic target for Sjögrens disease and other autoimmune conditions, according to a study.\r… [+3988 chars]"
         },
         {
             "source": {
@@ -108,19 +316,6 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Kristen Rogers",
-            "title": "Technology use may be associated with a lower risk for dementia, study finds - CNN",
-            "description": "Using technology may be linked with a lower risk of developing cognitive decline later in life, a new study has found.",
-            "url": "https://www.cnn.com/2025/04/14/health/technology-use-lowers-dementia-risk-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1254621518.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-04-14T15:00:00Z",
-            "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nWith the first generation of… [+6803 chars]"
-        },
-        {
-            "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
@@ -131,32 +326,6 @@
             "urlToImage": "https://images.wsj.net/im-72396836/social",
             "publishedAt": "2025-04-14T14:00:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boredpanda.com"
-            },
-            "author": "Greta Jaruševičiūtė",
-            "title": "88 Funny Memes For People Who Cope With Humor Because Therapy Is Expensive (New Pics) - Bored Panda",
-            "description": "Life comes with its fair share of turmoils.",
-            "url": "https://www.boredpanda.com/barely-functioning-relatable-funny-memes",
-            "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/04/barely-functioning-relatable-funny-memes-fb-67fd18c05ecd2.png",
-            "publishedAt": "2025-04-14T13:43:35Z",
-            "content": "Baird added that research distinguishes between adaptive and maladaptive humor.\r\nAdaptive humor can be self-enhancing—it helps you stay grounded in the chaos of life—and affiliative, meaning it bring… [+823 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newser"
-            },
-            "author": "Arden Dier",
-            "title": "Scientists Find 17 Risk Factors for Brain Disease - Newser",
-            "description": "Healthy adjustments to physical activity, diet, sleep, stress could make a real difference",
-            "url": "https://www.newser.com/story/367101/small-changes-could-lower-your-risk-of-brain-disease.html",
-            "urlToImage": "https://img2-azrcdn.newser.com/image/1604355-12-20250414085432.jpeg",
-            "publishedAt": "2025-04-14T13:35:00Z",
-            "content": "Looking for ways to keep the brain healthy in later life? A new study has identified 17 risk factors tied to three age-related brain diseases—all of which can be altered through behavioral changes. R… [+1721 chars]"
         },
         {
             "source": {
@@ -187,15 +356,15 @@
         {
             "source": {
                 "id": null,
-                "name": "OregonLive"
+                "name": "Parkinson's News Today"
             },
-            "author": "Dr. Keith Roach",
-            "title": "Dear Doctor: Are stand-alone screening centers a better option than doctor recommended tests? - OregonLive.com",
-            "description": "The main harm comes from false-positive ultrasounds.",
-            "url": "https://www.oregonlive.com/advice/2025/04/dear-doctor-are-stand-alone-screening-centers-a-better-option-than-doctor-recommended-tests.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/v2/XO2IEWUVDNDF7JODY2R2VK6RJE.jpeg?auth=33129d0a56609d03df508665cef6ef16b2c8c1cb2448b3e8876a307e73e85282&width=1280&quality=90",
-            "publishedAt": "2025-04-14T13:00:00Z",
-            "content": "DEAR DR. ROACH: I see screening tests advertised often. For $160 I can get screened for conditions that might cause stroke, heart disease, aneurysms, etc. My partner and I are in our early and mid-60… [+3522 chars]"
+            "author": "Andrea Lobo",
+            "title": "AAN 2025: Less off time, more good on time with long-term Onapgo - Parkinson's News Today",
+            "description": "Up to three years of treatment with Onapgo significantly reduced off time, when symptoms are not well controlled, in advanced Parkinson’s.",
+            "url": "https://parkinsonsnewstoday.com/?p=110252&preview=true&preview_id=110252",
+            "urlToImage": "https://parkinsonsnewstoday.com/wp-content/uploads/2025/04/AAN_Brains.png",
+            "publishedAt": "2025-04-14T12:56:36Z",
+            "content": "Treatment for up to three years with Onapgo (apomorphine hydrochloride) approved in the U.S. earlier this year as an add-on therapy for advanced Parkinsons disease significantly and sustainably reduc… [+5150 chars]"
         },
         {
             "source": {
@@ -226,19 +395,6 @@
         {
             "source": {
                 "id": null,
-                "name": "PsyPost"
-            },
-            "author": "Eric W. Dolan",
-            "title": "Childhood maltreatment linked to higher risk of rheumatoid arthritis and psoriasis, study finds - PsyPost",
-            "description": "Experiencing childhood abuse or neglect may raise the risk of developing rheumatoid arthritis and psoriasis later in life, according to a large study using UK healthcare data.",
-            "url": "https://www.psypost.org/childhood-maltreatment-linked-to-higher-risk-of-rheumatoid-arthritis-and-psoriasis-study-finds/",
-            "urlToImage": "https://www.psypost.org/wp-content/uploads/2025/04/sad-girl.jpg",
-            "publishedAt": "2025-04-14T12:16:07Z",
-            "content": "A new study published in Heliyon has found that people who experienced abuse, neglect, or domestic abuse during childhood have a significantly higher risk of developing certain chronic immune disorde… [+8725 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "NPR"
             },
             "author": "Gabrielle Emanuel",
@@ -248,19 +404,6 @@
             "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8448x4752+0+792/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2Fd3%2Fdfdc1f494e18b60736a0c0b4d5f1%2Fzambia-portraits-70x.jpg",
             "publishedAt": "2025-04-14T11:57:06Z",
             "content": "From the pulpit, Reverend Billiance Chondwe counts the empty seats.\r\n\"We are close to 300 [worshipers] but nowadays we are only less than 150. People are sick at home,\" says Chondwe or Pastor Billy a… [+21936 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WAND"
-            },
-            "author": "WAND Digital Team",
-            "title": "Always deadly Chronic wasting disease found in four more Illinois counties - wandtv.com",
-            "description": "(WAND) - Chronic wasting disease has been detected in four more Illinois counties. CWD was reported in Putnam, Marshall, Adams, and Peoria counties, expanding the geographic presence of the disease",
-            "url": "https://www.wandtv.com/news/always-deadly-chronic-wasting-disease-found-in-four-more-illinois-counties/article_3930fb81-fd94-44bb-a20d-0a933e043ddc.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/5/ce/5ce3aa8a-167e-11ea-b8ef-bf3105aa0fe1/5de78630cc30d.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2025-04-14T11:18:16Z",
-            "content": "(WAND) - Chronic wasting disease has been detected in four more Illinois counties. CWD was reported in Putnam, Marshall, Adams, and Peoria counties, expanding the geographic presence of the disease i… [+1805 chars]"
         },
         {
             "source": {
@@ -278,6 +421,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Irishstar.com"
+            },
+            "author": "Ben Hurst, Rudi Kinsella",
+            "title": "Oncology expert says eating one thing for breakfast can prevent cancer - Irish Star",
+            "description": "A recent study found that having a certain breakfast food every day can reduce the risk of developing lethal bowel cancer, which has seen a huge rise in younger people",
+            "url": "https://www.irishstar.com/culture/food-drink/bowel-cancer-reduce-food-help-35051768",
+            "urlToImage": "https://i2-prod.irishstar.com/incoming/article35051796.ece/ALTERNATES/s1200/0_GettyImages-1972743127.jpg",
+            "publishedAt": "2025-04-14T11:04:00Z",
+            "content": "A scientist has shed light on a simple breakfast choice that could significantly lower the risk of deadly bowel cancer. Justin Stebbing, Professor of Biomedical Sciences at Anglia Ruskin University, … [+4216 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "HuffPost"
             },
             "author": "Ashley Broadwater",
@@ -287,19 +443,6 @@
             "urlToImage": "https://img.huffingtonpost.com/asset/67cf337d14000025000be055.jpeg?ops=1200_630",
             "publishedAt": "2025-04-14T11:00:30Z",
             "content": "When Seeley Lutz, a 26-year-old from Alexandria, Virginia, feels overwhelmed either in a social situation or by all she has to get done she said she feels like her body starts to shut down.\r\nI often … [+8302 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Everettpost.com"
-            },
-            "author": "Mikayla Finnerty",
-            "title": "Snohomish County STI clinic treats thousands in first year - Everett Post",
-            "description": "The Snohomish County Health Department’s STI Clinic in Everett has delivered care to more than a thousand residents in its first year.",
-            "url": "https://www.everettpost.com/local-news/snohomish-county-sti-clinic-treats-thousands-in-first-year",
-            "urlToImage": "https://www.everettpost.com/wp-content/uploads/2025/04/GetAttachmentThumbnail.jpg",
-            "publishedAt": "2025-04-14T11:00:15Z",
-            "content": "EVERETT, APRIL 14: The Snohomish County Health Departments STI Clinic in Everett has delivered care to more than a thousand residents in its first year of operation.\r\nThe STI (sexually transmitted in… [+2064 chars]"
         },
         {
             "source": {
@@ -326,71 +469,6 @@
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/z22hzbaZVCmlhLSP54X.NQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/b935d6f51d1dd3bd577ddc49a7fa6b36",
             "publishedAt": "2025-04-14T10:45:01Z",
             "content": "Plastic pollution isn't just an ocean issue anymore it is a lot closer to home than you might think. A recent study revealed that the average human brain may contain the equivalent of a whopping five… [+3675 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PsyPost"
-            },
-            "author": "Eric W. Dolan",
-            "title": "Scientists link antidepressants to long-lasting genital numbness in young people - PsyPost",
-            "description": "Young antidepressant users may face enduring sexual side effects, according to a large study examining post-treatment genital sensitivity.",
-            "url": "https://www.psypost.org/scientists-link-antidepressants-to-long-lasting-genital-numbness-in-young-people/",
-            "urlToImage": "https://www.psypost.org/wp-content/uploads/2025/04/gloomy-depressed-man.jpg",
-            "publishedAt": "2025-04-14T10:08:39Z",
-            "content": "A new study has found that some young people report a persistent loss of genital sensitivity after stopping antidepressants. This symptomoften described as numbnesswas significantly more common in pe… [+6171 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eatingwell.com"
-            },
-            "author": "https://www.facebook.com/EatingWell/",
-            "title": "The Best Time of Day to Take Vitamin B12 for Maximum Absorption, According to Dietitians - EatingWell",
-            "description": "To unlock a supplement’s full potential, timing is as important as the supplement itself. Learn what dietitians say about the best timing for vitamin B12.",
-            "url": "https://www.eatingwell.com/best-time-to-take-vitamin-b12-11714247",
-            "urlToImage": "https://www.eatingwell.com/thmb/loSLjfRnINGnbPnNRQo4zeeooRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Time-of-Day-to-Take-Vitamin-B12-for-Maximum-Absorption-According-to-a-Dietitian-ef3a1ce8e309426d9e9ed8018b00aec5.jpg",
-            "publishedAt": "2025-04-14T10:00:00Z",
-            "content": "The red blood cells that course through your veins, the protective covering that surrounds your nerve fibers, and the genetic information that is tightly packed into your cells all rely on one key nu… [+6229 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Greekreporter.com"
-            },
-            "author": "guest",
-            "title": "Marriage Linked to Increased Risk of Dementia, New Study Finds - GreekReporter.com",
-            "description": "A new study led by researchers at Florida State University shockingly suggests that married people are more likely to develop dementia.",
-            "url": "https://greekreporter.com/2025/04/14/marriage-linked-increased-risk-dementia-new-study/",
-            "urlToImage": "https://greekreporter.com/wp-content/uploads/2024/11/greek-wedding-credit-julesrose-cc2-Flickr.jpg",
-            "publishedAt": "2025-04-14T09:15:01Z",
-            "content": "Credit: Julesrose, CC2/Flickr\r\nA new study led by researchers at Florida State University somewhat shockingly suggests that married people are more likely to develop dementia.\r\nBy Avinash Chandra\r\nWo… [+4118 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Sarah Boden",
-            "title": "Move over Paleo diet, it's Dinosaur Time, a TikTok trend all about devouring veggies - NPR",
-            "description": "On social media, people are gobbling up greens like they are giant primeval beasts. Nutritionists say it's not a bad way to get more fiber and micronutrients in.",
-            "url": "https://www.npr.org/2025/04/14/g-s1-59557/dinosaur-time-tiktok-greens-vegetables-diet",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4050x2278+0+244/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc5%2F35%2F751b73654fc09b9e08159c93ef8b%2Fnpr-greens-final-hi-4x5-crop.jpg",
-            "publishedAt": "2025-04-14T09:15:00Z",
-            "content": "Leafy greens like kale and spinach are full of fiber, vitamins and minerals, and nutritionists want to see us eating more of them to stave off chronic disease.\r\nBut turning this rabbit's food into a … [+5435 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Korin Miller",
-            "title": "A growing number of UTIs are resistant to antibiotics. Experts say it's the 'canary in the coal mine' for a bigger problem. - Yahoo",
-            "description": "Antibiotic resistance is a major threat to human health. But experts say there are steps people can take to reduce the risk.",
-            "url": "https://www.yahoo.com/lifestyle/a-growing-number-of-utis-are-resistant-to-antibiotics-experts-say-its-the-canary-in-the-coal-mine-for-a-bigger-problem-090010153.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bg41owKTNiN04NRHze0Y5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/d7108ad0-1583-11f0-bfff-67abf029a71f",
-            "publishedAt": "2025-04-14T09:00:10Z",
-            "content": "Mo Carrier has dealt with recurrent urinary tract infections, defined as having three or more UTIs per year or two infections within six months, since her early 20s. I ended up being put on antibioti… [+6020 chars]"
         },
         {
             "source": {
@@ -447,19 +525,6 @@
         {
             "source": {
                 "id": null,
-                "name": "KRDO"
-            },
-            "author": "Michael Logerwell",
-            "title": "CPW says multiple raccoons in Southern Colorado tested positive for deadly disease that can spread to your dog - KRDO",
-            "description": "MONTE VISTA, Colo. (KRDO) - Colorado Parks and Wildlife announces multiple raccoons have tested positive for canine distemper in recent weeks in Alamosa",
-            "url": "https://krdo.com/news/2025/04/13/cpw-says-multiple-raccoons-in-southern-colorado-tested-positive-for-deadly-disease-that-can-spread-to-your-dog/",
-            "urlToImage": "https://krdo.b-cdn.net/2025/04/canine-distemper-CPW.jpg",
-            "publishedAt": "2025-04-14T02:12:07Z",
-            "content": "MONTE VISTA, Colo. (KRDO) - Colorado Parks and Wildlife announces multiple raccoons have tested positive for canine distemper in recent weeks in Alamosa and Monte Vista.\r\nA raccoon carcass from Monte… [+1316 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "ScienceAlert"
             },
             "author": "Tessa Koumoundouros",
@@ -482,58 +547,6 @@
             "urlToImage": "https://scitechdaily.com/images/Kale-Kiwis-Blueberries-and-Strawberries.jpg",
             "publishedAt": "2025-04-13T22:45:43Z",
             "content": "Researchers from the University of Missouri have discovered that kaempferol, a natural antioxidant found in certain fruits and vegetables, such as kale, berries and endives, may support nerve cell he… [+3932 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Futurism"
-            },
-            "author": "Noor Al-Sibai",
-            "title": "Doctors Say They’ve Found a Way to Clean the Microplastics Out of Your Body - Futurism",
-            "description": "A high-end clinic is offering the ability to cleanse your body of microplastics — so long as you can shell out for it.",
-            "url": "https://futurism.com/neoscope/microplastic-blood-cleansing-clinic",
-            "urlToImage": "https://wordpress-assets.futurism.com/2025/04/microplastic-blood-cleansing-clinic.jpg",
-            "publishedAt": "2025-04-13T21:15:26Z",
-            "content": "Image byPeter Dazeley via Getty / Futurism\r\nA high-end medical practice is offering clients the purported service of scrubbing their blood of microplastics.\r\nIn an interview with Wired, Clarify Clini… [+2820 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Women's Health"
-            },
-            "author": "Korin Miller",
-            "title": "Walking At This Pace 'Significantly' Boosted Weight Loss In Women Over 50, Per Study - AOL.com",
-            "description": "A study published in 'Nutrients' showed that postmenopausal women burned more fat from slower walks than longer ones. Here's why, according to a trainer.",
-            "url": "https://www.womenshealthmag.com/fitness/a64466524/slow-walking-weight-loss-study-women/",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0g32SSXwTudeDDJlV3479w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_womens_health_917/971e26d0f22a950319bb64029b268e14",
-            "publishedAt": "2025-04-13T20:35:47Z",
-            "content": "How Slow Walks Can Boost Weight LossMorsa Images - Getty Images\r\n\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\nMany people assume that high-intensity… [+2880 chars]"
-        },
-        {
-            "source": {
-                "id": "medical-news-today",
-                "name": "Medical News Today"
-            },
-            "author": "Tim Newman",
-            "title": "Diabetes drugs like Ozempic or Jardiance may slash Alzheimer's risk - AOL.com",
-            "description": "Two common types of anti-diabetes medications — GLP-1 and SGLT2 drugs — could significantly reduce the risk of developing dementia in life, a large new study...",
-            "url": "https://www.medicalnewstoday.com/articles/diabetes-drugs-like-ozempic-or-jardiance-may-slash-alzheimers-risk/",
-            "urlToImage": "https://media.zenfs.com/en/aol_medicalnewstoday_320/b2a9f7ffcde56672537dbcedd6d6b34f",
-            "publishedAt": "2025-04-13T19:49:22Z",
-            "content": "Common antidiabetes drugs could help lower Alzheimers risk, increasing evidence suggests. Image credit: mbbirdy/Getty Images.This article originally appeared on Medical News Today\r\n<ul><li>A new stud… [+6815 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AOL"
-            },
-            "author": "Ani Freedman",
-            "title": "5 gut-healthy foods everyone should be eating, according to science - AOL.com",
-            "description": "Of the gut-healthy foods to choose from, here are science-backed options to help give your gut microbiome a health boost.",
-            "url": "https://www.aol.com/finance/5-gut-healthy-foods-everyone-095300924.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vpEGd.UiWwZNXTFtC_wt8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/9cd3ff13652860d7e54b967f5b11a26e",
-            "publishedAt": "2025-04-13T18:42:32Z",
-            "content": "Theres a lot of buzz about supporting your gut health, which impacts your mental well-being, colorectal cancer risk, and immunity. But knowing the importance of gut health is one thingknowing the bes… [+3846 chars]"
         },
         {
             "source": {
@@ -576,16 +589,16 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "Unilad.com"
             },
-            "author": "Laura Ungar, Michelle R. Smith, Devi Shastri",
-            "title": "Measles exploded in Texas after stagnant vaccine funding. New cuts threaten the same across the US - AP News",
-            "description": "The measles outbreak in West Texas didn’t happen just by chance. Health officials say the easily preventable disease has ripped through communities sprawling across more than 20 Texas counties in part because health departments were starved of the funding nee…",
-            "url": "https://apnews.com/article/measles-texas-vaccines-funding-cuts-5785985d6b74024b0502f6a2fc1576e2",
-            "urlToImage": "https://dims.apnews.com/dims4/default/486389e/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fef%2F2c%2Fbb189e3eac345c347df742f704f2%2Fae84a75b227d4174b5a4460a190295cb",
-            "publishedAt": "2025-04-13T16:44:00Z",
-            "content": "The measles outbreak in West Texas didnt happen just by chance.\r\nThe easily preventable disease, declared eliminated in the U.S. in 2000, ripped through communities sprawling across more than 20 Texa… [+12531 chars]"
+            "author": "Callum Jones",
+            "title": "Colon cancer surgeon reveals the two common products she's banned from her house because of link to disease - UNILAD",
+            "description": "A colon cancer surgeon has revealed  the two common bathroom products she's banned from her home because of a link to the disease.",
+            "url": "https://www.unilad.com/news/health/colon-cancer-surgeon-two-products-banned-304757-20250413",
+            "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/blt949ea8e16e463049/bltc96acd3ade34063e/67fbd9dcb9523958f6463316/colon-cancer-surgeon-two-products-banned-from-home-cancer-link.png",
+            "publishedAt": "2025-04-13T16:11:43Z",
+            "content": "A surgeon who specialises in colon cancer has detailed the two common bathroom products she's since banned from her house due to a link with the disease.\r\nIt's always good to know about the steps we … [+2235 chars]"
         },
         {
             "source": {
@@ -603,28 +616,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
+                "name": "Women's Health"
             },
-            "author": "Neuroscience News",
-            "title": "The Body Remembers: Trauma Leaves Lasting Biological Imprints - Neuroscience News",
-            "description": "Survivors of the 1995 Oklahoma City bombing continue to carry hidden biological imprints of trauma, even decades after the event and in the absence of visible mental health issues.",
-            "url": "https://neurosciencenews.com/body-trauma-inflammation-28620/",
-            "urlToImage": "https://neurosciencenews.com/files/2025/04/trauma-body-brain-neuroscience.jpg",
-            "publishedAt": "2025-04-13T12:57:03Z",
-            "content": "Summary: Survivors of the 1995 Oklahoma City bombing continue to carry hidden biological imprints of trauma, even decades after the event and in the absence of visible mental health issues. A new stu… [+7132 chars]"
+            "author": "Korin Miller",
+            "title": "How Much Do You Need To Walk To Offset The Harmful Effects Of Sitting? Experts Explain - Women's Health",
+            "description": "A study shows that taking a quick five minute walk for every 30 minutes sitting helps significantly lower blood sugar. Here's how to apply this in your routine.",
+            "url": "https://www.womenshealthmag.com/health/a64467191/walking-blood-sugar-sitting-offset-effects/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/walking-672e59183f5dd.jpg?crop=1.00xw:0.752xh;0,0.180xh&resize=1200:*",
+            "publishedAt": "2025-04-13T14:18:00Z",
+            "content": "Ever since the trendy 12-3-30\"hot girl walk\" workout blew up on social media a few years ago, walking workouts have been in the spotlight. Yet, while most people focus on the fact that this low-impac… [+5560 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Prevention.com"
+                "name": "The Bulwark"
             },
-            "author": "Kayla Blanton",
-            "title": "Scientists Say This Diet Slows Aging—But Is It Really Good for You? - Yahoo",
-            "description": "New research published in Nutrients found a very low-calorie keto diet to reverse biological or epigenetic age in people with obesity. Experts explain safety...",
-            "url": "https://www.prevention.com/food-nutrition/a64387268/low-calorie-keto-diet-slows-aging-study/",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZzxbLoFQOPANkeQzgJqBSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/hearst_prevention_66/0a224546b274225a0a16044da5fe82ab",
-            "publishedAt": "2025-04-13T12:30:00Z",
-            "content": "<ul><li>A new study linked a very low-calorie ketogenic diet to reversed biological aging in people with obesity. \r\n</li><li>People with obesity became six years younger, biologically.\r\n</li><li>Expe… [+5504 chars]"
+            "author": "Jonathan Cohn",
+            "title": "Don’t Be Fooled: RFK Jr. Is Still Talking Down Vaccines - The Bulwark",
+            "description": "It’s part of a much bigger blow to American health care that will reverberate for decades.",
+            "url": "https://www.thebulwark.com/p/dont-be-fooled-rfk-jr-kennedy-is-still-talking-down-vaccines-hhs-cuts-measles-cdc",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd298d746-2d84-4947-93bc-af640d3d8063_5797x3865.jpeg",
+            "publishedAt": "2025-04-13T12:31:08Z",
+            "content": "THREE PEOPLE HAVE DIED in Texas and more than five hundred have gotten sick in what is shaping up as the largest single measles outbreak in decades. And somehow Robert F. Kennedy Jr. still hasnt prov… [+8551 chars]"
         },
         {
             "source": {
@@ -642,32 +655,6 @@
         {
             "source": {
                 "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "Charlotte Phillipp",
-            "title": "As Little as 8 Alcoholic Drinks a Week Can Contribute to Dementia, Research Says - AOL.com",
-            "description": "Heavy drinkers are more likely to develop brain injuries that are associated with memory loss, according to a new study",
-            "url": "https://people.com/as-little-as-8-alcoholic-drinks-a-week-can-contribute-to-dementia-research-says-11712922",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iibNFfwBA2Lnvb_aA3rZiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_people_articles_471/799730fdd94849c01c2ba9485114a385",
-            "publishedAt": "2025-04-13T12:07:10Z",
-            "content": "Getty\r\n As Little as 8 Drinks a Week Can Contribute to Dementia\r\n<ul><li>A new study found that heavy drinkers are more likely to develop brain injuries that are associated with memory loss\r\n</li><li… [+4754 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Ashleigh Fields",
-            "title": "Cassidy praises Kennedy for promoting measles vaccination amid outbreak - The Hill",
-            "description": "Sen. Bill Cassidy (R-La.) applauded Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. for promoting measles vaccination amid a deadly outbreak in Texas.  Since the start of the spread, the U.S. has reported 700 cases of the measles virus in stat…",
-            "url": "https://thehill.com/homenews/senate/5246512-cassidy-praises-kennedy-for-promoting-measles-vaccination-amid-outbreak/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/cassidybill_kennedyjrrobert_013025gn01_w.jpg?w=1280",
-            "publishedAt": "2025-04-13T11:01:00Z",
-            "content": "Skip to content\r\nSen. Bill Cassidy (R-La.) applauded Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. for promoting measles vaccination amid a deadly outbreak in Texas. \r\nSince the sta… [+2194 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "HuffPost"
             },
             "author": "Caroline Bologna",
@@ -677,6 +664,19 @@
             "urlToImage": "https://img.huffingtonpost.com/asset/62ab8ea62100009c245eda9a.jpeg?ops=1200_630",
             "publishedAt": "2025-04-13T11:00:09Z",
             "content": "Our bodies produce all kinds of substances, and people have different tolerance levels for them. \r\nOne that can be really bothersome is earwax. But believe it or not, this substance actually serves a… [+8382 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurism"
+            },
+            "author": "Noor Al-Sibai",
+            "title": "Doctors Just Found Something Horrifying in the Brains of Heavy Alcohol Drinkers - Futurism",
+            "description": "Boozers beware: a new study has found links between heavy alcohol consumption, brain damage, and even earlier death.",
+            "url": "https://futurism.com/neoscope/heavy-drinking-brain-research",
+            "urlToImage": "https://wordpress-assets.futurism.com/2025/04/heavy-drinking-brain-research.jpg",
+            "publishedAt": "2025-04-13T10:45:06Z",
+            "content": "Boozers beware: a new study has found links between heavy alcohol consumption, brain damage, and earlier death.\r\nAs the American Academy of Neurology notes, Brazilian researchers established in a new… [+3371 chars]"
         },
         {
             "source": {
@@ -706,6 +706,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Earth.com"
+            },
+            "author": null,
+            "title": "Eating this fruit every day can add years to your life - Earth.com",
+            "description": "Scientists have discovered a fascinating connection between eating one avocado every day and an overall enhanced diet quality.",
+            "url": "https://www.earth.com/news/eating-one-piece-of-this-fruit-avocado-each-day-can-add-years-to-your-life/",
+            "urlToImage": "https://cff2.earth.com/uploads/2024/03/11174909/eating-avocados-every-day_years-to-life_1m.jpg",
+            "publishedAt": "2025-04-13T07:00:00Z",
+            "content": "Avocados are having a moment, especially in the U.S. These luscious, green fruits appear in sandwiches, salads, and various social media feeds. \r\nPart of their appeal comes from their smooth flavor, … [+5977 chars]"
+        },
+        {
+            "source": {
                 "id": "medical-news-today",
                 "name": "Medical News Today"
             },
@@ -716,32 +729,6 @@
             "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/04/Diet-exercise-Stocksy_txp9ac74dacXs6400_Medium_5779949-Facebook.jpg",
             "publishedAt": "2025-04-13T06:31:19Z",
             "content": "<ul><li>Researchers in the United Kingdom followed a group of older adults to assess how lifestyle habits influenced health factors such as bone fractures and cardiovascular disease mortality. </li><… [+6142 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "The Conversation",
-            "title": "Bird Flu Is Evolving Dangerously, But We Can Prevent a Disaster - ScienceAlert",
-            "description": "Disease forecasts are like weather forecasts: We cannot predict the finer details of a particular outbreak or a particular storm, but we can often identify when these threats are emerging and prepare accordingly.",
-            "url": "https://www.sciencealert.com/bird-flu-is-evolving-dangerously-but-we-can-prevent-a-disaster",
-            "urlToImage": "https://www.sciencealert.com/images/2025/04/TruckCrammedWitchChickens.jpg",
-            "publishedAt": "2025-04-13T02:01:17Z",
-            "content": "Disease forecasts are like weather forecasts: We cannot predict the finer details of a particular outbreak or a particular storm, but we can often identify when these threats are emerging and prepare… [+6443 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Obesity in India: How 'pot belly' went from status symbol to silent killer - BBC",
-            "description": "India’s obesity crisis is surging - and the humble pot belly may be a bigger villain than it seems.",
-            "url": "https://www.bbc.com/news/articles/czjnd4rzmglo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/50ed/live/6db0de70-1437-11f0-ac9f-c37d6fd89579.jpg",
-            "publishedAt": "2025-04-13T00:36:47Z",
-            "content": "The Indian pot belly - once a badge of prosperity, indulgence and aging respectability - has long been a target of satire and social commentary.\r\nIn literature, it quietly signalled comfort or compla… [+6163 chars]"
         }
     ]
 }

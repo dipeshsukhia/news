@@ -1,7 +1,46 @@
 {
     "status": "ok",
-    "totalResults": 40,
+    "totalResults": 42,
     "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Brian Schwartz, Paul Vieira, Heard Editors, Katy Barnato, WSJ Staff, Sam Goldfarb, Robb M. Stewart, Jennifer Hiller, Chao Deng, Suzanne Kapner, Gina Heeb, Danny Dougherty, Richard Rubin, Gunjan Banerji, Nick Timiraos, Sherry Qin, Olivia Beavers",
+            "title": "Stock Market News, May 22, 2025: Bond Market Shows Signs of Stabilizing; Nasdaq Rises - WSJ",
+            "description": "House passes President Trump's bill after last-minute changes; bitcoin rallies",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-tariffs-trade-war-05-22-2025",
+            "urlToImage": "https://images.wsj.net/im-34062673/social",
+            "publishedAt": "2025-05-23T01:18:00Z",
+            "content": "The bond market showed signs of stabilizing Thursday after the House passed President Trumps sprawling tax-and-spending package. Major stock indexes were mixed, while bitcoin prices reached a new rec… [+2351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lee Ying Shan",
+            "title": "Asia-Pacific markets mostly climb as investors assess slew of economic data - CNBC",
+            "description": "Investors are parsing South Korea's PPI figures for April, and New Zealand's retail sales for the first quarter of the year.",
+            "url": "https://www.cnbc.com/2025/05/23/asia-pacific-markets-live-japan-cpi-singapore-cpi-south-korea-ppi.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108016578-1722906144807-gettyimages-2154579417-JAPAN_GINZA.jpeg?v=1726011549&w=1920&h=1080",
+            "publishedAt": "2025-05-23T00:24:00Z",
+            "content": "Asia-Pacific markets mostly climbed Friday as investors assess a slew of economic data from the region.\r\nJapan's benchmark Nikkei 225 rose 1.04% and the Topix climbed 0.89%. South Korea's Kospi rose … [+1788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STAT"
+            },
+            "author": "Helen Branswell",
+            "title": "FDA gives Covid vaccine manufacturers instructions for next fall’s shot - statnews.com",
+            "description": "The notice came shortly after an advisory panel meeting at which members debated the pros and cons of asking manufacturers to update their vaccines.",
+            "url": "https://www.statnews.com/2025/05/22/fda-gives-covid-vaccine-manufacturers-instructions-for-next-falls-shot/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/05/AP21216652414341-1024x576.jpg",
+            "publishedAt": "2025-05-23T00:22:30Z",
+            "content": "This article has been updated.\r\nThe Food and Drug Administration gave Covid vaccine manufacturers instructions on what next falls Covid vaccines should target on Thursday, signaling it would prefer t… [+7357 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -18,15 +57,54 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "HuffPost"
             },
-            "author": "Brian Evans",
-            "title": "Stock futures are little changed as elevated Treasury yields weigh on sentiment: Live updates - CNBC",
-            "description": "The S&P 500 closed near the flatline on Thursday, while the Dow Jones Industrial Average and Nasdaq Composite finished the session marginally lower.",
-            "url": "https://www.cnbc.com/2025/05/22/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108115694-1741889525163-NYSE_Traders-OB-Photo-20250313-CC-PRESS-11.jpg?v=1741889620&w=1920&h=1080",
-            "publishedAt": "2025-05-22T23:41:00Z",
-            "content": "Stock futures were little changed on Thursday night, as investors continue to evaluate the effect of higher U.S. Treasury yields on the economy.\r\nFutures tied to the Dow Jones Industrial Average adde… [+1921 chars]"
+            "author": "Jillian Wilson",
+            "title": "Trump's FDA Has Axed COVID Boosters For Most People — And Medical Experts Are Deeply Worried - HuffPost",
+            "description": "The vaccine eligibility change is a threat to the health of Americans, some experts say, adding that the FDA is not being forthcoming about its research.",
+            "url": "https://www.huffpost.com/entry/covid-shot-recommendation-changes-medical-experts-concerns_l_682e1bfde4b0c2f07d8c81cb",
+            "urlToImage": "https://img.huffingtonpost.com/asset/682e27bb1800002b0037b528.jpeg?ops=1200_630",
+            "publishedAt": "2025-05-22T22:37:00Z",
+            "content": "There are big eligibility changes coming for COVID-19 vaccines this fall.\r\nRead our liveblog for the latest on Donald Trump and Robert F. Kennedys war on health care in the U.S.\r\nMajor changes are co… [+10941 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Krebs on Security"
+            },
+            "author": null,
+            "title": "Oops: DanaBot Malware Devs Infected Their Own PCs - Krebs on Security",
+            "description": "The U.S. government today unsealed criminal charges against 16 individuals accused of operating and selling DanaBot, a prolific strain of information-stealing malware that has been sold on Russian cybercrime forums since 2018. The FBI says a newer version of …",
+            "url": "https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/",
+            "urlToImage": "https://krebsonsecurity.com/wp-content/uploads/2025/05/danabot.png",
+            "publishedAt": "2025-05-22T22:05:24Z",
+            "content": "The U.S. government today unsealed criminal charges against 16 individuals accused of operating and selling DanaBot, a prolific strain of information-stealing malware that has been sold on Russian cy… [+4866 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Marina Temkin",
+            "title": "Hinge Health pops 17%, but joins growing ranks of down-round IPOs - TechCrunch",
+            "description": "Hinge Health, a digital physical therapy company, closed its first day of trading on the New York Stock Exchange on Thursday at $37.56, up about 17% over",
+            "url": "https://techcrunch.com/2025/05/22/hinge-health-pops-17-but-joins-growing-ranks-of-down-round-ipos/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/hinge.jpg?resize=1200,960",
+            "publishedAt": "2025-05-22T21:58:33Z",
+            "content": "Hinge Health, a digital physical therapy company, closed its first day of trading on the New York Stock Exchange on Thursday at $37.56, up about 17% over the $32 IPO price it set the previous day.\r\nT… [+2483 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MyNorthwest.com"
+            },
+            "author": "Jonah Oaklief",
+            "title": "Microsoft engineer fired following anti-Israel outburst at developer conference - MyNorthwest.com",
+            "description": "Microsoft faces backlash as an engineer is fired amid protests, raising concerns among employees and activists.",
+            "url": "https://mynorthwest.com/local/microsoft-engineer/4091095",
+            "urlToImage": "https://cdn.mynorthwest.com/mynw/wp-content/uploads/2024/10/Untitled-Design-2024-10-25T080559.976.jpg",
+            "publishedAt": "2025-05-22T21:50:20Z",
+            "content": "Microsoft fired a staff member accused of interrupting a speech by the company’s CEO.\r\nOn Monday, now former Microsoft engineer Joe Lopez interrupted CEO Satya Nadella’s opening keynote at the compan… [+2645 chars]"
         },
         {
             "source": {
@@ -43,6 +121,19 @@
         },
         {
             "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "Deckers Outlook Misses Expectations as Tariffs, Slowing Hoka Sales Apply Pressure - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/business/earnings/deckers-outlook-misses-expectations-as-tariffs-slowing-hoka-sales-apply-pressure-af2cc187",
+            "urlToImage": null,
+            "publishedAt": "2025-05-22T21:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "techcrunch",
                 "name": "TechCrunch"
             },
@@ -53,32 +144,6 @@
             "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
             "publishedAt": "2025-05-22T21:34:21Z",
             "content": "Hours after Sam Altman and Jony Ive announced on Wednesday that OpenAI was buying Ives company, io, in an all-stock transaction valued at $6.5 billion, Klarna CEO Sebastian Siemiatkowski posted a sur… [+1988 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Matthew Daly, Alexa St. John, Matthew Brown",
-            "title": "Tax bill passed by House Republicans would gut Biden-era clean energy tax credits - AP News",
-            "description": "The budget reconciliation bill passed by House Republicans early Thursday would gut clean energy tax credits that Democrats approved three years ago. It also boosts support for mining, drilling and traditional energy production. The bill, which now heads to t…",
-            "url": "https://apnews.com/article/congress-clean-energy-reconciliation-tax-credits-trump-c66009b4ac41a37517429bc08df26251",
-            "urlToImage": "https://dims.apnews.com/dims4/default/8059b22/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F26%2Fc8%2Fd949d865270927492994e9f55176%2Fa8acea14b83241268bfd91cc957b4309",
-            "publishedAt": "2025-05-22T21:29:00Z",
-            "content": "WASHINGTON (AP) The multitrillion-dollar tax breaks package passed by House Republicans early Thursday would gut clean energy tax credits that Democrats approved three years ago while supporting incr… [+7345 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "Vaccine advisers to the FDA recommended changes to COVID vaccines - NPR",
-            "description": "Advisers to the Food and Drug Administration met Thursday to help decide which variant of the virus that causes COVID should be targeted by updated versions of the vaccines.",
-            "url": "https://www.npr.org/sections/shots-health-news/2025/05/22/nx-s1-5403609/covid-booster-change-fda",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2F02%2Fbd6e95bb42499bcbcc8c106c8f71%2Fgettyimages-1227710639.jpg",
-            "publishedAt": "2025-05-22T20:49:24Z",
-            "content": "The companies that make COVID-19 vaccines should update the shots again to target a variant closer to the strains currently on the rise, a committee of independent advisers to the Food and Drug Admin… [+3866 chars]"
         },
         {
             "source": {
@@ -108,16 +173,16 @@
         },
         {
             "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
+                "id": null,
+                "name": "MarketWatch"
             },
-            "author": "Kyle Wiggers",
-            "title": "Anthropic’s latest flagship AI sure seems to love using the ‘cyclone’ emoji - TechCrunch",
-            "description": "Anthropic's new AI model, Claude Opus 4, is a strong programmer and writer, the company claims. When talking to itself, it's also a prolific emoji user.",
-            "url": "https://techcrunch.com/2025/05/22/anthropics-latest-flagship-ai-sure-seems-to-love-using-the-cyclone-emoji/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/tc-databricks-anthropic-1600x900-copy.png?w=688",
-            "publishedAt": "2025-05-22T20:12:15Z",
-            "content": "Anthropic’s new flagship AI model, Claude Opus 4, is a strong programmer and writer, the company claims. When talking to itself, it’s also a prolific emoji user.\r\nThat’s according to a technical repo… [+1131 chars]"
+            "author": "Joseph Adinolfi",
+            "title": "This chart shows why investors should be worried about the latest bond-market selloff - MarketWatch",
+            "description": "Yields have climbed while growth expectations have tumbled",
+            "url": "https://www.marketwatch.com/story/this-chart-shows-why-investors-should-be-worried-about-the-latest-bond-market-selloff-115b473b",
+            "urlToImage": "https://images.mktw.net/im-89176818/social",
+            "publishedAt": "2025-05-22T19:15:00Z",
+            "content": "In the past, when bonds sold off, it typically was seen as a promising sign for stocks.\r\nIt meant that traders were betting on a stronger economy. But not this time."
         },
         {
             "source": {
@@ -134,16 +199,16 @@
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "Tipranks.com"
             },
-            "author": "WSJ",
-            "title": "Hinge Health Gains in Market Debut - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/finance/stocks/hinge-health-gains-in-market-debut-providing-a-favorable-sign-for-ipos-065304f0",
-            "urlToImage": null,
-            "publishedAt": "2025-05-22T18:42:00Z",
-            "content": null
+            "author": "Gabe Ross",
+            "title": "‘Load Up on the Dip,’ Says Top Investor About UnitedHealth Stock - TipRanks",
+            "description": "How can we put it gently? It’s been a very bad month for UnitedHealth (NYSE:UNH) investors. The company has lost nearly half its value since mid-April, following a ...",
+            "url": "https://www.tipranks.com/news/load-up-on-the-dip-says-top-investor-about-unitedhealth-stock",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/05/UNH-0522-750x406.jpg",
+            "publishedAt": "2025-05-22T18:55:13Z",
+            "content": ""
         },
         {
             "source": {
@@ -212,6 +277,19 @@
         },
         {
             "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "Did Google lie about building a deadly chatbot? Judge finds it plausible. - Ars Technica",
+            "description": "Grieving mom fights to prove Google secretly profited from controversial chatbot.",
+            "url": "https://arstechnica.com/tech-policy/2025/05/did-google-lie-about-building-a-deadly-chatbot-judge-finds-it-plausible/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/Megan-Garcia-Sewell-Setzer-scaled-1152x648-1742485971.jpg",
+            "publishedAt": "2025-05-22T18:04:22Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gsk.com"
             },
@@ -238,16 +316,55 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "New York Post"
             },
-            "author": null,
-            "title": "Microsoft fires employee who interrupted CEO’s speech to protest AI tech for Israeli military - AP News",
-            "description": "Microsoft has fired an employee who interrupted a speech by CEO Satya Nadella to protest the company’s work supplying the Israeli military with technology used for the war in Gaza. Software engineer Joe Lopez could be heard shouting at Nadella in the opening …",
-            "url": "https://apnews.com/article/microsoft-build-israel-gaza-protest-worker-fired-a395ac137b74002886b2ad727b5ae5c2",
-            "urlToImage": "https://dims.apnews.com/dims4/default/876206b/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F83%2F07%2F21e0773b1d8e57baf2ab61587444%2F38462ecd7d084a168d55122603dea4fb",
-            "publishedAt": "2025-05-22T16:30:00Z",
-            "content": "SEATTLE (AP) Microsoft has fired an employee who interrupted a speech by CEO Satya Nadella to protest the companys work supplying the Israeli military with technology used for the war in Gaza.\r\nSoftw… [+1443 chars]"
+            "author": "James Franey",
+            "title": "Jamie Dimon warns of deficit, trade risks to US economy - New York Post",
+            "description": "“I am not saying it is going to happen, but we have to be prepared for something like that,” Dimon said while attending a JPMorgan summit in China.",
+            "url": "https://nypost.com/2025/05/22/business/jamie-dimon-sounds-alarm-on-risk-of-stagflation-as-trumps-big-beautiful-bill-passes-house/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/jamie-dimon-chief-executive-officer-104175194.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-05-22T17:31:00Z",
+            "content": "JPMorgan boss Jamie Dimon on Thursday said the US economy continues to face the risk of stagflation due to ballooning deficits, geopolitical tensions and price pressures from President Trump’s trade … [+4197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": "Jamie Smyth, Martha Muir, George Steer",
+            "title": "Clean energy stocks tumble as Donald Trump’s tax bill slashes subsidies - Financial Times",
+            "description": "Analysts warn legislation represents ‘sledgehammer strikes’ to green power industry in the US",
+            "url": "https://www.ft.com/content/dbac8cbc-72eb-4ac7-9bba-e4b82aa35516",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc4e56c69-1f50-41ee-a3ef-18046db1fee8.jpg?source=next-barrier-page",
+            "publishedAt": "2025-05-22T17:23:51Z",
+            "content": "White House Watch newsletter\r\nSign up for your free, indispensable guide to what Trumps second term means for Washington, business and the world."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Michael Nuñez",
+            "title": "Anthropic overtakes OpenAI: Claude Opus 4 codes seven hours nonstop, sets record SWE-Bench score and reshapes enterprise AI - VentureBeat",
+            "description": "Anthropic's Claude Opus 4 outperforms OpenAI's GPT-4.1 with unprecedented seven-hour autonomous coding sessions and record-breaking 72.5% SWE-bench score, transforming AI from quick-response tool to day-long collaborator.",
+            "url": "https://venturebeat.com/ai/anthropic-claude-opus-4-can-code-for-7-hours-straight-and-its-about-to-change-how-we-work-with-ai/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_a_modern_computer_with_computer_code_on_50902dd1-2dee-4268-bf6f-2c0cd89cd43c.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-05-22T16:45:00Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nAnthropic released Claude Opus 4 and Claude Sonnet 4 today, dramaticall… [+8209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "This Semiconductor Stock Skyrockets 125%. It’s Collaborating With Nvidia. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/navitas-stock-nvidia-b33177c2",
+            "urlToImage": null,
+            "publishedAt": "2025-05-22T16:24:00Z",
+            "content": null
         },
         {
             "source": {
@@ -316,32 +433,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "TheStreet",
-            "title": "Home Depot struggles to reverse concerning customer behavior - TheStreet",
-            "description": null,
-            "url": "https://www.thestreet.com/retail/home-depot-struggles-to-reverse-concerning-customer-behavior",
-            "urlToImage": null,
-            "publishedAt": "2025-05-22T13:33:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Annika Kim Constantino, Ashley Capoot",
-            "title": "How UnitedHealthcare became the face of America's health insurance frustrations - CNBC",
-            "description": "Experts say it's no surprise that UnitedHealthcare often ends up in the crosshairs of public and political scrutiny, as it's the nation's largest insurer.",
-            "url": "https://www.cnbc.com/2025/05/22/unitedhealth-news-backlash-stock-price.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071425-1733340397334-gettyimages-2187619590-s1029589.jpeg?v=1747247452&w=1920&h=1080",
-            "publishedAt": "2025-05-22T13:26:05Z",
-            "content": "Flags fly at half staff outside the United Healthcare corporate headquarters in Minnetonka, Minnesota, Dec. 4, 2024.\r\nIt took six months, countless hours on hold and intervention from state regulator… [+23144 chars]"
-        },
-        {
-            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
@@ -356,19 +447,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Sherwood.news"
-            },
-            "author": "Luke Kawa",
-            "title": "A tiny semiconductor company is more than doubling after becoming an Nvidia supplier - Sherwood News",
-            "description": "The seal of approval is sending shares of Navitas Semiconductor soaring.",
-            "url": "https://sherwood.news/markets/a-tiny-semiconductor-company-is-more-than-doubling-after-becoming-an-nvidia/",
-            "urlToImage": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2183675461_a-model-of-a-processed-200-mm-silicon-carbide-sic-power-wafer-is-seen-ahead-of-the-annual.jpg?auto=compress%2Cformat&cs=srgb",
-            "publishedAt": "2025-05-22T12:13:44Z",
-            "content": "A tiny semiconductor company with fewer than 300 employees is mooning after receiving the biggest blessing any firm in the industry could dream of: earning a place in Nvidias supply chain.\r\nWe are pr… [+1961 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "TheStreet"
             },
             "author": "Jena Warburton",
@@ -378,19 +456,6 @@
             "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA3MTA3ODUxMjUwODM2NjY3/the-entrance-to-a-walmart-shopping-plaza-lead.jpg",
             "publishedAt": "2025-05-22T12:07:00Z",
             "content": "It may seem like smaller retailers are facing the greatest challenges right now. \r\nTo be sure, many local or mom-and-pop shops are encountering a lot of pressure. \r\nBut some of the largest retailers … [+3293 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "William Wilkes",
-            "title": "BYD Beats Tesla in Europe for First Time With 169% Sales Surge - Bloomberg.com",
-            "description": "BYD Co. sold more electric vehicles in Europe than Tesla Inc. for the first time, overtaking the American brand that long led the continent’s EV segment.",
-            "url": "https://www.bloomberg.com/news/articles/2025-05-22/byd-beats-tesla-in-europe-for-first-time-with-169-sales-surge",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iItVQuFAOlrM/v3/1200x800.jpg",
-            "publishedAt": "2025-05-22T12:00:55Z",
-            "content": "BYD Co. sold more electric vehicles in Europe than Tesla Inc. for the first time, overtaking the American brand that long led the continents EV segment.\r\nChinas top automaker registered 7,231 new bat… [+225 chars]"
         },
         {
             "source": {
@@ -408,28 +473,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Morningstar.com"
+                "name": "Daily Beast"
             },
-            "author": "Paul Olmsted",
-            "title": "Investors Should Embrace Elevated Bond Yields - Morningstar",
-            "description": "Fixed-income yields are at their highest levels in nearly two decades.",
-            "url": "https://www.morningstar.com/funds/investors-should-embrace-elevated-bond-yields",
-            "urlToImage": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/KzZhHr4xTmtpL3flWtnfMvEJFH4=/2400x1350/cloudfront-us-east-1.images.arcpublishing.com/morningstar/AXNWXBNM7ZAHBHJVKD7RMBDNXE.png",
-            "publishedAt": "2025-05-22T11:03:36Z",
-            "content": "Long-term Treasury yields are near their highest levels since before 2008s global financial crisis. While rising yields cause bond prices to fall, as they did in 2022, fixed-income investors can take… [+4285 chars]"
+            "author": "Janna Brancolini",
+            "title": "Tesla Loses a Major Record for the First Time Amid Musk Backlash - The Daily Beast",
+            "description": "The automaker has been overtaken by a key rival in a huge market.",
+            "url": "https://www.thedailybeast.com/tesla-loses-a-major-record-for-the-first-time-amid-musk-backlash/",
+            "urlToImage": "https://www.thedailybeast.com/resizer/v2/PIMSG3C3PNHRTKI754JQ7PX5JU.jpg?smart=true&auth=53136cc8246aabc4d50923c4759aa8dd4665983d7c326eb9ea8e705be712b1ad&width=1200&height=630",
+            "publishedAt": "2025-05-22T11:04:00Z",
+            "content": "Tesla cars were outsold by a rival electric-vehicle manufacturer in Europe for the first time. The Chinese company BYD sold 7,231 fully electric cars in April compared to Teslas 7,165, according to t… [+683 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "politico",
+                "name": "Politico"
             },
-            "author": "Anna Cooban",
-            "title": "Jamie Dimon warns that stagflation, an economic nightmare scenario, is still a risk - CNN",
-            "description": "JPMorgan Chase CEO Jamie Dimon isn’t ruling out stagflation in the United States, citing risks posed by large government budget deficits, including in America, and the disruption to global trade induced by US tariffs.",
-            "url": "https://www.cnn.com/2025/05/22/economy/jamie-dimon-stagflation-intl",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2215730654.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-05-22T10:49:00Z",
-            "content": "JPMorgan Chase CEO Jamie Dimon isnt ruling out stagflation in the United States, citing risks posed by large government budget deficits, including in America, and the disruption to global trade induc… [+2446 chars]"
+            "author": "Liz Crampton, Andrew Howard, Holly Otterbein",
+            "title": "Musk’s decision to limit political spending leaves some Republicans cold - Politico",
+            "description": "Whether or not he actually stops contributing is still an open question.",
+            "url": "https://www.politico.com/news/2025/05/22/musk-campaign-spending-republicans-00364360",
+            "urlToImage": "https://static.politico.com/b6/53/b0fa31bb4274a32abe8a1f728341/trump-100-days-37347.jpg",
+            "publishedAt": "2025-05-22T09:01:00Z",
+            "content": "That was suddenly put in doubt Tuesday, when the Tesla CEO told an interviewer that hes backing away from political spending after shelling out hundreds of millions of dollars to help Donald Trump wi… [+4110 chars]"
         },
         {
             "source": {
@@ -443,45 +508,6 @@
             "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4549x2559+0+152/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1a%2F2d%2Ff545a77d4a25b95f7e633f1f16c9%2Fgettyimages-2213276640.jpg",
             "publishedAt": "2025-05-22T09:00:00Z",
             "content": "There had been warning signs before radar and communications systems went dark\r\n at the facility that manages the airspace around Newark Liberty International Airport, according to an air traffic con… [+8438 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Tom Carter",
-            "title": "Former Elon Musk employees tell BI what he brings to the table as a leader — and whether that's what Tesla needs right now - Business Insider",
-            "description": "DOGE's federal government cost-cutting made Tesla a target for protests and vandalism — but now Musk is focusing his attention back on the EV maker.",
-            "url": "https://www.businessinsider.com/elon-musk-stepping-back-doge-tesla-ceo-ev-2025-5",
-            "urlToImage": "https://i.insider.com/682e114168a292900801f05a?width=1200&format=jpeg",
-            "publishedAt": "2025-05-22T08:30:00Z",
-            "content": "Elon Musk is turning his attention back to Tesla and apparently for the long haul. The question is whether Musk's rededication to Tesla is what the electric-car maker needs right now.\r\nThe billionair… [+5956 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Kate Payne",
-            "title": "In lawsuit over teen's death, judge rejects arguments that AI chatbots have free speech rights - AP News",
-            "description": "A federal judge in Florida has rejected arguments made by an artificial intelligence company that its chatbots are protected by the First Amendment — at least for now. The developers behind Character.AI have been seeking to dismiss the case, which alleges tha…",
-            "url": "https://apnews.com/article/ai-lawsuit-suicide-artificial-intelligence-free-speech-ccc77a5ff5a84bda753d2b044c83d4b6",
-            "urlToImage": "https://dims.apnews.com/dims4/default/adae64a/2147483647/strip/true/crop/1735x976+0+90/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F85%2F94%2Fdf64291da8307e60a9a8905e588d%2Ffa2493533338422c97108a2e4137bd54",
-            "publishedAt": "2025-05-21T21:50:00Z",
-            "content": "TALLAHASSEE, Fla. (AP) A federal judge on Wednesday rejected arguments made by an artificial intelligence company that its chatbots are protected by the First Amendment at least for now. The develope… [+3961 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Conversation Africa"
-            },
-            "author": "Libby Richards",
-            "title": "FDA will approve COVID-19 vaccine only for older adults and high-risk groups – a public health expert explains the new rules - The Conversation",
-            "description": "The FDA’s new framework for COVID-19 vaccines breaks from established procedure for how the government establishes vaccine guidelines.",
-            "url": "https://theconversation.com/fda-will-approve-covid-19-vaccine-only-for-older-adults-and-high-risk-groups-a-public-health-expert-explains-the-new-rules-257226",
-            "urlToImage": "https://images.theconversation.com/files/669508/original/file-20250521-62-ocejf0.jpg?ixlib=rb-4.1.0&rect=0%2C546%2C6544%2C3272&q=45&auto=format&w=1356&h=668&fit=crop",
-            "publishedAt": "2025-05-21T21:26:43Z",
-            "content": "On May 20, 2025, the Food and Drug Administration announced a new stance on who should receive the COVID-19 vaccine.\r\nThe agency said it would approve new versions of the vaccine only for adults 65 y… [+7458 chars]"
         },
         {
             "source": {

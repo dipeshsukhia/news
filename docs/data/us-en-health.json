@@ -1,7 +1,85 @@
 {
     "status": "ok",
-    "totalResults": 27,
+    "totalResults": 39,
     "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "RFK Jr. defends $500M cut for mRNA vaccines with pseudoscience gobbledygook - Ars Technica",
+            "description": "He clearly has no idea what antigenic shift means.",
+            "url": "https://arstechnica.com/health/2025/08/rfk-jr-defends-500m-cut-for-mrna-vaccines-with-pseudoscience-gobbledygook/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-1152x648.jpg",
+            "publishedAt": "2025-08-07T11:15:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Anahad O’Connor",
+            "title": "What the science says about melatonin, magnesium and other sleep supplements - The Washington Post",
+            "description": "No supplement is going to dramatically improve your sleep, but some may offer modest benefits with minimal side effects.",
+            "url": "https://www.washingtonpost.com/wellness/2025/08/07/supplements-sleep-melatonin-magnesium/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QA3Y4HED4XG4NWGHOQ6YZ7HS4E_size-normalized.jpg&w=1440",
+            "publishedAt": "2025-08-07T10:32:10Z",
+            "content": "Do you struggle to fall asleep at night, or find yourself routinely waking up at 3 a.m.?\r\nMany people experience bouts of insomnia at some point in their lives, often due to anxiety. When these sleep… [+10824 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "https://gothamist.com/staff/caroline-lewis",
+            "title": "Legionnaires' disease hits Central Harlem. Here's what to know about the outbreak. - Gothamist",
+            "description": "New Yorkers with flu-like symptoms are urged to seek medical attention.",
+            "url": "https://gothamist.com/news/legionnaires-disease-hits-central-harlem-heres-what-to-know-about-the-outbreak",
+            "urlToImage": "https://api-prod.gothamist.com/images/352710/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2025-08-07T10:31:00Z",
+            "content": "The latest outbreak of Legionnaires disease in Central Harlem has killed three people so far and sickened at least 73 others, as of 5 p.m. Wednesday, according to the New York City Health Department.… [+5610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Study finds eating fries weekly raises type 2 diabetes risk - BBC",
+            "description": "Researchers say there is less of a risk for those who eat baked, boiled or mashed potatoes instead.",
+            "url": "https://www.bbc.com/news/articles/cn85veyg073o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2e30/live/ff791180-72ef-11f0-9eb3-2b71669c0257.jpg",
+            "publishedAt": "2025-08-07T06:07:28Z",
+            "content": "A new study has found that eating three or more servings of French fries a week could increase the risk of developing type 2 diabetes.\r\nAn international team of researchers, including an expert from … [+1719 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Associated Press",
+            "title": "China fights mosquito-borne chikungunya virus with drones, fines and nets - Politico",
+            "description": "Thousands have fallen ill.",
+            "url": "https://www.politico.com/news/2025/08/06/china-fights-mosquito-borne-chikungunya-virus-with-drones-fines-and-nets-00497010",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F24%2Fcf%2Fe18d9730401b880a99de8470a572%2Fchina-chikungunya-25942.jpg",
+            "publishedAt": "2025-08-07T03:43:41Z",
+            "content": "What makes this event notable is that chikungunya has never been established in mainland China before, Lopez-Camacho said in a statement. This suggests that most of the population had no preexisting … [+1651 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dalia Faheid",
+            "title": "Los Angeles wildfires may be linked to 440 deaths, new research estimates - CNN",
+            "description": "The wildfires that ravaged Los Angeles earlier this year — burning entire neighborhoods to the ground, straining firefighting resources and forcing tens of thousands of people to flee their homes — may have led to hundreds more deaths than were recorded, a ne…",
+            "url": "https://www.cnn.com/2025/08/06/us/los-angeles-wildfires-440-excess-deaths-study",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2192316305.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-08-07T03:39:00Z",
+            "content": "The wildfires that ravaged Los Angeles earlier this year burning entire neighborhoods to the ground, straining firefighting resources and forcing tens of thousands of people to flee their homes may h… [+3470 chars]"
+        },
         {
             "source": {
                 "id": "buzzfeed",
@@ -17,16 +95,16 @@
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": null,
+                "name": "KING5.com"
             },
-            "author": "Aria Bendix",
-            "title": "A salty twist: Diabetes risk study says french fries are a culprit - NBC News",
-            "description": "Craving French fries? Dunking your spuds in a deep fryer might be a recipe for elevating your risk of type 2 diabetes.",
-            "url": "https://www.nbcnews.com/health/health-news/french-fries-diabetes-risk-type-2-study-fast-food-potatoes-rcna222961",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250805-bad-potatoes-fries-to-27251d.jpg",
-            "publishedAt": "2025-08-06T22:30:00Z",
-            "content": "Craving french fries? Dunking your spuds in a deep fryer might be a recipe for elevating your risk of Type 2 diabetes.\r\nAccording to a study published Wednesday in the journal BMJ, swapping out your … [+4875 chars]"
+            "author": "KING 5 Staff",
+            "title": "Washington investigates possible first local malaria case - KING5.com",
+            "description": "If confirmed, it would be Washington’s first locally acquired infection.",
+            "url": "https://www.king5.com/article/news/local/pierce-county-woman-malaria-first-local-case-washington/281-a10ba80c-6de1-4b27-a50c-611753fd7dac",
+            "urlToImage": "https://media.king5.com/assets/KING/images/b0c6a5cd-3fa4-44ad-ab22-3a61703a1220/b0c6a5cd-3fa4-44ad-ab22-3a61703a1220_1140x641.jpg",
+            "publishedAt": "2025-08-07T00:05:00Z",
+            "content": "TACOMA, Wash. Health officials are investigating what could be the first case of locally acquired malaria ever recorded in Washington state.\r\nA woman in Pierce County who has not recently traveled wa… [+1509 chars]"
         },
         {
             "source": {
@@ -40,58 +118,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/D3y4ZjpwvME68Xc4aTJicP.jpg",
             "publishedAt": "2025-08-06T21:10:00Z",
             "content": "Researchers have conducted the largest-ever genetic analysis of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), a typically lifelong condition that affects people's ability to exert phys… [+5495 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Mark Johnson",
-            "title": "Research on reversing Alzheimer’s reveals lithium as potential key - The Washington Post",
-            "description": "Years of investigation by scientists at Harvard has revealed that lithium is deeply involved in Alzheimer’s disease, a finding that could lead to new treatments.",
-            "url": "https://www.washingtonpost.com/science/2025/08/06/lithium-reverses-alzheimers-mice/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XAQVHFFLWIECOLGRDJTMPV32DM_size-normalized.jpg&w=1440",
-            "publishedAt": "2025-08-06T19:32:30Z",
-            "content": "Seven years of investigation by scientists at Harvard Medical School has revealed that the loss of the metal lithium plays a powerful role in Alzheimers disease, a finding that could lead to earlier … [+6115 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "Public health experts dismayed by RFK Jr.'s defunding of mRNA vaccine research : Shots - Health News - NPR",
-            "description": "The Trump administration canceled about $500 million for research into mRNA vaccines. The move slows progress in using the technology to prevent a future pandemic or treat disease, experts say.",
-            "url": "https://www.npr.org/sections/shots-health-news/2025/08/06/nx-s1-5493544/rfk-defunding-mrna-vaccine-research",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2Fe8%2Fc56cb17d4c93969045d84923e696%2Fgettyimages-2151784824.jpg",
-            "publishedAt": "2025-08-06T19:18:08Z",
-            "content": "The Trump administration is canceling almost $500 million in contracts to develop mRNA vaccines to protect the U.S. against future viral threats. The move thrilled critics of the technology but horri… [+5049 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KIRO Seattle"
-            },
-            "author": "KIRO 7 News Staff",
-            "title": "Pierce County woman may have first locally transmitted case of malaria in Washington - KIRO 7 News Seattle",
-            "description": "The Tacoma-Pierce County Health Department says it’s investigating after a local woman was recently infected with malaria.",
-            "url": "https://www.kiro7.com/news/local/pierce-county-woman-may-have-first-locally-transmitted-case-malaria-washington/PUNI4IW355EKLL7J3HCGXPMZGI/",
-            "urlToImage": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FECKB43NFPBEHVGVV7VSFOCKSHY.jpeg?auth=174bcf70371137c589438bb0284e8aa5efd6fdde3b2718a0e7bd82133712c9f0&width=1200&height=630&smart=true",
-            "publishedAt": "2025-08-06T19:00:04Z",
-            "content": "PIERCE COUNTY, Wash. — The Tacoma-Pierce County Health Department says its investigating after a local woman was recently infected with malaria. \r\nThey say she hasnt traveled, and it may be the first… [+1515 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Kate Murphy",
-            "title": "Legionnaires’ disease cluster in New York City causes 3 deaths, sickens over 60 people. What is it, and how do you get it? - yahoo.com",
-            "description": "A Legionnaires' disease cluster in the Harlem area of New York City has caused three deaths and 5over 60 people to be sickened. Here's what it is, symptoms...",
-            "url": "https://www.yahoo.com/news/us/article/legionnaires-disease-cluster-in-new-york-city-causes-3-deaths-sickens-over-60-people-what-is-it-and-how-do-you-get-it-195941590.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MC1_Y1W.bv9hl38DxObYAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/46c49e20-7231-11f0-bfbf-e84e1dd2b047",
-            "publishedAt": "2025-08-06T18:42:17Z",
-            "content": "Three people have died and over 60 people have been sickened by Legionnaires disease amid a cluster discovered in central Harlem in New York City, according to an update from health officials Tuesday… [+3310 chars]"
         },
         {
             "source": {
@@ -122,6 +148,71 @@
         {
             "source": {
                 "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Jessica Stoya",
+            "title": "Marriage advice: My wife is on a sex sabbatical. I have a big surprise planned for her return. - Slate Magazine",
+            "description": "Let the training begin.",
+            "url": "https://slate.com/advice/2025/08/marriage-advice-wife-surprise-sex-break.html",
+            "urlToImage": "https://compote.slate.com/images/5abbed49-9af5-4d57-859c-9c79831ce7ce.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2025-08-06T17:32:00Z",
+            "content": "How to Do It is Slates sex advice column. Have a question? Send it to Jessica and Rich here. Its anonymous!\r\nDear How to Do It, \r\nMy wife is currently unable to have sex. During her sexual sabbatical… [+4412 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Miami Herald"
+            },
+            "author": "Sonia Osorio",
+            "title": "Florida reports 13 cases of flesh-eating bacteria; death toll climbs to eight - Miami Herald",
+            "description": "The state has reported 13 cases of Vibrio vulnificus, a bacteria commonly known as “flesh-eating.” across 11 counties including in South Florida.",
+            "url": "https://www.miamiherald.com/news/health-care/article311607642.html",
+            "urlToImage": "https://www.miamiherald.com/public/latest-news/f7m6ki/picture311607735/alternates/LANDSCAPE_1140/bacteria.jpg",
+            "publishedAt": "2025-08-06T17:01:00Z",
+            "content": "Health Care\r\nFlorida has reported 13 cases of Vibrio vulnificus, a bacteria commonly known as flesh-eating, across 11 counties, with the death toll rising to eight, according to the Florida Departmen… [+3044 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "New hope for Alzheimer’s: lithium supplement reverses memory loss in mice - Nature",
+            "description": "Studies in rodents and humans suggest that low levels of the metal contribute to cognitive decline.",
+            "url": "https://www.nature.com/articles/d41586-025-02471-4",
+            "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02471-4/d41586-025-02471-4_51308718.jpg",
+            "publishedAt": "2025-08-06T15:39:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "RNA N-glycosylation enables immune evasion and homeostatic efferocytosis - Nature",
+            "description": "N-glycans on glycoRNAs prevent innate immune sensing of endogenous small RNAs, and the natural mechanism they use demonstrates how glycoRNAs exist on the cell surface and in the endosomal network without inducing autoinflammatory responses.",
+            "url": "https://www.nature.com/articles/s41586-025-09310-6",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09310-6/MediaObjects/41586_2025_9310_Fig1_HTML.png",
+            "publishedAt": "2025-08-06T15:26:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "Therapeutic genetic restoration through allogeneic brain microglia replacement - Nature",
+            "description": "Nature - Therapeutic genetic restoration through allogeneic brain microglia replacement",
+            "url": "https://www.nature.com/articles/s41586-025-09461-6",
+            "urlToImage": null,
+            "publishedAt": "2025-08-06T15:26:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "HuffPost"
             },
             "author": "Ashley Broadwater",
@@ -138,12 +229,25 @@
                 "name": "Prevention.com"
             },
             "author": "Korin Miller",
-            "title": "Scientists Just Found a Link Between This Popular Food and Lung Cancer - Prevention",
+            "title": "Scientists Just Found a Link Between This Popular Food and Lung Cancer - yahoo.com",
             "description": "Eating a diet high in ultra-processed foods has been linked to developing lung cancer, a recent study shows. Here, experts explain UPFs and cancer.",
             "url": "https://www.prevention.com/health/health-conditions/a65593768/ultra-processed-foods-lung-cancer-study/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/cheerful-senior-savoring-her-favorite-pastry-royalty-free-image-1754413823.pjpeg?crop=1.00xw:0.752xh;0,0.118xh&resize=1200:*",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GO2lQuLk3JeuzktUtMO5.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/hearst_prevention_66/90dea7236b2493fca7482102b4563e70",
             "publishedAt": "2025-08-06T12:30:00Z",
-            "content": "<ul><li>New research links ultra-processed foods to lung cancer. </li><li>Ultra-processed foods are associated with several diseases.</li><li>Doctors warn that the findings dont prove ultra-processed… [+8729 chars]"
+            "content": "\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\n<ul><li>New research links ultra-processed foods to lung cancer. \r\n</li><li>Ultra-processed foods are a… [+8831 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WSOC Charlotte"
+            },
+            "author": "Cox Media Group National Content Desk",
+            "title": "New COVID variant: What are the symptoms of Stratus? - WSOC TV",
+            "description": "The Centers for Disease Control and Prevention said a new COVID variant is spreading across the country.",
+            "url": "https://www.wsoctv.com/news/trending/new-covid-variant-what-are-symptoms-stratus/FS3Y7VQQPRBOFGI6DU3QFZRYME/",
+            "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FF5ZFW6UJFVDUBEJNK5HIT4I53I.jpeg?auth=b596ed75dab236d1a5e1c3e7e65566dc2a6fd46c2ce597329305a16d1054409d&width=1200&height=630&smart=true",
+            "publishedAt": "2025-08-06T12:19:33Z",
+            "content": "The Centers for Disease Control and Prevention said a new COVID variant is spreading across the country.\r\nThe variant is officially named XFG but is being called Stratus. \r\nIt was first found in Sout… [+1684 chars]"
         },
         {
             "source": {
@@ -161,15 +265,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Tom's Guide"
+                "name": "Nature.com"
             },
-            "author": "Jane McGuire",
-            "title": "44-year study reveals cycling can reduce dementia risk by 88% - Tom's Guide",
-            "description": "Forget running and swimming, this workout is best for your brain",
-            "url": "https://www.tomsguide.com/wellness/fitness/44-year-study-reveals-this-workout-reduces-dementia-risk-by-88-percent",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dXL8SWRSxVWzuqWhDEt6dQ.jpg",
-            "publishedAt": "2025-08-06T11:33:18Z",
-            "content": "Getting older is inevitable, but there’s been a host of studies that prove regular exercise is one of the best ways to future-proof your health.\r\nData shows that women make up two thirds of dementia … [+2818 chars]"
+            "author": null,
+            "title": "The real problems with America's health - Nature",
+            "description": "We dive into the data behind the United States' poor health.",
+            "url": "https://www.nature.com/articles/d41586-025-02501-1",
+            "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02501-1/d41586-025-02501-1_51314638.jpg",
+            "publishedAt": "2025-08-06T11:37:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mindbodygreen.com"
+            },
+            "author": "https://www.mindbodygreen.com/wc/ava-durgin-writer",
+            "title": "New Study Reveals One Overlooked Nutrient That Supports Aging Well - MindBodyGreen",
+            "description": "And the flavonoid-aging connection, explained",
+            "url": "https://www.mindbodygreen.com/articles/could-this-nutrient-help-you-stay-strong-sharp-and-independent",
+            "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/35s6uqpanjwm66zl8.jpg",
+            "publishedAt": "2025-08-06T09:16:09Z",
+            "content": "We all want to age well, staying sharp, strong, and independent for as long as possible. And while theres no magic bullet, researchers may have uncovered something surprisingly simple that supports a… [+2754 chars]"
         },
         {
             "source": {
@@ -186,16 +303,16 @@
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "the-times-of-india",
+                "name": "The Times of India"
             },
-            "author": "Mary Walrath-Holdridge, USA TODAY",
-            "title": "New COVID variant 'Stratus' is spreading in the U.S. and worldwide: What are the symptoms? - Yahoo News Canada",
-            "description": "COVID-19 variant XFG accounted for 0% of U.S. cases in May. By late-June, it became the third-most common strain.",
-            "url": "https://www.usatoday.com/story/news/health/2025/08/05/new-covid-variant-stratus-xfg-symptoms-what-to-know/85532518007/",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/K9Gy_A8shm0w4KF0gTF.LQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01MTQ7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_news_641/9ddddab3a472f73218cad5342d094809",
-            "publishedAt": "2025-08-06T00:49:00Z",
-            "content": "A new COVID variant is climbing the ranks in the U.S., becoming the third-most common strain of the summer.\r\nVariant XFG, colloquially known as \"Stratus,\" was first detected in Southeast Asia in Janu… [+3432 chars]"
+            "author": "TOI+Lifestyle+Desk",
+            "title": "Walking for weight loss: How many steps should one walk a day to live longer - The Times of India",
+            "description": "",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/web-stories/how-many-steps-should-you-walk-a-day-to-lose-weight-and-live-longer/photostory/123134778.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123135808,imgsize-74828,width-900,height-1200,resizemode-6/123135808.jpg",
+            "publishedAt": "2025-08-06T06:30:00Z",
+            "content": "Because it is a realistic goal. Walking 7000 steps a day reduced the risk of death by 47%, which was almost identical to the benefit from 10,000 steps a day. The other benefits, including reduced ris… [+99 chars]"
         },
         {
             "source": {
@@ -212,19 +329,6 @@
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Beth Mole",
-            "title": "In trial, people lost twice as much weight by ditching ultraprocessed food - Ars Technica",
-            "description": "Swapping foods like premade lasagna for hand-made spaghetti Bolognese made a difference.",
-            "url": "https://arstechnica.com/health/2025/08/in-trial-people-lost-twice-as-much-weight-by-ditching-ultraprocessed-food/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1430305468-2560x1440.jpg",
-            "publishedAt": "2025-08-05T23:20:30Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
@@ -238,29 +342,16 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Madeline Holcombe",
-            "title": "Childhood verbal and physical abuse leave similar impacts, study shows - CNN",
-            "description": "Both physical and verbal abuse in childhood are linked to a significant increased risk of low mental well-being in adulthood, an analysis of studies found.",
-            "url": "https://www.cnn.com/2025/08/05/health/child-verbal-abuse-mental-impact-wellness",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1170584121.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-08-05T22:30:00Z",
-            "content": "Cruel words can leave a mark on a child and may have as much of an impact as physical abuse, new research has found.\r\nPeople who experienced physical abuse as a child were at a 50% increased risk of … [+5992 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "Umn.edu"
             },
-            "author": "Ed Cara",
-            "title": "A ‘Flesh-Eating’ Germ Is on the Rise This Summer - Gizmodo",
-            "description": "Several states have reported higher than normal cases of Vibrio vulnificus, a bacterium found in coastal waters.",
-            "url": "https://gizmodo.com/a-flesh-eating-germ-is-on-the-rise-this-summer-2000639077",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/vibriobacteria-1200x675.jpg",
-            "publishedAt": "2025-08-05T19:45:07Z",
-            "content": "A bacterial infection that can cause “flesh-eating” disease is becoming a bigger problem in the U.S.and climate change is at least partly to blame.\r\nSeveral states along the Gulf Coast and Eastern Se… [+3021 chars]"
+            "author": null,
+            "title": "Many studies of air-cleaning tech say they curb viral spread, but new review raises questions - CIDRAP",
+            "description": null,
+            "url": "https://www.cidrap.umn.edu/covid-19/many-studies-air-cleaning-tech-say-they-curb-viral-spread-new-review-raises-questions",
+            "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/Air%20purifier.jpg?itok=rU95qzoW",
+            "publishedAt": "2025-08-05T18:56:16Z",
+            "content": null
         },
         {
             "source": {
@@ -278,6 +369,45 @@
         {
             "source": {
                 "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Promise of Reward Changes How We Pay Attention - Neuroscience News",
+            "description": "A new study reveals that our brains treat sensitivity and decision bias as separate processes when rewards are at stake.",
+            "url": "https://neurosciencenews.com/attention-reward-neuroscience-29553/",
+            "urlToImage": "https://neurosciencenews.com/files/2025/08/reward-attention-neuroscience.jpg",
+            "publishedAt": "2025-08-05T18:32:16Z",
+            "content": "Summary: A new study reveals that our brains treat sensitivity and decision bias as separate processes when rewards are at stake. Using eye-tracking and EEG during a visual task, researchers found th… [+7949 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI+Lifestyle+Desk",
+            "title": "Reduce dementia risk: 10 lifestyle changes that can protect your brain - Times of India",
+            "description": "From how you eat to how you move, there are ways to lower your risk. Here’s a closer look at 10 powerful lifestyle changes that can help protect your brain, starting now.",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/reduce-dementia-risk-10-lifestyle-changes-that-can-protect-your-brain/photostory/123124732.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123124792,imgsize-36104,width-900,height-1200,resizemode-6/123124792.jpg",
+            "publishedAt": "2025-08-05T17:39:56Z",
+            "content": "Whats good for your body is good for your brain. A balanced diet rich in fruits, vegetables, whole grains, and healthy fats helps fuel cognition. Skip the processed stuff. Instead, think Mediterranea… [+89 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "UPI.com"
+            },
+            "author": null,
+            "title": "Study suggests more effective treatment for binge eating than CBT - upi.com",
+            "description": "A new study suggests a method known as \"regulation of cues\" could be more effective than cognitive behavioral therapy in treating binge eating disorder.",
+            "url": "https://www.upi.com",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/5481754407318/2025/1/8f2751345c596d08f1ec07d6f1e7d719/v1.5/Study-suggests-more-effective-treatment-for-binge-eating-than-CBT.jpg",
+            "publishedAt": "2025-08-05T17:13:06Z",
+            "content": "There's a better way of treating binge eating disorder, a new study argues.\r\nThe method, called \"regulation of cues,\" reduced patients' odds of binge eating by 20% compared to those who got standard … [+2491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "WLBT"
             },
             "author": "Josh Carter",
@@ -287,6 +417,45 @@
             "urlToImage": "https://gray-wlbt-prod.gtv-cdn.com/resizer/v2/4LH3AAY4PVH7XPWA6UCVKZWRGY.jpg?auth=bb7341c57d6fecf4b2b93339aa2bc9ceca97a2f0f92d0b1a56c07ca485d4b357&width=1200&height=600&smart=true",
             "publishedAt": "2025-08-05T15:57:00Z",
             "content": "JACKSON, Miss. (WLBT) - If you gathered 100 Mississippians in a room, statistically, at least 1 of them has an STD.\r\nThe STD rate, depending on your source, is around 1,200 per 100,000 Mississippian,… [+6999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Jessica Stoya",
+            "title": "I Married My Husband Thinking We Could Fix His Sex Troubles. I Didn’t Expect It to Be This … Challenging. - Slate Magazine",
+            "description": "We should've figured this out by now.",
+            "url": "https://slate.com/advice/2025/08/marriage-advice-husband-sex-troubles-challenge.html",
+            "urlToImage": "https://compote.slate.com/images/34cc27c6-b2f7-4bda-b82c-6cd097707797.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2025-08-05T15:51:00Z",
+            "content": "How to Do It is Slates sex advice column. Have a question? Send it to Jessica and Rich here. Its anonymous!\r\nDear How to Do It, \r\nMy husband had diabetes and obesity-induced erectile dysfunction for … [+3885 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "This diet helped people lose twice as much weight, without eating less - ScienceDaily",
+            "description": "People eating minimally processed foods lost twice as much weight as those on ultra-processed diets, even though both diets were nutritionally balanced and participants could eat freely. This real-world, long-term study revealed that food processing itself—no…",
+            "url": "https://www.sciencedaily.com/releases/2025/08/250805041616.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/1920/women-weight-loss-bmi-silhouettes.webp",
+            "publishedAt": "2025-08-05T14:16:47Z",
+            "content": "When given nutritionally matched diets, participants lost twice as much weight eating minimally processed foods compared to ultra-processed foods, suggesting that cutting down on processing could hel… [+8278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "National Institutes of Health"
+            },
+            "author": null,
+            "title": "Beta-HPV can directly cause skin cancer in immunocompromised people - National Institutes of Health (NIH) | (.gov)",
+            "description": "NIH case study finds virus drives creation of cancer cells in context of defective T cells.",
+            "url": "https://www.nih.gov/news-events/news-releases/beta-hpv-can-directly-cause-skin-cancer-immunocompromised-people",
+            "urlToImage": null,
+            "publishedAt": "2025-07-30T21:05:33Z",
+            "content": "Wednesday, July 30, 2025\r\nNIH case study finds virus drives creation of cancer cells in context of defective T cells.\r\nResearchers at the National Institutes of Health (NIH) have shown for the first … [+4952 chars]"
         }
     ]
 }

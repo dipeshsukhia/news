@@ -1,32 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 19,
     "articles": [
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "William  Harwood",
-            "title": "SpaceX launches giant Super Heavy-Starship rocket on critical test flight - CBS News",
-            "description": "SpaceX launched its huge Super Heavy-Starship on Tuesday, chalking up what appeared to be a remarkably successful test flight in the wake of three back-to-back failures​ earlier this year.",
-            "url": "https://www.cbsnews.com/news/spacex-launches-super-heavy-starship-critical-10th-test-flight/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/27/2c9afa9a-3146-44d3-aff5-f2889901210b/thumbnail/1200x630/d9151e0e7de8f19ebdeea23b6f065297/2025-08-27t000302z-2130037024-rc2cfgat3eoj-rtrmadp-3-spacex-starship.jpg",
-            "publishedAt": "2025-08-27T02:13:55Z",
-            "content": "Running two days late, SpaceX launched its huge Super Heavy-Starship on Tuesday, chalking up what appeared to be a remarkably successful test flight in the wake of three back-to-back failures earlier… [+8816 chars]"
+            "author": "Sarah Whitten",
+            "title": "Lego hits record revenue in first half of 2025, boosted by brick flowers and cars - CNBC",
+            "description": "Flowers, succulents and Formula One race cars helped fuel a 12% revenue bump for Lego during the first half of the year.",
+            "url": "https://www.cnbc.com/2025/08/27/lego-first-half-2025-earnings-post-record-revenue.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108078247-1734622589517-gettyimages-2183851996-78189265.jpeg?v=1734726164&w=1920&h=1080",
+            "publishedAt": "2025-08-27T07:00:01Z",
+            "content": "Flowers, succulents and Formula One race cars helped fuel a 12% revenue bump for Lego during the first half of the year.\r\nThe company reported a record 34.6 billion Danish kroner, or $5.4 billion, in… [+2118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Pia Singh",
+            "title": "Stock futures little changed ahead of Nvidia earnings: Live updates - CNBC",
+            "description": "Wall Street has high hopes that Nvidia's financial results, expected after the closing bell on Wednesday, can reignite the tech rally.",
+            "url": "https://www.cnbc.com/2025/08/26/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108190839-17562216402025-08-26t151941z_929188596_rc21fgajsntd_rtrmadp_0_usa-stocks.jpeg?v=1756221674&w=1920&h=1080",
+            "publishedAt": "2025-08-27T06:28:00Z",
+            "content": "Stock futures were flat early Wednesday as investors turn their eyes to Nvidia earnings, which could be a make-or-break moment for the bull market.\r\nFutures tied to the Dow Jones Industrial Average, … [+2234 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Andrew Ackerman, Emily Davies, Liz Goodwin",
-            "title": "Trump’s move to take over the Fed adds more uncertainty to the economy - The Washington Post",
-            "description": "By seeking to remove Fed governor Lisa Cook, Trump has taken his boldest step to bring the independent central bank under his control, with consequences for the economy.",
-            "url": "https://www.washingtonpost.com/politics/2025/08/26/trump-fed-control-lisa-cook-economy/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
-            "publishedAt": "2025-08-27T02:07:23Z",
-            "content": "President Donald Trumps bid to oust Federal Reserve governor Lisa Cook marks his boldest move yet to assert more control over the independent central bank. But undermining the banks autonomy, experts… [+85 chars]"
+            "author": "Amy B Wang",
+            "title": "Trump officials discussing ownership stakes in defense firms, Lutnick says - The Washington Post",
+            "description": "The commerce secretary said there was a “monstrous discussion” among Trump administration officials about taking partial ownership of defense giants days after President Donald Trump announced a similar partnership with Intel.",
+            "url": "https://www.washingtonpost.com/politics/2025/08/26/trump-lutnick-ownership-defense-companies/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RAPP67TEPVMGUFJLIIWQJRIENQ_size-normalized.jpg&w=1440",
+            "publishedAt": "2025-08-27T06:21:14Z",
+            "content": "Trump administration officials are looking into whether the federal government could take a stake in private defense companies like Lockheed Martin, days after President Donald Trump announced such a… [+74 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Loren Grush",
+            "title": "SpaceX Starship Deploys Satellites in Space During Key Test - Bloomberg.com",
+            "description": "SpaceX’s Starship rocket launched to space and deployed satellites for the first time before surviving most of its journey to Earth, achieving new technological milestones after a year of fiery setbacks.",
+            "url": "https://www.bloomberg.com/news/articles/2025-08-27/spacex-starship-deploys-satellites-in-space-during-key-test-mete13wm",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifWFeaR54Byk/v0/1200x800.jpg",
+            "publishedAt": "2025-08-27T04:54:00Z",
+            "content": "SpaceXs Starship rocket launched to space and deployed satellites for the first time before surviving most of its journey to Earth, achieving new technological milestones after a year of fiery setbac… [+187 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Chris Megerian, Brian Slodysko, Fatima Hussein",
+            "title": "Trump foes like Fed Governor Lisa Cook find themselves targeted by top housing regulator - AP News",
+            "description": "Bill Pulte, the country's top housing regulator, has been using his position to target President Trump's political enemies. He has accused them of mortgage fraud and encouraged investigations. This week, Trump used Pulte's allegations to attempt to fire Lisa …",
+            "url": "https://apnews.com/article/trump-bill-pulte-lisa-cook-federal-reserve-00d9bf828f824eceda7b30f704d1de71",
+            "urlToImage": "https://dims.apnews.com/dims4/default/aad6b34/2147483647/strip/true/crop/1944x1094+0+101/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F55%2F9f4e69ced6ea81b6997abc9c2183%2F4075b9aec24b45a4a2ef454ea202ca61",
+            "publishedAt": "2025-08-27T02:54:00Z",
+            "content": "WASHINGTON (AP) When Bill Pulte was nominated as the countrys top housing regulator, he told senators that his number one mission will be to strengthen and safeguard the housing finance system.\r\nBut … [+8159 chars]"
         },
         {
             "source": {
@@ -43,55 +82,68 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "GeekWire"
             },
-            "author": "Jacob Kastrenakes",
-            "title": "Microsoft hosts emergency press conference after protesters ‘storm a building’ - The Verge",
-            "description": "Microsoft is “working every day” to investigate how Azure is being used in Israel, Smith said. But he said the protestors’ actions were “not ok.”",
-            "url": "https://www.theverge.com/microsoft/766429/microsoft-emergency-press-conference-palestine-protest",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Screenshot-2025-08-26-at-7.26.46%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.8212651564845%2C100%2C92.357469687031&w=1200",
-            "publishedAt": "2025-08-27T00:22:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is working every day to investigate how Azure is being used in Israel, Smith said. But he said the protestors actions were not ok.\r\nMicrosoft is workin… [+3175 chars]"
+            "author": "Todd Bishop",
+            "title": "Microsoft President Brad Smith reclaims his office to address infiltration, protests, Israel contracts - GeekWire",
+            "description": "Microsoft President Brad Smith addresses reporters in his office at the company's Redmond headquarters on Tuesday afternoon, which protesters occupied",
+            "url": "https://www.geekwire.com/2025/microsoft-president-brad-smith-reclaims-his-office-to-address-infiltration-protests-and-israeli-contracts/",
+            "urlToImage": "https://cdn.geekwire.com/wp-content/uploads/2025/08/smith-presser.jpg",
+            "publishedAt": "2025-08-27T01:12:21Z",
+            "content": "Microsoft President Brad Smith addresses reporters in his office at the companys Redmond headquarters on Tuesday afternoon, which protesters occupied earlier in the day. (GeekWire Photo / Todd Bishop… [+4819 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Rolling Stone"
+                "name": "Financial Times"
             },
-            "author": "Miles Klee",
-            "title": "ChatGPT Lawsuit Over Teen’s Suicide Could Lead to Big Tech Reckoning - Rolling Stone",
-            "description": "First wrongful death lawsuit against OpenAI alleges that ChatGPT advised a 16-year-old on how to hang himself, and may trigger more complaints.",
-            "url": "http://www.rollingstone.com/culture/culture-features/chatgpt-suicide-teen-openai-lawsuit-1235415931/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/08/Sam-Altman-parents-of-teen.jpg?crop=0px%2C0px%2C1798px%2C1014px&resize=1600%2C900",
-            "publishedAt": "2025-08-27T00:16:09Z",
-            "content": "On Tuesday, parents of a teen who died by suicide filed the first ever wrongful death lawsuit against OpenAI and its CEO, Sam Altman, alleging that their son received detailed instructions on how to … [+9792 chars]"
+            "author": "Aiden Reiter, Claire Jones, Kate Duguid",
+            "title": "Donald Trump’s Fed blitz risks raising US borrowing costs - Financial Times",
+            "description": "President’s moves could erode central bank’s credibility and push up long-term inflation and rates, economists say",
+            "url": "https://www.ft.com/content/dbd49a17-6b2d-42f8-b2d9-4b55506174d2",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0dd08052-baf3-4e24-9bf6-5cb3e0f54e3e.jpg?source=next-barrier-page",
+            "publishedAt": "2025-08-26T22:44:47Z",
+            "content": "Complete digital access to quality analysis and expert insights, complemented with our award-winning Weekend Print edition.\r\n<ul><li></li>Everything in Print<li></li>Weekday Print Edition<li></li>FT … [+202 chars]"
         },
         {
             "source": {
-                "id": "fortune",
-                "name": "Fortune"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Nick Lichtenberg",
-            "title": "First-of-its-kind Stanford study: AI is starting to have a 'significant and disproportionate impact' - Fortune",
-            "description": "Something appears to have changed in late 2022, specifically for young workers ages 22 to 25 in the jobs most exposed to AI.",
-            "url": "https://fortune.com/2025/08/26/stanford-ai-entry-level-jobs-gen-z-erik-brynjolfsson/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2155123849-e1756223041310.jpg?resize=1200,600",
-            "publishedAt": "2025-08-26T21:00:00Z",
-            "content": "Stanford University has published a first-of-its-kind study on Tuesday that reveals the AI revolution is already beginning to have a significant and disproportionate impact on entry-level workers in … [+5588 chars]"
+            "author": "ABC News",
+            "title": "Whistleblower complaint alleges DOGE uploaded all Social Security numbers to an unsecured server - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/whistleblower-complaint-alleges-doge-uploaded-social-security-numbers/story?id\\\\u003d124995870",
+            "urlToImage": null,
+            "publishedAt": "2025-08-26T20:41:58Z",
+            "content": null
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": null,
+                "name": "Semafor.com"
             },
-            "author": "Kate Knibbs",
-            "title": "Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors - WIRED",
-            "description": "Anthropic faced the prospect of more than $1 trillion in damages, a sum that could have threatened the company’s survival if the case went to trial.",
-            "url": "https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/",
-            "urlToImage": "https://media.wired.com/photos/68adfa76d6e72970f29826e0/191:100/w_1280,c_limit/GettyImages-2229149370.jpg",
-            "publishedAt": "2025-08-26T19:31:59Z",
-            "content": "Anthropic has reached a preliminary settlement in a class action lawsuit brought by a group of prominent authors, marking a major turn in of the most significant ongoing AI copyright lawsuits in hist… [+3562 chars]"
+            "author": "Rohan Goswami, Liz Hoffman",
+            "title": "Exclusive / Musk’s Starlink, T-Mobile eye EchoStar’s spectrum after AT&T deal - Semafor",
+            "description": "AT&T scooped up the lion’s share of EchoStar’s licenses for $23 billion Tuesday, but Charlie Ergen still has valuable airwaves to bargain with.",
+            "url": "https://www.semafor.com/article/08/26/2025/echostar-musk-starlink-tmobile-spectrum",
+            "urlToImage": "https://img.semafor.com/b5cbba8b65fffc562e385f87546eb9ac07c41642-1279x853.png?rect=0,92,1279,671&w=1200&h=630&q=75&auto=format",
+            "publishedAt": "2025-08-26T20:05:00Z",
+            "content": "Elon Musks Starlink and T-Mobile have separately expressed interest in acquiring some or all of the spectrum controlled by struggling DISH Network-parent EchoStar, according to people familiar with t… [+1791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Keurig Dr Pepper Stock Tumbles After Peet’s Coffee Deal. Here’s Why. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/keurig-dr-pepper-stock-peets-coffee-e8911e33",
+            "urlToImage": null,
+            "publishedAt": "2025-08-26T18:10:00Z",
+            "content": null
         },
         {
             "source": {
@@ -109,15 +161,67 @@
         {
             "source": {
                 "id": null,
-                "name": "Stratechery.com"
+                "name": "Forbes"
+            },
+            "author": "Emily Baker-White",
+            "title": "Intel Worked With Chinese Firms Sanctioned For Enabling Human Rights Abuses - Forbes",
+            "description": "As the U.S. government takes a 10% stake in Intel, Forbes has learned the tech company partnered with sanctioned Chinese surveillance firms Uniview, Hikvision and Cloudwalk.",
+            "url": "https://www.forbes.com/sites/emilybaker-white/2025/08/26/intel-worked-with-chinese-firms-sanctioned-for-enabling-human-rights-abuses/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68adc833ae294a3bff1e8024/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-08-26T16:11:47Z",
+            "content": "On Friday, President Donald Trump announced that the U.S. government would take a 10% stake in the hardware manufacturer Intel, involving the government in the private tech industry in a new, unprece… [+7994 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Nick Lichtenberg",
+            "title": "First-of-its-kind Stanford study: AI is starting to have a 'significant and disproportionate impact' - Fortune",
+            "description": "Something appears to have changed in late 2022, specifically for young workers ages 22 to 25 in the jobs most exposed to AI.",
+            "url": "https://fortune.com/2025/08/26/stanford-ai-entry-level-jobs-gen-z-erik-brynjolfsson/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2155123849-e1756223041310.jpg?resize=1200,600",
+            "publishedAt": "2025-08-26T15:45:00Z",
+            "content": "Stanford University has published a first-of-its-kind study on Tuesday that reveals the AI revolution is already beginning to have a significant and disproportionate impact on entry-level workers in … [+5588 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Inside Climate News",
+            "title": "Trump admin issues stop-work order for offshore wind project - Ars Technica",
+            "description": "Project was 80 percent complete and was slated to power more than 350,000 homes.",
+            "url": "https://arstechnica.com/science/2025/08/trump-admin-issues-stop-work-order-for-offshore-wind-project/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2193740951-2560x1440.jpg",
+            "publishedAt": "2025-08-26T13:53:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Flyfrontier.com"
+            },
+            "author": "Frontier, Inc",
+            "title": "FRONTIER, AMERICA’S LOW FARE AIRLINE, COMMITS TO BEING THE #1 LOW FARE CARRIER IN THE TOP 20 U.S. METROS - Frontier Airlines",
+            "description": "DENVER – August 26, 2025 – Frontier Airlines (Nasdaq: ULCC), America’s Low Fare Airline, today announced it is committing to being the number one low-fare carrier in the top 20 U.S. metro areas. As part of this commitment, Frontier is adding 20 new routes fro…",
+            "url": "https://news.flyfrontier.com/frontier-americas-low-fare-airline-commits-to-being-the-1-low-fare-carrier-in-the-top-20-us-metros/",
+            "urlToImage": "https://content.presspage.com/uploads/2108/1920_-dsf0512.jpg?10000",
+            "publishedAt": "2025-08-26T13:00:00Z",
+            "content": "DENVER August 26, 2025 Frontier Airlines (Nasdaq: ULCC), Americas Low Fare Airline, today announced it is committing to being the number one low-fare carrier in the top 20 U.S. metro areas. As part o… [+7016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lilly.com"
             },
             "author": null,
-            "title": "U.S. Intel - Stratechery by Ben Thompson",
-            "description": "The U.S. taking an equity stake in Intel is a terrible idea; it also happens to be the least bad idea to make Intel Foundry viable.",
-            "url": "https://stratechery.com/2025/u-s-intel/",
-            "urlToImage": "https://stratechery.com/wp-content/uploads/2020/05/tsmc-2.png",
-            "publishedAt": "2025-08-26T10:01:31Z",
-            "content": "Now that everyone is using ChatGPT, the lazy columnist’s trick of quoting Wikipedia to open an Article is less cliché than it is charming (at least that’s my excuse). Anyhow, here is Wikipedia’s defi… [+17392 chars]"
+            "title": "Lilly's oral GLP-1, orforglipron, is successful in third Phase 3 trial, triggering global regulatory submissions this year for the treatment of obesity - Eli Lilly and Company",
+            "description": "The Investor Relations website contains information about Eli Lilly and Company's business for stockholders, potential investors, and financial analysts.",
+            "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-orforglipron-successful-third-phase-3-trial",
+            "urlToImage": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98",
+            "publishedAt": "2025-08-26T10:47:38Z",
+            "content": "In ATTAIN-2, orforglipron met the primary and all key secondary endpoints, with compelling efficacy results and a safety profile consistent with injectable GLP-1 medicines\r\nParticipants with obesity … [+14375 chars]"
         }
     ]
 }

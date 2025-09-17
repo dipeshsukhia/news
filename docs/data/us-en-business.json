@@ -1,58 +1,240 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 49,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Alex Harring",
-            "title": "S&P 500 futures tick higher after benchmark closed above 6,600; Fed meeting to begin: Live updates - CNBC",
-            "description": "The three major indexes are coming off a winning session.",
-            "url": "https://www.cnbc.com/2025/09/15/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198822-1757948498222-gettyimages-2235062956-AFP_74KB8J6.jpeg?v=1757948551&w=1920&h=1080",
-            "publishedAt": "2025-09-16T10:12:00Z",
-            "content": "S&amp;P 500 futures rose Tuesday after a record-setting session for the benchmark index, while traders awaited the beginning of the latest Federal Reserve meeting. \r\nFutures tied to the S&amp;P 500 t… [+1460 chars]"
+            "author": "Jennifer Sor",
+            "title": "3 scenarios for the Fed rate decision — and how markets could react to each - Business Insider",
+            "description": "The Fed is likely to issue a 25 basis point rate cut this week. Options are pricing in a nearly 1% move in the S&P 500 on the day of the decision.",
+            "url": "https://www.businessinsider.com/fed-rate-cut-this-week-fomc-powell-stock-market-outlook-2025-9",
+            "urlToImage": "https://i.insider.com/68c801caf9db348adc0b74e6?width=800&format=jpeg",
+            "publishedAt": "2025-09-16T16:06:00Z",
+            "content": "The moment investors have been waiting for all year is here.\r\nMarkets have been clamoring for the Federal Reserve to resume its rate-cutting cycle, and the central bank is expected to finally trim it… [+4539 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Matthew Perrone",
+            "title": "FDA takes aim at Hims and other telehealth services in drug advertising blitz - AP News",
+            "description": "The Trump administration has issued its first warnings to online services that offer unofficial versions of popular drugs like the blockbuster obesity treatment Wegovy. The Food and Drug Administration on Tuesday sent letters to Hims & Hers and dozens of othe…",
+            "url": "https://apnews.com/article/hims-drug-ads-tv-fda-rfk-9c08db3481dcfd67c433fad1ae07d941",
+            "urlToImage": "https://dims.apnews.com/dims4/default/d176c9c/2147483647/strip/true/crop/5883x3309+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2F69%2Ff723b015a33e8a9bc956a31e2915%2Fb755b21068fb4bdfa6d4c3bab06ca9f1",
+            "publishedAt": "2025-09-16T15:35:00Z",
+            "content": "WASHINGTON (AP) For the first time, federal health officials are taking aim at telehealth companies promoting unofficial versions of prescription drugs including popular weight loss medications as pa… [+4248 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "What to Watch at the Strangest Fed Meeting in Years - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/economy/central-banking/fed-meeting-interest-rate-cut-2025-dc005f48",
+            "urlToImage": null,
+            "publishedAt": "2025-09-16T14:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sean O'Kane",
+            "title": "Tesla probed for potentially faulty door handles - TechCrunch",
+            "description": "The National Highway Traffic Safety Administration has received nine reports from owners who couldn't access their cars, including from parents whose children were stuck inside.",
+            "url": "https://techcrunch.com/2025/09/16/tesla-probed-for-potentially-faulty-door-handles/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1397664328.jpg?resize=1200,800",
+            "publishedAt": "2025-09-16T14:48:43Z",
+            "content": "The National Highway Traffic Safety Administration has opened an investigation into claims that Tesla’s door handles become inoperable in certain situations on Model Y SUVs.\r\nThe safety agency’s Offi… [+1368 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Andrew Ackerman, Theodoric Meyer",
+            "title": "Senate confirms Trump adviser to top Fed role - The Washington Post",
+            "description": "The Senate confirmed White House economic adviser Stephen Miran to the Fed, allowing him to join the independent central bank while remaining in the Trump administration.",
+            "url": "https://www.washingtonpost.com/business/2025/09/15/miran-trump-federal-reserve/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XKL6UEEPAVYCJSUC5EX4F2L7JU.jpg&w=1440",
+            "publishedAt": "2025-09-16T14:37:55Z",
+            "content": "The Senate on Monday confirmed White House economic adviser Stephen Miran to a key role at the Federal Reserve, allowing him to join the independent central bank while remaining in the Trump administ… [+6 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lilly.com"
+            },
+            "author": null,
+            "title": "Lilly announces plans to build $5 billion manufacturing facility in Virginia - Eli Lilly and Company",
+            "description": "The Investor Relations website contains information about Eli Lilly and Company's business for stockholders, potential investors, and financial analysts.",
+            "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-announces-plans-build-5-billion-manufacturing-facility",
+            "urlToImage": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98",
+            "publishedAt": "2025-09-16T14:31:02Z",
+            "content": "New site in Virginia's\r\n Goochland County\r\n will develop active pharmaceutical ingredients (API) in the U.S.\r\n for cancer, autoimmune and other advanced therapies \r\nCompany will create 2,450 high-wag… [+8946 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Augusta Saraiva",
+            "title": "US Retail Sales Beat Forecasts in Sign of Solid Summer Spending - Bloomberg.com",
+            "description": "US retail sales rose in August for a third month in a broad advance, rounding out a summer of resilient spending.",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-16/us-retail-sales-rise-more-than-expected-in-broad-advance",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH8bQfGLjkmc/v0/1200x800.jpg",
+            "publishedAt": "2025-09-16T13:57:44Z",
+            "content": "US retail sales rose in August for a third month in a broad advance, rounding out a summer of resilient spending.\r\nThe value of retail purchases, not adjusted for inflation, increased 0.6% after a si… [+156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Tesla Stock Rises Again. This Shows It’s Overbought. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/tesla-stock-price-today-overbought-4429141b",
+            "urlToImage": null,
+            "publishedAt": "2025-09-16T13:37:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Workday.com"
+            },
+            "author": null,
+            "title": "Workday Signs Definitive Agreement to Acquire Sana - Workday",
+            "description": "Acquisition to Turn Workday into the New Front Door for Work Acquisition Will Combine Sana's AI-Powered Search, Agents, and Learning with Workday Context and Data to Power Proactive, Personalized,...",
+            "url": "https://investor.workday.com/2025-09-16-Workday-Signs-Definitive-Agreement-to-Acquire-Sana",
+            "urlToImage": "https://investor.workday.com/image/og-investor-relations-1200x628.jpg",
+            "publishedAt": "2025-09-16T13:02:13Z",
+            "content": "Acquisition to Turn Workday into the New Front Door for Work\r\nAcquisition Will Combine Sana's AI-Powered Search, Agents, and Learning with Workday Context and Data to Power Proactive, Personalized, a… [+8878 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Sam Meredith",
-            "title": "Google to invest £5 billion in UK AI as Trump heads for state visit - CNBC",
-            "description": "British Finance Minister Rachel Reeves lauded Google’s investment as “a powerful vote of confidence in the UK economy.”",
-            "url": "https://www.cnbc.com/2025/09/16/google-to-invest-5-billion-in-uk-ai-as-trump-heads-for-state-visit.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108199151-1758008394340-gettyimages-2210075113-VukValcicGoogleHQ170425_3.jpeg?v=1758008487&w=1920&h=1080",
-            "publishedAt": "2025-09-16T08:59:51Z",
-            "content": "Google owner Alphabet on Tuesday announced a £5 billion ($6.8 billion) investment in the U.K.'s artificial intelligence development, just as the country prepares for U.S. President Donald Trump's sta… [+1951 chars]"
+            "author": "Robert Frank",
+            "title": "JPMorgan can now help you find a private jet or butler - CNBC",
+            "description": "The move comes as private banks and wealth management firms seek to find ways of serving clients outside of core investing and financial advice.",
+            "url": "https://www.cnbc.com/2025/09/16/jpmorgan-can-now-help-you-find-a-private-jet-or-butler.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170768-1752236234539-gettyimages-2224573134-_d1_9521_e5fgimhd.jpeg?v=1752236264&w=1920&h=1080",
+            "publishedAt": "2025-09-16T13:00:01Z",
+            "content": "J.P. Morgan Private Bank is launching a new lifestyle service for its wealthy clients, offering discounts and referrals on everything from private jet flights and travel to household staffing and art… [+2744 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ben Weiss",
+            "title": "Google releases AI payments protocol that includes support for stablecoins, partners include Coinbase and Salesforce - Fortune",
+            "description": "Big Tech companies believe payments between different AI apps are the newest frontier in fintech.",
+            "url": "https://fortune.com/crypto/2025/09/16/google-ai-payments-protocol-stablecoins-coinbase-salesforece-ethereum-foundation/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2215577822-e1758026853886.jpg?resize=1200,600",
+            "publishedAt": "2025-09-16T13:00:00Z",
+            "content": "Google on Tuesday released a new payments scheme to make it easier for different AI apps to send and receive money. The open-source protocol not only includes support for more traditional forms of pa… [+2485 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Teslarati"
+                "name": "CNBC"
             },
-            "author": "Joey Klender",
-            "title": "Tesla analyst says Musk stock buy should send this signal to investors - Teslarati",
-            "description": "",
-            "url": "https://www.teslarati.com/tesla-tsla-analyst-says-musk-stock-buy-should-send-signal-investors/",
-            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/08/5_GigafactoryTexas_07-1000x600.jpg",
-            "publishedAt": "2025-09-16T07:19:52Z",
-            "content": "Tesla CEO Elon Musk has assured TSLA investors that he would be enhancing his security detail. \r\nMusks comments were posted on X in the aftermath of the slaying of conservative commentator Charlie Ki… [+2090 chars]"
+            "author": "Leslie Josephs",
+            "title": "United Airlines CEO confident in flight expansion 'because customers are choosing us' - CNBC",
+            "description": "United Airlines CEO Scott Kirby said the airline's product investment is helping it stand out from competitors.",
+            "url": "https://www.cnbc.com/2025/09/16/united-airlines-ceo-scott-kirby.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108151969-1748533706089-gettyimages-2217674113-mms26698_w1jjwcfd.jpeg?v=1748533753&w=1920&h=1080",
+            "publishedAt": "2025-09-16T12:57:54Z",
+            "content": "NEWARK, New Jersey An oversupply of flights forced airlines to cut fares this year and pushed carriers to scale back their growth plans.\r\nUnited Airlines' expansion, however, is outpacing its large-a… [+2499 chars]"
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "John Power",
-            "title": "US appeals court blocks Trump’s bid to fire Lisa Cook from Federal Reserve - Al Jazeera",
-            "description": "Cook’s claim that she was denied due process has a ‘strong likelihood of success’, court rules",
-            "url": "https://www.aljazeera.com/economy/2025/9/16/us-appeals-court-blocks-trumps-bid-to-fire-lisa-cook-from-federal-reserve",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AP25238487132940-1757991823_33bb9e-1757997233.jpg?resize=1200%2C630&quality=80",
-            "publishedAt": "2025-09-16T05:35:50Z",
-            "content": "An appeals court in the United States has ruled that Lisa Cook can keep her seat on the Federal Reserve for now, in a setback to President Donald Trumps bid to fire the governor over as yet unproven … [+2404 chars]"
+            "author": "The Wall Street Journal",
+            "title": "Stock Market Today: Dow Futures Waver; Dollar Weakens; Gold Hits Record — Live Updates - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-16-2025",
+            "urlToImage": null,
+            "publishedAt": "2025-09-16T12:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ella Nilsen",
+            "title": "Offshore wind was supposed to save power-starved New England. Trump blew up that plan - CNN",
+            "description": "Offshore wind was seen as the answer to New England’s growing energy crisis.",
+            "url": "https://www.cnn.com/2025/09/16/climate/offshore-wind-trump-new-england",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23234727643759.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-09-16T11:30:05Z",
+            "content": "New England, long burdened with some of the nations highest electricity costs, is facing a growing energy crisis.\r\nWinter cold snaps routinely send utility bills soaring in a region where natural gas… [+4877 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Jeff Amy, Alexa St. John",
+            "title": "It’s ‘do or die’ for electric vehicle maker Rivian as it breaks ground on a $5 billion plant - AP News",
+            "description": "Rivian Automotive is starting to build a long-delayed electric vehicle plant in Georgia, despite tough challenges in the U.S. market. The company is investing $5 billion as it aims to persuade Americans to buy electric trucks. But Tuesday's groundbreaking com…",
+            "url": "https://apnews.com/article/rivian-electric-vehicles-georgia-plant-tesla-a4678f82d9ed276af0a4b0c1050de573",
+            "urlToImage": "https://dims.apnews.com/dims4/default/baf9e3f/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F72%2F5d%2F2ed631d5326eee021f8d748aaa33%2F0203093a599d443784a6fa93268472aa",
+            "publishedAt": "2025-09-16T11:05:00Z",
+            "content": "ATLANTA (AP) It seems like a terrible time to build an electric vehicle plant in the United States, but Rivian Automotive leaders say theyre confident as the company starts long-delayed work on a $5 … [+6071 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Diane Brady",
+            "title": "What CEOs think about the SEC ‘prioritizing’ Trump’s plan to end quarterly reporting for public companies - Fortune",
+            "description": "Also: All the news and watercooler chat from Fortune.",
+            "url": "https://fortune.com/2025/09/16/ceos-sec-prioritizing-trump-quarterly-reporting/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/01/BradJacobsGavel.jpg?resize=1200,600",
+            "publishedAt": "2025-09-16T09:11:40Z",
+            "content": "Good morning. Quarterly earnings reports are a headache. Theres the hassle of getting the 10-Q together, updating financial data that may or may not be indicative of a companys long-term potential or… [+6241 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "How much for matcha? Prices for the popular powdered tea soar due to global demand - NBC News",
+            "description": "The world’s fondness for matcha is about to be tested by steep price increases",
+            "url": "https://www.nbcnews.com/news/us-news/much-matcha-prices-popular-powdered-tea-soar-due-global-demand-rcna231562",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250916-matcha-rs-e7e0b5.jpg",
+            "publishedAt": "2025-09-16T08:18:38Z",
+            "content": "The worlds fondness for matcha is about to be tested by steep price increases.\r\nGlobal demand for the powdered tea has skyrocketed around the world, fueled by consumer interest in its health benefits… [+5548 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Allie Kelly, Madison Hoff",
+            "title": "The Fed is likely to cut rates for the first time this year. Here's what that means for credit cards and housing costs - Business Insider",
+            "description": "Economists expect the Fed to make the first rate cut of the year this week. Here's what that means for savings, mortgages, and more.",
+            "url": "https://www.businessinsider.com/what-rate-cut-means-for-americans-credit-cards-savings-mortgages-2025-9",
+            "urlToImage": "https://i.insider.com/68c81dbc183847aa39d6c35f?width=1024&format=jpeg",
+            "publishedAt": "2025-09-16T08:01:00Z",
+            "content": "America's central bank is probably on the edge of its first rate cut of 2025.\r\nThe Federal Reserve is meeting for the sixth time this year. At every previous meeting in 2025, they've opted to hold ra… [+6221 chars]"
         },
         {
             "source": {
@@ -70,41 +252,41 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Delta.com"
             },
-            "author": "Leslie Josephs",
-            "title": "Trump administration orders Delta, Aeromexico to unwind joint venture by Jan. 1 - CNBC",
-            "description": "Delta Air Lines and Aeromexico would have to end their joint venture by Jan. 1.",
-            "url": "https://www.cnbc.com/2025/09/16/trump-administration-orders-delta-aeromexico-to-unwind-joint-venture-by-jan-1.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108081853-1735911628902-gettyimages-2172439379-20240919_lax_ka_027.jpeg?v=1735911664&w=1920&h=1080",
-            "publishedAt": "2025-09-16T02:24:00Z",
-            "content": "The Trump administration ordered Delta Air Lines and Aeromexico to end by Jan. 1 their nearly decade-old joint venture that allows them to coordinate schedules and prices for flights between the U.S.… [+1486 chars]"
+            "author": null,
+            "title": "US Department of Transportation issues final order to terminate the Delta-Aeromexico joint venture - Delta News Hub",
+            "description": null,
+            "url": "https://news.delta.com/us-department-transportation-issues-final-order-terminate-delta-aeromexico-joint-venture",
+            "urlToImage": "https://news.delta.com/sites/default/files/styles/twitter_share_1200/public/2022-05/aeromexico_delta_tails_2.jpg?itok=NseqyuBH",
+            "publishedAt": "2025-09-16T02:11:32Z",
+            "content": "Delta Air Lines issued the following statement after the U.S. Department of Transportation issued a final order on September 15 to dismantle the Delta-Aeromexico joint cooperation agreement effective… [+464 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "WPLG Local 10"
             },
-            "author": "Christopher Rugaber",
-            "title": "The Fed faces economic uncertainty and political pressure as it decides whether to cut rates - AP News",
-            "description": "The Federal Reserve is facing economic uncertainty and political pressure as it meets this week to decide whether to cut interest rates. Investors expect the Fed to reduce its benchmark interest rate by a quarter point, to about 4.1%. But it's not even clear …",
-            "url": "https://apnews.com/article/federal-reserve-inflation-jobs-rates-trump-powell-164fdc130275c0df17562273e1042bfe",
-            "urlToImage": "https://dims.apnews.com/dims4/default/14b973d/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb3%2Ff8%2Fc8b69d4558fd200c83f3e4726da8%2F85565bf0397d4d079c019ce5538bf9ff",
-            "publishedAt": "2025-09-16T01:22:00Z",
-            "content": "WASHINGTON (AP) In a sign of how unusual this weeks Federal Reserve meeting is, the decision it will make on interest rates usually the main event is just one of the key unknowns to be resolved when … [+5541 chars]"
+            "author": null,
+            "title": "Royal Caribbean Wonder of the Seas cruise ship returns to PortMiami after fight with injuries - WPLG Local 10",
+            "description": "The Royal Caribbean Wonder of the Seas cruise ship returned to PortMiami on Monday night after a fight injured guests.",
+            "url": "https://www.local10.com//news/local/2025/09/15/royal-caribbean-wonder-of-the-seas-cruise-ship-returns-to-portmiami-after-fight/",
+            "urlToImage": "https://www.local10.com/resizer/v2/MIIONMMI7FHK5MTKF57ZE2SAYE.jpg?auth=8cdf9b32ce1a2559031e352e7e435656d06f9ba0c99de84857af3e4df0ce8301&width=700",
+            "publishedAt": "2025-09-16T02:00:56Z",
+            "content": "MIAMI — Royal Caribbeans Wonder of the Seas cruise ship returned to PortMiami on Monday after a fight injured guests.\r\nLeer en español\r\nMiami-Dade Fire Rescue personnel responded to the related medic… [+846 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Joe  Walsh",
-            "title": "Senate confirms Trump adviser Stephen Miran to Fed board ahead of key interest rate vote this week - CBS News",
-            "description": "The Senate confirmed Trump economic adviser Stephen Miran to the Federal Reserve to finish Adriana Kugler's term. Miran plans to return to his White House job afterward.",
-            "url": "https://www.cbsnews.com/news/senate-stephen-miran-federal-reserve-trump-interest-rates-fomc/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/04/c26bea28-c3d9-48df-8167-23ea91481424/thumbnail/1200x630/9785a7b5e2fa285dbfca1b57e6a7fb89/gettyimages-2233013693-1.jpg",
-            "publishedAt": "2025-09-16T00:25:00Z",
-            "content": "The Senate on Monday confirmed economist and Trump adviser Stephen Miran to the Federal Reserve's Board of Governors, giving President Trump more influence over the Fed just one day before central ba… [+3900 chars]"
+            "author": "Kris  Van Cleave, John  Kelly",
+            "title": "Fume incidents on airplanes raise health concerns for passengers, crew members - CBS News",
+            "description": "One doctor who has treated flight crew members following fume exposure said, \" \"The most common problems I see are general nervous system problems.\"",
+            "url": "https://www.cbsnews.com/news/airplane-toxic-fumes-concerns/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/16/f989b653-e6c2-4eca-be0d-f892795550ac/thumbnail/1200x630/ec4c57b32ca74ec327113cc49a1a9ce8/a28-kvc-toxic-plane-fumes-en-091525-mxd-frame-421.jpg",
+            "publishedAt": "2025-09-16T00:06:00Z",
+            "content": "Back in February, the cabin of Delta flight 876 filled with hazy smoke mid-flight, forcing the plane to make an emergency landing.\r\nSimilar smoke or fume events happen on airliners at a rate of more … [+3934 chars]"
         },
         {
             "source": {
@@ -124,11 +306,11 @@
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "The Wall Street Journal",
+            "author": "Josh Beckerman",
             "title": "Microsoft Raises Quarterly Dividend by 9.6% - The Wall Street Journal",
-            "description": null,
+            "description": "The company raised its quarterly payout to 91 cents a share from 83 cents",
             "url": "https://www.wsj.com/business/microsoft-raises-quarterly-dividend-9-6-ef13efd0",
-            "urlToImage": null,
+            "urlToImage": "https://images.wsj.net/im-51234805/social",
             "publishedAt": "2025-09-15T22:55:00Z",
             "content": null
         },
@@ -137,13 +319,13 @@
                 "id": null,
                 "name": "Tipranks.com"
             },
-            "author": "Eddie Pan",
-            "title": "Gold Races to Record High on Stagflation Fears, Rate Cut Momentum - TipRanks",
-            "description": "Gold (XAUUSD) has witnessed an incredible year, with the precious metal rising by 39% year-to-date, outpacing its annual returns during the COVID-19 pandemic and th...",
-            "url": "https://www.tipranks.com/news/gold-races-to-another-record-high-on-stagflation-fears-rate-cut-momentum",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/shutterstock_2676405157-750x406.jpg",
-            "publishedAt": "2025-09-15T22:37:57Z",
-            "content": ""
+            "author": "Kirti Tak",
+            "title": "Novo Nordisk Stock (NVO) Rises After Triple-Dose Trial Hits 19% Weight Loss - TipRanks",
+            "description": "Healthcare company Novo Nordisk ($NVO) has reported promising results from its latest clinical trial for its obesity treatment. Notably, tripling the drug’s dose he...",
+            "url": "https://www.tipranks.com/news/novo-nordisks-drug-trial-achieves-19-weight-loss-fuels-rivalry-with-eli-lilly",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/shutterstock_2572052713-750x374.jpg",
+            "publishedAt": "2025-09-15T21:43:43Z",
+            "content": "Story HighlightsDenmark-based Novo Nordisk saw increased weight loss in patients after raising the dose of its obesity treatment in trials."
         },
         {
             "source": {
@@ -173,15 +355,28 @@
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
+                "id": null,
+                "name": "Investopedia"
             },
-            "author": "Kyle Orland",
-            "title": "What do people actually use ChatGPT for? OpenAI provides some numbers. - Ars Technica",
-            "description": "New study breaks down what 700 million users do across 2.6 billion daily GPT messages.",
-            "url": "https://arstechnica.com/ai/2025/09/seven-things-we-learned-from-openais-first-study-on-chatgpt-usage/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1397542920-1-2560x1440.jpg",
-            "publishedAt": "2025-09-15T20:26:34Z",
+            "author": "Diccon Hyatt",
+            "title": "Trump Is Pushing for a Major Interest Rate Cut. The Fed Isn't Expected to Deliver - Investopedia",
+            "description": "The Federal Reserve is expected to cut its key interest rate Wednesday, but it could be a fraction of the reduction President Donald Trump has demanded.",
+            "url": "https://www.investopedia.com/trump-says-the-fed-s-upcoming-rate-cut-won-t-be-enough-11810238",
+            "urlToImage": "https://www.investopedia.com/thmb/zufED1ZB-ON2cOzH2EKOoF9eVMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-869481258-d3d8ed2842254c09905c34145b0b1992.jpg",
+            "publishedAt": "2025-09-15T20:31:27Z",
+            "content": "<ul><li>The Federal Reserve is likely to cut its benchmark interest rate by a quarter-point to a range of 4% to 4.25%, but that is far short of the massive rate cuts President Donald Trump has demand… [+2164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Frances Yue, Myra P. Saefong, William Watts, Vivien Lou Chen, Joy Wiltermuth, Christine Idzelis, Isabel Wang, Joseph Adinolfi, Barbara Kollmeyer, Steve Goldstein",
+            "title": "Stock Market News Sept. 15, 2025: Dow edges up, S&P 500 and Nasdaq notch new records after Trump says China talks going well - MarketWatch",
+            "description": "Stocks kick off the week with investors reacting to President Trump's comments on China trade talks. Federal Reserve decision Wednesday set to be week's main event.",
+            "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-build-on-gains-ahead-of-fed-decision",
+            "urlToImage": "https://images.mktw.net/im-74147361/social",
+            "publishedAt": "2025-09-15T20:29:00Z",
             "content": null
         },
         {
@@ -190,51 +385,12 @@
                 "name": "Investor's Business Daily"
             },
             "author": "PATRICK SEITZ, Investor's Business Daily",
-            "title": "Nvidia Stock Falls As China Pressures U.S. Chipmakers - Investor's Business Daily",
-            "description": "Nvidia stock fell Monday along with shares of other U.S.-based chipmakers as China stepped up political pressure on the U.S.",
-            "url": "https://www.investors.com/news/technology/nvidia-stock-china-pressures-us-chipmakers/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/02/Stock-Nvidia-Voyager-02-company.jpg",
-            "publishedAt": "2025-09-15T20:21:00Z",
-            "content": "Nvidia (NVDA) stock fell Monday along with shares of other U.S.-based chipmakers as China stepped up political pressure on the U.S.\r\nOn Monday, China's State Administration for Market Regulation said… [+2314 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": null,
-            "title": "Stock Market Today: Dow Up As Buffett Stock Tests Entry; Tesla Jumps On Musk Move (Live Coverage) - Investor's Business Daily",
-            "description": "The Dow was firm and the Nasdaq gained. Tesla rose on the stock market today after an Elon Musk move. A Warren Buffett stock tested an entry.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-tesla-stock-tsla-elon-musk/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/05/Stock-WarrenBuffett-jacket-01-shutt.jpg",
-            "publishedAt": "2025-09-15T20:21:00Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Eva Roytburg",
-            "title": "Once richer than Peter Thiel, Pop Mart’s Wang Ning sees $6 billion vanish with Labubu hype - Fortune",
-            "description": "Once celebrities start posing with a toy, Gen-Z tunes out. What was scarce and cool suddenly feels commercial and inauthentic.",
-            "url": "https://fortune.com/2025/09/15/peter-thiel-labubu-craze-pop-mart-founder-wang-ning/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2232704138-e1757965533220.jpg?resize=1200,600",
-            "publishedAt": "2025-09-15T20:09:00Z",
-            "content": "Just weeks ago, Pop Mart founder Wang Ning was riding high with a net worth of $27 billion, richer than Silicon Valleys Peter Thiel, thanks to a rabbit-eared plush called Labubu. The ugly-cute doll h… [+3795 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Dee-Ann Durbin",
-            "title": "McDonald's plans $200 million investment to promote regenerative practices on US cattle ranches - AP News",
-            "description": "McDonald’s said Monday it plans to invest $200 million over the next seven years to promote regenerative agriculture practices on cattle ranches. The Chicago burger giant said the investment was its largest to date in support of regenerative agriculture in th…",
-            "url": "https://apnews.com/article/mcdonalds-ranches-cattle-regenerative-grants-bc76d2bf188a7e4c8807032df8a2aeb5",
-            "urlToImage": "https://dims.apnews.com/dims4/default/710db92/2147483647/strip/true/crop/5878x3306+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F46%2F42%2F8fbce84c54b19e735140fcb10718%2F36049a55af6d404993751eeddc5a637a",
-            "publishedAt": "2025-09-15T20:05:00Z",
-            "content": "McDonalds said Monday it plans to invest $200 million over the next seven years to promote regenerative agriculture practices on cattle ranches.\r\nThe Chicago burger giant said the investment was its … [+1696 chars]"
+            "title": "Micron Stock Notches Record High Ahead Of Earnings Report - Investor's Business Daily",
+            "description": "Micron stock hit an all-time high on Monday as the memory-chip leader prepares to release its fiscal fourth-quarter results next week.",
+            "url": "https://www.investors.com/news/technology/micron-stock-notches-record-high-fiscal-q4-earnings/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/stock-Micron-chip-company.jpg",
+            "publishedAt": "2025-09-15T20:26:00Z",
+            "content": "Micron Technology (MU) stock hit an all-time high on Monday as the memory-chip leader prepares to release its fiscal fourth-quarter results next week.\r\nOn Sunday, Deutsche Bank analyst Melissa Weathe… [+1843 chars]"
         },
         {
             "source": {
@@ -264,29 +420,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Elissa Welle",
-            "title": "Google thinks it can have AI summaries and a healthy web, too - The Verge",
-            "description": "Google said users increasingly want the AI summaries more than 10 blue links when asked about a lawsuit over AI Overviews.",
-            "url": "https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK093_Google_05.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-09-15T18:05:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhen asked about a new lawsuit over AI Overviews, Google said users increasingly want the AI summaries.\r\nWhen asked about a new lawsuit over AI Overviews, Google… [+2819 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Futurism"
+                "name": "Tipranks.com"
             },
-            "author": "Victor Tangermann",
-            "title": "Commercial Airplanes Are Dosing Passengers With Neurotoxic Gases - Futurism",
-            "description": "An increasing number of commercial airline passengers and flight attendants are being exposed to dangerous fumes while in the air.",
-            "url": "https://futurism.com/neoscope/commercial-airplanes-neurotoxic-gases",
-            "urlToImage": "https://wordpress-assets.futurism.com/2025/09/commercial-airplanes-neurotoxic-gases.jpg",
-            "publishedAt": "2025-09-15T17:14:03Z",
-            "content": "An increasing number of commercial airline passengers and flight attendants are being exposed to dangerous fumes while in the air, at times resulting in traumatic brain injuries that closely resemble… [+3479 chars]"
+            "author": "Eddie Pan",
+            "title": "Dow Jones Index Today: DJIA Flat Despite Upcoming Trump-Xi Call, Encouraging U.S.-China Trade Talks - TipRanks",
+            "description": "The Dow Jones (DJIA) is trading slightly in the red following encouraging developments from the fourth round of trade talks between the U.S. and China. President Tr...",
+            "url": "https://www.tipranks.com/news/dow-jones-index-today-djia-flat-on-upcoming-trump-xi-call-u-s-china-trade-talks",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/shutterstock_2627852243-2-750x406.jpg",
+            "publishedAt": "2025-09-15T17:30:30Z",
+            "content": ""
         },
         {
             "source": {
@@ -303,16 +446,16 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "techcrunch",
+                "name": "TechCrunch"
             },
-            "author": "Varsha Bansal",
-            "title": "Hundreds of Google AI Workers Were Fired Amid Fight Over Working Conditions - WIRED",
-            "description": "Over 200 contractors who work on improving Google’s AI products, including Gemini and AI Overviews, have been laid off, sources say. It’s the latest development in a conflict over pay and alleged poor working conditions.",
-            "url": "https://www.wired.com/story/hundreds-of-google-ai-workers-were-fired-amid-fight-over-working-conditions/",
-            "urlToImage": "https://media.wired.com/photos/68c335e050a2ad1d6d34f283/191:100/w_1280,c_limit/Hundreds-Google-AI-Workers-Fired-Amid-Row-Over-Working-Conditions-Business-2226698932.jpg",
-            "publishedAt": "2025-09-15T16:42:59Z",
-            "content": "More than 200 contractors who worked on evaluating and improving Googles AI products have been laid off without warning in at least two rounds of layoffs last month. The move comes amid an ongoing fi… [+3185 chars]"
+            "author": "Rebecca Szkutak",
+            "title": "China says Nvidia violated antitrust regulations - TechCrunch",
+            "description": "China is investigating Nvidia's 2020 acquisition of Mellanox Technologies as trade tensions between the U.S. and China heat up.",
+            "url": "https://techcrunch.com/2025/09/15/china-says-nvidia-violated-antitrust-regulations/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+            "publishedAt": "2025-09-15T16:44:02Z",
+            "content": "Trade tensions between China and the U.S. regarding semiconductors just got even more strained.\r\nOn Monday, China’s State Administration for Market Regulation ruled that semiconductor giant Nvidia wa… [+1758 chars]"
         },
         {
             "source": {
@@ -332,6 +475,19 @@
                 "id": "fortune",
                 "name": "Fortune"
             },
+            "author": "Beatrice Nolan",
+            "title": "New studies show what people really use ChatGPT and Claude for - Fortune",
+            "description": "Dueling AI usage reports show ChatGPT dominates personal tasks while Claude leads in coding and business automation.",
+            "url": "https://fortune.com/2025/09/15/openai-chatgpt-claude-anthropic-work-personal-use-new-data/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2203181438.jpg?resize=1200,600",
+            "publishedAt": "2025-09-15T15:57:40Z",
+            "content": "Rival AI companies Anthropic and OpenAI have released dueling studies that paint a picture of how people are using their flagship products, ChatGPT and Claude. Both pieces of research analyzed large … [+4079 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
             "author": "Preston Fore",
             "title": "Pope Leo warns that the world is in ‘big trouble’ if Elon Musk becomes the first trillionaire - Fortune",
             "description": "The top 1% increased their wealth by nearly $34 trillion over the last decade—enough to eliminate annual poverty 22 times over.",
@@ -343,28 +499,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Decrypt"
+                "name": "Ambcrypto.com"
             },
-            "author": "Logan Hitchcock",
-            "title": "Solana Gets First Billion-Dollar Publicly Traded Treasury as Forward Industries Buys 6.8M SOL - Decrypt",
-            "description": "Forward Industries announced a purchase of nearly 7 million SOL, becoming the largest publicly traded Solana treasury firm—by far.",
-            "url": "https://decrypt.co/339463/solana-first-billion-dollar-publicly-traded-treasury-forward-industries-6-8m-sol",
-            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png",
-            "publishedAt": "2025-09-15T14:48:45Z",
-            "content": "In brief\r\n<ul><li>Forward Industries acquired nearly 7 million SOL tokens for $1.58 billion, making it the largest publicly traded Solana treasury. </li><li>The firm bought unlocked SOL tokens via on… [+2705 chars]"
+            "author": "Samyukhtha L KM",
+            "title": "Solana is outpacing Bitcoin and Ethereum, and Wall Street has noticed - AMBCrypto",
+            "description": "TVL is at record highs, social buzz is back, and Wall Street is already piling in.",
+            "url": "https://ambcrypto.com/solana-is-outpacing-bitcoin-and-ethereum-and-wall-street-has-noticed/",
+            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2025/09/Samyukhtha-32-1000x600.webp",
+            "publishedAt": "2025-09-15T15:01:25Z",
+            "content": "Galaxy Digital scooped up $1.35 billion worth of Solana this week; an eye-catching 5.82 million SOL in just seven days. This is the biggest institutional buy of the altcoin in 2025 so far.\r\nWhat make… [+1439 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Benzinga"
+                "name": "Tipranks.com"
             },
-            "author": "Akanksha Bakshi",
-            "title": "Why Is Archer Aviation Stock Surging Monday? - Archer Aviation (NYSE:ACHR) - Benzinga",
-            "description": "Archer Aviation (NYSE: ACHR) to participate in White House's eVTOL pilot program with US airlines and cities for electric air taxis.",
-            "url": "https://www.benzinga.com/markets/tech/25/09/47666827/archer-aviation-joins-white-house-flying-taxi-program",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/15/The-Archer-Aviation-Trade.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-09-15T13:30:37Z",
-            "content": "Archer Aviation Inc.ACHR shares traded higher on Monday after the company announced on Friday that it will join the White House's new electric vertical takeoff and landing aircraft program.\r\nThe init… [+1989 chars]"
+            "author": "Eddie Pan",
+            "title": "Dow Jones Rallies as Trump Says U.S.-China Trade Talks Moving ‘Very Well’ - TipRanks",
+            "description": "The Dow Jones (DJIA) is set to open Monday’s trading session in the green on signs of progress in the fourth round of US-China trade talks in Madrid, Spain. The...",
+            "url": "https://www.tipranks.com/news/dow-jones-rallies-as-trump-says-u-s-china-trade-talks-moving-very-well",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/shutterstock_2606894233-5-750x406.jpg",
+            "publishedAt": "2025-09-15T15:01:11Z",
+            "content": ""
         },
         {
             "source": {
@@ -407,16 +563,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Barron's"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Barron's",
-            "title": "Fed’s Powell Faces a Power Struggle. Why the Outcome Is Key for Stock Markets and 5 More Things to Know Today. - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/fed-powell-stock-market-nvidia-things-to-know-today-f357ae70",
-            "urlToImage": null,
-            "publishedAt": "2025-09-15T10:52:00Z",
-            "content": null
+            "author": "David Uberti and Ben Eisen",
+            "title": "Gold Hasn’t Rallied This Much Since 1979 - Yahoo Finance",
+            "description": "A 39% price jump this year puts the precious metal on track for a greater annual price increase than during the depths of the Covid-19 pandemic or 2007-09...",
+            "url": "https://www.wsj.com/finance/commodities-futures/gold-price-rising-61bc0b52",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/E2BQr7e8kDVePljOFfDgmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/3b4d2037d074c208278a7f17e128bae5",
+            "publishedAt": "2025-09-15T09:30:00Z",
+            "content": "President Trump has redecorated the Oval Office with golden flourishes. - Al Drago/Press Pool\r\nKenneth Pack invested in gold for the first time in April to shield himself from what he saw as the diso… [+5419 chars]"
         },
         {
             "source": {
@@ -430,19 +586,6 @@
             "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/14/GettyImages-2226727716-scaled.jpg",
             "publishedAt": "2025-09-15T03:00:00Z",
             "content": "The tech pact Trump will agree with Prime Minister Keir Starmer has paved the way for some of that investment, the U.K. embassy in Washington believes. The document focuses on building partnerships t… [+1961 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Chuck McCutcheon",
-            "title": "U.S., U.K. aim to usher in \"golden age of nuclear\" in series of deals - Axios",
-            "description": "The deals are expected to be signed as part of Trump's upcoming U.K. visit.",
-            "url": "https://www.axios.com/2025/09/14/us-uk-nuclear-power-plants-england",
-            "urlToImage": "https://images.axios.com/Dws9gDhKj_Nx8BdZJdNFUuoOEYo=/0x0:1920x1080/1366x768/2025/09/14/1757889875199.jpg",
-            "publishedAt": "2025-09-14T23:01:49Z",
-            "content": "<ul><li>The deals are expected to be signed as part of Trump's state visit to the U.K. this week, the British Embassy in Washington, D.C., said in a statement.</li></ul>Driving the news: The agreemen… [+1900 chars]"
         }
     ]
 }

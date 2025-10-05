@@ -1,110 +1,279 @@
 {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Sean Conlon, Pia Singh",
-            "title": "Dow rallies 500 points to record as Wall Street looks past shutdown fears: Live updates - CNBC",
-            "description": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
-            "url": "https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206414-1759329302141-gettyimages-2238557509-anotherday123715883_pygnxms1.jpeg?v=1759329360&w=1920&h=1080",
-            "publishedAt": "2025-10-03T16:43:00Z",
-            "content": "Stocks rose to record highs Friday as Wall Street headed for solid weekly gains even with a U.S. government shutdown dragging on.\r\nThe 30-stock Dow Jones Industrial Average traded higher by 512 point… [+2696 chars]"
+            "author": "ABC News - Breaking News, Latest News and Videos",
+            "title": "Firefighters battle large blaze at Chevron refinery in Southern California - ABC News - Breaking News, Latest News and Videos",
+            "description": null,
+            "url": "https://abcnews.go.com/US/large-fire-erupts-chevron-refinery-southern-california/story?id\\\\u003d126171692",
+            "urlToImage": null,
+            "publishedAt": "2025-10-03T23:37:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Chris Gardner",
+            "title": "Lesbian Stand-Up Comedian Jessica Kirson Expresses “Sincere Regret” for Riyadh Comedy Festival Performance - hollywoodreporter.com",
+            "description": "Though she requested a guarantee that she could be “openly out as a lesbian on stage and perform gay material,” Kirson is apologizing to fans and confirms she will donate her fee to a human rights organization.",
+            "url": "http://www.hollywoodreporter.com/news/general-news/riyadh-comedy-festival-stand-up-jessica-kirson-apology-1236392972/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-2188139024.jpg?crop=0px%2C152px%2C4219px%2C2361px&resize=1440%2C810",
+            "publishedAt": "2025-10-03T23:15:43Z",
+            "content": "Comedian Jessica Kirson, an openly gay veteran of the stand-up stage, has issued a statement expressing “sincere regret” for being among the more than 50 stars to participate in Saudi Arabia’s Riyadh… [+6288 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Kerry  Breen, Emily Mae  Czachor, Alice  Gainer",
-            "title": "Sean \"Diddy\" Combs sentencing live updates as hearing for prostitution-related charges is underway - CBS News",
-            "description": "Sean \"Diddy\" Combs' sentencing hearing is being held three months after he was convicted ​on two prostitution-related charges.",
-            "url": "https://www.cbsnews.com/live-updates/diddy-sentencing-hearing/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/03/34e01797-2e6a-4f74-8b4c-df1628875eb0/thumbnail/1200x630/65d9dd589360bac1ddadc2cb05cea456/2025-09-24t154623z-280865120-rc2eygaxdhio-rtrmadp-3-people-sean-combs.jpg",
-            "publishedAt": "2025-10-03T16:29:00Z",
-            "content": "Combs, 55, faced five charges at his high-profile trial over the summer. He was ultimately convicted of two counts of transportation to engage in prostitution. He was acquitted on charges of sex traf… [+1912 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Steve Kopack, Phil Helsel, Laura Strickler",
-            "title": "Apple removes ICEBlock app after criticism from Trump administration - NBC News",
-            "description": "Apple said Thursday it is removing an app that allows users to share information about sightings of Immigration and Customs Enforcement agents, which the head of ICE had criticized",
-            "url": "https://www.nbcnews.com/news/us-news/apple-removes-iceblock-app-criticism-trump-administration-rcna235333",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251003-ice-agents-rs-e7ada7.jpg",
-            "publishedAt": "2025-10-03T15:47:00Z",
-            "content": "Apple said Thursday it is removing an app that allows users to share information about sightings of Immigration and Customs Enforcement agents, which the head of ICE had criticized.\r\nICEBlock was rem… [+3389 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Trump gives Hamas Sunday deadline to accept Gaza peace plan - BBC",
-            "description": "The 20-point proposal seeks to end the fighting immediately in return for the release of hostages and detained Gazans.",
-            "url": "https://www.bbc.com/news/articles/cdxq7zp7002o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a46e/live/6323eda0-a067-11f0-b2f9-dd258cdb2dcd.png",
-            "publishedAt": "2025-10-03T15:02:35Z",
-            "content": "US President Donald Trump has given Hamas a deadline to accept a US peace plan for Gaza or face \"all hell\".\r\nTrump wrote on his Truth Social platform on Friday that an agreement must be reached by 18… [+4551 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Michael Wayland",
-            "title": "Tesla, GM lead record U.S. EV sales this year as federal incentives end - CNBC",
-            "description": "New data provided to CNBC from Motor Intelligence shows sales of EVs topped 1 million units through the first nine months of the year.",
-            "url": "https://www.cnbc.com/2025/10/03/tesla-gm-ev-sales.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108027666-1725020774249-IMG_8313.JPG?v=1759504901&w=1920&h=1080",
-            "publishedAt": "2025-10-03T14:52:38Z",
-            "content": "DETROIT Tesla and General Motors are leading the U.S. automotive industry this year in record domestic sales of all-electric vehicles, as consumers hurried to buy EVs before up to $7,500 in federal i… [+3236 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Susan Svrluga, Danielle Douglas-Gabriel, Emily Davies",
-            "title": "Colleges weigh whether to sign onto Trump plan or forgo federal benefits - The Washington Post",
-            "description": "A new proposal from the Trump administration would give colleges funding advantages if they adopt conservative priorities.",
-            "url": "https://www.washingtonpost.com/education/2025/10/03/trump-administration-college-funding-compact/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GLXLR6ZTFYA4SDAKWBI5DBB6LE_size-normalized.JPG&w=1440",
-            "publishedAt": "2025-10-03T14:32:07Z",
-            "content": "The Trump administration this week offered a select group of universities the opportunity to score priority access for federal funding, prompting an enthusiastic and swift response from a university … [+39 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Lindsay Whitehurst",
-            "title": "Supreme Court will consider overturning Hawaii’s strict ban on guns on private property - AP News",
-            "description": "The Supreme Court says it'll take up its latest gun rights case and consider striking down strict regulations on where people can carry firearms in Hawaii. President Donald Trump’s Republican administration had urged the justices to take the case, arguing the…",
-            "url": "https://apnews.com/article/supreme-court-hawaii-guns-ed5a815c9f9c3f1397a3dd710fd7e17c",
-            "urlToImage": "https://dims.apnews.com/dims4/default/9df6bd9/2147483647/strip/true/crop/5294x2978+0+276/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F46%2F98%2F15bf96f11e4ed789b0a532d8df22%2F6c34f5e64d2c46b2866b7564efc9ac57",
-            "publishedAt": "2025-10-03T14:02:00Z",
-            "content": "WASHINGTON (AP) The Supreme Court said on Friday that it will take up its latest gun rights case and consider striking down a strict regulation on where people can carry firearms in Hawaii. \r\nPreside… [+1965 chars]"
+            "author": "James  LaPorta",
+            "title": "Netanyahu ordered drone attacks on Gaza-bound humanitarian aid boats off Tunisia, sources say - CBS News",
+            "description": "No one was hurt when two vessels that were part of a flotilla bound for Gaza mysteriously caught fire last month.",
+            "url": "https://www.cbsnews.com/news/netanyahu-drone-attacks-gaza-aid-boats-tunisia/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/03/4d1e5b13-4f07-4d24-b3a7-63f68dcae9df/thumbnail/1200x630/a0416e72748d0610eb2c20809483ac20/sumud-flotilla-2025-09-10t022726z-939082202.jpg",
+            "publishedAt": "2025-10-03T23:03:51Z",
+            "content": "Washington — Israeli Prime Minister Benjamin Netanyahu directly approved military operations on two vessels early last month that were part of a Gaza-bound flotilla carrying aid and pro-Palestinian s… [+5714 chars]"
         },
         {
             "source": {
                 "id": "politico",
                 "name": "Politico"
             },
-            "author": "Gregory Svirnovskiy",
-            "title": "Cori Bush launches comeback bid for Missouri seat - Politico",
-            "description": "She was one of two progressive Dems to lose in primaries against candidates backed by AIPAC last summer.",
-            "url": "https://www.politico.com/live-updates/2025/10/03/congress/cori-bushs-comeback-00592723",
-            "urlToImage": "https://www.politico.com/dims4/default/7628da1/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fff%2F1d%2F16b8be75444ab4f85d4d8897c452%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2165078168",
-            "publishedAt": "2025-10-03T13:14:05Z",
+            "author": "Eric He",
+            "title": "Calling a ‘code red,’ Newsom says universities must reject Trump’s compact - Politico",
+            "description": "The governor applied more pressure on USC, which received a proposal this week to cooperate with the Trump administration.",
+            "url": "https://www.politico.com/news/2025/10/03/calling-a-code-red-newsom-says-universities-must-reject-trumps-compact-00593991",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa3%2Ff7%2F36464d6d4f849bfee6bc656e31e7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2231388676",
+            "publishedAt": "2025-10-03T22:33:15Z",
+            "content": "Do the right thing, Newsom said. Whats the point of the system? Whats the point of the university? Whats the point of all of this?\r\nIn an all caps statement\r\n on Thursday, Newsom called the proposal … [+3567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Teri Schultz",
+            "title": "Denmark prepares for a Russian 'hybrid war' after repeated drone spottings - NPR",
+            "description": "Many Danes are rethinking their personal security, and stocking up on emergency supplies, amid unidentified drone appearances. Denmark's leaders warn that Russia is waging a \"hybrid war.\"",
+            "url": "https://www.npr.org/2025/10/03/nx-s1-5561990/denmark-russia-drones-hybrid-war",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F46%2Fd33d5a8242ddb50e168541bb3248%2Fgettyimages-2237861892.jpg",
+            "publishedAt": "2025-10-03T21:57:41Z",
+            "content": "COPENHAGEN, Denmark Trine, a hotel receptionist in the Danish capital, has had trouble sleeping recently. She is too nervous about the unsettling noise of unidentified drones hovering in the night.\r\n… [+5716 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin  Yilek, Kathryn  Watson, Melissa  Quinn",
+            "title": "Government shutdown to continue into next week after Senate votes fail again - CBS News",
+            "description": "The 2025 government shutdown stretched into its third day on Friday, with the Senate again failing to advance competing proposals to end the impasse.",
+            "url": "https://www.cbsnews.com/live-updates/government-shutdown-third-day-trump-senate-house/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/03/93fcf742-eb77-40a8-b0ea-150efcd5ebaf/thumbnail/1200x630/518884b3fdc649ca8111d6aa45a356fb/screenshot-2025-10-03-at-2-45-23-pm.png",
+            "publishedAt": "2025-10-03T21:55:00Z",
+            "content": "Senate Majority Leader John Thune of South Dakota holds a copy of a continuing resolution as he speaks alongside House Speaker Mike Johnson of Louisiana in Statuary Hall at the U.S. Capitol in Washin… [+2168 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Michael Stratford",
+            "title": "Treasury Department considers minting a $1 Trump coin - Politico",
+            "description": "The draft design of the coin, which was overseen by the Office of the U.S. Treasurer Brandon Beach, features Trump’s profile on one side of the coin.",
+            "url": "https://www.politico.com/news/2025/10/03/treasury-department-trump-dollar-coin-00593368",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffa%2F2d%2Faab2c62047bca78bae9dee04eae9%2Ftrumpcoins.jpg",
+            "publishedAt": "2025-10-03T21:34:19Z",
+            "content": "The Treasury Department is considering producing one-dollar coins emblazoned with images of President Donald Trump next year. | Treasury Department\r\nThe Treasury Department is considering producing a… [+961 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": "Shane Dixon Kavanaugh | The Oregonian/OregonLive",
+            "title": "Trump called for troops in Portland. Here’s why Oregon’s governor was ready - OregonLive.com",
+            "description": "“Our ability to respond efficiently to the President’s order of military intervention in recent days wasn’t by accident, it was by design,” Gov. Tina Kotek told The Oregonian/OregonLive.",
+            "url": "https://www.oregonlive.com/politics/2025/10/trump-called-for-troops-in-portland-heres-why-oregons-governor-was-ready.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/v2/OXV2ECLYOBA3TBI24EUCZW5ONM.JPG?auth=771b351473647cc0c1b3e7c11af53a47b893d3cd710fbe66f4e88a46d58171ba&width=1280&smart=true&quality=90",
+            "publishedAt": "2025-10-03T21:08:00Z",
+            "content": "President Donald Trumps escalating rhetoric about Portland peaked last weekend when he seized control of 200 Oregon National Guard troops to deploy to what he claimed was a war-ravaged city. \r\nAlmost… [+7398 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Lawrence Hurley",
+            "title": "Supreme Court allows Trump to revoke protected immigration status for thousands of Venezuelans - NBC News",
+            "description": "The Supreme Court on Friday paved the way for the Trump administration to revoke temporary legal status for up to 600,000 Venezuelan immigrants, meaning some could ultimately be deported.",
+            "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-revoke-tps-immigration-venezuelans-rcna234537",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250929-venezuelan-migrants-border-se-403p-5cc821.jpg",
+            "publishedAt": "2025-10-03T20:42:12Z",
+            "content": "WASHINGTON The Supreme Court on Friday paved the way for the Trump administration to revoke temporarylegal status for up to 600,000 Venezuelan immigrants, meaning some could ultimately be deported.\r\n… [+2719 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Lamar Jackson ruled out for Sunday’s game - NBC Sports",
+            "description": "Cooper Rush will start at quarterback for the Ravens.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-ruled-out-for-sundays-game",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/60f0fef/2147483647/strip/true/crop/5338x3003+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2Fad%2Fcc25c16b43b6b333667606ebdab3%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238575609",
+            "publishedAt": "2025-10-03T20:22:12Z",
+            "content": "It will be Cooper Rush running the Ravens offense against the Texans on Sunday. \r\nThe Ravens ruled Lamar Jackson out on Friday due to the hamstring injury that kept him out of practice all week. Jack… [+932 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Google’s Gemini AI app could soon be getting a big makeover - TechCrunch",
+            "description": "The company is seemingly experimenting with a new user interface that would shift the app from having a chatbot-style look and feel to one offering a scrollable feed with suggested prompts accompanied by eye-catching photos.",
+            "url": "https://techcrunch.com/2025/10/03/googles-gemini-ai-app-could-soon-be-getting-a-big-makeover/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
+            "publishedAt": "2025-10-03T19:18:43Z",
+            "content": "After the success of OpenAI’s video editing app Sora, now at the top of the U.S. App Store, Google may be looking to give its Gemini AI app a more visually focused revamp. The company is seemingly ex… [+1939 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "North Carolina Gov. Stein signs criminal justice bill into law after Ukrainian refugee’s death - PBS",
+            "description": "North Carolina’s Democratic governor signed into law on Friday a criminal justice measure that the state’s Republican-controlled legislature approved in response to the stabbing death of a Ukrainian refugee on a Charlotte commuter train.",
+            "url": "https://www.pbs.org/newshour/politics/north-carolina-gov-stein-signs-criminal-justice-bill-into-law-after-ukrainian-refugees-death",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/12/GettyImages-973381846-1024x683.jpg",
+            "publishedAt": "2025-10-03T19:09:53Z",
+            "content": "RALEIGH, N.C. (AP) North Carolinas Democratic governor signed into law on Friday a criminal justice measure that the states Republican-controlled legislature approved in response to the stabbing deat… [+3629 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Shutdown has already delayed the jobs report. More critical reports could be held up - NPR",
+            "description": "The government's monthly jobs report was not published Friday as a result of the federal shutdown.  That's left businesses and policymakers in the dark about the strength of the U.S. job market.",
+            "url": "https://www.npr.org/2025/10/03/nx-s1-5561750/shutdown-jobs-labor-economy-wall-street",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5352x3011+0+227/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F6e%2F89d9f2094e77ae6b163e2a8c4fd2%2Fgettyimages-1495450736.jpg",
+            "publishedAt": "2025-10-03T18:44:39Z",
+            "content": "For economists who follow the job market, the first Friday of the month is usually like Christmas morning. That's when the Labor Department ordinarily delivers its closely-watched report on jobs and … [+4508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "STEVE KARNOWSKI and MARC LEVY",
+            "title": "Regulators approve disputed $6.2B takeover of Minnesota Power by investment group - Yahoo Finance",
+            "description": "Minnesota regulators voted unanimously Friday to approve an investment group's takeover of a power company over the objections of the state attorney general,...",
+            "url": "https://finance.yahoo.com/news/regulators-approve-disputed-6-2b-174708784.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cj4Bu6jx0uhVhNLdznjwbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/ap_finance_articles_694/b866152cfa0d91fe8ff3e41b2daee883",
+            "publishedAt": "2025-10-03T17:47:08Z",
+            "content": "MINNEAPOLIS (AP) Minnesota regulators voted unanimously Friday to approve an investment group's takeover of a power company over the objections of the state attorney general, big industrial electrici… [+3814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vulture"
+            },
+            "author": "Fran Hoepfner",
+            "title": "Taylor Swift Has a Weird Understanding of ‘Being Canceled’ - Vulture",
+            "description": "Is her song ‘CANCELLED!’ about Blake Lively? Brittany Mahomes? Matty Healy? Swift says she likes her friends canceled, but history says otherwise.",
+            "url": "http://www.vulture.com/article/taylor-swift-cancelled-meaning.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/132/391/869947253dce9992a766a53140915723db-blake-taylor.1x.rsocial.w1200.jpg",
+            "publishedAt": "2025-10-03T16:39:34Z",
+            "content": "If you can get past the Disney-villain quality of CANCELLED!, the track is one of the strangest on The Life of a Showgirl, and one of three tracks where evil Taylor Swift comes out to play (alongside… [+4325 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Jamie Carter",
+            "title": "Harvest Moon 2025: Watch a rare October supermoon rise amid shooting stars - Live Science",
+            "description": "The famous Harvest Moon — the first of three supermoons of 2025 — will be the first full moon of autumn when it rises on Oct. 6-7.",
+            "url": "https://www.livescience.com/space/the-moon/harvest-moon-2025-watch-a-rare-october-supermoon-rise-amid-shooting-stars",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/idrmhtNiCq25rahBgJoWfL-1600-80.png",
+            "publishedAt": "2025-10-03T15:39:07Z",
+            "content": "On Monday (Oct. 6) the first supermoon of 2025 will rise big and bright into the autumn sky. Dubbed the Harvest Moon — one of the most famous full moons of the year\r\n — it is the first full moon of a… [+2907 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Jack Maloney",
+            "title": "2025 WNBA Finals predictions: Expert picks for Aces vs. Mercury as Phoenix tries to pull upset - CBS Sports",
+            "description": "The 2025 WNBA Finals get started on Friday night in Vegas",
+            "url": "https://www.cbssports.com/wnba/news/2025-wnba-finals-predictions-expert-picks-for-aces-vs-mercury-as-phoenix-tries-to-pull-upset/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/03/b3eeb20f-6361-455d-86d8-3c5fd8181c84/thumbnail/1200x675/e44f44aee6cdbee596e5e8c820686861/mercury-aces-getty.png",
+            "publishedAt": "2025-10-03T15:31:00Z",
+            "content": "The 2025 WNBA Finals will get underway Friday with Game 1 between the Las Vegas Aces and Phoenix Mercury. For the first time in league history, the Finals will be a best-of-seven series, up from the … [+4327 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Bill Kirkos, Alisha Ebrahimji, Taylor Romine",
+            "title": "Protesters rally outside Illinois ICE facility as Kristi Noem visits - CNN",
+            "description": "About a dozen protesters remain after clashes with an assortment of law enforcement agencies came to a head outside the Broadview Immigration and Customs Enforcement facility near Chicago.",
+            "url": "https://www.cnn.com/2025/10/03/us/illinois-broadview-ice-protests",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/img-0928.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-10-03T15:25:11Z",
+            "content": "About a dozen protesters remain after clashes with an assortment of law enforcement agencies came to a head outside the Broadview Immigration and Customs Enforcement facility near Chicago.\r\nEarlier F… [+6132 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft is about to launch free Xbox Cloud Gaming with ads - The Verge",
+            "description": "Microsoft is getting ready to launch an ad-supported version of Xbox Cloud Gaming. The free streaming is being tested internally at Microsoft.",
+            "url": "https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-10-03T15:18:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft employees can now access an ad-supported version of Xbox Cloud Gaming ahead of a public test.\r\nMicrosoft employees can now access an ad-supported versi… [+3757 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Andrew Cunningham",
+            "title": "Apple iPhone 17 Pro review: Come for the camera, stay for the battery - Ars Technica",
+            "description": "If your iPhone is your main or only camera, the iPhone 17 Pro is for you.",
+            "url": "https://arstechnica.com/gadgets/2025/10/apple-iphone-17-pro-review-come-for-the-camera-stay-for-the-battery/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_3437-1152x648.jpeg",
+            "publishedAt": "2025-10-03T15:04:37Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Dylan Svoboda",
+            "title": "MLB World Series odds shift ahead of divisional matchups - New York Post",
+            "description": "There’s a new World Series favorite heading into the divisional round. But it’s also a familiar one.",
+            "url": "https://nypost.com/2025/10/03/betting/mlb-world-series-odds-shift-ahead-of-divisional-matchups/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/AP_Reds_Dodgers_Baseball_59370-c64c4-0.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-10-03T13:25:24Z",
+            "content": "Gambling content 21+. The New York Post may receive an affiliate commission if you sign up through our links. Read our editorial standards for more information.\r\nThere’s a new World Series favorite h… [+2183 chars]"
         },
         {
             "source": {
@@ -121,133 +290,16 @@
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Anthony Gharib",
-            "title": "How The Rock transformed his body -- and mind -- into Mark Kerr - ESPN",
-            "description": "Becoming Mark Kerr, a 6-foot-3, 260-pound ex-MMA fighter, included a process unlike any other during Johnson's acting career.",
-            "url": "https://www.espn.com/mma/story/_/id/46467056/the-smashing-machine-rock-dwayne-johnson-transformation-mark-kerr",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1002%2Fr1554680_1296x729_16%2D9.jpg",
-            "publishedAt": "2025-10-03T12:42:00Z",
-            "content": "SITTING IN A Beverly Hills hotel room during one of multiple media junkets, Dwayne Johnson spent nearly three minutes explaining how he morphed his mind and body into Mark Kerr for \"The Smashing Mach… [+8728 chars]"
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": null,
-            "title": "Rams coach Sean McVay 'sick' after regrettable call in overtime loss to 49ers: 'Bad call by me' - NFL.com",
-            "description": "Los Angeles Rams head coach Sean McVay admitted quickly after a 26-23 overtime loss to the San Francisco 49ers that he failed his club with his final decision.",
-            "url": "https://www.nfl.com/news/rams-coach-sean-mcvay-sick-after-regrettable-call-in-overtime-loss-to-49ers-bad-call-by-me",
-            "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/tecjqrzurk8bsvlooumt",
-            "publishedAt": "2025-10-03T12:21:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Emmet  Lyons",
-            "title": "Manchester synagogue attack victim possibly killed by officer's gunshot, police say - CBS News",
-            "description": "Police say one Manchester synagogue attack victim may have been killed by an officer's gunshot, in \"a tragic and unforeseen\" consequence of the rapid response.",
-            "url": "https://www.cbsnews.com/news/manchester-synagogue-attack-victim-possibly-killed-by-police-gunshot/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/03/46fdc91f-4406-44ea-9ed7-32fbf556438a/thumbnail/1200x630/4fad294ebec9540f21d6e614373faa02/manchester-synagogue-2238549639.jpg",
-            "publishedAt": "2025-10-03T12:11:00Z",
-            "content": "London — One of the two people killed in Thursday's terrorist attack outside a synagogue in the northern English city of Manchester may have died of a gunshot fired by a police officer, the Greater M… [+3732 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Space.com"
             },
-            "author": "See full bio",
-            "title": "Here's What Makes Apple's New 40-Watt Power Adapter Unique - CNET",
-            "description": "You can get a 60-watt boost of power, if you connect the right gear.",
-            "url": "https://www.cnet.com/tech/mobile/heres-what-makes-apples-new-40-watt-power-adapter-unique/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/4f5275f74c51212b9960babcc134d546e4e98b4e/hub/2025/10/03/d8b101f9-216b-4728-b978-efcb614e5d3e/251002-clean-omt-ep-139-what-makes-apples-charger-so-special-no-text-v1.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-03T12:00:00Z",
-            "content": "There's something special about Apple's new little charger plug that released with the iPhone 17 lineup. It's called the 40W Dynamic Power Adapter, and it looks like a pretty basic USB-C charger plug… [+1302 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Dan Mangan",
-            "title": "Trump administration puts on hold $2.1 billion in Chicago infrastructure projects, Vought says - CNBC",
-            "description": "The move came on the third day of the federal government shutdown, which President Donald Trump has blamed on Democrats in Congress.",
-            "url": "https://www.cnbc.com/2025/10/03/trump-chicago-infrastructure-shutdown-vought.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206658-1759344508737-gettyimages-2232913864-MEI-USA-DG-NCCWS-20250903-005.jpeg?v=1759344532&w=1920&h=1080",
-            "publishedAt": "2025-10-03T11:44:27Z",
-            "content": "The Trump administration on Friday froze $2.1 billion in Department of Transportation funding for two projects to improve Chicago's transit system.\r\nThe DOT in a statement blamed Congress' two Democr… [+4098 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jordan Valinsky",
-            "title": "Cracker Barrel dumps the design firm behind its disastrous logo change - CNN",
-            "description": "Cracker Barrel has cut ties with the design firm that created its controversial new logo and redesigned restaurants. The restaurant chain started implementing the changes but quickly reversed course following online backlash – including from President Donald …",
-            "url": "https://www.cnn.com/2025/10/03/food/cracker-barrel-drops-design-firm",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/more-like-us-barrel-1.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-10-03T11:36:30Z",
-            "content": "Cracker Barrel has cut ties with the design firm that created its controversial new logo and redesigned restaurants. The restaurant chain started implementing the changes but quickly reversed course … [+2495 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Abha Bhattarai",
-            "title": "Shutdown delays jobs report, obscuring potential economic problems - The Washington Post",
-            "description": "The government shutdown is curtailing key economic data, including the jobs report, leaving the US economy in a state of uncertainty.",
-            "url": "https://www.washingtonpost.com/business/2025/10/03/shutdown-economy-jobs-data-labor-department/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZZ3L6KDGXQ3U7EIWNQ7GNC3EU_size-normalized.jpg&w=1440",
-            "publishedAt": "2025-10-03T11:32:11Z",
-            "content": "Three days into the government shutdown, its increasingly unclear where the U.S. economy is headed not because of a direct hit from the federal closures, but a lack of official data.\r\nThe absence of … [+180 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Richard Deitsch",
-            "title": "ESPN needs to take on tense topics in WNBA Finals coverage - Yahoo Sports",
-            "description": "Napheesa Collier won’t be playing in the WNBA Finals starting tonight, but her shadow will be everywhere in Phoenix and Las Vegas. It was one thing for a...",
-            "url": "https://sports.yahoo.com/article/espn-needs-tense-topics-wnba-111607078.html",
-            "urlToImage": "https://media.zenfs.com/en/the_athletic_articles_169/72763df7c2805b400af4bf0cbcf75670",
-            "publishedAt": "2025-10-03T11:16:07Z",
-            "content": "Napheesa Collier wont be playing in the WNBA Finals starting tonight, but her shadow will be everywhere in Phoenix and Las Vegas. It was one thing for a player of Colliers resume perennial WNBA All-S… [+7352 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "247Sports"
-            },
-            "author": "Zach Blostein",
-            "title": "Noles247 Game Predictions: No. 18 FSU vs No. 3 Miami - 247Sports",
-            "description": "The Noles247 staff shares their game predictions as Florida State looks for their fourth win of the season",
-            "url": "https://247sports.com/college/florida-state/longformarticle/noles247-game-predictions-no-18-fsu-vs-no-3-miami-255210652/",
-            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/872/248/13248872.png?width=1200&height=628&crop=1.91:1&fit=cover",
-            "publishedAt": "2025-10-03T11:13:42Z",
-            "content": "Florida State went 3-0 to begin the 2025 season, with wins over ranked Alabama, as well as FCS East Texas A&amp;M and Kent State. The Seminoles, however, lost their first game of the season last week… [+596 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GamesIndustry.biz"
-            },
-            "author": "Sophie McEvoy",
-            "title": "Microsoft says its \"trying to reinforce\" Xbox Game Pass price increases \"by adding more value\" - GamesIndustry.biz",
-            "description": "\"We understand price increases are never fun for anybody,\" says firm's director of gaming and platform communications",
-            "url": "https://www.gamesindustry.biz/microsoft-says-its-trying-to-reinforce-xbox-game-pass-price-increases-by-adding-more-value",
-            "urlToImage": "https://assetsio.gnwcdn.com/Xbox-Game-Pass_vnC85s1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2025-10-03T10:28:33Z",
-            "content": "Microsoft says it \"understand[s] price increases are never fun for anybody\" following its decision to raise the prices of Xbox Game Pass tiers.\r\nSpeaking to The Verge, Microsoft director of gaming an… [+1289 chars]"
+            "author": "Sharmila Kuthunur",
+            "title": "'The metal detector has gone off': Perseverance rover's find is a shiny new clue in the search for life on Mars - Space",
+            "description": "\"This is the moment where the metal detector has gone off and you've dug up something shiny. You still need to find out exactly what you've got — but you've got something to work with.\"",
+            "url": "https://www.space.com/astronomy/mars/the-metal-detector-has-gone-off-perseverance-rovers-find-is-a-shiny-new-clue-in-the-search-for-life-on-mars",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/TAdaVAkHPhPbicym76RrpM-1920-80.jpg",
+            "publishedAt": "2025-10-03T10:00:00Z",
+            "content": "Mars hasn't given us proof of life, but it has handed scientists a new kind of mystery.\r\nOn the western edge of Jezero Crater, NASA's Perseverance rover\r\n has been exploring Neretva Vallis, a river-c… [+8479 chars]"
         },
         {
             "source": {
@@ -264,16 +316,16 @@
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Zachary Basu",
-            "title": "Trump charts path to total control amid government shutdown - Axios",
-            "description": "So far, the standoff is only emboldening the White House.",
-            "url": "https://www.axios.com/2025/10/03/trump-government-shutdown-firings-executive-power",
-            "urlToImage": "https://images.axios.com/HmCgzVamc2V2weX3km0N2VEzyN0=/0x0:1920x1080/1366x768/2025/10/02/1759435722846.jpg",
-            "publishedAt": "2025-10-03T09:05:24Z",
-            "content": "Zoom in: Trump said he met Thursday with White House budget chief Russ Vought to discuss what \"Democrat agencies\" should get cuts, casting the shutdown as a chance to shrink a federal workforce Trump… [+3860 chars]"
+            "author": "ABC News",
+            "title": "Breast cancer by the numbers: How survival rates have improved over the past 40 years - ABC News - Breaking News, Latest News and Videos",
+            "description": "",
+            "url": "https://abcnews.go.com/Health/Recipes/story?id=40",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2025-10-03T09:12:25Z",
+            "content": "&amp;#151; -- U.S. counterterrorism officials are looking at an emergency proposal on the legal steps needed to postpone the presidential election in case of such an attack, Newsweek reported on Sund… [+1987 chars]"
         },
         {
             "source": {
@@ -287,32 +339,6 @@
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250228-Meseals-aa-3415-3c94d9.jpg",
             "publishedAt": "2025-10-03T09:00:00Z",
             "content": "Measles outbreaks continue to simmer and spread across the country, with cases now popping up quickly in Minnesota.\r\nOn Wednesday, the Minnesota Department of Health alerted residents that it had con… [+2508 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Alastair McCready",
-            "title": "Last boat in Gaza humanitarian flotilla intercepted by Israel - Al Jazeera",
-            "description": "Israel says it has deported four Italian citizens from the flotilla and is preparing to deport the rest of the activists",
-            "url": "https://www.aljazeera.com/news/2025/10/3/israel-dismantles-gaza-humanitarian-flotilla-but-one-boat-sails",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/Screenshot-2025-10-03-at-11.18.57-1759461564.png?resize=1200%2C630",
-            "publishedAt": "2025-10-03T08:26:15Z",
-            "content": "The Israeli military has dismantled an entire humanitarian flotilla seeking to break its siege on war-ravaged Gaza, arresting hundreds of activists from dozens of vessels.\r\nLivestream video showed Is… [+4697 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB.com"
-            },
-            "author": "Bryan Hoch",
-            "title": "Welcome to October! Schlittler shakes off Boston barbs with 12-K masterpiece - MLB.com",
-            "description": "NEW YORK – Cam Schlittler didn’t need extra motivation to elevate his first October test, but the Yankees rookie received it anyway – and the Red Sox wound up paying the price.\nHaving absorbed ugly online chirps from Red Sox Nation, the Walpole, Mass., native…",
-            "url": "https://www.mlb.com/news/cam-schlittler-strikes-out-12-al-wild-card-series-game-3",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/p6o7rcfwo9yerhfsk4xd.jpg",
-            "publishedAt": "2025-10-03T05:45:24Z",
-            "content": "NEW YORK Cam Schlittler didnt need extra motivation to elevate his first October test, but the Yankees rookie received it anyway and the Red Sox wound up paying the price.\r\nHaving absorbed ugly onlin… [+4255 chars]"
         },
         {
             "source": {
@@ -330,41 +356,15 @@
         {
             "source": {
                 "id": null,
-                "name": "OregonLive"
+                "name": "Medical Xpress"
             },
-            "author": "Jamie Hale | The Oregonian/OregonLive",
-            "title": "When the ‘super harvest moon’ will usher in the dark season - OregonLive.com",
-            "description": "The first full moon of fall will be a little bigger and brighter than usual.",
-            "url": "https://www.oregonlive.com/weather/2025/10/super-harvest-moon-will-usher-in-the-dark-season.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/v2/KK6EXD6Z6VBTBKDVPPW3JQTL5I.JPG?auth=8df0f976e52cd07750877a8c347ae811cc9dbd1144ade76e9150ab355867e32b&width=1280&smart=true&quality=90",
-            "publishedAt": "2025-10-02T16:00:00Z",
-            "content": "This years harvest moon is going to be a little more, well, super.\r\nThe first full moon of fall, coming the night of Oct. 6, will appear a little bigger and brighter than usual as it rises over the h… [+2814 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TechSpot"
-            },
-            "author": "Rob Thubron",
-            "title": "Instagram boss says it's not secretly using your phone's microphone to record you – here's why you still believe it - TechSpot",
-            "description": "The belief that smartphones surreptitiously listen to our spoken conversations to serve us targeted ads has been around almost as long as modern handsets; most people have...",
-            "url": "https://www.techspot.com/news/109718-instagram-boss-not-secretly-using-phone-microphone-record.html",
-            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2023/09/2023-09-29-image-6.jpg",
-            "publishedAt": "2025-10-02T14:31:00Z",
-            "content": "A hot potato: Many people's long-held belief that internet companies, especially Facebook/Meta, secretly record conversations to serve targeted ads is once again in the spotlight. Adam Mosseri, head … [+3090 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Julia Ornedo",
-            "title": "Scientists Identify New Jurassic Creature After Unearthing Fossil - The Daily Beast",
-            "description": "The fascinating specimen was named after the area it was discovered in.",
-            "url": "https://www.thedailybeast.com/scientists-identify-new-jurassic-creature-after-unearthing-fossil/",
-            "urlToImage": "https://www.thedailybeast.com/resizer/v2/UKS6DHQT2RGJHLATU6TBL5CCMQ.jpg?smart=true&auth=e48e1d17d7fccdebeaa5a6a192d616cc76cfabe37302e0b240a9c392c6d40015&width=1200&height=630",
-            "publishedAt": "2025-10-02T01:50:00Z",
-            "content": "Experts have unearthed a new species of Jurassic reptile on the west coast of Scotland. The fossil belonged to a previously unknown reptile that roamed the Earth about 167 million years ago and is be… [+751 chars]"
+            "author": "Perelman School of Medicine at the University of Pennsylvania",
+            "title": "Psilocybin targets brain circuits to relieve chronic pain and depression, study suggests - Medical Xpress",
+            "description": "Researchers at Penn Medicine have identified specific brain circuits that are impacted by psilocybin—the active compound found in some psychedelic mushrooms—which could lead to new paths forward for pain and mental health management options.",
+            "url": "https://medicalxpress.com/news/2025-10-psilocybin-brain-circuits-relieve-chronic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/brain-circuit.jpg",
+            "publishedAt": "2025-10-02T09:00:04Z",
+            "content": "Researchers at Penn Medicine have identified specific brain circuits that are impacted by psilocybinthe active compound found in some psychedelic mushroomswhich could lead to new paths forward for pa… [+4394 chars]"
         }
     ]
 }

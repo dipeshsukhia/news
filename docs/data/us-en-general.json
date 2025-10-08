@@ -4,6 +4,84 @@
     "articles": [
         {
             "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News - Breaking News, Latest News and Videos",
+            "title": "Medical helicopter crashes on California freeway, crew taken to area hospitals, company says - ABC News - Breaking News, Latest News and Videos",
+            "description": null,
+            "url": "https://abcnews.go.com/US/medical-helicopter-crashes-california-freeway-crew-area-hospitals/story?id\\\\u003d126278919",
+            "urlToImage": null,
+            "publishedAt": "2025-10-07T07:41:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Hamas celebrates two years since October 7, calls terror attack a ‘glorious day’ - The Jerusalem Post",
+            "description": "The Hamas terror organization shared a statement celebrating the two-year mark since the October 7 attacks, with an AI video that showed Yahya Sinwar and footage from the terror attack.",
+            "url": "https://www.jpost.com/middle-east/article-869653",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/564641",
+            "publishedAt": "2025-10-07T07:05:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Gaza peace talks: The key sticking points - BBC",
+            "description": "Negotiators from Israel and Hamas are heading to Sharm El-Sheikh, Egypt, to start indirect talks about ending the Israel-Gaza war.",
+            "url": "https://www.bbc.com/news/articles/c930v44dg2ro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a650/live/54b668f0-a2bb-11f0-b2c5-019105d9c0cd.jpg",
+            "publishedAt": "2025-10-07T06:31:54Z",
+            "content": "Negotiators from Israel and Hamas are in Sharm El-Sheikh, Egypt, for indirect talks over an end to the Israel-Gaza war.\r\nIt is the closest both sides have come to a deal since the war began two years… [+4887 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Pete Muntean, Alexandra Skores, Aaron Cooper",
+            "title": "Government shutdown hits air travel, closing a control tower and causing delays across the country - CNN",
+            "description": "The impact of the government shutdown hit travelers across the United States  Monday, as air traffic controllers called out sick, closing a control tower and leading to delays at major airports.",
+            "url": "https://www.cnn.com/2025/10/07/us/government-shutdown-air-travel-hnk",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239229953.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-10-07T05:38:46Z",
+            "content": "A pilot preparing to take off Monday from Hollywood Burbank Airport in California took the routine step of radioing the air traffic control tower.\r\nBut instead of the usual back-and-forth conversatio… [+7859 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Bryan DeArdo",
+            "title": "Jaguars' Travis Hunter makes big catch vs. Chiefs on 'Monday Night Football' - CBS Sports",
+            "description": "Hunter's first big play couldn't have come at a better time",
+            "url": "https://www.cbssports.com/nfl/news/look-jaguars-travis-hunters-big-catch-jumpstarts-jaguars-come-from-behind-win-over-chiefs/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/07/3953488c-005d-427c-bda6-914f21ce1b84/thumbnail/1200x675/1de9606b771c5ada5eb8a5d93f659b73/untitled-design-2025-10-06t214156-990.png",
+            "publishedAt": "2025-10-07T04:49:00Z",
+            "content": "Travis Hunter's first big play as an NFL receiver couldn't have come at a better time. \r\nEarly in the second half of Monday night's game against the Chiefs, Hunter caught Trevor Lawrence's deep pass … [+1377 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Mark Long",
+            "title": "Trevor Lawrence's wild run lifts the Jaguars to a 31-28 win over Patrick Mahomes and the Chiefs - AP News",
+            "description": "Trevor Lawrence tripped, got up and scrambled for a 1-yard touchdown with 23 seconds remaining, and the Jacksonville Jaguars beat Kansas City 31-28. The crazy ending halted the Jags' eight-game losing streak to the Chiefs. Lawrence ran for two touchdowns on t…",
+            "url": "https://apnews.com/article/chiefs-jaguars-score-960da44818584c72c37c3234cbb946bb",
+            "urlToImage": "https://dims.apnews.com/dims4/default/90522c4/2147483647/strip/true/crop/3491x1964+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2F04%2Fe9878a6cec8f6a5766d3fbff3072%2Fafc79d8283294ebb9b76d9f6f7d2c008",
+            "publishedAt": "2025-10-07T04:28:00Z",
+            "content": "JACKSONVILLE, Fla. (AP) Trevor Lawrence tripped and fell to the ground, stumbled trying to get up, finally got back on his feet and then scrambled for a 1-yard touchdown with 23 seconds remaining tur… [+4582 chars]"
+        },
+        {
+            "source": {
                 "id": "espn",
                 "name": "ESPN"
             },
@@ -18,80 +96,80 @@
         {
             "source": {
                 "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Charean Williams",
-            "title": "Monday Night Football: Trevor Lawrence leads Jaguars to 31-28 win over Chiefs - NBC Sports",
-            "description": "The Jaguars quarterback ran for a 1-yard touchdown with 23 seconds remaining for the deciding points.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-trevor-lawrence-leads-jaguars-to-31-28-win-over-chiefs",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/7bcc8f5/2147483647/strip/true/crop/3582x2015+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2F7b%2Ff295072e485a9a16b77fdc61d009%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239659714",
-            "publishedAt": "2025-10-07T03:29:39Z",
-            "content": "Trevor Lawrence and the Jaguars have their defining win. \r\nIn a gutsy performance, the Jaguars quarterback led his team to a 31-28 victory over the Chiefs on his birthday. He ran 1 yard to the end zo… [+2255 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "PEOPLE"
             },
-            "author": "https://www.facebook.com/peoplemag",
+            "author": "Angel Saunders",
             "title": "Jennifer Lopez Poses with Her Twins, 17, at “Kiss of the Spider Woman” N.Y.C Screening - Yahoo News UK",
-            "description": "Jennifer Lopez poses with twins Max and Emme at the New York City special screening of her 'Kiss of the Spider Woman' red carpet event.",
+            "description": "The 17-year-olds had a night out in the Big Apple with their mom",
             "url": "https://people.com/jennifer-lopez-poses-with-twins-17-at-kiss-of-the-spider-woman-n-y-c-screening-11825389",
-            "urlToImage": "https://people.com/thmb/LGLbyrgRFUtPsCvQcl8FBcmCyQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(982x547:984x549)/Jennifer-Lopez-Max-and-Emme-Kiss-Of-The-Spider-Woman-screening-100625-3-14ca406d1bbd4c8eb219372e59dc0e0c.jpg",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/beR2FFmQqU11MzsVtrWXFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/3ceb2107a5585b556de3ac36585b8abf",
             "publishedAt": "2025-10-07T03:04:00Z",
-            "content": "<ul><li>Jennifer Lopez stepped out with her twins to a special New York City screening of Kiss of the Spider Woman</li><li>She welcomed Max and Emme, now 17, in 2008 with her ex-husband Marc Anthony … [+3209 chars]"
+            "content": "NEED TO KNOW\r\n<ul><li>Jennifer Lopez stepped out with her twins to a special New York City screening of Kiss of the Spider Woman\r\n</li><li>She welcomed Max and Emme, now 17, in 2008 with her ex-husba… [+3259 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "Investing.com"
             },
-            "author": "Tom Tapp",
-            "title": "White House UFC Fight To Take Place On Trump’s Birthday - Deadline",
-            "description": "The president says the event, perviously scheduled to celebrate the country's 250th birthday will now be timed to his own 80th birthday.",
-            "url": "http://deadline.com/2025/10/white-house-ufc-fight-trump-birthday-1236571830/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-2209993247.jpg?w=1024",
-            "publishedAt": "2025-10-07T02:04:00Z",
-            "content": "It was supposed to celebrate America’s birthday, but now the much-discussedUFC fight at the White House will take place on Donald Trump‘s birthday.\r\nIn late August, UFC chief Dana White announced the… [+1743 chars]"
+            "author": "Ambar Warrick",
+            "title": "Asia stocks buoyed by tech gains, Japan at record high as rate hike bets unwind - Investing.com",
+            "description": "Asia stocks buoyed by tech gains, Japan at record high as rate hike bets unwind",
+            "url": "https://www.investing.com/news/stock-market-news/asia-stocks-buoyed-by-tech-gains-japan-at-record-high-as-rate-hike-bets-unwind-4274071",
+            "urlToImage": "https://i-invdn-com.investing.com/news/NikkeiStockExchange_800x533_L_1602065534.jpg",
+            "publishedAt": "2025-10-07T02:58:22Z",
+            "content": "Updates with India open, adds individual stock moves\r\nInvesting.com-- Asian stocks advanced on Tuesday as technology stocks tracked gains in their U.S. peers on persistent optimism over artificial in… [+3562 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kaia  Hubbard, Caitlin  Yilek",
+            "title": "Government shutdown stretches into second week as Senate rejects funding bills again - CBS News",
+            "description": "The government shutdown stretched into its sixth day on Monday with no signs of an imminent resolution.",
+            "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-stalemate-trump-senate-vote/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/06/dcf470e3-1aca-405c-8d2a-26b1cadaf0a6/thumbnail/1200x630g2/8dd53cdafaa7d033cf467149c60affc6/gettyimages-2239165276.jpg",
+            "publishedAt": "2025-10-07T02:30:00Z",
+            "content": "The Senate is set to vote again on measures to fund the government Monday evening, after a series of votes have fallen short of the 60 votes needed. \r\nOn Sept. 19, senators first voted on the dueling… [+1591 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "InStyle"
+                "name": "OregonLive"
             },
-            "author": "https://www.facebook.com/InStyle",
-            "title": "Taylor Swift Sparkles in an Unexpected, Super Short Silver Minidress for 'Tonight Show' Return - instyle.com",
-            "description": "Taylor Swift returned to 'The Tonight Show Starring Jimmy Fallon' after three years, wearing an unexpected silver minidress with off-the-shoulder design and sparkles all over. See her look, here.",
-            "url": "https://www.instyle.com/taylor-swift-silver-minidress-tonight-show-starring-jimmy-fallon-11822793",
-            "urlToImage": "https://www.instyle.com/thmb/ojSyLTe7_PZ4_ufHNEd0a5pCzFo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/taylor-8ed3bff4531c4c25af3be3eddc5998c8.jpg",
-            "publishedAt": "2025-10-07T01:39:54Z",
-            "content": "It's truly Taylor Swift's world, and we're all just living in it. The music mogul dropped her 12th studio album, The Life of a Showgirl, on Friday and she has been proving just how busy show business… [+1676 chars]"
+            "author": "The Oregonian staff and wire reports",
+            "title": "Scientist who graduated from Portland high school wins Nobel Prize in medicine - OregonLive.com",
+            "description": "The Nobel Prize winner initially ignored a call from Sweden early Monday, believing it was a spam call.",
+            "url": "https://www.oregonlive.com/pacific-northwest-news/2025/10/scientist-who-graduated-from-portland-high-school-wins-nobel-prize-in-medicine.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/v2/N4L2HCMAYRD3JG4XEMHAA33IMU.jpg?auth=4043045b9d57473ec93f740926e6e67eb681145f05da95a281da1edaa697df8f&width=1280&smart=true&quality=90",
+            "publishedAt": "2025-10-07T01:43:00Z",
+            "content": "A molecular biologist who grew up in Portland is one of the three researchers who won the Nobel Prize in medicine Monday for discoveries about how the immune system knows to attack germs and not our … [+6979 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "October's Harvest Moon lights up sky as first supermoon of 2025 - USA Today",
+            "description": "See the beauty of the first supermoon of 2025, known as the Harvest Moon.",
+            "url": "https://www.usatoday.com/picture-gallery/news/2025/10/06/supermoon-2025-harvest-full-moon-photos/86557906007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/07/USAT/86557765007-20251007-t-004458-z-1948845378-rc-2-m-6-ha-4-ugqg-rtrmadp-3-supermoonusa.JPG?crop=5873,3305,x0,y58&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2025-10-07T01:28:21Z",
+            "content": "A passenger plane passes in front of the first supermoon of the year, known as the Harvest Moon, as it flies above London, Britain, Oct. 6, 2025.\r\nToby Melville, REUTERS\r\nThe first supermoon of the y… [+2481 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "Variety"
             },
-            "author": "Patrick Hipes",
-            "title": "‘Marty Supreme’ Makes Surprise World Premiere As New York Film Festival Secret Screening - Deadline",
-            "description": "Timothée Chalamet and Josh Safdie just surprised a New York Film Festival crowd by announcing it would see the world premiere of Marty Supreme.",
-            "url": "http://deadline.com/2025/10/marty-supreme-surprise-world-premiere-new-york-1236571807/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2025/08/Marty-Supreme.jpg?w=1024",
-            "publishedAt": "2025-10-07T01:02:00Z",
-            "content": "Timothée Chalamet and director Josh Safdie just took the stage at the New York Film Festival on Monday to surprise the crowd by announcing that their new movie Marty Supreme would screen tonight in i… [+1150 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Federal News Network"
-            },
-            "author": "Jory Heckman",
-            "title": "Amid Trump’s threat of shutdown layoffs, more federal employees being brought back to work - Federal News Network",
-            "description": "Despite the threat of more layoffs, one agency is doing the opposite: reinstating hundreds of laid-off employees and keeping them working during a shutdown.",
-            "url": "https://federalnewsnetwork.com/government-shutdown/2025/10/amid-trumps-threat-of-shutdown-layoffs-more-federal-employees-being-brought-back-to-work/",
-            "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/Trump_Navy_85050-scaled.jpg",
-            "publishedAt": "2025-10-07T00:21:47Z",
-            "content": "The Trump administration is doubling down on threats to lay off thousands of federal employees if Congress doesn’t end the government shutdown soon, but has yet to deliver on its ultimatum.\r\nPresiden… [+6762 chars]"
+            "author": "Brent Lang",
+            "title": "Timothée Chalamet’s ‘Marty Supreme’ Gets Surprise New York Film Festival World Premiere - Variety",
+            "description": "Timothée Chalamet and Josh Safdie's 'Marty Supreme' will get surprise New York Film Festival world premiere.",
+            "url": "https://variety.com/2025/film/news/timothee-chalamet-marty-supreme-surprise-nyff-premiere-1236538398/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2025/03/Marty-Supreme.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2025-10-07T00:37:00Z",
+            "content": "New York Film Festival audiences will get the first look at Timothée Chalamet in Josh Safdie’s “Marty Supreme.”\r\nThe A24 film is one of the year’s most anticipated, but it remained one of the few rem… [+2012 chars]"
         },
         {
             "source": {
@@ -108,55 +186,68 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Financial Times"
             },
-            "author": "Sean Hollister",
-            "title": "The Supreme Court didn’t save Google from Epic, and now the clock is ticking - The Verge",
-            "description": "The US Supreme Court has denied Google’s request for a partial stay in Epic v. Google, meaning the permanent injunction is still in effect and coming up fast.",
-            "url": "https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047547/236883_Epic_Vs_Google_B_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-10-06T23:28:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Supreme Court threw out Googles request for a stay.\r\nThe Supreme Court threw out Googles request for a stay.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts … [+4404 chars]"
+            "author": "James Politi",
+            "title": "Donald Trump threatens to invoke 200-year-old Insurrection Act to deploy troops - Financial Times",
+            "description": "Warning to use 19th century law comes as president faces legal setbacks in bid to put soldiers on streets of US cities",
+            "url": "https://www.ft.com/content/ee3c2f14-7726-47bb-805e-32e1f311e7a1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe283fd7e-facc-4414-86ba-8c7a614e75fb.jpg?source=next-barrier-page",
+            "publishedAt": "2025-10-06T22:38:06Z",
+            "content": "was $755now $719 for your first year\r\nGet Premium &amp; FT Weekend Print edition for the price of Premium. Complete digital access to quality analysis and expert insights, complemented with our award… [+338 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Associated Press",
+            "title": "South Carolina’s top law official says no arson evidence so far in fire that destroyed judge’s home - Politico",
+            "description": "Three people were hurt in the blaze.",
+            "url": "https://www.politico.com/news/2025/10/06/south-carolinas-top-law-official-says-no-arson-evidence-so-far-in-fire-that-destroyed-judges-home-00595620",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F63%2Fd3%2Ff6c88a04447b89a41fef30024504%2Fjudge-house-fire-99852.jpg",
+            "publishedAt": "2025-10-06T22:34:32Z",
+            "content": "At this time, there is no evidence to indicate the fire was intentionally set. SLED agents have preliminarily found there is no evidence to support a pre-fire explosion, Keel said,\r\nKeel and his agen… [+2254 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Szkutak",
+            "title": "Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI - TechCrunch",
+            "description": "Deloitte is rolling out Claude to its nearly 500,000 employees after issuing a refund for a report that contained AI hallucinations.",
+            "url": "https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2169550517.jpg?w=1024",
+            "publishedAt": "2025-10-06T22:29:47Z",
+            "content": "Professional services and consultant firm Deloitte announced a landmark AI enterprise deal with Anthropic the same day it was revealed the company would issue a refund for a government-contracted rep… [+3129 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Kotaku"
             },
-            "author": "Izabella Zaydenberg",
-            "title": "The best October Prime Day tech deals on AirPods, TVs, iPads and more at Amazon - Yahoo! Tech",
-            "description": "Here's everything you need to know to make the most of the sale.",
-            "url": "https://tech.yahoo.com/deals/live/the-best-october-prime-day-tech-deals-on-airpods-tvs-ipads-and-more-at-amazon-135113014.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lns7hNvzqZ_kpC6GBC9AvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/97dbbaf0-9aea-11f0-be9d-1f306b05026f",
-            "publishedAt": "2025-10-06T22:30:38Z",
-            "content": "Amazon Big Deal Days better known as October Prime Day kicks off tomorrow and runs through Wednesday, bringing with it two straight days of serious savings. The fall edition of Amazon's biggest shopp… [+16410 chars]"
-        },
-        {
-            "source": {
-                "id": "mashable",
-                "name": "Mashable"
-            },
-            "author": "Timothy Beck Werth",
-            "title": "15 October Prime Day tech deals I'd shop as a tech editor - Mashable",
-            "description": "I'm telling my friends and family to grab these gadgets while they're on sale.",
-            "url": "https://mashable.com/article/early-oct-prime-day-tech-deals-2025",
-            "urlToImage": "https://helios-i.mashable.com/imagery/articles/02Aq8KbHO1OPJKOiH0Fn7c5/hero-image.fill.size_1200x675.v1759791677.jpg",
-            "publishedAt": "2025-10-06T22:02:33Z",
+            "author": "Kotaku",
+            "title": "This 2025 iPad Is Now 3x Cheaper Than the iPad Pro, Amazon Clears Stock at a Record Low - Kotaku",
+            "description": null,
+            "url": "https://kotaku.com/this-2025-ipad-is-now-3x-cheaper-than-the-ipad-pro-amazon-clears-stock-at-a-record-low-2000631789",
+            "urlToImage": null,
+            "publishedAt": "2025-10-06T22:14:10Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "OPB News"
+                "name": "Live Science"
             },
-            "author": "Dirk VanderHart",
-            "title": "Appeals judges will decide fate of Portland troop deployment - Oregon Public Broadcasting - OPB",
-            "description": "The Trump administration is hoping to undo orders blocking the National Guard.",
-            "url": "https://www.opb.org/article/2025/10/06/appeals-judges-portland-troop-deployment/",
-            "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/D6YHTQKQSFH3RIOAKPRR4QQDDI.JPG?auth=214ac22bceec3742faf24349fb2026250ff2766f0b3b545b8d54dd7372b3dfc3&width=1200&height=675&smart=true",
-            "publishedAt": "2025-10-06T21:33:53Z",
-            "content": "Tear gas is deployed at the U.S. Immigration and Customs Enforcement facility, Portland, Ore., Oct. 4, 2025.\r\nEden McCall / OPB\r\nThe next twist in the whipsawing drama over whether President Trump ca… [+5756 chars]"
+            "author": "Brandon Specktor",
+            "title": "Sneaky asteroid zooms past Antarctica closer than a satellite — and astronomers didn't catch it until hours after - Live Science",
+            "description": "A small, giraffe-size asteroid called 2025 TF came closer to Earth than some satellites on Wednesday (Oct. 1), stunning astronomers who first spotted it hours later.",
+            "url": "https://www.livescience.com/space/asteroids/sneaky-asteroid-zooms-past-antarctica-closer-than-a-satellite-and-astronomers-didnt-catch-it-until-hours-after",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5HRJpeAN3vYcrScCoczw7F-1920-80.jpg",
+            "publishedAt": "2025-10-06T21:28:36Z",
+            "content": "The near-Earth asteroid 2025 TF (red crosshairs) came about as close to Earth as the International Space Station on Wednesday (Oct. 1), evading detection until hours later. (Image credit: ESA / Las C… [+2996 chars]"
         },
         {
             "source": {
@@ -213,28 +304,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "Umn.edu"
             },
-            "author": "Zack Sharf",
-            "title": "Dwayne Johnson on Smashing Machine Being Worst Box Office Opening Ever - Variety",
-            "description": "Dwayne Johnson says you can't always look at box office as 'The Smashing Machine' becomes his worst opening ever.",
-            "url": "https://variety.com/2025/film/news/dwayne-johnson-smashing-machine-worst-box-office-opening-1236541398/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2025/10/GettyImages-2233858666.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2025-10-06T19:19:00Z",
-            "content": "Dwayne Johnson experienced the worst box office opening of his career with “The Smashing Machine,” the A24 drama that debuted to a rough $5.9 million domestically. But the actor is taking the bad new… [+1994 chars]"
+            "author": null,
+            "title": "CDC announces changes to COVID, childhood vaccines, touting 'informed consent' - CIDRAP",
+            "description": null,
+            "url": "https://www.cidrap.umn.edu/covid-19/cdc-announces-changes-covid-childhood-vaccines-touting-informed-consent",
+            "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/iStock-2190554549.jpg?itok=wMoGzEl_",
+            "publishedAt": "2025-10-06T20:25:07Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Hollywood Reporter"
             },
-            "author": null,
-            "title": "Israel deports Greta Thunberg and 170 other Gaza flotilla activists - BBC",
-            "description": "The activists were detained when Israeli forces intercepted boats trying to breach its naval blockade of Gaza to deliver aid.",
-            "url": "https://www.bbc.com/news/articles/cg7dk52l1jvo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0af9/live/011b8bb0-a2b8-11f0-b741-177e3e2c2fc7.jpg",
-            "publishedAt": "2025-10-06T18:36:12Z",
-            "content": "Israel has deported Swedish climate campaigner Greta Thunberg and 170 other pro-Palestinian activists who were detained when Israeli forces intercepted a flotilla trying to breach its naval blockade … [+4481 chars]"
+            "author": "Ryan Gajewski",
+            "title": "Dwayne Johnson Reacts to ‘Smashing Machine’ Flopping: “You Can’t Control Box Office Results” - The Hollywood Reporter",
+            "description": "The star plays UFC legend Mark Kerr in A24's biopic film from director Benny Safdie.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-smashing-machine-box-office-response-1236394148/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/https___cdn.sanity.io_images_xq1bjtf4_production_2663588789556ecd86e33bc7d6985ef712d5a88f-8192x5464-H-2025.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2025-10-06T19:52:53Z",
+            "content": "Dwayne Johnson remains proud that he took a swing with The Smashing Machine. \r\nHitting theaters over the weekend, writer-director Benny Safdie‘s A24 feature centers on Johnson’s portrayal of UFC Hall… [+1732 chars]"
         },
         {
             "source": {
@@ -252,132 +343,54 @@
         {
             "source": {
                 "id": null,
-                "name": "KABC-TV"
+                "name": "IndieWire"
             },
-            "author": "Mason Leath",
-            "title": "South Carolina judge's house destroyed by fire; officials investigating cause - ABC7 Los Angeles",
-            "description": "Three people escaped from the home and were hospitalized, officials said.",
-            "url": "https://abc7.com/post/south-carolina-judge-diane-goodsteins-home-destroyed-fire-injuring-3/17950974/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/17951023_cnnw-sc-house-judge-fire.JPG?w=1600",
-            "publishedAt": "2025-10-06T18:22:30Z",
-            "content": "A South Carolina judge's house went up in flames Sunday, hospitalizing three and destroying the home.\r\nCircuit Court Judge Diane Goodstein was walking her dogs on the beach in Edisto Island, S.C., ab… [+1831 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "ABC News - Breaking News, Latest News and Videos",
-            "title": "Study suggests new ways to reduce risk of young kids developing peanut allergies - ABC News - Breaking News, Latest News and Videos",
-            "description": null,
-            "url": "https://abcnews.go.com/GMA/Wellness/study-suggests-new-ways-reduce-risk-young-kids/story?id\\\\u003d126246976",
-            "urlToImage": null,
-            "publishedAt": "2025-10-06T18:22:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Janet Loehrke, George Petras",
-            "title": "Blizzard on Mt. Everest traps hundreds of hikers: We show where. - USA Today",
-            "description": "Rescue workers are trying to save hundreds trapped on tourist camp on Mount Everest.",
-            "url": "https://www.usatoday.com/story/graphics/2025/10/06/mount-everest-climbers-trapped-blizzard/86549132007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/06/USAT/86550382007-usatgraphics-mt-everesttopper-2.png?crop=3553,1997,x99,y0&width=3200&height=1799&format=pjpg&auto=webp",
-            "publishedAt": "2025-10-06T18:04:34Z",
-            "content": "Rescuers are struggling to reach at least 200 hikers trapped in a Mount Everest valley by an unexpectedly fierce weekend snowstorm that pounded the mountain with snow and heavy rain, according to Chi… [+2839 chars]"
+            "author": "Brian Welk",
+            "title": "Why Taylor Swift’s ‘The Life of a Showgirl’ Was Never Going to Match ‘The Eras Tour’ at the Box Office - IndieWire",
+            "description": "Taylor Swift's album companion film based on 'The Life of a Showgirl' brought in $46 million worldwide, far short of 'The Eras Tour.'",
+            "url": "https://www.indiewire.com/news/box-office/taylor-swift-life-of-a-showgirl-eras-tour-box-office-1235154432/",
+            "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/08/2197312451.jpg?w=650",
+            "publishedAt": "2025-10-06T17:33:01Z",
+            "content": "It can’t be overstated how big of a shock to the system Taylor Swift‘s “The Eras Tour” concert film release was back in 2023. The movie was announced just weeks before its release, it set a precedent… [+3396 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
+                "name": "9to5Mac"
             },
-            "author": "Logan Burtch-Buus",
-            "title": "Quantum uncertainty captured in real time using femtosecond light pulses - Phys.org",
-            "description": "Researchers from the University of Arizona, working with an international team, have captured and controlled quantum uncertainty in real time using ultrafast pulses of light. Their discovery, published in the journal Light: Science & Applications, could lead …",
-            "url": "https://phys.org/news/2025-10-quantum-uncertainty-captured-real-femtosecond.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/quantum-uncertainty-ta.jpg",
-            "publishedAt": "2025-10-06T17:40:03Z",
-            "content": "Researchers from the University of Arizona, working with an international team, have captured and controlled quantum uncertainty in real time using ultrafast pulses of light. Their discovery, publish… [+5288 chars]"
+            "author": "Marcus Mendes",
+            "title": "Apple releases macOS Tahoe 26.1 developer beta 2 - 9to5Mac",
+            "description": "Two weeks after releasing macOS 26.1 developer beta 1, the company is now rolling out developer beta 2, ahead of its official launch.",
+            "url": "https://9to5mac.com/2025/10/06/apple-releases-macos-tahoe-26-1-developer-beta-2/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/macOS-26.1-b2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-10-06T17:13:00Z",
+            "content": "Two weeks after releasing the first developer beta of macOS 26.1, the company is now rolling out developer beta 2, ahead of its official launch in a fiew weeks. Heres what to expect.\r\nThe build rolli… [+994 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "9to5google.com"
             },
-            "author": "Daisy Dobrijevic",
-            "title": "Watch the 1st supermoon of 2025 shine tonight with this free Harvest Moon livestream - Space",
-            "description": "Tune in to see this year's first supermoon as it lights up the autumn sky above the Italian countryside.",
-            "url": "https://www.space.com/stargazing/watch-the-first-supermoon-of-2025-shine-tonight-with-this-free-harvest-moon-livestream",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BQq7YivQsTbhAV4b9Y6D7G-1920-80.jpg",
-            "publishedAt": "2025-10-06T17:00:00Z",
-            "content": "The October Full Moon, also known as the Harvest Moon or Hunter's Moon, rises today, marking the first supermoon of the year.\r\nYou can watch the lunar spectacle live online thanks to a free livestrea… [+2076 chars]"
+            "author": "Ben Schoon",
+            "title": "Samsung starts rolling out Android 16 to the Galaxy S22 series, its final major update - 9to5Google",
+            "description": "Samsung is rolling out Android 16 for the Galaxy S22 series, but it's the last major update the series will receive.",
+            "url": "http://9to5google.com/2025/10/06/samsung-galaxy-s22-android-16-update-starts-rolling-out/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/03/samsung_galaxy_s22_plus_2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-10-06T13:05:00Z",
+            "content": "Samsung has started to roll out the final major update for the Galaxy S22 series, with its Android 16-based One UI 8 now rolling out in some regions.\r\nAs spotted by Tarun Vats, an avid Samsung chroni… [+1324 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Leagueoflegends.com"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": null,
-            "title": "TL;DW: ARAM Mayhem, Smurfing & More Dev Update - League of Legends",
-            "description": "A short rundown of changes from today’s Dev Update.",
-            "url": "https://www.leagueoflegends.com/en-us/news/dev/tldw-aram-mayhem-smurfing--more-dev-update/",
-            "urlToImage": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0b0b5ace846d7a1b21c0a890d5ef65f6c2f4fb72-1280x720.jpg?w=1200&h=630&fm=webp&fit=crop&crop=center",
-            "publishedAt": "2025-10-06T15:45:00Z",
-            "content": "Hey everyone, Pabro, Meddler, Riot Cadmus, Riot Phlox, Phroxzon, and just a capybara here with a quick TL;DW of todays Dev Update:\r\n<ul><li>Weve got a new game mode coming in Act 2, ARAM: Mayhem.</li… [+3419 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Atlanta Journal Constitution"
-            },
-            "author": "Michelle Baruchman",
-            "title": "Georgia’s statewide races reflect shifting sentiments two years after Oct. 7 - AJC.com",
-            "description": "The ongoing war in Gaza is a hot topic for candidates for U.S. Senate and governor, as local Jews and Arab Americans gather to commemorate the Oct. 7, 2023, attacks on Israel.",
-            "url": "https://www.ajc.com/politics/2025/10/two-years-after-oct-7-attack-politics-have-shifted-as-war-in-gaza-goes-on/",
-            "urlToImage": "https://www.ajc.com/resizer/v2/WCS5HDM6HZAWTMGHI7YIU3VCNY.jpg?auth=e54b7d9edee310078a016b0449ba4b9da80ebb0225d87e1c3755149986ae5bcd&width=1200&height=630&smart=true",
-            "publishedAt": "2025-10-06T14:59:28Z",
-            "content": "This is what we know how to do, to be resilient, to experience the unthinkable and yet demonstrate that we are unbreakable. We are a people of dreamers, Renee Kutner, president of the Jewish Federati… [+5527 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Aristos Georgiou",
-            "title": "Leopards ate our ancient human ancestors' faces, AI analysis reveals - Live Science",
-            "description": "A study provides insight into the demise of two prehistoric individuals of the now-extinct human species Homo habilis.",
-            "url": "https://www.livescience.com/archaeology/leopards-ate-our-ancient-human-ancestors-faces-ai-analysis-reveals",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bKxnWVcNZnFfM9VzQStTFW-1920-80.jpg",
-            "publishedAt": "2025-10-06T13:00:00Z",
-            "content": "Almost 2 million years ago, leopards likely hunted and feasted on our human ancestors in East Africa, a new study finds.\r\nThe research, which used artificial intelligence\r\n (AI) analysis tools, provi… [+3514 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "Zac Bowden",
-            "title": "A long-requested Taskbar feature is finally rolling out on Windows 11 - Windows Central",
-            "description": "Multiple-monitor users will finally be able to open the notification center on displays that aren't their primary monitor with the latest Windows 11 update.",
-            "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-begins-rolling-out-highly-anticipated-taskbar-feature-for-windows-11-power-users",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HwoBi3taLrcQXHjWcWqedN-2560-80.jpg",
-            "publishedAt": "2025-10-06T11:04:23Z",
-            "content": "It feels like a feature that users have been requesting for years, and it's finally now rolling out with the latest Windows 11 update. Microsoft is adding the ability to open the notification center … [+2910 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Esa.int"
-            },
-            "author": null,
-            "title": "ESA spots asteroid that made very close approach to Earth - European Space Agency",
-            "description": "ESA spots asteroid that made very close approach to Earth",
-            "url": "https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_spots_asteroid_that_made_very_close_approach_to_Earth",
-            "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/esa_spots_asteroid_that_made_very_close_approach_to_earth/26903751-1-eng-GB/ESA_spots_asteroid_that_made_very_close_approach_to_Earth_pillars.png",
-            "publishedAt": "2025-10-06T08:29:17Z",
-            "content": null
+            "author": "Coco Liu",
+            "title": "Plan to Reflect Sunlight to Power Solar Panels at Night Upsets Astronomers - Bloomberg.com",
+            "description": "Reflect Orbital aims to launch its first of a planned 4,000 satellites into orbit next year. Scientists worry that it would be “ruinous” for research.",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-06/sequoia-backed-startup-faces-pushback-over-plan-to-reflect-sunlight-to-earth",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itHQ5cD_MVJQ/v1/1200x800.jpg",
+            "publishedAt": "2025-10-06T11:30:08Z",
+            "content": "A startup that aims to keep solar farms running at night by reflecting sunlight from space has sparked controversy among astronomers whose work relies on dark skies.\r\nCalifornia-based Reflect Orbital… [+358 chars]"
         }
     ]
 }

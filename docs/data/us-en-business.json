@@ -1,19 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 61,
+    "totalResults": 57,
     "articles": [
         {
             "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "John Keilman, Jemal R. Brinson",
+            "title": "The ‘Hands Problem’ Holding Back the Humanoid Revolution - The Wall Street Journal",
+            "description": "Researchers face huge challenges in creating robotic hands equal to the real thing, but they’re getting closer. One big question: How many fingers?",
+            "url": "https://www.wsj.com/tech/the-hands-problem-holding-back-the-humanoid-revolution-c1aa6123",
+            "urlToImage": "https://images.wsj.net/im-54541483/social",
+            "publishedAt": "2025-10-26T01:21:19Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "Investor's Business Daily"
+                "name": "BBC News"
             },
             "author": null,
-            "title": "Dow Jones Futures: Trump Ups Canada Tariff; Apple, Fed, China's Xi Ahead - Investor's Business Daily",
-            "description": "Friday was a time to add exposure. But huge earnings, the Fed and Trump-Xi loom.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-apple-microsoft-meta-earnings-fed-meeting-trump-xi/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2020/04/Stock-BigWavePipe-08-adobe.jpg",
-            "publishedAt": "2025-10-25T23:57:00Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+            "title": "Tax rises could push food prices higher, warn supermarkets - BBC",
+            "description": "The bosses of the UK's largest supermarkets warn the chancellor against imposing higher taxes on the industry.",
+            "url": "https://www.bbc.com/news/articles/c620gy43pe4o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9f69/live/0c5cf5a0-b0ea-11f0-a072-177e9709dffa.jpg",
+            "publishedAt": "2025-10-25T23:00:58Z",
+            "content": "Michael RaceBusiness reporter\r\nThe bosses of Britain's biggest supermarkets have warned food prices could rise even further if higher taxes are imposed on the sector.\r\nGrocers including Tesco, Asda, … [+5590 chars]"
         },
         {
             "source": {
@@ -43,6 +56,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Fernanda Tronco",
+            "title": "Target announces a major change affecting its entire business - Yahoo Finance",
+            "description": "Over the last year, Target has found itself at the center of intense backlash and boycotts due to a series of controversial business decisions that verge on ...",
+            "url": "https://www.thestreet.com/retail/target-announces-a-major-change-affecting-its-entire-business",
+            "urlToImage": "https://media.zenfs.com/en/thestreet_881/33ad72448ba88aaf3088cc8443689f7d",
+            "publishedAt": "2025-10-25T18:03:00Z",
+            "content": "Over the last year, Target has found itself at the center of intense backlash and boycotts due to a series of controversial business decisions that verge on the political. The fallout has taken a tol… [+3810 chars]"
+        },
+        {
+            "source": {
                 "id": "axios",
                 "name": "Axios"
             },
@@ -53,32 +79,6 @@
             "urlToImage": "https://images.axios.com/LPzCZQqAimWLeOZLdrKBIS15RhQ=/0x0:1920x1080/1366x768/2025/10/15/1760561809127.jpeg",
             "publishedAt": "2025-10-25T17:00:07Z",
             "content": "The big picture: Advancements in generative AI are giving hackers the ability to boost their own skill sets and automate parts of the attack chain.\r\n<ul><li>OpenAI and Anthropic have both already fou… [+3618 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Anthony Ha",
-            "title": "Who are AI browsers for? - TechCrunch",
-            "description": "OpenAI launched an AI-powered browser this week, but it feels like it offers a slight efficiency gain at best.",
-            "url": "https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/chrome-with-ai-GettyImages-2184968624.jpg?w=1024",
-            "publishedAt": "2025-10-25T16:51:36Z",
-            "content": "OpenAI launched an AI-powered web browser called ChatGPT Atlas this week, which makes me wonder: Is it finally time to ditch Safari?\r\nThat news was on our minds as Max Zeff, Sean OKane, and I discuss… [+4076 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": null,
-            "title": "Company recalls 2 million pounds of barbecue pork jerky that may contain metal wire - CNN",
-            "description": "A South Dakota company is recalling more than 2.2 million pounds (998,000 kilograms) of Korean barbecue pork jerky sold at Costco and Sam’s Club stores because the product may be contaminated with pieces of metal, federal health officials said Friday.",
-            "url": "https://www.cnn.com/2025/10/25/business/pork-jerky-recall",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25297838207316.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-10-25T16:42:29Z",
-            "content": "A South Dakota company is recalling more than 2.2 million pounds (998,000 kilograms) of Korean barbecue pork jerky sold at Costco and Sams Club stores because the product may be contaminated with pie… [+1074 chars]"
         },
         {
             "source": {
@@ -96,15 +96,28 @@
         {
             "source": {
                 "id": null,
-                "name": "TheStreet"
+                "name": "Investor's Business Daily"
             },
-            "author": "Fernanda Tronco, Dana Sullivan Kilroy",
-            "title": "Target announces a major change affecting its entire business - TheStreet",
-            "description": "Target is making a bold shift that could reshape its future amid declining sales.",
-            "url": "https://www.thestreet.com/retail/target-announces-a-major-change-affecting-its-entire-business",
-            "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE3MTQyNjY1NzIyOTk2MDgw/target-to-close-stores-in-several-cities.jpg",
-            "publishedAt": "2025-10-25T15:03:00Z",
-            "content": "Over the last year, Target has found itself at the center of intense backlash and boycotts due to a series of controversial business decisions that verge on the political. The fallout has taken a tol… [+3550 chars]"
+            "author": "ED CARSON, Investor's Business Daily",
+            "title": "Apple, Google, Meta, Amazon, Microsoft Earnings Due; Fed Rate Cut, Trump-Xi Ahead - Investor's Business Daily",
+            "description": "Big market implications for Apple, Microsoft, Meta, Amazon and Google results.",
+            "url": "https://www.investors.com/research/investing-action-plan/apple-google-meta-amazon-microsoft-earnings-fed-rate-cut-trump-xi-ahead/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2022/03/Stock-binoculars-01-shutt.jpg",
+            "publishedAt": "2025-10-25T15:52:00Z",
+            "content": "The stock market is at record highs heading into peak earnings week, with Apple (AAPL), Microsoft, Meta Platforms, Google and Amazon all on tap. The Federal Reserve is expected to cut rates for a sec… [+12682 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "24/7 Wall St."
+            },
+            "author": "Rich Duprey",
+            "title": "Nancy Pelosi Is Crushing The S&P 500 And These Are Her 3 Best Positions - Yahoo Finance",
+            "description": "Warren Buffett may be considered the greatest investor of our time, but even he can’t touch the prowess of California congresswoman Nancy Pelosi (D-CA). As...",
+            "url": "https://247wallst.com/investing/2025/10/25/nancy-pelosi-is-crushing-the-sp-500-and-these-are-her-3-best-positions/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/F1HiXPCb6PNke3MDvcauIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/24_7_wall_st__718/59b043bb1a46d45df464bc62fe6e47b8",
+            "publishedAt": "2025-10-25T15:32:46Z",
+            "content": "Alex Wong / Getty Images News via Getty Images\r\nWarren Buffett may be considered the greatest investor of our time, but even he can't touch the prowess of California congresswoman Nancy Pelosi (D-CA)… [+5018 chars]"
         },
         {
             "source": {
@@ -122,19 +135,6 @@
         {
             "source": {
                 "id": null,
-                "name": "24/7 Wall St."
-            },
-            "author": "Rich Duprey",
-            "title": "Nancy Pelosi Is Crushing The S&P 500 And These Are Her 3 Best Positions - 24/7 Wall St.",
-            "description": "Warren Buffett may be considered the greatest investor of our time, but even he can’t touch the prowess of California congresswoman Nancy Pelosi (D-CA). As my colleague Omor Ibne Ehsan recently detailed, over the past decade, Pelosi has generated a cumulative…",
-            "url": "https://247wallst.com/investing/2025/10/25/nancy-pelosi-is-crushing-the-sp-500-and-these-are-her-3-best-positions/",
-            "urlToImage": "https://247wallst.com/wp-content/uploads/2020/10/imageForEntry5-mnW.jpg",
-            "publishedAt": "2025-10-25T14:32:46Z",
-            "content": "<ul><li>\r\n Nancy Pelosis portfolio returned 816% over the past decade, beating by massive percentages both the S&amp;P 500 and Warren Buffett. </li><li>\r\n As good as Pelosi is, in 2024, she only rank… [+5893 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "TheStreet"
             },
             "author": "Mary Helen Gillespie, Dana Sullivan Kilroy",
@@ -144,6 +144,19 @@
             "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE1NTI4OTEwNDEzMTEyNjg3/us-economy-banking-powell.jpg",
             "publishedAt": "2025-10-25T14:17:00Z",
             "content": "Inflation is not as hot at the moment.\r\nHence, your wallet and your portfolio could be getting an extra special year-end bonus.\r\nNew softer-than-expected inflation data boosted expectations that the … [+3931 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "New Trump Administration Energy Rule Would Enable Data Centers with ‘Large Loads’ - Gizmodo",
+            "description": "The \"urgent\" regulatory amendment from the Energy Department would benefit AI companies.",
+            "url": "https://gizmodo.com/ai-large-loads-2000676957",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/data-center-1200x675.jpg",
+            "publishedAt": "2025-10-25T14:00:39Z",
+            "content": "Data centers are being built with unprecedented gusto all over the U.S. The reason for this is fairly well known: the AI business requires gargantuan amounts of electricity and computing power. Every… [+3194 chars]"
         },
         {
             "source": {
@@ -187,15 +200,15 @@
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
+                "name": "Futurism"
             },
-            "author": "Quentin Fottrell",
-            "title": "‘We don’t want to get into trouble’: Can we give our daughter a $30K wedding gift without involving the IRS? - MarketWatch",
-            "description": "‘What is the best way to go about this?’",
-            "url": "https://www.marketwatch.com/story/we-dont-want-to-get-into-trouble-can-we-give-our-daughter-a-30k-wedding-gift-without-involving-the-irs-fd706051",
-            "urlToImage": "https://images.mktw.net/im-30851132/social",
-            "publishedAt": "2025-10-25T13:15:00Z",
-            "content": "Dear Quentin,\r\nMy husband and I plan to help our daughter with some of her wedding expenses. Its my understanding an individual can give $19,000 in a year without triggering a taxable event. What is … [+136 chars]"
+            "author": "Victor Tangermann",
+            "title": "Amazon Reveals Smart Glasses That Effectively Turn Its Delivery Drivers Into Cyborg Drones - Futurism",
+            "description": "Amazon revealed smart glasses for delivery drivers that can scan packages and give directions without discussing ethical implications.",
+            "url": "http://futurism.com/advanced-transport/amazon-reveals-smart-glasses-delivery-drivers",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/amazon-reveals-smart-glasses-delivery-drivers.jpg?quality=85&w=1200",
+            "publishedAt": "2025-10-25T13:00:00Z",
+            "content": "Amazon is spending copious amounts of money looking for ways to automate labor currently done by human workers.\r\nThe company is hoping to replace more than half a million jobs with robots by 2033, as… [+2561 chars]"
         },
         {
             "source": {
@@ -330,19 +343,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Will Healy, Will Healy",
-            "title": "2 Magnificent S&P 500 Dividend Stocks Down 24% to 50% to Buy and Hold Forever - The Motley Fool",
-            "description": "These consumer stocks have high-yielding dividends and a long history of payout hikes.",
-            "url": "https://www.fool.com/investing/2025/10/25/magnificent-sp-500-dividend-stocks-down-buy-hold/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/839026/a-magnifying-glass-propped-up-by-stacked-coins.jpg",
-            "publishedAt": "2025-10-25T10:10:00Z",
-            "content": "These consumer stocks have high-yielding dividends and a long history of payout hikes.Investors often turn to dividend stocks as a source of income, though they face a conundrum: Higher-paying divide… [+3948 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Investopedia"
             },
             "author": "Colin Laidley",
@@ -459,29 +459,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Deadline"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Jill Goldsmith, Ted Johnson",
-            "title": "What A WBD Week: As Bidders Circle, Paramount’s Shock And Awe Signals A New Media Age - Deadline",
-            "description": "Warner Bros Discovery put itself on the sales block this week with Paramount in pole position. A look at the process and other potential suitors.",
-            "url": "http://deadline.com/2025/10/warner-bros-discovery-deal-suitors-1236596524/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/warner-bros_fb8120.jpg?w=1024",
-            "publishedAt": "2025-10-24T23:06:00Z",
-            "content": "Even in an industry increasingly accustomed to head-snapping change, this has been quite a week.\r\nAfter ParamountSkydance made the third in an escalating series of acquisition offers for Warner Bros.… [+19538 chars]"
+            "author": "JoNel Aleccia",
+            "title": "Company recalls 2 million pounds of barbecue pork jerky that may contain metal wire - AP News",
+            "description": "More than 2.2 million pounds of Korean barbecue pork jerky has been recalled over contamination with pieces of metal. LSI, Inc., of Alpena, South Dakota, voluntarily pulled the product sold at Costco and Sam's Club stores nationwide. The recall includes plast…",
+            "url": "https://apnews.com/article/bbq-pork-jerky-recall-metal-pieces-464e5845123c61308d0850feb78452f0",
+            "urlToImage": "https://dims.apnews.com/dims4/default/cf2fad5/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F96%2F79f9e76a215963a3529c4fe34d58%2Fb6371076e62a440a8190d7f9ae832828",
+            "publishedAt": "2025-10-24T23:44:00Z",
+            "content": "A South Dakota company is recalling more than 2.2 million pounds (998,000 kilograms) of Korean barbecue pork jerky sold at Costco and Sams Club stores because the product may be contaminated with pie… [+1313 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "Barchart.com"
             },
-            "author": "The Wall Street Journal",
-            "title": "Alaska Airlines Outage Results in Hundreds of Canceled Flights - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/business/airlines/alaska-airlines-grounds-flights-due-to-tech-outage-844dc044",
-            "urlToImage": null,
-            "publishedAt": "2025-10-24T22:43:00Z",
-            "content": null
+            "author": "Rick Orford",
+            "title": "The 5 Highest-Yielding ‘Strong Buy’ Dividend Stocks To Own for Generations - Barchart.com",
+            "description": "These buy-rated companies have the highest yield among dividend stocks.",
+            "url": "https://www.barchart.com/story/news/35670855/the-5-highest-yielding-strong-buy-dividend-stocks-to-own-for-generations",
+            "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dividends/Dividends%20dollars%20by%20MarkgrafAve%20via%20iStock.jpg",
+            "publishedAt": "2025-10-24T23:00:02Z",
+            "content": "When markets are shaken, headlines scream, and volatility hits Wall Street. Income investors stay calm - and they get paid for it. That's the silent power of dividend-paying stocks. They dont just su… [+6944 chars]"
         },
         {
             "source": {
@@ -495,19 +495,6 @@
             "urlToImage": "https://media.king5.com/assets/CCT/images/c829fa8b-dfa7-4794-a15c-bc538f43a8a4/20251024T221535/c829fa8b-dfa7-4794-a15c-bc538f43a8a4_1140x641.jpg",
             "publishedAt": "2025-10-24T22:29:00Z",
             "content": "WASHINGTON Chick-fil-A is launching its first-ever vending machine as part of a short-term test. \r\nThe vending machine, which is a temperature-controlled market fridge, is currently available only at… [+1547 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "Nikolaos Sismanis",
-            "title": "Earnings Update Exposes Tesla’s (TSLA) Stalled Growth Engine - TipRanks",
-            "description": "After all the trials and tribulations of the past quarter, Tesla’s ($TSLA) Q3 report finally landed this week—and to be honest, it was rather underwhelming. Yes, th...",
-            "url": "https://www.tipranks.com/news/earnings-update-exposes-teslas-tsla-stalled-growth-engine",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2685807731-750x406.jpg",
-            "publishedAt": "2025-10-24T22:27:55Z",
-            "content": "Story HighlightsRecord sales couldnt offset weakening profits and a demand pull-forward, sending Tesla shares sliding after earnings. Energy and AI showed genuine strength, but those bright spots can… [+62 chars]"
         },
         {
             "source": {
@@ -551,80 +538,41 @@
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Paul Arnold",
-            "title": "Google claims its latest quantum algorithm can outperform supercomputers on a real-world task - Phys.org",
-            "description": "Researchers from Google Quantum AI report that their quantum processor, Willow, ran an algorithm for a quantum computer that solved a complex physics problem thousands of times faster than the world's most powerful classical supercomputers. If verified, this …",
-            "url": "https://phys.org/news/2025-10-google-latest-quantum-algorithm-outperform.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/google-claims-its-late.jpg",
-            "publishedAt": "2025-10-24T19:10:01Z",
-            "content": "Researchers from Google Quantum AI report that their quantum processor, Willow, ran an algorithm for a quantum computer that solved a complex physics problem thousands of times faster than the world'… [+3649 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Barron's"
             },
-            "author": "Barron's",
+            "author": "Avi Salzman",
             "title": "Brookfield Wins Bid to Restart Notorious Nuclear Reactor Project - Barron's",
-            "description": null,
+            "description": "",
             "url": "https://www.barrons.com/articles/brookfield-nuclear-project-south-carolina-9e6004ce",
-            "urlToImage": null,
+            "urlToImage": "https://images.barrons.com/im-68323886/social",
             "publishedAt": "2025-10-24T18:55:00Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Utilitydive.com"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Diana DiGangi",
-            "title": "In ‘unusual’ move, DOE proposes rule to expand FERC’s authority over large loads - Utility Dive",
-            "description": "Reactions were mixed. Analysts said they expected investor-owned utilities and possibly some states to object, while a former FERC chair questioned the impact on grid reliability and costs for other customers.",
-            "url": "https://www.utilitydive.com/news/in-unusual-move-doe-proposes-rule-to-expand-fercs-authority-over-large/803717/",
-            "urlToImage": "https://imgproxy.divecdn.com/njEePczCcZ2RXTrB4xp0i1lMC0ciP9Br0vgLERwKmDY/g:nowe:0:5/c:1024:578/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjExOTg4NTY3LmpwZw==.webp",
-            "publishedAt": "2025-10-24T16:31:15Z",
-            "content": "Dive Brief:\r\n<ul><li>The Department of Energy said in a late Thursday release that it is directing the Federal Energy Regulatory Commission to initiate rulemaking it has proposed to give FERC jurisdi… [+5385 chars]"
+            "author": "Fatima Hussein",
+            "title": "Social Security recipients get a 2.8% cost-of-living boost in 2026, average of $56 per month - AP News",
+            "description": "Some seniors say the Social Security Administration's cost-of-living adjustment won’t help much in their ability to pay for their daily expenses. The agency announced Friday the annual cost-of-living adjustment will go up by 2.8% in 2026, translating to an av…",
+            "url": "https://apnews.com/article/retirement-social-security-trump-bessent-0be15d5f1285cd1b774a8f5c59167b90",
+            "urlToImage": "https://dims.apnews.com/dims4/default/218d6ee/2147483647/strip/true/crop/2857x1607+0+149/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2Ff9%2Fe7ce376e232bcf4547ac280b8550%2F0dc07375b83941e092fbf4aaee425f91",
+            "publishedAt": "2025-10-24T17:27:00Z",
+            "content": "WASHINGTON (AP) The Social Security Administrations annual cost-of-living adjustment will go up by 2.8% in 2026, translating to an average increase of more than $56 for retirees every month, agency o… [+6391 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Lifehacker.com"
+                "name": "Livemint"
             },
-            "author": "Jake Peterson",
-            "title": "Microsoft Teams Will Soon Tell Your Boss When You're Not in the Office - Lifehacker",
-            "description": "Teams is no team player.",
-            "url": "https://lifehacker.com/tech/microsoft-teams-will-let-your-boss-know-when-youre-not-in-the-office",
-            "urlToImage": "https://lifehacker.com/imagery/articles/01K8BDF03ZQK8WBMVP6C7F66FK/hero-image.fill.size_1200x675.jpg",
-            "publishedAt": "2025-10-24T16:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "cleveland.com"
-            },
-            "author": "Kaylee Remington, cleveland.com",
-            "title": "Social Security reveals COLA increases for 2026; See how much more money you’ll receive - Cleveland.com",
-            "description": "Social Security payments will rise in 2026 for 75 million Americans, with a cost-of-living adjustment increasing retirement, disability and SSI benefits.",
-            "url": "https://www.cleveland.com/news/2025/10/social-security-reveals-cola-increases-for-2026-see-how-much-more-money-youll-receive.html",
-            "urlToImage": "https://www.cleveland.com/resizer/v2/EEV7P46U2NEXFB335ISGZ5HVEM.jpg?auth=67100ec303f6da72ea993188d29a569173f80272c89f7fbbc77c15d634891bab&width=1280&smart=true&quality=90",
-            "publishedAt": "2025-10-24T16:05:00Z",
-            "content": "WASHINGTON Social Security and Supplemental Security Income (SSI) payments for roughly 75million Americans are set to rise in 2026, the Social Security Administration announced on Friday.\r\nThe cost-o… [+2185 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": "Joe Miller, Steff Chávez, Alex Rogers, George Steer",
-            "title": "Trump Jr-linked drone company wins Pentagon contract - Financial Times",
-            "description": "Unusual Machines secures deal as US military accelerates domestic production of unmanned aircraft",
-            "url": "https://www.ft.com/content/4cedc140-4a02-4ab6-9f78-93dd8c51aeef",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F477bea67-c787-485a-8842-dfd143b0ffeb.jpg?source=next-barrier-page",
-            "publishedAt": "2025-10-24T15:53:30Z",
-            "content": "was CA$999now CA$949 for your first year\r\nGet Premium &amp; FT Weekend Print edition for the price of Premium. Complete digital access to quality analysis and expert insights, complemented with our a… [+342 chars]"
+            "author": "Livemint",
+            "title": "Trump Jr-backed drone firm lands Pentagon’s biggest contract, set to supply thousands of drone parts - Mint",
+            "description": "Trump Jr holds a $4 million stake in the company. When asked if Donald Trump Jr helped the company with the deal, Unusual Machines Chief Executive Allan Evans said that he did not",
+            "url": "https://www.livemint.com/news/us-news/trump-jr-backed-drone-firm-unusual-machines-lands-pentagon-biggest-contract-set-to-supply-thousands-of-drone-parts-11761322957592.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/24/1600x900/SINGAPORE-TOKEN2049-27_1761323729361_1761323745419.jpg",
+            "publishedAt": "2025-10-24T16:29:23Z",
+            "content": "A drone company backed by Donald Trump Jr has landed its biggest Pentagon deal yet. Unusual Machines, a very little-known Florida-based drone company, will supply 3,500 drone motors and other compone… [+2733 chars]"
         },
         {
             "source": {
@@ -667,6 +615,19 @@
         },
         {
             "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Jordan Fabian, Jarrell Dillard",
+            "title": "October Price Data Unlikely to Be Released, White House Says - Bloomberg.com",
+            "description": "The US government will probably be unable to release inflation data for October, the White House said Friday, citing the ongoing government shutdown.",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-24/october-inflation-data-unlikely-to-be-released-white-house-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBmfag4w_RsE/v1/1200x800.jpg",
+            "publishedAt": "2025-10-24T13:56:32Z",
+            "content": "The US government will probably be unable to release inflation data for October, the White House said Friday, citing the ongoing government shutdown.\r\nThe funding lapse is preventing surveyors from d… [+194 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Visual Capitalist"
             },
@@ -693,6 +654,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Todd Spangler",
+            "title": "How High Will David Ellison Go in Paramount’s Bid to Bag Warner Bros. Discovery? - Variety",
+            "description": "David Ellison's $23.50/share offer to acquire Warner Bros. Discovery and merge it with Paramount Skydance was rejected. How high will he go?",
+            "url": "https://variety.com/2025/biz/news/how-much-david-ellison-paramount-warner-bros-discovery-takeover-bid-1236560469/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2025/10/Ellison-Zaslav.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2025-10-24T12:30:00Z",
+            "content": "Warner Bros. Discovery is smack in the eye of the latest media M&amp;A maelstrom — and staffers are bracing for the possibility that they’ll get a new corporate overlord in the near future.\r\nThe lead… [+6005 chars]"
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -703,32 +677,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2025-10-24T11:02:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMeta, and to a lesser degree TikTok, are violating DSA obligations, according to the EUs preliminary findings.\r\nMeta, and to a lesser degree TikTok, are violatin… [+2687 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Glen Luke Flanagan",
-            "title": "CD rates October 24, 2025 - Fortune",
-            "description": "We’ve rounded up the market's highest CD rates, many of which offer 4.00% or higher APY.",
-            "url": "https://fortune.com/article/cd-rates-10-24-25/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/CD-Rates-Oct-24.jpg?resize=1200,600",
-            "publishedAt": "2025-10-24T11:01:00Z",
-            "content": "Theres still time to secure an attractive return on a certificate of deposit, but dont delay. In the aftermath of the Federal Reserves three interest rate reductions in 2024, CD rates fell quickly. T… [+7590 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Realtor.com News"
-            },
-            "author": "Realtor.com",
-            "title": "American Cities Where Home Values Have Changed the Most Over the Last 50 Years - Realtor.com",
-            "description": null,
-            "url": "https://www.realtor.com/news/trends/american-cities-home-values-changed-50-years/",
-            "urlToImage": null,
-            "publishedAt": "2025-10-24T10:02:33Z",
-            "content": null
         },
         {
             "source": {
@@ -758,16 +706,29 @@
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": "mashable",
+                "name": "Mashable"
             },
-            "author": "Alexander Saeedy",
-            "title": "Exclusive: Elizabeth Warren Warns Banks Against Lending $20 Billion to Argentina - The Wall Street Journal",
-            "description": "Sen. Elizabeth Warren (D., Mass.) told the biggest banks in the country not to finance a $20 billion loan to Argentina, citing the financial risk the facility would pose both to depositors and U.S. taxpayers.Warren sent letters to JPMorgan Chase, Bank of Amer…",
-            "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/elizabeth-warren-warns-banks-against-lending-20-billion-to-argentina-08uPCM7RKPi6nLD25pfE",
-            "urlToImage": "https://images.wsj.net/im-73813778/social",
-            "publishedAt": "2025-10-24T07:31:00Z",
-            "content": "Sen. Elizabeth Warren (D., Mass.) told the biggest banks in the country not to finance a $20 billion loan to Argentina, citing the financial risk the facility would pose both to depositors and U.S. t… [+536 chars]"
+            "author": "Amanda Yeo",
+            "title": "'Counter-Strike 2' update wipes $2 billion in real money from game's economy - Mashable",
+            "description": "Yes, that's real US dollars, and yes, players are freaking out.",
+            "url": "https://mashable.com/article/counter-strike-2-update-market-crash-skins-cosmetics",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/04XJhBMqUnqUfUJrcjE1vtt/hero-image.fill.size_1200x675.v1761291264.jpg",
+            "publishedAt": "2025-10-24T07:53:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medscape"
+            },
+            "author": "Edited by Archita Rai",
+            "title": "Hydrogel Shows Promise as Safe Weight-Loss Option - Medscape",
+            "description": "Sirona, an oral gastro-retentive hydrogel, offers a safe, feasible nonpharmacologic approach for weight loss with reduced dietary intake.",
+            "url": "https://www.medscape.com/viewarticle/hydrogel-shows-promise-safe-weight-loss-option-2025a1000sz7",
+            "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt-251023-jeans-measuring-tape-800x450.jpg",
+            "publishedAt": "2025-10-24T07:24:57Z",
+            "content": "TOPLINE:\r\nSirona, an oral gastro-retentive hydrogel, is well tolerated, leading only to mild gastrointestinal side effects, and produces sustained reductions in body weight and dietary intake.\r\nMETHO… [+3110 chars]"
         }
     ]
 }

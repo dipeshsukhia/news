@@ -4,6 +4,32 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "I could hardly walk - the issue that affects 1 in 5 mums - BBC",
+            "description": "Two mothers who experienced pelvic girdle pain say being aware of the risk will help people seek treatment.",
+            "url": "https://www.bbc.com/news/articles/c0mxk3w9277o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e3db/live/126fd750-ba68-11f0-ba8c-5f7067df6bdc.jpg",
+            "publishedAt": "2025-11-14T01:21:48Z",
+            "content": "When Rebecca Middleton became pregnant, she had no idea that she would end up in a wheelchair for the final three months before she gave birth. \r\nRebecca had had a difficult first trimester dealing w… [+4563 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DEVI SHASTRI AP health writer",
+            "title": "Preliminary case of bird flu in Washington state would be U.S.'s first in 9 months - abcnews.go.com",
+            "description": "Health officials in Washington state say they have identified the nation’s first human case of bird flu since February, pending confirmatory testing",
+            "url": "https://abcnews.go.com/Health/wireStory/preliminary-case-bird-flu-washington-state-uss-9-127506791",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2025-11-14T00:39:45Z",
+            "content": "Health officials in Washington state say they have identified the nation's first human case of bird flu since February, pending confirmatory testing. \r\nA Grays Harbor County, Washington, resident pre… [+1840 chars]"
+        },
+        {
+            "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
             },
@@ -14,32 +40,6 @@
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-837481992-1152x648.jpg",
             "publishedAt": "2025-11-13T23:22:41Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WPVI-TV"
-            },
-            "author": "6abc Digital Staff, Beccah Hendrickson",
-            "title": "Health officials warn of possible measles exposure at Philadelphia International Airport - 6abc Philadelphia",
-            "description": "The exposure may have happened at Terminals A and B at PHL on Sunday, between 8:50 a.m. and 4:00 p.m.",
-            "url": "https://6abc.com/post/health-officials-warn-possible-measles-exposure-philadelphia-international-airport/18143815/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/18144053_111125-wpvi-philadelphia-international-airport-adobe-stock-img.png?w=1600",
-            "publishedAt": "2025-11-13T21:52:29Z",
-            "content": "PHILADELPHIA (WPVI) -- Health officials are warning that there may have been a possible measles exposure at Philadelphia International Airport.\r\nThe Philadelphia Department of Public Health says an i… [+3983 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KOMO News"
-            },
-            "author": "KOMO News Staff",
-            "title": "Positive case of human bird flu infection reported in Washington state - KOMO",
-            "description": "A Grays Harbor County resident has preliminarily tested positive for avian influenza (bird flu).",
-            "url": "https://komonews.com/news/local/positive-case-of-bird-flu-reported-in-washington-state-health-officials-investigating-grays-harbor-influenza-wild-domestic-birds-chicken-geese-turkey-fever-confusion-respiratory-infection-symptoms",
-            "urlToImage": "https://komonews.com/resources/media/8fdef6dc-0c47-41f7-af71-a558770ff7e6-BIRD.jpg",
-            "publishedAt": "2025-11-13T21:48:57Z",
-            "content": "GRAYS HARBOR, Wash. A Grays Harbor County resident has preliminarily tested positive for avian influenza (bird flu), marking what could be the first human case of the virus reported in Washington in … [+2468 chars]"
         },
         {
             "source": {
@@ -56,16 +56,42 @@
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": null,
+                "name": "Eatingwell.com"
             },
-            "author": "Herb Scribner",
-            "title": "This mutated flu strain is triggering fears of a massive outbreak - Axios",
-            "description": "Health officials there have already warned of a wave that's sending people to the hospital.",
-            "url": "https://www.axios.com/2025/11/13/h3n2-new-flu-strain-symptoms-virus",
-            "urlToImage": "https://images.axios.com/Ehz92aPSalBtuybCpgkmU4UTVD0=/1366x768/smart/2020/08/31/212457-1598909097512.jpg",
-            "publishedAt": "2025-11-13T19:42:27Z",
-            "content": "<ul><li>Health officials in Canada and the U.K. have already warned of an H3N2 wave that's sending people to the hospital.</li><li>Experts are worried that the new version of H3N2 doesn't match the s… [+3333 chars]"
+            "author": "https://www.facebook.com/EatingWell/",
+            "title": "25 Magnesium-Rich Dinner Recipes for Better Sleep - EatingWell",
+            "description": "With at least 64 milligrams of magnesium per serving, these dinners are a tasty way to up your intake of the mineral and help improve sleep.",
+            "url": "https://www.eatingwell.com/magnesium-rich-recipes-for-sleep-11848112",
+            "urlToImage": "https://www.eatingwell.com/thmb/tQn8m-5xD4Krckm5WYZ3GGB1OFM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/EWL-High-Protein-Balsamic-Chicken-Orzo-Beauty-844_preview_maxWidth_4000_maxHeight_4000_ppi_300_quality_100-57fc9d26bf804accbe0cc2d00123e6ff.jpg",
+            "publishedAt": "2025-11-13T20:30:00Z",
+            "content": "Photographer: Morgan Hunt Ward, Prop Stylist: Phoebe Hauser, Food Stylist: Emily Nabors Hall.\r\nThis pasta bake is a cozy, flavor-packed dish that turns simple ingredients into a satisfying meal. Whol… [+11145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Umn.edu"
+            },
+            "author": null,
+            "title": "WHO deploys aid to Ethiopia after 8 suspected cases of viral hemorrhagic fever reported - CIDRAP",
+            "description": "Ethiopian health authorities are ramping up their response and conducting lab tests to identify the cause of the infection and stop further transmission.",
+            "url": "https://www.cidrap.umn.edu/viral-hemorrhagic-fever/who-deploys-aid-ethiopia-after-8-suspected-cases-viral-hemorrhagic-fever",
+            "urlToImage": "https://www.cidrap.umn.edu/themes/custom/cidrap_theme/images/cidrap-og-image.jpg",
+            "publishedAt": "2025-11-13T19:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailykos.com"
+            },
+            "author": null,
+            "title": "Infectious Updates: 11/13/25 - Daily Kos",
+            "description": "Foreign food safety inspections� Are at historic lows �due to Trump cuts.� And so are domestic inspections, to be honest.\n\nWhich might be why� There are more infant botulism cases in more states , ...",
+            "url": "https://www.dailykos.com/stories/2025/11/13/2353571/-Infectious-Updates-11-13-25",
+            "urlToImage": "https://cdn.prod.dailykos.com/images/1417099/story_image/sorry-i-sneezed-here-let-me-clean-it-off-for-you.jpeg?1743826258",
+            "publishedAt": "2025-11-13T18:49:38Z",
+            "content": null
         },
         {
             "source": {
@@ -148,6 +174,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Adrija Dey",
+            "title": "World Diabetes Day 2025: 5 diabetes-friendly swaps for everyday Indian meals | Health - Hindustan Times",
+            "description": "Keep your blood sugar in check by swapping unhealthy components in everyday Indian meals.&nbsp; | Health",
+            "url": "https://www.hindustantimes.com/lifestyle/health/world-diabetes-day-2025-5-diabetes-friendly-swaps-for-everyday-indian-meals-101763045543180.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/13/1600x900/logo/diabetesss_1763048664674_1763048686027.jpg",
+            "publishedAt": "2025-11-13T15:52:30Z",
+            "content": "World Diabetes Day 2025: 14 November is observed as the Diabetes Day. The day is aimed at raising awareness about the surging cases of diabetes and why it is important to maintain a healthy lifestyle… [+3851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "SciTechDaily"
             },
             "author": null,
@@ -213,6 +252,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Northwestern University",
+            "title": "Manganese is Lyme disease's double-edge sword - Phys.org",
+            "description": "For decades, Lyme disease has frustrated both physicians and patients alike. Caused by the corkscrew-shaped bacterium Borrelia burgdorferi, the infection, if left untreated, can linger for months, leading to fever, fatigue and painful inflammation.",
+            "url": "https://phys.org/news/2025-11-manganese-lyme-disease-edge-sword.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/manganese-1.jpg",
+            "publishedAt": "2025-11-13T14:00:01Z",
+            "content": "For decades, Lyme disease has frustrated both physicians and patients alike. Caused by the corkscrew-shaped bacterium Borrelia burgdorferi, the infection, if left untreated, can linger for months, le… [+5276 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Vegoutmag.com"
             },
             "author": "",
@@ -226,15 +278,41 @@
         {
             "source": {
                 "id": null,
+                "name": "STAT"
+            },
+            "author": "Theresa Gaffney",
+            "title": "Wild poliovirus detected in Germany - statnews.com",
+            "description": "And other health news from the Morning Rounds newsletter",
+            "url": "https://www.statnews.com/2025/11/13/health-news-poliovirus-emerges-in-germany/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2022/07/Poliovirus--1024x576.jpg",
+            "publishedAt": "2025-11-13T13:10:12Z",
+            "content": "Get your daily dose of health and medicine every weekday with STATs free newsletter Morning Rounds. Sign up here.\r\nGood morning. Loyal readers may remember that in January, I donated blood for the fi… [+6536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Jeremy Olson, Jeremy Olson",
+            "title": "Minnesota readies early warning system for measles - Star Tribune",
+            "description": "Measles cases in Rochester this fall offered a test case that wastewater sampling could identify even the slight presence of the infectious disease.",
+            "url": "https://www.startribune.com/minnesota-readies-early-warning-system-for-measles/601523155",
+            "urlToImage": "https://arc.stimg.co/startribunemedia/PH6G47BUSFCYHEODDLZWASNSN4.jpg?&w=1200&ar=1.91:1&fit=crop",
+            "publishedAt": "2025-11-13T12:03:04Z",
+            "content": "The measles virus is one of the most infectious pathogens on the planet, capable of lingering in the air and spreading to others long after infected people have left. The disease is mostly known by i… [+1860 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "ScienceAlert"
             },
-            "author": "Carly Cassella",
-            "title": "CT Scans Predicted to Result in 100,000 New Cancers Across The US - ScienceAlert",
-            "description": "More Americans are receiving computed tomography (CT) scans than ever before, and while this technology can save lives, some scientists are concerned that low doses of ionizing radiation could increase cancer risk.",
-            "url": "https://www.sciencealert.com/ct-scans-predicted-to-result-in-100000-new-cancers-across-the-us",
-            "urlToImage": "https://www.sciencealert.com/images/2025/11/Girl-with-eyes-closed-going-into-CT-scanner.jpg",
-            "publishedAt": "2025-11-13T12:03:38Z",
-            "content": "More Americans are receiving computed tomography (CT) scans than ever before, and while this technology can save lives, some scientists are concerned that low doses of ionizing radiation could increa… [+5428 chars]"
+            "author": "David Nield",
+            "title": "Viagra Reverses Damage Behind One Type of Deafness, Scientists Discover - ScienceAlert",
+            "description": "Around 3 in 2,000 people are born with hearing loss.",
+            "url": "https://www.sciencealert.com/viagra-reverses-damage-behind-one-type-of-deafness-scientists-discover",
+            "urlToImage": "https://www.sciencealert.com/images/2025/11/Man-With-Hand-Behind-Ear-Close-Up.jpg",
+            "publishedAt": "2025-11-13T11:03:31Z",
+            "content": "Around 3 in 2,000 people are born with hearing loss. Typically irreversible, it's a lifelong condition that often presents challenges in today's society.\r\nThat could change, however, after the discov… [+3911 chars]"
         },
         {
             "source": {
@@ -265,6 +343,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Eshana Saha",
+            "title": "Cardiac surgeon says this ingredient present in most packaged foods and beverages is silently destroying your heart | Health - Hindustan Times",
+            "description": "Being mindful about checking labels is important because some packaged foods sneak in ingredients that can harm your cardiovascular and overall health. | Health",
+            "url": "https://www.hindustantimes.com/lifestyle/health/cardiac-surgeon-says-ingredient-added-sugar-in-most-packaged-foods-and-beverages-is-silently-destroying-your-heart-101763018253607.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/13/1600x900/logo/candy_1763019302451_1763019302685.jpg",
+            "publishedAt": "2025-11-13T08:00:55Z",
+            "content": "Love your sodas and sugary treats? Youre not alone - but theres a hidden danger in these everyday indulgences. Added sugar, found in everything from soft drinks and candies to seemingly healthy packa… [+3420 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": "Denise Dador",
+            "title": "Broken heart syndrome: Healing the physical and emotional toll of heartbreak - ABC7 Los Angeles",
+            "description": "Most people who have broken heart syndrome are older than 50, and the condition is more common in women than in men. However, men might be in more danger.",
+            "url": "https://abc7.com/post/broken-heart-syndrome-healing-physical-emotional-toll-heartbreak/18149620/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/18149320_111225-kabc-4pm-iv-broken-heart-vid.jpg?w=1600",
+            "publishedAt": "2025-11-13T05:42:38Z",
+            "content": "LOS ANGELES (KABC) -- Having a broken heart can mean more than an emotional wound.\r\nBroken heart syndrome is a condition where some of your heart muscle weakens rapidly and typically happens after ex… [+2033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -290,6 +394,19 @@
         },
         {
             "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Mike Stobbe",
+            "title": "2 new malaria treatments show promise as drug resistance grows - AP News",
+            "description": "Researchers are reporting two promising approaches to counteract malaria's growing drug resistance. Switzerland-based Novartis has released results for a new experimental drug called GanLum. Tested in 12 African countries, it shows a cure rate exceeding 97% a…",
+            "url": "https://apnews.com/article/malaria-treatments-novartis-3085b59336560df65a729828a33983b4",
+            "urlToImage": "https://dims.apnews.com/dims4/default/6e53252/2147483647/strip/true/crop/3206x1803+0+167/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2Fa8%2Fe686160794260e4e01859b56740d%2F3945ce8eb61e42bca4e8c94db996b16f",
+            "publishedAt": "2025-11-13T01:50:00Z",
+            "content": "NEW YORK (AP) Researchers on Wednesday reported two promising new approaches to counteract malarias growing resistance to medication one involving a new class of drugs.\r\nSwitzerland-based Novartis re… [+5410 chars]"
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
@@ -300,45 +417,6 @@
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1344723847.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2025-11-12T23:30:02Z",
             "content": "Global rates of hypertension, or high blood pressure, in childhood and adolescence have nearly doubled since 2000, putting more kids at risk for poor health later in life.\r\nIn 2000, about 3.4% of boy… [+4299 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Concerning New Research Reveals Colon Cancer Is Skyrocketing in Adults Under 50 - SciTechDaily",
-            "description": "Colorectal cancer is striking younger adults at alarming rates, driven by lifestyle and genetic factors. Colorectal cancer (CRC) develops when abnormal cells grow uncontrollably in the colon or rectum, forming tumors that can eventually invade nearby tissues …",
-            "url": "https://scitechdaily.com/concerning-new-research-reveals-colon-cancer-is-skyrocketing-in-adults-under-50/",
-            "urlToImage": "https://scitechdaily.com/images/Medically-Accurate-Cancer-Cells-Rendering.jpg",
-            "publishedAt": "2025-11-12T22:54:01Z",
-            "content": "Colorectal cancer is undergoing a troubling shift, increasingly striking younger adults across the globe. Scientists are uncovering how subtle interactions between diet, environment, and genetics may… [+5756 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Salina Post"
-            },
-            "author": null,
-            "title": "Trap and Release volunteer program at Salina Animal Services: What to know - Salina Post",
-            "description": "Salina Animal Services/Shelter on&nbsp;329 N 2nd St.\n                    By: NICOLAS FIERR",
-            "url": "https://salinapost.com/posts/c3276cd5-4864-4544-9584-7d0932a20466",
-            "urlToImage": "https://media.eaglewebservices.com/public/2024/7/1720630901372.jpeg",
-            "publishedAt": "2025-11-12T22:47:46Z",
-            "content": "Salina Animal Services/Shelter on 329 N 2nd St.\r\nBy: NICOLAS FIERRO\r\nSalina Post\r\nThe Trap and Release program at the Salina Animal Services is a great way to maintain public health, manage cat colon… [+1331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Novartis.com"
-            },
-            "author": null,
-            "title": "Novartis Phase III trial for next-generation malaria treatment KLU156 (GanLum) meets primary endpoint, with potential to combat antimalarial resistance - Novartis",
-            "description": null,
-            "url": "https://www.novartis.com/news/media-releases/novartis-phase-iii-trial-next-generation-malaria-treatment-klu156-ganlum-meets-primary-endpoint-potential-combat-antimalarial-resistance",
-            "urlToImage": "https://www.novartis.com/sites/novartis_com/files/2023-11/novartis-animated-logo-1x.gif",
-            "publishedAt": "2025-11-12T22:33:38Z",
-            "content": "<ul><li>Phase III trial for KLU156 (ganaplacide/lumefantrine, or GanLum), meets primary endpoint of non-inferiority to standard of care Coartem® (artemether-lumefantrine) </li><li>Demonstrates PCR-co… [+13050 chars]"
         },
         {
             "source": {
@@ -434,32 +512,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "Vince Condarcuri",
-            "title": "Novo Nordisk (NVO) Is Preparing to Launch Its New Weight Loss Pill – Here’s the Data - TipRanks",
-            "description": "Novo Nordisk ($NVO) is preparing to launch a new weight loss pill. In fact, the 25-milligram oral version of Wegovy is awaiting regulatory approval, which could com...",
-            "url": "https://www.tipranks.com/news/novo-nordisk-nvo-is-preparing-to-launch-its-new-weight-loss-pill-heres-the-data",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/shutterstock_2324314165-750x406.jpg",
-            "publishedAt": "2025-11-12T18:49:47Z",
-            "content": "Story HighlightsNovo Nordisk is preparing to launch a new weight loss pill."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Birrmetrics.com"
-            },
-            "author": null,
-            "title": "Hemorrhagic Fever Outbreak Reported in South Ethiopia - Birr Metrics",
-            "description": "Ethiopia’s Ministry of Health has confirmed an outbreak of hemorrhagic fever in Jinka town, located in the South Ethiopia Regional State.",
-            "url": "https://birrmetrics.com/hemorrhagic-fever-outbreak-reported-in-south-ethiopia/",
-            "urlToImage": "https://birrmetrics.com/wp-content/uploads/2025/11/images-33-1.jpg",
-            "publishedAt": "2025-11-12T18:45:07Z",
-            "content": "Ethiopias Ministry of Health has confirmed an outbreak of hemorrhagic fever in Jinka town, located in the South Ethiopia Regional State.\r\nIn a statement issued Wednesday, the Ministry said eight susp… [+1100 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "ScienceAlert"
             },
             "author": "Jess Cockerill",
@@ -486,6 +538,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "In situ structural mechanism of epothilone-B-induced CNS axon regeneration - Nature",
+            "description": "A&nbsp;combined cryo-electron tomography and cryo-electron microscopy pipeline&nbsp;was developed to inflict axonal damage and monitor the cellular response induced by epothilone B, revealing that microtubule polymerization at and beyond the lesion site promo…",
+            "url": "https://www.nature.com/articles/s41586-025-09654-z",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09654-z/MediaObjects/41586_2025_9654_Fig1_HTML.png",
+            "publishedAt": "2025-11-12T17:37:30Z",
+            "content": "<li>Curcio, M. &amp; Bradke, F. Axon regeneration in the central nervous system: facing the challenges from the inside. Annu. Rev. Cell Dev. Biol.34, 495521 (2018).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle… [+17281 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "The Conversation Africa"
             },
             "author": "Charlotte Gowers, Henry Chung",
@@ -508,6 +573,19 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/stroke.jpg",
             "publishedAt": "2025-11-12T17:22:47Z",
             "content": "Brigham and Women's Hospital's TIMI Study Group reports that in patients with prior ischemic stroke, very low achieved LDL-cholesterol correlated with fewer major adverse cardiovascular events and fe… [+3542 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eatthis.com"
+            },
+            "author": "Alexa Mellardo",
+            "title": "4 Standing Moves That Build More Upper-Body Strength Than Gym Machines After 60 - Eat This Not That",
+            "description": "Build real-world upper-body strength after 60 with four standing exercises that target your shoulders, back, chest, and core.",
+            "url": "https://www.eatthis.com/standing-upper-body-exercises-after-60/",
+            "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2025/11/shutterstock_2209865103.jpg?quality=82&strip=all",
+            "publishedAt": "2025-11-12T17:17:15Z",
+            "content": "When it comes to building functional upper-body strength, standing exercises can be more efficient than standard gym machines. This is particularly true for adults 60+, because these moves fire up mu… [+4731 chars]"
         },
         {
             "source": {
@@ -641,19 +719,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Russell McLendon",
-            "title": "Venting Doesn't Reduce Anger, But Something Else Does, Study Discovers - ScienceAlert",
-            "description": "Venting when angry seems sensible.",
-            "url": "https://www.sciencealert.com/venting-doesnt-reduce-anger-but-something-else-does-study-discovers",
-            "urlToImage": "https://www.sciencealert.com/images/2025/11/angryman_supplements_header.jpg",
-            "publishedAt": "2025-11-12T12:03:07Z",
-            "content": "Venting when angry seems sensible. Conventional wisdom suggests expressing anger can help us quell it, like releasing steam from a pressure cooker.\r\nBut this common metaphor is misleading, according … [+5407 chars]"
-        },
-        {
-            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -668,6 +733,19 @@
         {
             "source": {
                 "id": null,
+                "name": "PsyPost"
+            },
+            "author": "Eric W. Dolan",
+            "title": "Do your musical tastes affect your well-being? Scientists now have an answer - PsyPost",
+            "description": "Some music fans report higher well-being than others, but is the music itself the reason? A groundbreaking genetic study challenges this common belief.",
+            "url": "https://www.psypost.org/do-your-musical-tastes-affect-your-well-being-scientists-now-have-an-answer/",
+            "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/04/listening-to-music-on-headphones.jpg",
+            "publishedAt": "2025-11-12T11:10:38Z",
+            "content": "People often describe music as uplifting, calming, or deeply moving, but does the type of music one prefers really say something about how well theyre doing emotionally? A new study published in the … [+9669 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "19thnews.org"
             },
             "author": "Orion Rummler",
@@ -677,19 +755,6 @@
             "urlToImage": "https://19thnews.org/wp-content/uploads/2025/11/Adriana_Detransitioners_01.jpg",
             "publishedAt": "2025-11-12T11:03:24Z",
             "content": "Adriana Del Orden started her detransition two years ago. As a lesbian, she has no regrets about the steps she took when she was younger to live as a man. Changing her gender and body over time has m… [+9673 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Adrianna Rodriguez, USA TODAY",
-            "title": "There's a reason you're so hooked on soda. It's not entirely your fault. - Yahoo Life UK",
-            "description": "More than 60% of American adults report drinking sugar-sweetened beverages one or more times daily, according to the CDC.",
-            "url": "https://www.usatoday.com/story/life/health-wellness/2025/11/12/soda-addiction-science-sugar-caffeine/86963258007/",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SzNEA8HyyW1awOpEgUpuiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAwO2NmPXdlYnA-/https://media.zenfs.com/en/usa_today_life_698/9d3dea30a0bf33c7d63523ee86cdf9b7",
-            "publishedAt": "2025-11-12T11:01:45Z",
-            "content": "Ken Frondorf is known by friends and family as the Diet Coke Guy.\r\nThe 68-year-old from Cincinnati, Ohio, drinks about 10 plastic 16.9-ounce bottles of Diet Coke every day. Its the only liquid he con… [+7548 chars]"
         },
         {
             "source": {
@@ -719,19 +784,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Swansea boy, 4, diagnosed with 'childhood dementia' Sanfilippo Syndrome - BBC",
-            "description": "Tammy McDaid is raising funds to help her make memories with her son Tate.",
-            "url": "https://www.bbc.com/news/articles/cwyn20jg3xwo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3e03/live/20f6f420-bf8b-11f0-af65-43e046963d80.jpg",
-            "publishedAt": "2025-11-12T05:54:21Z",
-            "content": "Tammy McDaid says she is hoping Tate can be accepted on to clinical trials which are only available outside the UK\r\nThe mother of a four-year-old boy has said her \"heart is broken\" after he was diagn… [+2992 chars]"
-        },
-        {
-            "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
@@ -742,45 +794,6 @@
             "urlToImage": null,
             "publishedAt": "2025-11-12T04:07:58Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Sanya Panwar",
-            "title": "Cardiologist explains how to recognise silent heart attack before it is too late | Health - Hindustan Times",
-            "description": "Silent heart attacks may have mild or no noticeable symptoms, increasing the risk of future complications. Therefore, understanding the warning signs can help. | Health",
-            "url": "https://www.hindustantimes.com/lifestyle/health/cardiologist-explains-how-to-recognise-silent-heart-attack-before-it-is-too-late-101762858340617.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/11/1600x900/logo/26062_1762858457876_1762858469324.jpg",
-            "publishedAt": "2025-11-12T01:46:44Z",
-            "content": "Silent heart attacks can be deadly if left untreated, as they might not receive prompt medical attention. If you're concerned about silent heart attacks, Dr Bimal Chhajer, a cardiologist specialising… [+3079 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "TOI Lifestyle Desk",
-            "title": "The most effective exercise to lower HbA1c level in a diabetic person - The Times of India",
-            "description": "Controlling blood sugar is the biggest challenge for someone who’s living with diabetes. Among the many diabetes indicators HbA1c remains a crucial one. HbA1c, or glycated hemoglobin, measures the average blood sugar levels over the past two to three months. …",
-            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/fitness/the-most-effective-exercise-to-lower-hba1c-level-in-a-diabetic-person/photostory/125258490.cms",
-            "urlToImage": "https://static.toiimg.com/photo/125258595.cms",
-            "publishedAt": "2025-11-12T01:30:00Z",
-            "content": "Controlling blood sugar is the biggest challenge for someone whos living with diabetes. Among the many diabetes indicators HbA1c remains a crucial one. HbA1c, or glycated hemoglobin, measures the ave… [+800 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Prevention.com"
-            },
-            "author": "Kayla Blanton",
-            "title": "The Number-1 Food to Eat for Better Sleep, According to Dietitians - AOL.com",
-            "description": "Dietitians share the best foods for sleep that promote relaxation and may improve the quality of your rest. Plus, foods to avoid before bed.",
-            "url": "https://www.prevention.com/food-nutrition/a69300617/best-foods-for-sleep/",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TU3_prA.PtIUrl37FGD_VQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_prevention_182/4961dcf5f90371bc9f6b097ec1d4aeb0",
-            "publishedAt": "2025-11-10T14:04:46Z",
-            "content": "Depending on your age or your biggest health concerns, you may fill your plate with the best foods for heart health, best foods for gut health, or those that will support your skin health. But no mat… [+5351 chars]"
         }
     ]
 }

@@ -1,7 +1,46 @@
 {
     "status": "ok",
-    "totalResults": 68,
+    "totalResults": 52,
     "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg.com",
+            "title": "Asia Set for Cautious Open Ahead of Busy Data Week: Markets Wrap - Bloomberg.com",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2025-11-30/asia-set-for-cautious-open-ahead-of-busy-data-week-markets-wrap",
+            "urlToImage": null,
+            "publishedAt": "2025-12-01T05:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Sam Reynolds",
+            "title": "Asia Morning Briefing: BOJ Rate-Hike Bets Trigger Asia Selloff and Bitcoin Slide - CoinDesk",
+            "description": "Short-term Japanese yields reached their highest level since 2008, strengthening the yen and pressuring leveraged crypto positions during Hong Kong trading hours.",
+            "url": "https://www.coindesk.com/markets/2025/12/01/asia-morning-briefing-boj-rate-hike-bets-trigger-asia-selloff-and-bitcoin-slide",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/e34398a808fa83f974bf3bc6788c943e5a0ffbbd-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2025-12-01T02:30:55Z",
+            "content": "Welcome to Asia Morning Briefing, a daily summary of top stories during U.S. hours and an overview of market moves and analysis. For a detailed overview of U.S. markets, see CoinDesk's Crypto Daybook… [+2152 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "Varda says it has proven space manufacturing works — now it wants to make it boring - TechCrunch",
+            "description": "CEO Will Bruey says people often get Varda wrong. The company isn't \"in the space industry; we're in-space industry,\" he said. Space is \"just another place to ship to.\"",
+            "url": "https://techcrunch.com/2025/11/30/varda-says-it-has-proven-space-manufacturing-works-now-it-wants-to-make-it-boring/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-30-at-5.51.53-PM.png?resize=1200,563",
+            "publishedAt": "2025-12-01T02:11:19Z",
+            "content": "When Will Bruey talks about the future, the timelines are shorter than most might imagine. The Varda Space Industries CEO predicts that within 10 years, someone could stand at a landing site and watc… [+12414 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -14,19 +53,6 @@
             "urlToImage": "https://www.investors.com/wp-content/uploads/2025/04/Stock-trumppoint-06-shutt.jpg",
             "publishedAt": "2025-12-01T01:48:00Z",
             "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Shikhar Balwani",
-            "title": "Asia Set for Cautious Open Ahead of Busy Data Week: Markets Wrap - Bloomberg.com",
-            "description": "US stock futures and cryptocurrencies dropped, signaling risk aversion ahead of a slew of economic data this week even as bets for a December Federal Reserve interest-rate cut remain firm.",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-30/asia-set-for-cautious-open-ahead-of-busy-data-week-markets-wrap",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqT3DtcwF9Nw/v0/1200x675.png",
-            "publishedAt": "2025-12-01T01:29:00Z",
-            "content": "US stock futures and cryptocurrencies dropped, signaling risk aversion ahead of a slew of economic data this week even as bets for a December Federal Reserve interest-rate cut remain firm.\r\nContracts… [+286 chars]"
         },
         {
             "source": {
@@ -56,68 +82,94 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
+                "id": "fortune",
+                "name": "Fortune"
             },
-            "author": null,
-            "title": "Trump Says He's Picked Next Fed Chief. Here's Who Markets Expect. - Investor's Business Daily",
-            "description": "Markets bet it'll be Kevin Hassett, director of Trump's National Economic Council.",
-            "url": "https://www.investors.com/news/trump-pick-fed-chief-announcement-kevin-hassett/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/02/Stock-Trump-smirk-03-shutt.jpg",
-            "publishedAt": "2025-11-30T23:46:00Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+            "author": "Jason Ma",
+            "title": "The S&P 500 could hit 7,000 this week, while Trump hints at a Fed chair pick and Washington eyes this special election - Fortune",
+            "description": "\"The S&P 500 would need to rise by just 2.2% to reach 7,000. That could happen this coming week, in our view.\"",
+            "url": "https://fortune.com/2025/11/30/stock-market-outlook-sp500-7000-trump-fed-chair-pick-hassett-tennessee-special-election/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2247311091-e1764544765727.jpg?resize=1200,600",
+            "publishedAt": "2025-12-01T00:06:00Z",
+            "content": "Meanwhile, the coming week could see President Donald Trump nominate a successor to Federal Reserve Chairman Jerome Powell, and a special election in Tennessee could further narrow the GOPs House maj… [+2433 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Isis Almeida, Katherine Doherty",
+            "title": "CME’s Data Center Adds More Cooling After Outage, CyrusOne Says - Bloomberg.com",
+            "description": "The data center that supports CME Group Inc., one of the world’s largest derivatives exchanges, said it has bolstered its backup cooling capacity after overheating sparked a catastrophic 10-hour outage that roiled world markets on Friday.",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-30/cme-s-data-center-adds-more-cooling-after-outage-cyrusone-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYFPoDdK1sJs/v1/1200x800.jpg",
+            "publishedAt": "2025-11-30T23:51:21Z",
+            "content": "The data center that supports CME Group Inc., one of the worlds largest derivatives exchanges, said it has bolstered its backup cooling capacity after overheating sparked a catastrophic 10-hour outag… [+495 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O'Brien",
+            "title": "Data centers in Oregon might be helping to drive an increase in cancer and miscarriages - The Verge",
+            "description": "Amazon data centers might be adding to a public health crisis in Morrow County, Oregon.",
+            "url": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/hero-001-10-gallery-data-center-drone-cropped-copy.jpeg?quality=90&strip=all&crop=0%2C3.4383212962771%2C100%2C93.123357407446&w=1200",
+            "publishedAt": "2025-11-30T23:17:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon could be accelerating the dangerous levels of nitrates in Morrow Countys drinking water.\r\nAmazon could be accelerating the dangerous levels of nitrates in… [+4700 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "María Paula Mijares Torres, Josh Wingrove",
+            "title": "Trump Says He Has Made His Choice to Lead the Federal Reserve - Bloomberg.com",
+            "description": "President Donald Trump said Sunday he has decided on his pick for the next Federal Reserve chair after making clear he expects his nominee to deliver interest-rate cuts.",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-30/fed-contender-hassett-says-market-is-ready-for-trump-chair-pick",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFh5ybi4.gQY/v1/1200x800.jpg",
+            "publishedAt": "2025-11-30T23:06:42Z",
+            "content": "President Donald Trump said Sunday he has decided on his pick for the next Federal Reserve chair after making clear he expects his nominee to deliver interest-rate cuts. \r\nI know who I am going to pi… [+127 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "FDA links 10 children's deaths to COVID-19 vaccines. Doctors want proof - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/fda-links-10-childrens-deaths-covid-19-vaccines/story?id\\\\u003d127985834",
+            "urlToImage": null,
+            "publishedAt": "2025-11-30T22:30:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Motley Fool"
+                "name": "Semafor.com"
             },
-            "author": "Adam Spatacco, Adam Spatacco",
-            "title": "Prediction: This Will Be the Next Quantum Computing Stock That Berkshire Hathaway Buys - The Motley Fool",
-            "description": "Berkshire Hathaway currently holds two quantum computing stocks: Alphabet and Amazon.",
-            "url": "https://www.fool.com/investing/2025/11/30/prediction-this-will-be-the-next-quantum-computing/",
-            "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844488%2Fgettyimages-2211414345.jpg&w=1200&op=resize",
-            "publishedAt": "2025-11-30T23:30:00Z",
-            "content": "Berkshire Hathaway currently holds two quantum computing stocks: Alphabet and Amazon.Over the last 60 years, Warren Buffett has built Berkshire Hathaway into one of the most successful investment fir… [+5136 chars]"
+            "author": "J.D. Capelouto",
+            "title": "Black Friday spending reflects K-shaped US economy - https-//www.semafor.com",
+            "description": "Black Friday spending reflected the forces shaping the US economy.",
+            "url": "https://www.semafor.com/article/11/30/2025/black-friday-spending-reflects-k-shaped-us-economy",
+            "urlToImage": "https://img.semafor.com/12d6ce3f35160776bd0a950c0e7a493964c8f102-3402x2268.jpg?rect=0,241,3402,1786&w=1200&h=630&q=75&auto=format",
+            "publishedAt": "2025-11-30T22:19:00Z",
+            "content": "Black Friday spending reflected the forces shaping the US economy.\r\nRetail sales on the countrys busiest shopping day of the year climbed 4.1% compared to 2024, according to Mastercard, mirroring ana… [+582 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "techcrunch",
+                "name": "TechCrunch"
             },
-            "author": "Fred Imbert",
-            "title": "Stock futures are little changed as traders get ready for the final month of the year: Live updates - CNBC",
-            "description": "The S&P 500 and Nasdaq Composite last week ripped higher by 3.7% and 4.9%, respectively, while the Dow advanced 3.2%.",
-            "url": "https://www.cnbc.com/2025/11/30/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108231805-17640881362025-11-25t162557z_201470550_rc2q3ia9nniv_rtrmadp_0_usa-stocks.jpeg?v=1764088239&w=1920&h=1080",
-            "publishedAt": "2025-11-30T23:15:00Z",
-            "content": "Stock futures were little changed on Sunday night following a winning week, as traders get set to wrap up a strong 2025.\r\nDow Jones Industrial Average futures slipped 18 points. Futures tied to the S… [+1292 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theblock.co"
-            },
-            "author": "Zack Abrams",
-            "title": "$3 million in ETH sent to Tornado Cash following apparent attack on Yearn's yETH - theblock.co",
-            "description": "The complex attack took place in a single transaction, and appears to have involved liquid staking tokens from across the Ethereum ecosystem.",
-            "url": "https://www.theblock.co/post/380822/3-million-in-eth-sent-to-tornado-cash-following-apparent-attack-on-yearns-yeth",
-            "urlToImage": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-1200x675.jpg",
-            "publishedAt": "2025-11-30T22:50:37Z",
-            "content": "Yield-farming protocol Yearn Finance appears to have been targeted by an attack that drained millions of dollars worth of liquid staking tokens (LSTs) from its Yearn Ether (yETH) product, which aggre… [+2236 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "David Jagielski, CPA, David Jagielski, CPA",
-            "title": "Jensen Huang Says This Artificial Intelligence Transition Will Be \"Revolutionary\" - The Motley Fool",
-            "description": "Nvidia's management still sees plenty of growth opportunities related to artificial intelligence.",
-            "url": "https://www.fool.com/investing/2025/11/30/jensen-huang-says-this-artificial-intelligence-tra/",
-            "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844658%2Ffuturistic-image-showing-artificial-intelligence-concepts-next-to-a-persons-face.jpg&w=1200&op=resize",
-            "publishedAt": "2025-11-30T21:27:00Z",
-            "content": "Nvidia's management still sees plenty of growth opportunities related to artificial intelligence.Nvidia(NVDA1.83%) has been at the forefront of advancements in artificial intelligence (AI) with its c… [+3498 chars]"
+            "author": "Anthony Ha",
+            "title": "New report examines how David Sacks might profit from Trump administration role - TechCrunch",
+            "description": "David Sacks’ role as President Donald Trump’s artificial intelligence and crypto czar could work out very well for his investments, according to a new report. However, Sacks fired back, calling the story a \"nothing burger.\"",
+            "url": "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-604487976.jpg?resize=1200,798",
+            "publishedAt": "2025-11-30T21:39:04Z",
+            "content": "David Sacks role as President Donald Trumps artificial intelligence and crypto czar could work out very well for his investments, as well as his friends, according to a new report The New York Times.… [+3941 chars]"
         },
         {
             "source": {
@@ -148,6 +200,45 @@
         {
             "source": {
                 "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Dana Sullivan Kilroy, Celine Provini",
+            "title": "Latest cheese recalls gets FDA’s most serious warning - TheStreet",
+            "description": "The cheese recall has an FDA Class I designation meaning consuming the product could cause illness or death.",
+            "url": "https://www.thestreet.com/retail/latest-cheese-recalls-gets-fdas-most-serious-warning",
+            "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE2NTI1ODgwNzcwNDM4Njc1/fda-lead_ck_20250723.jpg",
+            "publishedAt": "2025-11-30T19:56:24Z",
+            "content": "Key Points\r\n<ul><li>A nationwide cheese recall was issued due to listeria contamination risk.</li><li>No illnesses were reported; the company suspended production and urges discarding or returning af… [+4323 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Kendall Cornish",
+            "title": "Ready for takeoff? The 19 best Cyber Monday travel deals of 2025 just landed - New York Post",
+            "description": "It’s the final countdown.",
+            "url": "https://nypost.com/shopping/best-cyber-monday-travel-deals-sales-2025/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/cmtravellead.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2025-11-30T19:27:00Z",
+            "content": "New York Post may be compensated and/or receive an affiliate commission if you click or buy through our links. Featured pricing is subject to change.\r\nJet brag: The Cyber Monday condition where you c… [+8167 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Kyle Swenson",
+            "title": "At this ultramarathon, runners tackle 31 miles and eat at nine Taco Bells - The Washington Post",
+            "description": "Puking is discouraged, but allowed. Pepto-Bismol is not.",
+            "url": "https://www.washingtonpost.com/dc-md-va/2025/11/30/dc-taco-bell-50k-ultramarathon/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NKPEKTCT2EWCNHUWJWVLWKLD6A_size-normalized.jpg&w=1440",
+            "publishedAt": "2025-11-30T19:00:12Z",
+            "content": "Sure, vomiting is allowed. Discouraged but allowed, according to the bylaws of this ultramarathon.\r\nThirty-one miles of running and several thousand calories of greasy fast food are required for the … [+137 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Ece Yildirim",
@@ -161,32 +252,6 @@
         {
             "source": {
                 "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "Desiree Anello",
-            "title": "Man, 68, Left Stranded After Airline Allegedly Refused to Let Him on Flight Due to Parkinson’s: ‘I Feel So Humiliated’ - Yahoo News Canada",
-            "description": "“It’s quite a hard thing to admit, even to yourself, that you are disabled,” former BBC journalist Mark Mardell said",
-            "url": "https://people.com/mark-mardell-stranded-after-airline-allegedly-refused-to-let-him-on-flight-due-to-parkinsons-disease-11859046",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Sy2t8mMJ6P00kcRUd_z85A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/c9409d1b98a075f932e1cb549e5eb57b",
-            "publishedAt": "2025-11-30T17:46:52Z",
-            "content": "NEED TO KNOW\r\n<ul><li>British journalist Mark Mardell was allegedly turned away from a Turkish Airlines flight due to his Parkinsons disease\r\n</li><li>Its this terrible feeling that you are so vulner… [+3902 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Christy Rakoczy",
-            "title": "FBI issues urgent warning to iPhone users about dangerous scam - TheStreet",
-            "description": "Losses exceed $262 million in 2025, so all phone users need to be careful.",
-            "url": "https://www.thestreet.com/personal-finance/fbi-issues-urgent-warning-to-iphone-users-about-dangerous-scam",
-            "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MTY4OTA2NTUyOTM2MjQ0OTQ0/iphone11_2.png",
-            "publishedAt": "2025-11-30T17:13:00Z",
-            "content": "Key Points\r\n<ul><li>FBI warns of rising phone scam targeting iPhone users.</li><li>Cyber criminals impersonate banks to steal money.</li><li>FBI advises vigilance, secure account practices, and avoid… [+4159 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Travel+Leisure"
             },
             "author": "https://www.facebook.com/travelandleisure/",
@@ -196,19 +261,6 @@
             "urlToImage": "https://www.travelandleisure.com/thmb/a6uo8UmEa3xIswe7wVAFlqpM-5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tal-patagonia-hoka-and-more-are-up-to-50percent-off-in-reis-early-cyber-monday-sale-tout-723bdca7239247f0ae04838d01bcfd28.jpg",
             "publishedAt": "2025-11-30T16:51:00Z",
             "content": "After working for years as an outdoor gear outfitter, I can tell you exactly how the next month is going to look. Right after Thanksgiving, a trickle of savvy shoppers will shrug off the Thanksgiving… [+8118 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FX Empire"
-            },
-            "author": "James Hyerczyk",
-            "title": "Silver (XAG) Forecast: Silver Rally Explodes to Record High on Supply Squeeze - FXEmpire",
-            "description": "Silver smashes past $56 to record highs as industrial demand, a four-year supply deficit, and rising Fed rate-cut bets fuel the biggest weekly rally since May.",
-            "url": "https://www.fxempire.com/forecasts/article/silver-xag-forecast-silver-rally-explodes-to-record-high-on-supply-squeeze-1564704",
-            "urlToImage": "https://responsive.fxempire.com/v7/_fxempire_/2025/11/ChatGPT-Image-Jul-1-2025-05_10_52-PM-1-2.jpg?func=cover&q=70&width=700",
-            "publishedAt": "2025-11-30T16:43:00Z",
-            "content": "Technically, the main trend is up with no objective at this time. We should find out early in the week if Fridays buying was real or just speculators taking advantage of a thin post-holiday market. T… [+1781 chars]"
         },
         {
             "source": {
@@ -239,19 +291,6 @@
         {
             "source": {
                 "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Faizan Farooque",
-            "title": "Meta Platforms may signal major AI market shift in 2026 - TheStreet",
-            "description": "Meta’s quiet pivot gives Google new leverage and raises a question Nvidia investors can’t ignore.",
-            "url": "https://www.thestreet.com/investing/meta-platforms-may-signal-major-ai-market-shift-in-2026",
-            "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyNzg3NTUy/jensen-huang-co-founder-and-ceo-of-nvidia-corp-speaks-during-a-news-conference-in-taipei-on-may-21-2025-huang-said-that-us-export-controls-on-artificial-intelligence-chips-to-china-had-failed-with-com.jpg",
-            "publishedAt": "2025-11-30T16:06:00Z",
-            "content": "Key Points\r\n<ul><li>Nvidia's central role in AI faces subtle pressure as major tech players explore new chip strategies.</li><li>Policy shifts and market dynamics are creating fresh momentum for dome… [+7513 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Tipranks.com"
             },
             "author": "Gabe Ross",
@@ -278,19 +317,6 @@
         {
             "source": {
                 "id": null,
-                "name": "The Points Guy"
-            },
-            "author": "Ben Mutzabaugh",
-            "title": "Airlines cancel 2,500 flights, roll out waivers, as storm disrupts Thanksgiving return - The Points Guy",
-            "description": "Airlines canceled nearly 2,000 flights on Saturday and another 490 (and counting) on Sunday as a potent storm swept through the upper Midwest and Great Lakes.",
-            "url": "https://thepointsguy.com/news/airlines-thanksgiving-saturday-cancellations/",
-            "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/11/2025-snow-ord-getty2.jpg",
-            "publishedAt": "2025-11-30T15:00:00Z",
-            "content": "This year's Thanksgiving air travel has finally hit a hitch.\r\nAirlines canceled nearly 2,000 flights on Saturday and another 679 on Sunday, rolling out weather waivers as a potent storm swept through… [+3840 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Forbes"
             },
             "author": "Zachary Folk",
@@ -300,19 +326,6 @@
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/692c5b2c10c1e725a542dc6e/0x0.jpg?format=jpg&crop=1961,1102,x0,y101,safe&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-11-30T14:57:18Z",
             "content": "No winning tickets matched all six winning numbers (19, 22, 30, 32, 59 and Powerball number 1) drawn Saturday, meaning the jackpot is growing once again before the next drawing.\r\nIf a winner is selec… [+1069 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Shweta Kukreti",
-            "title": "VA benefits: Veterans disability compensation set to rise in 2026, how much will you receive? All on rating system | Hindustan Times - Hindustan Times",
-            "description": "Veterans' disability payments will increase by 2.8% in 2026 due to a cost-of-living adjustment, effective December 1, 2025.",
-            "url": "https://www.hindustantimes.com/world-news/us-news/va-benefits-veterans-disability-compensation-set-to-rise-in-2026-how-much-will-you-receive-all-on-rating-system-101764510349187.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/30/1600x900/photo-1593672715438-d88a70629abe_1758826248434_1758826263839_1764513875238.jpg",
-            "publishedAt": "2025-11-30T14:50:07Z",
-            "content": "Veterans who are receiving disability compensation will experience a slight rise in their payments for the year 2026, attributed to the verified 2.8 percent cost-of-living adjustment (COLA), which wi… [+3282 chars]"
         },
         {
             "source": {
@@ -342,19 +355,6 @@
         },
         {
             "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Amanda Gerut",
-            "title": "The $124 trillion Great Wealth Transfer won’t be a ‘big bang’ warns Northwestern Mutual CEO Tim Gerend - Fortune",
-            "description": "Women live longer than men, and wealth will transfer across spouses before it moves from baby boomers to the next generation.",
-            "url": "https://fortune.com/2025/11/30/the-great-wealth-transfer-ceo-financial-planning/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2118357454-e1764044770431.jpg?resize=1200,600",
-            "publishedAt": "2025-11-30T14:29:00Z",
-            "content": "The much-hyped Great Wealth Transfer, in which as much as $124 trillion in baby-boomer wealth is predicted to move on to younger generations, has captivated Gen X, Millennials, and Gen Z. But Tim Ger… [+4185 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "The Conversation Africa"
             },
@@ -378,32 +378,6 @@
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/30/1600x900/logo/Social_Security_Fairness_Act_1747424974461_1764509316653.JPG",
             "publishedAt": "2025-11-30T13:32:30Z",
             "content": "Around 7.5 million individuals are set to receive a benefits check during the initial week of December. The Social Security Administration (SSA) initiates its payment schedule for the December 2025 t… [+2867 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Kelly Tyko",
-            "title": "Why the growing penny shortage is confusing shoppers — and straining retailers - Axios",
-            "description": "It's disrupting checkout lines, triggering rounding headaches and costing retailers money.",
-            "url": "https://www.axios.com/2025/11/30/last-penny-shortage-rounding-tax-pennies",
-            "urlToImage": "https://images.axios.com/6Z78jlc6MADWUkPdv6COmC3RzHc=/0x0:1920x1080/1366x768/2025/11/13/1763057585261.jpeg",
-            "publishedAt": "2025-11-30T13:30:10Z",
-            "content": "<ul><li>Customers don't always understand what happens when $4.73 becomes $4.75.</li><li>Stores are posting signs, retraining cashiers, spending millions on tech fixes and in many cases rounding down… [+3045 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GQ Magazine"
-            },
-            "author": "Michael Nolledo, Reed Nelson",
-            "title": "The Black Friday Menswear Deals Are Better Company Than Your Relatives - GQ",
-            "description": "The best Black Friday clothing deals of 2025 include up to 50% off menswear, watches, sneakers, and more. Here's everything we're buying—today and today only.",
-            "url": "https://www.gq.com/story/black-friday-clothing-deals-11-30-2025",
-            "urlToImage": "https://media.gq.com/photos/69277b63cc7c85f693fab920/16:9/w_1280,c_limit/bfcm-clothing-v3.png",
-            "publishedAt": "2025-11-30T12:59:00Z",
-            "content": "Updated 8:00 a.m. ET: Thanksgiving has formally come and gone, but the Black Friday clothing deals are just getting started. The very best of them might still be aheadCyber Week is a marathon, not a … [+22243 chars]"
         },
         {
             "source": {
@@ -446,19 +420,6 @@
         },
         {
             "source": {
-                "id": "marca",
-                "name": "Marca"
-            },
-            "author": "TBS",
-            "title": "What age can you retire with full Social Security benefits under the new change? - MARCA",
-            "description": "The rules around when you can receive full retirement benefits from the Social Security Administration (SSA) are shifting, and many Americans want to know: what age qualifies for f",
-            "url": "https://www.marca.com/en/lifestyle/us-news/personal-finance/2025/11/30/692c22ed22601dea788b45bf.html",
-            "urlToImage": "https://phantom.estaticos-marca.com/c0818f732b06daec1593f072ee4020ae/resize/1200/f/webp/assets/multimedia/imagenes/2023/07/12/16891576415301.png",
-            "publishedAt": "2025-11-30T10:57:05Z",
-            "content": "The rules around when you can receive full retirement benefits from the Social Security Administration (SSA) are shifting, and many Americans want to know: what age qualifies for full benefits under … [+2851 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "WTOP"
             },
@@ -485,16 +446,16 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": null,
+                "name": "Internet"
             },
-            "author": "Lorenzo Lamperti",
-            "title": "The Rare Earth Metal Driving Tensions Between the US and China - WIRED",
-            "description": "Yttrium plays a critical role in everything from aircraft engines to semiconductors. China controls the vast majority of the market—and that’s not changing any time soon.",
-            "url": "https://www.wired.com/story/yttrium-rare-earth-metal-china-us/",
-            "urlToImage": "https://media.wired.com/photos/69272a1947fc913b5deca1d8/191:100/w_1280,c_limit/104550872",
-            "publishedAt": "2025-11-30T10:00:00Z",
-            "content": "The alarm hasn't yet reached the general public, but tension is beginning to build in the corridors of the aerospace industry, in microchip laboratories, and in government offices. For months, an ele… [+3595 chars]"
+            "author": "The Hacker News",
+            "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV - The Hacker News",
+            "description": "CISA flags active exploitation of CVE-2021-26829 as TwoNet and OAST operations drive widespread scanning.",
+            "url": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgDyMqGZH8Rp4Y4Nt38tsox7FPdyDY1hpVLBuBDSX4Zfz3FlXPCzUR5TIOcLs_e3Q37fkYRyC7M-pdCEOmvqhLxWBvynMu8XUeVjaZzdUX5UlW4rqqGs_504c6rcd-ev02FEmGlGjgTUF8hvjIak9dbLhtbVaSgAdl7a9wDYs7u6NO3jcjb12zbVdPnox4/s790-rw-e365/cisa.jpg",
+            "publishedAt": "2025-11-30T09:23:00Z",
+            "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of… [+3922 chars]"
         },
         {
             "source": {
@@ -524,133 +485,29 @@
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": null,
+                "name": "Motley Fool"
             },
-            "author": "Neil Irwin",
-            "title": "Social Security's day of reckoning is nearly here - Axios",
-            "description": "There is a tug-of-war between the benefits future retirees receive and the taxes that working-age people pay.",
-            "url": "https://www.axios.com/2025/11/29/social-security-trust-fund-2033",
-            "urlToImage": "https://images.axios.com/jqtHsBvfn0fXGzN1-wpuomrTuhA=/0x0:1920x1080/1366x768/2025/11/20/1763659661209.jpeg",
-            "publishedAt": "2025-11-30T05:40:30Z",
-            "content": "The big picture: The Social Security retirement fund is set to be depleted in 2033, at which point recipients would see a steep cut to their monthly checks absent congressional action.\r\n<ul><li>Nobod… [+7024 chars]"
+            "author": "Justin Pope, Justin Pope",
+            "title": "Could the Nvidia Killer Be Hiding in Plain Sight? 3 Stocks to Watch - The Motley Fool",
+            "description": "Nvidia was an early leader in AI and has reaped the rewards. But it may soon need to defend its crown.",
+            "url": "https://www.fool.com/investing/2025/11/29/could-the-nvidia-killer-be-hiding-in-plain-sight-3/",
+            "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843851%2Fai-chip-digital.jpg&w=1200&op=resize",
+            "publishedAt": "2025-11-30T02:07:00Z",
+            "content": "Nvidia was an early leader in AI and has reaped the rewards. But it may soon need to defend its crown.The artificial intelligence (AI) market is booming, and could grow from $235 billion last year to… [+4257 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "TheStreet"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Tony Owusu, Daniel Kline",
-            "title": "General Motors makes a harsh decision as EVs falter - TheStreet",
-            "description": "GM is continuing to right size its EV production.",
-            "url": "https://www.thestreet.com/automotive/general-motors-makes-a-harsh-decision-as-evs-falter",
-            "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE2ODY4Mjk1MTU5MDY0MDgz/general-motors-ceo-mary-barra-at-automotive-press-association-event-1.jpg",
-            "publishedAt": "2025-11-30T04:26:00Z",
-            "content": "Key Points\r\n<ul><li>Only 9 of 90 EV models sold over 10,000 units in Q3.</li><li>Policy changes, including tax credit expiration, are expected to slow future U.S. EV adoption.</li><li>GM plans to lay… [+4223 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "TipRanks",
-            "title": "3 Best Dividend Stocks to Buy Now, 11/30/2025, According to Analysts - TipRanks",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVF0MVBjWUNIUWNNMUlKR0FNUXRab3JVRE40VE91T2FKR3JDXzJEQUFYUkx0N3VRMHVicjRnOUlMeURtX1FOakd1SXhrVmRhS3lKOUljdjhwN0o3ZFB0dGpJb2JORlhFbHFuRFE2OGFPaWhONVp3VDlrSlhKWWFSUTU1ei1MY1JIcTlOZzhPNFgzcDFoU2U4MzlCWE8?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2025-11-30T03:36:36Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Charles Gasparino",
-            "title": "Brad Lander’s departure as NYC comptroller is good news for Gotham’s $300B pension fund - New York Post",
-            "description": "Brad Lander won’t be New York City comptroller much longer — and that’s good news for Gotham’s rank and file.",
-            "url": "https://nypost.com/2025/11/29/business/nyc-pension-system-will-be-in-better-hands-after-brad-landers-departure-as-city-comptroller/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/brad-lander-federal-court-manhattan-115668818-e1764470993116.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2025-11-30T03:23:00Z",
-            "content": "Brad Lander wont be New York City comptroller much longer and thats good news for Gothams rank and file.\r\nIts not just because Lander is a knee-jerk leftist who rivals Mayor-elect Zohran Mamdani when… [+4724 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "The Wall Street Journal",
-            "title": "Data Centers Are a ‘Gold Rush’ for Construction Workers - The Wall Street Journal",
-            "description": null,
-            "url": "https://www.wsj.com/business/data-centers-are-a-gold-rush-for-construction-workers-6e3c5ce0",
-            "urlToImage": null,
-            "publishedAt": "2025-11-30T01:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "STAT"
-            },
-            "author": "Matthew Herper, Helen Branswell",
-            "title": "Experts say top FDA official’s claim that Covid vaccines caused kids’ deaths requires more evidence - statnews.com",
-            "description": "The FDA’s top vaccine regulator asserted in a staff email that the Covid vaccine caused at least 10 kids' deaths, but experts told STAT they are skeptical of the “extraordinary” claim because it was not presented with detailed data.",
-            "url": "https://www.statnews.com/2025/11/29/covid-vaccine-deaths-fda-memo-vinay-prasad/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/03/GettyImages-1308671560-1024x576.jpg",
-            "publishedAt": "2025-11-29T23:42:18Z",
-            "content": "The Food and Drug Administrations top vaccine regulator asserted in an email to staff sent Friday that the Covid-19 vaccine caused at least 10 deaths in children and called for changes to the way the… [+10667 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Jason Ma",
-            "title": "Santa is coming to Wall Street early this season, and analysts say 2026 is shaping up to be another big year of gains - Fortune",
-            "description": "Deutsche Bank predicted the S&P 500 will finish next year at 8,000, representing a 17% jump from Friday's close.",
-            "url": "https://fortune.com/2025/11/29/stock-market-outlook-santa-claus-rally-sp500-forecast-8000-2026/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2248555675-e1764446973126.jpg?resize=1200,600",
-            "publishedAt": "2025-11-29T22:00:00Z",
-            "content": "The Santa Claus rally typically begins at the end of December, but Wall Street is already showing signs of holiday cheer, potentially leading up to another big year for stocks in 2026.During the Than… [+2520 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Anthony Ha",
-            "title": "Black Friday sets online spending record of $11.8B, Adobe says - TechCrunch",
-            "description": "American consumers spent $11.8 billion online on Black Friday, according to data from Adobe Analytics, which says it tracks more than 1 trillion visits to U.S. retail websites.",
-            "url": "https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/gg19-black-friday-text.png?resize=1200,638",
-            "publishedAt": "2025-11-29T21:39:44Z",
-            "content": "American consumers spent $11.8 billion online on Black Friday, according to data from Adobe Analytics, which says it tracks more than 1 trillion visits to U.S. retail websites.\r\nThats a new record, a… [+1688 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abc45.com"
-            },
-            "author": "MINA ALLEN | The National News Desk",
-            "title": "Aldi recalls two holiday sweets over undeclared allergens, FDA announces - 13wham.com",
-            "description": "Two popular holiday sweets sold at Aldi have been recalled for possible undeclared allergens in the products.",
-            "url": "https://abc45.com/news/nation-world/aldi-recalls-two-holiday-sweets-over-undeclared-allergens-fda-announces",
-            "urlToImage": "https://13wham.com/resources/media2/16x9/723/1320/2x0/90/1c6cad01-d6b8-43aa-9073-a687cc9b3eba-ALDI.PNG",
-            "publishedAt": "2025-11-29T21:26:50Z",
-            "content": "WASHINGTON (TNND) Two popular holiday sweets sold at Aldi have been recalled for possible undeclared allergens in the products. The U.S. Food and Drug Administration announced on Wednesday that the v… [+459 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Victoria Song",
-            "title": "I bought this $110 Nespresso rig and it’s been caffeinated bliss ever since - The Verge",
-            "description": "The De’Longhi Nespresso Vertuo Plus is 35 percent off at $110 from Amazon, and it has made caffeinating much less tedious (especially during Black Friday).",
-            "url": "https://www.theverge.com/gadgets/833482/delonghi-nespresso-vertuo-black-friday-deal",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/delonghivertuoplus.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
-            "publishedAt": "2025-11-29T20:30:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIs it a fancy Keurig? Yes, but Im too lazy and cheap for a real espresso machine.\r\nIs it a fancy Keurig? Yes, but Im too lazy and cheap for a real espresso machi… [+2999 chars]"
+            "author": "Zachary Ehrmann",
+            "title": "Tesla Cybertruck owners sound off on concerning new trend on US roadways: 'It has escalated quite a bit' - Yahoo",
+            "description": "\"I’ve never felt like that since I was a kid.\"",
+            "url": "https://www.yahoo.com/news/articles/tesla-cybertruck-owners-sound-off-200000566.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UOOokNaJiN5Lj8nJ3E6How--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzg7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/70915156942eb8468af3f9a025895d0d",
+            "publishedAt": "2025-11-29T20:00:00Z",
+            "content": "Cybertruck drivers across the country are reporting increased harassment on roads and in parking lots, with some confrontations even escalating to physical attacks on the electric vehicles, KTVB repo… [+2049 chars]"
         },
         {
             "source": {
@@ -667,120 +524,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "fortune",
+                "name": "Fortune"
             },
             "author": "Nino Paoli",
-            "title": "McDonald’s promoted its new $8 nugget combo meal, then got blasted online with complaints about affordability, quality and service - Yahoo",
+            "title": "McDonald’s promoted its new $8 nugget combo meal, then got blasted online with complaints about affordability, quality and service - Fortune",
             "description": "“Since when is $8 a good price for 10 little nuggets, a hand full of fries and a drink?\" one commenter said.",
-            "url": "https://www.yahoo.com/news/articles/mcdonald-promoted-8-nugget-combo-194059761.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Se2AfV35IdCoIcO8G6sP9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/fortune_175/e45fe510ef13ca8922cf6bc65f38948a",
-            "publishedAt": "2025-11-29T19:40:59Z",
-            "content": "McDonalds CEO said combo meals at one of the worlds largest fast food chains were too expensive earlier this year, teeing up a rollout of cheaper deals for cash-strapped customers. But online, consum… [+3011 chars]"
+            "url": "https://fortune.com/2025/11/29/mcdonalds-mcnugget-combo-value-meal-complaints-affordability-quality-service/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2247198995-e1764444060480.jpg?resize=1200,600",
+            "publishedAt": "2025-11-29T19:40:00Z",
+            "content": "McDonalds CEO said combo meals at one of the worlds largest fast food chains were too expensive earlier this year, teeing up a rollout of cheaper deals for cash-strapped customers. But online, consum… [+2957 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "Travelhost.com"
             },
-            "author": "Mike Pearl",
-            "title": "MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI - Gizmodo",
-            "description": "The report notes that it has some limitations, but says \"policymakers cannot wait\" to act on its findings.",
-            "url": "https://gizmodo.com/replacement-study-mit-2000692601",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/empty-desk-1200x675.jpg",
-            "publishedAt": "2025-11-29T19:06:21Z",
-            "content": "Last week, Massachusetts Institute of Technology (MIT) published a study claiming that AI is already capable of replacing 11.7% of existing U.S. labor. Its certainly the kind of eye-popping study gua… [+2895 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "cleveland.com"
-            },
-            "author": "Kaylee Remington, cleveland.com",
-            "title": "Major cheese brands pulled nationwide after contamination risk - Cleveland.com",
-            "description": "The Ambriola Co. has issued a nationwide recall of several grated cheese products sold under brands including Locatelli, Boar’s Head, Pinna, Member’s Mark and Ambriola after routine testing detected listeria.",
-            "url": "https://www.cleveland.com/news/2025/11/major-cheese-brands-pulled-nationwide-after-contamination-risk.html",
-            "urlToImage": "https://www.cleveland.com/resizer/v2/EI462DDCLFFD7FIZNWHKABLQLE.jpg?auth=c361110e4fd9ad4679382e77db4a8fa6dc852752227690bff28fe0d4a962a716&width=1280&smart=true&quality=90",
-            "publishedAt": "2025-11-29T19:00:00Z",
-            "content": "WEST CALDWELL, New Jersey A New Jersey cheese distributor has recalled several popular grated cheese products sold under several national brands after federal testing detected listeria monocytogenes,… [+1429 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Retail Dive"
-            },
-            "author": "Dani James",
-            "title": "Winners and losers of Black Friday 2025 - Retail Dive",
-            "description": "Online discounts were flat year over year. However, some retailers won with exclusive giveaways that enticed customers into stores.",
-            "url": "https://www.retaildive.com/news/winners-losers-black-friday-2025/806610/",
-            "urlToImage": "https://imgproxy.divecdn.com/drQg8l_9vrBQPeSFBD5v4_ae34RT0cgEd0G2AO6GNcQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMTEtMjlfMDkyODU5LnBuZw==.webp",
-            "publishedAt": "2025-11-29T18:49:48Z",
-            "content": "Black Friday and the holiday shopping season in general may be more important than ever for retailers in 2025.\r\nBut the event has evolved dramatically in recent years.\r\nThe Black Friday that we have … [+7284 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AL.com"
-            },
-            "author": "Scott Turner | sturner@al.com",
-            "title": "Walmart recall update: Customers warned to ‘immediately stop’ using products - AL.com",
-            "description": "Customers told to stop using the products, return them to the store for a refund.",
-            "url": "https://www.al.com/business/2025/11/walmart-recall-update-customers-warned-to-immediately-stop-using-products.html",
-            "urlToImage": "https://www.al.com/resizer/v2/ZSOUO4V3OJA7ZJMXUBOKVZRDD4.JPG?auth=2b575c61fa7f9070ea7de0eae2043099dd435640dc84f5cd1dc7f59913c6521e&width=1280&smart=true&quality=90",
-            "publishedAt": "2025-11-29T16:01:00Z",
-            "content": "Two popular Walmart products have been recalled with warnings to customers to stop using them.\r\nAccording to a story by Newsweek, the products were recalled following safety warnings from the U.S. Co… [+986 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Signal"
-            },
-            "author": "Jarrett Stepman",
-            "title": "Blue States vs. Red States on ‘Affordability’ - The Daily Signal",
-            "description": "“Affordability” has become the word of the month as American economic anxieties become a major point of political contention between Democrats and Republicans. Socialist Democrat...",
-            "url": "https://www.dailysignal.com/2025/11/29/blue-states-vs-red-states-on-affordability/",
-            "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2025/11/251124_RedBlue.jpg",
-            "publishedAt": "2025-11-29T14:00:15Z",
-            "content": "Affordability has become the word of the month as American economic anxieties become a major point of political contention between Democrats and Republicans.\r\nSocialist Democrat Zohran Mamdani rode t… [+5671 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Outkick.com"
-            },
-            "author": "Zach Dean",
-            "title": "Chevy's Tear-Jerker Holiday Commercial Will Rip Your Heart Out, But Shows What America Needs To Get Back To - OutKick",
-            "description": "No virtue-signaling. No politics. No BS. Just pure America.",
-            "url": "https://www.outkick.com/culture/chevys-tear-jerker-holiday-commercial-rip-your-heart-out-shows-what-america-needs-get-back",
-            "urlToImage": "https://static.outkick.com/www.outkick.com/content/uploads/2025/11/chevy.jpg",
-            "publishedAt": "2025-11-29T13:17:32Z",
-            "content": "Ah yes, it's officially that time of year again. My favorite time of year. I have this day circled on the calendar every year, and it never disappoints. \r\nIt's here, boys and girls. The official Chev… [+2690 chars]"
-        },
-        {
-            "source": {
-                "id": "marca",
-                "name": "Marca"
-            },
-            "author": "TBS",
-            "title": "Why your 2026 tax refund could be bigger and when to expect it - MARCA",
-            "description": "For many Americans, the federal tax refund acts as a financial reset button and often becomes the largest check a household receives in a given year. \nThat may carry even more weig",
-            "url": "https://www.marca.com/en/lifestyle/us-news/personal-finance/2025/11/29/692ae03246163fb3398b45b7.html",
-            "urlToImage": "https://phantom.estaticos-marca.com/164dff1b2f55a977edfb487ada20c7c6/resize/1200/f/webp/assets/multimedia/imagenes/2023/09/13/16946046137130.png",
-            "publishedAt": "2025-11-29T12:00:23Z",
-            "content": "For many Americans, the federal tax refund acts as a financial reset button and often becomes the largest check a household receives in a given year. \r\nThat may carry even more weight in 2026, as ana… [+3234 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Travel+Leisure"
-            },
-            "author": "https://www.facebook.com/travelandleisure/",
-            "title": "Amazon's Selling a Sleek Tiny House With Solar Panels and a Surprisingly Spacious Layout—All Under $16K - Travel + Leisure",
-            "description": "Amazon is selling a portable tiny house with solar panels on the roof, two bedrooms, and a spacious front porch. Learn more about this tiny home that’s available at Amazon now for less than $16,000.",
-            "url": "https://www.travelandleisure.com/amazon-tiny-home-solar-panel-november-2025-11856325",
-            "urlToImage": "https://www.travelandleisure.com/thmb/QTtE5N_RTZ15Nl0h6C-33UYANCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tl-20ft40ft-prefab-tiny-home-for-sale-portable-modular-tiny-house-tout-06c33282e6d246e385e20bfabb497690.jpg",
-            "publishedAt": "2025-11-29T11:30:00Z",
-            "content": "If youve ever fantasized about dropping a home on a cliffside, setting up a quiet writing retreat in the woods, or creating a moveable base camp for long-haul road trips, Amazon just made that dream … [+1808 chars]"
+            "author": "travelhost.com",
+            "title": "Search ends for cruise passenger who went missing in Caribbean port - travelhost.com",
+            "description": null,
+            "url": "https://travelhost.com/cruises/search-ends-for-missing-cruise-passenger",
+            "urlToImage": null,
+            "publishedAt": "2025-11-29T18:11:52Z",
+            "content": null
         }
     ]
 }

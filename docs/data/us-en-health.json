@@ -1,7 +1,46 @@
 {
     "status": "ok",
-    "totalResults": 64,
+    "totalResults": 65,
     "articles": [
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Herb Scribner",
+            "title": "This highly contagious \"winter vomiting disease\" is surging across the country - Axios",
+            "description": "Norovirus can cause extreme cases of vomiting and diarrhea.",
+            "url": "https://www.axios.com/2025/12/03/norovirus-winter-vomiting-disease-bug-symptoms",
+            "urlToImage": "https://images.axios.com/ZdLp_AAjEh2IC-l0hliz711SPPI=/0x0:1920x1080/1366x768/2025/12/02/1764691763805.jpeg",
+            "publishedAt": "2025-12-03T02:00:20Z",
+            "content": "<ul><li>It's surging as cases of whooping cough, or pertussis, are spiking and the dangers of COVID and the flu loom.</li><li>The sickness could require medical attention or even hospitalization for … [+5022 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Madeline Holcombe",
+            "title": "No matter how he ate or exercised, he never felt muscular enough. Then he hit rock bottom - CNN",
+            "description": "Call it muscle dysmorphia or bigorexia, but body image issues aren’t always just about getting smaller. Experts explain why wanting to be bulkier can be a problem.",
+            "url": "https://www.cnn.com/2025/12/02/health/muscle-dysmorphic-disorder-wellness",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1133983749.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-12-02T23:30:59Z",
+            "content": "George Mycocks fitness routine had gotten out of hand.\r\nThe 22-year-old was terrified of putting on body fat but eager to develop more muscle. He tracked his food so thoroughly that he was weighing l… [+8921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "University of Toronto",
+            "title": "Archaeological study challenges paleo diet, revealing humans have long eaten 'processed plant foods' - Phys.org",
+            "description": "Humans evolved over hundreds of thousands of years to be the ultimate flexible eaters—chasing carbohydrates and fats from plant and animal sources alike. A new study in the Journal of Archaeological Research by researchers at the Australian National Universit…",
+            "url": "https://phys.org/news/2025-12-archaeological-paleo-diet-revealing-humans.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-archaeological-stu.jpg",
+            "publishedAt": "2025-12-02T21:29:23Z",
+            "content": "Humans evolved over hundreds of thousands of years to be the ultimate flexible eaterschasing carbohydrates and fats from plant and animal sources alike. A new study in the Journal of Archaeological R… [+1952 chars]"
+        },
         {
             "source": {
                 "id": "buzzfeed",
@@ -14,6 +53,19 @@
             "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-11/28/20/thumb/PEJsC7IMP.jpg?crop=2999:1570;0,2%26downsize=1250:*",
             "publishedAt": "2025-12-02T21:01:03Z",
             "content": "Anonymous, 51, Miami, Florida"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurism"
+            },
+            "author": "Frank Landymore",
+            "title": "Something Grim Is Happening to Kids Who Got Cell Phones Early - Futurism",
+            "description": "New research found that smartphone usage in children led to higher risk of poorer mental health across several categories.",
+            "url": "http://futurism.com/health-medicine/grim-happenings-kids-smartphones",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2025/12/grim-happenings-kids-smartphones.jpg?w=1200",
+            "publishedAt": "2025-12-02T19:14:35Z",
+            "content": "Giving a young kid a smartphone may be a big mistake.\r\nNew research conducted by scientists from UC Berkeley and Columbia University found that children 12 years old and younger who received one of t… [+4128 chars]"
         },
         {
             "source": {
@@ -57,15 +109,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Earth.com"
+                "name": "Eatingwell.com"
             },
-            "author": null,
-            "title": "Simple kitchen waste product makes plants grow taller and stronger, outperforming fertilizers - Earth.com",
-            "description": "According to a new study, banana peel-based fertilizer outperforms chemical products and produces taller, healthier plants and crops.",
-            "url": "https://www.earth.com/news/simple-kitchen-waste-product-banana-peel-makes-plants-crops-grow-taller-stronger/",
-            "urlToImage": "https://cff2.earth.com/uploads/2025/12/01151718/kitchen-waste-fertilizer-outperforms-chemical-fertilisers.jpg",
-            "publishedAt": "2025-12-02T16:21:06Z",
-            "content": "Every time someone tosses a banana peel in the trash, they are throwing away a ready made boost for crops. New research shows that simple fertilizers from these peels can make plants taller and healt… [+5774 chars]"
+            "author": "https://www.facebook.com/EatingWell/",
+            "title": "Hard-Boiled Eggs vs. Cottage Cheese: Which Is a Better Healthy Snack? - EatingWell",
+            "description": "Hard-boiled eggs and cottage cheese are equally nutritious snacks that are packed with protein for satiety plus vitamins and minerals for energy.",
+            "url": "https://www.eatingwell.com/hard-boiled-eggs-vs-cottage-cheese-11859531",
+            "urlToImage": "https://www.eatingwell.com/thmb/UzHOs17AwsTxrUySyvieVVS21-s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Hard-Boiled-Eggs-vs-Cottage-Cheese--Which-Is-a-Better-Healthy-Snack-c3563065b7334006b2cc5c9a7bbf9aee.jpg",
+            "publishedAt": "2025-12-02T17:00:00Z",
+            "content": "One is portable. One enjoyed a comeback fueled by TikTok. And theyre both packed with protein. Were talking about hard-boiled eggs and cottage cheese. But only one can take the crown. \r\nOK, not reall… [+5148 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Lucy Notarantonio",
+            "title": "Most People Don’t Get Enough of Key Nutrients Linked to Alzheimer’s Risk - Newsweek",
+            "description": "Experts explain why the shortfall is so common—and the simple diet or supplement changes that can help close the gap.",
+            "url": "https://www.newsweek.com/omega-3-fatty-acids-most-people-dont-get-enough-alzheimers-ris-11142593",
+            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2025/12/GettyImages-1834914773.jpg?w=1200crop=1",
+            "publishedAt": "2025-12-02T16:32:11Z",
+            "content": "More than three-quarters of the global population are not getting enough of key nutrients linked to lifelong health and a reduced risk of Alzheimer's disease.\r\nNew research has found that 76 percent … [+3609 chars]"
         },
         {
             "source": {
@@ -92,6 +157,19 @@
             "urlToImage": "https://www.eatingwell.com/thmb/8gUw4m1zTKyuEF1MOzAsxeOipXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Man-Reverses-His-Prediabetes-Diagnosis-in-Just-12-Months-By-Picking-Up-These-5-Habits-68f29dee06744dfba2bb719ee221e3c4.jpg",
             "publishedAt": "2025-12-02T15:00:00Z",
             "content": "Prediabetes is a common condition where your blood sugar runs high, but not quite high enough to be diagnosed with type 2 diabetes. Whats more, only 20% of the nearly 96 million American adults who h… [+6503 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Lifestyle Desk",
+            "title": "Increase protein intake: 4 easy ways to add more of it to everyday diet - Times of India",
+            "description": "Protein is more than just a fitness buzzword, it’s a vital nutrient that plays a key role in keeping your body strong, energetic, and healthy. Yet, many of us struggle to include enough of it in our daily meals. However, boosting protein intake doesn’t have t…",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/increase-protein-intake-4-easy-ways-to-add-more-of-it-to-everyday-diet/photostory/125700450.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125700472,width-1070,height-580,imgsize-342746,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-12-02T14:32:00Z",
+            "content": "Protein is one of the most essential nutrients for the body, playing a crucial role in overall health and well-being. Research shows that protein helps maintain lean body mass, supports healthy aging… [+906 chars]"
         },
         {
             "source": {
@@ -122,6 +200,19 @@
         {
             "source": {
                 "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Elinor Harrison",
+            "title": "We are hardwired to sing − and it’s good for us, too - The Conversation",
+            "description": "Modern science is increasingly validating what many traditions have long held: Singing and chanting can have profound health benefits.",
+            "url": "https://theconversation.com/we-are-hardwired-to-sing-and-its-good-for-us-too-262861",
+            "urlToImage": "https://images.theconversation.com/files/701958/original/file-20251112-56-inuq2r.jpg?ixlib=rb-4.1.0&rect=0%2C155%2C1024%2C512&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2025-12-02T13:33:54Z",
+            "content": "On the first Sunday after being named leader of the Catholic Church in May 2025, Pope Leo XIV stood on the balcony of St. Peters Basilica in Rome and addressed the tens of thousands of people gathere… [+7002 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Eatthis.com"
             },
             "author": "Adam Meyer",
@@ -131,19 +222,6 @@
             "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2025/12/shutterstock_2503845733.jpg?quality=82&strip=all",
             "publishedAt": "2025-12-02T13:10:57Z",
             "content": "Test your pushup count after 50 and use these 5 moves to build elite upper-body strength.\r\nPushups dont lie. After 50, you can tell a lot about someones strength, joint health, and overall fitness by… [+5527 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vinnews.com"
-            },
-            "author": null,
-            "title": "In Rare Operation, Pelvic Tumor Is Removed While Maintaining Hip Function - VINnews",
-            "description": "JERUSALEM (VINnews) — This week we read in the Torah that a man [who was an ange] wrestled with Yaakov and “When he saw that he could not prevail against him, he touched the socket of his hip,” and Yaakov was left limping. For a young man in Maaleh Adumim, th…",
-            "url": "https://vinnews.com/2025/12/02/in-rare-operation-pelvic-tumor-is-removed-while-maintaining-hip-function/",
-            "urlToImage": "https://vinnews.com/wp-content/uploads/2025/12/Dr_Omer_Or.jpg",
-            "publishedAt": "2025-12-02T13:00:31Z",
-            "content": "JERUSALEM (VINnews) This week we read in the Torah that a man [who was an ange] wrestled with Yaakov and “When he saw that he could not prevail against him, he touched the socket of his hip,” and Yaa… [+2583 chars]"
         },
         {
             "source": {
@@ -187,6 +265,19 @@
         {
             "source": {
                 "id": null,
+                "name": "The Japan Times"
+            },
+            "author": "Yukana Inoue",
+            "title": "Japan’s flu season comes early as new variant spreads - The Japan Times",
+            "description": "The risk of developing severe symptoms from 'Subclade K' is no higher than other strains, but its continued spread is expected.",
+            "url": "https://www.japantimes.co.jp/news/2025/12/02/japan/science-health/flu-season/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/12/02/509374.jpg?v=3.1",
+            "publishedAt": "2025-12-02T08:52:00Z",
+            "content": "A new influenza variant spreading across Japan may be behind the increase in early outbreaks this year, the Japan Institute for Health Security (JIHS) has said.\r\nThe new strain, called Subclade K is … [+277 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Parade"
             },
             "author": "Jessica Sager",
@@ -226,6 +317,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Newsnationnow.com"
+            },
+            "author": "Patrick Djordjevic",
+            "title": "How a blood test can determine dementia risk - NewsNation",
+            "description": "The research found a link between increased levels of cardiac troponin and more rapid cognitive decline in later years.",
+            "url": "https://www.newsnationnow.com/health/how-blood-test-determine-predict-dementia-risk/",
+            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2025/06/AlzheimersGettyImages-1125084447-e1750775854699.jpg?w=1280",
+            "publishedAt": "2025-12-02T05:41:51Z",
+            "content": "(NewsNation) A study published in the European Heart Journal could help predict the likelihood of dementia up to 25 years in advance.\r\nThe research found a link between increased levels of cardiac tr… [+1012 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "ScienceAlert"
             },
             "author": "David Nield",
@@ -242,7 +346,7 @@
                 "name": "The Times of India"
             },
             "author": "TOI Lifestyle Desk",
-            "title": "Scientists discover the best snack to boost memory and brain function - The Times of India",
+            "title": "Scientists discover the best snack to boost memory and brain function - Times of India",
             "description": "Researchers reveal that a daily serving of peanuts can enhance brain vascular function and improve memory, making them a budget-friendly snack for cognitive health.",
             "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/peanuts-best-snack-to-boost-memory-and-brain-function-alzheimers/articleshow/125709498.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-125709498,width-1070,height-580,imgsize-73652,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
@@ -330,32 +434,6 @@
         {
             "source": {
                 "id": null,
-                "name": "KBZK Bozeman News"
-            },
-            "author": "MTN News",
-            "title": "New cases of measles reported in Gallatin County - KBZK News",
-            "description": "Two new cases of measles have been confirmed in Gallatin County, according to the health department.",
-            "url": "https://www.kbzk.com/news/local-news/new-cases-of-measles-reported-in-gallatin-county",
-            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/bfd44d4/2147483647/strip/true/crop/500x263+0+35/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fdc%2F35%2Fb526f11c47a2a1fb6fe78c010b4b%2Fshutterstock-2460960295.jpg",
-            "publishedAt": "2025-12-02T00:43:13Z",
-            "content": "BOZEMAN Two new cases of measles have been confirmed in Gallatin County, according to the health department.\r\nThe individual confirmed on Monday, Dec. 1, 2025, followed a case reported on Nov. 28, 20… [+3104 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "ABC News",
-            "title": "Kids who have smartphones by age 12 have higher risk of depression, obesity: Study - ABC News",
-            "description": null,
-            "url": "https://abcnews.go.com/Health/kids-smartphones-age-12-higher-risk-depression-obesity/story?id\\\\u003d127998537",
-            "urlToImage": null,
-            "publishedAt": "2025-12-01T22:55:53Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -368,29 +446,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "WGME"
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
             },
-            "author": "Annie Rupertus, Bangor Daily News",
-            "title": "5 HIV cases detected in Cumberland County as Bangor-area outbreak grows - WGME",
-            "description": "Five new HIV cases have been detected in Cumberland County among people who inject drugs, according to a Wednesday alert from the Maine CDC.",
-            "url": "https://wgme.com/news/local/5-hiv-cases-detected-in-cumberland-county-as-bangor-area-outbreak-grows",
-            "urlToImage": "https://wgme.com/resources/media2/16x9/2048/1320/0x141/90/d1e0d77b-c4ae-4c5b-b8d1-30e6d6473d63-a9fa3deb18604aafb95892b4be5d.jpg",
-            "publishedAt": "2025-12-01T21:54:53Z",
-            "content": "BANGOR (BDN) -- Five new HIV cases have been detected in Cumberland County among people who inject drugs, according to a Wednesday alert from the Maine Center for Disease Control and Prevention.\r\nAll… [+3670 chars]"
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "Madonna slams Donald Trump for canceling World AIDS Day: 'It's absurd, it's unthinkable' - Entertainment Weekly",
+            "description": "Madonna has slammed President Donald Trump for refusing to acknowledge World AIDS Day this year, marking the first time the U.S. hasn't commemorated the day since 1988: 'It's absurd, it's unthinkable.'",
+            "url": "https://ew.com/madonna-slams-donald-trump-canceling-world-aids-day-11859914",
+            "urlToImage": "https://ew.com/thmb/dHPmU6ejqQsu9i0uNngk2ry-TS4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/madonna-donald-trump-120125-6a2fbb0793654781ae7bbbc51c7afc54.jpg",
+            "publishedAt": "2025-12-01T22:31:04Z",
+            "content": "Madonna is hung up on President Donald Trump's decision to not publicly acknowledge World AIDS Day this year.\r\nOn Monday, the \"Like a Virgin\" singer celebrated the international day dedicated to rais… [+2725 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Rolling Stone"
+                "name": "WHIO"
             },
-            "author": "Tomás Mier",
-            "title": "Madonna Slams Trump for Not Acknowledging World AIDS Day: ‘Ridiculous’ - Rolling Stone",
-            "description": "Madonna called Donald Trump’s move to drop World AIDS Day 'ridiculous' and she honored friends she lost to the disease.",
-            "url": "http://www.rollingstone.com/music/music-news/madonna-slams-trump-not-acknowledging-world-aids-day-1235475297/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/12/DTMA.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2025-12-01T21:49:57Z",
-            "content": "Madonna is commemorating WorldAIDSDay and condemning Donald Trump‘s decision not to acknowledge the Dec. 1 date. In an Instagram post on Monday, the Queen of Pop slammed Trump as “ridiculous” and “un… [+1861 chars]"
+            "author": "WHIO Staff",
+            "title": "Man bitten by raccoon with rabies, takes it to nature center in blanket wrapped with duct tape - WHIO-TV",
+            "description": "Staff then convinced the man to go to the hospital for treatment of his injuries while they dealt with the critter.",
+            "url": "https://www.whio.com/news/local/man-bitten-by-raccoon-with-rabies-takes-it-nature-center-blanket-wrapped-with-duct-tape/NQHXC7ETSRB6FN3C4FXQRKPE7U/",
+            "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F43GSPUZA4ZCCPFO3R6X4ZDJPCM.jpg?auth=dda999d123de63943ffe58827d50a0875c3eec43c36130d7c4ae0f9f3bd45279&width=1200&height=630&smart=true",
+            "publishedAt": "2025-12-01T21:29:44Z",
+            "content": "GEORGIA — A man brought a raccoon with rabies to a nature center in Georgia after it bit him, according to our sister station WSB-2 TV.\r\n[DOWNLOAD: Free WHIO-TV News app for alerts as news breaks]\r\nT… [+2551 chars]"
         },
         {
             "source": {
@@ -404,19 +482,6 @@
             "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2025/12/soybean-cooking-oil-obesity-1600.jpg",
             "publishedAt": "2025-12-01T20:56:44Z",
             "content": "Soybean oil, the most widely consumed cooking oil in the United States and a staple of processed foods, contributes to obesity, at least in mice, through a mechanism scientists are now beginning to u… [+4325 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Khloe Quill",
-            "title": "Men with 'beer bellies' may face serious heart damage regardless of weight - Yahoo",
-            "description": "New study reveals \"beer bellies\" increase heart damage risk even in people with normal weight, challenging traditional views on cardiovascular health.",
-            "url": "https://www.foxnews.com/health/men-beer-bellies-may-face-serious-heart-damage-even-normal-weight",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4DXdAQ6TWsWfdBpvOEd4Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/fox_news_text_979/9180c10bcc082b0008d41cb95d16b6a2",
-            "publishedAt": "2025-12-01T20:02:43Z",
-            "content": "People with \"beer bellies\" may have an increased risk of heart damage, raising fresh concerns about the health risks tied to extra weight around the midsection.\r\nGerman researchers found that men wit… [+4364 chars]"
         },
         {
             "source": {
@@ -434,19 +499,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Jacobin.com"
-            },
-            "author": null,
-            "title": "When the Market Came for the Dying - Jacobin",
-            "description": "In the early years of the AIDS crisis, the US government left people with HIV to fend for themselves. Desperate, they turned to a new and little-understood financial instrument: selling their life insurance policies to investors for quick cash.",
-            "url": "https://jacobin.com/2025/12/aids-crisis-welfare-life-insurance",
-            "urlToImage": "https://images.jacobinmag.com/wp-content/uploads/2025/12/01085354/GettyImages-2015230448-1.jpg",
-            "publishedAt": "2025-12-01T18:20:56Z",
-            "content": "December 1 is World AIDS Day. Every year, people around the world remember the early epidemic as a medical and moral tragedy, a time of too many funerals and too few medical breakthroughs. But the ec… [+5556 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Ed Cara",
@@ -456,19 +508,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/miracle-mineral-solution-1200x675.jpg",
             "publishedAt": "2025-12-01T18:05:19Z",
             "content": "A remedy popular in the world of alternative medicine known as “Miracle Mineral Solution”or MMSis anything but a miracle, recent research finds. Rather, it could be dangerous to users.\r\nResearchers a… [+3518 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "TOI Lifestyle Desk",
-            "title": "Why women need to prioritize higher protein intake in their diet - Times of India",
-            "description": "Adequate protein intake is crucial for women's long-term health, supporting muscle maintenance, skeletal strength, and metabolic health, especially du",
-            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/why-women-need-to-prioritize-higher-protein-intake-in-their-diet/articleshow/125700746.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125700846,width-1070,height-580,imgsize-2035766,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-12-01T18:05:00Z",
-            "content": null
         },
         {
             "source": {
@@ -512,28 +551,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Nature.com"
+                "name": "ScienceAlert"
             },
-            "author": null,
-            "title": "Sustained HIV-1 remission after heterozygous CCR5Δ32 stem cell transplantation - Nature",
-            "description": "Nature - Sustained HIV-1 remission after heterozygous CCR5Δ32 stem cell transplantation",
-            "url": "https://www.nature.com/articles/s41586-025-09893-0",
-            "urlToImage": null,
-            "publishedAt": "2025-12-01T16:04:14Z",
-            "content": "<li>Laboratory of Translational Immunology of Viral Infections, Department of Infectious Diseases and Critical Care Medicine, Charité Universitätsmedizin Berlin, Corporate Member of Freie Universität… [+3616 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dailykos.com"
-            },
-            "author": null,
-            "title": "Infectious Updates: 12/1/2025 - Daily Kos",
-            "description": "Ethiopia's death toll� From Marburg virus is rising.� The virus, in the same family as Ebola, circulates in fruit bats, occasionally jumping to humans and sparking an outbreak.� There is no vaccine ...",
-            "url": "https://www.dailykos.com/stories/2025/12/1/2353574/-Infectious-Updates-12-1-2025",
-            "urlToImage": "https://cdn.prod.dailykos.com/images/1371644/story_image/Virion_sizes.png?1732413128",
-            "publishedAt": "2025-12-01T16:00:39Z",
-            "content": null
+            "author": "Michelle Starr",
+            "title": "7th HIV Remission Raises Hope of Long-Lasting Treatment For More People - ScienceAlert",
+            "description": "A German man remains in remission from HIV an incredible six years after he received a stem cell transplant to treat an aggressive form of leukemia.",
+            "url": "https://www.sciencealert.com/7th-hiv-remission-raises-hope-of-long-lasting-treatment-for-more-people",
+            "urlToImage": "https://www.sciencealert.com/images/2025/11/virus.jpg",
+            "publishedAt": "2025-12-01T16:04:58Z",
+            "content": "A German man remains in remission from HIV an incredible six years after he received a stem cell transplant to treat an aggressive form of leukemia.\r\nThe seventh known HIV patient to achieve long-ter… [+5322 chars]"
         },
         {
             "source": {
@@ -590,28 +616,28 @@
         {
             "source": {
                 "id": null,
-                "name": "The Seattle Times"
+                "name": "BGR"
             },
-            "author": "Carrie Dennett",
-            "title": "The Lancet takes a nuanced, big-picture look at ultraprocessed food - The Seattle Times",
-            "description": "Columnist Carrie Dennett discusses a recent three-part series of articles from the scientific journal The Lancet about ultra-processed food.",
-            "url": "https://www.seattletimes.com/life/wellness/the-lancet-takes-a-nuanced-big-picture-look-at-ultra-processed-food/",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/12/11252025_tzr_tzr_154234.jpg?d=1200x630",
-            "publishedAt": "2025-12-01T14:00:00Z",
-            "content": "I feel like every time I write about ultraprocessed foods, I say something like Its a hot topic. Well, thats still true. And a few weeks ago, the scientific journal The Lancet took on the issue in a … [+5661 chars]"
+            "author": "Nicolae Bochis",
+            "title": "Are Humans Still Evolving? Here's What Anthropologists Say - bgr.com",
+            "description": "It's tempting to think that we've reached the pinnacle of our evolution, but modern life continues to shape us just as much as the past ever did.",
+            "url": "https://www.bgr.com/2035513/are-humans-still-evolving-explained/",
+            "urlToImage": "https://www.bgr.com/img/gallery/are-humans-still-evolving-heres-what-anthropologists-say/l-intro-1764001653.jpg",
+            "publishedAt": "2025-12-01T14:17:00Z",
+            "content": "Evolution is the change in the genetic makeup of a population over generations. Pressures, such as environmental changes, infectious diseases, food availability, predators, and competition for resour… [+1411 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Self"
+                "name": "The Conversation Africa"
             },
-            "author": "Ellen O’Brien",
-            "title": "Scandinavian Style Took Over the US. Is Scandinavian Fitness Next? - SELF Magazine",
-            "description": "Cool girls are taking a cue from some of the world’s happiest and healthiest countries by adapting Scandinavian workout trends.",
-            "url": "https://www.self.com/story/scandinavian-workout-trend",
-            "urlToImage": "https://media.self.com/photos/69270b6b84ec06a2db8709ed/2:1/w_1280,c_limit/scandi-cool-girl-fitness.jpg",
-            "publishedAt": "2025-12-01T13:30:00Z",
-            "content": "In recent years, Scandinavian style has dominated the US market. The worlds of fashion and interior design frequently feature its core tenets: soothing neutrals, sleek silhouettes, and understated en… [+2540 chars]"
+            "author": "Manal Mohammed",
+            "title": "Antifungal resistance is making thrush hard to treat – here’s why - The Conversation",
+            "description": "Infections are becoming harder to treat because the fungi are adapting to survive antifungal drugs – but this isn’t happening by chance.",
+            "url": "https://theconversation.com/antifungal-resistance-is-making-thrush-hard-to-treat-heres-why-267915",
+            "urlToImage": "https://images.theconversation.com/files/704500/original/file-20251125-56-2crzlj.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5760%2C2880&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2025-12-01T14:00:18Z",
+            "content": "Thrush is one of the most common infections in the world. Its caused by the fungi Candida specifically, the yeast Candida albicans. Although yeast infections are normally treated easily with antifung… [+5567 chars]"
         },
         {
             "source": {
@@ -638,6 +664,32 @@
             "urlToImage": "https://images.theconversation.com/files/702986/original/file-20251117-62-sto60u.jpg?ixlib=rb-4.1.0&rect=0%2C49%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2025-12-01T13:14:44Z",
             "content": "Curious Kids is a series for children of all ages. If you have a question youd like an expert to answer, send it to CuriousKidsUS@theconversation.com.\r\nWhy do people get headaches? Evie V., age 10, C… [+5028 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "David Nield",
+            "title": "New Breakthrough to Strengthen Bone Could Reverse Osteoporosis - ScienceAlert",
+            "description": "A recent study points to a key bone-strengthening mechanism at work in the body, which could be targeted to treat the bone-weakening disease, osteoporosis.",
+            "url": "https://www.sciencealert.com/new-breakthrough-to-strengthen-bone-could-reverse-osteoporosis",
+            "urlToImage": "https://www.sciencealert.com/images/2025/11/Illustration-of-osteoporotic-bone-2025-2.jpg",
+            "publishedAt": "2025-12-01T12:04:14Z",
+            "content": "A recent study points to a key bone-strengthening mechanism at work in the body, which could be targeted to treat the bone-weakening disease, osteoporosis.\r\nLed by researchers from the University of … [+5636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Cut"
+            },
+            "author": "Erica Schwiegershausen",
+            "title": "Read This If You Think You Have Inflammation - The Cut",
+            "description": "Influencers, celebrities, and your friends constantly talk about how to avoid inflammation. But no one quite seems to agree on what it is.",
+            "url": "http://www.thecut.com/article/how-much-do-i-really-need-to-worry-about-inflammation.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/5e5/294/2763a369477ad3e408e1261952c93a438d-inflammation.1x.rsocial.w1200.jpg",
+            "publishedAt": "2025-12-01T12:00:29Z",
+            "content": "Are you more anxious than usual lately? Are you tired or sluggish, particularly after an intense workout? Is your digestion less than optimal? What about your skin  any breakouts or rashes? Have you … [+13834 chars]"
         },
         {
             "source": {
@@ -707,28 +759,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Fitandwell.com"
+                "name": "GoodHousekeeping.com"
             },
-            "author": "Lou Mudge",
-            "title": "Over 40? A trainer says these are the three exercises you should be doing to promote healthy, active aging - Fit&Well",
-            "description": "“It’s never too late”—a trainer says these three exercises can help over-40s build the strength and muscle they need to age well",
-            "url": "https://www.fitandwell.com/exercise/bodyweight-exercises/over-40-a-trainer-says-these-are-the-three-exercises-you-should-be-doing-to-promote-healthy-active-aging",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9LdXSwVs6Lm96vjE9yXdkK-1920-80.jpg",
-            "publishedAt": "2025-12-01T06:07:35Z",
-            "content": "In every decade, the body goes through changes but this is especially true for women in their 40s. Hormonal shifts can affect metabolic health, bone density and even mood.\r\nMenopause and perimenopaus… [+5477 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "Maitree Baral",
-            "title": "Why are your Vitamin D levels still not improving? Doctors explain the missing pieces - Times of India",
-            "description": "Many individuals struggle with low vitamin D levels despite regular supplementation due to factors like poor absorption, inadequate dosing, and lifest",
-            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/why-are-your-vitamin-d-levels-still-not-improving-doctors-explain-the-missing-pieces/articleshow/125685795.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125685803,width-1070,height-580,imgsize-316382,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-            "publishedAt": "2025-12-01T05:51:00Z",
-            "content": null
+            "author": "Marcy Lovitch",
+            "title": "New Study Shows This Type of Food May Increase Your Risk of Cancer - AOL.com",
+            "description": "Research out of Harvard offers a clue as to why colorectal cancer rates are rising in younger adults.",
+            "url": "https://www.goodhousekeeping.com/health/diet-nutrition/a69500496/study-ultraprocessed-foods-colorectal-cancer/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ak28ofZMODW_e8rElpSNsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_good_housekeeping_154/ebd3e15232306157cd21086a3dbde561",
+            "publishedAt": "2025-11-30T19:10:22Z",
+            "content": "Right now, colorectal cancer is the second most common cause of cancer death in U.S., according to the American Cancer Society (ACS). While this type of cancer has traditionally affected older adults… [+5831 chars]"
         },
         {
             "source": {

@@ -1,7 +1,20 @@
 {
     "status": "ok",
-    "totalResults": 63,
+    "totalResults": 65,
     "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "$11M Southwest Airlines fine waived by DOT - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/11m-southwest-airlines-fine-waived-dot/story?id\\\\u003d128178481",
+            "urlToImage": null,
+            "publishedAt": "2025-12-07T00:33:29Z",
+            "content": null
+        },
         {
             "source": {
                 "id": "bloomberg",
@@ -30,6 +43,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Shuvrajit Das Biswas",
+            "title": "What happened to Susan Dell's face? Experts share insight on plastic surgery claims; 'before-after' pics go viral | Hindustan Times - Hindustan Times",
+            "description": "Susan and Michael Dell, were photographed when they announced a $6.2 billion donation to ‘Trump Accounts’, and her appearance sparked concerns.&nbsp;",
+            "url": "https://www.hindustantimes.com/world-news/us-news/what-happened-to-susan-dells-face-experts-share-insight-on-plastic-surgery-claims-before-after-pics-go-viral-101765059365961.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/12/06/1600x900/logo/susandell_1765061206672_1765061224291.jpg",
+            "publishedAt": "2025-12-06T22:53:16Z",
+            "content": "Susan Dell's appearance sparked concerns after she was photographed with husband and CEO of Dell Technologies, Michael Dell, recently. The couple announced a $6.2 billion donation to Trump Accounts a… [+4261 chars]"
+        },
+        {
+            "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
@@ -44,15 +70,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Worcester Telegram"
+                "name": "Gothamist"
             },
-            "author": "Telegram & Gazette",
-            "title": "Water, power restored after pipe break on Shore Drive in Worcester - Worcester Telegram",
-            "description": "Area of Norton Drive and Shore Drive.",
-            "url": "https://www.telegram.com/story/news/2025/12/06/pipe-break-leaves-many-in-worcester-without-water/87641018007/",
-            "urlToImage": "https://www.telegram.com/gcdn/authoring/2017/06/27/NPPP/ghows-LK-2d7b9aa6-0ed9-4c61-856e-3093598d4d55-7ccefac2.jpeg?crop=746,421,x3,y0&width=746&height=421&format=pjpg&auto=webp",
-            "publishedAt": "2025-12-06T22:20:00Z",
-            "content": "WORCESTER A water main break on Shore Drive left a large number of homes and businesses without water early on Saturday morning, Dec. 6, before water was restored later in the afternoon.\r\nThere were … [+1143 chars]"
+            "author": "https://gothamist.com/staff/ryan-kost",
+            "title": "Queens judge orders Astoria bike lane removed, says city fell short on safety measures - Gothamist",
+            "description": "A group of local businesses said the city rushed the bike lane without proper safety checks and a local judge agreed.",
+            "url": "https://gothamist.com/news/queens-judge-orders-astoria-bike-lane-removed-says-city-fell-short-on-safety-measures",
+            "urlToImage": "https://api-prod.gothamist.com/images/352770/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2025-12-06T22:38:00Z",
+            "content": "A Queens judge ruled Friday that the citys decision to build a bike lane on 31st Street violated proper procedures and ordered a stretch of the roadway restored to its original state, following const… [+2821 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CarScoops"
+            },
+            "author": "Chris Chilton",
+            "title": "Two American Brands Crack CR Top Ten As Stellantis Crowds The Bottom - Carscoops",
+            "description": "Consumer Reports’ newest data shows ranking shifts, reliability gaps, and a reshuffled top ten that exposes the standout winners and strugglers",
+            "url": "https://www.carscoops.com/2025/12/two-american-brands-crack-cr-top-ten-as-stellantis-crowds-the-bottom/",
+            "urlToImage": "https://www.carscoops.com/wp-content/uploads/2025/12/CR-lead-Dec5251-copy.jpg",
+            "publishedAt": "2025-12-06T21:30:09Z",
+            "content": null
         },
         {
             "source": {
@@ -70,15 +109,15 @@
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Jalopnik"
             },
-            "author": "Reuters",
-            "title": "Musk denies $800 billion SpaceX valuation reports - CNBC",
-            "description": "Elon Musk said on social media that reports of SpaceX raising funds at an $800 billion valuation are inaccurate.",
-            "url": "https://www.cnbc.com/2025/12/06/musk-denies-800-billion-spacex-valuation-reports.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228483-17635766642025-11-19t182054z_1051193980_rc2tzhaclwp5_rtrmadp_0_usa-saudi-forum.jpeg?v=1763576679&w=1920&h=1080",
-            "publishedAt": "2025-12-06T21:14:49Z",
-            "content": "Elon Musk on Saturday dismissed media reports that SpaceX is raising funds at an $800 billion valuation, calling them inaccurate.\r\n\"SpaceX has been cash flow positive for many years and does periodic… [+104 chars]"
+            "author": "Ron King",
+            "title": "America's Top-Selling Motorcycle Brand In 2025 Isn't Harley-Davidson - Jalopnik",
+            "description": "America's top-selling motorcycle brand in 2025 is not Harley-Davidson. Instead, it's Kawasaki, which has managed to increase its year-to-year sales.",
+            "url": "https://www.jalopnik.com/2042749/top-selling-motorcycle-brand-america-not-harley-davidson/",
+            "urlToImage": "https://www.jalopnik.com/img/gallery/americas-top-selling-motorcycle-brand-in-2025-isnt-harley-davidson/l-intro-1764797771.jpg",
+            "publishedAt": "2025-12-06T21:05:00Z",
+            "content": "Harley-Davidson has been experiencing declining motorcycle sales figures over the past several years. In 2021, Harley-Davidson sold 126,276 motorcycles in the United States. The most significant slid… [+1253 chars]"
         },
         {
             "source": {
@@ -95,16 +134,55 @@
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "fortune",
+                "name": "Fortune"
             },
-            "author": "Sara Fischer, Dan Primack",
-            "title": "Paramount could go hostile for Warner Bros Discovery after losing to Netflix - Axios",
-            "description": "Hollywood's big deal might not be done just yet.",
-            "url": "https://www.axios.com/2025/12/05/paramount-warner-brothers-netflix-hostile",
-            "urlToImage": "https://images.axios.com/2_MjRm5OTQQXRfhEw2KOZaJqz3A=/0x150:4000x2400/1366x768/2025/12/05/1764965993656.jpeg",
-            "publishedAt": "2025-12-06T18:53:42Z",
-            "content": "<ul><li>Both Netflix and WBD executives are confident that they'll receive the necessary sign-offs for their deal.</li><li>\"We've signed our deal and we are running full speed towards regulatory appr… [+1954 chars]"
+            "author": "Mark Gurman, Bloomberg",
+            "title": "Apple rocked by executive departures, with chip chief at risk of leaving next - Fortune",
+            "description": "Johny Srouji — senior vice president of hardware technologies and one of Apple’s most respected executives — recently told Cook that he is seriously considering leaving in the near future.",
+            "url": "https://fortune.com/2025/12/06/apple-executive-departures-chip-chief-johny-srouji-tim-cook-ai/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1239032037-e1765053555759.jpg?resize=1200,600",
+            "publishedAt": "2025-12-06T20:45:00Z",
+            "content": "Apple Inc., long the model of stability in Silicon Valley, is suddenly undergoing its biggest personnel shake-up in decades, with senior executives and key engineers both hitting the exits.In just th… [+11871 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jason Ma",
+            "title": "The $124 trillion Great Wealth Transfer is intensifying as inheritance jumps to a new record - Fortune",
+            "description": "\"A fresh generation of billionaires is steadily emerging,\" UBS said.",
+            "url": "https://fortune.com/2025/12/06/great-wealth-transfer-inheritance-gen-z-millennials-boomers-entrepreneurs-self-made-billionaires/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1436081837-e1765048201202.jpg?resize=1200,600",
+            "publishedAt": "2025-12-06T20:29:00Z",
+            "content": "Nearly $300 billion was inherited this year as the Great Wealth Transfer picks up speed, showering family members with immense windfalls.According to the latest UBS Billionaire Ambitions Report, 91 h… [+2623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Waymo will recall software after its self-driving cars passed stopped school buses - NPR",
+            "description": "Waymo is issuing a software recall for its self-driving cars after reports the company's autonomous vehicles failed to stop for school buses.",
+            "url": "https://www.npr.org/2025/12/06/nx-s1-5635614/waymo-school-buses-recall",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5710x3212+0+260/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F15%2Fa89e7cf848898565466e4bfda56c%2Fgettyimages-2235137191.jpg",
+            "publishedAt": "2025-12-06T19:53:42Z",
+            "content": "The autonomous ride-hailing service Waymo plans to file a voluntarily software recall after several reports that its self-driving taxis illegally passed stopped school buses.\r\nThe National Highway Tr… [+2754 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Is it time to ‘refound’ your startup? - TechCrunch",
+            "description": "Sometimes, founding a startup just once isn’t enough.",
+            "url": "https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1317304421.jpg?resize=1200,800",
+            "publishedAt": "2025-12-06T19:44:37Z",
+            "content": "Sometimes, founding a startup just once isnt enough.\r\nAt least, that seems to be the case with companies like Airtable, Handshake, and Opendoor, which all announced in recent months that they are ref… [+966 chars]"
         },
         {
             "source": {
@@ -118,45 +196,6 @@
             "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2249127380-e1765044067894.jpg?resize=1200,600",
             "publishedAt": "2025-12-06T18:13:00Z",
             "content": "Nvidia CEO Jensen Huang said China has an AI infrastructure advantage over the U.S., namely in construction and energy.While the U.S. retains an edge on AI chips, he warned China can build large proj… [+2064 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Mark Gurman",
-            "title": "Apple Rocked by Executive Departures, With Chip Chief at Risk of Leaving Next - Bloomberg.com",
-            "description": "Apple Inc., long the model of stability in Silicon Valley, is suddenly undergoing its biggest personnel shake-up in decades, with senior executives and key engineers both hitting the exits.",
-            "url": "https://www.bloomberg.com/news/articles/2025-12-06/apple-rocked-by-executive-departures-with-johny-srouji-at-risk-of-leaving-next",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCnYSHFCiiLY/v3/1200x799.jpg",
-            "publishedAt": "2025-12-06T18:11:53Z",
-            "content": "Apple Inc., long the model of stability in Silicon Valley, is suddenly undergoing its biggest personnel shake-up in decades, with senior executives and key engineers both hitting the exits.\r\nIn just … [+335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newsnationnow.com"
-            },
-            "author": "Ashley N. Soriano",
-            "title": "Consumer Reports’ 10 best and worst car brands for 2026 - NewsNation",
-            "description": "Tesla ranked 10th best, per Consumer Reports.",
-            "url": "https://www.newsnationnow.com/business/your-money/consumer-reports-best-worst-car-brands-2026/",
-            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/04/Subaru-Forester-e1708102218257.jpg?w=1280",
-            "publishedAt": "2025-12-06T17:52:31Z",
-            "content": "(NewsNation) Anyone shopping for a car may be wondering which brands are the best and worst in 2026.\r\nConsumer Reports, an independent research nonprofit, ranked 31 car manufacturers. The ratings are… [+1100 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Tony Owusu, Celine Provini",
-            "title": "Waymo pumps the brakes as dangerous issue comes to light - TheStreet",
-            "description": "Waymo responded to pressure from the Austin Independent School District.",
-            "url": "https://www.thestreet.com/technology/waymo-pumps-the-brakes-as-dangerous-issue-comes-to-light",
-            "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyNzkyMTUy/a-waymo-self-driving-autonomous-car-but-with-a-human-driver-behind-the-wheel-was-spotted-on-the-streets-of-brooklyn-as-it-made-its-way-to-the-manhattan-bound-lanes-of-the-brooklyn-bridge-on-july-21-20.jpg",
-            "publishedAt": "2025-12-06T17:41:19Z",
-            "content": "Key Points\r\n<ul><li>Waymo's robotaxis repeatedly violated an important traffic rule, prompting public and district concern.</li><li>Waymo announced a voluntary recall and cited software updates for i… [+3922 chars]"
         },
         {
             "source": {
@@ -174,28 +213,28 @@
         {
             "source": {
                 "id": null,
-                "name": "TheStreet"
+                "name": "KABC-TV"
             },
-            "author": "Daniel Kline, Celine Provini",
-            "title": "McDonald’s, Burger King, Wendy’s rival closing more restaurants - TheStreet",
-            "description": "The burger chain has closed 100s of locations and continues to close more.",
-            "url": "https://www.thestreet.com/restaurants/mcdonalds-burger-king-wendys-rival-closing-more-restaurants",
-            "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjEzMjczMDI2NjIyNDAwMzQ5/people-eating.jpg",
-            "publishedAt": "2025-12-06T15:19:47Z",
-            "content": "Key Points\r\n<ul><li>Major chains, including Burger King and Wendys, are closing hundreds of underperforming restaurants.</li><li>Wendys is prioritizing profitability and investing in upgrades, closin… [+6721 chars]"
+            "author": "Abigail Velez",
+            "title": "Beloved El Monte restaurant Arts Burgers reopens to huge crowds year after car crashed into building - ABC7 Los Angeles",
+            "description": "A year after a DUI crash sent a car smashing through the front of a popular El Monte restaurant, the community staple is back open and drawing huge crowds.",
+            "url": "https://abc7.com/post/beloved-el-monte-restaurant-arts-burgers-reopens-huge-crowds-year-car-crashed-building/18256589/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/18256588_120525-kabc-burger-crash-tn-img.jpg?w=1600",
+            "publishedAt": "2025-12-06T16:11:02Z",
+            "content": "EL MONTE, Calif. (KABC) -- A year after a drunk driving crash sent a car smashing through the front of a popular El Monte restaurant, the community staple is back open and drawing huge crowds.\r\nFor a… [+1716 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Visual Capitalist"
+                "name": "TheStreet"
             },
-            "author": "Niccolo Conte",
-            "title": "Ranked: The World’s Best Selling Car Brands - Visual Capitalist",
-            "description": "A notable trend is the rise of Chinese manufacturers, especially BYD and Geely.",
-            "url": "https://www.visualcapitalist.com/ranked-the-worlds-best-selling-car-brands/",
-            "urlToImage": "https://www.visualcapitalist.com/wp-content/uploads/2025/12/Cars_Best-Selling-Brands_02-share.webp",
-            "publishedAt": "2025-12-06T15:18:54Z",
-            "content": "Ranked: Cars With the Best Resale Value in 2025\r\nThis was originally posted on our Voronoi app. Download the app for free on iOS or Android and discover incredible data-driven charts from a variety o… [+3487 chars]"
+            "author": "Dana Sullivan Kilroy, Celine Provini",
+            "title": "Pet owners: Check dog food amid recall over hazardous plastic bits - TheStreet",
+            "description": "Ingestion of plastic fragments in this frozen pet food brand can pose serious risks to animals.",
+            "url": "https://www.thestreet.com/retail/pet-owners-check-dog-food-amid-recall-over-hazardous-plastic-bits",
+            "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MTk0NDE4MjA5ODUwNDAyMzA5/man-and-dog-lead-js-121322.jpg",
+            "publishedAt": "2025-12-06T15:07:00Z",
+            "content": "Key Points\r\n<ul><li>A pet food brand has been recalled due to plastic contamination risks.</li><li>Affected products were sold in 14 U.S. states and Ontario, Canada.</li><li>The FDA warns consumers t… [+3851 chars]"
         },
         {
             "source": {
@@ -239,19 +278,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Leo Sun, The Motley Fool",
-            "title": "1 Magnificent S&P 500 Dividend Stock Down 14% to Buy and Hold Forever - Yahoo Finance",
-            "description": "Altria is still a great defensive income stock for this volatile market.",
-            "url": "https://www.fool.com/investing/2025/12/06/1-magnificent-sp-500-dividend-stock-down-14-to-buy/",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5ljNqnQi7R2M5JIwIn9lKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/62a7cf3d59373308970567ced073a94d",
-            "publishedAt": "2025-12-06T13:55:00Z",
-            "content": "<ul><li>Altrias core market is shrinking, but its business is evolving.\r\n</li><li>The company is expanding its smoke-free portfolio and aggressively trimming its expenses.\r\n</li><li>Altria's low valu… [+5968 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "WRAL.com"
             },
             "author": "WRAL staff",
@@ -290,6 +316,19 @@
         },
         {
             "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Michael Ramsey",
+            "title": "High-blood pressure medication voluntarily recalled: FDA - Yahoo",
+            "description": "Glenmark Pharmaceuticals Inc. in Elmwood Park, N.J., is recalling the pills, which are in 2.5 mg and 6.25 mg doses.",
+            "url": "https://thehill.com/policy/healthcare/5636604-high-blood-pressure-medication-voluntarily-recalled-fda/",
+            "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/ce70da914083f0f699dfbcc589455ae1",
+            "publishedAt": "2025-12-06T13:01:37Z",
+            "content": "A New Jersey drug maker has voluntarily recalled thousands of bottles of a combination high blood pressure medication over concerns the product could be cross-contaminated with another drug, the Fede… [+1034 chars]"
+        },
+        {
+            "source": {
                 "id": "nbc-news",
                 "name": "NBC News"
             },
@@ -300,19 +339,6 @@
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251203-small-biz-adp-gk-e49054.jpg",
             "publishedAt": "2025-12-06T13:00:42Z",
             "content": "American small businesses are trimming their payrolls, just as the busy holiday shopping season ramps up.\r\nCompanies with fewer than 50 employees shed 120,000 jobs in November, according to data from… [+8535 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Gabrielle Fonrouge",
-            "title": "From the California gold rush to Sydney Sweeney: How denim became the most enduring garment in American fashion - CNBC",
-            "description": "The American blue jean was created in 1873 by tailor Jacob Davis, who patented the design with Levi Strauss, founder of the eponymous denim retailer",
-            "url": "https://www.cnbc.com/2025/12/06/the-history-of-denim-and-how-jeans-were-created.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108237244-1764940371507-gettyimages-75453173-A045888006.jpeg?v=1764940412&w=1920&h=1080",
-            "publishedAt": "2025-12-06T13:00:01Z",
-            "content": "Jodie Foster, Billie Perkins, and Robert De Niro perform a scene in Taxi Driver directed by Martin Scorsese in 1976 in New York, New York. \r\nIn the dwindling days of the California gold rush, the wif… [+6920 chars]"
         },
         {
             "source": {
@@ -369,6 +395,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Realtor.com News"
+            },
+            "author": "Realtor.com",
+            "title": "Americans Are On the Move—and These 10 Metros Are Seeing the Most Departures - Realtor.com",
+            "description": null,
+            "url": "https://www.realtor.com/news/trends/top-10-metros-where-homeowners-are-leaving/",
+            "urlToImage": null,
+            "publishedAt": "2025-12-06T11:02:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Tribune India"
+            },
+            "author": null,
+            "title": "Why are IndiGo flights getting cancelled across India? Crisis explained as it all boils down to shortage of pilots - Tribune India",
+            "description": "IndiGo, India’s largest airline, is facing a major operational meltdown, with over 1,000 flights cancelled in four days across the country.",
+            "url": "https://www.tribuneindia.com/news/india/why-are-indigo-flights-getting-cancelled-across-india-crisis-explained/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJkN2Q3ZDMwLWQyY2EtMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
+            "publishedAt": "2025-12-06T04:05:14Z",
+            "content": "IndiGo, Indias largest airline, is facing a major operational meltdown, with over 1,000 flights cancelled in four days across the country.\r\nThe chaos stems primarily from the enforcement of new Fligh… [+6156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "CoinDesk"
             },
             "author": "Shaurya Malwa",
@@ -378,19 +430,6 @@
             "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2b80c002c296863a2eea4fb98ebe974ae5cf997f-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
             "publishedAt": "2025-12-06T03:31:14Z",
             "content": "The Bank of Japan is preparing to raise interest rates at its December policy meeting, a shift that would lift the countrys benchmark rate to its highest level since 1995 and potentially reverberate … [+2205 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newsnationnow.com"
-            },
-            "author": "Michael Ramsey",
-            "title": "High-blood pressure medication voluntarily recalled: FDA - NewsNation",
-            "description": "Glenmark Pharmaceuticals Inc. in Elmwood Park, N.J., is recalling the pills, which are in 2.5 mg and 6.25 mg doses.",
-            "url": "https://www.newsnationnow.com/us-news/recalls/high-blood-pressure-med-recall/",
-            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2025/12/GettyImages-2224877034.jpg?w=1280",
-            "publishedAt": "2025-12-06T02:08:46Z",
-            "content": "(NewsNation) A New Jersey drug maker has voluntarily recalled thousands of bottles of a combination high blood pressure medication over concerns the product could be cross-contaminated with another d… [+828 chars]"
         },
         {
             "source": {
@@ -443,6 +482,19 @@
             "urlToImage": "https://cdn.abcotvs.com/dip/images/18256126_120525-wpvi-septa-strike-looms-local-234-10pm-CC-vid.jpg?w=1600",
             "publishedAt": "2025-12-05T21:54:34Z",
             "content": "PHILADELPHIA (WPVI) -- The union representing more than 5,000 SEPTA workers who operate buses, trolleys and subways in Philadelphia said Friday that a strike is imminent.\r\nMembers of Transport Worker… [+1543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eatingwell.com"
+            },
+            "author": "EatingWell",
+            "title": "Popular Salad Dressings Recalled Right Now—Hidden Valley Ranch, Costco and More - EatingWell",
+            "description": null,
+            "url": "https://www.eatingwell.com/hidden-valley-costco-salad-dressing-recalled-11863391",
+            "urlToImage": null,
+            "publishedAt": "2025-12-05T21:49:16Z",
+            "content": null
         },
         {
             "source": {
@@ -499,32 +551,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Health.com"
-            },
-            "author": "https://www.facebook.com/Health/",
-            "title": "FDA Announces Salad Dressing Recall: Thousands of Gallons Sold in 27 States May Contain Plastic - Health: Trusted and Empathetic Health and Wellness Information",
-            "description": "The recalled salad dressings were distributed to delis and food courts at several major retailers, including Costco and Publix. Here's what to know.",
-            "url": "https://www.health.com/salad-dressing-recall-december-2025-11863031",
-            "urlToImage": "https://www.health.com/thmb/n2U8bXSn7KccG8ul9BX_lIdIALo=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Helath-dressing-recall-1f6c8eebe8584f848d3b9bea0ee60780.png",
-            "publishedAt": "2025-12-05T20:45:19Z",
-            "content": "A recall is underway for thousands of gallons of salad dressings and condiments distributed across 27 states, according to the Food and Drug Administration (FDA). The products were initally recalled … [+2480 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theblock.co"
-            },
-            "author": "Kyle Baird",
-            "title": "Meta cuts to metaverse ‘black hole’ could free up billions for AI and lift shares by 20%: analysts - The Block",
-            "description": "The lack of user traction, combined with years of mounting spend, has fueled concerns that the division, Mizuho analysts said.",
-            "url": "https://www.theblock.co/post/381581/meta-metaverse-black-hole-cuts-billions-ai-shares-20-analysts",
-            "urlToImage": "https://www.tbstat.com/wp/uploads/2025/03/20250310_MetaverseNFT_Category-1200x675.jpg",
-            "publishedAt": "2025-12-05T20:36:16Z",
-            "content": "Analysts say Metas reported plan to drastically scale back its metaverse spending could mark one of the companys most significant strategic pivots since its 2021 rebrand and potentially unlock meanin… [+3173 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "FDA.gov"
             },
             "author": "Office of the Commissioner",
@@ -538,28 +564,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Futurism"
+                "name": "TheStreet"
             },
-            "author": "Victor Tangermann",
-            "title": "Woman Hailed as Hero for Smashing Man’s Meta Smart Glasses on Subway - Yahoo",
-            "description": "\"I hope she called him a dork for wearing them before she broke them.\"",
-            "url": "https://futurism.com/future-society/woman-hero-smashing-meta-smart-glasses-subway",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WENeZ3K7.hItdhkXrZNcsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzA7Y2Y9d2VicA--/https://media.zenfs.com/en/futurism_981/c3f49c79c44f05adbaff6020aa233d2e",
-            "publishedAt": "2025-12-05T20:13:50Z",
-            "content": "Over a decade ago, Google showed off a pair of smart spectacles called Google Glass, sparking a major ethical debate over wearables being used to covertly film people without their permission.\r\nAt th… [+2542 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theurbanist.org"
-            },
-            "author": "Urbanist Staff, Urbanist Staff",
-            "title": "Federal Way Link Stations Not Seeing a Housing Boom - The Urbanist",
-            "description": "# Homebuilding activity is anemic near the three Sound Transit light rail stations opening this month in South King County. The Urbanist reviews the 3,000-plus homes in the development pipeline, and explores the obstacles standing in the way.",
-            "url": "https://www.theurbanist.org/2025/12/05/federal-way-link-stations-not-seeing-a-housing-boom/",
-            "urlToImage": "https://www.theurbanist.org/wp-content/uploads/2025/08/20250501_Federal_Way_Drone-PB-0003-by-Peter-Bohler-Sound-Transit.jpg",
-            "publishedAt": "2025-12-05T19:26:43Z",
-            "content": "On December 6th, South King County will see the opening of three new light rail stations. When visitors arrive at the stations, they’ll find relevantly barren station areas. Compared with other recen… [+8200 chars]"
+            "author": "Todd Campbell, Celine Provini",
+            "title": "Amazon AWS message signals major moment for Nvidia rival - TheStreet",
+            "description": "The hyperscaler's plans suggest ramping demand for a key supplier.",
+            "url": "https://www.thestreet.com/investing/stocks/amazon-aws-message-signals-major-moment-for-nvidia-rival",
+            "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyNzkxNzI2/andy-jassy-amzn-gettyimages-2188101054-12-5-2025.jpg",
+            "publishedAt": "2025-12-05T19:00:26Z",
+            "content": "Key Points\r\n<ul><li>Nvidia dominates AI chips, but custom silicon XPUs are seeing demand growth.</li><li>Custom chips like Amazon's Trainium are cheaper, more efficient, and boost customer stickiness… [+7644 chars]"
         },
         {
             "source": {
@@ -576,19 +589,6 @@
         },
         {
             "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Rebecca Szkutak",
-            "title": "AWS re:Invent was an all-in pitch for AI. Customers might not be ready. - TechCrunch",
-            "description": "AWS is releasing a lot of new AI tech, but the cloud infrastructure giant's enterprise customers may not be ready for it yet.",
-            "url": "https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/IMG_3817.jpg?resize=1200,900",
-            "publishedAt": "2025-12-05T18:05:35Z",
-            "content": "If Amazon Web Services’ annual re:Invent tech conference proves anything, it’s that the cloud infrastructure player is going all in on AI. \r\nAWS made dozens of announcements, from new AI agents and u… [+3688 chars]"
-        },
-        {
-            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
@@ -599,6 +599,19 @@
             "urlToImage": "https://dims.apnews.com/dims4/default/902ea42/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faa%2Fcb%2F0ff0beccae9f257f080505112b5f%2F6f320df1e46842cc96b165a5bcbc50e8",
             "publishedAt": "2025-12-05T17:41:00Z",
             "content": "DETROIT (AP) President Donald Trump this week announced plans to weaken rules for how far automakers new vehicles need to travel on a gallon of gasoline, set under former President Joe Biden.\r\nThe Tr… [+6159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "UploadVR"
+            },
+            "author": "David Heaney",
+            "title": "Meta Confirms \"Shifting Some\" Funding \"From Metaverse Toward AI Glasses\" - UploadVR",
+            "description": "Meta has officially confirmed \"shifting some of our investment from Metaverse toward AI glasses and Wearables\", following reports of an up to 30% budget cut for parts of Reality Labs.",
+            "url": "https://www.uploadvr.com/meta-confirms-shifting-some-funding-from-metaverse-toward-ai-glasses/",
+            "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/12/Meta-Quest-3-and-Ray-Ban-Meta.png",
+            "publishedAt": "2025-12-05T17:28:41Z",
+            "content": "Meta has officially confirmed \"shifting some of our investment from Metaverse toward AI glasses and Wearables\", following reports of an up to 30% budget cut for parts of Reality Labs.\r\nReality Labs, … [+4771 chars]"
         },
         {
             "source": {
@@ -616,15 +629,15 @@
         {
             "source": {
                 "id": null,
-                "name": "foodnetwork.com"
+                "name": "Wheresyoured.at"
             },
-            "author": "Amy Reiter",
-            "title": "Check Your Fridges: Two Separate Cheese Recalls Are In Effect - foodnetwork.com",
-            "description": "One alone affects 1.5 million bags of shredded cheese.",
-            "url": "https://www.foodnetwork.com/fn-dish/news/cheese-recalls-december-2025",
-            "urlToImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2025/12/05/FN_GettyImages-635712150_s4x3.jpg.rend.hgtvcom.616.462.85.suffix/1764951193898.webp",
-            "publishedAt": "2025-12-05T16:14:46Z",
-            "content": "The products were distributed in Alabama, Arkansas, Arizona, California, Colorado, Florida, Georgia, Idaho, Illinois, Indiana, Kansas, Kentucky, Louisiana, Minnesota, Missouri, Mississippi, North Car… [+166 chars]"
+            "author": "Edward Zitron",
+            "title": "Premium: The Ways The AI Bubble Might Burst - Ed Zitron's Where's Your Ed At",
+            "description": "[Editor's Note: this piece previously said \"Blackstone\" instead of \"Blackrock,\" which has now been fixed.]\n\nI've been struggling to think about what to write this week, if only because I've written so much recently and because, if I'm honest, things aren't re…",
+            "url": "https://www.wheresyoured.at/premium-the-ways-the-ai-bubble-might-burst/",
+            "urlToImage": "https://www.wheresyoured.at/content/images/2024/01/wyea--1.jpeg",
+            "publishedAt": "2025-12-05T16:40:34Z",
+            "content": "[Editor's Note: this piece previously said \"Blackstone\" instead of \"Blackrock,\" which has now been fixed.]\r\nI've been struggling to think about what to write this week, if only because I've written s… [+11965 chars]"
         },
         {
             "source": {
@@ -651,6 +664,19 @@
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/20251205_01_01-1152x648.jpg",
             "publishedAt": "2025-12-05T15:55:52Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI - TechCrunch",
+            "description": "Meta is partnering with CNN, Fox News, Fox Sports, Le Monde Group, the People Inc. portfolio of media brands, The Daily Caller, The Washington Examiner, and USA Today.",
+            "url": "https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
+            "publishedAt": "2025-12-05T15:27:37Z",
+            "content": "Meta has signed commercial AI data agreements with news publishers to offer real-time global, entertainment, and breaking news on Meta AI, its AI chatbot. Now, when users ask Meta AI news-related que… [+1724 chars]"
         },
         {
             "source": {
@@ -694,28 +720,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Www.geo.tv"
+                "name": "Travel+Leisure"
             },
-            "author": "Sibt-e-Arif",
-            "title": "Dubai emerges as top billionaire destination - Geo News",
-            "description": "DUBAI: Dubai has become one of the world's leading destinations for billionaires, as global wealth reached a record $15.8 trillion in 2025, according to the latest Billionaire Ambitions Report 2025. The...",
-            "url": "https://www.geo.tv/latest/637553-dubai-emerges-as-a-top-billionaire-bestination-as-global-wealth-hits-record-158-trillion",
-            "urlToImage": "https://www.geo.tv/assets/uploads/updates/2025-12-05/l_637553_042450_updates.jpg",
-            "publishedAt": "2025-12-05T11:29:00Z",
-            "content": "DUBAI: Dubai has become one of the worlds leading destinations for billionaires, as global wealth reached a record $15.8 trillion in 2025, according to the latest Billionaire Ambitions Report 2025. \r… [+2332 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Pete Syme",
-            "title": "A New York to Scotland flight got all the way across the Atlantic before diverting to Ireland - Business Insider",
-            "description": "Delta Air Lines Flight 208 from New York to Edinburgh diverted to Dublin, after the Scottish capital's airport halted flights due to an IT issue.",
-            "url": "https://www.businessinsider.com/delta-flight-to-scotland-crossed-atlantic-then-diverted-to-ireland-2025-12",
-            "urlToImage": "https://i.insider.com/6932b75104d0f0a114f17752?width=1200&format=jpeg",
-            "publishedAt": "2025-12-05T10:58:00Z",
-            "content": "A Delta Air Lines flight to Scotland had to divert after an IT issue halted operations at its destination.\r\nDelta Flight 208 took off from New York on Thursday evening and was supposed to land at Edi… [+907 chars]"
+            "author": "https://www.facebook.com/travelandleisure/",
+            "title": "REI’s Secret Outlet Is Hiding Outdoor Gear Deals Up to 70% Off—Patagonia, Hoka, Osprey and More Start at 7 - Travel + Leisure",
+            "description": "REI’s Outlet has deals on luggage, shoes, clothes, and more, all up to 70 percent off. Shop outdoor brands like Patagonia, Hoka, Yeti, Osprey, The North Face, and more, with prices starting as low as $7, in honor of REI's Cyber Week sale.",
+            "url": "https://www.travelandleisure.com/rei-cyber-week-deals-december-2025-11862588",
+            "urlToImage": "https://www.travelandleisure.com/thmb/VyK6QEju4RzxUkq7EPraEGWcec8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tal-rei-outlet-deals-tout-976b6dad48774510b76b150dfb55c764.jpg",
+            "publishedAt": "2025-12-05T11:00:00Z",
+            "content": "Just when you thought the deals would stop rolling in, REI quietly extended its Cyber Week Sale, and the deals are so good, they might even beat what they were on Cyber Monday. So, if you missed the … [+8032 chars]"
         },
         {
             "source": {
@@ -742,6 +755,32 @@
             "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagp4sr3aHhUYdEa6MEO7S5AaVubzpKfuFL9-Zkuv_GjyxT74q_4XA3gAM8xjQdWW8KfgCy2D81j9NoUB0aZI5IK1ciYxf-JFvZiBFVyEsXaxXIuh2mMbqyPGLJcdZxO-XpdxaF4-lbCzdl9f6xgxJABV4uBvxytMfCwLUmEHmyPfhkGF4z2BZiMNhYlbx/s790-rw-e365/chinese-hackers.jpg",
             "publishedAt": "2025-12-05T08:14:00Z",
             "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday released details of a backdoor named BRICKSTORM that has been put to use by state-sponsored threat actors from the People'… [+7955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Chips up, rent down, and are people really skimping on holiday gifts? : The Indicator from Planet Money - NPR",
+            "description": "It’s … Indicators of the Week! Our weekly look at some of the most fascinating economic numbers from the news. On today’s episode: A big goshDRAM memory problem, a holiday spending mystery, and apartment rental prices … decline?! Related episodes: The highs a…",
+            "url": "https://www.npr.org/2025/12/05/nx-s1-5633990/chips-up-rent-down-and-are-people-really-skimping-on-holiday-gifts",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2F80%2Fb7a5d27d4bd5ab4010c51a33c1ab%2F4d215753-5ad9-42ab-b7ab-c620dab74c99.jpg",
+            "publishedAt": "2025-12-05T08:00:00Z",
+            "content": "Its Indicators of the Week! Our weekly look at some of the most fascinating economic numbers from the news. \r\nOn todays episode: A big goshDRAM memory problem, a holiday spending mystery, and apartme… [+403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "24/7 Wall St."
+            },
+            "author": "Kathryn Koehler",
+            "title": "Jim Cramer’s Best Money Advice for American Seniors - 24/7 Wall St.",
+            "description": "Jim Cramer is a former hedge fund manager and financial commentator. He is the host of the CNBC show Mad Money with Jim Cramer, on which he offers investment advice and stock recommendations. Recognized for his energetic and theatrical style, Cramer has stron…",
+            "url": "https://247wallst.com/personal-finance/2025/12/05/jim-cramers-best-money-advice-for-american-seniors/",
+            "urlToImage": "https://247wallst.com/wp-content/uploads/2021/06/imageForEntry1-qIb.jpg",
+            "publishedAt": "2025-12-05T08:00:00Z",
+            "content": "Jim Cramer is a former hedge fund manager and financial commentator. He is the host of the CNBC show Mad Money with Jim Cramer, on which he offers investment advice and stock recommendations. Recogni… [+7100 chars]"
         }
     ]
 }

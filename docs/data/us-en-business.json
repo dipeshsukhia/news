@@ -1,45 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 13,
+    "totalResults": 15,
     "articles": [
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "WSJ",
-            "title": "Paramount Wins Bidding War for Warner Discovery After Netflix Drops Out - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/business/media/warner-discovery-says-paramounts-latest-bid-is-superior-to-netflix-deal-e0ceea4c",
-            "urlToImage": null,
-            "publishedAt": "2026-02-27T10:05:00Z",
-            "content": null
+            "author": "Sean Conlon, Pia Singh",
+            "title": "Dow tumbles 600 points after hot inflation report, mounting concerns about AI impact: Live updates - CNBC",
+            "description": "The S&P 500 and the Nasdaq Composite slid on Thursday, dragged lower by Nvidia shares.",
+            "url": "https://www.cnbc.com/2026/02/26/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108269978-17720392042026-02-25t165726z_2081657057_rc21tjanpml5_rtrmadp_0_usa-stocks.jpeg?v=1772039260&w=1920&h=1080",
+            "publishedAt": "2026-02-27T16:01:00Z",
+            "content": "Stocks dropped on Friday after the latest producer price index data came in much hotter than expected, adding sticky inflation to a list of concerns that has caused market turbulence this month.\r\nThe… [+3376 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Elaine Kurtenbach",
-            "title": "Fintech company Block lays off 4,000 of its 10,000 staff, citing gains from AI - AP News",
-            "description": "Shares in the financial technology company Block have soared more than 20% in after-hours trading after its CEO announced it was laying off more than 4,000 of its 10,000 some employees due to efficiency gains from artificial intelligence. Jack Dorsey said tha…",
-            "url": "https://apnews.com/article/block-dorsey-layoffs-ai-jobs-18e00a0b278977b0a87893f55e3db7bb",
-            "urlToImage": "https://dims.apnews.com/dims4/default/2d58450/2147483647/strip/true/crop/3500x2332+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Fdf%2F79af012caa456d679c9bb83f7049%2Ff977faca28f146da9afc7150c5633a89",
-            "publishedAt": "2026-02-27T06:34:00Z",
-            "content": "BANGKOK (AP) Shares in the financial technology company Block soared more than 20% in premarket trading Friday after its CEO announced it was laying off more than 4,000 of its 10,000 plus employees, … [+1954 chars]"
+            "author": "Alicia Wallace",
+            "title": "Wholesale inflation was hotter than expected in January - CNN",
+            "description": "The prices businesses pay to each other took a sharp turn higher in January, new data showed Friday, indicating that more tariff-related price increases could be still to come.",
+            "url": "https://www.cnn.com/2026/02/27/economy/us-ppi-wholesale-inflation-january",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-02-24t110256z-2076826808-rc25zcag445r-rtrmadp-3-usa-trump-tariffs-steel.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-02-27T13:53:38Z",
+            "content": "The prices businesses pay to each other took a sharp turn higher in January, new data showed Friday, indicating that more tariff-related price increases could be still to come.\r\nThe Producer Price In… [+4261 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investing.com"
+                "name": "Openai.com"
             },
-            "author": "Ambar Warrick",
-            "title": "Asia stocks fall as tech loses ground; S.Korea, Japan set for strong Feb gains - Investing.com",
-            "description": "Asia stocks fall as tech loses ground; S.Korea, Japan set for strong Feb gains",
-            "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-tech-loses-ground-skorea-japan-set-for-strong-feb-gains-4530421",
-            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB6R07D_L.jpg",
-            "publishedAt": "2026-02-27T03:48:39Z",
-            "content": "Investing.com-- Most Asian stocks fell on Friday with technology shares tracking overnight weakness in their Wall Street peers, although bourses in South Korea and Japan were headed for strong gains … [+3101 chars]"
+            "author": null,
+            "title": "OpenAI and Amazon announce strategic partnership - OpenAI",
+            "description": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+            "url": "https://openai.com/index/amazon-partnership/",
+            "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/NUB0tjg5MC1XbgQzf6dxY/7f42b233c4a26095d47f65f71afc5e93/Amazon_1__1_.png?w=1600&h=900&fit=fill",
+            "publishedAt": "2026-02-27T13:35:37Z",
+            "content": "News:\r\n<ul><li>Amazon Web Services (AWS) and OpenAI will co-create a Stateful Runtime Environment powered by OpenAI models, available on Amazon Bedrock for AWS customers to build generative AI applic… [+4579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Carl Franzen",
+            "title": "Jack Dorsey's Block cuts 40% of staff, 4,000+ people — and yes, it's because of AI efficiencies - Venturebeat",
+            "description": "Executives should begin by auditing their own internal workflows to identify where agentic AI can consolidate roles and flatten management hierarchies.",
+            "url": "https://venturebeat.com/orchestration/jack-dorseys-block-cuts-40-of-staff-4-000-people-and-yes-its-because-of-ai",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/6ilRpMh79SoqPi6HnCVlfx/9a3e5737b43f8b07a7fbf7b1fc044c98/Gemini_Generated_Image_hysqcxhysqcxhysq.png?w=800&q=75",
+            "publishedAt": "2026-02-27T11:50:25Z",
+            "content": "Former Twitter co-founder Jack Dorsey's new company Block the parent of merchants payment system Square, mobile peer-to-peer payments Cash App, music streamer Tidal, and open source AI orchestration … [+7983 chars]"
         },
         {
             "source": {
@@ -87,7 +100,7 @@
             },
             "author": null,
             "title": "CoreWeave Stock Falls On Q4 Earnings As Order Backlog Grows 20% - Investor's Business Daily",
-            "description": "CoreWeave stock fell after the cloud computing services provider reported a wider-than-expected loss while revenue slightly topped estimates.",
+            "description": "CoreWeave stock fell on the cloud company's Q4 earnings report and 2026 outlook, with capital spending higher than expected and operating margins lower.",
             "url": "https://www.investors.com/news/technology/coreweave-stock-crwv-coreweave-earnings-q42025/",
             "urlToImage": "https://www.investors.com/wp-content/uploads/2025/05/Stock-CoreWeave-computer-01-shutt.jpg",
             "publishedAt": "2026-02-26T21:42:00Z",
@@ -108,6 +121,19 @@
         },
         {
             "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Constantine Courcoulas, Donal Griffin",
+            "title": "Barclays, Atlas Among Firms Exposed to Collapsed UK Lender MFS - Bloomberg.com",
+            "description": "Barclays Plc and Atlas SP Partners are among Wall Street firms that helped arrange more than £2 billion ($2.7 billion) of loans to a UK mortgage-finance company that has unraveled amid allegations of financial irregularities.",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-26/barclays-atlas-among-firms-exposed-to-collapsed-uk-lender-mfs",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYE7GKNzV8F8/v1/1200x801.jpg",
+            "publishedAt": "2026-02-26T19:10:45Z",
+            "content": "Barclays Plc and Atlas SP Partners are among Wall Street firms that helped arrange more than £2 billion ($2.7 billion) of loans to a UK mortgage-finance company that has unraveled amid allegations of… [+335 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -121,6 +147,32 @@
         },
         {
             "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Fatima Hussein",
+            "title": "US moves to cut off a Swiss bank over alleged Iran and Russia money flows - AP News",
+            "description": "The U.S. Treasury is moving to cut a small Swiss bank off from the U.S. financial system over alleged illicit ties to Iran and Russia. Treasury’s Financial Crimes Enforcement Network proposed a rule on Thursday that blocks U.S. banks from doing business with …",
+            "url": "https://apnews.com/article/treasury-sanctions-swiss-bank-iran-russia-fcad66cfcb6c2e80a733fc94680ad565",
+            "urlToImage": "https://dims.apnews.com/dims4/default/5994bdc/2147483647/strip/true/crop/6192x4126+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9b%2Fe0%2Fce4d1626f931bf8cd0ede407d074%2F081b23094dff4f70ad843c776603811a",
+            "publishedAt": "2026-02-26T17:00:00Z",
+            "content": "WASHINGTON (AP) The U.S. is moving to sever a small Swiss bank from access to the U.S. financial system for its alleged support for Iranian and Russian actors, as U.S. and Iranian officials hold indi… [+2203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Statefarm.com"
+            },
+            "author": "State Farm",
+            "title": "State Farm® Mutual Announces $5 Billion Cash Back to Auto Customers Through Largest Dividend in Company History - State Farm",
+            "description": "State Farm Mutual Automobile Insurance Company (State Farm Mutual) today announced it is paying $5 billion cash back to auto customers through a dividend, in addition to recent auto insurance rate reductions in many states already saving customers $4.6 billio…",
+            "url": "https://newsroom.statefarm.com/state-farm-mutual-announces-5-billion-cash-back-to-auto-customers-through-largest-dividend-in-company-history/",
+            "urlToImage": "https://content.presspage.com/uploads/1441/92832491-e30b-4fa5-8035-299dc08b01a9/1920_logo-pressrelease-3.png?10000",
+            "publishedAt": "2026-02-26T16:00:00Z",
+            "content": "State Farm Mutual Automobile Insurance Company (State Farm Mutual) today announced it is paying $5 billion cash back to auto customers through a dividend, in addition to recent auto insurance rate re… [+1710 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Dol.gov"
             },
@@ -131,19 +183,6 @@
             "urlToImage": "https://www.dol.gov/sites/dolgov/files/OPA/twitter-cards/DOLnews.png",
             "publishedAt": "2026-02-26T14:00:24Z",
             "content": "WASHINGTON  The U.S. Department of Labors Wage and Hour Division today announced a proposed rule designed to help workers and employers better understand how to determine when a worker is an employee… [+3535 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Phoebe Liu",
-            "title": "From Lanai To Near Mar-A-Lago: Larry Ellison’s Trump Proximity Play - Forbes",
-            "description": "Oracle cofounder Larry Ellison's official residence is now in Manalapan, Florida, not the Hawaii island that he famously bought in 2012.",
-            "url": "https://www.forbes.com/sites/phoebeliu/2026/02/25/larry-ellison-oracle-relocates-to-florida-trumps-backyard/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/699f6d43f263f2442c4062a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-02-26T11:30:00Z",
-            "content": "Oracle cofounder Larry Ellison and U.S. President Donald Trump share a laugh as Ellison in the Roosevelt Room of the White House on January 21, 2025 in Washington, DC, where they announced the Starga… [+5829 chars]"
         }
     ]
 }

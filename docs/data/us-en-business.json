@@ -1,32 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 51,
+    "totalResults": 49,
     "articles": [
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Amanda Gerut",
-            "title": "Supermicro’s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China - Fortune",
-            "description": "The arrest of board member Yih-Shyan “Wally” Liaw—who previously resigned following an accounting scandal in 2018—led an after-hours trading drop of 12% in the Nvidia-linked server manufacturer's stock.",
-            "url": "https://fortune.com/2026/03/19/supermicro-arrested-founder-smuggling-gpu-china/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2155472642-e1773976186755.jpg?resize=1200,600",
-            "publishedAt": "2026-03-20T04:32:00Z",
-            "content": "Federal agents on Thursday arrested Yih-Shyan Wally Liaw, a prominent Silicon Valley executive deep in the AI ecosystem who co-founded Supermicro in 1993 and is a close confidante of CEO and chairman… [+11450 chars]"
-        },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Fred Imbert",
-            "title": "Stock futures tick higher, but S&P 500 heads for fourth losing week in a row amid rising oil prices: Live updates - CNBC",
+            "author": "Chloe Taylor, Fred Imbert",
+            "title": "Stock futures edge lower as S&P 500 heads for fourth losing week in a row amid high oil prices: Live updates - CNBC",
             "description": "The major averages posted back-to-back losses on Thursday, placing the S&P 500 on track for a fourth consecutive losing week.",
             "url": "https://www.cnbc.com/2026/03/19/stock-market-today-live-updates.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108277503-1773958370969-108277503-1773346021304-gettyimages-2266129403-mms11764_qhwrxyl7.jpeg?v=1773958388&w=1920&h=1080",
-            "publishedAt": "2026-03-20T02:37:00Z",
-            "content": "Stock futures ticked higher early Friday after new comments from Israeli Prime Minister Benjamin Netanyahu appeared to somewhat ease concerns around the U.S.-Iran war. \r\nDow Jones Industrial Average … [+1768 chars]"
+            "publishedAt": "2026-03-20T10:41:00Z",
+            "content": "Stock futures fell on Friday morning as oil prices resumed their rally following a brief move lower. \r\nDow Jones Industrial Average futures were down 203 points, or 0.44%. S&amp;P 500 futures slid 0.… [+2558 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "Servers With Nvidia Chips Were Smuggled Into China, U.S. Indictment Says - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/tech/super-micro-computer-employees-arrested-for-alleged-sales-to-china-45a2bd73",
+            "urlToImage": null,
+            "publishedAt": "2026-03-20T09:57:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Jeanny Yu, Edwin Chan",
+            "title": "Alibaba, Tencent Shed $66 Billion After AI Vision Falls Flat - Bloomberg.com",
+            "description": "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. lost $66 billion of market value in roughly 24 hours, after the market punished the twin leaders of China’s tech arena for failing to lay out clear visions for how to profit off artificial intelligence.",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQBJ9uKBu.9Y/v0/1200x800.jpg",
+            "publishedAt": "2026-03-20T07:13:09Z",
+            "content": "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. lost $66 billion of market value in roughly 24 hours, after the market punished the twin leaders of Chinas tech arena for failing to lay out clear… [+411 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Josh Wingrove",
+            "title": "Trump, Takaichi Announce $40 Billion US Reactor Project - Bloomberg",
+            "description": "President Donald Trump and Japanese Prime Minister Sanae Takaichi announced a nuclear power project in the southern US, the latest initiative stemming from an investment fund the countries established as part of a trade pact.",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-19/trump-takaichi-set-to-announce-40-billion-us-reactor-project",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6f0p_huyX3Q/v1/1200x889.jpg",
+            "publishedAt": "2026-03-20T06:49:00Z",
+            "content": "President Donald Trump and Japanese Prime Minister Sanae Takaichi announced a nuclear power project in the southern US, the latest initiative stemming from an investment fund the countries establishe… [+364 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lee Chong Ming",
+            "title": "Jensen Huang says he will be 'deeply alarmed' if his $500,000 engineer did not consume at least $250,000 of tokens - Business Insider",
+            "description": "\"If that $500,000 engineer did not consume at least $250,000 worth of tokens, I am going to be deeply alarmed,\" says Nvidia CEO Jensen Huang.",
+            "url": "https://www.businessinsider.com/jensen-huang-500k-engineers-250k-ai-tokens-nvidia-compute-2026-3",
+            "urlToImage": "https://i.insider.com/69bcb7aad387710cb9e46823?width=1200&format=jpeg",
+            "publishedAt": "2026-03-20T05:03:00Z",
+            "content": "Jensen Huang has a new red flag for top talent: not using enough AI tokens.\r\nThe Nvidia CEO said in an episode of the \"All-In Podcast\" published Thursday that he would be \"deeply alarmed\" if one of t… [+2808 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "Stock Market News, March 19, 2026: Brent Crude Retreats After Touching $119 - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-19-2026",
+            "urlToImage": null,
+            "publishedAt": "2026-03-20T02:33:00Z",
+            "content": null
         },
         {
             "source": {
@@ -43,19 +95,6 @@
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Shikhar Balwani",
-            "title": "Asian Stocks to Steady as US Shares Pare Drop: Markets Wrap - Bloomberg.com",
-            "description": "Equity markets turned choppy heading into the weekend, while oil prices cooled as investors weighed efforts by the US and Israel to ease concerns over the Iran war.",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-19/stock-market-today-dow-s-p-live-updates-",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii8G208fpDjE/v0/1200x675.png",
-            "publishedAt": "2026-03-20T01:06:00Z",
-            "content": "Equity markets turned choppy heading into the weekend, while oil prices cooled as investors weighed efforts by the US and Israel to ease concerns over the Iran war.\r\nThe MSCI Asia Pacific Index fluct… [+324 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "ScienceAlert"
             },
@@ -66,6 +105,19 @@
             "urlToImage": "https://www.sciencealert.com/images/2026/03/person-holds-injector.jpg",
             "publishedAt": "2026-03-20T00:36:44Z",
             "content": "(AP) Federal regulators on Thursday approved a new higher-dose version of the blockbuster obesity drug Wegovy that may help users lose more weight and keep it off.\r\nThe U.S. Food and Drug Administrat… [+2853 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Michelle F. Davis, Andrea Chang",
+            "title": "Unilever Is Said in Talks to Merge Food Business With McCormick - Bloomberg",
+            "description": "Unilever Plc, the maker of Hellmann’s mayonnaise, is in talks to sell its food business to McCormick & Co., according to a person familiar with the matter.",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-19/unilever-in-talks-to-combine-food-business-with-mccormick-wsj",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im.ryikkWrwU/v0/1200x800.jpg",
+            "publishedAt": "2026-03-20T00:30:00Z",
+            "content": "Unilever Plc, the maker of Hellmannsmayonnaise, is in talks to sell its food business to McCormick &amp; Co., according to a person familiar with the matter.\r\nA deal between the Anglo-Dutch consumer … [+330 chars]"
         },
         {
             "source": {
@@ -82,32 +134,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "OpenAI is planning a desktop ‘superapp’ - The Verge",
-            "description": "OpenAI is working on a desktop “superapp” that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports.",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462044/STK155_OPEN_AI_CVirginia_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-20T00:09:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company is working on merging ChatGPT, Codex, and the Atlas browser into one app.\r\nThe company is working on merging ChatGPT, Codex, and the Atlas browser in… [+2521 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "Alibaba Targets $100 Billion of AI Revenue in Five Years - Bloomberg.com",
-            "description": "Alibaba Group Holding Ltd. aims to quintuple cloud and AI revenue to $100 billion annually in five years, setting a high bar for its artificial intelligence endeavors to offset the plateauing of a once pre-eminent e-commerce empire.",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-19/alibaba-revenue-disappoints-as-ai-profit-push-grows-urgent",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikfLZ0I0skiM/v1/1200x800.jpg",
-            "publishedAt": "2026-03-20T00:07:00Z",
-            "content": "Alibaba Group Holding Ltd. aims to quintuple cloud and AI revenue to $100 billion annually in five years, setting a high bar for its artificial intelligence endeavors to offset the plateauing of a on… [+536 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Hollywood Reporter"
             },
@@ -121,6 +147,32 @@
         },
         {
             "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "Exclusive | OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d",
+            "urlToImage": null,
+            "publishedAt": "2026-03-19T23:31:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SpaceNews"
+            },
+            "author": "Jeff Foust",
+            "title": "Blue Origin joins the orbital data center race - SpaceNews",
+            "description": "Blue Origin is the latest company to propose an orbital data center system, filing plans for a constellation of up to 51,600 satellites.",
+            "url": "http://spacenews.com/blue-origin-joins-the-orbital-data-center-race/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2025/11/gallery_ng2-liftoff.jpg",
+            "publishedAt": "2026-03-19T23:30:09Z",
+            "content": "WASHINGTON Blue Origin is the latest company to propose an orbital data center system, filing plans for a constellation of up to 51,600 satellites.\r\nIn a March 19 filing with the Federal Communicatio… [+3971 chars]"
+        },
+        {
+            "source": {
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
@@ -131,19 +183,6 @@
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXIKCrlpgXcE/v1/1200x800.jpg",
             "publishedAt": "2026-03-19T22:00:05Z",
             "content": "The war in Iran once again presented Donald Trump with an intractable dilemma.\r\nHe needed to calm energy markets that were surging once more after Iran struck energy infrastructure across the Persian… [+83 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "Stock Market Today: Dow Slips 100 Points; Brent Crude Retreats After Hitting $119 — Live Updates - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-19-2026",
-            "urlToImage": null,
-            "publishedAt": "2026-03-19T21:39:28Z",
-            "content": null
         },
         {
             "source": {
@@ -164,38 +203,12 @@
                 "name": "Investor's Business Daily"
             },
             "author": null,
-            "title": "Micron Stock Falls As Investors Suspect Peak Is Near And Take Profits - Investor's Business Daily",
-            "description": "Micron impressed Wall Street analysts with its massive beat-and-raise earnings report. But investors took profits in Micron stock.",
-            "url": "https://www.investors.com/news/technology/micron-stock-mu-investors-suspect-peak-is-near/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2026/03/stock-Micron-CEO-Sanjay-Mehrotra-1-company.jpg",
-            "publishedAt": "2026-03-19T21:16:00Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": null,
             "title": "Eli Lilly Confirms 'Superior Weight Loss' Of Its Next-Generation Obesity Drug - Investor's Business Daily",
             "description": "Patients taking retatrutide, lost 16.8% of their body weight over 40 weeks.",
             "url": "https://www.investors.com/news/technology/eli-lilly-experimental-drug-retatrutide-trong-weight-loss-trial/",
             "urlToImage": "https://www.investors.com/wp-content/uploads/2018/05/Stock-Lilly-01-Shutterstock.jpg",
             "publishedAt": "2026-03-19T21:08:00Z",
             "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CFO Dive"
-            },
-            "author": "Jim Tyson",
-            "title": "Jobless claims fall to two-month low as lull in layoffs, hiring persists - CFO Dive",
-            "description": "Unemployment will likely hold steady at 4.4% throughout this year, according to a median estimate by Federal Reserve officials released Wednesday.",
-            "url": "https://www.cfodive.com/news/jobless-claims-fall-two-month-low-lull-layoffs-hiring-persists-unemployment-Fed-inflation-Powell/815253/",
-            "urlToImage": "https://imgproxy.divecdn.com/AgIMVtznP56hxSCbHKREjeFzYb1ekTlH1RATKre2SXA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TcGljZXNfbGFuZHNjYXBlLkpQRw==.webp",
-            "publishedAt": "2026-03-19T20:20:40Z",
-            "content": "Dive Brief:\r\n<ul><li>The number of workers who filed for unemployment benefits last week fell to the lowest level since mid-January, the Labor Department said Thursday, as employers limited layoffs a… [+2763 chars]"
         },
         {
             "source": {
@@ -209,6 +222,19 @@
             "urlToImage": "https://images.mktw.net/im-05436594/social",
             "publishedAt": "2026-03-19T20:14:00Z",
             "content": "The stock market just closed below a key technical level Thursday as rising oil prices delivered back-to-back losses on Wall Street, despite attempts by the White House to calm jitters around the Ira… [+288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Peter Gratton",
+            "title": "All the Ways the Iran War Is Draining Your Wallet - Investopedia",
+            "description": "The conflict in Iran is driving up more than just gas prices. Here's a full accounting of the cost of the conflict to American households.",
+            "url": "https://www.investopedia.com/all-the-ways-the-iran-war-is-draining-your-wallet-11928871",
+            "urlToImage": "https://www.investopedia.com/thmb/N-2dLb4eeeQXSHwRKdXq-TXFPy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2265237194-037a10243fb142e7b0f560df48a8c83d.jpg",
+            "publishedAt": "2026-03-19T20:13:55Z",
+            "content": "<ul><li>Gas and diesel prices have surged since the Iran war began, but those are only the most visible hits as groceries, airfares, and mortgage rates are rising.</li><li>The Strait of Hormuz is a c… [+5989 chars]"
         },
         {
             "source": {
@@ -242,7 +268,7 @@
                 "name": "Bloomberg"
             },
             "author": "Yvonne Yue Li, Jack Ryan",
-            "title": "Gold Steadies After Six-Day Decline as Fed Warns on Inflation - Bloomberg.com",
+            "title": "Gold Steadies After Six-Day Decline as Fed Warns on Inflation - Bloomberg",
             "description": "Gold sank for a seventh session as the Middle East drove oil prices higher and reduced prospects for a US interest-rate cut in the near term.",
             "url": "https://www.bloomberg.com/news/articles/2026-03-18/gold-steadies-after-six-day-decline-as-fed-warns-on-inflation",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI38bGN46cEg/v1/1200x800.jpg",
@@ -265,32 +291,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Higher Oil Prices From Trump’s Iran War Risk Killing the AI Boom, WTO Says - Gizmodo",
-            "description": "President Deals seems to be setting the global economy on fire.",
-            "url": "https://gizmodo.com/higher-oil-prices-from-trumps-iran-war-risk-killing-the-ai-boom-wto-says-2000735678",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/gas-prices-soaring-los-angeles-1200x675.jpg",
-            "publishedAt": "2026-03-19T19:30:17Z",
-            "content": "President Donald Trump’s war on Iran poses a risk to trade around the world and could result in slower GDP growth as well as higher fertilizer costs, according to a new report from the World Trade Or… [+4278 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Vivien Lou Chen",
-            "title": "The bond market is flashing a signal not seen since before the 2008 crisis - MarketWatch",
-            "description": "The 2-year Treasury yield spikes above the fed-funds rate target and produces a deeper, worrisome trading pattern for investors",
-            "url": "https://www.marketwatch.com/story/investors-have-spotted-a-pattern-in-markets-that-hasnt-been-seen-since-just-before-the-2008-crisis-c2158017",
-            "urlToImage": "https://images.mktw.net/im-65959889/social",
-            "publishedAt": "2026-03-19T19:23:00Z",
-            "content": "Troubling developments unfolded in the U.S. bond market on Thursday that had some investors drawing comparisons with the run-up to the 2008 financial crisis.\r\nThe current problems start with rising o… [+411 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Yahoo Entertainment"
             },
             "author": "Nauman Khan",
@@ -300,19 +300,6 @@
             "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
             "publishedAt": "2026-03-19T18:39:11Z",
             "content": "This article first appeared on GuruFocus.\r\nTesla (NASDAQ:TSLA) stock dipped 3% on Thursday after facing an expanded federal review of its Full Self-Driving (FSD) system after the National Highway Tra… [+784 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Aimee  Picchi",
-            "title": "3 reasons the Federal Reserve's interest rate pause is worrying investors - CBS News",
-            "description": "Fed Chairman Jerome Powell used the phrase \"we don't know\" at least 14 times during his press conference. Investors are nervous.",
-            "url": "https://www.cbsnews.com/news/fed-rate-decision-jerome-powell-uncertainty-iran-war/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/13/bbafb722-b7b1-4137-90eb-cf8dfe523583/thumbnail/1200x630/eef2b50ecf5a8097d4dcddb0c402e4c6/powell4.jpg",
-            "publishedAt": "2026-03-19T18:30:00Z",
-            "content": "The fog from the Iran war is obscuring the Federal Reserve's view of the U.S. economy.\r\nInvestors were rattled on Wednesday, when the central bank said it is holding interest rates steady, after Fed … [+4117 chars]"
         },
         {
             "source": {
@@ -355,16 +342,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Financial Times"
+                "id": "ars-technica",
+                "name": "Ars Technica"
             },
-            "author": "Richard Waters",
-            "title": "Tokens may soon drive the AI economy - Financial Times",
-            "description": "Jensen Huang of Nvidia has outlined a future based around the production, consumption and monetisation of output units",
-            "url": "https://www.ft.com/content/b7f681a5-fef8-4156-bbfa-88f9c93e08b4?syn-25a6b1a6\\\\u003d1",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbabfe984-24dc-4330-b2c8-098d79191432.jpg?source=next-barrier-page",
-            "publishedAt": "2026-03-19T17:43:02Z",
-            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+            "author": "Samuel Axon",
+            "title": "Meta decides not to kill Horizon Worlds VR after all - Ars Technica",
+            "description": "VR will be on life support while mobile remains the focus, though.",
+            "url": "https://arstechnica.com/gadgets/2026/03/at-the-last-minute-meta-decides-not-to-kill-horizon-worlds-vr-after-all/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/andrew-bosworth-instagram-1152x648.jpg",
+            "publishedAt": "2026-03-19T17:50:40Z",
+            "content": null
         },
         {
             "source": {
@@ -394,6 +381,19 @@
         },
         {
             "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jake Angelo",
+            "title": "'A month ago, no one would have believed this': June Fed rate hike odds just surpassed rate cut odds as stagflation fears grow - Fortune",
+            "description": "The Atlanta Fed’s Market Probability Tracker places the odds of a rate hike at about 15% within the next three months.",
+            "url": "https://fortune.com/2026/03/19/federal-reserve-rate-hike-odds-increase-jerome-powell-donald-trump-iran-war/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2266700130_2cab22-e1773934972393.jpg?resize=1200,600",
+            "publishedAt": "2026-03-19T16:49:00Z",
+            "content": "The war in Iran has sent energy prices soaring, stoking inflation fears that could undercut President Donald Trumps hope of Fed rate cuts this year.The Atlanta Federal Reserve Banks Market Probabilit… [+3763 chars]"
+        },
+        {
+            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -420,55 +420,81 @@
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Anthony Faiola, Michelle Ye Hee Lee",
-            "title": "Economic fallout from U.S.-led war is hitting the rest of the world harder - The Washington Post",
-            "description": "Because of greater exposure to disruptions in the Middle East, such as high natural gas prices, businesses and consumers outside the U.S. are being hit harder by the war in Iran.",
-            "url": "https://www.washingtonpost.com/world/2026/03/19/iran-war-global-economic-impact/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZLBWO6L3TFOZP4CM553J4Z4GI_size-normalized.jpg&w=1440",
-            "publishedAt": "2026-03-19T16:09:17Z",
-            "content": "ROME As the United States wages war with no clear endgame, large swaths of the globe are suffering worse than Americans from the economic fallout, weathering gasoline shortages, falling currencies an… [+27 chars]"
+            "author": "The Washington Post",
+            "title": "Airfares are spiking. Here’s how to navigate the hikes. - The Washington Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtRTB6c0VlenFvRU5aS1hQNHdrR0U5MFpnaEQ1NFloWDQ5c3RvNWR4emNkOFR5LUQ2QkVOR0lpZ3JnOTBEd3VTaFlLMW5VMlNia0JLbnUzYzkzSVREMU9CNV9OeXJPcVVzdnVabHY5RDE1WDVZTklha3dKTVpkVVU?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-03-19T16:00:02Z",
+            "content": null
         },
         {
             "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
+                "id": null,
+                "name": "Europa.eu"
             },
-            "author": "Amanda Silberling",
-            "title": "Meta decides not to shut down Horizon Worlds on VR after all - TechCrunch",
-            "description": "Horizon Worlds was once a cornerstone of Meta's plans to build a social metaverse -- four years later, the company almost shut it down.",
-            "url": "https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/horizon-world-members-only.png?w=780",
-            "publishedAt": "2026-03-19T15:36:32Z",
-            "content": "According to an Instagram post from Meta’s CTO Andrew Bosworth, Meta is not shutting down VR support for Horizon Worlds after all, which should come as a huge relief to, like, five people.\r\n“We have … [+3384 chars]"
+            "author": "European Central Bank",
+            "title": "ECB staff macroeconomic projections for the euro area, March 2026 - European Central Bank",
+            "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+            "url": "https://www.ecb.europa.eu/press/projections/html/ecb.projections202603_ecbstaff~ebe291cd3d.en.html",
+            "urlToImage": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4",
+            "publishedAt": "2026-03-19T15:39:45Z",
+            "content": "1 Overview\r\nThe euro area economy remained resilient in 2025, despite uncertainty and trade policy shocks. Growth expectations were consistently revised up over the course of last year and the econom… [+85131 chars]"
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": null,
+                "name": "Rolling Stone"
             },
-            "author": "Josh Wingrove",
-            "title": "Trump, Takaichi Set to Announce $40 Billion US Reactor Project - Bloomberg.com",
-            "description": "President Donald Trump and Japanese Prime Minister Sanae Takaichi are set to announce a nuclear power project in the southern US, the latest initiative stemming from an investment fund the countries established as part of a trade pact.",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-19/trump-takaichi-set-to-announce-40-billion-us-reactor-project",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6f0p_huyX3Q/v1/1200x889.jpg",
-            "publishedAt": "2026-03-19T13:00:00Z",
-            "content": "President Donald Trump and Japanese Prime Minister Sanae Takaichi are set to announce a nuclear power project in the southern US, the latest initiative stemming from an investment fund the countries … [+365 chars]"
+            "author": "Kristen Crowell",
+            "title": "The Affordability Crisis Can’t Be Solved With Another Tax Cut - Rolling Stone",
+            "description": "Democrats don’t need to trade away revenue required for meaningful policy. They need to tax the rich.",
+            "url": "http://www.rollingstone.com/politics/political-commentary/affordability-crisis-cant-be-solved-another-tax-cut-1235533831/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/03/Rising-Costs-op-Ed.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2026-03-19T15:15:00Z",
+            "content": "Over the past year, I traveled the country, from Arizona to Alaska, Iowa to Georgia, talking with everyday Americans about rising costs, health care, and what they think the government should provide… [+6143 chars]"
         },
         {
             "source": {
-                "id": "fortune",
-                "name": "Fortune"
+                "id": null,
+                "name": "Muddyrivernews.com"
             },
-            "author": "Jim Edwards",
-            "title": "Global selloff in stocks as oil hits $115 and Trump admits he ‘knew nothing’ about Israel attack on major Iran gas field - Fortune",
-            "description": "Everything you need to know before you reach the office this morning.",
-            "url": "https://fortune.com/2026/03/19/stocks-oil-price-trump-admits-he-knew-nothing-israel-attack-iran-gas/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2266314484.jpg?resize=1200,600",
-            "publishedAt": "2026-03-19T12:32:00Z",
-            "content": "The price of a barrel of oil rose to $115. S&amp;P 500 futures were flat after the index closed down 1.36% yesterday. The S&amp;P is now down 3.23% year-to-date. All the major markets in Asia and Eur… [+9996 chars]"
+            "author": "SPONSORED CONTENT",
+            "title": "Fast Payout Casinos USA 2026: 5 Best Instant Withdrawal Casinos for Real Money - Muddy River News",
+            "description": "Fastest Payout Casinos in the USA for 2026- Top Picks Fast Payout Casinos Welcome Bonuses Withdrawal Speed BetWhale 250% up to $2,500. Code: ACTIONPACK Instant Lucky Rebel 200% up to $2,500 + 50 Free Spins on Cai Fu Dai Panda Under 1 hour Bets.io 225% up to 1…",
+            "url": "https://muddyrivernews.com/business/sponsored-content/fast-payout-casinos-usa-2026-5-best-instant-withdrawal-casinos-for-real-money/20260319093000/",
+            "urlToImage": "https://muddyrivernews.com/wp-content/uploads/sites/3/2026/03/image-1260.png",
+            "publishedAt": "2026-03-19T14:31:41Z",
+            "content": "<table><tr><td>Fast Payout Casinos</td><td>Welcome Bonuses</td><td>Withdrawal Speed</td></tr><tr><td>BetWhale</td><td>250% up to $2,500. Code: ACTIONPACK</td><td>Instant</td></tr><tr><td>Lucky Rebel<… [+13332 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Ringer"
+            },
+            "author": null,
+            "title": "How Doomed Is the Price of Oil? An FAQ. - The Ringer",
+            "description": "Gas prices are skyrocketing due to the conflict in Iran. How worried should we be? Let's go deep on exploding plankton, market mood swings, and one of the strangest industries in the world.",
+            "url": "https://www.theringer.com/2026/03/19/national-affairs/us-iran-war-crude-oil-prices-explained-strait-of-hormuz",
+            "urlToImage": "https://wp.theringer.com/wp-content/uploads/2026/03/cropped-gasupoiluptrumpboo_getty_ringer-scaled-1.jpg",
+            "publishedAt": "2026-03-19T13:49:36Z",
+            "content": "Getty Images/Ringer illustration\r\nOne inescapable fact about the price of oil is that its both a vital issue affecting the daily lives of billions of people and a supremely crass thing to have to wor… [+16426 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": "Leslie Hook, Ian Smith, Emily Herbert, Rachel Rees",
+            "title": "Stocks and bonds tumble as investors price in ‘protracted energy shock’ - Financial Times",
+            "description": "Iranian strikes on Qatari natural gas complex send US and European markets reeling",
+            "url": "https://www.ft.com/content/3f4a6ad4-9216-4b5c-830f-11854787bb52?syn-25a6b1a6\\\\u003d1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff9dbeca2-a008-4903-80a7-90111b061a4f.jpg?source=next-barrier-page",
+            "publishedAt": "2026-03-19T12:43:36Z",
+            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
         },
         {
             "source": {
@@ -485,19 +511,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "Shalu Saraf",
-            "title": "SNDK, WDC, STX: Why Are Memory Chip Stocks Trending Lower Today - TipRanks",
-            "description": "Memory and storage stocks are trending lower again in early trading on Thursday, extending losses from the previous session after Micron’s ($MU) earnings triggered a sector-wide pullback. Shares of SanDisk",
-            "url": "https://www.tipranks.com/news/sndk-wdc-stx-why-are-memory-chip-stocks-trending-lower-today",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/03/chip-stocks-2-750x406.jpg",
-            "publishedAt": "2026-03-19T11:20:53Z",
-            "content": "Story Highlights<ul><li>Memory and storage stocks are down in early trading, extending losses after Microns ($MU) earnings.</li><li>SanDisk, Western Digital, and Seagate fell despite no company-speci… [+18 chars]"
-        },
-        {
-            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
@@ -511,45 +524,6 @@
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Ruth Liao, Stephen Stapczynski, Priscila Azevedo Rocha",
-            "title": "Weeks of War Are Reshaping the Global Gas Market for Years to Come - Bloomberg.com",
-            "description": "The industry is staring down prolonged disruptions in the Persian Gulf. Emerging economies are already paying the price.",
-            "url": "https://www.bloomberg.com/news/features/2026-03-19/iran-war-strikes-on-qatar-s-lng-crown-jewel-reshape-the-future-of-gas",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivb6xIgI5fP8/v1/1200x800.jpg",
-            "publishedAt": "2026-03-19T10:00:09Z",
-            "content": "Each week the worlds largest liquefied natural gas plant remains shut, the world loses the equivalent of enough energy to power Sydneys homes for an entire year.\r\nQatars Ras Laffan plant closed earli… [+284 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "This tax season, there's a new deduction for interest on car loans - NPR",
-            "description": "Taxpayers who purchased a new vehicle in 2025 may qualify for a new deduction on their taxes — even if they're not itemizing. But not everyone is eligible.",
-            "url": "https://www.npr.org/2026/03/19/nx-s1-5749420/auto-loan-interest-tax-deduction",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5909x3324+0+308/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Fd7%2Fc21b9bee47149d536dec9b71346f%2Fgettyimages-2266189018.jpg",
-            "publishedAt": "2026-03-19T09:00:00Z",
-            "content": "There's a brand-new tax deduction in place this filing season: Taxpayers who bought a new car in 2025 can, in some cases, deduct interest on their auto loan.\r\nThe deduction was created by the One Big… [+4753 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Maria Aspan",
-            "title": "It's called 'private credit' — and it could lead to big trouble on Wall Street - NPR",
-            "description": "The risky lending business has been booming — but now its problems are becoming increasingly visible on Wall Street and beyond.",
-            "url": "https://www.npr.org/2026/03/19/nx-s1-5747128/private-credit-equity-jamie-dimon-wall-street",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5551x3122+0+289/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F2d%2Fc3dc4dcc42de925e33389c89cfb1%2Fgettyimages-2266677381.jpg",
-            "publishedAt": "2026-03-19T09:00:00Z",
-            "content": "The risky lending business known as \"private credit\" is causing some very public problems for banks and investors with implications that go far beyond Wall Street.\r\n\"Private credit\" refers to an opaq… [+6190 chars]"
-        },
-        {
-            "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
@@ -560,6 +534,19 @@
             "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2266555628-e1773868088145.jpg?resize=1200,600",
             "publishedAt": "2026-03-19T08:31:00Z",
             "content": "The year is 2036. Youre sitting at your office deskalongside 100 AI agents.At least, thats how Nvidia CEO Jensen Huang imagines work could be one day at Nvidia. Speaking at a Q&amp;A session for medi… [+3548 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jake Angelo",
+            "title": "Fortune 500 firm updates AI price tag to $4.5 trillion, estimating 93% of jobs vulnerable to disruption - Fortune",
+            "description": "Cognizant looked again at its 2023 estimates about AI job loss—and doubled its projections.",
+            "url": "https://fortune.com/2026/03/19/ai-jobs-vulnerable-disruption-layoffs-warning-price-tag/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2263459567-e1773867200537.jpg?resize=1200,600",
+            "publishedAt": "2026-03-19T08:00:00Z",
+            "content": "In 2023, artificial intelligence was capable of just a fraction of what it has achieved today. ChatGPT had just launched. Distorted AI photos and videos had just started to hit your timeline. The tec… [+4128 chars]"
         },
         {
             "source": {
@@ -590,6 +577,19 @@
         {
             "source": {
                 "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Krisztian Sandor",
+            "title": "SEC approves Nasdaq's move to support tokenized securities trading - CoinDesk",
+            "description": "The SEC’s approval lets Nasdaq test blockchain-based versions of stocks that trade and settle like traditional shares.",
+            "url": "https://www.coindesk.com/policy/2026/03/18/sec-approves-nasdaq-s-move-to-allow-tokenized-securities-trading",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/dce6557d0cb4fd7c35148c63bc83e4768ddb4515-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-03-18T20:47:13Z",
+            "content": "The U.S. Securities and Exchange Commission (SEC) approved on Wednesday Nasdaqs proposal to allow certain securities to trade in tokenized form, a significant milestone to integrate blockchain tech i… [+1557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "The Christian Science Monitor"
             },
             "author": "the Monitor's Editorial Board",
@@ -603,19 +603,6 @@
         {
             "source": {
                 "id": null,
-                "name": "SlashGear"
-            },
-            "author": "Caroline Anschutz",
-            "title": "The Gas In CA Is Completely Different From The Rest Of The US - Here's Why - SlashGear",
-            "description": "Gas in California is different because the state requires a special blend designed to cut air pollution, which is more expensive to refine and limits supply.",
-            "url": "https://www.slashgear.com/2125738/california-gas-different-than-other-us-states-reason-why/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/the-gas-in-ca-is-completely-different-from-the-rest-of-the-us-heres-why/l-intro-1773769392.jpg",
-            "publishedAt": "2026-03-18T18:45:00Z",
-            "content": "California's strict fuel standards aren't the only contributors to its high fuel costs. There's also an age-old complaint: taxes. The state pays more in taxes per gallon than any other part of the co… [+1501 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Fhfa.gov"
             },
             "author": "FHFA",
@@ -625,19 +612,6 @@
             "urlToImage": "https://www.fhfa.gov/sites/default/files/2026-03/rcv-acv-homepage-card-image.jpg",
             "publishedAt": "2026-03-18T17:01:44Z",
             "content": "Washington, D.C. American homebuyers are about to get a break. New rules for Fannie Mae and Freddie Mac mortgages will help to lower home insurance bills for millions of families, especially in rural… [+2888 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Emily Mae  Czachor, Kris  Van Cleave",
-            "title": "TSA PreCheck Touchless ID can save you time as airport lines get longer. Here's how to sign up. - CBS News",
-            "description": "Travelers hoping to bypass some of the increasingly long wait times at U.S. airports can enroll in the TSA PreCheck Touchless ID program, which is now operating at 65 locations.",
-            "url": "https://www.cbsnews.com/news/tsa-precheck-touchless-id-save-time-airport-how-to-sign-up/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/18/e7fdb125-d909-4690-a490-7fd54ed0abe4/thumbnail/1200x630/fb83964a51dbdd8f74ccb64cadd85d04/ap26075692245695.jpg",
-            "publishedAt": "2026-03-18T16:42:00Z",
-            "content": "As TSA lines get longer and the situation at U.S. airports becomes more uncertain, there's a method for flyers hoping to fast-pass security wait times. In addition to keeping tabs on TSA wait-time tr… [+4205 chars]"
         }
     ]
 }

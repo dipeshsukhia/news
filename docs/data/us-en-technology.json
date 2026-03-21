@@ -4,6 +4,45 @@
     "articles": [
         {
             "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Chris Taylor",
+            "title": "Google's AI plans for Fitbit include your medical records - Mashable",
+            "description": "This isn't your father's Fitbit.",
+            "url": "https://mashable.com/article/google-fitbit-ai",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/05XSAOrKQaik3Nx4CLp9mUg/hero-image.fill.size_1200x675.v1773966280.jpg",
+            "publishedAt": "2026-03-20T10:18:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Carl Franzen",
+            "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord - VentureBeat",
+            "description": "The consensus among early adopters is that Anthropic has successfully internalized the most desirable features of the open-source movement—multi-channel support and long-term memory",
+            "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/3dBMtm7xGFxoVBUCdLdtS9/76357f5bb295d3a62476a2c00e629c44/Gemini_Generated_Image_ezvr5vezvr5vezvr.png?w=800&q=75",
+            "publishedAt": "2026-03-20T01:53:08Z",
+            "content": "The hit open source autonomous AI agent OpenClaw may have just gotten mogged by Anthropic. \r\nToday, Anthropic announced Claude Code Channels, a way to hook up its own powerful Claude Code AI agentic … [+8875 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jared Perlo",
+            "title": "AI is changing the style and substance of human writing, study finds - NBC News",
+            "description": "Teams from Google and leading universities found that large-language models change the voice, tone and intended meaning of human authors.",
+            "url": "https://www.nbcnews.com/tech/tech-news/ai-changing-style-substance-human-writing-study-finds-rcna263789",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260318-ai-speaking-lr-b30938.jpg",
+            "publishedAt": "2026-03-20T00:00:00Z",
+            "content": "Does money lead to happiness?\r\nResearchers from a coalition of West Coast universities were curious how 100 human participants would respond to the age-old question, but not because of their own purs… [+6663 chars]"
+        },
+        {
+            "source": {
                 "id": "ign",
                 "name": "IGN"
             },
@@ -31,6 +70,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Gamefile.news"
+            },
+            "author": "Stephen Totilo",
+            "title": "New dispute emerges around Subnautica 2’s early access release - Game File | Stephen Totilo",
+            "description": "Restored CEO's legal team says this week's announcement of a May launch was improper",
+            "url": "https://www.gamefile.news/p/subnautica-2-early-access-may-dispute",
+            "urlToImage": "https://substackcdn.com/image/fetch/$s_!0tlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F719511aa-85dc-4fae-ac9b-850b6bbfc51f_2994x1516.png",
+            "publishedAt": "2026-03-19T21:28:47Z",
+            "content": "Lawyers for the oustedand now partially reinstatedleadership team of Unknown Worlds, the studio behind Subnautica 2, are crying foul over news that the game will be released into early access in May.… [+6991 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Michael Higham",
+            "title": "Bungie Reveals All Details of Marathon's First Raid, Cryo Archive; Goes Live on March 20 and Weekends Only - IGN",
+            "description": "Here's everything you need to know about Marathon's Cryo Archive raid that goes live on March 20, which will only be available on weekends.",
+            "url": "https://www.ign.com/articles/bungie-reveals-all-details-of-marathons-first-raid-cryo-archive-goes-live-on-march-20-and-weekends-only",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/03/19/2026-marathon-cryo-unlock-press-kit-compressed-03-1773953744564.jpg?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-03-19T21:14:21Z",
+            "content": "Bungie has been teasing the fourth map in its recently released extraction shooter, Marathon but it's not just another open region for looting gear, getting into fights, and extracting.\r\nCryo Archive… [+4070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Push Square"
             },
             "author": "Sammy Barker",
@@ -53,6 +118,19 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/03/switch-2s-1200x675.jpg",
             "publishedAt": "2026-03-19T20:34:43Z",
             "content": "Nintendo rolled out a nice surprise for Switch 2 owners earlier this week. It’s called Handheld Boost Mode, and it runs Switch 1 games as if they were docked, even while in handheld mode. Sounds stra… [+3055 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Watchtowr.com"
+            },
+            "author": "McCaulay Hudson",
+            "title": "A 32-Year-Old Bug Walks Into A Telnet Server (GNU inetutils Telnetd CVE-2026-32746) - watchTowr Labs",
+            "description": "A long, long time ago, in a land free of binary exploit mitigations, when Unix still roamed the Earth, there lived a pre-authentication Telnetd vulnerability.\n\nIn fact, this vulnerability was born so long ago (way back in 1994) that it may even be older than …",
+            "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+            "urlToImage": "https://labs.watchtowr.com/content/images/size/w1200/2026/03/Group-8730.png",
+            "publishedAt": "2026-03-19T20:23:32Z",
+            "content": "A long, long time ago, in a land free of binary exploit mitigations, when Unix still roamed the Earth, there lived a pre-authentication Telnetd vulnerability.\r\nIn fact, this vulnerability was born so… [+29833 chars]"
         },
         {
             "source": {
@@ -131,6 +209,19 @@
             "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIi1shGpEknr4-CSa7F-hGXgqRLy4TeRhG2CLzUE9WOs7c-XA-TRmAFhxGmJePCWAjYzRvtRW5ukvGvKluq5hOfv8F8QmzqTUxVjElk6zf3ovVxZIvqUdn1A2Z02kv7t8efDgyyZEUljfWZRxOZqAynFB92c66-ywA8vxkCUXiJ75g4U2vJUlOlzblxU_z/s1600/edr.jpg",
             "publishedAt": "2026-03-19T18:52:00Z",
             "content": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 35 vulnerable… [+4824 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "Apple Health integrates with newly announced ‘Perplexity Health’ AI feature - 9to5Mac",
+            "description": "Following yesterday’s Comet iOS browser release, Perplexity is back with another AI announcement: Perplexity Health. The new “suite of connectors”...",
+            "url": "https://9to5mac.com/2026/03/19/apple-health-integrates-with-newly-announced-perplexity-health-ai-feature/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/perplexity-ipad.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-03-19T17:51:00Z",
+            "content": "Following yesterday’s Comet iOS browser release, Perplexity is back with another AI announcement: Perplexity Health. The new “suite of connectors” includes integration with Apple Health, Perplexity s… [+2243 chars]"
         },
         {
             "source": {
@@ -252,6 +343,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Notebookcheck.net"
+            },
+            "author": "Alex Alderson",
+            "title": "Xiaomi releases new lightweight laptop with Intel Panther Lake and 120 Hz OLED display - Notebookcheck",
+            "description": "Xiaomi has released a new 14-inch laptop featuring Intel's Panther Lake platform. Available with up to 32 GB of RAM, the Book Pro 14 combines a 120 Hz OLED display with 72 Wh battery inside a housing that tips the scales at barely over a kilo.",
+            "url": "https://www.notebookcheck.net/Xiaomi-releases-new-lightweight-laptop-with-Intel-Panther-Lake-and-120-Hz-OLED-display.1254878.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-book-pro-14-release-kv.jpg",
+            "publishedAt": "2026-03-19T14:20:00Z",
+            "content": "Moreover, Xiaomi installs a 72 Wh battery with support for 100 W charging to power the laptop's 500 nit, 120 Hz and 3,120 x 2,080-pixel OLED display. Xiaomi complements this 3:2 display with a 140 x … [+572 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Phelan",
+            "title": "iOS 26.3.1 (a): Apple’s Hidden iPhone Update Recommended For Hundreds Of Millions Of Users - Forbes",
+            "description": "The latest iPhone update has arrived and it’s different from previous updates. Here’s why and what to do about it.",
+            "url": "https://www.forbes.com/sites/davidphelan/2026/03/19/iphone-alert-why-you-must-check-this-hidden-setting-for-urgent-ios-2631-a-fix/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/696f9917e18383b28f33c10b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-03-19T14:03:00Z",
+            "content": "AFP via Getty Images\r\nThis post, first published on Wednesday, March 18, was updated on Thursday, March 19 with more information about the first Background Security Improvement update.\r\nApple release… [+2632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "9to5google.com"
             },
             "author": "Ben Schoon",
@@ -264,42 +381,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "SamMobile"
+                "id": "techcrunch",
+                "name": "TechCrunch"
             },
-            "author": "Adnan Farooqui",
-            "title": "Samsung's 65W Trio adapter can't charge your Galaxy S26 Ultra at 60W - SamMobile",
-            "description": "Samsung has been selling a 65W Trio charging adapter for a while now. The headline number there might make you think it can charge your Galaxy S26 Ultra at its full supported fast charging speed of 60W, but that's not the case. There's a reason why this charg…",
-            "url": "https://www.sammobile.com/news/samsungs-65w-trio-adapter-cant-charge-your-galaxy-s26-ultra-at-60w/",
-            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Ultra-review-SamMobile-1200x674.jpg",
-            "publishedAt": "2026-03-19T12:23:00Z",
-            "content": "Samsung has been selling a 65W Trio charging adapter for a while now. The headline number there might make you think it can charge your Galaxy S26 Ultra at its full supported fast charging speed of 6… [+1206 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pure Xbox"
-            },
-            "author": "Fraser Gilbert",
-            "title": "'Keep The Feedback Coming' - Xbox Boss Says New Console Features Were Built Two Weeks Ago - Pure Xbox",
-            "description": "An impressive start to Asha Sharma's reign",
-            "url": "https://www.purexbox.com/news/2026/03/keep-the-feedback-coming-xbox-boss-says-new-console-features-were-built-two-weeks-ago",
-            "urlToImage": "https://images.purexbox.com/931fe3514576f/large.jpg",
-            "publishedAt": "2026-03-19T12:15:00Z",
-            "content": "@Fiendish-Beaver Features they implemented are not that complex technically speaking, it could be easily implemented in 2 weeks.\r\nQuick Resume exists since launch = they just exposed a checkbox per t… [+903 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eurogamer.net"
-            },
-            "author": "Victoria Phillips Kennedy",
-            "title": "Tomb Raider Remastered studio denies using generative AI after new Challenge Mode gets panned by players - Eurogamer",
-            "description": "Tomb Raider 1-3 Remastered studio Aspyr has denied AI was used for the game's newly-released content.",
-            "url": "https://www.eurogamer.net/tomb-raider-remastered-studio-denies-using-generative-ai-after-new-challenge-mode-gets-panned-by-players",
-            "urlToImage": "https://assetsio.gnwcdn.com/Lara-Croft-in-Tomb-Raider-1---3-Remastered-promo-artwork.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2026-03-19T11:48:42Z",
-            "content": "Tomb Raider 1-3 Remastered studio Aspyr has said no AI was used for the game's newly-released content.\r\nLast week, Aspyr released a free new Challenge Mode update for Tomb Raider 1-3 Remastered, whic… [+2326 chars]"
+            "author": "Ivan Mehta",
+            "title": "Amazon brings Alexa+ to the UK - TechCrunch",
+            "description": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+            "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Alexa-UK.jpeg?resize=1200,675",
+            "publishedAt": "2026-03-19T12:27:24Z",
+            "content": "Amazon is bringing its new AI-powered conversational assistant, Alexa+, to the U.K., the first country to get the AI assistant outside of North America.\r\nThe company is currently letting users in the… [+1915 chars]"
         },
         {
             "source": {
@@ -317,6 +408,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Jim Norman",
+            "title": "Tomb Raider I-III Remastered Publisher Responds To AI Outfit Allegations - Nintendo Life",
+            "description": "Wardrobe malfunction",
+            "url": "https://www.nintendolife.com/news/2026/03/tomb-raider-i-iii-remastered-publisher-responds-to-ai-outfit-allegations",
+            "urlToImage": "https://images.nintendolife.com/04782231a3147/large.jpg",
+            "publishedAt": "2026-03-19T10:30:00Z",
+            "content": "Image: Aspyr\r\nLast week, Aspyr released a free upgrade for Tomb Raider I-III Remastered, throwing in a new 'Challenge Mode' and a bunch of fresh outfits to anyone who downloaded. Despite being free, … [+2049 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "BleepingComputer"
             },
             "author": "Bill Toulas",
@@ -326,19 +430,6 @@
             "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/03/03/Android-red.jpg",
             "publishedAt": "2026-03-19T10:13:23Z",
             "content": "A new Android malware called Perseus is checking user-curated notes to steal  sensitive information, like passwords, recovery phrases, or financial data.\r\nDistributed over unofficial stores disguised… [+4210 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tom's Guide"
-            },
-            "author": "Amanda Caswell",
-            "title": "If AI feels overwhelming, you’re not alone — here’s the simple way to start - Tom's Guide",
-            "description": "AI is everywhere right now — but getting started doesn’t have to be complicated",
-            "url": "https://www.tomsguide.com/ai/if-ai-feels-overwhelming-youre-not-alone-heres-the-simple-way-to-start",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/VzXkKjQTmApePGCY7UpBG3-2000-80.jpg",
-            "publishedAt": "2026-03-19T05:30:00Z",
-            "content": null
         },
         {
             "source": {
@@ -356,19 +447,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Nintendo Life"
-            },
-            "author": "Liam Doolan",
-            "title": "Super Mario Bros. Wonder Has Been Updated To Version 1.1.0, Here Are The Full Patch Notes - Nintendo Life",
-            "description": "Get ready for the Switch 2 Edition",
-            "url": "https://www.nintendolife.com/news/2026/03/super-mario-bros-wonder-has-been-updated-to-version-1-1-0-here-are-the-full-patch-notes",
-            "urlToImage": "https://images.nintendolife.com/ef062cf69a5f0/large.jpg",
-            "publishedAt": "2026-03-19T01:14:41Z",
-            "content": "Image: Nintendo\r\nNintendo's wonderful Switch platformer Super Mario Bros. Wonder has today received a new update, bumping the game up to Version 1.1.0.\r\nThis update gets the game ready for the arriva… [+1862 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Nintendo.com"
             },
             "author": null,
@@ -378,6 +456,32 @@
             "urlToImage": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
             "publishedAt": "2026-03-19T01:01:07Z",
             "content": "03/18/26Learn more\r\nBy Director Mr. Sakurai, Kirby Air Riders: Development Insights Part 4\r\nJoin Kirby Air Riders director Masahiro Sakurai as he shares insights into the development and details behi… [+4484 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GamesIndustry.biz"
+            },
+            "author": "Vikki Blake",
+            "title": "New Cyberpunk TCG becomes the most-funded TCG game in Kickstarter history | News-in-brief - GamesIndustry.biz",
+            "description": "The resource for people who make and sell games.",
+            "url": "https://www.gamesindustry.biz/new-cyberpunk-tcg-becomes-the-most-funded-tcg-game-in-kickstarter-history-news-in-brief",
+            "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2026-03-18-at-20.57.23.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-03-18T21:00:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Sammy Barker",
+            "title": "PS5 Leads Resident Evil Requiem Sales as 'Consoles Are Dead' Chat Falls Flat - Push Square",
+            "description": "The silent majority",
+            "url": "https://www.pushsquare.com/news/2026/03/ps5-leads-resident-evil-requiem-sales-as-consoles-are-dead-chat-falls-flat",
+            "urlToImage": "https://images.pushsquare.com/e484cdd55821e/large.jpg",
+            "publishedAt": "2026-03-18T21:00:00Z",
+            "content": "Image: Push Square\r\nTheres been a persistent opinion, perhaps partly powered by talkative PC players, that consoles are on their way out.\r\nResident Evil Requiem is the latest example, where theres be… [+1938 chars]"
         },
         {
             "source": {
@@ -447,32 +551,6 @@
         {
             "source": {
                 "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Ryan Christoffel",
-            "title": "iOS 26.4 upgrades one of my most-used Control Center features in a big way - 9to5Mac",
-            "description": "iOS 26.4 has a welcome upgrade to a popular Control Center feature: Shazam song recognition will now work even when you're offline.",
-            "url": "https://9to5mac.com/2026/03/18/ios-26-4-upgrades-one-of-my-most-used-control-center-features-in-a-big-way/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/control-center-shazam-ios-26-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2026-03-18T18:53:00Z",
-            "content": "iOS 26.4 is launching soon, headlined by many new features in Apple Music. Theres also a music-related improvement to Control Center in iOS 26.4: Shazam song recognition will now work even when you’r… [+1457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gadgethacks.com"
-            },
-            "author": "Gadget Hacks",
-            "title": "iPhone 18 Pro Camera Upgrade: Variable Aperture Revealed - Gadget Hacks",
-            "description": null,
-            "url": "https://apple.gadgethacks.com/news/iphone-18-camera-leak-reveals-pro-photography-revolution/",
-            "urlToImage": null,
-            "publishedAt": "2026-03-18T17:13:08Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "9to5google.com"
             },
             "author": "Ben Schoon",
@@ -498,55 +576,16 @@
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Sophia Solano",
-            "title": "Are boomers are the real iPad babies? - The Washington Post",
-            "description": "Why Grandma and Grandpa can’t seem to stop scrolling.",
-            "url": "https://www.washingtonpost.com/style/2026/03/18/boomer-screen-addiction/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/JA6736UKZ5EBBP7DZVQCS2PGUE.jpg&w=1440",
-            "publishedAt": "2026-03-18T16:00:50Z",
-            "content": "The phone never leaves their palm. It blares and beeps at odd hours, threatening anyone in the vicinity with the sensory overload of a full-blast Facebook reel. Its a constant companion, but a distra… [+216 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "TheGamer"
+                "name": "9to5Mac"
             },
-            "author": "Jack Coleman",
-            "title": "Cyberpunk TCG Has Become The Most-Funded Card Game In Kickstarter History, As Funding Quickly Surpasses Every Stretch Goal - TheGamer",
-            "description": "The crowdfunding campaign for Cyberpunk 2077's upcoming trading card game has quickly become the site's most successful ever.",
-            "url": "https://www.thegamer.com/cyberpunk-tcg-raises-millions-in-hours-kickstarter/",
-            "urlToImage": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/03/cyberpunk-v-corporate-exile.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-03-18T15:05:19Z",
-            "content": "The official Cyberpunk trading card game reached its initial $100,000 crowdfunding goal in just 5 minutes, shattering the expectations of co-creators WeirdCo and CD Projekt Red.\r\nIn fact, the campaig… [+2149 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phoronix"
-            },
-            "author": null,
-            "title": "Ubuntu's Snap Affected By Local Privilege Escalation Vulnerability - Phoronix",
-            "description": "Last week it was security issues with AppArmor to worry about on Ubuntu Linux while this week a 'high' rated vulnerability for Ubuntu's Snap daemon has been revealed.",
-            "url": "https://www.phoronix.com/news/Ubuntu-Snapd-High-Vulnerability",
-            "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=snapd_vulnerability",
-            "publishedAt": "2026-03-18T14:44:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Hartley Charlton",
-            "title": "Apple Quietly Blocks Updates for Popular 'Vibe Coding' Apps [Updated] - MacRumors",
-            "description": "Apple has quietly blocked AI \"vibe coding\" apps, such as Replit and Vibecode, from releasing App Store updates unless they make changes, The...",
-            "url": "https://www.macrumors.com/2026/03/18/apple-blocks-updates-for-vibe-coding-apps/",
-            "urlToImage": "https://images.macrumors.com/t/fvnq7lgIjn-BQ5WsIW1FtaA-BEg=/2250x/article-new/2022/01/iOS-App-Store-General-Feature-Black.jpg",
-            "publishedAt": "2026-03-18T13:46:18Z",
-            "content": "Apple has quietly blocked AI \"vibe coding\" apps, such as Replit and Vibecode, from releasing App Store updates unless they make changes, The Information reports.\r\n\"Vibe coding\" tools allow users with… [+3596 chars]"
+            "author": "Zac Hall",
+            "title": "Apple pushing back on ‘vibe coding’ iPhone apps, developers say [U] - 9to5Mac",
+            "description": "Updated with Apple’s statement to 9to5Mac after the story. AI is making app development easier than ever. However, a new...",
+            "url": "https://9to5mac.com/2026/03/18/apple-pushing-back-on-vibe-coding-iphone-apps-developers-say/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/app-store-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-03-18T14:47:00Z",
+            "content": "Updated with Apple’s statement to 9to5Mac after the story.\r\nAI is making app development easier than ever. However, a new report claims Apple’s App Store isn’t fully embracing these new tools. Compan… [+3542 chars]"
         },
         {
             "source": {
@@ -560,45 +599,6 @@
             "urlToImage": "https://uploads.mygolfspy.com/uploads/2026/03/Arccos-Air-7.jpg",
             "publishedAt": "2026-03-18T13:16:52Z",
             "content": "Quick. What do you keep in your right front pocket when you play golf? Or, if you’re a lefty, your left front pocket.\r\nTees, of course. A divot tool? Likely.  \r\nIf youre a smoker, maybe a Zippo?\r\nNow… [+4933 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Harvard Business Review"
-            },
-            "author": "Thomas Stackpole",
-            "title": "LLMs Are Manipulating Users with Rhetorical Tricks - Harvard Business Review",
-            "description": "An HBR tech editor spoke with researchers who found that LLMs “persuasion bombed” BCG consultants who tried to verify their outputs.",
-            "url": "https://hbr.org/2026/03/llms-are-manipulating-users-with-rhetorical-tricks",
-            "urlToImage": "/resources/images/article_assets/2026/03/Mar26_06_10166210.jpg",
-            "publishedAt": "2026-03-18T12:36:26Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PCMag.com"
-            },
-            "author": "James Peckham",
-            "title": "Samsung Pulls Plug on Galaxy Z TriFold. Here's How to Find One Before They're Gone - PCMag",
-            "description": "A spokesperson for Samsung has confirmed the $2,899 device is reaching the end of its life after less than three months on sale.",
-            "url": "https://www.pcmag.com/news/amsung-pulls-plug-on-galaxy-z-trifold-how-to-find-one-before-theyre-gone",
-            "urlToImage": "https://i.pcmag.com/imagery/articles/054F4rNpRnGmvfrryWYhPmL-1.fit_lim.size_1200x630.v1773838144.jpg",
-            "publishedAt": "2026-03-18T11:02:47Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rock Paper Shotgun"
-            },
-            "author": "Edwin Evans-Thirlwell",
-            "title": "“Not even the littlest bit\": GTA 6 publisher CEO doesn't think genAI will level the playing field for smaller devs - Rock Paper Shotgun",
-            "description": "GTA 6 publisher CEO Strauss Zelnick doesn't think the latest genAI tools are going to turn everybody into a game developer and put his company out of business.",
-            "url": "https://www.rockpapershotgun.com/not-even-the-littlest-bit-gta-6-ceo-doesnt-think-genai-will-level-the-playing-field-for-smaller-devs",
-            "urlToImage": "https://assetsio.gnwcdn.com/Jason_Duval_04_a42YYhq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2026-03-18T11:00:00Z",
-            "content": "Hello everybody! A major technology company executive is talking in this, the year 2026, which means it's time for more wrangling about generative AI tools. Take-Two Interactive CEO Strauss Zelnick h… [+5503 chars]"
         }
     ]
 }

@@ -1,58 +1,331 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 34,
     "articles": [
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Dan Primack",
-            "title": "Airline mega-merger story is all about Trump - Axios",
-            "description": "Corporate America has concluded that antitrust approval now comes from the top.",
-            "url": "https://www.axios.com/2026/04/15/trump-doj-merger-lobbying",
-            "urlToImage": "https://images.axios.com/R4DkvESFR1MLZqrD_2ttijgTuAQ=/0x0:4000x2250/1366x768/2026/04/14/1776186490237.jpeg",
-            "publishedAt": "2026-04-15T11:32:24Z",
-            "content": "The big picture: Airline mergers must be approved by both the Justice Department and Transportation Department.\r\n<ul><li>Many of DOJ's top antitrust officials and prosecutors have been forced out and… [+1424 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Katherine Doherty",
-            "title": "BofA Stock Traders Notch Record Fueled by Momentum in Markets - Bloomberg.com",
-            "description": "Bank of America Corp.’s traders pulled in the business’s highest quarterly revenue in more than a decade, riding a wave of volatility that pushed the firm’s stock-trading desk to an all-time record.",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-15/bofa-stock-traders-notch-record-fueled-by-momentum-in-markets",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQqg1GOsPISI/v0/1200x800.jpg",
-            "publishedAt": "2026-04-15T11:27:14Z",
-            "content": "Bank of America Corp.s traders pulled in the businesss highest quarterly revenue in more than a decade, riding a wave of volatility that pushed the firms stock-trading desk to an all-time record.\r\nRe… [+254 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Ellise Shafer",
-            "title": "Katy Perry Under Investigation in Australia Over Ruby Rose Sexual Assault Allegations - Variety",
-            "description": "Katy Perry is being investigated by police in Australia after Ruby Rose accused her of sexual assault.",
-            "url": "https://variety.com/2026/music/global/katy-perry-under-investigation-ruby-rose-sex-assault-allegations-1236722201/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/04/katy-perry-ruby-rose.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
-            "publishedAt": "2026-04-15T11:06:00Z",
-            "content": "A police investigation is underway in Australia after Katy Perry was accused of sexual assault by “Batgirl” and “Orange Is the New Black” actor Ruby Rose. The pop star has denied the allegations, cal… [+2253 chars]"
-        },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Sawdah Bhaimiya",
-            "title": "Snap's stock jumps 11% on plans to axe 16% of its workforce citing AI efficiencies - CNBC",
-            "description": "Snap was up in premarket trading on Wednesday after announcing plans to lay off up to 16% of its global workforce citing AI-driven efficiencies",
-            "url": "https://www.cnbc.com/2026/04/15/snap-stock-layoffs-16-percent-workforce.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108285514-1774974781213-gettyimages-2232757181-omarques_02092025_tech2025_13_of_15.jpeg?v=1776248386&w=1920&h=1080",
-            "publishedAt": "2026-04-15T10:32:37Z",
-            "content": "Snap's shares jumped on Wednesday after the company announced plans to slash up to 16% of its global workforce, citing AI-driven efficiencies. \r\nCEO Evan Spiegel said in a letter to staff that the re… [+2613 chars]"
+            "author": "Sean Conlon, Lisa Kailai Han",
+            "title": "S&P 500 rises to new record as investors move past Iran conflict concerns: Live updates - CNBC",
+            "description": "The S&P 500 ended Tuesday's session less than 1% from its all-time high set on Jan. 28.",
+            "url": "https://www.cnbc.com/2026/04/14/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108291217-1776184015476-Traders-Photo-20260414-KK-PRESS-015.jpg?v=1776184110&w=1920&h=1080",
+            "publishedAt": "2026-04-15T18:22:00Z",
+            "content": "Major U.S. stock indices are soaring as energy prices dipped on Tuesday and producer prices came in cooler than expected.\r\nThe Nasdaq Composite finished about 1.96% up on the day, marking its 10th po… [+1128 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Cheyanne M. Daniels",
+            "title": "Johnson backs Trump, Vance in criticism of pope - Politico",
+            "description": "House Speaker Mike Johnson said he was “taken a little bit aback” by recent comments from the pope.",
+            "url": "https://www.politico.com/news/2026/04/15/mike-johnson-trump-vance-pope-criticism-00873232",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffc%2F92%2Fa845fec9435f94c0fbae9eea1056%2Fu-s-congress-84756.jpg",
+            "publishedAt": "2026-04-15T18:10:56Z",
+            "content": "The president has said he will not apologize to Leo, and Vice President JD Vance, the highest-ranking Catholic elected official in the U.S., waded into the debate Tuesday, warning Leo to be careful w… [+1474 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Melanie Zanona, Bridget Bowman, Matt Dixon, Peter Nicholas",
+            "title": "In group chats and meetings, Republicans are privately petrified the Iran war could cost them the midterms - NBC News",
+            "description": "There's a growing unease among Republicans that Trump’s prolonged war with Iran and rising gas prices could drag down the GOP in the November midterm elections.",
+            "url": "https://www.nbcnews.com/politics/elections/group-chats-meetings-republicans-are-privately-petrified-iran-war-cost-rcna273642",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260415-gas-prices-california-mn-1205-bda1f7.jpg",
+            "publishedAt": "2026-04-15T17:35:01Z",
+            "content": "WASHINGTON Few Republican lawmakers said anything publicly about President Donald Trumps startling social media post last week warning Iran that a whole civilization will die tonight, but privately, … [+168 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Samuel Axon",
+            "title": "Adobe takes Creative Cloud into Claude Code-esque territory - Ars Technica",
+            "description": "This is a big step in a new strategic direction for Adobe.",
+            "url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/adobe-firefly-ai-assistant-1152x648.jpg",
+            "publishedAt": "2026-04-15T16:54:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "Google launches Gemini Mac app, here’s what it offers - 9to5Mac",
+            "description": "Google’s Gemini AI app is a constant top three iPhone app in the App Store. Starting today, Gemini is available...",
+            "url": "https://9to5mac.com/2026/04/15/google-launches-gemini-mac-app-heres-what-it-offers/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-04-15T16:10:00Z",
+            "content": "Google’s Gemini AI app is a constant top three iPhone app in the App Store. Starting today, Gemini is available as a dedicated Mac app as well. This makes macOS the first platform with a desktop Gemi… [+4313 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Nellie Andreeva",
+            "title": "'The White Lotus' Season 4: Cannes Film Festival Theme, Filming Starts - Deadline",
+            "description": "Season 4 of Mike White's The White Lotus has begun filming on the French Riviera, with the Cannes Film Festival part of the storyline.",
+            "url": "http://deadline.com/2026/04/the-white-lotus-season-4-cannes-film-festival-theme-cast-1236861632/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/the-white-lotus-s4.jpg?w=1024",
+            "publishedAt": "2026-04-15T16:09:00Z",
+            "content": "Season 4 of Mike White’s The White Lotushas begun filming on the French Riviera. After weeks of speculation, HBO has confirmed in the start of production announcement that the Cannes Film Festival, w… [+1400 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "David K. Li, Rebekah Daunt",
+            "title": "Actor Ruby Rose alleges pop star Katy Perry sexually assaulted her in Australia in 2010 - NBC News",
+            "description": "Australian actor Ruby Rose accused pop star Katy Perry of sexually assaulting her a decade and a half ago in Melbourne and provincial police confirmed on Wednesday they’re investigating a “historical sexual assault.”When asked about Rose’s claims, Victoria Po…",
+            "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/actor-ruby-rose-alleges-pop-star-katy-perry-sexually-assaulted-austral-rcna331912",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260415-3x2-split-ruby-rose-katy-perry-vl-942a-666754.jpg",
+            "publishedAt": "2026-04-15T15:58:13Z",
+            "content": "Australian actor Ruby Rose accused pop star Katy Perry of sexually assaulting her a decade and a half ago in Melbourne and provincial police confirmed on Wednesday theyre investigating a historical s… [+2370 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "Iran War News Live Updates: Blockade ‘Fully Implemented’ as Mediators Push for U.S.-Iran Ceasefire Extension - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/livecoverage/iran-us-strait-of-hormuz-blockade-updates",
+            "urlToImage": null,
+            "publishedAt": "2026-04-15T15:47:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Nicole Winfield, Nalova Akua",
+            "title": "Pope arrives in Cameroon as separatists announce 3-day pause in fighting - AP News",
+            "description": "Pope Leo XIV has arrived in the central African nation of Cameroon on the second leg of his Africa tour. He's bringing a message of peace to its separatist region, where fighters have announced a three-day pause in fighting. He'll also meet Wednesday with Pre…",
+            "url": "https://apnews.com/article/africa-pope-algeria-cameroon-biya-38cf8f52f94b891467eecf1009a94517",
+            "urlToImage": "https://dims.apnews.com/dims4/default/bca7b09/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbf%2F9d%2F0893e5af6629c26fd5f0b4905419%2F53a52a800a1a401da36cb20b5ec7ea61",
+            "publishedAt": "2026-04-15T15:07:00Z",
+            "content": "YAOUNDE, Cameroon. (AP) Pope Leo XIV arrived Wednesday in the central African nation of Cameroon with a message of peace for its separatist region and for talks with President Paul Biya, the 93-year-… [+4229 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brian Barrett",
+            "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not - WIRED",
+            "description": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
+            "url": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
+            "urlToImage": "https://media.wired.com/photos/69df97b621acbf548f6fdef0/191:100/w_1280,c_limit/GettyImages-1134284112.jpg",
+            "publishedAt": "2026-04-15T14:58:00Z",
+            "content": "On April 7,Allbirds sent out a press release celebrating its new canvas cruiser collection and a partnership with Pantone, the color company. One week later, on April 15, Allbirds sent out a press re… [+2485 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Jarren Duran makes obscene gesture to fan who he says 'told me to kill myself' - NBC News",
+            "description": "Red Sox outfielder Jarren Duran directed an obscene gesture toward a fan at Target Field as he returned to the dugout after a fifth-inning groundout in Boston's 6-0 loss to the Minnesota Twins on Tuesday night.",
+            "url": "https://www.nbcnews.com/sports/mlb/red-sox-outfielder-jarren-duran-obscene-gesture-rcna331949",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260415-Jarren-Duran-gk-647306.jpg",
+            "publishedAt": "2026-04-15T14:49:11Z",
+            "content": "MINNEAPOLIS Red Sox outfielder Jarren Duran directed an obscene gesture toward a fan at Target Field as he returned to the dugout after a fifth-inning groundout in Boston's 6-0 loss to the Minnesota … [+1223 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Haley  Ott, Khaled  Wassef, Joanne  Stocker",
+            "title": "Iran claims oil tanker transits Strait of Hormuz amid U.S. blockade on Iranian ports - CBS News",
+            "description": "Iran's Fars News Agency says a supertanker sailed through international waters and the Strait of Hormuz with its tracking system switched on, \"without any concealment.\"",
+            "url": "https://www.cbsnews.com/news/iran-war-strait-of-hormuz-us-blockade-sanctioned-ships-tankers-transit/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/15/278f8594-3ee8-42e4-b8e4-bbf39730c520/thumbnail/1200x630/b6e9c1266fe0eae43845ce7b10df7013/image-1.png",
+            "publishedAt": "2026-04-15T14:31:00Z",
+            "content": "Iran's state media claimed Wednesday morning that a bulk carrier transporting food supplies and an Iranian crude oil tanker had entered Iranian waters after transiting the Strait of Hormuz, hours aft… [+4866 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heat.com"
+            },
+            "author": "Steve Aschburner",
+            "title": "2026 SoFi NBA Play-In Tournament: Your guide to Wednesday's matchups - NBA",
+            "description": "Key matchups, players to watch and predictions for the SoFi Play-In Tournament games set for Wednesday on Prime Video.",
+            "url": "https://www.nba.com/news/2026-nba-playoffs-play-in-preview-2",
+            "urlToImage": "https://cdn.nba.com/manage/2026/04/curry-leonard.jpg",
+            "publishedAt": "2026-04-15T14:27:35Z",
+            "content": "Tyrese Maxey will bear the brunt of Philly’s offense as it hosts Orlando in Wednesday’s Play-In matchup.\r\nThe second night of this years SoFi NBA Play-In Tournament will determine the No. 7 seed in t… [+4921 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "David Klepper",
+            "title": "Trump urges extending foreign surveillance program as some lawmakers push for US privacy protections - AP News",
+            "description": "There's been a holdup on Capitol Hill in advancing the renewal of a program that lets U.S. spy agencies pore over foreigners’ calls, texts and emails. House Republican leaders hoped to advance the legislation on Wednesday, but an initial procedural step has b…",
+            "url": "https://apnews.com/article/trump-foreign-surveillance-fisa-intelligence-fc13cfaa521e3380539611065a45f112",
+            "urlToImage": "https://dims.apnews.com/dims4/default/66fd2af/2147483647/strip/true/crop/6136x4089+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcd%2F15%2Fe484d601d9209b4b82c786d302d7%2F240185c0825e41c0b351c5489ce9a77a",
+            "publishedAt": "2026-04-15T14:04:00Z",
+            "content": "WASHINGTON (AP) Congress is set to take up the reauthorization of a divisive program that lets U.S. spy agencies pore over foreigners calls, texts and emails, with supporters like President Donald Tr… [+6503 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vulture"
+            },
+            "author": "Erin Qualey",
+            "title": "Margo’s Got Money Troubles Series-Premiere Recap: Ruined My Life So Pretty - Vulture",
+            "description": "Margo (Elle Fanning) is an idealistic college student and writer who chooses to have her baby despite her family and friends’ concerns about how it will alter her life.",
+            "url": "http://www.vulture.com/article/margos-got-money-troubles-recap-season-1-episode-1-apple-tv.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/8c3/403/e7274ec83dde23d4cd4876f606a70d4f1d-margosgotmoney-trouble1.1x.rsocial.w1200.jpg",
+            "publishedAt": "2026-04-15T14:00:25Z",
+            "content": "The intro credits for Margos Got Money Troubles are a whole vibe. Were dropped into a surreal, candy-colored pinball game, created by Peter Anderson Studio. The sequence introduces us to an alien-lik… [+8565 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pew Research Center"
+            },
+            "author": "Michelle Faverio, Eugenie Park, Jeffrey Gottfried",
+            "title": "Teens’ Experiences on TikTok, Instagram and Snapchat - Pew Research Center",
+            "description": "About this research This study is Pew Research Center’s latest effort to explore the landscape of teens and technology today. It focuses on social media and how the views and…",
+            "url": "https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/",
+            "urlToImage": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/04/PI_2026.04.15_teens-TikTok-Instagram-Snapchat_featured.jpg?w=1200&h=628&crop=1",
+            "publishedAt": "2026-04-15T13:55:24Z",
+            "content": "(Laura Olivas/Getty Images)\r\nAbout this research\r\nThis study is Pew Research Centers latest effort to explore the landscape of teens and technology today. It focuses on social media and how the views… [+8039 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gretchen Reynolds",
+            "title": "Want to control your blood sugar? Here’s the best time of day for exercise. - The Washington Post",
+            "description": "A major new review found that the timing of exercise can, in some instances, meaningfully influence how that exercise affects us.",
+            "url": "https://www.washingtonpost.com/wellness/2026/04/15/exercise-timing-blood-sugar/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EQD4HDOEB5BIFJRKB7GKKGCLCI.jpg&w=1440",
+            "publishedAt": "2026-04-15T13:31:26Z",
+            "content": "Is it better to exercise in the morning or afternoon?\r\nThats a bit of a trick question, because exercise at any time of day is better than no exercise."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Mary Whitfill Roeloffs",
+            "title": "Trump Just Posted An AI Image Of Himself With Jesus - Forbes",
+            "description": "A Trump post earlier this week depicting himself as a Jesus-like figure sparked outrage from factions of his conservative base.",
+            "url": "https://www.forbes.com/sites/maryroeloffs/2026/04/15/trump-posts-ai-photo-with-jesus-days-after-he-was-slammed-for-blasphemy/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69df90cc8919203177f0d9a0/0x0.jpg?format=jpg&crop=784,440,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-04-15T13:23:58Z",
+            "content": "The new photo was originally posted by a page on X called Irish for Trump alongside the caption, \"I was never a very religious man .. but doesn't it seem , with all these satanic , demonic , child sa… [+2150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aboutamazon.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "Amazon launches its slimmest ever streaming device, the Fire TV Stick HD - About Amazon",
+            "description": "The more portable HD streaming stick will be available in more than a dozen countries, starting at $34.99 in the U.S.",
+            "url": "https://www.aboutamazon.com/news/devices/fire-tv-stick-hd-slimmest-streaming-device",
+            "urlToImage": "https://assets.aboutamazon.com/dims4/default/f55bdac/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb3%2F96%2F68ca8e744c1fa754c6279f372c7d%2Fabout-amazon-hero-fire-tv-stick-hero-option-2-amazon-news-jp-041026.jpg",
+            "publishedAt": "2026-04-15T12:54:04Z",
+            "content": "The more portable HD streaming stick will be available in more than a dozen countries, starting at $34.99 in the U.S."
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Calen Razor",
+            "title": "Capitol agenda: Cory Mills under fire but not going anywhere - Politico",
+            "description": "The House Ethics Committee’s slow and secretive process is allowing members of both parties to justify waiting to take unprecedented steps to oust one of their colleagues.",
+            "url": "https://www.politico.com/live-updates/2026/04/15/congress/ethics-mills-swalwell-gonzales-cherfilus-mccormick-00872567",
+            "urlToImage": "https://www.politico.com/dims4/default/18163eb/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F8c%2F39%2Fe25170734888abe15f9810918f4f%2Ftrump-27168.jpg",
+            "publishedAt": "2026-04-15T12:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Task & Purpose"
+            },
+            "author": "Matt White",
+            "title": "How a Navy photographer snapped an iconic Artemis II astronaut photo - Task & Purpose",
+            "description": "The photographer who snapped the photos of the Artemis II crew’s return to Earth spent years honing his craft on a Navy aircraft carrier.",
+            "url": "http://taskandpurpose.com/news/august-clawson-artemis-ii-photos/",
+            "urlToImage": "https://taskandpurpose.com/wp-content/uploads/2026/04/Koch-PS-3.jpg?w=1200",
+            "publishedAt": "2026-04-15T12:00:00Z",
+            "content": "The Navy photographer who snapped a defining photo of the Artemis II astronaut crews return to Earth swears he wasnt trying to create an iconic American image. In fact, he barely even recalls taking … [+5490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "David Hollerith",
+            "title": "Bank of America joins big bank peers in reporting rising profits, calls US economy 'resilient' - Yahoo Finance",
+            "description": "Bank of America said on Wednesday that profits leaped 17% from a year ago.",
+            "url": "https://finance.yahoo.com/news/bank-of-america-joins-big-bank-peers-in-reporting-rising-profits-calls-us-economy-resilient-110856654.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rg.qNq5b_mWSymv0_iBT3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-04/2e996280-38bb-11f1-ae6d-bfb97856004b",
+            "publishedAt": "2026-04-15T11:58:25Z",
+            "content": "Bank of America (BAC) said on Wednesday that profits leaped 17% from a year ago.\r\nThe countrys second-largest bank reported profits rose to $8.6 billion, or $1.11 per share, exceeding the $1.01 per s… [+3409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Brittney Melton",
+            "title": "Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations - NPR",
+            "description": "President Trump says new talks with Iran could happen in the next two days. And, Democrat Eric Swalwell faces new allegations as a second woman comes forward accusing him of rape.",
+            "url": "https://www.npr.org/2026/04/15/g-s1-117501/up-first-newsletter-israel-iran-lebanon-us-strait-eric-swalwell-virginia-face-act",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+293/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2F8a%2F44ff5fe44a609e81ac152e7420c8%2Fgettyimages-2270844028.jpg",
+            "publishedAt": "2026-04-15T11:36:17Z",
+            "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7948 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Samy Magdy, Sam Mednick",
+            "title": "Sudan enters a fourth year of war as officials lament an ‘abandoned crisis’ - AP News",
+            "description": "Sudan is entering a fourth year of war marked by famine and massacres in what the United Nations calls an “abandoned crisis.” The conflict between the military and the paramilitary Rapid Support Forces has displaced 13 million people. At least 59,000 people h…",
+            "url": "https://apnews.com/article/sudan-war-military-rsf-anniversary-four-years-32a416bfbd680ea42edf6c0298d2617b",
+            "urlToImage": "https://dims.apnews.com/dims4/default/5741dde/2147483647/strip/true/crop/8416x5608+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2Fd1%2Fffeef9b7a0c273c8e7a85d19fcb4%2F645079a6877c4f57adc7c5cd466aa6d1",
+            "publishedAt": "2026-04-15T11:36:00Z",
+            "content": "PORT SUDAN, Sudan (AP) Famine. Massacres. And now badly needed food and other supplies are under strain. Sudan on Wednesday enters a fourth year of war thats being called an abandoned crisis, as a ne… [+6027 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Edward-Isaac Dovere",
+            "title": "Gavin Newsom faces growing pressure to intervene in a scrambled California governor’s race - CNN",
+            "description": "The scrambled race for California governor left in the wake of Eric Swalwell’s sexual misconduct allegations isn’t officially Gov. Gavin Newsom’s mess. But it’s one that many top Democrats want him to consider trying to clean up.",
+            "url": "https://www.cnn.com/2026/04/15/politics/gavin-newsom-california-governor-eric-swalwell",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2gettyimages-2231388676.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-04-15T11:00:55Z",
+            "content": "The scrambled race for California governor left in the wake of Eric Swalwells sexual misconduct allegations isnt officially Gov. Gavin Newsoms mess. But its one that many top Democrats want him to co… [+6996 chars]"
         },
         {
             "source": {
@@ -69,315 +342,68 @@
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Chun Han Wong, Yang Jie",
-            "title": "China Sharpens Retaliatory Tools Against U.S. Ahead of Trump Summit - WSJ",
-            "description": "Beijing responds to Washington’s trade pressure with broad but vague threats aimed at foreign businesses",
-            "url": "https://www.wsj.com/world/china/china-sharpens-retaliatory-tools-against-u-s-ahead-of-trump-summit-6a3168bc",
-            "urlToImage": "https://images.wsj.net/im-74462595/social",
-            "publishedAt": "2026-04-15T10:07:00Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Science Daily"
             },
             "author": null,
-            "title": "Back button hijacking to be penalised in Google crackdown - bbc.com",
-            "description": "The tech giant said it will punish sites that block back button navigation from June.",
-            "url": "https://www.bbc.com/news/articles/c05dd2yj3z3o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36f9/live/c3f2a8f0-38a7-11f1-bd3c-df67f5a99d2a.jpg",
-            "publishedAt": "2026-04-15T10:02:19Z",
-            "content": "Adam Thompson, director of digital at BCS, the Chartered Institute for IT, told the BBC: \"Practices like back button hijacking undermine the basic user experience and break the expectations people ha… [+123 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Bryan Metzger",
-            "title": "The Trump phone has a new look — but it's still not clear when it will be released - Business Insider",
-            "description": "There's no information on the website about when the phone will be released, and its \"Made in the USA\" claims have been further watered down.",
-            "url": "https://www.businessinsider.com/trump-phone-gets-new-look-release-date-still-unclear-2026-4",
-            "urlToImage": "https://i.insider.com/69de627bd06bf1b9012737c0?width=1200&format=jpeg",
-            "publishedAt": "2026-04-15T09:11:00Z",
-            "content": "The much-anticipated Trump smartphone has a new look. But the eventual release date is less clear than ever, and the phone's initial \"made in the USA\" claims have been watered down even further.\r\nTru… [+1644 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Samuel Petrequin",
-            "title": "Ye postpones Marseille concert after French authorities say they will seek a ban - AP News",
-            "description": "The rapper formerly known as Kanye West has postponed his upcoming show in Marseille. French authorities had planned to ban the concert by Ye due to a history of antisemitic remarks. Ye announced the decision on social media, expressing a desire to make amend…",
-            "url": "https://apnews.com/article/ye-kanye-west-marseille-concert-postponed-a1af91f7cec09df8323b390e74c8ed57",
-            "urlToImage": "https://dims.apnews.com/dims4/default/8b27595/2147483647/strip/true/crop/3500x2332+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2Fd2%2F72f82aac9caedbe7eb0788fcec47%2F833524afde51429fbf6df12c6b9f4977",
-            "publishedAt": "2026-04-15T08:42:00Z",
-            "content": "PARIS (AP) The rapper formerly known as Kanye West postponed his upcoming show in the city of Marseille after French authorities said they would seek to ban the concert.\r\nThe decision by Ye came a we… [+1897 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Elizabeth Melimopoulos",
-            "title": "Iran war: What is happening on day 47 of the US-Iran conflict? - Al Jazeera",
-            "description": "US President Donald Trump has signalled a possible second round of talks with Iran in the coming days.",
-            "url": "https://www.aljazeera.com/news/2026/4/15/iran-war-what-is-happening-on-day-47-of-the-us-iran-conflict",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-14T163439Z_976112371_RC22PKAW8HGQ_RTRMADP_3_IRAN-CRISIS-DAILY-LIFE-1776213879.jpg?resize=1920%2C1440",
-            "publishedAt": "2026-04-15T07:43:57Z",
-            "content": "United States President Donald Trump has said that the war on Iran is very close to over as Israel and Lebanon held rare direct talks in Washington, DC amid continued Israeli attacks in Lebanon.\r\nTru… [+6264 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Ali Swenson, Linley Sanders",
-            "title": "Why many Americans are turning to AI for health advice, according to recent polls - AP News",
-            "description": "Many Americans are turning to artificial intelligence tools such as ChatGPT for health advice. A Gallup poll out Wednesday found that about 1 in 4 U.S. adults had used AI for health information in the past month. The poll comes on the heels of at least three …",
-            "url": "https://apnews.com/article/ai-chatbots-health-care-poll-0ea249aa0db3fa351efa2a76af3a2348",
-            "urlToImage": "https://dims.apnews.com/dims4/default/ffe5026/2147483647/strip/true/crop/4351x2899+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2F87%2F5d2e21375e1aaf32b0f4fd48de66%2F11f5701bfca641b1b3612613e5cf04e5",
-            "publishedAt": "2026-04-15T06:51:48Z",
-            "content": "NEW YORK (AP) When Tiffany Davis has a question about a symptom from the weight-loss injections shes taking, she doesnt call her doctor. She pulls out her phone and consults ChatGPT.\r\nIll just basica… [+5715 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "The Associated Press",
-            "title": "Justice Department moves to toss conspiracy convictions for Jan. 6 rioters - NPR",
-            "description": "The Justice Department on Tuesday asked a federal appeals court to throw out the seditious conspiracy convictions of Proud Boys and Oath Keepers leaders, for their role in the Jan. 6, 2021, U.S. Capitol attack.",
-            "url": "https://www.npr.org/2026/04/15/g-s1-117473/justice-department-toss-seditious-conspiracy",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4172x2347+0+218/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F0b%2Fba92a6bd4b9b8526126bc65a1aa8%2Fap26091535435861.jpg",
-            "publishedAt": "2026-04-15T06:35:45Z",
-            "content": "WASHINGTON The Justice Department on Tuesday asked a federal appeals court to throw out the seditious conspiracy convictions of Proud Boys and Oath Keepers leaders who were sentenced to prison terms … [+3366 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Bill Barrow, Emilie Megnien",
-            "title": "As Vance rallies with Turning Point, some supporters bristle at Trump's war, memes and feuds - AP News",
-            "description": "Vice President JD Vance used a Turning Point USA event to defend President Donald Trump’s aggression in Iran and downplay the resulting tensions between Washington and the Vatican. But some of the attendees at the University of Georgia event on Tuesday were c…",
-            "url": "https://apnews.com/article/vance-pope-leo-donald-trump-jesus-meme-2488d70793a21909b1026ccad0ac42a7",
-            "urlToImage": "https://dims.apnews.com/dims4/default/eefb9b6/2147483647/strip/true/crop/6962x4639+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2F85%2F59615aa4c63deb3816b6d6f9cdb1%2F320bb3cd76aa41b9ac6a7a36003a0674",
-            "publishedAt": "2026-04-15T04:03:00Z",
-            "content": "ATHENS, Georgia (AP) Fresh from a marathon trip to Pakistan that failed to reach a deal for ending the war with Iran, Vice President JD Vance jetted to this Georgia college town for a campus tour org… [+5586 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Authority"
-            },
-            "author": null,
-            "title": "Google rolls out April Android Canary build with experimental features for Pixel devices - Android Authority",
-            "description": "Google has released Android Canary 2604, an experimental developer build with early features that may or may not reach stable Android.",
-            "url": "https://www.androidauthority.com/android-canary-april-2026-update-3657604/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/04/Android-robot-on-smartphone-next-to-other-devices-and-accessories-3.jpg",
-            "publishedAt": "2026-04-15T03:47:09Z",
-            "content": "<ul><li>Google has released the April Android Canary build with new experimental features for Pixel 8 and above.</li><li>New UI tweaks include a Youre all caught up message in the notification shade … [+1733 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Armando Tinoco",
-            "title": "‘The Voice’ Season 29 Winner Crowned On NBC - Deadline",
-            "description": "The Voice has crowned a new winner on NBC as Season 29 wrapped its season of \"Battle of Champions.\"",
-            "url": "http://deadline.com/2026/04/the-voice-season-29-winner-nbc-1236861145/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/the-voice-season-29-winner.png?w=1024",
-            "publishedAt": "2026-04-15T03:26:00Z",
-            "content": "SPOILER ALERT: This post contains the winner of The Voice Season 29, which was revealed on Tuesday, April 14.\r\nThe Voice has crowned a new winner on NBC as Season 29 wrapped its season of “Battle of … [+2700 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Praveena Somasundaram",
-            "title": "What Swalwell’s exit means for Democrats in California’s governor race - The Washington Post",
-            "description": "Billionaire Tom Steyer and ex-congresswoman Katie Porter stand to benefit the most in a Democratic field with no clear front-runner, several strategists said.",
-            "url": "https://www.washingtonpost.com/politics/2026/04/14/california-governor-race-swalwell-steyer-porter/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/JGESBEY4XAQZVLOQY6M5F35IOI.jpg&w=1440",
-            "publishedAt": "2026-04-15T03:10:24Z",
-            "content": "Rep. Eric Swalwells scandal-tainted departure from the California governors race has given new life to a crowded group of contenders but has also exposed a surprisingly weak Democratic bench in the c… [+32 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Steve Reed",
-            "title": "LaMelo Ball's layup, Miles Bridges' block at buzzer give Hornets 127-126 win over Heat in play-in - AP News",
-            "description": "LaMelo Ball made a layup with 4.7 seconds left in overtime, Miles Bridges blocked Davion Mitchell’s attempt at a winning layup at the buzzer, and the Charlotte Hornets beat Miami 127-126 in a wild start to the NBA’s play-in games, eliminating the Heat from th…",
-            "url": "https://apnews.com/article/heat-hornets-score-869a63def0dfcf379df7a96507469386",
-            "urlToImage": "https://dims.apnews.com/dims4/default/6987ebd/2147483647/strip/true/crop/4652x3100+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2Fa1%2F82783fc61c68a48302bb788782de%2Fad2108baf00f4499b6da6b247075c719",
-            "publishedAt": "2026-04-15T02:50:00Z",
-            "content": "CHARLOTTE, N.C. (AP) LaMelo Ball made a layup with 4.7 seconds left in overtime, Miles Bridges blocked Davion Mitchells attempt at a winning layup at the buzzer, and the Charlotte Hornets beat Miami … [+2128 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Jennifer Scholtes, Jordain Carney, Katherine Tully-McManus",
-            "title": "GOP leaders struggle to keep $75B immigration plan narrow - Politico",
-            "description": "Hoping to move ahead next week on their party-line package, senior Republicans are still hearing from GOP lawmakers insisting the bill needs to be broader.",
-            "url": "https://www.politico.com/news/2026/04/14/republican-reconciliation-dhs-funding-00872470",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe1%2F17%2F4a19fb7c4d22b18d0ed02038e315%2Fu-s-congress-93702.jpg",
-            "publishedAt": "2026-04-15T02:15:46Z",
-            "content": "And thats why you sense some frustration among a lot of the senators, he added. Some of which has been voiced and a lot of which it hasnt.\r\nSenate Majority Leader John Thune laid out the up-to $75 bi… [+2919 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "IndieWire"
-            },
-            "author": "Brian Welk",
-            "title": "Tom Cruise as ‘Digger’ Is an Aging Blowhard Oil Man — and the Highlight of Warner Bros.’ CinemaCon - IndieWire",
-            "description": "Tom Cruise as 'Digger' is the highlight of Warner Bros.' CinemaCon presentation. See everything we saw.",
-            "url": "https://www.indiewire.com/news/breaking-news/tom-cruise-digger-warner-bros-cinemacon-roundup-1235188959/",
-            "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/01/Digger.png?w=650",
-            "publishedAt": "2026-04-15T02:12:59Z",
-            "content": "Warner Bros. took a big victory lap at CinemaCon this year, well-deserved after making $4 billion at the global box office with nine straight No. 1 hits. To keep that energy going, the studio brought… [+8096 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Woman killed by police at Omaha Walmart after allegedly kidnapping, slashing child - CBS News",
-            "description": "Omaha police fatally shot a woman they say kidnapped a young boy and slashed him across the face before killing her.",
-            "url": "https://www.cbsnews.com/news/omaha-nebraska-police-kill-woman-slashed-child-knife-walmart/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/15/89e03e32-bd60-4e50-ae74-f82ba7a1df76/thumbnail/1200x630/a49f1393492b02ba055d7498a9d1aee0/ap26104797103703.jpg",
-            "publishedAt": "2026-04-15T00:55:03Z",
-            "content": "Omaha police on Tuesday shot and killed a woman they say slashed a young boy with a knife outside of a Walmart after taking him from another woman inside the store.\r\nThe suspect approached a female s… [+2150 chars]"
+            "title": "95% of people carry this virus and scientists may have just found how to stop it - ScienceDaily",
+            "description": "Scientists have taken a major step toward stopping Epstein-Barr virus (EBV), an extremely common infection linked to cancer and chronic disease. By using mice engineered with human antibody genes, researchers created powerful human-like antibodies that block …",
+            "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/1920/epstein-barr-virus-ebv.webp",
+            "publishedAt": "2026-04-15T07:28:37Z",
+            "content": "Fred Hutch Cancer Center researchers have made a significant advance in the effort to block Epstein Barr virus (EBV), a widespread infection that affects about 95% of people worldwide and is linked t… [+4736 chars]"
         },
         {
             "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "John Anderson",
-            "title": "‘Return to the Moon’ Review: Artemis II’s Achievement on PBS - WSJ",
-            "description": "This ‘NOVA’ presentation examines the risks, accomplishments and geopolitical pressures involved in NASA’s recent lunar flyby mission.",
-            "url": "https://www.wsj.com/arts-culture/television/return-to-the-moon-review-the-achievement-of-artemis-ii-on-pbs-4fc23ef4",
-            "urlToImage": "https://opinion-images.wsj.net/im-56540267/social",
-            "publishedAt": "2026-04-14T21:13:00Z",
-            "content": "Americans didnt actually land on the moon last week, despite some congratulations to the contrary, and Artemis II didnt quite captivate the full attention of a country distracted by global strife and… [+774 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Eric Moody",
-            "title": "Betting tips, DFS picks for Tuesday's NBA play-in tournament games - ESPN",
-            "description": "Eric Moody breaks down Tuesday's NBA play-in tournament games and offers his favorite bets and DFS plays.",
-            "url": "https://www.espn.com/fantasy/basketball/story/_/id/48485373/daily-fantasy-basketball-tips-nba-betting-odds-picks-dfs-tuesday-play-4-14-2026",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0414%2Fr1643413_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-04-14T18:26:00Z",
-            "content": "ESPN's fantasy basketball daily cheat sheet is your pregame destination before you set your lineups for that night's games. Here you'll read our best advice for the night, including a selection of pl… [+5113 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Sarah Klein",
-            "title": "The surprising ways cannabis may affect the aging brain - The Washington Post",
-            "description": "As more states legalize recreational marijuana use, here’s what the research says about what cannabis is really doing to your brain.",
-            "url": "https://www.washingtonpost.com/wellness/2026/04/14/cannabis-brain-health/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XFN2VDX64ZIE5IURSZ6JUAM6TI.jpg&w=1440",
-            "publishedAt": "2026-04-14T16:00:00Z",
-            "content": "Marijuana use seems to be more popular (or at least more openly talked about) than ever. Regardless of whether youre on the gummy bandwagon, you might wonder how it really affects your brain after th… [+16 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Meg Tirrell",
-            "title": "Some people don’t lose weight with GLP-1s. Evidence is building that the drugs are helping anyway - CNN",
-            "description": "The majority of people who start taking GLP-1 medicines with the hope of losing weight, the drugs can quiet cravings and help them shed stubborn pounds. But research is also continuing to reveal GLP-1 medicines’ benefits independent of weight loss — even if p…",
-            "url": "https://www.cnn.com/2026/04/14/health/glp1-liver-health-benefits-weight-loss",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25031492833603.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-04-14T15:00:55Z",
-            "content": "For the majority of people who start taking GLP-1 medicines with the hope of losing weight, the drugs can feel almost miraculous: Cravings are quieted. Exercise can become easier and more fun. Pounds… [+5956 chars]"
+            "author": "Shelby Holliday",
+            "title": "Commercial Ships Transit Strait of Hormuz as U.S. Blockades Iran’s Ports - WSJ",
+            "description": "More than 20 commercial ships have passed through the Strait of Hormuz in the past 24 hours, according to two U.S. officials. While commercial traffic is still a fraction of what it was before the war, the flow of vessels is an improvement through a critical …",
+            "url": "https://www.wsj.com/livecoverage/iran-us-cease-fire-talks-stalled-2026/card/commercial-ships-transit-strait-of-hormuz-as-u-s-blockades-iran-s-ports-O33DFCUGyFhKeFNXniVe",
+            "urlToImage": "https://images.wsj.net/im-12156092/social",
+            "publishedAt": "2026-04-15T07:17:15Z",
+            "content": "More than 20 commercial ships have passed through the Strait of Hormuz in the past 24 hours, according to two U.S. officials. While commercial traffic is still a fraction of what it was before the wa… [+878 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "AL.com"
             },
-            "author": "Elizabeth Howell",
-            "title": "Artemis 2 calling ISS! Watch the farthest-ever astronaut call from the moon to Earth (video) - Space",
-            "description": "Astronauts aboard Artemis 2 and the ISS connected across a record-breaking Earth–moon distance in the farthest crew call ever made in space.",
-            "url": "https://www.space.com/space-exploration/artemis/watch-the-farthest-ever-crew-call-in-space-between-artemis-2-and-the-iss",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/3MSpSDyanCvHiupfFqjtL6-1920-80.jpg",
-            "publishedAt": "2026-04-14T12:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "The Hacker News",
-            "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users - The Hacker News",
-            "description": "108 Chrome extensions routed stolen Google and Telegram data to shared C2 infrastructure, impacting 20,000 users.",
-            "url": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEOmjr311c0yBDI593joFXQLaRdpm6DY67lbFv83YcYlRHaJkpocwXjDZDsV9F9DM-SavZwCOZ-fg10ncUJyW3ODlfBjqG6aK_ytdBfvXFGLswxeJ69oiZXfhGKdCgVO0Angg_qlYB6oAZYo-JQRKn4toBGWcS7OTDwPV0rkus7eNw-9BllIGJa2nkeKXn/s1600/chrome-telegram.jpg",
-            "publishedAt": "2026-04-14T08:35:00Z",
-            "content": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with th… [+3097 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Francie Ebert",
-            "title": "Heartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog - NBC News",
-            "description": "Being separated from your dog can be ruff, especially if that separation includes being launched into space, but that makes the reunion all the more pawsome.",
-            "url": "https://www.nbcnews.com/news/us-news/heartwarming-video-shows-artemis-ii-astronaut-christina-koch-reuniting-rcna331611",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260413-christina-koch-dog-mn-1630-a1c6e0.jpg",
-            "publishedAt": "2026-04-13T21:05:40Z",
-            "content": "Being separated from your dog can be ruff, especially if that separation includes being launched into space, but that makes the reunion all the more pawsome. \r\nSubscribe to read this story ad-free \r\n… [+1628 chars]"
+            "author": "Mary Colurso | mcolurso@al.com",
+            "title": "Alabama’s Alexia Jayy wins ‘The Voice’: ‘No one more deserving of this honor’ - AL.com",
+            "description": "The R&B singer from Mobile County is the second Alabama contestant to win the crown on the NBC reality series.",
+            "url": "https://www.al.com/life/2026/04/alabamas-alexia-jayy-wins-the-voice-no-one-more-deserving-of-this-honor.html",
+            "urlToImage": "https://www.al.com/resizer/v2/ODIFAHD2GVALDM5GO6DXSGTEZM.jpg?auth=d4829e67cf671837c000c2d6be13f06384cc646816122d26ef0e284f37301587&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-04-15T04:53:00Z",
+            "content": "Alabamas Alexia Jayy is the new winner of The Voice, earning the coveted crown on Tuesday during the Season 29 finale. \r\nJayy, a powerhouse R&amp;B singer from Mobile County, is the second Alabama co… [+6509 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ed Cara",
-            "title": "A Diarrhea-Causing Superbug Is on the Rise, Health Officials Warn - Gizmodo",
-            "description": "Shigella bacteria are increasingly resisting all antibiotics that can easily treat them, a recent report shows.",
-            "url": "https://gizmodo.com/a-diarrhea-causing-superbug-is-on-the-rise-health-officials-warn-2000745651",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Shigella-bacteria-1200x675.jpg",
-            "publishedAt": "2026-04-13T18:30:29Z",
-            "content": "Gird your toilets, everyone: superbug strains of Shigella bacteria, a common diarrhea-causing infection, are becoming a larger problem.\r\nFederal and state health officials detailed the trend in a rec… [+3833 chars]"
+            "author": "Passant Rabie",
+            "title": "A Fresh Scar on the Moon: Newly Discovered Crater Reveals Recent Impact - Gizmodo",
+            "description": "A space rock smashed into the lunar surface in late spring 2024.",
+            "url": "https://gizmodo.com/a-fresh-scar-on-the-moon-newly-discovered-crater-reveals-recent-impact-2000746143",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/lunar-impact-1200x675.jpg",
+            "publishedAt": "2026-04-14T14:30:56Z",
+            "content": "The Moon is constantly being bombarded by traveling space rocks, its surface recording each collision in the form of craters that never fade in the absence of wind or surface water. Most lunar crater… [+2704 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "Medical Xpress"
             },
-            "author": "Robert Z. Pearlman",
-            "title": "Huge Northrop Grumman Cygnus XL cargo ship arrives at space station - Space",
-            "description": "Robotic capture of the S.S. Steven R. Nagel took place at 1:20 p.m. EDT on Monday (April 13).",
-            "url": "https://www.space.com/space-exploration/international-space-station/northrop-grumman-cygnus-cargo-craft-arrives-at-space-station",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nPVCuhYb5jZ6Hkvu7vCCNY-1920-80.jpg",
-            "publishedAt": "2026-04-13T17:31:19Z",
-            "content": null
+            "author": "Radiological Society of North America",
+            "title": "People who consume ultra-processed foods have worse muscle health, study suggests - Medical Xpress",
+            "description": "Researchers found that a diet high in ultra-processed foods is associated with higher amounts of fat stored inside thigh muscles, regardless of calorie or fat intake, physical activity or sociodemographic factors in a population at risk for knee osteoarthriti…",
+            "url": "https://medicalxpress.com/news/2026-04-people-consume-ultra-foods-worse.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/people-who-consume-ult.jpg",
+            "publishedAt": "2026-04-14T14:00:01Z",
+            "content": "Researchers found that a diet high in ultra-processed foods is associated with higher amounts of fat stored inside thigh muscles, regardless of calorie or fat intake, physical activity or sociodemogr… [+5238 chars]"
         }
     ]
 }

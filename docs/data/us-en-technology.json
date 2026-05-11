@@ -1,19 +1,240 @@
 {
     "status": "ok",
-    "totalResults": 67,
+    "totalResults": 68,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Pokebeach.com"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": "Water Pokémon Master",
-            "title": "Mega Chandelure ex and More Cards from \"Abyss Eye\" Revealed! - PokeBeach",
-            "description": "Several cards from Abyss Eye have just been revealed during Champion's League Aichi! The set releases in Japan on May 22nd. Its cards will be used",
-            "url": "https://www.pokebeach.com/2026/05/mega-chandelure-ex-and-more-cards-from-abyss-eye-revealed",
-            "urlToImage": "https://www.pokebeach.com/news/2026/05/Mega-Chandelure-ex-SIR.png",
-            "publishedAt": "2026-05-10T06:21:56Z",
-            "content": "Several cards from Abyss Eye have just been revealed during Champion's League Aichi! The set releases in Japan on May 22nd. Its cards will be used for our English set Pitch Black in July. Thanks goes… [+3044 chars]"
+            "author": "Mark Gurman",
+            "title": "Apple to Make Design Changes in macOS 27 to Address Tahoe Quirks - Bloomberg",
+            "description": "Also: The latest on iOS 27 and the truth about the Vision Pro.",
+            "url": "https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9xFhtZsO4tM/v1/1200x800.jpg",
+            "publishedAt": "2026-05-10T14:00:01Z",
+            "content": "Apple is planning design changes for macOS 27 this year to fix some quirks in macOS 26 Tahoe. Also: The company is testing a feature to automatically organize groups of tabs in the Safari browser. An… [+178 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Cricut’s $99 craft cutting machine helped me feel creative again - The Verge",
+            "description": "The Joy 2 is an affordable, capable machine for cutting and drawing crafts at home. However, its companion app isn’t as beginner-friendly as Cricut claims.",
+            "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268504_Cricut_Joy_2_SVasani_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-10T14:00:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Cricut Joy 2 is delivers quick, satisfying results, though the companion apps onboarding could use some work.\r\nThe Cricut Joy 2 is delivers quick, satisfying… [+5460 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Heather Schwedel",
+            "title": "I Knew Shopping for a Wedding Dress Would Be Hard. I Didn’t Expect It to Go Like This. - Slate",
+            "description": "I’ve seen hundreds of dresses that defy the laws of physics.",
+            "url": "https://slate.com/culture/2026/05/wedding-dress-shopping-ai-fake.html",
+            "urlToImage": "https://compote.slate.com/images/82812f13-488b-419b-857a-778c9aff5dcd.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2026-05-10T14:00:00Z",
+            "content": "Here are a few small things no one told me about wedding dress shopping. No one told me that most of it is by appointment only, and you have to pay for some of those appointments. No one told me that… [+18386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Lewis Parker",
+            "title": "Rifle Finally Unlocked In Bully 20 Years Later Thanks To Wild Glitch - Kotaku",
+            "description": "It's imperative that we not let this news reach Jack Thompson",
+            "url": "https://kotaku.com/newly-discovered-exploit-for-rockstars-bully-exploit-lets-you-unlock-lets-you-finally-unlock-bb-rifle-20-years-later-2000694646",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/10/0ueDx9hZX1VftHOha-1200x675.jpg",
+            "publishedAt": "2026-05-10T13:44:30Z",
+            "content": "Over the past six months, one man has essentially dedicated his life to attempting to beat Rockstar Games 2006 open-world classic Bully without hurting a single NPC. Ironically, his pacifist quest ha… [+1875 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Videocardz.com"
+            },
+            "author": null,
+            "title": "AMD DGF SuperCompression cuts geometry storage size by up to 22% - VideoCardz.com",
+            "description": "AMD’s DGF SuperCompression reduces asset size for future GPU support AMD has released DGF SDK 1.2, adding a new feature called DGF SuperCompression. The",
+            "url": "https://videocardz.com/newz/amd-dgf-supercompression-cuts-geometry-storage-size-by-up-to-22",
+            "urlToImage": "https://cdn.videocardz.com/1/2026/05/AMD-DGF-SUPER-COMPRESSION-HERO.jpg",
+            "publishedAt": "2026-05-10T13:02:40Z",
+            "content": "AMD has released DGF SDK 1.2, adding a new feature called DGF SuperCompression. The update is aimed at reducing the storage footprint of geometry data used by Dense Geometry Format, AMDs block-based … [+1940 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "The Hacker News",
+            "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak - The Hacker News",
+            "description": "Critical out-of-bounds read in Ollama before 0.17.1 leaks process memory including API keys from over 300000 servers via crafted GGUF files.",
+            "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s16000/oll.jpg",
+            "publishedAt": "2026-05-10T12:41:00Z",
+            "content": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory.… [+6893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gematsu"
+            },
+            "author": "Sal Romano",
+            "title": "PLAYISM and Rusted Moss developer announce ‘momentum Metroidvania’ game Iron Bramble for PC - Gematsu",
+            "description": "Publisher PLAYISM, Rusted Moss developer Emlise, and developer Mini Bunnies have announced Iron Bramble, a momentum-based Metroidvania game. It will launch for PC via Steam in 2027 with English, Sp…",
+            "url": "https://www.gematsu.com/2026/05/playism-and-rusted-moss-developer-announce-momentum-metroidvania-game-iron-bramble-for-pc",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/05/Iron-Bramble-Ann_05-10-26.jpg",
+            "publishedAt": "2026-05-10T12:12:40Z",
+            "content": "Publisher PLAYISM, Rusted Moss developer Emlise, and developer Mini Bunnies have announced Iron Bramble, a momentum-based Metroidvania game. It will launch for PC via Steam in 2027 with English, Span… [+3347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Marko Mikulic",
+            "title": "What Are The Differences Between The Ford And GM 10-Speed Automatic Transmissions? - Jalopnik",
+            "description": "Ford and GM 10-speed automatic transmissions share the same core architecture, but they use different fluids, software, and even some internal parts.",
+            "url": "https://www.jalopnik.com/2164987/difference-between-ford-gm-10-speed-transmission/",
+            "urlToImage": "https://www.jalopnik.com/img/gallery/what-are-the-differences-between-the-ford-and-gm-10-speed-automatic-transmissions/l-intro-1777987389.jpg",
+            "publishedAt": "2026-05-10T12:05:00Z",
+            "content": "Ford's problems started almost immediately after the 10R80 debuted in 2017. The biggest complaints about Ford's 10-speed transmission center on the CDF drum a rotating assembly housing the C, D, and … [+1595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "Aaron Greenbaum",
+            "title": "Not Apple TV, Not Fire TV Stick: This Streaming Device Gets Consumer Reports' Top Rating - bgr.com",
+            "description": "When it comes to top streaming devices, many might point to the Apple TV or the Amazon Fire TV Stick, but according to Consumer Reports, another device wins.",
+            "url": "https://www.bgr.com/2163875/consumer-reports-top-rated-streaming-device-nvidia-shield/",
+            "urlToImage": "https://www.bgr.com/img/gallery/not-apple-tv-not-fire-tv-stick-this-streaming-device-gets-consumer-reports-top-rating/l-intro-1777846947.jpg",
+            "publishedAt": "2026-05-10T11:47:00Z",
+            "content": "Many people rely on streaming services for entertainment, so much so that streaming apps are often built into smart TVs. However, don't count out devices like the Amazon Fire TV Stick just yet, as th… [+1359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "Toria Sheffield",
+            "title": "Study Shows 75% of Americans Prefer to Text Instead of Call Their Moms on Mother’s Day - AOL.com",
+            "description": "The new study also revealed the top 10 U.S. cities where people call and text their moms the most on Mother’s Day",
+            "url": "https://people.com/75-percent-of-americans-prefer-to-text-instead-of-call-their-moms-on-mothers-day-study-11969958",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/16B72EE1941C440FE6084AE1C84A939963BF39D3540051C6C090154967915D6A/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_people_articles_471%2F6f3b64cd3956f938b69ab372ba8c8838",
+            "publishedAt": "2026-05-10T11:43:20Z",
+            "content": "<ul><li>A new study from AT&amp;T found that Americans now send roughly three texts to their moms for every one phone call made on Mothers Day\r\n</li><li>Houston, San Antonio and Chicago ranked as the… [+2307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": null,
+            "title": "Samsung Messages is almost dead, and Google Messages is still missing 5 big features - Android Authority",
+            "description": "Samsung Messages is shutting down this summer. Users aren't happy about it. Here are five things our readers say they'll miss about the app.",
+            "url": "https://www.androidauthority.com/samsung-messages-features-still-missing-from-google-messages-3664303/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/04/samsung-messages-app-logo-2026-1-scaled.jpg",
+            "publishedAt": "2026-05-10T11:43:05Z",
+            "content": "Samsung Messages is shutting down in a matter of weeks. Starting in July, the app will no longer be supported, and Samsung will push users to switch to Google Messages instead. As it turns out, Samsu… [+4394 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Videocardz.com"
+            },
+            "author": null,
+            "title": "Creator reports melted ASRock RX 9070 XT connector, his RTX 4090 also melted two years earlier - VideoCardz.com",
+            "description": "TerraWare PC reports melted ASRock RX 9070 XT power adapter TerraWare PC has reported a melted 16-pin power connector on an ASRock Radeon RX 9070 XT",
+            "url": "https://videocardz.com/newz/creator-reports-melted-asrock-rx-9070-xt-connector-his-rtx-4090-also-melted-two-years-earlier",
+            "urlToImage": "https://cdn.videocardz.com/1/2026/05/ASROCK-12V_2X6-POWER-CONNECTOR-MELTED.jpg",
+            "publishedAt": "2026-05-10T11:42:40Z",
+            "content": "TerraWare PC has reported a melted 16-pin power connector on an ASRock Radeon RX 9070 XT Taichi. The creator said the connector melted while he was capturing footage for an upcoming YouTube video. Th… [+979 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phoronix"
+            },
+            "author": null,
+            "title": "Axboe Hacking On New Linux Patches For 60% Increase To Per-Core I/O Performance - Phoronix",
+            "description": "Following a presentation at last week's Linux storage, file-system, memory management and BPF summit (LSFMM) in Croatia where Linux I/O overhead compared to the Storage Performance Development Kit (SPDK) was presented, Jens Axboe was motivated to pursue some …",
+            "url": "https://www.phoronix.com/news/Axboe-60p-Faster-Per-Core-Perf",
+            "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=axboe_60p",
+            "publishedAt": "2026-05-10T11:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Push Square",
+            "title": "Sony Wants to Turn Your PS5 Gameplay into Highlight Reels - Using AI - Push Square",
+            "description": "\"Let's see that again\"",
+            "url": "https://www.pushsquare.com/news/2026/05/sony-wants-to-turn-your-ps5-gameplay-into-highlight-reels-using-ai",
+            "urlToImage": "https://images.pushsquare.com/05ab4d9e360f1/large.jpg",
+            "publishedAt": "2026-05-10T10:30:00Z",
+            "content": "Image: Push Square\r\nA new PlayStation patent filed in 2023 but made public this month reveals a new AI assisted technology that would generate highlight reels based on your gameplay.\r\nAs spotted by M… [+1776 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "José Adorno",
+            "title": "5 Cool USB-C Gadgets You Should Plug Into Your New iPad - bgr.com",
+            "description": "The USB-C port on your iPad is good for more than just charging your device, as you can use these devices to get the most out of your tablet.",
+            "url": "https://www.bgr.com/2163872/cool-usb-c-gadgets-plug-into-with-new-ipad/",
+            "urlToImage": "https://www.bgr.com/img/gallery/5-cool-usb-c-gadgets-you-should-plug-into-your-new-ipad/l-intro-1777056020.jpg",
+            "publishedAt": "2026-05-10T10:17:00Z",
+            "content": "Apple promotes that all iPad models feature an all-day battery, which can be misleading depending on how you use your tablet. A solid backup option is to carry a powerful power bank. While regular iP… [+1050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pokemon GO Hub"
+            },
+            "author": "kittypokemonsalot",
+            "title": "Pokémon GO Events This Week: 11 – 17 May 2026 - Pokémon GO Hub",
+            "description": "Pokémon GO’s May 11-17 week sees us enter the final month of the season of Memories in Motion! Welcome Spring with the Spring Marathon, and enjoy Deino Community Day Classic. Plus the weekly rotating Raid Hours, Dynamax Battles and Mega Raids. ⭐Highlights Rai…",
+            "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-11-17-may-2026/",
+            "urlToImage": "https://pokemongohub.net/wp-content/uploads/2022/06/deino-family-image.jpg",
+            "publishedAt": "2026-05-10T08:53:06Z",
+            "content": "Pokémon GOs May 11-17 week sees us enter the final month of the season of Memories in Motion! Welcome Spring with the Spring Marathon, and enjoy Deino Community Day Classic.\r\nPlus the weekly rotating… [+4213 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Videocardz.com"
+            },
+            "author": null,
+            "title": "Gigabyte GeForce buyer gets Radeon cooler, five months ago another user got the opposite - VideoCardz.com",
+            "description": "GeForce Radeon card found (again) Gigabyte RTX 5060 Ti with Radeon shroud could finally meet its Radeon twin with GeForce cooler. A Reddit user who bought",
+            "url": "https://videocardz.com/newz/gigabyte-geforce-buyer-gets-radeon-cooler-five-months-ago-another-user-got-the-opposite",
+            "urlToImage": "https://cdn.videocardz.com/1/2026/05/GIGABYTE-RADEON-GEFORCE-CARD-HERO2.jpg",
+            "publishedAt": "2026-05-10T08:02:40Z",
+            "content": "Gigabyte RTX 5060 Ti with Radeon shroud could finally meet its Radeon twin with GeForce cooler.\r\nA Reddit user who bought a Gigabyte GeForce RTX 5060 Ti from Canada Computers found an unusual assembl… [+1471 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Alvin Reyes",
+            "title": "GM's Rare Quadrasteer System For Pickup Trucks Was Innovative (And A Massive Failure) - Jalopnik",
+            "description": "The Quadrasteer system from GM drew plenty of praise when it debuted, but only lasted a few years. Here's why it never caught on.",
+            "url": "https://www.jalopnik.com/2164412/gm-quadrasteer-innovative-failure/",
+            "urlToImage": "https://www.jalopnik.com/img/gallery/gms-rare-quadrasteer-system-for-pickup-trucks-was-innovative-and-a-massive-failure/l-intro-1777585947.jpg",
+            "publishedAt": "2026-05-10T04:25:00Z",
+            "content": "Unfortunately, GM might have shot itself in the foot when it made Quadrasteer a $7,000 option package for the 2002 model year, as noted in a 2005 postmortem by Wards Auto. As expected, buyers ignored… [+1082 chars]"
         },
         {
             "source": {
@@ -44,6 +265,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Screen Rant"
+            },
+            "author": "James Lynch",
+            "title": "Batman: Arkham Trilogy Officially Returns In New DLC - ScreenRant",
+            "description": "The Arkham trilogy is one of the most iconic series in superhero gaming history, and it's returning in an entirely new form.",
+            "url": "https://screenrant.com/batman-arkham-trilogy-officially-returns-in-new-dlc/",
+            "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/ss_5da3185e4f7da999300555747be6b84b8f16164f-1920x1080.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-05-10T00:00:00Z",
+            "content": "As superhero adaptations go, Batmanhas had some real high points over the years that really did capture what it means to be the Caped Crusader, fighting the evil underbelly of Gotham City as we go. F… [+2269 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Nintendo Life"
             },
             "author": "Nintendo Life",
@@ -57,15 +291,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Top Gear"
+                "name": "Netcarshow.com"
             },
-            "author": "Top Gear",
-            "title": "Welcome to the Fenomeno Roadster: the fastest ever roofless Lamborghini - Top Gear",
-            "description": "How does 211mph and a 0-62mph time of 2.4s sound? Yeah, like an angry V12",
-            "url": "https://www.topgear.com/car-news/supercars/welcome-fenomeno-roadster-fastest-ever-roofless-lamborghini",
-            "urlToImage": "https://www.topgear.com/sites/default/files/images/news-article/2026/05/ded9e33ee9e4f2303d1916ac4f7272d4/3_b_mod.jpg?w=1280&h=720",
-            "publishedAt": "2026-05-09T20:00:00Z",
-            "content": "SupercarsHow does 211mph and a 0-62mph time of 2.4s sound? Yeah, like an angry V12\r\nThis is the Lamborghini Fenomeno Roadster. You can technically describe it as an automobile; a means of travelling … [+2736 chars]"
+            "author": null,
+            "title": "Lamborghini Fenomeno Roadster (2027) - NetCarShow.com",
+            "description": "Lamborghini Fenomeno Roadster features a completely new aerodynamic package compared to the Coupe, designed to ensure maximum performance even without the roof.",
+            "url": "https://www.netcarshow.com/lamborghini/2027-fenomeno_roadster/",
+            "urlToImage": "https://www.netcarshow.com/Lamborghini-Fenomeno_Roadster-2027-1280-b83a391117321ba1f2ce3024a0a917b0af.jpg",
+            "publishedAt": "2026-05-09T21:44:09Z",
+            "content": "Automobili Lamborghini presents its latest Few Off model, the Fenomeno Roadster. Just 15 units are scheduled to be built, each featuring a V12 hybrid powertrain that can deliver a total of 1080 CV. T… [+14616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Lawrence Abrams",
+            "title": "JDownloader site hacked to replace installers with Python RAT malware - BleepingComputer",
+            "description": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan.",
+            "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/05/09/jdownloader-header.jpg",
+            "publishedAt": "2026-05-09T19:27:58Z",
+            "content": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-base… [+5275 chars]"
         },
         {
             "source": {
@@ -109,6 +356,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Thomas Claburn",
+            "title": "Chrome AI privacy wording changed. Should users worry? - The Register",
+            "description": "Deletion of a longstanding privacy assurance sparks concerns",
+            "url": "https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580",
+            "urlToImage": "https://image.theregister.com/1622689.jpg?imageId=1622689&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-05-09T17:57:11Z",
+            "content": "Google has changed Chrome's disclosure language about how its on-device AI works, but that doesn't mean the company intends to capture on-device AI interactions.\r\nThe Chrome menu modification, which … [+4470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "Europe May Soon Get a Non-U.S. Alternative to Unreal Engine - Gizmodo",
+            "description": "But it sounds like it will be built with AI.",
+            "url": "https://gizmodo.com/europe-may-soon-get-a-non-u-s-alternative-to-unreal-engine-2000756702",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/video-game-mockup-1200x675.jpg",
+            "publishedAt": "2026-05-09T17:39:02Z",
+            "content": "For Americans, following European news can feel like trying to follow a soccer game on your neighbors TV while in your own living room there are two simultaneous gunfights, a nu-metal concert, and so… [+2667 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Kotaku"
             },
             "author": "Lewis Parker",
@@ -131,6 +404,19 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/05/wiiupdatewednesday.jpg",
             "publishedAt": "2026-05-09T17:00:27Z",
             "content": "Like most retro gaming fiends, Matt Johnson and Jay McCarrol were eating well in the Wii era. Better known as Nirvanna the Band, the two uploaded comedy shorts online before landing a TV show and hit… [+2401 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Maya Posch",
+            "title": "Machining A Two-Stroke Engine Out Of Aluminium - Hackaday",
+            "description": "Recently [Camden Bowen] took a swing at machining a two-stroke engine out of billet aluminium, following adventures in 3D printing such an engine, as well as building one out of parts largely sourc…",
+            "url": "https://hackaday.com/2026/05/09/machining-a-two-stroke-engine-out-of-aluminium/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/05/diy_two-stroke_engine_running_camden_brown_youtube.jpg",
+            "publishedAt": "2026-05-09T17:00:00Z",
+            "content": "Not sure where you got the idea that this engine was entirely aluminum,if youre too lazy to watch a video you probably should refrain from posting unqualified uninformed criticism.\r\nThis maker used b… [+1115 chars]"
         },
         {
             "source": {
@@ -161,15 +447,41 @@
         {
             "source": {
                 "id": null,
-                "name": "Geeky Gadgets"
+                "name": "Softonic"
             },
-            "author": "Roland Hutchinson",
-            "title": "Samsung Finally Fixed the Fold: First Look at the Z Fold 8 Wide Design - Geeky Gadgets",
-            "description": "Get a first look at the Samsung Galaxy Z Fold 8 Wide design changes, including a refined dual-camera setup and updated screen dimensions.",
-            "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-wide-design-2/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/samsung-fold-8-display.jpg",
-            "publishedAt": "2026-05-09T15:02:40Z",
-            "content": "The Samsung Galaxy Z Fold 8 Wide and Z Fold 8 are expected to launch soon, along with the Galaxy Z Flip 8. Leaked renders discovered within Samsung’s One UI 9 software reveal a device that emphasizes… [+5547 chars]"
+            "author": "Randy Meeks",
+            "title": "Xbox has realized that you don't want an AI on your console and has just withdrawn Copilot at full speed - en.softonic.com",
+            "description": "You may hear people throughout the day looking for things on ChatGPT, or even using other secondary AI agents like Grok, but, no matter how hard Microsoft tries, Copilot is not really catching on… precisely because they are being very aggressiv",
+            "url": "https://en.softonic.com/articles/xbox-has-realized-that-you-dont-want-an-ai-on-your-console-and-has-just-withdrawn-copilot-at-full-speed",
+            "urlToImage": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/05/copilot.jpg",
+            "publishedAt": "2026-05-09T15:32:05Z",
+            "content": "You may hear people throughout the day looking for things on ChatGPT, or even using other secondary AI agents like Grok, but, no matter how hard Microsoft tries, Copilot is not really catching on pre… [+1499 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "My Nintendo News"
+            },
+            "author": "Sickr",
+            "title": "Nintendo R&D expenses increase 23% from last fiscal year suggesting new hardware could be in works - My Nintendo News",
+            "description": "An eagle-eyed Redditor has noticed that Nintendo’s Resource and Development expenses have surged by 23% from the last fiscal year, suggesting that new hardware is being worked on. You never know what…",
+            "url": "https://mynintendonews.com/2026/05/09/nintendo-rd-expenses-increase-23-from-last-fiscal-year-suggesting-new-hardware-could-be-in-works/",
+            "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2019/04/nintendo_labo_vr_mario_art.jpg?fit=1200%2C800&ssl=1",
+            "publishedAt": "2026-05-09T15:05:14Z",
+            "content": "Well don’t get comfortable with it. If you have even the slightest clue going on with global trade and the restructuring of supply chains, then you know that shipping physical is going to be too cost… [+168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "My Nintendo News"
+            },
+            "author": "Sickr",
+            "title": "Tom Henderson: Rayman Legends remake retains “everything people love” - My Nintendo News",
+            "description": "Journalist Tom Henderson has recently commented on the rumoured Rayman Legends remake which is apparently in development at Ubisoft. Many were aghast that Ubisoft were remaking such a relatively…",
+            "url": "https://mynintendonews.com/2026/05/09/tom-henderson-rayman-legends-remake-retains-everything-people-love/",
+            "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2017/09/rayman_legends_characters_artwork.jpg?fit=2048%2C1105&ssl=1",
+            "publishedAt": "2026-05-09T15:04:22Z",
+            "content": "Journalist Tom Henderson has recently commented on the rumoured Rayman Legends remake which is apparently in development at Ubisoft. Many were aghast that Ubisoft were remaking such a relatively rece… [+469 chars]"
         },
         {
             "source": {
@@ -183,58 +495,6 @@
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/696f88d3f014a65b791bbd4e/0x0.jpg?format=jpg&crop=1578,887,x0,y0,safe&height=900&width=1600&fit=bounds",
             "publishedAt": "2026-05-09T14:00:44Z",
             "content": "In the wake of the announcement that Sony has now racked up $765 million in impairment losses against Bungie, devaluing the asset it once purchased for $3.6 billion, significant questions have been r… [+5090 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "Mauro Huculak",
-            "title": "Windows 11 is changing how Windows Update works — here are the 5 things Microsoft says will matter most - Windows Central",
-            "description": "Windows 11 is getting major Windows Update changes with fewer restarts, better controls, and smarter fixes. Here's what you need to know.",
-            "url": "https://www.windowscentral.com/microsoft/windows-11/5-things-you-need-to-know-about-changes-coming-to-windows-update-on-windows-11",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4YhCWj3QUVbWZpXYjjPcN4-1680-80.jpg",
-            "publishedAt": "2026-05-09T13:55:36Z",
-            "content": "Windows Update has easily been one of the most frustrating parts of using Windows for years, and from what I'm seeing now, Microsoft finally seems to be acknowledging it. In the latest changes coming… [+5851 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Futurism"
-            },
-            "author": "Victor Tangermann",
-            "title": "Fury Erupts After Google Chrome Sneakily Installs 4 GB AI Model On Users’ PCs - Futurism",
-            "description": "Google's web browser has been \"silently\" installing an AI model on users' devices without asking for consent.",
-            "url": "http://futurism.com/artificial-intelligence/fury-google-chrome-ai-model",
-            "urlToImage": "https://futurism.com/wp-content/uploads/2026/05/fury-google-chrome-ai-model.jpg?quality=85&w=1200",
-            "publishedAt": "2026-05-09T13:45:00Z",
-            "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nAs of 2026, Google maintains an iron grip on the web browser market, boasting well over three billion Chrome users worldwide.\r\nThat … [+3820 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Asus.com"
-            },
-            "author": null,
-            "title": "ASUS Republic of Gamers Announces Strix OLED XG34WCDMS and Strix XG129C - ASUS Pressroom",
-            "description": "ROG announces the Strix OLED XG34WCDMS, a 34-inch 280Hz QD-OLED gaming monitor, and the versatile Strix XG129C secondary touchscreen display. Subscribe to ASUS Pressroom for the latest tech updates!",
-            "url": "https://press.asus.com/news/press_releases/strix-oled-xg34wcdms-xg129c-gaming-monitors/",
-            "urlToImage": "https://press.asus.com/assets/w_1200,h_630/f5a9a488-b01b-43a9-97a9-b93e663929c8/ROG%20Strix%20OLED%20XG34WCDMS%20&%20Strix%20XG129C.jpg",
-            "publishedAt": "2026-05-09T13:23:48Z",
-            "content": "34-inch 280Hz RGB Tandem QD-OLED ultrawide monitor and versatile 12.3-inch touchscreen secondary display expand the ROG display lineup \r\n<ul><li>ROG Strix OLED XG34WCDMS is an RGB Tandem QD-OLED moni… [+1981 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TrueAchievements"
-            },
-            "author": null,
-            "title": "Xbox Game Pass is losing three games with quick and easy achievements soon - TrueAchievements",
-            "description": "Let's take a look at all the new and leaving Xbox Game Pass achievements for May 2026 — come find out how easy these games are to beat.",
-            "url": "https://www.trueachievements.com/news/xbox-game-pass-leaving-achievements-may-2026",
-            "urlToImage": "https://www.trueachievements.com/imgs/173963/xbox-game-pass-achievements.jpg",
-            "publishedAt": "2026-05-09T13:04:04Z",
-            "content": "It's a brand new month, and that means we've had a bunch of Xbox Game Pass games land on the service, along with a bunch of titles set to leave soon. To help prioritize which games are worth playing,… [+5698 chars]"
         },
         {
             "source": {
@@ -264,16 +524,16 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "nbc-news",
+                "name": "NBC News"
             },
-            "author": "Madeline Holcombe",
-            "title": "Tech bros say AI may become your friend. Experts explain why it can’t - CNN",
-            "description": "Stories abound of people falling in love or developing friendship with a chatbot. But that doesn’t actually solve the loneliness problem.",
-            "url": "https://www.cnn.com/2026/05/09/health/ai-loneliness-kara-swisher-wellness",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1284926313.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-05-09T13:00:51Z",
-            "content": "The CNN Original Series Kara Swisher Wants to Live Forever follows journalist Kara Swisher as she explores the booming business of life extension and the people determined to defy death. Watch the fo… [+6784 chars]"
+            "author": "Bethany Heitman",
+            "title": "Lotion, hand soap and more is on sale for as little as $3 at Bath & Body Works right now - NBC News",
+            "description": "Right now, Bath and Body Works is having a sale and you get lotion for as low as $6 and candles for as much as 50 percent off.",
+            "url": "https://www.nbcnews.com/select/shopping/bath-and-body-works-sale-2026-rcna344325",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260508-bath-bodyworks-sale-mm-main-47fec4.jpg",
+            "publishedAt": "2026-05-09T13:00:41Z",
+            "content": "Whenever Bath &amp; Body Works has a sale on hand soap, I stock up. There are so many different scents available and I always find it enjoyable to try new ones. This weekend, the retailer is having a… [+2214 chars]"
         },
         {
             "source": {
@@ -291,32 +551,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Windows Central"
-            },
-            "author": "Adam Hales",
-            "title": "Is Xbox Game Pass finally making sense? - Windows Central",
-            "description": "Xbox may have spent years preparing for a gaming future that audiences are only now beginning to fully embrace.",
-            "url": "https://www.windowscentral.com/gaming/xbox/gen-z-shift-toward-xbox-game-pass-has-me-rethinking-how-we-buy",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WyprD3DcDN2xK8VPm9CikX-960-80.jpg",
-            "publishedAt": "2026-05-09T13:00:00Z",
-            "content": "Xbox Game Pass is always a hot topic. You either love it, hate it, or maybe you’re even jealous of it(?) I quite like it, although perhaps I’ve been brainwashed by services like Spotify and Netflix i… [+4919 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "MacRumors Staff",
-            "title": "Top Stories: iOS 26.5 Coming Soon, Goodbye $599 Mac Mini, and More - MacRumors",
-            "description": "With Apple preparing to unveil iOS 27 and related updates at WWDC in just under a month, iOS 26.5 and friends are now right around the corner with...",
-            "url": "https://www.macrumors.com/2026/05/09/top-stories-ios-26-5-coming-soon/",
-            "urlToImage": "https://images.macrumors.com/t/Ra1JqXQH93PQKcirKZrC_Fa4_L0=/1600x/article-new/2026/05/top-stories-2026-05-09.jpg",
-            "publishedAt": "2026-05-09T13:00:00Z",
-            "content": "With Apple preparing to unveil iOS 27 and related updates at WWDC in just under a month, iOS 26.5 and friends are now right around the corner with some minor tweaks before we get our first look at th… [+5497 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Dexerto"
             },
             "author": "Callum Doyle",
@@ -330,15 +564,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Canonrumors.com"
+                "name": "Videocardz.com"
             },
-            "author": "Craig Blair",
-            "title": "Canon EOS R6 V & RF 20-50mm f/4L IS USM PZ Pricing Info and More - Canon Rumors",
-            "description": "On May 13, 2026, Canon will be announcing the EOS R6 V camera and RF 20-50mm f/4L IS USM PZ (Power Zoom) lens. Both will be available on their own or as a kit. At this point, most things are already known about the camera, but we do have some more information",
-            "url": "https://www.canonrumors.com/canon-eos-r6-v-rf-20-50mm-f-4l-is-usm-pz-pricing-info-and-more/",
-            "urlToImage": "https://www.canonrumors.com/wp-content/uploads/2026/05/Canon-EOS-R6-V-and-RF-20-50mm-f4L-IS-USM-PZ-Mockup.jpg",
-            "publishedAt": "2026-05-09T11:49:43Z",
-            "content": "<table><tr><td>When you purchase through links on our site, we may earn an affiliate commission. Here's how it works.\r\n</td></tr>\r\n</table>\r\nOn May 13, 2026, Canon will be announcing the EOS R6 V cam… [+3670 chars]"
+            "author": null,
+            "title": "Valve fixes Steam Controller trackpad and charging puck issues in new Steam Client update - VideoCardz.com",
+            "description": "Steam Client update adds Grip Sensor settings for the new Steam Controller Valve has released a new Steam Client update with fixes for the new Steam",
+            "url": "https://videocardz.com/newz/valve-fixes-steam-controller-trackpad-and-charging-puck-issues-in-new-steam-client-update",
+            "urlToImage": "https://cdn.videocardz.com/1/2026/04/STEAM-CONTROLLER-2026.jpg",
+            "publishedAt": "2026-05-09T12:57:37Z",
+            "content": "Valve has released a new Steam Client update with fixes for the new Steam Controller. The patch addresses hardware input, firmware, and software integration issues reported after launch.\r\nThe update … [+2184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "Google Pixel phones will probably let you ditch the search bar in Android 17 QPR1 [Video] - 9to5Google",
+            "description": "A new leak showcases an incoming ability for Google Pixel phones to turn off the built-in search bar that has...",
+            "url": "http://9to5google.com/2026/05/09/google-pixel-search-bar-toggle-android-17-leak/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/google-pixel-10a-launcher-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-05-09T12:25:00Z",
+            "content": "A new leak showcases an incoming ability for Google Pixel phones to turn off the built-in search bar that has been a part of the Pixel Launcher for years.\r\nThe Pixel Launcher is a clean and refined e… [+1347 chars]"
         },
         {
             "source": {
@@ -356,28 +603,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Video Games Chronicle"
+                "name": "Gear Patrol"
             },
-            "author": "Andy Robinson",
-            "title": "Guerilla Games co-founder and Epic veteran building ‘a European alternative’ to Unreal Engine - Video Games Chronicle",
-            "description": "Epic's former tech director claims he's building a rival to American and Chinese game engines",
-            "url": "https://www.videogameschronicle.com/news/guerilla-games-co-founder-and-epic-veteran-building-a-european-alternative-to-unreal-engine/",
-            "urlToImage": "https://www.videogameschronicle.com/files/2019/06/game-developer-1.jpg",
-            "publishedAt": "2026-05-09T10:34:17Z",
-            "content": "Guerilla Games co-founder and the former technical director of Epic Games says hes building a new game engine that will offer a European alternative to American tech like Unreal and Unity.\r\nArjan Bru… [+1653 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DSOGaming"
-            },
-            "author": "John Papadopoulos",
-            "title": "Warner Bros Adds Denuvo to LEGO Batman: Legacy of the Dark Knight Right Before Launch - DSOGaming",
-            "description": "Right before launch, Warner Bros has updated the Store page of LEGO Batman: Legacy of the Dark Knight to add the Denuvo anti-tamper tech.",
-            "url": "https://www.dsogaming.com/news/warner-bros-adds-denuvo-to-lego-batman-legacy-of-the-dark-knight-right-before-launch/",
-            "urlToImage": "https://www.dsogaming.com/wp-content/uploads/2026/05/LEGO-Batman-Legacy-of-the-Dark-Knight-feature-2.jpg",
-            "publishedAt": "2026-05-09T10:08:51Z",
-            "content": "LEGO Batman: Legacy of the Dark Knight will be released in almost two weeks. And, right before launch, Warner Bros has updated its Store page to add the Denuvo anti-tamper tech.\r\nWarner Bros has used… [+4024 chars]"
+            "author": "Sean Tirman",
+            "title": "11 New Pocket Knives, Multi-Tools and EDC Items You Might Have Missed - Gear Patrol",
+            "description": "From the slenderest of slicers to a beefy backcountry blade, you'll find all the most interesting new launches right here.",
+            "url": "https://www.gearpatrol.com/briefings/new-edc-pocket-knife-releases-may-9-2026/",
+            "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/05/Best-New-Knives-and-Multi-Tools-May-9-2026-Lead.webp",
+            "publishedAt": "2026-05-09T11:00:00Z",
+            "content": "There’s a saying in the everyday carry world that boils down to this: the best knife is the one you have on you.\r\nAnd that’s largely true, as you’re going to absolutely be limited by whatever you hav… [+2013 chars]"
         },
         {
             "source": {
@@ -395,15 +629,41 @@
         {
             "source": {
                 "id": null,
-                "name": "PhoneArena"
+                "name": "Videocardz.com"
             },
-            "author": "PhoneArena",
-            "title": "The iPhone 20 will ruin Android phone design, and I’m already dreading it - PhoneArena",
-            "description": null,
-            "url": "https://www.phonearena.com/news/the-iphone-20-will-ruin-android-phone-design-and-im-already-dreading-it_id180232",
-            "urlToImage": null,
-            "publishedAt": "2026-05-09T08:19:07Z",
+            "author": null,
+            "title": "Sony says PlayStation 6 launch timing and price are not decided - VideoCardz.com",
+            "description": "PS6 has no release date yet, Sony confirms and mentions memory prices Sony has not confirmed a launch date or price for its next PlayStation console.",
+            "url": "https://videocardz.com/newz/sony-says-playstation-6-launch-timing-and-price-are-not-decided",
+            "urlToImage": "https://cdn.videocardz.com/1/2026/05/PLAYSTATION-6-PS6-HERO.jpg",
+            "publishedAt": "2026-05-09T09:32:36Z",
+            "content": "Sony has not confirmed a launch date or price for its next PlayStation console. During the companys latest financial call, Sony president and CEO Hiroki Totoki was asked about PlayStation 6 and risin… [+1902 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sponsored by StackCommerce",
+            "title": "Get more space and solid performance with this MacBook Pro for under $500 - Mashable",
+            "description": "Extra space for files, apps, and projects.",
+            "url": "https://mashable.com/article/may-9-apple-macbook-pro-i5",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/03B8DypDXyyE5XUTlt61KiY/hero-image.fill.size_1200x675.v1778171278.jpg",
+            "publishedAt": "2026-05-09T09:00:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Tyler August",
+            "title": "Getting A Proprietary-Bus GPU Onto PCIe Enables Cheaper Local LLMs, For Now - Hackaday",
+            "description": "If you’ve been thinking of getting into self-hosting generative AI, but don’t have a big budget for hardware, you might want to check out [Hardware Haven]’s latest video on an unu…",
+            "url": "https://hackaday.com/2026/05/09/getting-a-proprietary-bus-gpu-onto-pcie-enables-cheaper-local-llms-for-now/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/05/V100-GPU-feat.jpg",
+            "publishedAt": "2026-05-09T08:00:00Z",
+            "content": "Maybe not the worst idea, though it seems like it adds extra costs &amp; steps, as others have said. I’m taking a different route with adapters, and I may be stupid or insane for doing it. I had been… [+2861 chars]"
         },
         {
             "source": {
@@ -447,6 +707,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "The Best Camera Ever: Why the iPhone 18 Pro’s Variable Aperture is the Real Star of 2026 - Geeky Gadgets",
+            "description": "Discover the six major upgrades coming to the iPhone 18 Pro, including the A20 Pro chip, variable aperture camera, and a smaller Dynamic Island.",
+            "url": "https://www.geeky-gadgets.com/iphone-18-pro-camera/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/iPhone-18-Pro-Max-2-2-1.jpg",
+            "publishedAt": "2026-05-09T05:02:34Z",
+            "content": "The iPhone 18 Pro and Pro Max are poised to deliver noteworthy internal advancements while retaining a design that feels familiar. With enhanced performance, improved camera systems, and refined usab… [+6329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Screen Rant"
             },
             "author": "Angharad Redden",
@@ -473,28 +746,15 @@
         {
             "source": {
                 "id": null,
-                "name": "WindowsLatest"
+                "name": "Cord Cutters News, LLC"
             },
-            "author": "Abhijith M B",
-            "title": "Microsoft is upgrading Windows 11 touchpad with four new gestures - Windows Latest",
-            "description": "Microsoft just released new Windows 11 Insider builds featuring massive touchpad gesture upgrades, automatic scrolling, and some system fixes.",
-            "url": "https://www.windowslatest.com/2026/05/09/microsoft-is-upgrading-windows-11-trackpad-with-automatic-scrolling-accelerrated-scrolling-and-single-finger-scrolling/",
-            "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2026/05/New-Windows-Insider-builds-adds-several-gestures-to-Windows-11-laptop-trackpads.jpg",
-            "publishedAt": "2026-05-09T02:41:14Z",
-            "content": "Today, Microsoft released a brand new batch of Windows 11 Insider Preview builds across all of its active testing channels, with some Builds getting a huge touchpad upgrade. The May 8, 2026, release … [+7232 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hackaday"
-            },
-            "author": "Tyler August",
-            "title": "Could Your Next House Be Built From Giant Lego By An Inchworm Robot? - Hackaday",
-            "description": "Well, it depends when you’re going to be househunting– if it’s anytime soon, Betteridge’s law applies, but if your time horizon is a ways further out, [Miana Smith] at MIT w…",
-            "url": "https://hackaday.com/2026/05/08/could-your-next-house-be-built-from-giant-lego-by-an-inchworm-robot/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/05/voxel-building-bot-e1778188006535.jpg",
-            "publishedAt": "2026-05-09T02:00:00Z",
-            "content": "Well, it depends when you’re going to be househunting– if it’s anytime soon, Betteridge’s law applies, but if your time horizon is a ways further out, [Miana Smith] at MIT wants to make it happen. Sh… [+2008 chars]"
+            "author": "Luke Bouma",
+            "title": "Roku Starts to Roll Out a Major Update to Roku TVs & Roku Players - | Cord Cutters News",
+            "description": "Roku has initiated the deployment of its anticipated Spring software update, known as Roku OS 15.2, to compatible Roku TVs and standalone streaming players. The company has confirmed that the update process is underway, though the distribution follows Roku’s …",
+            "url": "https://cordcuttersnews.com/roku-starts-to-roll-out-a-major-update-to-roku-tvs-roku-players/",
+            "urlToImage": "https://cordcuttersnews.com/wp-content/uploads/2026/05/image-2026-05-08T202942.483.jpg",
+            "publishedAt": "2026-05-09T00:30:34Z",
+            "content": "Roku has initiated the deployment of its anticipated Spring software update, known as Roku OS 15.2, to compatible Roku TVs and standalone streaming players. The company has confirmed that the update … [+5792 chars]"
         },
         {
             "source": {
@@ -525,19 +785,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Eurogamer.net"
-            },
-            "author": "Nic Bunce",
-            "title": "Pokémon Go Lechonk Community Day - Eurogamer.net",
-            "description": "Lechonk is May 2026's Community Day Pokémon in Pokémon Go! Time to learn how to get a Shiny Hundo Lechonk with Perfect IV CP during the event.",
-            "url": "https://www.eurogamer.net/pokemon-go-lechonk-community-day",
-            "urlToImage": "https://assetsio.gnwcdn.com/Pokemon-Go-Lechonk-CDay-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2026-05-08T23:01:00Z",
-            "content": "Lechonk is hogging the attention during Pokémon Go's May Community Day. Not only will this give you the chance to catch a shiny Lechonk and a Lechonk with 100% perfect IV stats, but you can also get … [+5442 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Screen Rant"
             },
             "author": "James Lynch",
@@ -547,32 +794,6 @@
             "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/02/zelda-adult-child-link.jpg?w=1600&h=900&fit=crop",
             "publishedAt": "2026-05-08T23:00:20Z",
             "content": "The Legend of Zelda is celebrating its 40th anniversary as a franchise this year, with most expecting Nintendo to have some pretty big plans to mark the occasion in some way. That includes a potentia… [+2198 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Push Square"
-            },
-            "author": "Push Square",
-            "title": "PlayStation's AI Push Raises a Bigger Question: Where Do You Draw the Line? - Push Square",
-            "description": "AI don't know",
-            "url": "https://www.pushsquare.com/news/2026/05/playstations-ai-push-raises-a-bigger-question-where-do-you-draw-the-line",
-            "urlToImage": "https://images.pushsquare.com/7f9a9e945a691/large.jpg",
-            "publishedAt": "2026-05-08T23:00:00Z",
-            "content": "Image: Push Square\r\nIn a presentation aimed at investors earlier today, PlayStation announced its intention to use AI to deliver a cutting-edge entertainment experience for its players.\r\nUnsurprising… [+5133 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Push Square"
-            },
-            "author": "Push Square",
-            "title": "Forza Horizon 6's Launch Trailer Doesn't Make the Wait for PS5 Release Any Easier - Push Square",
-            "description": "Looking good",
-            "url": "https://www.pushsquare.com/news/2026/05/forza-horizon-6s-launch-trailer-doesnt-make-the-wait-for-ps5-release-any-easier",
-            "urlToImage": "https://images.pushsquare.com/e5ee4c63a6547/large.jpg",
-            "publishedAt": "2026-05-08T21:00:00Z",
-            "content": "From all that we've seen of Forza Horizon 6 so far, it's looking like another fantastic open world racing game.\r\nThat remains true with its launch trailer, which comes days ahead of its arrival on Xb… [+1108 chars]"
         },
         {
             "source": {
@@ -603,6 +824,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Michael Sullivan",
+            "title": "Think V10 Engines Are Unreliable? These Models Say Otherwise - Jalopnik",
+            "description": "Think V10 engines are unreliable? The Dodge Viper, Dodge Ram SRT-10, Lamborghini Gallardo, Audi R8, Lexus LFA, and Lamborghini Huracán say otherwise.",
+            "url": "https://www.jalopnik.com/2165701/most-reliable-v10-engines/",
+            "urlToImage": "https://www.jalopnik.com/img/gallery/think-v10-engines-are-unreliable-these-models-say-otherwise/l-intro-1777666828.jpg",
+            "publishedAt": "2026-05-08T20:45:00Z",
+            "content": "When the Audi R8 debuted for the 2007 model year, it initially offered a 4.2-liter V8. However, in 2009, the staid German company let its hair grow out just a bit and dropped a 5.2-liter V10 in its l… [+1267 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Kotaku"
             },
             "author": "Ethan Gach",
@@ -615,250 +849,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BGR"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Jonathan Sayers",
-            "title": "Why The Remarkable 2 Tablet Was Discontinued - bgr.com",
-            "description": "Fans of the Remarkable 2 Tablet recently learned that the popular e-reader was no longer available, but why was such a popular device discontinued?",
-            "url": "https://www.bgr.com/2168175/why-remarkable-2-discontinued-paper-tablet-explained/",
-            "urlToImage": "https://www.bgr.com/img/gallery/why-the-remarkable-2-tablet-was-discontinued/l-intro-1778264999.jpg",
-            "publishedAt": "2026-05-08T20:17:00Z",
-            "content": "You can still use your reMarkable 2 tablet for all of your everyday use cases, even now that the company has discontinued it. But is reMarkable marketing the Paper Pure as a replacement your sign tha… [+968 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Summer Cartwright",
-            "title": "I tracked my sleep, stress and fitness for 90 days to improve my longevity. Here’s what happened - CNN",
-            "description": "I tested the Eight Sleep Pod 5, Garmin Venu 4 smartwatch and the Oura Ring 4 Ceramic for 90 days to determine if the trackers could improve my longevity.",
-            "url": "https://www.cnn.com/cnn-underscored/health-fitness/90-day-fitness-tracker-challenge",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/trackers-challenge-cnnu-1.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-05-08T20:00:00Z",
-            "content": "One day this past fall, I found myself wearing four different wearable wellness trackers at once. My running watch was strapped to my left wrist, and a Whoop was on my right. My Oura Ring was on my p… [+20234 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Ryan Whitwam",
-            "title": "Course correction: Google to link more sources in AI Overviews - Ars Technica",
-            "description": "Google's AI search will start citing its sources in several new ways.",
-            "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-Overview-hero-1152x648.jpg",
-            "publishedAt": "2026-05-08T19:43:47Z",
-            "content": null
+            "author": "Stevie Bonifield",
+            "title": "Asus chases Elgato with its own secondary touchscreen display - The Verge",
+            "description": "Asus is launching two new monitors: the compact 12.3-inch ROG Strix XG129C and a 34-inch ROG Strix gaming monitor with an RGB Tandem QD-OLED 1440p display.",
+            "url": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-05-08T20:34:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little smaller than its competition from Corsair.\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little s… [+2232 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Techpowerup.com"
+                "name": "Gear Patrol"
             },
-            "author": null,
-            "title": "Arc Raiders Dev Tests New Kernel-Level Anti-Cheat Solution, Raising Questions About Linux Support - TechPowerUp",
-            "description": "Arc Raiders is one of only a handful of semi-competitive, shooters with a large player base that has a Platinum rating on ProtonDB, thanks to its Linux-friendly Easy Anti-Cheat implementation. In a recent blog post addressing the studio's plans to \"ensure fai…",
-            "url": "https://www.techpowerup.com/348897/arc-raiders-dev-tests-new-kernel-level-anti-cheat-solution-raising-questions-about-linux-support",
-            "urlToImage": "https://www.techpowerup.com/img/ho3vt57Ipi1H4iZn.jpg",
-            "publishedAt": "2026-05-08T18:43:19Z",
-            "content": "This should only take a few seconds. If you have issues, please do contact us, we want to learn about any problems.\r\nDrag the handle to the target\r\nNeed help? Contact Us. Please mention your IP: 72.8… [+8 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Rebekah Valentine",
-            "title": "Zelda 2 Deserves Better - Kotaku",
-            "description": "The 1987 sequel deserves better than a reputation as an impossibly difficult failure of a game",
-            "url": "https://kotaku.com/zelda-2-nintendo-series-miyamoto-is-it-good-link-past-breath-wild-2000694068",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/05/zelda2-a.jpg",
-            "publishedAt": "2026-05-08T17:00:45Z",
-            "content": "I’ve been at Kotaku for three weeks now and have already been hard at work blessing and/or cursing you all with my weird niche interests and opinions. You’ve already heard me ramble about a spelling … [+9036 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Jason Schreier",
-            "title": "‘Grand Theft Auto VI’ Publisher Looks to be ‘Smarter’ at Making Games - Bloomberg.com",
-            "description": "Take-Two CEO Strauss Zelnick says that some games need to be cheaper to make or they won’t be made at all",
-            "url": "https://www.bloomberg.com/news/newsletters/2026-05-08/-grand-theft-auto-vi-publisher-looks-to-be-smarter-at-making-games",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEirBf3HiLV4/v0/1200x670.png",
-            "publishedAt": "2026-05-08T17:00:01Z",
-            "content": "Hi everyone. Today weve got an interview with Strauss Zelnick, the chief executive officer of Take-Two Interactive Software Inc., but first...\r\nThis weeks top gaming news:"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Blizzard.com"
-            },
-            "author": null,
-            "title": "Diablo II: Resurrected Ladder Season 14 Coming Soon - Blizzard News",
-            "description": "Ladder Season 14 begins on May 22. Glean the differences coming with Patch 3.2 based off your feedback from our recent PTR.",
-            "url": "https://news.blizzard.com/en-us/article/24261478/diablo-ii-resurrected-ladder-season-14-coming-soon",
-            "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/u6/U6ZYQMVSV96Z1778259133163.png",
-            "publishedAt": "2026-05-08T17:00:00Z",
-            "content": "Strike fear into demonkind when you enter their midst, traveler.\r\nThe annals mark the reign of the Warlock, push further into the fray when Ladder Season 14 arrives on May 22. Read on to discover man… [+20900 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "eWeek"
-            },
-            "author": "Liz Ticong",
-            "title": "Google Launches $99 Fitbit Air, a Screenless Wearable for Health Tracking - eWeek",
-            "description": "Google’s $99.99 Fitbit Air is a screenless health tracker that pairs with Google Health Coach, app-based insights, and paid wellness features.",
-            "url": "https://www.eweek.com/news/google-fitbit-air-screenless/",
-            "urlToImage": "https://assets.eweek.com/uploads/2026/05/Band_Elevated.width-1000.format-webp.jpg?f=jpeg",
-            "publishedAt": "2026-05-08T16:56:25Z",
-            "content": "Googles next Fitbit does less on your wrist so it can do more in the app.\r\nThe company announced Google Fitbit Air, a new $99.99 screenless wearable for people who want health tracking without a smar… [+4853 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Xbox.com"
-            },
-            "author": "Mike Nelson, Xbox Wire Editor",
-            "title": "Control Resonant: Remedy on the Exciting Sequel, Xbox Play Anywhere, and Self-Publishing - Xbox Wire",
-            "description": "ID@Xbox's Guy Richards spoke with Remedy’s Miika Huttunen, Mikael Kasurinen, and Anne-Marie Grönroos about Control Resonant's diverse gameplay, support for Xbox Play Anywhere, and more.",
-            "url": "https://news.xbox.com/en-us/2026/05/08/control-resonant-remedy-exciting-sequel-xbox-play-anywhere-self-publishing/",
-            "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/control_r_09-082c42552f8e2a8713f4.jpg",
-            "publishedAt": "2026-05-08T16:04:02Z",
-            "content": "A highlight for independent developers is having the creative control in the direction of the experience they want to bring to the player. Its what makes indies such a unique facet of game developmen… [+7051 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vgchartz.com"
-            },
-            "author": "William D'Angelo",
-            "title": "Sony is Undecided on the Release Date and Price for PS6 - News - VGChartz",
-            "description": "Sony president and CEO Hiroki Totoki in an earnings call with investors revealed the company has not decided [...]",
-            "url": "https://www.vgchartz.com/article/467776/sony-is-undecided-on-the-release-date-and-price-for-ps6/",
-            "urlToImage": "https://www.vgchartz.com/articles_media/images/sony-is-undecided-on-the-release-date-and-price-for-ps6-084086_condensed.jpg",
-            "publishedAt": "2026-05-08T16:02:14Z",
-            "content": "by William D'Angelo, posted 1 day ago / 2,436 ViewsSony president and CEO Hiroki Totoki in an earnings call with investors revealed the company has not decided on when to launch the PlayStation 6 or … [+1657 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Ryan Christoffel",
-            "title": "iPhone 18 Pro’s new A20 chip rumored to bring two major upgrades - 9to5Mac",
-            "description": "The A20 Pro chip for this fall’s iPhone 18 Pro and iPhone Ultra sounds like it could be extra special. Here are its two big rumored upgrades.",
-            "url": "https://9to5mac.com/2026/05/08/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2026-05-08T15:03:00Z",
-            "content": "Every year, Apple has a new chip ready for its latest iPhones. But the A20 Pro chip for this falls iPhone 18 Pro and iPhone Ultra sounds like it could be extra special. Here are its two big rumored u… [+2075 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Andrew Cunningham",
-            "title": "Which Macs are suffering from shortages—and where are things getting worse? - Ars Technica",
-            "description": "There are a couple signs of strain beyond the MacBook Neo and the desktops.",
-            "url": "https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_2326-1152x648.jpeg",
-            "publishedAt": "2026-05-08T15:00:27Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Hartley Charlton",
-            "title": "The MacRumors Show: Is Apple Downgrading iPhone 18 Due to Memory Shortage? - MacRumors",
-            "description": "On this week's episode of The MacRumors Show, we talk through how the global memory shortage is forcing Apple's hand across multiple key...",
-            "url": "https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/",
-            "urlToImage": "https://images.macrumors.com/t/cbTf4cOXdhysJWMxtJrWVjpBxes=/2500x/article-new/2026/05/TMRS-193-iPhone-18-Downgrade-Thumb.jpg",
-            "publishedAt": "2026-05-08T14:47:17Z",
-            "content": "On this week's episode of The MacRumors Show, we talk through how the global memory shortage is forcing Apple's hand across multiple key products, killing configurations, delaying launches, and promp… [+5579 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tom's Guide"
-            },
-            "author": "Millie Davis-Williams",
-            "title": "Hoka, Asics and Adidas running shoes are up to 50% off: 15 best deals to improve your PBs - Tom's Guide",
-            "description": "These are the running shoe deals to shop this spring",
-            "url": "https://www.tomsguide.com/wellness/running/hoka-asics-and-adidas-running-shoes-are-up-to-50-percent-off-15-best-deals-to-improve-your-pbs",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/T6Q83RieS7ZjRbdHCP65kE-2000-80.jpg",
-            "publishedAt": "2026-05-08T14:06:15Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Paul Tassi",
-            "title": "Here Are Crimson Desert’s New Patch Additions, And Why There’s No Roadmap - Forbes",
-            "description": "Crimson Desert will once again have a big patch in the next few days, and with all these additions, why isn't there a roadmap? There's a good reason.",
-            "url": "https://www.forbes.com/sites/paultassi/2026/05/08/here-are-crimson-deserts-new-patch-additions-and-why-theres-no-roadmap/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69fde97b9730dd6c490647f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-05-08T13:50:42Z",
-            "content": "Pearl Abyss\r\nWhat, did you think we would go a week without a major Crimson Desert patch? Please. This is Pearl Abyss were talking about. The developer has just announced that a new patch is coming o… [+3181 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MakeUseOf"
-            },
-            "author": "Tashreef Shareef",
-            "title": "4 Microsoft subscriptions you can easily replace with free open-source apps - MakeUseOf",
-            "description": "Ditch paid Microsoft apps — better free alternatives exist.",
-            "url": "https://www.makeuseof.com/microsoft-subscriptions-replace-free-open-source-apps/",
-            "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/microsoft-office-365-online-open-on-a-hp-laptop-2.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-05-08T13:30:17Z",
-            "content": "At the start of this year, I stopped paying for Microsoft 365. My reason for dropping the subscription was simple: I wasn't using it to its fullest, and over the years, I had found better alternative… [+6798 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PCWorld"
-            },
-            "author": "Ben Patterson",
-            "title": "Gemini may finally leap out of the chatbox at Google I/O - PCWorld",
-            "description": "ChatGPT and Claude are already controlling PCs and deploying agents into the wild. All signs point to Gemini catching up, rapidly.",
-            "url": "https://www.pcworld.com/article/3134059/gemini-may-finally-leap-out-of-the-chatbox-at-google-i-o.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/05/Gemini-2.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2026-05-08T13:00:00Z",
-            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWhile ChatGPT and Cl… [+6061 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Screen Rant"
-            },
-            "author": "Austin King",
-            "title": "Pokémon Legends: Z-A Free Downloads Confirmed For May 2026 - ScreenRant",
-            "description": "New free downloads are coming to Pokémon Legends: Z-A this month, as we've got official confirmation for what's arriving soon in May 2026.",
-            "url": "https://screenrant.com/pokemon-legends-za-season-11-free-rewards/",
-            "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/pokemon-legends-za-mega-evolution-header.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-05-08T12:34:52Z",
-            "content": "Pokémon Legends: Z-A is getting various new freebies this month. Whether you're chipping away at post-game, finishing the Mega Dimension DLC, or just working on Ranked Battles, there's still plenty t… [+2511 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pure Xbox"
-            },
-            "author": "Pure Xbox",
-            "title": "Xbox Needs To 'Sweat Every Detail' In Winning Over 'Frustrated' Players, Says Asha Sharma - Pure Xbox",
-            "description": "She's certainly committed to the cause",
-            "url": "https://www.purexbox.com/news/2026/05/xbox-needs-to-sweat-every-detail-in-winning-over-frustrated-players-says-asha-sharma",
-            "urlToImage": "https://images.purexbox.com/1bc654a4e1256/large.jpg",
-            "publishedAt": "2026-05-08T12:00:00Z",
-            "content": "Image: Microsoft (Unlocking AI Innovation: A Conversation with Eric Boyd and Asha Sharma | Studio06)\r\nWe've heard a lot from Xbox boss Asha Sharma recently about her plans to evolve the brand and add… [+1930 chars]"
+            "author": "Ben Bowers",
+            "title": "Google Finally Made the Fitness Tracker Apple and Whoop Wouldn’t - Gear Patrol",
+            "description": "The Fitbit Air looks like a Whoop rival on paper, but its bigger significance may be what it says about growing consumer fatigue with smartwatches.",
+            "url": "https://www.gearpatrol.com/fitness/google-finally-launched-the-fitness-tracker-apple-and-whoop-wouldnt/",
+            "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/05/Google-Fitbit-Air-Lead.webp",
+            "publishedAt": "2026-05-08T17:57:24Z",
+            "content": "It’s an opening in the wearable market that Apple, despite its continued dominance in smartwatches, has shown surprisingly little interest in pursuing. At the same time, Whoop has remained laser-focu… [+1172 chars]"
         },
         {
             "source": {

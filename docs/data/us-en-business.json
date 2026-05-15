@@ -1,58 +1,370 @@
 {
     "status": "ok",
-    "totalResults": 49,
+    "totalResults": 43,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "techcrunch",
+                "name": "TechCrunch"
             },
-            "author": "Sean Conlon, Lisa Kailai Han",
-            "title": "The Dow is poised to retake 50,000 as Cisco jumps, Boeing gains: Live updates - CNBC",
-            "description": "A rally in the technology sector drove the S&P 500 and Nasdaq Composite to new intraday and closing records on Wednesday.",
-            "url": "https://www.cnbc.com/2026/05/13/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108306444-1778760307696-108306444-1778688845240-Traders-Photo-20260513-AS-8.jpg?v=1778760316&w=1920&h=1080",
-            "publishedAt": "2026-05-14T12:27:00Z",
-            "content": "Shares of Cisco surged 15% in premarket trading after the software giant posted third-quarter results and guidance that beat Wall Street's expectations and announced it would be cutting almost 4,000 … [+1982 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "How Eight Tumultuous Years Pushed Jerome Powell and the Fed to the Limit - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/economy/central-banking/how-eight-tumultuous-years-pushed-jerome-powell-and-the-fed-to-the-limit-96388c46",
-            "urlToImage": null,
-            "publishedAt": "2026-05-14T12:22:01Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "Stock Market Today: Stock Futures Tick Up With AI Trade Top of Mind Again — Live Updates - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-14-2026",
-            "urlToImage": null,
-            "publishedAt": "2026-05-14T11:51:00Z",
-            "content": null
+            "author": "Connie Loizos",
+            "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned - TechCrunch",
+            "description": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+            "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.13.28PM.png?resize=1200,670",
+            "publishedAt": "2026-05-14T19:12:03Z",
+            "content": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPh… [+4133 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Barron's"
             },
-            "author": "Lillian Rizzo",
-            "title": "Versant reports first-quarter revenue decline, with bright spots in platforms and licensing - CNBC",
-            "description": "Versant, the portfolio of TV networks spun out from Comcast, reported earnings for its first quarter as an independent company.",
-            "url": "https://www.cnbc.com/2026/05/14/versant-vsnt-earnings-q1-2026.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108248131-1767624896302-Screenshot_2026-01-05_at_95433_AM.png?v=1767624909&w=1920&h=1080",
-            "publishedAt": "2026-05-14T11:00:53Z",
-            "content": "Versant Media Group on Thursday unveiled results for its most recent quarter its first as a stand-alone company after separating from Comcast's NBCUniversal and beginning to trade on the Nasdaq earli… [+3711 chars]"
+            "author": "Adam Levine",
+            "title": "Cerebras IPO: Pricing Is a Major Win for Chips; Stock Opens at $350 - Barron's",
+            "description": "The Cerebras IPO comes at a dramatic time, with chip stocks surging and many at or near all-time highs. The stock will start trading under the ticker CBRS later today.",
+            "url": "https://www.barrons.com/articles/cerebras-ipo-stock-ticker-price-eab2b046",
+            "urlToImage": "https://images.barrons.com/im-38352230/social",
+            "publishedAt": "2026-05-14T19:08:00Z",
+            "content": "On Thursday, the stock of artificial-intelligence chip maker Cerebras will begin trading on the Nasdaq Global Select Market under the ticker symbol CBRS. The timing couldnt be more dramatic, with sem… [+160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Federalreserve.gov"
+            },
+            "author": null,
+            "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in - Federal Reserve (.gov)",
+            "description": "Stephen I. Miran submitted his resignation Thursday as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sw",
+            "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
+            "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+            "publishedAt": "2026-05-14T18:02:54Z",
+            "content": "Stephen I. Miran submitted his resignation Thursday as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in. He has been a member of the Boar… [+838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Krisztian Sandor",
+            "title": "Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity act advances - CoinDesk",
+            "description": "The upbeat public debut of AI chipmaker Cerebras is also helping to lift both crypto and traditional markets.",
+            "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/be3e87184118708f5a6e1e9a3ad081b6f79fb801-2048x1186.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-05-14T17:51:51Z",
+            "content": "Crypto markets climbed Thursday as the Senate Banking Committee advanced the long-awaited digital asset market structure bill known as the Clarity Act, a key step toward broader federal regulation of… [+1330 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "By Lucia Mutikani",
+            "title": "Tax refunds help to lift US retail sales; drag from rising inflation looms - Yahoo Finance",
+            "description": "By Lucia Mutikani WASHINGTON, May 14 (Reuters) - U.S. retail sales increased solidly for a third straight month in April, though part of the rise in receipts...",
+            "url": "https://finance.yahoo.com/economy/articles/us-retail-sales-increase-again-124034101.html",
+            "urlToImage": "https://s.yimg.com/os/en/reuters.com/a3efefd508e616a0ce54f1a3688a16fa",
+            "publishedAt": "2026-05-14T17:40:29Z",
+            "content": "By Lucia Mutikani\r\nWASHINGTON, May 14 (Reuters) - U.S. retail sales increased solidly for a third straight month in April, though part of the rise in receipts was due to a sharp rise in inflation sin… [+6257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Claudia Assis",
+            "title": "Trump’s big trip was supposed to sell 500 Boeing planes. China is only buying 200 of them. - MarketWatch",
+            "description": "Boeing’s stock heads toward its steepest fall in six months.",
+            "url": "https://www.marketwatch.com/story/boeings-stock-drops-as-trumps-order-deal-with-china-disappoints-baff30fa",
+            "urlToImage": "https://images.mktw.net/im-51805407/social",
+            "publishedAt": "2026-05-14T17:28:00Z",
+            "content": "Boeing CEO Kelly Ortberg went to China with President Donald Trump amid hopes that the visit would result in China ordering about 500 Boeing airplanes.\r\nTrump said Thursday that China would be buying… [+258 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Peter Johnson",
+            "title": "Volkswagen brings the ID. Buzz back for 2027, but now the ID.4 is on a brief hiatus - Electrek",
+            "description": "The ID. Buzz is coming back for the 2027 model year. While the electric van is set to return, Volkswagen...",
+            "url": "http://electrek.co/2026/05/14/volkswagen-brings-id-buzz-back-for-2027-the-id-4-goes-on-hiatus/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/05/Volkswagen-ID-Buzz-2027-EV.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-05-14T16:28:00Z",
+            "content": "The ID. Buzz is coming back for the 2027 model year. While the electric van is set to return, Volkswagen said the ID.4 is now going on a brief hiatus.\r\nAfter a short absence, Volkswagen announced tha… [+4173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Hillary Remy",
+            "title": "Bank of America resets Nvidia stock price target for 2026 - thestreet.com",
+            "description": "Bank of America just changed a key assumption about the AI market and the new number it landed on is significantly larger than before",
+            "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-nvidia-stock-price-target-for-2026",
+            "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMDQxNTE0/us-politics-economy-milken.jpg?profile=share16-9",
+            "publishedAt": "2026-05-14T16:13:00Z",
+            "content": "Nvidia (NVDA) just became the first company in history to hit a $5.5 trillion market cap. Its CEO is flying to Beijing with President Trump. And on the same day all of that was happening, Bank of Ame… [+5450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Peter Johnson",
+            "title": "Honda retreats to hybrids after failed EV bet triggers record $9 billion loss [Images] - Electrek",
+            "description": "Honda is waving the white flag. The Japanese automaker previewed two new hybrids set to launch by 2028 after taking...",
+            "url": "http://electrek.co/2026/05/14/honda-retreats-hybrids-after-failed-ev-bet-triggers-9-billion-loss/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/05/Honda-EV-plans-hybrids.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-05-14T14:46:00Z",
+            "content": "Honda is waving the white flag. The Japanese automaker previewed two new hybrids set to launch by 2028 after taking an over $9 billion hit over its failed EV bet, leading to its biggest loss in compa… [+2473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cpsc.gov"
+            },
+            "author": null,
+            "title": "Cosyland Children’s Tower Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by Cosyland Official - CPSC.gov",
+            "description": "Consumers should stop using the recalled tower stools immediately and store them away from children until repaired. Contact Cosyland Official for repair parts, which include protective nets, stabilizing feet, and installation instructions. The firm will mail …",
+            "url": "https://www.cpsc.gov/Recalls/2026/Cosyland-Childrens-Tower-Stools-Recalled-Due-to-Risk-of-Serious-Injury-and-Death-from-Entrapment-and-Fall-Hazards-Imported-by-Cosyland-Official",
+            "urlToImage": "https://www.cpsc.gov/s3fs-public/cosyland-1.jpg?VersionId=tFfHwuc6ol6L2WlJMufD1eILVKnzfo0O",
+            "publishedAt": "2026-05-14T14:24:12Z",
+            "content": "The U.S. Consumer Product Safety Commission (CPSC) is charged with protecting the public from unreasonable risk of injury associated with the use of thousands of types of consumer products. Deaths, i… [+465 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Alex Perry",
+            "title": "Trump Mobile CEO says the phones are shipping. The terms and conditions say it doesn't have to. - Mashable",
+            "description": "We've never seen mobile terms and conditions like this before.",
+            "url": "https://mashable.com/article/trump-mobile-t1-terms-conditions-never-release",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/02lS4sRTsGFWQxb5a5Nw1oI/hero-image.fill.size_1200x675.v1778692731.jpg",
+            "publishedAt": "2026-05-14T14:20:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Niloofer Shaikh",
+            "title": "Biggest stock movers Thursday: CSIQ, CSCO, DOCS, and more - Seeking Alpha",
+            "description": "Stock market movers: Cisco jumps on earnings, AI restructuring &amp; raised guidance, while Doximity, Enovix and Kodiak slide.",
+            "url": "https://seekingalpha.com/news/4592744-biggest-stock-movers-thursday-csco-docs-and-more",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256840378/image_2256840378.jpg?io=getty-c-w630",
+            "publishedAt": "2026-05-14T14:18:00Z",
+            "content": "KanawatTH\r\nStock futures edged up on Thursday as traders looked for signs of progress in high-level diplomatic discussions between Washington and Beijing.\r\nHere are some of Thursday's biggest stock m… [+88 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’ - TechCrunch",
+            "description": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+            "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/chuck-robbins-2270936687.jpg?resize=1200,865",
+            "publishedAt": "2026-05-14T14:01:14Z",
+            "content": "Technology giant Cisco is cutting nearly 4,000 jobs, or around 5% of its workforce, despite reporting better-than-expected profit and revenue in its fiscal third quarter. \r\nThe networking equipment m… [+1442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OilPrice.com"
+            },
+            "author": "City A.M",
+            "title": "Global Oil Stockpiles Plunge as Iran War Chokes Supply - Crude Oil Prices Today | OilPrice.com",
+            "description": "Global oil markets are facing a historic supply shock as the war in Iran restricts Hormuz tanker traffic and drains inventories at record speed.",
+            "url": "https://oilprice.com/Energy/Energy-General/Global-Oil-Stockpiles-Plunge-as-Iran-War-Chokes-Supply.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-05-13_zzf81ehwvo.jpg",
+            "publishedAt": "2026-05-14T14:00:00Z",
+            "content": "The IEA's new Portugal Energy…\r\nMiddle East renewables deployment is…\r\nAnalysts warn the industry is…\r\nSet us as your preferred Google source\r\nBy City A.M - May 14, 2026, 9:00 AM CDTThe Wests interna… [+4426 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "AT&T, T-Mobile, and Verizon team up to eliminate coverage dead zones - The Verge",
+            "description": "AT&T, T-Mobile, and Verizon have agreed to work together under a new joint venture that aims to end wireless dead zones in the US.",
+            "url": "https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK451_Internet_Service_Providers_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T12:48:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new joint venture has been proposed to pool spectrum resources and improve satellite capacity.\r\nA new joint venture has been proposed to pool spectrum resource… [+3038 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Matt Ott",
+            "title": "US filings for jobless benefits hits 211,000 as the war in Iran drags on, clouding economic forecast - AP News",
+            "description": "The number of Americans filing for jobless aid rose last week but remains historically low despite the economic uncertainty caused by the war in Iran. U.S. applications for unemployment benefits for the the week ending May 9 rose by 12,000 to 211,000, the Lab…",
+            "url": "https://apnews.com/article/unemployment-benefits-jobless-claims-layoffs-labor-b57b326ca4c4b04cf3881e80d5a48a90",
+            "urlToImage": "https://dims.apnews.com/dims4/default/62ee918/2147483647/strip/true/crop/5235x3488+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb3%2F93%2F6639ac68a3cc67c61a9e8946fd57%2F94b658dd21374727a8e24c903761fdb1",
+            "publishedAt": "2026-05-14T12:42:00Z",
+            "content": "WASHINGTON (AP) The number of Americans filing for jobless aid rose last week but remains historically low despite the economic uncertainty caused by the war in Iran.\r\nU.S. applications for unemploym… [+3307 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Blue-green diamond called the \"world's rarest\" sells for record $17.3 million at auction - CBS News",
+            "description": "The 5.5-carat \"Ocean Dream\" was found in Central Africa in the 1990s.",
+            "url": "https://www.cbsnews.com/news/blue-green-diamond-ocean-dream-17-3-million-auction/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/14/8dbbdeb4-9500-46a6-bee5-421f41c4ad4a/thumbnail/1200x630g7/26fbe4ea5439ad40e52fc7703a06667e/ap26127603402074.jpg",
+            "publishedAt": "2026-05-14T11:50:26Z",
+            "content": "A 5.5-carat triangular-cut diamond billed as the largest fancy vivid blue-green diamond known to exist sold for $17.3 million on Wednesday, Christie's said, calling it a record price for a stone of i… [+2312 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Denver runway fatality reveals a weakness in airport security - NBC News",
+            "description": "In less than three minutes, an intruder exploited a security gap at one of the nation’s busiest airports and stepped into the path of an airplane hurtling down a Colorado runway with 231 people aboard",
+            "url": "https://www.nbcnews.com/news/us-news/denver-runway-fatality-reveals-weakness-airport-security-rcna345095",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260512-denver-rs-d83581.jpg",
+            "publishedAt": "2026-05-14T11:23:50Z",
+            "content": "In less than three minutes, an intruder exploited a security gap at one of the nations busiest airports and stepped into the path of an airplane hurtling down a Colorado runway with 231 people aboard… [+5099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Nauman Khan",
+            "title": "Ford Stock Soars on Explosive AI Data Center Energy Opportunity - Yahoo Finance",
+            "description": "Ford Jumps as Wall Street Sees Massive Potential in Energy Storage Push",
+            "url": "https://finance.yahoo.com/sectors/energy/articles/ford-stock-soars-explosive-ai-111126307.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+            "publishedAt": "2026-05-14T11:11:26Z",
+            "content": "This article first appeared on GuruFocus.\r\nFord Motor Company (NYSE:F) shares jumped 12% on early Thursday after Morgan Stanley said investors may be underestimating the automaker's push into battery… [+813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biogen.com"
+            },
+            "author": null,
+            "title": "Topline Results from Phase 2 CELIA Study of Diranersen (BIIB080): First Study to Show Reduction in Tau Pathology and Cognitive Benefit in Patients with Early Alzheimer’s Disease - Biogen",
+            "description": "The Investor Relations website contains information about Biogen's business for stockholders, potential investors, and financial analysts.",
+            "url": "https://investors.biogen.com/news-releases/news-release-details/topline-results-phase-2-celia-study-diranersen-biib080-first",
+            "urlToImage": null,
+            "publishedAt": "2026-05-14T11:03:07Z",
+            "content": "<ul><li>Robust reductions in tau pathology were observed across all studied doses, with results generally consistent with those observed in the Phase 1b study1</li><li>Pre-specified analyses of cogni… [+12937 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Food & Wine"
+            },
+            "author": "https://www.facebook.com/foodandwine",
+            "title": "The Best Grocery Chain for Buying Prime Beef, According to a Chef - Food & Wine",
+            "description": "Prime beef is all about marbling — that’s what gives it that tender, juicy, super-flavorful bite. Chef Chris Shepherd says he’s been surprised to see such low prices for Prime cuts at Walmart, and he’s genuinely impressed with what the chain is offering. So h…",
+            "url": "https://www.foodandwine.com/best-grocery-store-for-prime-beef-11974014",
+            "urlToImage": "https://www.foodandwine.com/thmb/xUGf-56ru1unYpeMQR6UxXjP5mY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Grocery-Chain-Cheapest-Prime-Beef-FT-DGTL0526-5c9afab005a84da6ab740887e6c005b3.jpg",
+            "publishedAt": "2026-05-14T11:01:00Z",
+            "content": "Buying beef at the grocery store is a less straightforward process than just picking up a box of your favorite cereal. In addition to deciding which cut of meat you want to buy, youll need to weigh p… [+4302 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit - Ars Technica",
+            "description": "Xi meeting may force Trump to pivot on chip restrictions and Taiwan.",
+            "url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2243556893-1024x648.jpg",
+            "publishedAt": "2026-05-14T11:00:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STAT"
+            },
+            "author": "Adam Feuerstein, Jason Mast",
+            "title": "Regenxbio says Duchenne gene therapy succeeded in clinical trial, paving way for FDA submission - statnews.com",
+            "description": "Regenxbio said its experimental gene therapy for Duchenne muscular dystrophy succeeded in a trial, paving the way for a submission to the FDA.",
+            "url": "https://www.statnews.com/2026/05/14/regenxbio-duchenne-gene-therapy-trial-results/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/05/REGENXBIO_Inc__headquarters_in_Rockville__Maryland-2-1024x576.jpg",
+            "publishedAt": "2026-05-14T11:00:36Z",
+            "content": "Regenxbio said Thursday that its experimental gene therapy for Duchenne muscular dystrophy produced sufficiently high levels of a miniaturized muscle protein broken in the fatal neuromuscular disease… [+677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Supercarblondie.com"
+            },
+            "author": "Alessandro Renesis",
+            "title": "Joe Rogan bet Elon Musk $1 that an arrow could pierce the Tesla Cybertruck and filmed himself trying to do it - supercarblondie.com",
+            "description": "Elon Musk said the Tesla Cybertruck is basically bulletproof but Joe Rogan decided to verify that claim with a symbolic bet",
+            "url": "https://supercarblondie.com/joe-rogan-elon-musk-bet-arrow-tesla-cybertruck/",
+            "urlToImage": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Joe-Rogan-decided-to-verify-Elon-Musks-claims-regarding-the-Tesla-Cybertrucks-bulletproof-durability-and-the-result-was-fascinating-lead-1.webp",
+            "publishedAt": "2026-05-14T10:37:00Z",
+            "content": "Joe Rogan decided to verify the claims made by Elon Musk regarding the bulletproof durability of the Tesla Cybertruck.\r\nBack when the Cybertruck was first unveiled in 2019, Musk immediately made a po… [+2211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Iain Martin",
+            "title": "The Payday From These 3 Companies Would Outstrip A Decade Of VC Returns - Forbes",
+            "description": "The initial public offerings for SpaceX, OpenAI and Anthropic are on track to surpass the cash VCs raked in on every other startup exit since 2016—combined.",
+            "url": "https://www.forbes.com/sites/iainmartin/2026/05/14/the-payday-from-these-3-companies-would-outstrip-a-decade-of-vc-returns/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a04f9aa923d37a6bd4a40cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-05-14T10:30:00Z",
+            "content": "When ride-hailing app Uber listed on the New York Stock Exchange in May 2019, it reset the scales for all venture capitalists. In one of the all-time largest initial public offerings in the United St… [+8137 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Andrea Murphy",
+            "title": "The 25 Most Valuable Private Family Businesses in America, Ranked - Forbes",
+            "description": "For the first time, Forbes ranks the nation’s most valuable privately owned family businesses —including the companies behind Chick-fil-A, M&M’s and Windex.",
+            "url": "https://www.forbes.com/sites/andreamurphy/2026/05/14/americas-most-valuable-private-family-businesses-2026/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a04ea7827d5ee67cd34a0f0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-05-14T10:30:00Z",
+            "content": "On Wednesday,Forbes published its inaugural list of Americas Largest Family Businesses by revenue. But sales are hardly the only way to measure the magnitude of a business. Thats why for the first ti… [+16142 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "A mom was sued over her student loans. She's teaching herself the law to fight back. - Business Insider",
+            "description": "\"I'm burned out on so many levels,\" said Ashley Carlson, a student-loan borrower who is being sued by SoFi. \"But what else am I going to do?\"",
+            "url": "https://www.businessinsider.com/mom-fighting-private-student-loan-debt-lawsuit-sofi-borrower-default-2026-5",
+            "urlToImage": "https://i.insider.com/6a03435e58810e27922acb2a?width=1200&format=jpeg",
+            "publishedAt": "2026-05-14T10:00:00Z",
+            "content": "After Ashley Carlson puts her two kids to bed, she stays up until 2 a.m. most nights drafting court filings work she never imagined doing before SoFi sued her to collect $55,000 in defaulted student … [+8557 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jim Edwards",
+            "title": "Wall Street no longer believes Kevin Warsh can do what President Trump wants - Fortune",
+            "description": "Everything you need to know before you reach the office this morning.",
+            "url": "https://fortune.com/2026/05/14/wall-street-no-longer-believes-that-kevin-warsh-can-do-what-trump-wants/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2272316290.jpg?resize=1200,600",
+            "publishedAt": "2026-05-14T09:09:00Z",
+            "content": "Quick note: Subscribe to the forthcoming Fortune Gulf Brief. Every Tuesday, this new newsletter will deliver clear-eyed, authoritative intelligence on the deals, decisions, policies, and power shifts… [+7786 chars]"
         },
         {
             "source": {
@@ -61,37 +373,11 @@
             },
             "author": "Paresh Dave, Lauren Goode, Steven Levy, Zoë Schiffer",
             "title": "Meta’s New Reality: Record High Profits. Record Low Morale - WIRED",
-            "description": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where \"everyone is unhappy.\"",
+            "description": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where “everyone is unhappy.”",
             "url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
             "urlToImage": "https://media.wired.com/photos/6a05290e9fce16b06df70c32/191:100/w_1280,c_limit/Meta-New-Reality-Record-High-Profits-Record-Low-Morale-Business-2261835380.jpg",
             "publishedAt": "2026-05-14T09:00:00Z",
-            "content": "As Meta employees brace for layoffs next Wednesday, May 20, many say the vibes are horrifically, historically low. Everyone is unhappy; the only people who are not unhappy are, literally, executives,… [+4303 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Shawn Tully",
-            "title": "Boeing lost China. Trump—and 500 jets—may be about to win it back. - Fortune",
-            "description": "Beijing hasn't ordered planes from Boeing since 2017. That could soon change.",
-            "url": "https://fortune.com/2026/05/14/trump-china-boeing-kelly-ortberg-plane-sales/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2276026081.jpg?resize=1200,600",
-            "publishedAt": "2026-05-14T07:00:00Z",
-            "content": "President Trump has declared that the main focus of the China Summit is trade, specifically unveiling big transactions for signature U.S. enterprises that swell the flow of U.S. exports, and Washingt… [+5074 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Reuters",
-            "title": "Exclusive-US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough - Yahoo Finance",
-            "description": "May 14 (Reuters) - The U.S. has cleared around 10 Chinese firms to buy Nvidia's second-most powerful AI chip, the H200, but not a single delivery has been...",
-            "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-us-clears-h200-chip-054811034.html",
-            "urlToImage": "https://s.yimg.com/os/en/reuters.com/8835c867a46bafa7fbe9fe587ccc1816",
-            "publishedAt": "2026-05-14T05:51:00Z",
-            "content": "May 14 (Reuters) - The U.S. has cleared around 10 Chinese firms to buy Nvidia's second-most powerful AI chip, the H200, but not a single delivery has been made so far, three people familiar with the … [+5202 chars]"
+            "content": "As Meta employees brace for layoffs next Wednesday, May 20, many say the vibes are horrifically, historically low. Everyone is unhappy; the only people who are not unhappy are, literally, executives,… [+4301 chars]"
         },
         {
             "source": {
@@ -108,94 +394,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Khac Phu Nguyen",
-            "title": "Trump-Xi Summit Puts Nvidia, Boeing And 500-Jet Deal In Focus - Yahoo Finance",
-            "description": "Investors are watching chips, aerospace, agriculture and rare earths as Trump and Xi head into high-stakes talks.",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-summit-puts-nvidia-040122496.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-            "publishedAt": "2026-05-14T04:01:00Z",
-            "content": "This article first appeared on GuruFocus.\r\nMarkets are heading into Donald Trump's meeting with Xi Jinping with major US stocks near record levels, and the next two days could become a fresh test for… [+2506 chars]"
+            "author": "Rio Yamat, Ap Airlines, Travel Writer",
+            "title": "Allegiant Air and Sun Country complete merger, creating larger budget airline for travelers - AP News",
+            "description": "Allegiant Air says it has completed its purchase of Sun Country Airlines, bringing together two low-cost carriers and creating a larger budget airline for travelers. The airline said Wednesday the merger was approved by regulators and shareholders. The compan…",
+            "url": "https://apnews.com/article/allegiant-sun-country-merger-new-airline-75adb4a315c7a79d7c1738b20ce00c47",
+            "urlToImage": "https://dims.apnews.com/dims4/default/9e1f1d7/2147483647/strip/true/crop/1939x1292+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2Fb6%2F0d7e8ab76085f5856b1234096265%2F75b8179bef36497f906f450749990e7c",
+            "publishedAt": "2026-05-13T23:37:00Z",
+            "content": "LAS VEGAS (AP) Allegiant Air said Wednesday it has completed its purchase of Sun Country Airlines, finalizing a deal that combines two low-cost carriers at a turbulent time for the budget airline ind… [+2204 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "VentureBeat"
             },
-            "author": "Yongchang Chin",
-            "title": "Oil Steadies Ahead of Trump-Xi Talks as Iran War Tensions Simmer - Yahoo Finance",
-            "description": "(Bloomberg) -- Oil was steady as a meeting between US President Donald Trump and Chinese leader Xi Jinping kicked off, set against the backdrop of the Iran...",
-            "url": "https://finance.yahoo.com/news/oil-steadies-ahead-of-trump-xi-talks-as-iran-war-tensions-simmer-011040155.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/adEjdTyG37AB8cGtIY260A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bloomberg_markets_video_2/da1bf1d7704fa488bc2dccaffda3a5b7",
-            "publishedAt": "2026-05-14T01:10:00Z",
-            "content": "(Bloomberg) -- Oil was steady as a meeting between US President Donald Trump and Chinese leader Xi Jinping kicked off, set against the backdrop of the Iran war that shows no signs of a near-term reso… [+2222 chars]"
+            "author": "Carl Franzen",
+            "title": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions — with a catch - VentureBeat",
+            "description": "If an agent is inefficient and burns through tokens, it simply drains the user's new $20 to $200 Agent SDK credit budget faster, rather than exceeding the value of Anthropic's fixed monthly subscription tiers.",
+            "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/1oDIYYQnFf2xRZFNGMkIbD/241c6b0680b3acdbd7c7af782e5cca02/ChatGPT_Image_May_13__2026__06_07_24_PM.png?w=800&q=75",
+            "publishedAt": "2026-05-13T22:15:00Z",
+            "content": "Good news, OpenClaw fans you can once again use your Claude AI subscription to power the hit, open source, autonomous AI agentic harness! But, there's a big catch with how it's being enacted. \r\nA few… [+9685 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Tipranks.com"
+                "id": "axios",
+                "name": "Axios"
             },
-            "author": "Marty Shtrubel",
-            "title": "Nvidia, Micron and AMD: AI Stocks Score New Price Target Hikes From Bank of America - TipRanks",
-            "description": "AI infrastructure spending has kept semiconductor stocks among Wall Street’s best-performing groups throughout 2026, as hyperscalers continue pouring billions into data centers, advanced networking systems, and next-generation AI hardware. Those",
-            "url": "https://www.tipranks.com/news/nvidia-micron-and-amd-ai-stocks-score-new-price-target-hikes-from-bank-of-america",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/NVDA-AMD-MU-750x406.jpg",
-            "publishedAt": "2026-05-14T00:41:12Z",
-            "content": ""
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "San Francisco Chronicle"
-            },
-            "author": "Aidin Vaziri",
-            "title": "Silicon Valley tech giant posts record revenue, then cuts 4,000 jobs - San Francisco Chronicle",
-            "description": "Cisco plans to cut about 4,000 jobs as the Silicon Valley tech giant redirects spending toward AI, security and optics.",
-            "url": "https://www.sfchronicle.com/tech/article/cisco-layoffs-ai-restructuring-22257878.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/66/20/54/31001400/5/rawImage.jpg",
-            "publishedAt": "2026-05-14T00:09:47Z",
-            "content": "Cisco CEO Chuck Robbins is pictured in a file photo. Cisco reported record quarterly revenue Wednesday, May 13, 2026, then announced a restructuring that will eliminate fewer than 4,000 jobs as it sh… [+2472 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Laura Italiano, Stephen Council, Natalie Musumeci",
-            "title": "OpenAI trial wraps up with testimony about Reid Hoffman, a trophy, and a Musk outburst - Business Insider",
-            "description": "A gag-gift trophy, an Elon Musk tantrum, and a Reid Hoffman name-drop figured prominently in the final day of testimony for Musk v Altman jurors.",
-            "url": "https://www.businessinsider.com/musk-v-altman-final-testimony-jackass-trophy-reid-hoffman-2026-5",
-            "urlToImage": "https://i.insider.com/6a03921195396a3b6e417ac6?width=1200&format=jpeg",
-            "publishedAt": "2026-05-13T22:54:00Z",
-            "content": "After three weeks of testimony that has shed new light on some of Silicon Valley's biggest names, the Musk v. Altman jury trial is finally coming to a close.\r\nOpenAI wrapped up its case on Wednesday.… [+5915 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Points Guy"
-            },
-            "author": "Edward Russell",
-            "title": "Allegiant completes merger with Sun Country - The Points Guy",
-            "description": "Allegiant Air and Sun Country merge to create eighth largest airline in the U.S.",
-            "url": "https://thepointsguy.com/news/allegiant-sun-country-airlines-merger-closes/",
-            "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/09/allegiant-aircraft.jpg",
-            "publishedAt": "2026-05-13T22:49:28Z",
-            "content": "Leisure airlines Allegiant Air and Sun Country Airlines are now one though each brand will live on.\r\nTravelers can expect little immediate change following the roughly $1.5 billion merger that closed… [+2282 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Jasper Goodman, Aiden Reiter",
-            "title": "Wall Street-crypto clash creates strange bedfellows in the Senate - Politico",
-            "description": "Banks are at odds with their longtime GOP allies — and themselves — over a landmark crypto bill.",
-            "url": "https://www.politico.com/news/2026/05/13/wall-street-crypto-clash-senate-warren-00919742",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fba%2F02%2F1cdb9b0e44bdb328f729b27c3ad2%2Fu-s-congress-52851.jpg",
-            "publishedAt": "2026-05-13T22:18:17Z",
-            "content": "The banking industry is lobbying aggressively to get someone anyone from the GOP majority to address its remaining concerns that the bill will lead customers to pull their money out of traditional ba… [+4421 chars]"
+            "author": "Axios",
+            "title": "Exclusive: Dr. Oz announces health coalition to streamline prior authorizations - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2026/05/13/dr-oz-prior-authorization-health-insurance",
+            "urlToImage": null,
+            "publishedAt": "2026-05-13T22:13:12Z",
+            "content": null
         },
         {
             "source": {
@@ -225,32 +459,6 @@
         },
         {
             "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Scott Waldman, Sara Schonhardt",
-            "title": "Iran war is fueling China’s clean energy surge ahead of Trump-Xi talks - Politico",
-            "description": "The Iran war is driving countries toward Chinese EVs, solar and batteries — strengthening China's hand as Trump seeks trade wins in Beijing.",
-            "url": "https://www.politico.com/news/2026/05/13/iran-war-is-fueling-chinas-clean-energy-surge-ahead-of-trump-xi-talks-00918799",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F71%2Ff5%2Fdacb1b9c43c1b9b9e8dc482d687f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2275998934",
-            "publishedAt": "2026-05-13T20:30:00Z",
-            "content": "The Trump administrations war of choice against Iran has boosted Chinas sales of electric vehicles, solar panels and batteries to countries facing volatile oil markets and fuel shortages, recent trad… [+10087 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sherwood.news"
-            },
-            "author": "Tasha Matsumoto",
-            "title": "Stocks close at a new record, powered by chip stocks and Big Tech - Sherwood News",
-            "description": "Traders ignored the surprise spike in producer prices and piled back into the AI trade.",
-            "url": "https://sherwood.news/markets/market-wrap-2026-05-13-sp500-qqq/",
-            "urlToImage": "https://sherwoodnews.imgix.net/GettyImages-1093278356.jpg?auto=compress%2Cformat&cs=srgb",
-            "publishedAt": "2026-05-13T20:05:04Z",
-            "content": "Marvell Technology is enjoying another bump in its stock in early trading on Thursday following a series of target hikes from Wall Street analysts and strong readacross from Cisco, which is surging a… [+1847 chars]"
-        },
-        {
-            "source": {
                 "id": "techcrunch",
                 "name": "TechCrunch"
             },
@@ -277,42 +485,16 @@
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": "fortune",
+                "name": "Fortune"
             },
-            "author": "David Ingram",
-            "title": "A judge told Musk he wasn’t excused from trial. He went to China with Trump anyway. - Yahoo",
-            "description": "Elon Musk traveled to China with President Donald Trump, despite the trial over his lawsuit with OpenAI and a judge’s order that he remain ready to be...",
-            "url": "https://www.nbcnews.com/tech/elon-musk/musk-flies-china-trump-ongoing-openai-trial-rcna344981",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fwtqK9HntltMsmYj7uUF7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/nbc_news_122/d6118552d7ae1b36e7ee1c54dd8d560d",
-            "publishedAt": "2026-05-13T19:28:48Z",
-            "content": "Elon Musk traveled to China with President Donald Trump this week, despite his ongoing trial over his lawsuit with OpenAI and a federal judges order that he remain at the ready to be recalled to test… [+2794 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": "Amelia Pollard, Claire Jones",
-            "title": "Senate confirms Kevin Warsh to succeed Jay Powell as Fed chair - Financial Times",
-            "description": "Vote brings to an end one of the most fraught processes of selecting a central bank chief in decades",
-            "url": "https://www.ft.com/content/2f1a9453-d062-45a4-9991-9a9552542e25?syn-25a6b1a6\\\\u003d1",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7c467a4b-dbb4-42c4-a53d-572986c8fed2.jpg?source=next-barrier-page",
-            "publishedAt": "2026-05-13T18:49:54Z",
-            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Hillary Remy, Celine Provini",
-            "title": "JPMorgan pulls no punches on Strait of Hormuz, oil prices - thestreet.com",
-            "description": "The global oil market is sending a signal that JPMorgan says most investors are misreading, and the bank has mapped out what happens next.",
-            "url": "https://www.thestreet.com/investing/stocks/jpmorgan-pulls-no-punches-on-strait-of-hormuz-oil-prices",
-            "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMDQwMDM5/jpmorgan-chase-co-capital-markets-conference.jpg?profile=share16-9",
-            "publishedAt": "2026-05-13T18:47:00Z",
-            "content": "Key Points\r\n<ul><li>JPMorgan identified a specific gap between what oil prices are doing and what the underlying inventory data actually show.</li><li>The bank mapped three distinct inflation scenari… [+7164 chars]"
+            "author": "Catherina Gioino",
+            "title": "America's data centers are thirsty. Rural towns are paying the price - Fortune",
+            "description": "Residents in different states were curious why their water was being diverted to data centers instead of their homes in water-fraught communities.",
+            "url": "https://fortune.com/2026/05/13/data-center-georgia-arizona-water-wars/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2229743583-e1778689263612.jpg?resize=1200,600",
+            "publishedAt": "2026-05-13T19:24:00Z",
+            "content": "In the first week of May, two data center developments, one in Arizona and another in Georgia, were caught taking public water without authorization. In both cases, data center developers consumed wa… [+10184 chars]"
         },
         {
             "source": {
@@ -330,162 +512,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Geoffrey Seiler",
-            "title": "Why the Second Wave of AI Will Mint More Millionaires Than the First -- and the Stocks to Own - The Motley Fool",
-            "description": "These stocks are well positioned for the next wave of AI.",
-            "url": "https://www.fool.com/investing/2026/05/13/why-the-second-wave-of-ai-will-mint-more-millionai/",
-            "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F868260%2Fgettyimages-1016186674.jpg&w=1200&op=resize",
-            "publishedAt": "2026-05-13T18:00:00Z",
-            "content": "The first wave of artificial intelligence (AI) undoubtedly created some millionaires, but it was pretty concentrated in a few stocks. Nvidia was far and away the biggest winner, as its graphics proce… [+4084 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Marco Quiroz-Gutierrez",
-            "title": "Trump Mobile's CEO says gold-plated Trump phone will begin shipping to buyers this week after delays - Fortune",
-            "description": "“Those delays were worth it in our minds as we are delivering an amazing product,” said Trump Mobile CEO Pat O’Brien.",
-            "url": "https://fortune.com/2026/05/13/trump-phone-t1-releasing-first-units-this-week-donald-trump-tech-us-politics/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/The_Poplar_Group__Trump_Mobile_Launches_A_Bold_New_Wireless_Service_for_Americans.jpg?resize=1200,600",
-            "publishedAt": "2026-05-13T17:49:00Z",
-            "content": "Trump Mobiles flashy golden phone is releasing its first units nearly a year after the device was initially announced.The CEO of Trump Mobile, Pat OBrien, confirmed in a statement to Fortune that the… [+2808 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "Eddie Pan",
-            "title": "Why Is the Stock Market Up Today, 5/13/26? - TipRanks",
-            "description": "After a slow start, both the S&P 500 (SPX) and the Nasdaq 100 (NDX) are trading higher on Wednesday. Strength in the Magnificent 7 has offset weakness in the utilities,",
-            "url": "https://www.tipranks.com/news/why-is-the-stock-market-up-today-5-13-26",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/shutterstock_2133771959-750x406.jpg",
-            "publishedAt": "2026-05-13T17:40:03Z",
-            "content": "Story Highlights<ul><li>U.S. equities are trading higher, despite a concerning inflation update.</li><li>Tech stocks and the Magnificent 7 have offset weakness in other sectors.</li></ul>"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Elizabeth Stanton",
-            "title": "Treasury Buyers Get 5% Long Bond for First Time Since 2007 - Bloomberg",
-            "description": "Investors snagged 5% yields on 30-year Treasuries for the first time since 2007, as surging energy prices push inflation — and expectations for more of it — higher.",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-13/treasury-buyers-get-5-long-bond-rate-for-first-time-since-2007",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibCDqu85YECU/v1/1200x800.jpg",
-            "publishedAt": "2026-05-13T17:16:13Z",
-            "content": "Investors snagged 5% yields on 30-year Treasuries for the first time since 2007, as surging energy prices push inflation and expectations for more of it higher.\r\nA $25 billion auction of new 30-year … [+296 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Delish.com"
-            },
-            "author": "Amanda Mactas",
-            "title": "At Least 8 Recalls Have Been Linked To A Potentially Deadly Ingredient—What To Know - Delish",
-            "description": "California Dairies powdered milk products that were possibly contaminated with Salmonella have been linked to eight ongoing recalls.",
-            "url": "https://www.delish.com/food-news/a71294295/milk-powder-recall-products/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/81806e53-91b5-4d78-a4c6-a73a11e482dc.jpeg?crop=0.747xw:0.664xh;0.074xw,0.252xh&resize=1200:*",
-            "publishedAt": "2026-05-13T17:11:00Z",
-            "content": "May has been a doozy when it comes to food recallsand now we have a little more insight into why. At least eight recalls have all been traced back to a single ingredient found in each product: milk p… [+3580 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Vishesh Raisinghani",
-            "title": "Social Security now poised for big ‘Trump Bump’ in the months ahead — here’s how much extra cash you’ll likely get - Yahoo Finance",
-            "description": "Social Security benefits are going up, but will the bump be enough to cover the massive cost-of-living increase retirees are suddenly dealing with?",
-            "url": "https://finance.yahoo.com/economy/policy/articles/social-security-now-poised-big-163000521.html",
-            "urlToImage": "https://s.yimg.com/os/en/moneywise_ecomm_711/5effbdbb90020715bf477ddece84f84d",
-            "publishedAt": "2026-05-13T16:30:00Z",
-            "content": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nSocial Security benefits look poised for a so-called \"Trump Bump\" in 2027. If that sounds like good… [+4530 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Lucas Ropek",
-            "title": "Anthropic courts a new kind of customer: small business owners - TechCrunch",
-            "description": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of …",
-            "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-            "publishedAt": "2026-05-13T16:00:00Z",
-            "content": "Anthropic is looking to court smaller companies. To that end, the company announced Wednesday the launch of Claude for Small Business, a new suite of services designed for customers who less resemble… [+2243 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Viewfromthewing.com"
-            },
-            "author": "Gary Leff",
-            "title": "Frontier Passengers File $10 Million Claim Against Denver For Failing To Stop Runway Suicide - View from the Wing",
-            "description": "Frontier passengers traumatized after a suicidal trespasser walked into their jet’s path on a Denver runway have filed a $10 million claim against the city, arguing airport security should have stopped him before takeoff. Their trauma is real — but making tax…",
-            "url": "https://viewfromthewing.com/frontier-passengers-file-10-million-claim-against-denver-for-failing-to-stop-runway-suicide/",
-            "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2026/05/frontier-airlines-engine.jpeg",
-            "publishedAt": "2026-05-13T15:58:01Z",
-            "content": "This is why people hate lawyers.\r\nA man scaled an 8-foot airport perimeter fence topped with barbed wire, entered Denver’s remote airfield area, and stood on the runway in front of a Frontier jet tak… [+3615 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Utilitydive.com"
-            },
-            "author": "Ethan Howland",
-            "title": "PJM may be ‘too big to function’: FERC Chairman Swett - Utility Dive",
-            "description": "Each of the 13 states in PJM, and the District of Columbia, have “fundamentally different regulatory structures, resource portfolios and politics,” FERC Chairman Laura Swett said. FERC will host a conference in July to identify potential reforms to PJM’s gove…",
-            "url": "https://www.utilitydive.com/news/pjm-ferc-swett-capacity-governance-data-center/820085/",
-            "urlToImage": "https://imgproxy.divecdn.com/IGgVdlX25BAvxP70M1LRZ7kg3a93xhsiqLuk691oulA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzEwN19ETm0xcU9YLnBuZw==.webp",
-            "publishedAt": "2026-05-13T15:48:19Z",
-            "content": "Dive Brief:\r\n<ul><li>The PJM Interconnection may be too big to function and has an unacceptable governance structure, Federal Energy Regulatory Commission Chairman Laura Swett said Tuesday at the gri… [+4175 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Louis Juricic",
-            "title": "Ford shares jump 6% as Morgan Stanley hails CATL-backed energy business - Yahoo Finance",
-            "description": "Investing.com -- Ford Motor (NYSE:F) shares rose 6% on Wednesday following positive analyst commentary on the company’s energy storage business and its...",
-            "url": "https://finance.yahoo.com/news/ford-shares-jump-6-morgan-152451897.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-            "publishedAt": "2026-05-13T15:24:51Z",
-            "content": "Investing.com -- Ford Motor (NYSE:F) shares rose 6% on Wednesday following positive analyst commentary on the companys energy storage business and its potential to improve profitability within the Mo… [+1702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "Joy Iyke",
-            "title": "Alibaba (BABA) Sees Profits Drain 84% Despite Cloud and AI Growth Surge - TipRanks",
-            "description": "Global retail giant Alibaba ($BABA) reported weak earnings for the March quarter, as heavy spending on artificial intelligence (AI), chips, and e-commerce led to an 84% decline in core profitability.",
-            "url": "https://www.tipranks.com/news/alibaba-baba-sees-profits-drain-84-despite-cloud-and-ai-growth-surge",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/shutterstock_2543899681-750x406.jpg",
-            "publishedAt": "2026-05-13T14:42:13Z",
-            "content": "Story Highlights<ul><li>Alibaba has recorded a staggering drop in core profitability as heavy spending on AI and e-commerce weighs on earnings. </li><li>At the same time, the retail company is seeing… [+94 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Sean O'Kane",
-            "title": "r/WallStreetBets really hates the SEC’s proposal to weaken quarterly reporting - TechCrunch",
-            "description": "The retail trading subreddit submitted the sharpest criticism yet of the financial regulator's idea of letting companies report twice per year.",
-            "url": "https://techcrunch.com/2026/05/13/r-wallstreetbets-really-hates-the-secs-proposal-to-weaken-quarterly-reporting/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
-            "publishedAt": "2026-05-13T14:42:11Z",
-            "content": "The Securities and Exchange Commission officially proposed last week to weaken the quarterly reporting standards for publicly traded companies. So far, public comments submitted to the financial regu… [+5136 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Gallup.com"
             },
             "author": "Jeffrey M. Jones",
@@ -499,19 +525,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
-            },
-            "author": "Mary Whitfill Roeloffs",
-            "title": "All The Shortages Caused By The Iran War—So Far - Forbes",
-            "description": "The impacts of the Strait of Hormuz closure are being felt beyond the price of gas.",
-            "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/13/from-diet-coke-to-helium-consumers-feeling-iran-war-shortages/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a03703d8d37a20d6e4f75d9/0x0.jpg?format=jpg&crop=4665,2623,x0,y250,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-05-13T13:24:00Z",
-            "content": "The packaging change is reportedly due to a shortage of naptha, an ink ingredient derived from petroleum, of which Japan imports 40% of its consumption from the Middle East via the Strait of Hormuz s… [+3599 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Aboutamazon.com"
             },
             "author": "Amazon Staff",
@@ -521,110 +534,6 @@
             "urlToImage": "https://assets.aboutamazon.com/dims4/default/b326d89/2147483647/strip/true/crop/2000x1000+0+57/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F53%2Fdd%2Ffb5a1fac4850ae9bfde31cca551b%2F2026-pr-bh-gtm-2000x1125-1.GIF",
             "publishedAt": "2026-05-13T12:58:55Z",
             "content": "Amazon brings together Rufus and Alexa+ to create Alexa for Shopping on the Amazon Shopping app and website."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Jeffry Bartash",
-            "title": "Wholesale prices jump to 4-year high and point to even more inflation this summer - MarketWatch",
-            "description": "Producer price index has climbed 6% in past year. Fed rate cuts look even more doubtful.",
-            "url": "https://www.marketwatch.com/story/wholesale-prices-jump-to-4-year-high-and-point-to-even-more-inflation-in-the-next-few-months-00666242",
-            "urlToImage": "https://images.mktw.net/im-43929998/social",
-            "publishedAt": "2026-05-13T12:43:00Z",
-            "content": "A recap of consumer prices in April showed inflation climbing to a three-year high. Now, the latest look at skyrocketing wholesale prices points to even higher inflation in the months ahead.\r\nThe pro… [+210 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Reuters",
-            "title": "Walmart cuts 1,000 roles to simplify operations, Reuters reports - CNBC",
-            "description": "Under new CEO John Furner ​and a ​reshaped leadership team, the ​retailer is doubling down on a tech-focused strategy.",
-            "url": "https://www.cnbc.com/2026/05/13/walmart-cuts-1000-roles-to-simplify-operations-reports.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104161265-RTX2QKUT.jpg?v=1529452191&w=1920&h=1080",
-            "publishedAt": "2026-05-13T12:11:30Z",
-            "content": "Walmart has eliminated 1,000 roles as the world's largest retailer simplifies its operating structure, a source familiar with the matter told Reuters.\r\nUnder new CEO John Furner and a reshaped leader… [+1305 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CALmatters"
-            },
-            "author": "Alejandro Lazo",
-            "title": "Will California gas hit $7? Experts are split. - CalMatters",
-            "description": "California gas topped $6 after the Iran war. Experts warn oil supplies could tighten and push prices higher.",
-            "url": "https://calmatters.org/environment/2026/05/california-gas-prices-six-weeks/",
-            "urlToImage": "https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/042026-Central-Valley-Voting-LV-CM-21.jpg?fit=2000%2C1333&ssl=1",
-            "publishedAt": "2026-05-13T12:00:00Z",
-            "content": "IN SUMMARY\r\n<ul><li>At $6 a gallon, California drivers are paying the highest gas prices in the nation. </li><li>Gasoline supplies look stable for the next six weeks but are uncertain after that as C… [+7201 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Waymo recalls thousands of robotaxis after Texas flood incident - BBC",
-            "description": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas.",
-            "url": "https://www.bbc.com/news/articles/cwy2011dl4xo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4e77/live/96f04200-4eae-11f1-92a2-156bc6ac560f.jpg",
-            "publishedAt": "2026-05-13T11:05:47Z",
-            "content": "A spokesperson from Waymo, which is owned by Google's parent company Alphabet, added \"mitigations\" had already been put in place, such as \"limiting access to areas where flash flooding might occur\"."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Matt Durot",
-            "title": "America’s Largest Family Businesses: Walmart, Wegmans, Wawa And 97 More - Forbes",
-            "description": "Forbes inaugural list of the nation's 100 biggest family firms include the companies behind everything from where we shop (Wegmans), stay (Hyatt) and eat (Chick-fil-A).",
-            "url": "https://www.forbes.com/sites/mattdurot/2026/05/13/americas-largest-family-businesses-walmart-wegmans-wawa-and-97-more/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a039ed3116192a3313b40ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-05-13T10:30:00Z",
-            "content": "At a time when much of the business conversation is defined by speed, scale and disruption, family businesses reflect a different model of success, one grounded in endurance, stewardship, resilience … [+5079 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "Thomas Germain",
-            "title": "Trillions of miles of data: Your car is spying on you, and it's only just the beginning - BBC",
-            "description": "From your weight and facial expressions to your destination, cars collect a startling amount of data about you. Some of it may even raise your insurance costs.",
-            "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0nkx9w7.jpg",
-            "publishedAt": "2026-05-13T10:00:00Z",
-            "content": "According to the report, car companies reserve the right to collect details including your name, age, race, weight, financial details, facial expressions, psychological trends and more. Kia's privacy… [+108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tipranks.com"
-            },
-            "author": "Shalu Saraf",
-            "title": "GME, EBAY: ‘Takeover Fight May Just Be Starting,’ Says Morgan Stanley after eBay Rejects GameStop Bid - TipRanks",
-            "description": "eBay ($EBAY), the e-commerce marketplace company, rejected GameStop’s ($GME) unsolicited $125-per-share takeover offer on Tuesday, calling the proposal “neither credible nor attractive.” However, Wall Street analysts believe the story is",
-            "url": "https://www.tipranks.com/news/gme-ebay-takeover-fight-may-just-be-starting-says-morgan-stanley-after-ebay-rejects-gamestop-bid",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/shutterstock_2030345732-750x406.jpg",
-            "publishedAt": "2026-05-13T04:10:57Z",
-            "content": "Story Highlights<ul><li>eBay rejects GameStops $125-per-share takeover offer.</li><li>Morgan Stanley says the eBay-GameStop takeover fight may not be over.</li><li>Stifel expects Ryan Cohen to respon… [+39 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lilly.com"
-            },
-            "author": null,
-            "title": "Lilly's Foundayo and lower-dose Zepbound helped people maintain weight loss after switching from higher doses of injectable incretin therapy in two late-phase trials - investor.lilly.com",
-            "description": "The Investor Relations website contains information about Eli Lilly and Company's business for stockholders, potential investors, and financial analysts.",
-            "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-foundayo-and-lower-dose-zepbound-helped-people-maintain",
-            "urlToImage": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98",
-            "publishedAt": "2026-05-12T22:04:56Z",
-            "content": "In ATTAIN-MAINTAIN, participants who transitioned from a maximum tolerated dose (MTD) of Wegovy (semaglutide) to Foundayo maintained all but 0.9 kg of their previously achieved weight loss on average… [+37567 chars]"
         }
     ]
 }

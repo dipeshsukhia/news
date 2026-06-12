@@ -7,17 +7,34 @@ if len(sys.argv) != 2:
     print("Usage: python newsapi.py api_key")
     sys.exit(1)
 
-# Access command-line arguments
-script_name = sys.argv[0]
-arguments = sys.argv[1:]
+api_key = sys.argv[1]
 
 data_path = './docs/data/'
-# Ensure the directory exists, creating it if necessary
 os.makedirs(data_path, exist_ok=True)
 
-# Replace 'YOUR_API_KEY' with your News API key
-api_key = arguments[0]
 language = 'en'
+
+
+def has_news_data(data):
+    if not isinstance(data, dict) or data.get('status') != 'ok':
+        return False
+    articles = data.get('articles')
+    return isinstance(articles, list) and len(articles) > 0
+
+
+def save_news_data(file_path, data):
+    if not has_news_data(data):
+        if os.path.exists(file_path):
+            print(f"No new articles for {file_path}; kept existing data")
+        else:
+            print(f"No articles returned and no existing file at {file_path}; skipped save")
+        return
+
+    with open(file_path, 'w', encoding='utf-8') as json_file:
+        json.dump(data, json_file, ensure_ascii=False, indent=4)
+
+    print(f"News data has been saved to {file_path}")
+
 
 # Specify the endpoint URL for the everything News API
 url = f'https://newsapi.org/v2/everything'
@@ -33,22 +50,15 @@ params = {
 # Make the API request
 response = requests.get(url, params=params)
 
-# Check if the request was successful
 if response.status_code == 200:
-    # Parse the JSON response
-    data = response.json()
-
-    # Define the file path for storing the news data
     file_path = data_path + 'everything-' + language + '-news.json'
-
-    # Save the news data to a JSON file
-    with open(file_path, 'w', encoding='utf-8') as json_file:
-        json.dump(data, json_file, ensure_ascii=False, indent=4)
-
-    print(f"News data has been saved to {file_path}")
-
+    save_news_data(file_path, response.json())
 else:
-    print(f"Failed to fetch news. Status code: {response.status_code}")
+    file_path = data_path + 'everything-' + language + '-news.json'
+    if os.path.exists(file_path):
+        print(f"Failed to fetch news (status {response.status_code}); kept existing data at {file_path}")
+    else:
+        print(f"Failed to fetch news. Status code: {response.status_code}")
 
 
 categories = [
@@ -83,19 +93,11 @@ for country in countries:
         # Make the API request
         response = requests.get(url, params=params)
 
-        # Check if the request was successful
+        file_path = data_path + country + '-' + language + '-' + category + '.json'
+
         if response.status_code == 200:
-            # Parse the JSON response
-            data = response.json()
-
-            # Define the file path for storing the news data
-            file_path = data_path + country + '-' + language + '-' + category + '.json'
-
-            # Save the news data to a JSON file
-            with open(file_path, 'w', encoding='utf-8') as json_file:
-                json.dump(data, json_file, ensure_ascii=False, indent=4)
-
-            print(f"News data has been saved to {file_path}")
-
+            save_news_data(file_path, response.json())
+        elif os.path.exists(file_path):
+            print(f"Failed to fetch news for {country}/{category} (status {response.status_code}); kept existing data at {file_path}")
         else:
-            print(f"Failed to fetch news. Status code: {response.status_code}")
+            print(f"Failed to fetch news for {country}/{category}. Status code: {response.status_code}")

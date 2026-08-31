@@ -1,7 +1,85 @@
 {
     "status": "ok",
-    "totalResults": 418,
+    "totalResults": 423,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Gamescom 2026: Classic remakes and new worlds at gaming's biggest showcase - BBC",
+            "description": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
+            "url": "https://www.bbc.com/news/articles/cew92lp2g45o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e644/live/028c1140-a285-11f1-ae59-c1f7c17a8b7d.png",
+            "publishedAt": "2026-08-29T23:02:28Z",
+            "content": "\"Anybody can be a part of this community, anybody can be a speedrunner, and it is just like a giant hug from gamers of like, hey, we want you to come, hang out and do fun stuff and raise money for ch… [+16 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendoeverything.com"
+            },
+            "author": "Brian",
+            "title": "Sonic Team head talks possibility of Sonic Mania 2 - Nintendo Everything",
+            "description": "There’s no sign of Sonic Mania 2 happening anytime soon, but Sonic Team head Takazhi Iizuka has left the door open to the possibility. Believe it or not, Sonic Mania is coming close to its tenth anniversary. The title launched in 2017 and many fans had hoped …",
+            "url": "https://nintendoeverything.com/sonic-team-head-talks-possibility-of-sonic-mania-2/",
+            "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Sonic-Mania-sequel.jpg",
+            "publishedAt": "2026-08-29T22:05:22Z",
+            "content": "There’s no sign of Sonic Mania 2 happening anytime soon, but Sonic Team head Takazhi Iizuka has left the door open to the possibility.\r\nBelieve it or not, Sonic Mania is coming close to its tenth ann… [+1517 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Push Square",
+            "title": "'This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking - Push Square",
+            "description": "AI don't really like it",
+            "url": "https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking",
+            "urlToImage": "https://images.pushsquare.com/51d6d8a618495/large.jpg",
+            "publishedAt": "2026-08-29T19:00:00Z",
+            "content": "Nvidias controversial new DLSS 5 filter, which caused a bit of a hullabaloo earlier this year, has leaked online and instantly been implemented into pretty much every major PS5 game on the market.\r\nW… [+1872 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WindowsLatest"
+            },
+            "author": "Mayank Parmar",
+            "title": "“We’re aware,” Microsoft on Windows 11 KB5120998 breaking the mouse cursor - Windows Latest",
+            "description": "Windows 11's biggest update KB 5120998 is breaking mouse cursors, Microsoft admits the issue, and confirms it's investigating.",
+            "url": "https://www.windowslatest.com/2026/08/29/were-aware-microsoft-on-windows-11-kb5120998-breaking-the-mouse-cursor/",
+            "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2026/08/Windows-11-KB5120998-issue.jpg",
+            "publishedAt": "2026-08-29T17:40:32Z",
+            "content": "On Thursday, Microsoft rolled out Windows 11’s biggest update of the year with a resizable Start menu, a movable Taskbar, and Windows Search without Bing/bloat. Unfortunately, Windows Latest found th… [+6868 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Notebookcheck.net"
+            },
+            "author": "Bùi Giang",
+            "title": "Pixel 11's Tensor G6 and Pixel 10's Tensor G5 still fall behind in performance per watt, testing shows - Notebookcheck",
+            "description": "Geekerwan's first efficiency test of the Tensor G6 and G5 shows that both trail the Snapdragon 8 Elite and Apple's A-series chips in CPU and GPU performance per watt, while the Kirin 9030 Pro matches the Tensor chips despite being manufactured on a much older…",
+            "url": "https://www.notebookcheck.net/Pixel-11-s-Tensor-G6-and-Pixel-10-s-Tensor-G5-still-fall-behind-in-performance-per-watt-testing-shows.1381970.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Google/Pixel_10/google_pixel_10_teaser.jpg",
+            "publishedAt": "2026-08-29T17:29:00Z",
+            "content": "Chinese hardware reviewer Geekerwan has published what appears to be the first power-efficiency test of both Google's Tensor G6 and its predecessor, the Tensor G5, in a Bilibili post. The chips are b… [+1530 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Skye Jacobs",
+            "title": "Cloudflare freed up 100TB of RAM behind its 1.1.1.1 DNS without adding a single server - TechSpot",
+            "description": "The optimization work was centered on Big Pineapple, Cloudflare's DNS caching platform behind the popular 1.1.1.1 resolver, DNS Firewall, and several other DNS services they offer. In...",
+            "url": "https://www.techspot.com/news/113665-cloudflare-freed-up-100tb-ram-behind-1111-dns.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-29-image.jpg",
+            "publishedAt": "2026-08-29T16:41:00Z",
+            "content": "In a nutshell: Cloudflare has cut the memory used by the DNS cache behind its 1.1.1.1 resolver by more than half, freeing about 100TB of RAM across its network. The company did not replace server har… [+3033 chars]"
+        },
         {
             "source": {
                 "id": "axios",
@@ -17,6 +95,19 @@
         },
         {
             "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Michael Higham",
+            "title": "State of Decay 3 Hands-On: This Could Be the Punchier, Deeper Entry the Zombie Survival Series Needs - IGN",
+            "description": "State of Decay 3 seems to be showing promise after playing an action-packed 30 minutes of an early alpha build.",
+            "url": "https://www.ign.com/articles/we-played-state-of-decay-3-and-its-in-good-shape-despite-the-xbox-upheaval",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/08/29/vlcsnap-2026-08-29-08h23m26s892-1788017311724.png?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-08-29T15:58:06Z",
+            "content": "It's been a tumultuous time for development teams around the Xbox umbrella, including Undead Labs which is in the process of changing ownership amid the \"Xbox reset.\" This left us with tons of questi… [+6567 chars]"
+        },
+        {
+            "source": {
                 "id": "mashable",
                 "name": "Mashable"
             },
@@ -27,6 +118,32 @@
             "urlToImage": "https://helios-i.mashable.com/imagery/articles/06n9JuEzFp552mMFTcQ36z2/hero-image.fill.size_1200x675.v1787950852.png",
             "publishedAt": "2026-08-29T15:37:44Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gamegpu.com"
+            },
+            "author": "Maxim Boldson",
+            "title": "To play Fable at 4K resolution and 60 FPS, you will need a graphics card of the RTX 5080 level. - GameGPU",
+            "description": "Playground Games has officially announced the system requirements for the role-playing game Fable for PC. The developers have prepared...",
+            "url": "https://en.gamegpu.com/news/igry/dlya-igry-v-fable-v-razreshenii-4k-i-60-fps-potrebuetsya-videokarta-urovnya-rtx-5080",
+            "urlToImage": "https://gamegpu.com/images/1_2026/NEWS/Q2/Avg/Gamescom_2026/5/2/kdzYNdcVeRj9qPRF0LV_rA_gpu.webp#joomlaImage://local-images/1_2026/NEWS/Q2/Avg/Gamescom_2026/5/2/kdzYNdcVeRj9qPRF0LV_rA_gpu.webp?width=3840&height=2160",
+            "publishedAt": "2026-08-29T14:52:39Z",
+            "content": "Playground Games has officially unveiled the system requirements for the role-playing game Fable for PC. The developers have prepared a detailed table with four graphics profiles: Low, Medium, High, … [+1475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Burkhardt",
+            "title": "Apple will be launching its first pair of smart glasses next year: Here’s what’s coming - 9to5Mac",
+            "description": "As soon as next year, Apple will be debuting its first pair of AI-powered smart glasses. They’ll integrate Visual Intelligence...",
+            "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-08-29T14:48:00Z",
+            "content": "As soon as next year, Apple will be debuting its first pair of AI-powered smart glasses. Theyll integrate Visual Intelligence and bring Siri to the real world. Heres what were expecting.\r\nFirst and f… [+2433 chars]"
         },
         {
             "source": {
@@ -96,6 +213,45 @@
         {
             "source": {
                 "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Mitchel Broussard",
+            "title": "Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2 - MacRumors",
+            "description": "Apple introduced the M6 and M5 Pro Mac mini this week, and Amazon currently has the first pre-order discounts on these models ahead of their...",
+            "url": "https://www.macrumors.com/2026/08/29/best-apple-deals-of-the-week-8-28-26/",
+            "urlToImage": "https://images.macrumors.com/t/PGUT9iesHR0GrolpXNHFzipljKo=/2500x/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
+            "publishedAt": "2026-08-29T12:31:59Z",
+            "content": "Apple introduced the M6 and M5 Pro Mac mini this week, and Amazon currently has the first pre-order discounts on these models ahead of their September launch. Below, we're also tracking a new record … [+1756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendoeverything.com"
+            },
+            "author": "Brian",
+            "title": "Capcom explains why Mega Man: Dual Override isn’t called Mega Man 12 - Nintendo Everything",
+            "description": "Capcom has spoken about the title behind Mega Man: Dual Override, including the reason why it won’t be called Mega Man 12. All of the mainline entries in the core series have had a number. Prior to this project, Capcom shipped Mega Man 11. We were interested …",
+            "url": "https://nintendoeverything.com/capcom-explains-why-mega-man-dual-override-isnt-called-mega-man-12/",
+            "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Why-Mega-Man-Dual-Override-isnt-Mega-Man-12.jpg",
+            "publishedAt": "2026-08-29T12:04:44Z",
+            "content": "Capcom has spoken about the title behind Mega Man: Dual Override, including the reason why it won’t be called Mega Man 12.\r\nAll of the mainline entries in the core series have had a number. Prior to … [+1764 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Prakhar Khanna",
+            "title": "Apple Might Skip the iPhone 18 This Year. Is the iPhone 17 Still Worth It? - CNET",
+            "description": "Ahead of Apple's Sept. 9 launch event, I retested the iPhone 17 to see if it can retain the “best iPhone for most people” title for another six months.",
+            "url": "https://www.cnet.com/tech/mobile/apple-might-skip-the-iphone-18-this-year-is-the-iphone-17-still-worth-it/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_20260828_112456.jpg",
+            "publishedAt": "2026-08-29T12:00:00Z",
+            "content": "The iPhone 17 closed the gap between Apples entry-level phone and the pricier Pro models last year with long-overdue display upgrades, alongside nifty camera and durability improvements. Apple also m… [+8002 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Video Games Chronicle"
             },
             "author": "Andy Robinson",
@@ -135,6 +291,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "Joe Foley",
+            "title": "The new CD Projekt Red logo just sparked the weirdest backlash graphic design has ever seen - Creative Bloq",
+            "description": "This bird just got angrier – and the brand's critics fans too.",
+            "url": "https://www.creativebloq.com/design/logos-icons/the-new-cd-projekt-red-logo-has-sparked-the-weirdest-backlash-graphic-design-has-seen",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eZMgHbVeXBdNQpRJGe5N2W-1920-80.jpg",
+            "publishedAt": "2026-08-29T09:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gematsu"
+            },
+            "author": "Sal Romano",
+            "title": "TARAE: The Unbound Gamescom 2026 ‘Gameplay Preview’ trailer - Gematsu",
+            "description": "Publisher KRAFTON and developer Boundary have announced released a five-minute gameplay preview trailer for newly announced Eastern fantasy top-down action RPG TARAE: The Unbound, a top-down action…",
+            "url": "https://www.gematsu.com/2026/08/tarae-the-unbound-gamescom-2026-gameplay-preview-trailer",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/08/TARAE-Gameplay_08-29-26.jpg",
+            "publishedAt": "2026-08-29T08:00:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Forbes"
             },
             "author": "Zak Doffman",
@@ -144,6 +326,32 @@
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665fd748f52ec6750cddbbf1/0x0.jpg?format=jpg&crop=1066,658,x1778,y566,safe&height=900&width=1600&fit=bounds",
             "publishedAt": "2026-08-29T06:59:40Z",
             "content": "Restarts coming in September.\r\nNurPhoto via Getty Images\r\nMicrosoft is changing Windows PC updates next month, forcing restarts to enable specific security component fixes to install, before normal h… [+2126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Guide"
+            },
+            "author": "Tom Pritchard",
+            "title": "iPhone 18 Pro Max vs iPhone 17 Pro Max: 5 biggest rumored upgrades - Tom's Guide",
+            "description": "Here are the biggest changes coming to this year's biggest iPhone",
+            "url": "https://www.tomsguide.com/phones/iphones/iphone-18-pro-max-vs-iphone-17-pro-max-5-biggest-rumored-upgrades",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WeRkpqbqkJavKd4hmEBzgh-2000-80.jpg",
+            "publishedAt": "2026-08-29T04:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GameRant"
+            },
+            "author": "Diana Velásquez Vargas",
+            "title": "Brand-New Pokemon Pokopia Code Takes You to Special Cloud Island - gamerant.com",
+            "description": "The Pokemon Company gives away a brand-new Pokemon Pokopia Cloud Island code inspired by the franchise's biggest event of the year.",
+            "url": "https://gamerant.com/pokemon-pokopia-codes-cloud-island-world-championship/",
+            "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/08/brand-new-pokemon-pokopia-code-takes-you-to-special-cloud-island-gamerant-feature.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-08-29T03:31:00Z",
+            "content": "Pokemon Pokopia has released a new code that takes players to a unique Cloud Island based on PokemonXP and Pokemon World Championships 2026. Since its release, Pokemon Pokopia has not only become one… [+3275 chars]"
         },
         {
             "source": {
@@ -274,6 +482,32 @@
             "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-6.jpg?quality=82&strip=all&resize=1200,628",
             "publishedAt": "2026-08-28T21:53:00Z",
             "content": "Following the big release two weeks ago, Google is rolling out Android 17 QPR2 Beta 4 for Pixel devices. As of Friday afternoon, the Pixel 11 series is not yet compatible, but Google says support is … [+3896 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Detroit News"
+            },
+            "author": "Cerys Davies",
+            "title": "Apple TV raises prices without offering an ad tier, testing how much viewers will pay - The Detroit News",
+            "description": "Apple TV, the streaming service known for series like “Ted Lasso” and “Severance,” is raising its prices, effective immediately.",
+            "url": "https://www.detroitnews.com/story/entertainment/television/2026/08/28/apple-tv-raises-prices-without-offering-an-ad-tier/91514909007/",
+            "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/08/28/PDTN/91514980007-entervidappletvpricesfilepicmct.jpeg?crop=2127,1196,x272,y0&width=2127&height=1196&format=pjpg&auto=webp",
+            "publishedAt": "2026-08-28T21:53:00Z",
+            "content": "LOS ANGELES Apple TV, the streaming service known for series like Ted Lasso and Severance, is raising its prices, effective immediately.\r\nA monthly subscription will now cost $14.99, up $2. The annua… [+1851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "thestreet.com",
+            "title": "Amazon is selling a $315 luxury Seiko watch for $209 - thestreet.com",
+            "description": null,
+            "url": "https://www.thestreet.com/deals/seiko-analog-stainless-steel-automatic-watch-amazon-sale",
+            "urlToImage": null,
+            "publishedAt": "2026-08-28T21:30:00Z",
+            "content": null
         },
         {
             "source": {
@@ -456,6 +690,19 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/08/mw4.jpg",
             "publishedAt": "2026-08-28T17:00:54Z",
             "content": "This morning, Activision shared yet another update in its ongoing saga to deal with rampant cheating in Call of Duty multiplayer, and this one’s a doozy: the publisher seems to have sent a legal repr… [+3437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GameRant"
+            },
+            "author": "Joshua Duckworth",
+            "title": "New Official Nintendo 64 Game Launches to Strong 4.9/5 Reviews - gamerant.com",
+            "description": "A new game officially releases on original Nintendo 64 hardware and also receives strong reviews from players.",
+            "url": "https://gamerant.com/new-nintendo-64-n64-games-2026-xibalba-64/",
+            "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/nintendo64-xibalba64-gamerant-feature.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-08-28T16:30:17Z",
+            "content": "A brand-new Nintendo 64 game has officially been released, and in that time it has accumulated a 4.9/5 review rating. It's surprising to hear about a new Nintendo 64 game in the big 2026, especially … [+3251 chars]"
         },
         {
             "source": {
@@ -772,6 +1019,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Gematsu"
+            },
+            "author": "Sal Romano",
+            "title": "Sony Music Entertainment Japan and GungHo Online Entertainment to form capital and business alliance - Gematsu",
+            "description": "Sony Music Entertainment Japan will acquire a 23.29 percent stake in Puzzle & Dragons developer GungHo Online Entertainment via an off-market bilateral transaction from major shareholder SON Fi…",
+            "url": "https://www.gematsu.com/2026/08/sony-music-entertainment-japan-and-gungho-online-entertainment-to-form-capital-and-business-alliance",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/08/SME-GungHo_08-28-26.jpg",
+            "publishedAt": "2026-08-28T12:00:01Z",
+            "content": "Sony Music Entertainment Japan will acquire a 23.29 percent stake in Puzzle &amp; Dragons developer GungHo Online Entertainment via an off-market bilateral transaction from major shareholder SON Fina… [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Pure Xbox"
             },
             "author": "Pure Xbox",
@@ -1028,6 +1288,19 @@
             "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/08/ULTIMATE_EDITION_SQUALO_03-scaled.jpg",
             "publishedAt": "2026-08-28T06:49:13Z",
             "content": "This week, Rockstar Games, Take-Two Interactive, and Netflix combined forces to produce a stellar, long-form reveal of Grand Theft Auto 6, the most anticipated game ever made. It’s set to drop on Nov… [+2595 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Cade Onder",
+            "title": "The GTA 6 Map Is Huge — Heres How It Compares to the Maps in Other Rockstar Games Like RDR2 and GTA 5 - IGN",
+            "description": "Grand Theft Auto 6's map is significantly larger than Rockstar's previous games; here's how it compares to the studio's other titles.",
+            "url": "https://www.ign.com/articles/how-the-gta-6-map-size-stacks-up-to-other-rockstar-games-like-rdr2-and-gta-5",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/08/28/mega-13-1787895250638.jpg?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-08-28T05:35:00Z",
+            "content": "Grand Theft Auto 6's map is significantly larger than the maps in Rockstar's previous games. Here's how it compares to the studio's other titles, according to the developer.\r\nRockstar Games confirmed… [+2501 chars]"
         },
         {
             "source": {
@@ -2393,6 +2666,19 @@
             "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/08/longines-master-collection-moonphase-chrono-lead.webp",
             "publishedAt": "2026-08-26T16:49:09Z",
             "content": "A lot has changed on the dial, but most notable are the new blue applied indices.\r\nLongines\r\nThe biggest changes, however, are found on the dial. Like the rest of the rebooted Master Collection, the … [+1358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "GTA 6 leaks: Rockstar issues statement over online clips - BBC",
+            "description": "The game developer says the unauthorised footage has caused \"heartbreak\" for those working on the title.",
+            "url": "https://www.bbc.com/news/articles/c62eg71e1z2o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/91e8/live/3c295e10-a147-11f1-aed2-8d6da8d75094.jpg",
+            "publishedAt": "2026-08-26T16:34:54Z",
+            "content": "In a statement, the company said the leaks had been \"heartbreaking\" for the team working on the sequel, and that they were \"not how we intended for you to see the game after all this time\"."
         },
         {
             "source": {
@@ -5213,227 +5499,6 @@
             "url": "https://www.creativebloq.com/design/logos-icons/the-monster-munch-rebrand-shows-that-a-great-brand-mascot-can-last-a-lifetime",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/iY3SWstRsDx2M6v6h7uFTP-1000-80.webp",
             "publishedAt": "2026-08-24T07:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "AI is coming for your glasses - Financial Times",
-            "description": "Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware",
-            "url": "https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6\\\\u003d1",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ee7915c-47a0-4cc4-8c24-7f1cf50abc83.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-            "publishedAt": "2026-08-24T04:00:14Z",
-            "content": "Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT.com and receive the FT Edit newsletter.\r\n<ul><li></li>FT Edit: Ac… [+23 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nintendo Life"
-            },
-            "author": "Nintendo Life",
-            "title": "PSA: Modern Warfare 4's Switch 2 Retail Version Is Apparently A Code-In-A-Box - Nintendo Life",
-            "description": "It's just a box with a download code, according to VGP",
-            "url": "https://www.nintendolife.com/news/2026/08/psa-modern-warfare-4s-switch-2-retail-version-is-apparently-a-code-in-a-box",
-            "urlToImage": "https://images.nintendolife.com/2c136ad24abea/large.jpg",
-            "publishedAt": "2026-08-24T03:30:00Z",
-            "content": "Image: Activision\r\nIf you're wondering how exactly Activision will distribute the retail version of Call of Duty: Modern Warfare 4 on the Switch 2, some new information has surfaced via social media.… [+1264 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Authority"
-            },
-            "author": null,
-            "title": "Another major Android phone maker caves to soaring RAM costs with price hikes - Android Authority",
-            "description": "Xiaomi has announced that it will start hiking smartphone prices across various models and configurations starting September.",
-            "url": "https://www.androidauthority.com/xiaomi-smartphones-price-hike-3701917/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/06/Xiaomi-17-Ultra-with-camera-kit-case_3.jpg",
-            "publishedAt": "2026-08-24T03:24:00Z",
-            "content": "<ul><li>Xiaomi is raising prices on several smartphones and tablets by up to ¥20,000 (~$137), citing soaring memory and component costs.</li><li>The Xiaomi 17T Pro and several POCO X8 Pro models will… [+3314 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Athlon Sports"
-            },
-            "author": "Athlon Sports",
-            "title": "Air Jordan 3 'Court Purple' Tumbled Black Leather, Electric Purple, Suns-Like Colors: Where to Buy - Athlon Sports",
-            "description": null,
-            "url": "https://athlonsports.com/kicks/air-jordan-3-court-purple-where-to-buy-2026",
-            "urlToImage": null,
-            "publishedAt": "2026-08-24T03:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BGR"
-            },
-            "author": "Jules Wang",
-            "title": "What Is Chuwi, The Laptop Brand Challenging Apple? - bgr.com",
-            "description": "The Chuwi brand views itself as a challenger to Apple in low-end laptops, but concerns about its processors and new competitors could affect its market.",
-            "url": "https://www.bgr.com/2239789/what-is-chuwi-laptop-brand-challenging-apple/",
-            "urlToImage": "https://www.bgr.com/img/gallery/what-is-chuwi-the-laptop-brand-challenging-apple/l-intro-1787091309.jpg",
-            "publishedAt": "2026-08-24T01:17:00Z",
-            "content": "Chuwi grew out of Shenzhen, China's Silicon Valley, back in 2004. It spent the first several years of its life focused on MP3 players before it was able to partner with Intel and Microsoft in 2013. W… [+1176 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DualShockers"
-            },
-            "author": "Greg Hill",
-            "title": "Paradox Accidentally Leaks Its Own New Post-Apocalyptic Strategy Game - DualShockers",
-            "description": "Afterworld is set to be officially revealed during Gamescom Opening Night Live.",
-            "url": "https://www.dualshockers.com/paradox-accidentally-leaks-its-own-new-post-apocalyptic-strategy-game/",
-            "urlToImage": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/08/untitled-design-presentation-4.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-08-24T01:10:00Z",
-            "content": "Paradox Interactive has inadvertently revealed its own new IP in a serious blunder that gave fans their first look at the developers next big project.\r\nAs spotted on Reddit, Paradoxs new game is titl… [+4230 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Faizan Farooque",
-            "title": "A $650 smartphone takes aim at Apple and Samsung’s surging repair costs - thestreet.com",
-            "description": "A DIY-repairable smartphone is entering the market.",
-            "url": "https://www.thestreet.com/retail/a-650-smartphone-takes-aim-at-apple-and-samsungs-surging-repair-costs",
-            "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTUyMDk4/apple-ceo-tim-cook-delivers-last-keynote-at-wwdc.jpg?profile=share16-9",
-            "publishedAt": "2026-08-24T01:03:00Z",
-            "content": "American smartphone shoppers know the tiresome routine.\r\nA damaged screen might cost hundreds of dollars to repair. A dead battery usually implies sending the phone to a professional. A few years lat… [+6176 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Semianalysis.com"
-            },
-            "author": "Cam Quilici, Bryan Shan, Alec Ibarra, Daniel Nishball, Zane Fong, Kimbo Chen, Dylan Patel",
-            "title": "AgentX - InferenceXv3: Does CUDA Moat Hold up in Agentic Inferencing? - SemiAnalysis",
-            "description": "$3 Million USD dataset open sourced, 1 Mil+ Context Length, Multiturn, Sub Agents 95%+ KVCache HitRate, GB300 NVL72, MI355, B200",
-            "url": "https://newsletter.semianalysis.com/p/agentx-inferencexv3-does-cuda-moat",
-            "urlToImage": "https://substackcdn.com/image/fetch/$s_!wcB4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a2e9df4-14a4-4a66-b4a1-468ed84f7411_1672x941.png",
-            "publishedAt": "2026-08-24T00:19:35Z",
-            "content": "Since the Claude Code inflection point in November 2025, long-context, multi-turn agentic workloads have grown rapidly. They now dominate traffic for production inferencing. In April 2026, OpenAIs En… [+101047 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BGR"
-            },
-            "author": "Andrew Morrisey",
-            "title": "5 Essential Apps For Your New TCL TV - bgr.com",
-            "description": "If you've just unwrapped your new TCL TV and are looking for some useful apps to make the most of it, try the likes of JustWatch, Jellyfin, FitOn, and more.",
-            "url": "https://www.bgr.com/2236906/essential-tcl-tv-apps-should-install/",
-            "urlToImage": "https://www.bgr.com/img/gallery/5-essential-apps-for-your-new-tcl-tv/l-intro-1786704032.jpg",
-            "publishedAt": "2026-08-23T23:17:00Z",
-            "content": "One thing a lot of people look forward to when purchasing a TCL TV is access to free streaming services. Platforms like Tubi and Pluto TV are there for such viewers, as are plenty of other free strea… [+1154 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox11online.com"
-            },
-            "author": "Eric Morris, FOX 11 News",
-            "title": "Brown County Fair says no exposure to 'strangles' among its horses, cases reported nearby - WLUK",
-            "description": "(WLUK) -- Horses are a staple at county fairs. However, this year, the potential spread of a highly infectious disease known as Strangles is causing concern.",
-            "url": "https://fox11online.com/news/local/brown-county-fair-says-no-exposure-to-strangles-among-its-horses-cases-reported-nearby",
-            "urlToImage": "https://fox11online.com/resources/media2/16x9/1920/1320/center/90/5f843774-2992-497d-b1ed-45436561f098-HorsebarnatBCFair.jpeg",
-            "publishedAt": "2026-08-23T23:12:08Z",
-            "content": "(WLUK) -- Horses are a staple at county fairs. However, this year, the potential spread of a highly infectious disease known as Strangles is causing concern. Recently, a few cases have been reported … [+2286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nintendo Wire"
-            },
-            "author": null,
-            "title": "Near-complete 860+ NES game collection stolen, after nearly 40 years of collecting - Nintendo Wire",
-            "description": "A massive prized collection of Nintendo Entertainment System cartridges, worth tens of thousands of dollars, has been stolen from a man in Washington, US.",
-            "url": "https://nintendowire.com/news/2026/08/24/near-complete-860-nes-game-collection-stolen-after-nearly-40-years-of-collecting/",
-            "urlToImage": "https://nintendowire.com/wp-content/uploads/2026/08/Banner-NES-860-Games-Stolen.jpg",
-            "publishedAt": "2026-08-23T22:35:48Z",
-            "content": "A massive prized collection of Nintendo Entertainment System cartridges, worth tens of thousands of dollars, has been stolen from a man in Washington, US.\r\nAccording to a report from KCEN 6 News, Rog… [+1963 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Servethehome.com"
-            },
-            "author": "Patrick Kennedy",
-            "title": "d-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026 - ServeTheHome",
-            "description": "At Hot Chips 2026, d-Matrix showed off its Raptor 3D-DRAM accelerator for AI breaking free of using HBM for memory by stacking DRAM and logic",
-            "url": "https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/",
-            "urlToImage": "https://www.servethehome.com/wp-content/uploads/2026/08/meta-3d-dram-based-accelerator-for-genai-slide-17.jpg",
-            "publishedAt": "2026-08-23T22:14:59Z",
-            "content": "Next up, d-Matrix is presenting its Raptor 3D-DRAM accelerator for generative inference at Hot Chips 2026. The company has made waves, and we have covered it before, including the d-Matrix Corsair In… [+9423 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "Toria Sheffield",
-            "title": "Man Had Massive Stroke That Left Him Paralyzed on the Floor. His Wife’s Random Decision That Day Led to ‘Miracle’ Recovery - Yahoo Life UK",
-            "description": "Todd Meiklejohn was getting ready for his day the morning of Aug. 8, 2025, when he suddenly could no longer walk or see through one eye",
-            "url": "https://people.com/florida-man-recovers-after-massive-stroke-after-wifes-fast-action-12062040",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/a8a9ad76a9f69ff69cef19365cd3396de82e13b93936c2e296096b26be988f61/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F92679e82409254516b78a2d9b8860e40.jpg",
-            "publishedAt": "2026-08-23T22:00:00Z",
-            "content": "NEED TO KNOW\r\n<ul><li>Florida teacher Todd Meiklejohn suffered a massive stroke at home while getting ready for his day on Aug. 8, 2025\r\n</li><li>Meiklejohn made a remarkable recovery, leaving the ho… [+4621 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Ben Schoon",
-            "title": "Samsung reportedly bringing this major redesign back from the dead with Galaxy S27 [Gallery] - 9to5Google",
-            "description": "According to new leaks, Samsung is planning to revive a lost redesign with its Galaxy S27 series, but details are...",
-            "url": "http://9to5google.com/2026/08/23/samsung-galaxy-s27-redesign-leaks/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-s26-edge-cad-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2026-08-23T21:55:00Z",
-            "content": "According to new leaks, Samsung is planning to revive a lost redesign with its Galaxy S27 series, but details are light.\r\nLeakers Ice Universe, Sonny Dickson, and Max Jambor all corroborate that the … [+1287 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Erik Kain",
-            "title": "PS Plus September 2026: Predictions, Leaks And Reveal Date - Forbes",
-            "description": "Sony reveals September's PS Plus Essential lineup on August 26, with games live September 1. Here are the leaks, predictions and wishlist picks.",
-            "url": "https://www.forbes.com/sites/erikkain/2026/08/23/ps-plus-september-2026-predictions-leaks-reveal-date/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/667316a2a2ff94060a6ee109/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-08-23T21:52:39Z",
-            "content": "What to expect from next month's PlayStation Plus lineup.\r\nCredit: Erik Kain\r\nSeptember is almost here and with it another slate of free PS Plus games for Sony fans. Weve had some quality lineups acr… [+10963 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Ewan Spence",
-            "title": "iPhone 18 Pro Release Date Has Already Crushed The Competition - Forbes",
-            "description": "Apple’s September 9th release date for the iPhone 18 Pro squeezes Android rivals out of the holiday launch window and dominates carrier upgrade cycles.",
-            "url": "https://www.forbes.com/sites/ewanspence/2026/08/23/apple-iphone-18-pro-launch-date-android-competition-strategy-pixel-galaxy/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6933456f4efbd204f83bd179/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-08-23T21:12:00Z",
-            "content": "Update, Sunday August 23: This article has been updated with details on the iPhone 18 Pro pricing and the precedent set by competing Android handsets.\r\nPeople check the new iPhone 17 Pro lineup at an… [+5477 chars]"
-        },
-        {
-            "source": {
-                "id": "mashable",
-                "name": "Mashable"
-            },
-            "author": "Phil Clark",
-            "title": "Latest 'GTA 6' leaks reveal strip club setting and new slow-motion camera - Mashable",
-            "description": "The most anticipated game of all time continues to suffer leaks ahead of its upcoming Netflix gameplay reveal.",
-            "url": "https://mashable.com/entertainment/latest-gta6-leaks-reveal-strip-club-setting-and-new-slow-motion-camera",
-            "urlToImage": "https://helios-i.mashable.com/imagery/articles/04ergp5eWhVuUXe3hjRf8kl/hero-image.fill.size_1200x675.v1787420304.png",
-            "publishedAt": "2026-08-23T20:58:15Z",
             "content": null
         }
     ]

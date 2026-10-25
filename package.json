@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "rm -rf docs && react-scripts build && mv build docs",
+    "build": "rm -rf build && react-scripts build && mkdir -p docs && find docs -mindepth 1 -maxdepth 1 ! -name data -exec rm -rf {} + && cp -R build/. docs/ && node scripts/generate-seo-pages.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

@@ -4,11 +4,13 @@ import News from "./components/news/News";
 import { Routes, Route } from "react-router-dom";
 import categories from "./data/categories.json";
 import NotFound404 from "./components/ui/NotFound404";
+import RouteSeo from "./components/ui/RouteSeo";
 
 
 const App = () => {
   return (    
       <Layout>
+        <RouteSeo />
         <Routes>
           <Route
             exact

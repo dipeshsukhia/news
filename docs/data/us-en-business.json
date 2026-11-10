@@ -1,7 +1,384 @@
 {
     "status": "ok",
-    "totalResults": 512,
+    "totalResults": 507,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Joy Wiltermuth, Tomi Kilgore, Nora Redmond, Jamie Chisholm, Steve Goldstein",
+            "title": "Stock Market Today: Dow jumps 1,000 points, S&P 500 and Nasdaq surge after last week’s selloff; Nvidia stock drops as CEO probe launched: live updates - MarketWatch",
+            "description": "Stocks closed sharply higher Monday despite a retreat in Nvidia shares.",
+            "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-nvidia-investigation-ceo-jensen-huang-relationship-chinese-spy",
+            "urlToImage": "https://images.mktw.net/im-28641878/social",
+            "publishedAt": "2026-11-09T19:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ashley Capoot",
+            "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds - CNBC",
+            "description": "The launch comes as Anthropic is gearing up for what is widely expected to be a blockbuster IPO",
+            "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
+            "publishedAt": "2026-11-09T19:00:01Z",
+            "content": "Anthropic on Monday released two new artificial intelligence models, Claude Fable 5.2 and Claude Mythos 5.2, as the company readies for a potentially historic IPO that could take place as soon as nex… [+2852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Claire Boston",
+            "title": "October inflation data is expected to be cooler, helped by steadying energy prices - Yahoo Finance",
+            "description": "Economists expect a 0.3% month-over-month jump in prices in October, reflecting cooler but still-sticky inflation.",
+            "url": "https://finance.yahoo.com/economy/article/october-inflation-data-is-expected-to-be-cooler-helped-by-steadying-energy-prices-190000304.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/ce1cfd812e4596bb72813d7b47a73060db37c2159b1ee716883dfcfba3348515/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2d7fc5b6-0342-4930-8609-78c488bf609f",
+            "publishedAt": "2026-11-09T19:00:00Z",
+            "content": "October inflation data coming on Tuesday is expected to show that inflation cooled somewhat from September's elevated levels but remains sticky. \r\nEconomists surveyed by Bloomberg expect the Consumer… [+2129 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Sheetal Banchariya",
+            "title": "Plane, terminal evacuated at California airport after passenger overhears spine-chilling conversation - New York Post",
+            "description": "A passenger on a Frontier Airlines flight overheard another passenger having a questionable phone conversation around 10 p.m. Sunday.",
+            "url": "https://nypost.com/2026/11/09/us-news/frontier-plane-evacuated-after-game-chatter-mistaken-for-bomb/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148120285.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-09T18:43:00Z",
+            "content": "An emergency evacuation was ordered Sunday evening after a passenger on a Frontier Airlines flight overheard a suspicious conversation.\r\nA passenger aboard the flight at Inland Empire’s Ontario Inter… [+2753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Yahoo Finance",
+            "title": "Nvidia live updates: Nvidia stock falls 5% as board investigates CEO's affair with alleged Chinese spy - Yahoo Finance",
+            "description": "Follow along for live updates and reactions regarding the revelation that Nvidia CEO Jensen Huang had a romantic relationship, reportedly with a woman believ...",
+            "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/a34d3f7bf62c173409e6bef4a7334414ee5eaf9f1f7c382cb8736a5d88ae08c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F0cd53bcc-959a-4d7b-8b1a-960fd4d9c2dd_ac3cb57621238ab5dd60f852e9b1771c203641f343dd80dd113fe96d74716bc2.jpg",
+            "publishedAt": "2026-11-09T18:42:29Z",
+            "content": "Months before Nvidia's (NVDA) CEO Jensen Huang's admitted affair and the board investigation into the matter made headlines, concerns over the world's leading AI chipmaker's exposure to China had alr… [+1561 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Hugh Son",
+            "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters - CNBC",
+            "description": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+            "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108546539-1794244522835-108546539-1794244383968-solomon1.jpg?v=1794244529&w=1920&h=1080",
+            "publishedAt": "2026-11-09T18:14:47Z",
+            "content": "Goldman Sachs CEO David Solomon told CNBC on Monday that financing demand for artificial intelligence infrastructure remains strong despite recent market jitters as investors reassess the risks invol… [+1846 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Berkeley Lovelace Jr.",
+            "title": "FDA orders new warning on GLP-1s over rare eye condition linked to sudden blindness - NBC News",
+            "description": "The Food and Drug Administration said Monday that GLP-1 drugmakers must add a warning label about a rare eye condition that can cause sudden blindness.",
+            "url": "https://www.nbcnews.com/health/health-care/fda-orders-new-warning-glp-1s-rare-eye-condition-linked-sudden-blindne-rcna608309",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-03/220328-fda-headquarters-2020-ac-611p-17ec72.jpg",
+            "publishedAt": "2026-11-09T18:14:12Z",
+            "content": "The Food and Drug Administration said Monday that GLP-1 drugmakers must add a warning label about a rare eye condition that can cause sudden blindness. \r\nThe condition, called nonarteritic anterior i… [+3139 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Julie Z. Weil",
+            "title": "People are paying thousands for a home upgrade that’s often unnecessary - The Washington Post",
+            "description": "Outdated practices and codes are resulting in a costly recommendation.",
+            "url": "https://www.washingtonpost.com/business/2026/11/09/people-are-paying-thousands-home-upgrade-thats-often-unnecessary/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/CYK3RDNNOI4R3IFCHNS5NCFHXQ.jpg&w=1440",
+            "publishedAt": "2026-11-09T18:00:00Z",
+            "content": "When Jacob Baskin bought a Brooklyn brownstone, he wanted to replace the old gas stove and oven with an up-to-date induction range that runs on electric power. But his contractor told him his electri… [+196 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jared Blikre",
+            "title": "SpaceX, Rocket Lab blast higher as NASA hands out $10 billion in moon base awards - Yahoo Finance",
+            "description": "The space trade came roaring back as NASA handed out moon base contracts and Rocket Lab heads into its earnings.",
+            "url": "https://finance.yahoo.com/markets/article/spacex-rocket-lab-blast-higher-as-nasa-hands-out-10-billion-in-moon-base-awards-164320855.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/e8b639b43c4f4453e8fa77e2946eeeb91204b02af75314e33a019e756956b29e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc394249c-a631-4044-b89c-79213bfbe1fd",
+            "publishedAt": "2026-11-09T17:43:19Z",
+            "content": "NASA wants a base on the moon, and Wall Street is suddenly buying the ride there. Space stocks are ripping for a second session as SpaceX (SPCX) and seven other companies line up for lunar delivery w… [+2782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Seattle Times"
+            },
+            "author": "Lauren Rosenblatt",
+            "title": "Boeing will cut 5% of its commercial airplane workforce - The Seattle Times",
+            "description": "Boeing is trimming its workforce by about 5% and slowing its commercial airplane production ramp-up, the head of Boeing Commercial Airplanes, Stephanie Pope, told employees Monday.",
+            "url": "https://www.seattletimes.com/business/boeing-aerospace/boeing-will-cut-5-of-its-commercial-airplane-workforce/",
+            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/11/11092026_Boeing-Layoffs_tzr_090007.jpg?d=1200x630",
+            "publishedAt": "2026-11-09T17:30:00Z",
+            "content": "Boeing is trimming its workforce by about 5% and slowing its commercial airplane production ramp-up, the head of Boeing Commercial Airplanes, Stephanie Pope, told employees Monday.\r\nThe 5% workforce … [+1473 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim De Chant",
+            "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines - TechCrunch",
+            "description": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+            "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
+            "publishedAt": "2026-11-09T16:56:54Z",
+            "content": "AIs power crunch has become so acute that Anthropic, a company that has generally avoided buying physical infrastructure, is spending $3.4 billion on natural gas turbines. \r\nThe AI company, which is … [+2314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Poundland unable to buy new stock as fears over collapse grow - BBC",
+            "description": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+            "url": "https://www.bbc.com/news/articles/cw1l3lmem165o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4c59/live/3c72aa60-dc53-11f1-b8a2-9782924402f8.jpg",
+            "publishedAt": "2026-11-09T16:46:40Z",
+            "content": "Last week, Poundland boss Barry Williams told staff like-for-like sales, which exclude new store openings, were up 11.4% last week, which included Halloween, but said this was £1.5m ahead of budget."
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Erik Schatzker",
+            "title": "Carney Recruits Bridgewater Co-CIO to Run Canada Sovereign Wealth Fund - Bloomberg.com",
+            "description": "Karen Karniol-Tambour is leaving her role as co-chief investment officer of Bridgewater Associates to run Canada’s new sovereign wealth fund, lending Wall Street credibility and expertise to one of Prime Minister Mark Carney’s signature economic initiatives.",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-09/canada-s-carney-hires-bridgewater-co-cio-karniol-tambour-to-run-sovereign-fund",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilYrvChc11Zs/v1/1200x799.jpg",
+            "publishedAt": "2026-11-09T16:45:21Z",
+            "content": "Karen Karniol-Tambour is leaving her role as co-chief investment officer of Bridgewater Associates to run Canadas new sovereign wealth fund, lending Wall Street credibility and expertise to one of Pr… [+402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TODAY"
+            },
+            "author": "Joseph Lamour",
+            "title": "Starbucks Reveals Surprise Box Edition Bearista Cups: See the Designs - TODAY.com",
+            "description": "Starbucks has revealed its Bearista Glass Cold Cup Surprise Box Edition cup designs — well, almost all of them. Here are the details.",
+            "url": "https://www.today.com/food/restaurants/starbucks-bearista-cups-surprise-box-rcna607740",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-12/starbucks-bearista-cup-restock-jl-5f2633.png",
+            "publishedAt": "2026-11-09T16:35:48Z",
+            "content": "Starbucks has finally spilled the coffee beans on its mystery box collection.\r\nOn Nov. 9, the colossal coffee chain announced that its Bearista Glass Cold Cup Surprise Box Edition drops Tuesday, Nov.… [+3243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio - CNBC",
+            "description": "The Japanese automaker said the plant will focus on hybrid vehicles and is expected to begin production in 2029.",
+            "url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108095724-1738345729872-IMG_3109.jpeg?v=1738346588&w=1920&h=1080",
+            "publishedAt": "2026-11-09T16:10:33Z",
+            "content": "MARYSVILLE, Ohio Honda Motor plans to invest $3 billion to build a new vehicle assembly plant in Ohio, the automaker announced Monday.\r\nHonda said the new plant, which will be near its other faciliti… [+3148 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Disney and Adobe are building generative AI tools together - The Verge",
+            "description": "The Walt Disney Company has teamed up with Adobe to develop proprietary “artist-led” generative AI models to support Disney’s production pipeline.﻿",
+            "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-09T15:38:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe partnership will give Disney early access to AI tech for its resorts, cruise line, ESPN graphics, and more.\r\nThe partnership will give Disney early access to… [+3400 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say - TechCrunch",
+            "description": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+            "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
+            "publishedAt": "2026-11-09T15:24:59Z",
+            "content": "Nearly a year ago, Waymo updated its self-driving software and issued a recall after numerous reports that its robotaxis were illegally passing school buses that had stopped and deployed flashing red… [+2240 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Elizabeth Dwoskin, Ian Duncan",
+            "title": "Trump’s tech allies face a revolt from within their own industry - The Washington Post",
+            "description": "As public anger over AI grows, some Silicon Valley leaders are calling for a sharp break with the build-at-all-costs ethos that dominated Trump’s Washington.",
+            "url": "https://www.washingtonpost.com/technology/2026/11/09/trumps-tech-allies-face-revolt-within-their-own-industry/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WMOXTMSE66ZRPUV44IVMRHQKMQ_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-09T15:24:28Z",
+            "content": "In President Donald Trumps second term, Silicon Valleys most powerful executives made an unusually public show of allegiance. Top CEOs took prominent seats on the dais at Trumps inauguration, showeri… [+94 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ryan Morik",
+            "title": "Fanatics, American Express debut credit card featuring sports stars - Fox Business",
+            "description": "Fanatics unveiled a new American Express credit card inspired by Topps trading cards, allowing sports fans to select their favorite athlete from more than 500 stars.",
+            "url": "https://www.foxbusiness.com/sports/fanatics-american-express-debut-credit-card-featuring-sports-stars",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/0/0/fanatics-fest-2025-view-52026.jpg?ve=1&tl=1",
+            "publishedAt": "2026-11-09T14:52:00Z",
+            "content": "Sports brand powerhouse\r\n Fanatics and American Express on Monday unveiled the Fanatics American Express Card, designed to reward sports fans with more of what they love and connect them across the e… [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Caitlin Huston",
+            "title": "SiriusXM Names Tubi CEO Anjali Sud New Leader - The Hollywood Reporter",
+            "description": "The exec will take over as CEO of the audio giant as Jennifer Witz steps down.",
+            "url": "http://www.hollywoodreporter.com/business/digital/siriusxm-names-tubi-ceo-anjali-sud-new-leader-1236750788/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2267431958.jpg?crop=0px%2C47px%2C5336px%2C2986px&resize=1440%2C810",
+            "publishedAt": "2026-11-09T14:40:46Z",
+            "content": "SiriusXM CEO Jennifer Witz is stepping down from the role with Tubi CEO Anjali Sud set to take over.\r\nSud, who has been a board member of SiriusXM since March 2025, will take over starting Jan. 1, 20… [+3507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "InsideEVs "
+            },
+            "author": "Tim Levin",
+            "title": "Ford Tested 36,000 Mustang Mach-E Batteries. Here’s How They Held Up After 100,000 Miles - InsideEVs",
+            "description": "EV battery degradation is a top buyer fear. New real-world data from 36,000 Ford Mustang Mach-Es shows high-mileage batteries are holding up strong.",
+            "url": "https://insideevs.com/news/814780/ford-mustang-mach-e-battery-degradation-range-study/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/ojE3Yp/s1/ford-mustang-mach-e.jpg",
+            "publishedAt": "2026-11-09T14:32:23Z",
+            "content": "<ul><li>Ford collected battery health data from around 36,000 Mustang Mach-E electric SUVs and shared the results. </li><li>Battery degradation is one of the top concerns from car buyers, but Ford's … [+4823 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Dylan Berman",
+            "title": "Rocket Lab Earnings Loom: Here’s What Investors Need to Know - Benzinga",
+            "description": "Rocket Lab is in the spotlight Monday ahead of earnings, with the Neutron timeline, Iridium acquisition and Space Systems growth in focus.",
+            "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63032947/rocket-lab-earnings-loom-heres-what-investors-need-to-know",
+            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/11/09/Konskie--Poland---March-01--2025-Rocket-.jpg",
+            "publishedAt": "2026-11-09T14:32:03Z",
+            "content": "Rocket Lab Corporation(NASDAQ:RKLB) shares are in the spotlight Monday, with earnings due today after the close, the Neutron timeline and the Iridium acquisition in focus, recent analyst activity and… [+4029 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annika Kim Constantino",
+            "title": "Eli Lilly’s Foundayo obesity pill eases sleep apnea in late-stage trial, paving way for approval - CNBC",
+            "description": "Lilly plans to file by the end of the year for U.S. approval of the daily pill for moderate-to-severe obstructive sleep apnea in adults with obesity.",
+            "url": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108230176-1764603822722-108230176-17637559702025-11-21t201158z_1546648356_rc261iafo6zz_rtrmadp_0_lilly-stocks.jpg?v=1793999866&w=1920&h=1080",
+            "publishedAt": "2026-11-09T14:30:01Z",
+            "content": "Eli Lilly on Monday said its obesity pill Foundayo significantly reduced the severity of obstructive sleep apnea, the most common sleep-related breathing disorder, in patients with obesity, in a late… [+4150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13 - Space",
+            "description": "The company apparently isn't worried about flying on Friday the 13th.",
+            "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sffkFhsSvZteVyVhHrKG77-2560-80.jpg",
+            "publishedAt": "2026-11-09T14:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Anthony Hughes, Pablo Mayo Cerqueiro",
+            "title": "Anthropic IPO’s Moment of Truth Nears as Waiting Period Expires - Bloomberg.com",
+            "description": "Anthropic PBC can begin formally marketing its much-anticipated IPO as early as Tuesday, enabling it to make the case to investors that now is the right time to go public despite last week’s swoon in artificial intelligence-related stocks.",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-ipo-s-moment-of-truth-nears-as-waiting-period-expires",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iREZh.QdUp74/v1/1200x800.jpg",
+            "publishedAt": "2026-11-09T14:20:12Z",
+            "content": "Anthropic PBC can begin formally marketing its much-anticipated IPO as early as Tuesday, enabling it to make the case to investors that now is the right time to go public despite last weeks swoon in … [+287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sophie Caldwell, Zachary Green",
+            "title": "Why tech workers are flocking to NYC - CNBC",
+            "description": "New York City now has more tech employees than the Bay Area. Here's why workers — and companies — are flocking to the city.",
+            "url": "https://www.cnbc.com/make-it/2026/11/09/new-york-city-tech-workers-jobs.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108534976-1794001170051-tech_worker.png?v=1794001239&w=1920&h=1080",
+            "publishedAt": "2026-11-09T14:15:02Z",
+            "content": "Erin Sullivan had only visited New York City once before she decided to take a job in the Big Apple. \r\nBut that visit made a strong impression: \"Having the freedom of just hopping on the subway and g… [+2755 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Joseph Green",
+            "title": "National Fried Chicken Sandwich Day 2026 deals: Score free food from Burger King, KFC, McDonald's, and more - Mashable",
+            "description": "Thanksgiving who?",
+            "url": "https://mashable.com/life/national-fried-chicken-sandwich-day-2026-free-food-deals",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/00d3LOOW1zUOoC1nHEB2tQx/hero-image.fill.size_1200x675.v1794221374.jpg",
+            "publishedAt": "2026-11-09T14:04:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "TheStreet",
+            "title": "Cathie Wood raises uncomfortable question about Nvidia-backed stock before earnings - TheStreet",
+            "description": null,
+            "url": "https://www.thestreet.com/investing/stocks/cathie-wood-coreweave-q3-earnings",
+            "urlToImage": null,
+            "publishedAt": "2026-11-09T14:03:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Brittany Miller",
+            "title": "Poppi founders look to disrupt hydration market with new electrolyte drink - Fox Business",
+            "description": "The founders behind Poppi are entering a new beverage category after their nearly $2 billion PepsiCo deal, betting they can replicate their soda success in the competitive hydration market.",
+            "url": "https://www.foxbusiness.com/lifestyle/poppi-founders-look-disrupt-hydration-market-new-electrolyte-drink",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/allison-ellsworth-jetty-launch.jpg?ve=1&tl=1",
+            "publishedAt": "2026-11-09T14:01:02Z",
+            "content": "The husband-and-wife duo behind Poppi is taking on another corner of the beverage industry, launching a new hydration brand after selling their prebiotic soda company to PepsiCo for nearly $2 billion… [+4828 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -27,6 +404,45 @@
             "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faee6c8cb-ba0d-44ec-93aa-b6686ff18f55.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
             "publishedAt": "2026-11-09T13:50:36Z",
             "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "24/7 Wall St."
+            },
+            "author": "Vandita Jadeja",
+            "title": "Micron Has Lost Over 40% Since June. Where Does Its Price Target Stand Now? - Yahoo Finance",
+            "description": "Micron just guided to the biggest quarter in its history, yet the market is treating the memory boom like it already peaked. Does one brutal chip selloff rev...",
+            "url": "https://247wallst.com/investing/2026/11/09/micron-has-lost-over-40-since-june-where-does-its-price-target-stand-now/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/28473de189c865f204c7592f0c0108c9b2b22e4d00cd6d2a2174adee6c196a61/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ffce178c9cf94fa4e99e34cff91a6bae6",
+            "publishedAt": "2026-11-09T13:47:17Z",
+            "content": "Quick Read\r\n<ul><li>Micron (MU) plunged 16% Thursday to $670, yet 24/7 Wall St. sets a $914 target, implying 37% upside and a BUY rating.\r\n</li><li>Micron guided to record fiscal Q1 revenue of $61.5 … [+4850 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production - TechCrunch",
+            "description": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.",
+            "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800",
+            "publishedAt": "2026-11-09T13:43:28Z",
+            "content": "Tesla CEO Elon Musk is defending the Cybertruck and the company’s decision to stop producing the polarizing steel-clad truck, claiming that the order rate far exceeds its production.\r\nTesla will shut… [+2071 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "Gas is about to drop below $4 for the first time since July - CNN",
+            "description": "Seasonal factors will reduce demand for gasoline, driving prices lower. But don’t expect prices to reach pre-Iran war levels anytime soon.",
+            "url": "https://www.cnn.com/2026/11/09/energy/gas-prices-drop-driving-season",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2296974309.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-11-09T13:38:30Z",
+            "content": "Heres a sight for voters sore eyes: nearly $4 gas.\r\nThe average price of gas is poised to fall below that threshold for the first time since July, driven lower by seasonal factors that are reducing d… [+5079 chars]"
         },
         {
             "source": {
@@ -69,6 +485,19 @@
         },
         {
             "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Kevin Collier",
+            "title": "AI-fueled hacking is getting worse — top cyber companies are turning away some victims - NBC News",
+            "description": "The recent flood of AI-aided cyberattacks has become so severe that some top cybersecurity companies are turning away new customers seeking emergency help.",
+            "url": "https://www.nbcnews.com/tech/security/ai-hacking-getting-worse-cyber-firms-are-turning-away-victims-rcna607617",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-cyber-security-lr-7bb53b.jpg",
+            "publishedAt": "2026-11-09T12:00:41Z",
+            "content": "Just a moment.\r\nWe are getting your experience ready."
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "CNBC"
             },
@@ -82,16 +511,81 @@
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": "Julie Z. Weil",
-            "title": "People are paying thousands for a home upgrade that’s often unnecessary - The Washington Post",
-            "description": "Outdated practices and codes are resulting in a costly recommendation.",
-            "url": "https://www.washingtonpost.com/business/2026/11/09/people-are-paying-thousands-home-upgrade-thats-often-unnecessary/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HIVE6MWSV4I6XM47AWRNO5VR6Q.jpg&w=1440",
-            "publishedAt": "2026-11-09T11:32:15Z",
-            "content": "When Jacob Baskin bought a Brooklyn brownstone, he wanted to replace the old gas stove and oven with an up-to-date induction range that runs on electric power. But his contractor told him his electri… [+196 chars]"
+            "author": "Charles Gorrivan, Mia Gindis",
+            "title": "Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands - Bloomberg.com",
+            "description": "Oil extended a slump amid optimism around diplomatic efforts to end the war in the Middle East, even as attacks in the region continue.",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-09/oil-falls-on-unconfirmed-report-that-iran-eased-hormuz-demands",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiKAf8uwdEvs/v1/1200x800.jpg",
+            "publishedAt": "2026-11-09T11:34:07Z",
+            "content": "Oil extended a slump amid optimism around diplomatic efforts to end the war in the Middle East, even as attacks in the region continue.\r\nGlobal benchmark Brent sank as much as 5.6%, beforing paring s… [+225 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Tesla expands robotaxi service to San Antonio - TechCrunch",
+            "description": "This will be the next Texas city in which Tesla will launch robotaxis.",
+            "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
+            "publishedAt": "2026-11-09T11:30:24Z",
+            "content": "Tesla is expanding its robotaxi service to another Texas city as it seeks to compete with Waymo and position itself as more than just an automaker. The company said in a post on X that it will make i… [+2666 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Endpoints.news"
+            },
+            "author": "Reynald Castaneda",
+            "title": "Argenx to acquire Unnatural Products in deal worth up to $1.15B - Endpoints News",
+            "description": "Argenx will buy macrocycle biotech Unnatural Products for $550M upfront and up to $1.15B total, adding oral peptide capabilities to its antibody work.",
+            "url": "https://endpoints.news/argenx-to-acquire-unnatural-products-in-deal-worth-up-to-1-15b/",
+            "urlToImage": "https://endpoints.news/wp-content/uploads/2026/11/argenx-unnatural-tile.jpg",
+            "publishedAt": "2026-11-09T11:23:00Z",
+            "content": "Ar­genx said Mon­day it will buy a macro­cy­cle biotech that start­ed out of a garage, pay­ing $550 mil­lion up­front in cash for Un­nat­ur­al Prod­ucts with"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WTOP"
+            },
+            "author": null,
+            "title": "Dulles Airport to unveil new concourse with 14 gates, restaurants and passenger lounge - WTOP News",
+            "description": "Dulles International Airport is preparing to open Concourse E, a new 14-gate facility with restaurants, retail space and expanded passenger amenities.",
+            "url": "https://wtop.com/virginia/2026/11/dulles-airport-to-unveil-new-concourse-with-14-gates-restaurants-and-passenger-lounge/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2026/11/iad_tier_2_east_cam-5-hres_final_copy_2-scaled.jpg",
+            "publishedAt": "2026-11-09T11:05:03Z",
+            "content": "Dulles International Airport is preparing to open a new concourse featuring additional gates, restaurants and passenger amenities, three years after construction began.\r\nReporters will get a first lo… [+2118 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Fake federal agents push seniors to turn savings into gold bars for couriers to collect - Fox News",
+            "description": "Scammers posing as FTC agents convinced retirees to buy gold bars and hand them to couriers using secret passwords like \"tulip\" at restaurants.",
+            "url": "https://www.foxnews.com/us/fake-federal-agents-push-seniors-turn-savings-gold-bars-couriers-collect",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Sunny-Gold_001.jpg",
+            "publishedAt": "2026-11-09T11:00:12Z",
+            "content": "Scammers posing as federal agents across the country are dispatching couriers armed with secret passwords to collect gold bars from retirees, in some cases draining their life savings.\r\nIn Laramie, W… [+4413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WLRN"
+            },
+            "author": "Daniel Rivero",
+            "title": "Miami's first 'supertall' building is nearing completion. More are coming - WLRN",
+            "description": "Within a few years, Florida will go from having no supertall buildings to having several, starting with the Waldorf Astoria. All are under construction or are planned to go up in the City of Miami. While the monument is considered an achievement, it also rais…",
+            "url": "https://www.wlrn.org/business/2026-11-09/miami-waldorf-astoria-supertall-building-condo",
+            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/8095a14/2147483647/strip/true/crop/728x382+0+15/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1d%2F09%2Fb7bd9b8c4ffcbeedba94b96f11a4%2Fwaldorf-astoria-miami-rendering.png",
+            "publishedAt": "2026-11-09T11:00:00Z",
+            "content": "Commuters passing from Miami Beach to the mainland on the MacArthur Causeway have in recent months seen a soon-to-be iconic building on the Miami skyline start to take shape: the Waldorf Astoria Hote… [+9600 chars]"
         },
         {
             "source": {
@@ -199,6 +693,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "What markets want from the Democrats - Financial Times",
+            "description": "Four policy priorities for the party to safeguard growth and sustain investor confidence",
+            "url": "https://www.ft.com/content/6a69328b-3acb-4a74-a909-92249ad959e4?syn-25a6b1a6\\\\u003d1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7a639980-ecfd-465a-a3dc-8224dbd784ed.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2026-11-09T05:00:26Z",
+            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        },
+        {
+            "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
@@ -235,6 +742,19 @@
             "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/21/1d97fd5a-c69d-4091-b9d7-574645dfa7ad/thumbnail/1200x630/0c8149bf27d219fe8c8b56e20f603e27/gettyimages-2285783561.jpg",
             "publishedAt": "2026-11-09T02:11:24Z",
             "content": "Nvidia has launched an independent investigation of its co-founder and CEO, Jensen Huang, over allegations that he was the target of an intelligence effort by China.\r\nThe allegations center around a … [+3209 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Paul  Burton",
+            "title": "Local grocery stores across New England running out of stock as truck drivers go on strike - CBS News",
+            "description": "Many grocery stores across New England have been cut off from suppliers due to an ongoing strike involving truck drivers and warehouse workers at Associated Grocers Northeast.",
+            "url": "https://www.cbsnews.com/boston/news/grocery-stores-truck-drivers-strike/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/08/2bd9448c-de59-474d-893d-ac60b11feb8f/thumbnail/1200x630/04780a5d6600d0f3b4e37ef5b0c62330/1108-burton-richardsons-market-6p-pkg-hi-res-still.jpg",
+            "publishedAt": "2026-11-09T00:05:58Z",
+            "content": "Many independent and local grocery stores across New England have been cut off from suppliers due to an ongoing strike involving truck drivers and warehouse workers at Associated Grocers Northeast (A… [+2137 chars]"
         },
         {
             "source": {
@@ -6072,591 +6592,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200",
             "publishedAt": "2026-11-03T23:37:45Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIm getting some real mixed messages here, boys!\r\nIm getting some real mixed messages here, boys!\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author will be adde… [+4902 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff - The Verge",
-            "description": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today.",
-            "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-03T22:59:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome Canva workers may have different roles, be asked to relocate, or be laid off.\r\nSome Canva workers may have different roles, be asked to relocate, or be laid… [+2392 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "Google Curbs AI in School Accounts After Pushback - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/tech/ai/google-curbs-ai-in-school-accounts-after-pushback-6b8021fc",
-            "urlToImage": null,
-            "publishedAt": "2026-11-03T22:53:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Ben Shimkus",
-            "title": "Canva CEO says a major reorganization will affect 22% of its workforce. Read the memo. - Business Insider",
-            "description": "Canva CEO Melanie Perkins wrote a memo explaining how a major reorganization will affect 22% of the company's workforce.",
-            "url": "https://www.businessinsider.com/canva-reorganization-layoffs-ceo-memo-2026-11#article",
-            "urlToImage": "https://i.insider.com/6aea57ab12aca86a55f548af?width=1200&format=jpeg",
-            "publishedAt": "2026-11-03T22:40:00Z",
-            "content": "Canva has announced a major restructuring.\r\nOn Tuesday, the design software company's CEO, Melanie Perkins, published a memo sent to employees titled \"An important update on our team.\" In it, she sai… [+10766 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Adam Levine, Nate Wolf",
-            "title": "AMD Stock Jumps on Big Earnings Beat - Barron's",
-            "description": "Advanced Micro Devices reports better-than-expected earnings for the third quarter and issues strong guidance for the rest of the year.",
-            "url": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465",
-            "urlToImage": "https://images.barrons.com/im-36678066/social",
-            "publishedAt": "2026-11-03T22:36:00Z",
-            "content": "Finally, some good news for the artificial-intelligence trade.Advanced Micro Deviceson Tuesday reported better-than-expected earnings for the third quarter and forecast a strong finish to the year on… [+145 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GQ Magazine"
-            },
-            "author": "Michael Nolledo, Reed Nelson",
-            "title": "Ready or Not, the Early Black Friday Menswear Deals Are Here - GQ",
-            "description": "The best early Black Friday clothing deals of 2026 include deals on Todd Snyder, Gap, J.Crew, Mr. Porter, and more. Here's everything we're buying—today and today only.",
-            "url": "https://www.gq.com/story/early-black-friday-clothing-deals-2026",
-            "urlToImage": "https://media.gq.com/photos/6aea148bbabb62dca0fdce4b/16:9/w_1280,c_limit/v1.png",
-            "publishedAt": "2026-11-03T22:33:34Z",
-            "content": "Huckberry\r\nIf youre not familiar with Huckberry, they preside over one of most thoughtfully curated assortments of menswear, footwear and gear anywhere, whether thats IRL or URL. They havent kicked o… [+673 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "CVS Health moves to dismantle $117bn healthcare empire - Financial Times",
-            "description": "Potential spin-off of drugstore business comes as political pressure mounts on pharmacy benefit managers and health insurers",
-            "url": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6\\\\u003d1",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F96bf127a-64a0-4fb4-a3a1-f1653190aa41.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-            "publishedAt": "2026-11-03T22:33:06Z",
-            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Emily Lang",
-            "title": "Rising food costs prompt big Outback Steakhouse franchisee to file for bankruptcy - New York Post",
-            "description": "One of the biggest owners of Outback Steakhouse restaurants in the country filed for bankruptcy this week, citing factors including rising food costs.",
-            "url": "https://nypost.com/2026/11/03/business/rising-food-costs-prompt-big-outback-steakhouse-franchisee-to-file-for-bankruptcy/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41658180.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-03T22:32:00Z",
-            "content": "One of the biggest owners of Outback Steakhouse restaurants in the country filed for bankruptcy this week, citing factors including rising food costs.\r\nCerca Trova Restaurant Group Holdings, the owne… [+2450 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Aditya Mehta",
-            "title": "Data centers are turning to old jet engines as the wait for power grows - TechCrunch",
-            "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-            "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
-            "publishedAt": "2026-11-03T22:19:53Z",
-            "content": "Stuck in years-long lines for grid connections and new turbines, some AI data centers are making their own electricity with converted jet engines, the New York Times reported Tuesday.\r\nThe engines, p… [+2714 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Richard Lawler",
-            "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist - The Verge",
-            "description": "The $6.3 billion crypto theft from Binance used malware served by a search ad, fake job interviews, and its own AI tool.",
-            "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932848/acastro_STK018__02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-03T22:04:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA North Korean hacking unit reportedly started its break-in with a search engine ad that served up a malware download.\r\nA North Korean hacking unit reportedly st… [+3824 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Stan Choe",
-            "title": "Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - AP News",
-            "description": "A rebound for some influential Big Tech stocks helped lift the U.S. market despite a drop for Apple and mixed trading elsewhere on Wall Street. The S&P 500 rose 0.4% Tuesday, even though the majority of stocks within the index fell. The Dow Jones Industrial A…",
-            "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-0d235af127a92c68da0cc2c45c028cef",
-            "urlToImage": "https://dims.apnews.com/dims4/default/882f757/2147483647/strip/true/crop/5315x3544+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6e%2F5c%2F7df9aa5342e6f228b8c4a888c362%2Ff1bac5978a7e45bbaf95eba37089b756",
-            "publishedAt": "2026-11-03T22:01:00Z",
-            "content": "NEW YORK (AP) A rebound for some influential Big Tech stocks lifted the U.S. market on Tuesday despite a drop for Apple and mixed trading elsewhere on Wall Street. \r\nThe S&amp;P 500 rose 0.4%, even t… [+4433 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": null,
-            "title": "Stock Market Today: Dow Dips Amid Midterm Elections; Palantir Slips, DuPont Surges Past Entry - Investor's Business Daily",
-            "description": "Stock Market Today: The Dow Jones index drops on Election Day, but Palantir fought its way up from session lows. Chip stocks outperform.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-election-day-apple-stock-palantir-stock/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2026/11/stock-voting-poll-booth-shutt.jpg",
-            "publishedAt": "2026-11-03T21:27:00Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Daniel Howley",
-            "title": "Supermicro tops Q1 estimates, offers strong Q2 outlook - Yahoo Finance",
-            "description": "Supermicro reported its Q1 earnings after the bell Tuesday.",
-            "url": "https://finance.yahoo.com/technology/article/supermicro-tops-q1-estimates-offers-strong-q2-outlook-220213885.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/62a95b813aaa8c69ccd5752048dc0a2e2dce03058ee77a9a1b3ac46ae0db4113/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4a44df89-81f2-4770-a49a-24dbaf1ee9d2",
-            "publishedAt": "2026-11-03T21:16:56Z",
-            "content": "Data center infrastructure company Supermicro (SMCI) reported its fiscal first quarter earnings after the bell on Tuesday, beating Wall Street's expectations on the top and bottom lines and providing… [+1914 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": null,
-            "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day - Investor's Business Daily",
-            "description": "Oil prices swung back and forth on Tuesday, extending losses from earlier in the week. Major oil stocks like Chevron and ExxonMobil also sank.",
-            "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2022/01/Stock-oilrig-sunset-06-adobe.jpg",
-            "publishedAt": "2026-11-03T21:07:00Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Julie Bort",
-            "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal - TechCrunch",
-            "description": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-            "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/Palantir-Alex-Karp.png?resize=1200,688",
-            "publishedAt": "2026-11-03T21:05:55Z",
-            "content": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were “crushing consensus expectations.”\r\nYet, retail investors were lukewar… [+3294 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Emilio Sanabria, Isabel DeBre",
-            "title": "Paraguay seizes major digital bank tied to president, leaving millions of customers in limbo - AP News",
-            "description": "Paraguay’s central bank has seized Ueno Bank, a major digital lender with close ties to President Santiago Peña, fueling a political crisis and threatening the country’s reputation among investors. The takeover leaves millions of customers’ savings and up to …",
-            "url": "https://apnews.com/article/paraguay-ueno-digital-bank-seizure-santiago-pena-9d7521ddee45a185d2618c7e09a243a3",
-            "urlToImage": "https://dims.apnews.com/dims4/default/b3f0955/2147483647/strip/true/crop/8640x5760+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2Fbe%2F7c064010361714e2c9c4ac381197%2Fdca5f24392ed4081bb1e00c4ee466ce7",
-            "publishedAt": "2026-11-03T20:37:00Z",
-            "content": "ASUNCIÓN, Paraguay (AP) Paraguays central bank seized a major digital lender with close ties to President Santiago Peña on Tuesday, fueling a political crisis and threatening the countrys burgeoning … [+6564 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Leslie Josephs",
-            "title": "JetBlue raises bag fees for third time in a year as fuel costs bite - CNBC",
-            "description": "JetBlue raised baggage fees for the third time in a year as fuel costs continued to climb.",
-            "url": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177264-1753465786241-gettyimages-2210810836-20250420_sd_airplanes_120.jpeg?v=1793743576&w=1920&h=1080",
-            "publishedAt": "2026-11-03T20:07:50Z",
-            "content": "Welcome to the era of the $70 bag fee.\r\nJetBlue Airways has raised the price of checking a bag for many customers for the third time in less than a year as high fuel costs continue to eat into the in… [+1362 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkei.com"
-            },
-            "author": "Staff Writer",
-            "title": "US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months - Nikkei Asia",
-            "description": "Google, Meta, others' commitments and obligations reach 80% of assets",
-            "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F3%2F4%2F13394319-2-eng-GB%2Faad3b104a912-photo_SXM2026103100004660.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-            "publishedAt": "2026-11-03T20:02:00Z",
-            "content": "PALO ALTO, California -- U.S. tech giants' off-balance-sheet debt from artificial intelligence-related obligations continues to balloon, almost doubling in six months to about $3.2 trillion, with inv… [+58 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": null,
-            "title": "Carl Icahn Buys A $4.2 Billion Slice Of The Refining Profit Surge - Investor's Business Daily",
-            "description": "Carl Icahn's oil refinery, CVR Energy, said Tuesday that it's paying $4.2 billion for Marathon Petroleum refineries as earnings boom.",
-            "url": "https://www.investors.com/news/carl-icahn-cvr-energy-inks-4-2-billion-deal-for-marathon-refineries/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2026/11/stock-marathon-pretroleum-trailer-company.jpg",
-            "publishedAt": "2026-11-03T19:54:00Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Law.com"
-            },
-            "author": "Cathy Chen",
-            "title": "Kirkland Gets Closer to Hiring Weil's Ramona Nee, Along With 20-Member Team - Law.com",
-            "description": "Nee's group is viewed as one of highest-performing groups left at Weil, leading to competition among multiple Big Law firms.",
-            "url": "https://www.law.com/americanlawyer/2026/11/03/kirkland-gets-closer-to-hiring-weils-ramona-nee-along-with-20-member-team-/",
-            "urlToImage": "https://images.law.com/brightspot/52/0e/20aa52ab4bda858c8079c67ec024/ramona-nee-jpg767x505-1.jpg",
-            "publishedAt": "2026-11-03T19:49:37Z",
-            "content": "Ramona Nee, with Weil. Courtesy photo\r\nKirkland &amp; Ellis is close to signing Ramona Nee, Weil Gotshal &amp; Manges' co-managing partner, alongside a team of about 20 others, according to multiple … [+245 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew J. Hawkins",
-            "title": "This Election Day, remember which party ran against EVs and tethered us all to the gas pump - The Verge",
-            "description": "Donald Trump and congressional Republicans spent years waging a culture war against EVs. Now, record gas prices and a foreign war are leaving voters stuck footing the bill at the pump.",
-            "url": "https://www.theverge.com/transportation/1025318/trump-gop-ev-war-record-gas-prices-midterms",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302796388.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-            "publishedAt": "2026-11-03T19:44:46Z",
-            "content": "Election 2026<ul><li></li><li></li><li></li></ul>\r\nDonald Trump and congressional Republicans spent years waging a culture war against EVs. Now, record gas prices and a foreign war are leaving voters… [+5258 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WFLA"
-            },
-            "author": "WFLA",
-            "title": "Cruise canceled after U.S. Coast Guard detains MSC ship in Florida - WFLA",
-            "description": null,
-            "url": "https://www.wfla.com/news/florida/cruise-canceled-after-u-s-coast-guard-detains-msc-ship-in-florida/",
-            "urlToImage": null,
-            "publishedAt": "2026-11-03T19:39:44Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Samantha Subin",
-            "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue - CNBC",
-            "description": "CrowdStrike launched an AI kill switch that the company says can stop internal agents, block relaunches and cut enterprise network access.",
-            "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216195-17612465932025-10-23t184722z_216618365_rc2shhavt0i3_rtrmadp_0_crowdstrike-hldg-ceo.jpeg?v=1761246644&w=1920&h=1080",
-            "publishedAt": "2026-11-03T19:35:24Z",
-            "content": "CrowdStrike is betting that it has a solution to rogue artificial intelligence. \r\nThe cybersecurity vendor on Tuesday launched an AI kill switch designed to let security teams stop internal AI agents… [+2370 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Ty Roush",
-            "title": "Shopify Stock Falls as Slowing Merchandise Sales Flash a Warning Sign - Barron's",
-            "description": "Shopify reports mixed third-quarter earnings.",
-            "url": "https://www.barrons.com/articles/shopify-earnings-stock-price-f5cec098",
-            "urlToImage": "https://images.barrons.com/im-60094970/social",
-            "publishedAt": "2026-11-03T19:24:00Z",
-            "content": "Advertisements for a growing number of digital rip platforms suggest they can help pay for food, rent, and gas. But users are more likely to lose money."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "One Mile at a Time"
-            },
-            "author": "Ben Schlappig",
-            "title": "JetBlue Leads The Industry In Raising Checked Bag Fees… Again! - One Mile at a Time",
-            "description": "JetBlue has raised checked bag fees again for tickets purchased as of November 3, 2026. A first domestic bag now costs $50-70, and competitors may follow.",
-            "url": "https://onemileatatime.com/news/jetblue-leads-industry-raising-checked-bag-fees-again/",
-            "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2021/08/JetBlue-Airbus-A321neo-JFK.jpeg",
-            "publishedAt": "2026-11-03T19:23:01Z",
-            "content": "For whatever reason, JetBlue tends to be the industry leader when it comes to raising checked bag fees, and competitors tend to follow. Earlier this year, JetBlue was the first major US carrier to ra… [+3107 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Matthew Choi, Chris Hacker, Jeremy B. Merrill",
-            "title": "Nearly $1.9 billion traded on midterms in booming prediction markets - The Washington Post",
-            "description": "Prediction markets are exploding in popularity, with more trades placed on the midterms this year than in any other election cycle.",
-            "url": "https://www.washingtonpost.com/politics/2026/11/03/nearly-19-billion-traded-midterms-booming-prediction-markets/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BT33IARX5KPIDZIPXNS3Q6ONAM_size-normalized.JPG&w=1440",
-            "publishedAt": "2026-11-03T19:00:00Z",
-            "content": "Americans had wagered nearly $1.9 billion on the midterm elections as of late Monday, risking money on over 7,000 different outcomes ranging from what a candidate will say in a specific campaign spee… [+85 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": null,
-            "title": "Pfizer CEO Touts $80 Billion In Deals — But 'The Real Test' Is Still Ahead - Investor's Business Daily",
-            "description": "But a portfolio manager says \"the real test\" lies ahead.",
-            "url": "https://www.investors.com/news/technology/pfizer-stock-pfizer-earnings-q3-2026/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-Pfizer-01-shutter.jpg",
-            "publishedAt": "2026-11-03T18:55:00Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI says ChatGPT is catching up to Google in search - The Verge",
-            "description": "ChatGPT processes one-fifth the volume of search queries as Google, per OpenAI.",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-03T18:30:42Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nChatGPT processes one-fifth the volume of search queries as Google, per OpenAI.\r\nChatGPT processes one-fifth the volume of search queries as Google, per OpenAI.\r… [+3731 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Former Weil partners lawyer up over firm’s wind-down - Financial Times",
-            "description": "Ex-partners are attempting to learn if their equity in firm will be worth anything",
-            "url": "https://www.ft.com/content/7f8b1f1e-6c7f-41c6-b100-e0d4f7892439?syn-25a6b1a6\\\\u003d1",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F811e3892-e680-4181-83d5-818e75b58d2f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-            "publishedAt": "2026-11-03T18:30:41Z",
-            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Christopher Rugaber",
-            "title": "US job postings jumped sharply in September, potentially a good sign for anyone seeking employment - AP News",
-            "description": "U.S. employers ramped up their job postings in September as stronger economic growth may be encouraging more hiring. Yet voters are headed to the polls Tuesday largely gloomy over an economy beset by higher prices. U.S. job openings jumped to 7.5 million from…",
-            "url": "https://apnews.com/article/job-openings-economy-inflation-layoffs-4f6f06216c943fc2f8306306fd3056e3",
-            "urlToImage": "https://dims.apnews.com/dims4/default/9f552ef/2147483647/strip/true/crop/2975x1984+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2F86%2Ffb8d56289aacaf58cc97e36ebcf3%2F9c3d71023eee43768c08eef9ba8a5dcb",
-            "publishedAt": "2026-11-03T17:48:00Z",
-            "content": "WASHINGTON (AP) U.S. employers ramped up their job postings in September as stronger economic growth may be encouraging more hiring. Yet voters are headed to the polls Tuesday largely gloomy over an … [+2975 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "David Hollerith",
-            "title": "Why the Anthropic IPO 'could be the swing vote' for Wall Street bank stocks - Yahoo Finance",
-            "description": "Despite reporting sturdy third quarter results in early October, signs of a slowdown in deals and trading activity have begun to pick up at US banks. The env...",
-            "url": "https://finance.yahoo.com/markets/article/why-the-anthropic-ipo-could-be-the-swing-vote-for-wall-street-bank-stocks-172030065.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/bf2b009f99f19b894dc787f65332557d8f1474d481d305a38ef2039e809c3eaf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F0d18ccdb-352e-4c05-aaeb-82dada11df1c_c7a3b095c2ace75585eda0127ce2de05a920ff80593af0c1cc74fbdb2bfae3f3.jpg",
-            "publishedAt": "2026-11-03T17:20:30Z",
-            "content": "After a rally through the first half of the summer, Wall Street bank stocks have lost their luster as rising interest rates threaten to cool their investment banking and trading booms that have power… [+3586 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Russell Brandom",
-            "title": "Anthropic is still grappling with the economics of compute - TechCrunch",
-            "description": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-            "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800",
-            "publishedAt": "2026-11-03T17:07:01Z",
-            "content": "Theres a lot of mystery around the finances of major AI labs, and as Anthropic inches towards it IPO, were starting to get some answers. In particular, the company is finally disclosing more about th… [+3881 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "Yum Says Taco Bell Sales Are Improving After Cyclospora Outbreak Fallout - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/business/earnings/yum-revenue-rises-despite-taco-bell-cyclospora-outbreak-fallout-04afd09a",
-            "urlToImage": null,
-            "publishedAt": "2026-11-03T16:55:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Bradford Betz",
-            "title": "Outback Steakhouse franchisee files for bankruptcy - Fox Business",
-            "description": "Outback Steakhouse parent Bloomin' Brands seeks to acquire 61 restaurants from bankrupt franchisee Out West in a $26.3 million deal subject to court approval.",
-            "url": "https://www.foxbusiness.com/lifestyle/outback-steakhouse-franchisee-files-bankruptcy",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/outback-steakhouse-Getty-003.jpg?ve=1&tl=1",
-            "publishedAt": "2026-11-03T16:45:00Z",
-            "content": "Outback Steakhouse parent company Bloomin' Brands is moving to acquire 61 restaurants operated by a major franchisee that filed for Chapter 11 bankruptcy protection.\r\nOut West Restaurant Group, which… [+2095 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OilPrice.com"
-            },
-            "author": "Tom Kool",
-            "title": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling - Crude Oil Prices Today | OilPrice.com",
-            "description": "Brent slipped below $105 this morning following a flurry of headlines suggesting growing momentum in U.S.-Iran peace talks, only for Tehran to subsequently dismiss the reports.",
-            "url": "https://oilprice.com/Energy/Crude-Oil/Trump-Bombs-Iran-Talks-Peace-and-Sends-Oil-Prices-Tumbling.html",
-            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-03_dwjquu5vop.jpg",
-            "publishedAt": "2026-11-03T16:43:43Z",
-            "content": "Britain faces a major political…\r\nHouthi strikes on Saudi oil…\r\nChevron is making a major…\r\nSet us as your preferred Google source\r\nBy Tom Kool - Nov 03, 2026, 10:43 AM CSTBrent slipped below $105 th… [+7588 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vail Daily News"
-            },
-            "author": "John Taylor",
-            "title": "Oasis unloads on Vail Resorts in proxy fight, citing long lines, overcrowding, rising food prices - VailDaily.com",
-            "description": "In a blistering, at times vicious attack on Vail Resorts management and its CEO Rob Katz, dissident shareholder Oasis Management urged shareholders Monday to support its two board nominees, portraying them as the company's greatest — and perhaps only — hope f…",
-            "url": "https://www.vaildaily.com/news/oasis-unloads-on-vail-resorts-in-proxy-fight-citing-long-lines-overcrowding-rising-food-prices/",
-            "urlToImage": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/7/2026/11/02144932/2020_massive_lift_lines_in_Vail-1024x902.jpg",
-            "publishedAt": "2026-11-03T16:24:36Z",
-            "content": "In a blistering, at times vicious attack on Vail Resorts management and its CEO Rob Katz, dissident shareholder Oasis Management urged shareholders Monday to support its two board nominees, portrayin… [+9997 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bring Me The News"
-            },
-            "author": "Bring Me The News",
-            "title": "Where to find food deals and discounts on Election Day in Minnesota - Bring Me The News",
-            "description": null,
-            "url": "https://bringmethenews.com/minnesota-lifestyle/where-to-find-food-deals-and-discounts-on-election-day-in-minnesota",
-            "urlToImage": null,
-            "publishedAt": "2026-11-03T16:19:33Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cartoon Brew"
-            },
-            "author": null,
-            "title": "Disney’s Year Of Cuts Continues With Thousands More Layoffs Expected - Cartoon Brew",
-            "description": "According to reports, managers have been asked to cut annual costs by 20%, with the savings coming from a mix of redundancies and other expense reductions.",
-            "url": "https://www.cartoonbrew.com/artist-rights/disney-layoffs-continue-thousands-of-cuts-268895.html",
-            "urlToImage": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Donalds-Crime.jpg",
-            "publishedAt": "2026-11-03T15:40:01Z",
-            "content": "Disney is once again planning to eliminate thousands of jobs, continuing a year of repeated redundancies and broader employee-unfriendly cuts under new CEO Josh DAmaro, even as the company commits bi… [+2730 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Catriona Marangi, Julia Boorstin",
-            "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20% - CNBC",
-            "description": "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant.",
-            "url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107325630-1698689874055-gettyimages-1727589260-ENTER-NEWS-DISNEY-100-YEARS-6-OS.jpeg?v=1793723161&w=1920&h=1080",
-            "publishedAt": "2026-11-03T15:38:58Z",
-            "content": "Disney is planning to cut several thousand jobs, people familiar with the matter told CNBC. \r\nSome managers at the entertainment giant have been asked to reduce costs by up to 20%, according to the p… [+1788 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jeff Cox",
-            "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report - CNBC",
-            "description": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
-            "url": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108371270-1790879822201-108371270-1790879753819-gettyimages-2297110581-jr_18977_itxxh7xj.jpg?v=1790879831&w=1920&h=1080",
-            "publishedAt": "2026-11-03T15:37:34Z",
-            "content": "Job openings surged in September, as did the number of workers who quit their positions, the Bureau of Labor Statistics reported Tuesday, while hiring also rose and layoffs dropped.\r\nIn its monthly l… [+1877 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Frank DeMatteo",
-            "title": "Apple’s ’unprecedented’ memory warning adds fuel to wobbly Micron, SK hynix trade - Yahoo Finance",
-            "description": "Investing.com -- Apple (NASDAQ:AAPL) may have delivered one of the clearest warnings yet that the global memory squeeze has further to run, giving investors...",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/apple-unprecedented-memory-warning-adds-153146150.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-            "publishedAt": "2026-11-03T15:31:46Z",
-            "content": "Investing.com -- Apple (NASDAQ:AAPL) may have delivered one of the clearest warnings yet that the global memory squeeze has further to run, giving investors another reason to watch Micron (NASDAQ:MU)… [+4360 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Keith Laing",
-            "title": "Trump faces 'highest ever' Election Day gas prices: How they compare - USA Today",
-            "description": "Gas prices have always been a powerful motivator for voters and this year appears to be shaping up to be no different.",
-            "url": "https://www.usatoday.com/story/cars/shopping/2026/11/03/gas-prices-2026-midterm-election-day/92583294007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/23/USAT/91903049007-20260320-t-192028-z-373992506-rc-2-f-8-ka-6-v-9-yy-rtrmadp-3-irancrisisenergy.JPG?crop=4239,2385,x0,y141&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2026-11-03T15:31:00Z",
-            "content": "<ul><li>Gas prices are a top concern for voters heading into the midterm elections.</li><li>President Trump is facing record-high gas prices for an election day compared to his predecessors.</li><li>… [+4115 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Al Root",
-            "title": "Tesla-SpaceX Merger: What the Marvell-Lumentum Backlash Tells Investors - Barron's",
-            "description": "Tesla investors expect a merger with SpaceX. With all-stock tie-ups, be careful what you wish for. Just look at Marvell and Lumentum.",
-            "url": "https://www.barrons.com/articles/tesla-spacex-merger-marvell-lumentum-warning-89deba51",
-            "urlToImage": "https://images.barrons.com/im-33437391/social",
-            "publishedAt": "2026-11-03T15:09:00Z",
-            "content": "It almost goes without saying:TeslainvestorsexpectamergerwithSpaceX, with the latter offering a premium in an all-stock deal. SpaceX might offer a 20% or 30% premium, pushing Tesla stock as high as $… [+103 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Uncoveralpha.com"
-            },
-            "author": "UncoverAlpha",
-            "title": "The Capital Wall: The AI Buildout Is Running Out of External Capital - UncoverAlpha",
-            "description": "The AI buildout has hit a new bottleneck, and it sits underneath all the others. For three years, the constraints were physical: GPUs, CoWoS, HBM, power, turbines. Now the constraint is capital.",
-            "url": "https://www.uncoveralpha.com/p/the-capital-wall-the-ai-buildout",
-            "urlToImage": "https://substackcdn.com/image/fetch/$s_!xigs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F567e6c2e-7370-41c6-b6da-ea7b885f63f0_2688x1688.png",
-            "publishedAt": "2026-11-03T15:04:55Z",
-            "content": "Hey everyone,\r\nSeventeen days in October told us a lot about the next phase of the AI buildout, and its not insignificant.\r\nOn October 14, CoreWeave fell 15% in a single day as its bonds started trad… [+25282 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Al Root",
-            "title": "SpaceX and Musk Have Big Wireless Ambitions. Boost Mobile Won’t Fulfill Them. - Barron's",
-            "description": "A Boost Mobile deal doesn’t get SpaceX much closer to offering mobile wireless service.",
-            "url": "https://www.barrons.com/articles/spacex-stock-boost-mobile-wireless-musk-71d20839",
-            "urlToImage": "https://images.barrons.com/im-11752309/social",
-            "publishedAt": "2026-11-03T15:03:00Z",
-            "content": "Neurocrine Biosciences stock jumped after strong quarterly earnings. Its gains are fueled by more than just its flagship drug, Ingrezza."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Mackenzie Tatananni",
-            "title": "Pfizer Bets on Cancer and Weight-Loss Drugs in Post-Pandemic Second Act - Barron's",
-            "description": "Pfizer raises full-year guidance on the back of its latest quarter, citing growth in non-Covid offerings and acquired products.",
-            "url": "https://www.barrons.com/articles/pfizer-earnings-stock-price-2b7eecf3",
-            "urlToImage": "https://images.barrons.com/im-33759617/social",
-            "publishedAt": "2026-11-03T14:53:00Z",
-            "content": "Pfizerspost-pandemic transformation has been gathering pace, powered by growth in oncology and an an aggressive push into next-generation weight-loss drugs.\r\nCopyright ©2026Dow Jones &amp; Company, I… [+56 chars]"
         }
     ]
 }
